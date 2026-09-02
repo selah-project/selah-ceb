@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug gihimo niya ⟨את⟩ ang eifod — bulawan, tekhelet, argaman, ug tolaat shani, ug shesh nga minasol.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eifod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "eifod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "minasol"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:35.075793127Z",
+  "model": "glm-5.3"
+}

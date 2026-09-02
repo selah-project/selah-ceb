@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gibutang niya ⟨את⟩ ang usa sa Beit-El, ug ⟨את⟩ ang usah gipahimutang niya sa Dan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Gibutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang usah"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usah"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gipahimutang niya"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "sa Dan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:21.228482178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug molambo sila taliwala sa mga sagbot, ingon sa mga willow dapit sa mga sapa sa tubig.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "ug molambo sila"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "mga sagbot"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "ingon sa mga willow"
+    },
+    {
+      "surface": "על",
+      "gloss": "dapit sa"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:35.133577977Z",
+  "model": "glm-5.3"
+}

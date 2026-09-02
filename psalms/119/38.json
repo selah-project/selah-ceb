@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Palig-on sa imong sulugoon ang imong gisulti, ⟨nga⟩ nagatudlo sa pagkahadlok kanimo.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Palig-on"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa imong sulugoon"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imong gisulti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "sa pagkahadlok kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:24.506108985Z",
+  "model": "glm-5.3"
+}

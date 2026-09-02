@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug paumnon sa sacerdote ⟨ang⟩ ⟨את⟩ babaye, ug ipatindog siya atbang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ug paumnon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang babaye)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "והעמידה",
+      "gloss": "ug ipatindog siya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:55.374682039Z",
+  "model": "glm-5.3"
+}

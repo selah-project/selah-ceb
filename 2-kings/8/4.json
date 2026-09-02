@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang hari nagpakigstorya kang Gechazi, alagad sa tawo sa ⟨ang⟩ Elohim, nga nag-ingon: Isaysay ⟨את⟩ ngadto kanako, palihog, ang tanan nga mga dako nga buhat nga gibuhat ni Elisha.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ug ang hari"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nagpakigstorya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "alagad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨sa⟩ Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Isaysay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngadto kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga dako nga buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "mga dako nga buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ni Elisha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:07.891270586Z",
+  "model": "glm-5.3"
+}

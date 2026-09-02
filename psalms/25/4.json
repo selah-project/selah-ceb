@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ang imong mga dalan, Yahweh, ipaila ⟨kanako⟩; ang imong mga agianan tudloa ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Ang imong mga dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ipaila kanako"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ang imong mga agianan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tudloa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.092141787Z",
+  "model": "glm-5.3"
+}

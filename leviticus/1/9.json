@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang iyang sulod sulod ug ang iyang mga tiil pagahimoon niyang maligo sa tubig; ug ipaaso sa kohen ⟨את⟩ ang tanan sa ibabaw sa halaran — ⟨nga⟩ halad nga sinunog, halad nga paagi sa kalayo, baho nga nakapahulay alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "ug ang iyang sulod sulod"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "ug ang iyang mga tiil"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "pagahimoon niyang maligo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ug ipaaso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa ibabaw sa halaran"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga sinunog"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad nga paagi sa kalayo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "baho"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "nakapahulay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:52.729036072Z",
+  "model": "glm-5.3"
+}

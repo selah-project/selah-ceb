@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug kang mga anak ni Aharon ang ilang mga bahin-bahin: ang mga anak ni Aharon ⟨mao ang⟩ Nadav ug Avihu, Elazar ug Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ug kang mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ang ilang mga bahin-bahin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ug Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ug Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:39.913135987Z",
+  "model": "glm-5.3"
+}

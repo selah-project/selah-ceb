@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug kuhaon niya ⟨את⟩ ang tiyan niini uban sa buni niini, ug isalibay niya ⟨את⟩ ⟨kini⟩ sa sidlakan sa halaran, ngadto sa dapit sa abo.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "ug kuhaon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tiyan niini"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ang tiyan niini"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "uban sa buni niini"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ug isalibay niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨kini⟩",
+      "marks": "ang tiyan uban sa buni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "sa abo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:49.473663027Z",
+  "model": "glm-5.3"
+}

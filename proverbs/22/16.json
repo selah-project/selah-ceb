@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang nagdusot sa kabos aron madaghan ⟨kaniya⟩, ug ang naghatag sa adunahan — sa kakulang gayod.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "nagdusot"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kabos"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "aron madaghan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "sa adunahan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "sa kakulang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:56.729158160Z",
+  "model": "glm-5.3"
+}

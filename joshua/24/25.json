@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Gibuhat ni Yehoshua ang usa ka berit alang sa ⟨ang⟩ katawhan nianang adlawa, ug gipatindog niini alang kanila ang usa ka hok ug mishpat sa Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "gibuhat ang berit"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "alang sa katawhan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "niadto nga adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "חק",
+      "gloss": "hok"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug mishpat"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "sa Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:23.353245131Z",
+  "model": "glm-5.3"
+}

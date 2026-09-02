@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Si Yisrael giluwas diha kang Yahweh — pagluwas nga dayon hangtod sa kahangturan; dili kamo mapakaulaw ug dili kamo malain hangtod sa mga panahon sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "giluwas"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "diha kang Yahweh"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "pagluwas"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "dayon hangtod sa kahangturan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "kamo mapakaulaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "kamo malain"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "mga panahon sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:07.101335437Z",
+  "model": "glm-5.3"
+}

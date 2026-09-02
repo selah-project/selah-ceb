@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Pag-awit kamo kang Yahweh ug bag-ong awit; ang pagdayeg kaniya gikan sa kinatumyan sa yuta — kamo nga manaug ngadto sa dagat ug sa tanan nga anaa niini, ang mga pulo ug ang mga pumoluyo niini.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Pag-awit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang pagdayeg kaniya"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gikan sa kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kamo nga manaug"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ngadto sa dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ug sa tanan nga anaa niini"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ang mga pulo"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ug ang mga pumoluyo niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:21.733455683Z",
+  "model": "glm-5.3"
+}

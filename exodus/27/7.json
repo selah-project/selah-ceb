@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug isulod ⟨את⟩ ang iyang mga baras sa mga singsing, ug ang mga baras anaa sa duha ka kilid sa halaran sa pagdala ⟨את⟩ niini.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ug isulod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga baras"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang iyang mga baras"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug ang mga baras magpabilin"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga baras"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang halaran)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:34.998114738Z",
+  "model": "glm-5.3"
+}

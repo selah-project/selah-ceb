@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Kamo nga nagahigugma kang Yahweh, kadluti ang daotan; nagabantay siya sa mga kalag sa iyang mga matinud-anon, gikan sa kamot sa mga dautan iyang silbon sila.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Kamo nga nagahigugma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "kadluti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay siya"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "mga kalag"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sa iyang mga matinud-anon"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "iyang silbon sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:48.683588145Z",
+  "model": "glm-5.3"
+}

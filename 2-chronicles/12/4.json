@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug iyang gikuha ⟨את⟩ ang mga lungsod nga pinatig-a nga sakop sa Yehuda, ug miduangat siya hangtod sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ug iyang gikuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga lungsod nga pinatig-a"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ang mga lungsod"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "nga pinatig-a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sakop sa Yehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miduangat siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:27.188755143Z",
+  "model": "glm-5.3"
+}

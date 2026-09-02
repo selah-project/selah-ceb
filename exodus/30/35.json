@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug buhata nimo ⟨את⟩ kini ingong insenso — sagol, buhat sa magtutimb, may asin, dalisay, balaan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ug buhata nimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang insenso)"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "sagol"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "sa magtutimb"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "may asin"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "dalisay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:08.790775645Z",
+  "model": "glm-5.3"
+}

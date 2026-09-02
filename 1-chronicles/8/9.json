@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug natawan siyag anak gikan kang Khodesh ⟨ang⟩ iyang asawa: ⟨את⟩ si Yovav, ug ⟨את⟩ si Tsivya, ug ⟨את⟩ si Mesha, ug ⟨את⟩ si Malkam.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "natawan siyag anak"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan kang"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Khodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang iyang asawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Tsivya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsivya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Malkam"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:11.072326987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Nakadungog si Tsiyon ug nagmalipayon, ug nagmalipayon ang mga anak nga babaye ni Yehudah, tungod sa imong mga pagatalinghaga, o Yahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "nakadungog si"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ug nagmalipayon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ug nagmalipayon ang"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babaye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imong mga pagatalinghaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.175871818Z",
+  "model": "glm-5.3"
+}

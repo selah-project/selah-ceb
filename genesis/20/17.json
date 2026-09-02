@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Nag-ampo si Avraham ngadto kang Elohim, ug gipaulay ang Elohim ⟨את⟩ ni Avimelekh ug ⟨את⟩ ang iyang asawa ug ang iyang mga sulugoon nga babaye, ug nanganak sila.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "nag-ampo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ug gipaulay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ni Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang iyang asawa"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "ug ang iyang mga sulugoon nga babaye"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ug nanganak sila"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:32.689901392Z",
+  "model": "glm-5.3"
+}

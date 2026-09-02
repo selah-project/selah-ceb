@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Kay ako nahimong ⟨ingon sa⟩ bag sa aso, apan ang imong mga_statuto wala nako kalimti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako nahimong"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "⟨ingon sa⟩ bag"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "sa aso"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang imong mga statuto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nako kalimti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:05.188860203Z",
+  "model": "glm-5.3"
+}

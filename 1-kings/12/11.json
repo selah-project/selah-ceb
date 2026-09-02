@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug karon, ang akong amahan nagbutang kaninyo ug bug-at nga pag-atol, ug ako magadugang sa inyong pag-atol; ang akong amahan nagdisiplina ⟨את⟩ kaninyo sa mga latigo, ug ako magadisiplina ⟨את⟩ kaninyo sa mga alakdan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "pag-atol"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "inyong pag-atol"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagdisiplina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "sa mga latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "magadisiplina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "sa mga alakdan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:26.599088764Z",
+  "model": "glm-5.3"
+}

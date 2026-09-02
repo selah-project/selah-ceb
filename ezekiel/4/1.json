@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ikaw, anak sa tawo, pagkuha ⟨⟨ikaw⟩⟩ ug usa ka laryo, ug ibutang kini ⟨את⟩ sa imong atubangan, ug iguhit mo diha niini ang usa ka dakbayan ⟨את⟩ — ang Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pagkuha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ug usa ka laryo"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ug ibutang kini"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong atubangan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubanga"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ug iguhit mo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "diha niini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ang usa ka dakbayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:34:20.861707169Z",
+  "model": "glm-5.3"
+}

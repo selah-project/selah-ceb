@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Yahweh miingon: Si Yehudah mosaka; ania karon, gihatag ko ⟨את⟩ ang yuta ngadto sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ngadto sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:29.243872554Z",
+  "model": "glm-5.3"
+}

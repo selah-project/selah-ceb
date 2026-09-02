@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ang among mga amahan sa Mitsrayim wala magtahum sa imong mga katingalah-an; wala nila hinumdoman ⟨את⟩ ang kadaghanan sa imong mga hesed (maloloy-on nga gugma), ug nagrebelde sila batok sa dagat, sa Dagat sa Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "ang among mga amahan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "magtahum"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "sa imong mga katingalah-an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "hinumdoman nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kadaghanan sa imong mga hesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ang kadaghanan"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "sa imong mga hesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ug nagrebelde sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sa Suf"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.424578148Z",
+  "model": "glm-5.3"
+}

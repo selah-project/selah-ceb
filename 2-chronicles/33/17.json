@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Bisan pa niana, ang katawhan nagpadayon pag-usab sa paghalad sa mga bamos, apan ra kang Yahweh, sa ilang Elohim.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Bisan pa niana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nagpadayon pag-usab"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "naghalad"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga bamos"
+    },
+    {
+      "surface": "רק",
+      "gloss": "apan ra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa ilang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:34.476757106Z",
+  "model": "glm-5.3"
+}

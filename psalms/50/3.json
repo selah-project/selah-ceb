@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Moanhi ang atong Elohim, ug ayaw ⟨siya⟩ paghilum: kalayo ang mokaon sa iyang atubangan, ug sa iyang palibot nagbagyo kini ⟨nga⟩ labi na.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "moanhi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "paghilum"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iyang atubangan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ang mokaon"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "ug sa iyang palibot"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "nagbagyo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labi na"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:34.003048725Z",
+  "model": "glm-5.3"
+}

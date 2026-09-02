@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Maayo ⟨ang⟩ ngalan kay sa mamahalon nga lana, ug ang adlaw sa kamatayon kay sa adlaw sa pagkatawo ⟨niya⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "angan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kay sa mamahalon nga lana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mamahalon"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ug ang adlaw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kay sa adlaw"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "sa pagkatawo niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:23.534177118Z",
+  "model": "glm-5.3"
+}

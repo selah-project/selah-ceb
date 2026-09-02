@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gihimo mo ang tawo sama sa mga isda sa dagat, sama sa mga mananap nga nagakamang nga walay nagadumala ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "Ug gihimo mo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "sama sa mga isda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "sama sa mga nagakamang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "משל",
+      "gloss": "nagadumala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:11.891441277Z",
+  "model": "glm-5.3"
+}

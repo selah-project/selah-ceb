@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 9:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kay ang tanan ⟨nga⟩ sapin sa nagbatakay sa kagubot, ug ang bisti nga gigula sa dugo — mahimong masunog, nga panggasoy sa kalayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "סאון",
+      "gloss": "sapin"
+    },
+    {
+      "surface": "סאן",
+      "gloss": "sa nagbatakay"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "sa kagubot"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ug ang bisti"
+    },
+    {
+      "surface": "מגוללה",
+      "gloss": "nga gigula"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לשרפה",
+      "gloss": "masunog"
+    },
+    {
+      "surface": "מאכלת",
+      "gloss": "panggasoy"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:54.682627114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Busa nagpadala si Ahab sa taliwala sa tanan nga mga anak nga lalaki sa Israel, ug gitigom ⟨niya⟩ ⟨את⟩ ang mga propeta ngadto sa bukid sa Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa taliwala sa tanan nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ug gitigom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga propeta"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ang mga propeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "sa Karmel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:48.464433191Z",
+  "model": "glm-5.3"
+}

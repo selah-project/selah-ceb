@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 128,
+  "translation": "Tan-awa, kay ingon niini pagabarugan ug panalangin ⟨ang⟩ tawo nga nagakahadlok kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pagabarugan ug panalangin"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "⟨ang⟩ tawo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:40.812234200Z",
+  "model": "glm-5.3"
+}

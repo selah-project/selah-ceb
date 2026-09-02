@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug mitubag ang katawhan ug miingon: Layo unta kanamo nga biyaan ⟨את⟩ si Yahweh sa pag-alagad sa laing mga dios.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ug mitubag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Layo unta"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "nga biyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "laing"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:33.626844013Z",
+  "model": "glm-5.3"
+}

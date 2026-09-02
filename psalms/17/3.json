@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Gisulayan mo ang akong kasingkasing; gisuhid mo ⟨ako⟩ sa gabii; giputo mo ako — wala ka makakaplag; ang akong mga hunahuna dili molapas sa akong baba.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Gisulayan mo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "gisuhid mo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "giputo mo ako"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ka makakaplag"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ang akong mga hunahuna"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "molapas"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:23.239737840Z",
+  "model": "glm-5.3"
+}

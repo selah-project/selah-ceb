@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Sa usa ka gilti magyiti ako mahitungod sa usa ka nasod ug mahitungod sa usa ka gingharian, sa pagpano-o ug sa pagguba ug sa paglaglag niini;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "Sa usa ka gilti"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "magyiti ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "usa ka nasod"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug mahitungod sa"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "usa ka gingharian"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "sa pagpano-o"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "ug sa pagguba"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "ug sa paglaglag niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:20:54.428665153Z",
+  "model": "glm-5.3"
+}

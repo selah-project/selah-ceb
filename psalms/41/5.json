@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ako nagaingon: Yahweh, kaluy-i ako, ayuhon ang akong kalag, kay nakasala ako ⟨kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaluy-i ako"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "ayuhon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakasala ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kanimo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:10.239915113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nakong giingon sa akong kasingkasing: Lakaw karon, sulayon nako ang akong kaugalingon ug kalipay, ug tan-awa ang maayo — ug ania kini, kini usab ⟨ang⟩ hebel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "giingon nako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Lakaw karon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "sulayon nako"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ug kalipay"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:49.741483357Z",
+  "model": "glm-5.3"
+}

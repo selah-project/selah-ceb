@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Gipalibutan ako sa mga pisi sa kamatayon, ug nakit-an ako sa mga kakugnan sa Sheol; kagul-anan ug kasubo nadiskubre ko.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "gipalibutan ako"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "sa mga pisi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ug sa mga kakugnan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nakit-an ako"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kagul-anan"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "ug kasubo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nadiskubre ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.659765623Z",
+  "model": "glm-5.3"
+}

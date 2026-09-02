@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Oo, sa dalan sa imong mga paghukom, Yahweh, naghulat kami kanimo; sa imong Ngalan ug sa imong paghandum ⟨mao ang⟩ gitinguha sa ⟨among⟩ kalag.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sa imong mga paghukom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "naghulat kami kanimo"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa imong Ngalan"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "ug sa imong paghandum"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "gitinguha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:17.939039919Z",
+  "model": "glm-5.3"
+}

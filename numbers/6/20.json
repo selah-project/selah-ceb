@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 6:20",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug iuyog sa saserdote ⟨את⟩ sila isip halad nga giuyog atubang ni Yahweh; balaan kini alang sa saserdote, uban ang dughan sa halad nga giuyog ug ang tiil sa halad nga gipanganod; ug human niana makainom na ang Nazareo ug bino.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "ug iuyog"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga butang)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "isip halad nga giuyog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "alang sa saserdote"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ang dughan"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "sa halad nga giuyog"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug uban"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ang tiil"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "sa halad nga gipanganod"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ug human niana"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "makainom na"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "ang Nazareo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ug bino"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:09.526104651Z",
+  "model": "glm-5.3"
+}

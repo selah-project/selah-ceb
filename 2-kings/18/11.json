@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gipapaila sa hari sa Ashur ⟨את⟩ ang Israel ngadto sa Ashur, ug gipahimutang niya sila sa Chalach ug sa Chavor, suba sa Gozan, ug sa mga dakbayan sa Maday.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ug gipapaila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ngadto sa Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ug gipahimutang niya"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "sa Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ug sa Chavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "sa Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ug sa mga dakbayan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sa Maday"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:31.100461595Z",
+  "model": "glm-5.3"
+}

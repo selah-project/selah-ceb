@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang hari nga si Koresh nagpagula ⟨את⟩ sa mga sudlanan sa balay ni Yahweh, nga iyang gipagula si Nevukhadnetstsar gikan sa Yerushalayim ug gibutang niya kini sa balay sa iyang mga dios.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nagpagula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sudlanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "gipagula"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "si Nevukhadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "gikan sa Yerushalayim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ug gibutang niya kini"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sa iyang mga dios"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:04.920296621Z",
+  "model": "glm-5.3"
+}

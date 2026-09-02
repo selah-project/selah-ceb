@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": " sa pal-ang ug sa pana magaabot ⟨ang tawo⟩ didto, kay shavir ug shayit mahimong ang tibook nga yuta",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "sa pal-ang"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "ug sa pana"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "magaabot"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shamir"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ug shayit"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:55.709078806Z",
+  "model": "glm-5.3"
+}

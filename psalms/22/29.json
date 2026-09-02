@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kay kang Yahweh ⟨ang⟩ paghari, ug momolohiya siya sa ⟨mga⟩ nasod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "⟨ang⟩ paghari"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ug momolohiya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa ⟨mga⟩ nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:34.253232799Z",
+  "model": "glm-5.3"
+}

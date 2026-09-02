@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Nahunong ang kalipay sa atong kasingkasing, ang atong sayaw nahimong pagbangutan.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "nahunong"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "pagbangutan"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "sayaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:20.204778485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ang puthaw gipakamahinungdan sa puthaw, ug ang tawo nagpaka mahinungdan sa dagway sa iyang kaabay.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "puthaw"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "sa puthaw"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "gipakamahinungdan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nagpaka mahinungdan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa dagway"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa iyang kaabay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:21.862494425Z",
+  "model": "glm-5.3"
+}

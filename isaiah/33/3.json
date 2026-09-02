@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Gikan sa tingog sa kagubot nanagan ang mga katawhan; gikan sa imong pagtungtong napatibulaag ang mga nasod.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "gikan sa tingog"
+    },
+    {
+      "surface": "המון",
+      "gloss": "sa kagubot"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nanagan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "gikan sa imong pagtungtong"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "napatibulaag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:04:11.559442728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Unsa nga kapuslanan ang adunay sa tawo sa tanan niyang kahago nga iyang hago-on ⟨sa⟩ ubos sa adlaw?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kapuslanan"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "niyang kahago"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "nga iyang hago-on"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:39.291299465Z",
+  "model": "glm-5.3"
+}

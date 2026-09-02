@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 10:3",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang mga kerub nagatindog sa tuo nga kilid sa ⟨ang⟩ balay sa pag-sulod sa tawo, ug ang panganod napuno sa ⟨את⟩ ⟨ang⟩ sulod nga nataran.",
+  "tokens": [
+    {
+      "surface": "והכרבים",
+      "gloss": "Ug ang mga kerub"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sa tuo nga kilid"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa ⟨ang⟩ balay"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "sa pag-sulod"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ug ang panganod"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ sulod nga nataran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨ang⟩ nataran"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "sulod nga"
+    }
+  ],
+  "timestamp": "2026-09-01T21:36:02.210878882Z",
+  "model": "glm-5.3"
+}

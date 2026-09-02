@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Human niining mga butanga, pagkahugno sa kaligutgut ni Haring Akhashverosh, namatdan niya ⟨את⟩ si Vashti, ug ⟨את⟩ ang iyang gibuhat, ug ⟨את⟩ ang gihukman batok kaniya.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Human niining"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga butanga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "pagkahugno"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa kaligutgut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ni Haring"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "namatdan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "si Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang gibuhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "iyang gibuhat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang gihukman batok kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "gihukman"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:36.113142887Z",
+  "model": "glm-5.3"
+}

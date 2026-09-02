@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ania karon, ikaw nakadungog ⟨את⟩ ⟨sa⟩ gibuhat sa mga hari sa Ashur ngadto sa tanan ⟨mga⟩ nasud — sa paglaglag nila; ug ikaw, maluwas ⟨ba⟩ ikaw?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa gibuhat sa mga hari sa Ashur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngadto sa tanan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "sa paglaglag nila"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "maluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:03.631944596Z",
+  "model": "glm-5.3"
+}

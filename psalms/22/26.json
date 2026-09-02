@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Gikan ⟨את⟩ Kanimo ang akong pagdayeg, diha sa dakong katigomnan; ang akong mga gisaad tumanon ko atubang sa mga nangahadlok Kaniya.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ gikan Kanimo",
+      "marks": "ang akong pagdayeg"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ang akong pagdayeg"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "diha sa katigomnan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ang akong mga gisaad"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "tumanon ko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "sa mga nangahadlok Kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:28.727814402Z",
+  "model": "glm-5.3"
+}

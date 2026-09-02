@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ayaw ninyo pagputol ang kilid sa inyong ulo, ug ayaw nimo paglaglag ⟨את⟩ ang kilid sa imong barbas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "ninyo pagputol"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ang kilid"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "sa inyong ulo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "nimo paglaglag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kilid sa imong barbas"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ang kilid"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "sa imong barbas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:01.681061807Z",
+  "model": "glm-5.3"
+}

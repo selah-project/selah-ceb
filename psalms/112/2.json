@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Kusgan ⟨sa⟩ yuta ang iyang kaliwat; hiusa nga matarong ⟨ang⟩ hiusa nga madawat ug panalangin.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "kusgan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mangama"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ang iyang kaliwat"
+    },
+    {
+      "surface": "דור",
+      "gloss": "hiusa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "madawat ug panalangin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:05.778691538Z",
+  "model": "glm-5.3"
+}

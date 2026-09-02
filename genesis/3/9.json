@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gingtawag ni Yahweh Elohim ⟨את⟩ ⟨ang⟩ tawo, ug giingon siya: Asa ka?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gingtawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug giingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Asa ka"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:00.250871225Z",
+  "model": "glm-5.3"
+}

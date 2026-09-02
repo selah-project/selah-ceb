@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Sa haligi sa panganod nakig-estorya Siya kanila; gipanipad nila ang iyang mga pagsaksi, ug ang batas nga iyang gihatag kanila.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "Sa haligi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "sa panganod"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nakig-estorya Siya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gipanipad nila"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ang iyang mga pagsaksi"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ug ang batas"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:28.012168728Z",
+  "model": "glm-5.3"
+}

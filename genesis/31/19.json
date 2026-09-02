@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug si Lavan milakaw sa pagpanggas ⟨את⟩ sa iyang mga karnero, ug si Rahel nangawat ⟨את⟩ sa mga terafim nga iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "ug si Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "sa pagpanggas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga karnero"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "iyang mga karnero"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "nangawat"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "si Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "mga terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:56.168070787Z",
+  "model": "glm-5.3"
+}

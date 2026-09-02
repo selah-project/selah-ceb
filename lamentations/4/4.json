@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Nagapilit ang dila sa nagasuso ⟨nga bata⟩ ngadto sa iyang ngalian tungod sa uhaw; ang mga gagmayng bata nagpangayo ug pan, ⟨apan⟩ walay mobahin ⟨ug pan⟩ kanila.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "nagapilit"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ang dila"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "sa nagasuso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "iyang ngalian"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "tungod sa uhaw"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ang mga gagmayng bata"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "nagpangayo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "mobahin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:04.226904931Z",
+  "model": "glm-5.3"
+}

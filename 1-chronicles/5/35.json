@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug si Aḥimaats natawan ⟨את⟩ si Azaryah, ug si Azaryah natawan ⟨את⟩ si Yohanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ug si Aḥimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "si Azaryah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ug si Azaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yohanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "si Yohanan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:30.116967248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Mga palaso sa makusgan nga hanasad, kauban ang mga baga sa retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Mga palaso"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sa makusgan"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "nga hanasad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kaubang"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "mga baga"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "sa retama"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:23.519288830Z",
+  "model": "glm-5.3"
+}

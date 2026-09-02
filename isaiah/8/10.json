@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Magpanag-iya kamo ug tambag ug ⟨kini⟩ mapungngi; sultihi kamo ug pulong ug dili kini motindog, kay El ⟨naa⟩ uban kanamo.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "magpanag-iya kamo ug"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "ug mapungngi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sultihi kamo ug"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "motindog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "uban kanamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:15.966120833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nahibalo ako nga walay maayo kanila kondili ang pagmalipayon ug ang pagbuhat ug maayo sa ilang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ang pagmalipayon"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ug ang pagbuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ug maayo"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "sa ilang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:39.060121022Z",
+  "model": "glm-5.3"
+}

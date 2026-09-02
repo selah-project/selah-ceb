@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang kabaliksan sa mga buang magpahasol sa ila ⟨kaugalingon⟩ — nga wala makabalo unsaon ang pag-adto sa dakbayan.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "kabaliksan"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "sa mga buang"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "magpahasol sa ila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makabalo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "pag-adto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:33.190424986Z",
+  "model": "glm-5.3"
+}

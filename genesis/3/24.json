@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gipapahawa niya ⟨את⟩ ang tawo, ug nagpuyo siya sa sidlakan sa tanaman sa Eden ⟨את⟩ ang mga kerub ug ⟨את⟩ ang yapin sa espada nga nagtuyok-tuyok, sa pagbantay ⟨את⟩ sa dalan ngadto sa kahoy sa kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "gipapahawa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "nagpuyo siya (nagbutang siya sa pagpuyo)"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kerub"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ang mga kerub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang yapin sa espada"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ang yapin (anga-nga sa kalayo)"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "nagtuyok-tuyok"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dalan ngadto sa kahoy sa kinabuhi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sa kahoy"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sa kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:59.500592765Z",
+  "model": "glm-5.3"
+}

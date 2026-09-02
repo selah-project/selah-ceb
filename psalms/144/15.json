@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Malipayon ang katawhan nga ingon niana ⟨ang kahimtang⟩; oo, malipayon ang katawhan nga si Yahweh ⟨ang⟩ Elohim niini.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nga ingon niana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niini\/kanila"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "nga si Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ang Elohim niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:02.279811701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Mobalik ang kadaot ngadto sa akong mga kaaway; sa imong pagkamatinud-anon papason mo sila.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ngadto sa akong mga kaaway"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa imong pagkamatinud-anon"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "papason mo sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:12.040917486Z",
+  "model": "glm-5.3"
+}

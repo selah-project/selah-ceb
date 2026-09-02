@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Nagabulaan sila, nagsulti ⟨s⟩og kaugalieron, nagpasigarbo ang tanan nga mga mamumuo sa kadaotan.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "nagabulaan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "kaugalieron"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "nagpasigarbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga mamumuo"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:53.563707540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Igahatag ko sa kamingawan ang sedro, ang akasya, ug ang murta, ug ang kahoy sa lana; igabutang ko sa Araba ang beroth, ang tidhar, ug ang teashur nga magkahiusa.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "igahatag ko"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ang sedro"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ang akasya"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "ug ang murta"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ug ang kahoy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "igabutang ko"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa Araba"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "ang beroth"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "ang tidhar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "ug ang teashur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:23.746753972Z",
+  "model": "glm-5.3"
+}

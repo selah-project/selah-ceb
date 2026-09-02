@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug mag-atone siya ⟨את⟩ sa pinakabalaan nga santuaryo, ug ⟨את⟩ sa tolda sa pagtigum, ug ⟨את⟩ sa halaran mag-atone siya; ug alang sa mga saserdote ug alang sa tibuok katawhan sa katigayonan mag-atone siya.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "mag-atone siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pinakabalaan nga santuaryo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "sa santuaryo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa pinakabalaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa tolda sa pagtigum"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtigum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "mag-atone siya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sa katigayonan"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "mag-atone siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:31.422915349Z",
+  "model": "glm-5.3"
+}

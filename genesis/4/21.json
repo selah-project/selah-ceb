@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang ngalan sa iyang igsoon ⟨mao⟩ si Yuval; siya ang naging amahan sa tanan nga naggunit sa kinor ug sa ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ug ang ngalan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "si Yuval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ang naging"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "nga naggunit"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "sa kinor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ug sa ugav"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:43.894004595Z",
+  "model": "glm-5.3"
+}

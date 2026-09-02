@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ang kadaot magapatay sa dautan, ug ang mga nagadumili sa matarong magakasala ⟨silang tanan⟩.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "magapatay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ug ang mga nagadumili"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magakasala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:14.449862121Z",
+  "model": "glm-5.3"
+}

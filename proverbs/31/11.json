@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ang kasingkasing sa iyang bana nagasalig kaniya, ug sa bahandi wala siya kinahanglani.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sa iyang bana"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ug sa bahandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "siya kinahanglani"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:15.497966713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gipangutana ni Yaakov, ug miingon: Isulti kuno ang imong ngalan. Ug miingon ⟨siya⟩: Ngano nga kini imong gipangutan-a akong ngalan? Ug gipanalanginan niya ⟨את⟩ siya didto.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "gipangutana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "imong gipangutan-a"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "akong ngalan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:08.678782956Z",
+  "model": "glm-5.3"
+}

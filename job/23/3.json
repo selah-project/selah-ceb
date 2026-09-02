@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "O kung nakaila lang ako ug makaplagan ko siya, ug makaanhi ako hangtod sa iyang lingkoranan!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "O"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kung… lang"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakaila ako"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "ug makaplagan ko siya"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "makaanhi ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "iyang lingkoranan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:07.048318994Z",
+  "model": "glm-5.3"
+}

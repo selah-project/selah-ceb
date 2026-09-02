@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ayaw paghatag sa mga babayi sa imong kusog, ni sa imong mga agianan sa pagpukan sa mga hari.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "sa mga babayi"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "sa imong kusog\/kabangkagan"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ni sa imong mga agianan"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "sa pagpukan\/pagpanaw sa"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "mga hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:32.460218085Z",
+  "model": "glm-5.3"
+}

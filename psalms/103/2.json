@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Palonga ang pagpanalangin, oh akong kalag, kang Yahweh ⟨את⟩, ug ayaw pagkalimti ang tanan nga iyang mga ganti.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Palonga ang pagpanalangin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "iyang mga ganti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:13.116911208Z",
+  "model": "glm-5.3"
+}

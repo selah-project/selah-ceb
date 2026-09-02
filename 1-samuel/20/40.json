@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug si Yehonatan naghatag ⟨sa⟩ ⟨את⟩ iyang mga himan ngadto sa bata nga iya, ug miingon kaniya: Lakaw, idad-a ⟨ngadto sa⟩ ⟨את⟩ ang dakbayan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ug naghatag"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang mga himan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iyang mga himan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "idad-a"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:02.398243771Z",
+  "model": "glm-5.3"
+}

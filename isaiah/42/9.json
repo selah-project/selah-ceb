@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ang mga una ka butang — ania karon, ming-abot na sila; ug ang mga bag-ong butang ako ang nagpahibalo, sa wala pa sila moturok, ipahimatngon ko ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "ang mga una ka butang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ming-abot na"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ug ang mga bag-ong butang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "nagpahibalo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "moturok"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ipahimatngon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo (kagustuhan)"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:21.733249145Z",
+  "model": "glm-5.3"
+}

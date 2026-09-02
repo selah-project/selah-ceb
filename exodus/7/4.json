@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug dili mamati si Paro kaninyo, ug isulti ko ⟨את⟩ ang akong kamot ibabaw sa Mitsrayim, ug pagagawason ko ⟨את⟩ ang akong mga panon, ⟨את⟩ ang akong katawhan, ang mga anak ni Yisrael, gikan sa yuta sa Mitsrayim pinaagi sa dagkong mga pagtulongon.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug dili"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ug isulti ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong kamot"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ibabaw sa Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ug pagagawason ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga panon"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "ang akong mga panon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "paagi sa mga pagtulongon"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dagkong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:01.057567458Z",
+  "model": "glm-5.3"
+}

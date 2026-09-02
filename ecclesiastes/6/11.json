@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kay adunay mga pulong nga daghan, nga nagadaghan sa hevel — unsa may labaw alang sa tawo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nga daghan"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "nga nagadaghan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sa hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "labaw"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "alang sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:19.428480810Z",
+  "model": "glm-5.3"
+}

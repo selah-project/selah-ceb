@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Sa imong tambag imo akong giyaan, ug human sa ingon himaya imo akong kuhaon.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "sa imong tambag"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "imo akong giyaan"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ug human sa ingon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "imo akong kuhaon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.012481867Z",
+  "model": "glm-5.3"
+}

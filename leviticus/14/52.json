@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug paghinloon niya ⟨את⟩ ang balay sa dugo sa langgam ug sa tubig nga buhi ug sa langgam nga buhi ug sa kahoy nga sedro ug sa ezzob ug sa shani nga pula.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "ug paghinloon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "sa langgam"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ug sa tubig"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "ug sa langgam"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "ug sa kahoy"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "nga sedro"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ug sa ezzob"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "ug sa shani"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "nga pula"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:58.186293633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Tungod sa akong mga igsoon ug akong mga kauban, moingon ako karon: shalom ⟨mahimo⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Tungod sa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "akong mga igsoon"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ug akong mga kauban"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "moingon ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:49.974584598Z",
+  "model": "glm-5.3"
+}

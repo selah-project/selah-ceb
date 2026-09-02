@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang mga anak ni Ezrah: Yeter, ug Mered, ug Efer, ug Yalon; ug ⟨siya⟩ nagsabak ⟨את⟩ kang Miryam, ug ⟨את⟩ kang Shamay, ug ⟨את⟩ kang Yishbakh, amahan sa Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "ni Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "ug Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ug Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "ug Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ug nagsabak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Miryam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "si Miryam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Shamay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "si Shamay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yishbakh"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "si Yishbakh"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "sa Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:50.329382995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Magruok ang dagat ug tanan nga anaa niini; ang kalibutan ug ang mga pumoluyo niini.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Magruok"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ug tanan nga anaa niini"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ug ang mga pumoluyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:02.556719853Z",
+  "model": "glm-5.3"
+}

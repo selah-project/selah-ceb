@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Pag-ampo ni David. Iyohi ang imong igdulog, Yahweh, ug tubga ako, kay pobre ug gikinahanglan ako.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "pag-ampo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "iyohi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imong igdulog"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubga ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug gikinahanglan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:07.073043064Z",
+  "model": "glm-5.3"
+}

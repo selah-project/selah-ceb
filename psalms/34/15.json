@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Talikdi ang daotan ug buhata ang maayo; pangitaa ang kalinaw ug pangitawgi kini.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "talikdi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "pangitaa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ang kalinaw"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ug pangitawgi kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:28.174244215Z",
+  "model": "glm-5.3"
+}

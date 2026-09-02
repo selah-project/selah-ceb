@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Kay gipaubos niya ang mga nanimuyo sa kahitas-on, ⟨ang⟩ siyudad nga napintas ⟨nga⟩ bantog; iya kini nga pauboson, iya kini nga pauboson hangtod sa yuta, iya kini nga ipadangat hangtod sa abug.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השח",
+      "gloss": "gipaubos"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga nanimuyo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa kahitas-on"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "napintas nga bantog"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "iya kini nga pauboson"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "iya kini nga pauboson"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "iya kini nga ipadangat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "abug"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:32.651114875Z",
+  "model": "glm-5.3"
+}

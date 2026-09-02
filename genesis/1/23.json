@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nahitabo ang kagabhion, ug nahitabo ang kabuntagon — adlaw nga ikalima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kagabhion"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kabuntagon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ikalima"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:53.563172058Z",
+  "model": "glm-5.3"
+}

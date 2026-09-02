@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Kay dili ka malipay sa hinalad nga sakripisyo — ⟨unta akong ihatag kini kung kana ang imong gusto⟩; ang halad nga sinusunog, dili ka modawat ⟨og kalipay niini⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "ka malipay"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "hinalad nga sakripisyo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "unta akong ihatag kini"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ka modawat"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:29.272704172Z",
+  "model": "glm-5.3"
+}

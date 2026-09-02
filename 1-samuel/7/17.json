@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang iyang pagbalik ⟨mao⟩ ngadto sa Ramah, kay didto ⟨ang⟩ iyang balay, ug didto siya nagahukom ⟨את⟩ sa Yisrael; ug nagtindog siya didto ug halaran alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "ug ang iyang pagbalik"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ngadto sa Ramah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang iyang balay"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nagahukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ug nagtindog"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:42.040255506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Pamati kamo ⟨את⟩ sa pulong kini, nga akong gisaulog sa inyong ibabaw — usa ka qinah, ⟨O⟩ balay ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Pamati kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong kini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gisaulog"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyong ibabaw"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "usa ka qinah (bangkitanon)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:55.370061924Z",
+  "model": "glm-5.3"
+}

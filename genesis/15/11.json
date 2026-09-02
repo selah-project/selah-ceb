@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug mikunsad ⟨ang⟩ mga langgam nga mananangug sa mga bangkay, apan gipapahawa sila ni Avram.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Ug mikunsad"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "ang mga langgam nga mananangug"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "mga bangkay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "gipapahawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga langgam)"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:10.894393306Z",
+  "model": "glm-5.3"
+}

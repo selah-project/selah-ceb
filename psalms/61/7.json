@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 61,
+  "translation": "Adunay mga adlaw nga idugang sa mga adlaw sa hari, ang iyang mga tuig ingon sa panikatlonkaton ug panikatlonkaton.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "idugang"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ang iyang mga tuig"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "דר",
+      "gloss": "panikatlonkaton"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug panikatlonkaton"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.798735688Z",
+  "model": "glm-5.3"
+}

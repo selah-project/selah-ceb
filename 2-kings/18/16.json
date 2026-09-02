@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Sa nidung nga panahona, gitangtang ni Hizkiyah ⟨את⟩ ang mga pultahan sa templo ni Yahweh ug ⟨את⟩ ang mga pampang nga gibardahan ni Hizkiyah nga hari sa Yehudah, ug gihatag niya kini ngadto sa hari sa Ashur.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Sa panahon"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nga nidung"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "gitangtang \/ giputol"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pultahan sa templo"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ang mga pultahan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sa templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga pampang"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "ang mga pampang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "gibardahan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ni Hizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ug gihatag niya kini"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:39.343320162Z",
+  "model": "glm-5.3"
+}

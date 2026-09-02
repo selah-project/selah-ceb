@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Gidala nila siya ⟨את⟩ sa ibabaw sa mga kabayo, ug gilubong siya sa Yerushalayim kauban ang iyang mga amahan, sa ⟨siyudad⟩ ni David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "gidala nila siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "gilubong siya"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ang iyang mga amahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ⟨siyudad⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:49.316710203Z",
+  "model": "glm-5.3"
+}

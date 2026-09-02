@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 3:2",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ikaw lamang ⟨aron⟩ mahibalo ang mga kaliwatan sa mga anak ni Yisrael, ⟨aron⟩ tudloan sila sa gubat — kadtong lamang nga sa kananhing wala nila kini mahibalo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ikaw lamang"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ang mga kaliwatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ללמדם",
+      "gloss": "aron tudloan sila"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kadtong lamang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sa kananhing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nila kini mahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:36.483833154Z",
+  "model": "glm-5.3"
+}

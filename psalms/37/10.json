@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ⟨pa⟩ usa ka gamay ⟨nga panahon⟩, ug walay-na ang dautan; ug imong tan-awon ang iyang dapit, ug wala na siya.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ug ⟨pa⟩"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "usa ka gamay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay-na"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang dautan"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ug imong tan-awon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ang"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iyang dapit"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ug wala na siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:46.665282655Z",
+  "model": "glm-5.3"
+}

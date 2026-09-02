@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Si Yahweh, ang atong Elohim, nakighinabi ⟨sa⟩ paghimo sa pakigsaad uban kanato sa Khoreb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "naggunit\/paghimo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "uban kanato"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Khoreb"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:05.782876847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug ipadala ko ⟨את⟩ ang hulmigas-nugasun (tsa-tsa) sa imong atubangan, ug ilhon niini ⟨את⟩ ang mga Hiwi, ⟨את⟩ ang mga Kanaan, ug ⟨את⟩ ang mga Hiti gikan sa imong atubangan.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ug ipadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hulmigas-nugasun"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ang hulmigas-nugasun (tsa-tsa)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ug ilhon niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Hiwi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang mga Hiwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Kanaan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang mga Kanaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Hiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang mga Hiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "gikan sa imong atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:38.240711150Z",
+  "model": "glm-5.3"
+}

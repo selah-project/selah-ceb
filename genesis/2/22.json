@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gitukod ni Yahweh Elohim ⟨את⟩ ang gipak nga iyang gikuha gikan sa tawo ngadto sa usa ka babaye, ug gidala niya siya ngadto sa tawo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gipak"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ang gipak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngadto sa usa ka babaye"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "gidala niya siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:16.081478285Z",
+  "model": "glm-5.3"
+}

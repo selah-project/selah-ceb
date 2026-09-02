@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "Maglaum ka, Israel, kang Yahweh, kay kang Yahweh ⟨may⟩ hesed, ug daghan kaayo ang pagbawi uban kaniya.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "maglaum ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "⟨may⟩ hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ug daghan kaayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ang pagbawi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.392224096Z",
+  "model": "glm-5.3"
+}

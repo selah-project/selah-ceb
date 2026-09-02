@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ⟨ang naghahatid⟩ sa unang adlaw ⟨את⟩ sa iyang qorban mao si Nakhshon nga anak ni Aminadav, sa tribo ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ang naghahatid"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang qorban"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sa iyang qorban"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "si Nakhshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:12.930122604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug nakaplagan siya sa usa ka tawo, ug ania kini ⟨siya⟩ nga nagalibog sa uma; ug gipangutana siya sa tawo nga nag-ingon: Unsa ang imong gipangita?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Ug nakaplagan siya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "תעeh",
+      "gloss": "nagalibog"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "ug gipangutana siya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ang imong gipangita"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:54.055649573Z",
+  "model": "glm-5.3"
+}

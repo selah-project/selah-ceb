@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug ngano nga gipamenaan ninyo ⟨את⟩ ang kasingkasing sa mga anak ni Israel sa pagtabok ngadto sa yuta nga gihatag ni Yahweh kanila?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ug ngano"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "gipamenaan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasingkasing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:03.793852999Z",
+  "model": "glm-5.3"
+}

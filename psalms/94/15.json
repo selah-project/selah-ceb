@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Kay ngadto sa pagkamatarong mobalik ang paghudian, ug human niya tanan ⟨ang⟩ matarong sa kasingkasing",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang paghudian"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ug human niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:25.681693990Z",
+  "model": "glm-5.3"
+}

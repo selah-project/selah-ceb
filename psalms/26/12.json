@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ang akong tiil nagbarog sa hingpit nga dapit; diha sa mga katilingban magpanalangin ako kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong tiil"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "sa hingpit nga dapit"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "diha sa mga katilingban"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "magpanalangin ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:06.812007732Z",
+  "model": "glm-5.3"
+}

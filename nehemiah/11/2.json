@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gipanalangin sa ⟨ang⟩ katawhan ang tanan nga mga tawo nga nagtambong nga buot-muatngon sa pagpuyo sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "gipanalangin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa ⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "nagtambong nga buot-muatngon"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:07:27.962522681Z",
+  "model": "glm-5.3"
+}

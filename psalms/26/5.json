@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Gidumtan ko ang katigayonan sa mga tigtinis-ug-kadaot, ug uban sa mga dautan dili ako molingkod.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "gidumtan ko"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katigayonan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga tigtinis-ug-kadaot"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug uban sa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "molingkod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:30.904493606Z",
+  "model": "glm-5.3"
+}

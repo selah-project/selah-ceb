@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Kay ang baba sa daotan ug ang baba sa pangilad giablihan nila batok kanako; nagsulti sila ⟨kanako⟩ ⟨את⟩ pinaagi sa dila nga bakak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ug ang baba"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sa pangilad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "giablihan nila"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsulti sila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:45.217783034Z",
+  "model": "glm-5.3"
+}

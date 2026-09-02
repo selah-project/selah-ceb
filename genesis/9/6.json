@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang nagbubuhat sa dugo sa tawo, pinaagi sa tawo ang iyang dugo bubuhaton ⟨┤kay sa hulagway ni Elohim gibuhat niya ang ⟨את⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ang nagbubuhat"
+    },
+    {
+      "surface": "דם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "pinaagi sa tawo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iyang dugo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "bubuhaton"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa hulagway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    }
+  ],
+  "timestamp": "2026-09-02T01:06:24.124739638Z",
+  "model": "glm-5.3"
+}

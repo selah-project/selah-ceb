@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Wala ba kamo gipakbiya kami, O Elohim, ug dili ba kana moadto ka uban sa among mga panon?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "kamo gipakbiya kami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "moadto ka (mogawas ka)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "uban sa among mga panon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:05.344708881Z",
+  "model": "glm-5.3"
+}

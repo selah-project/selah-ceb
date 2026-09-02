@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang imong sulugoon anaa sa taliwala sa imong katawhan nga imong gipili, usa ka katawhan nga daghan, nga dili mabilang ug dili mahisgol tungod sa kadaghan.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Ug ang imong sulugoon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala sa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imong katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "imong gipili"
+    },
+    {
+      "surface": "עם",
+      "gloss": "usa ka katawhan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nga daghan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "mabilang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "mahisgol"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "tungod sa kadaghan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:39.980423272Z",
+  "model": "glm-5.3"
+}

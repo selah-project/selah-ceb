@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug gisiksik sa mga Filisteo ⟨את⟩ si Shaul ug ⟨את⟩ ang iyang mga anak, ug gipatay sa mga Filisteo ⟨את⟩ si Yehonatan ug ⟨את⟩ si Avinadav ug ⟨את⟩ si Malki-Shua, mga anak ni Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Ug gisiksik"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Filisteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ug gipatay"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Filisteo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "si Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "si Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:57.037916096Z",
+  "model": "glm-5.3"
+}

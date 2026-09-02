@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ang akong dila magahunahunaon ⟨ug moistorya⟩ sa imong pagkamatarong, tibuok nga adlaw ang imong pagdayeg.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "ug ang akong dila"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "magahunahunaon\/moistorya"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sa imong pagkamatarong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ang imong pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:59.742087803Z",
+  "model": "glm-5.3"
+}

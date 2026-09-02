@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Sa imong kamot ⟨ang⟩ akong mga panahon; luwasa ako gikan sa kamot sa akong mga kaaway ug gikan sa akong mga manukol.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "sa imong kamot"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "akong mga panahon"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "ug gikan sa akong mga manukol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.957269256Z",
+  "model": "glm-5.3"
+}

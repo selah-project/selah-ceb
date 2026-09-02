@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Magmalipayon ang imong amahan ug ang imong inahan, ug magakalipay ⟨siya⟩ nga nanganak kanimo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Magmalipayon"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang imong amahan"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "ug ang imong inahan"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ug magakalipay"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "⟨siya⟩ nga nanganak kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:22.132035767Z",
+  "model": "glm-5.3"
+}

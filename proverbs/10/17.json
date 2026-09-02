@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Dalan ngadto sa kinabuhi ang nagbantay sa panudlon, apan ang mobiya sa pamatuod mangapasala.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ngadto sa kinabuhi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ang nagbantay"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "panudlon"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "apan ang mobiya"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "pamatuod"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "mangapasala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:04.173022141Z",
+  "model": "glm-5.3"
+}

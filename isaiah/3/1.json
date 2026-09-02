@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kay ania karon, ang Adonay, si Yahweh Tsevaot, magakuha gikan sa Yerushalayim ug gikan sa Yehudah sa suholan ug sa tungdan — ang tanang suholan sa pan ug ang tanang suholan sa tubig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ang Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "magakuha"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "gikan sa Yerushalayim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "ug gikan sa Yehudah"
+    },
+    {
+      "surface": "משען",
+      "gloss": "suholan"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "ug tungdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "משען",
+      "gloss": "suholan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanang"
+    },
+    {
+      "surface": "משען",
+      "gloss": "suholan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:27.998679163Z",
+  "model": "glm-5.3"
+}

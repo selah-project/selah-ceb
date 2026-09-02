@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gidala siya ug gipadala ngadto sa iyang inahan; ug naupo siya sa iyang mga tuhod hangtod sa udto, ug namatay.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "gidala siya"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ug gipadala siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug naupo siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "iyang mga tuhod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "udto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:07.614336287Z",
+  "model": "glm-5.3"
+}

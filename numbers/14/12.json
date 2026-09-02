@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Batukan ko sila sa plaga ug tangtangon ko sila, ug himoon ko ikaw ⟨את⟩ ⟨ngadto sa⟩ usa ka dakong nasod ug labaw pang gamhanan kay niini.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Batukan ko sila"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa plaga"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ug tangtangon ko sila"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ug himoon ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ngadto sa usa ka dakong nasod"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ngadto sa usa ka nasod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ug gamhanan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kay niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:36:21.988629892Z",
+  "model": "glm-5.3"
+}

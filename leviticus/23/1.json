@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Nagkigsulti si Yahweh kang Moshe, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagkigsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:12.794788007Z",
+  "model": "glm-5.3"
+}

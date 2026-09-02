@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Wala ⟨ako⟩ kahibalo — akong kalag mibutang kanako ⟨sa⟩ mga karwahi sa akong katawhan nga bantug.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "⟨ako⟩ kahibalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "mibutang kanako"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "mga karwahi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "bantug"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:08.000917616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Kay patyon nimo gayod ⟨siya⟩; ang imong kamot maoy ⟨una⟩ kaniya sa pagpatay kaniya, ug ang kamot sa tibuok nga katawhan ⟨sa ulahi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "pagpatay"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "patyon nimo gayod"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imong kamot"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "maoy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "⟨una⟩"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "sa pagpatay kaniya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ug ang kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "⟨sa ulahi⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:23.476472619Z",
+  "model": "glm-5.3"
+}

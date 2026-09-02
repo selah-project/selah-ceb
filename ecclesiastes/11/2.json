@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Paghatag ug bahin sa pito ug usab sa walo, kay dili ka makahibalo unsa ang mahitabo nga kadaot sa ibabaw sa yuta.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Paghatag"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "sa walo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ka makahibalo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang mahitabo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nga kadaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:22.053860544Z",
+  "model": "glm-5.3"
+}

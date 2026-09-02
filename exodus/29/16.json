@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug pagatanon nimo ⟨את⟩ ang tuko, ug kuhaon nimo ⟨את⟩ ang iyang dugo, ug itudlok nimo kini sa ibabaw sa halaran palibot.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "pagatanon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tuko"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang tuko"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "kuhaon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iyang dugo"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "itudlok nimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:08.321682593Z",
+  "model": "glm-5.3"
+}

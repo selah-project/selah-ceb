@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Apan ⟨ang⟩ mga kahitas-an wala matangtang; padayon ang katawhan nagsakripisyo ug nagsunog ug insenso sa mga kahitas-an.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "apan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga kahitas-an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "matangtang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nagsakripisyo"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ug nagsunog ug insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga kahitas-an"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:21.128708168Z",
+  "model": "glm-5.3"
+}

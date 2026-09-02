@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gipatay nimo ⟨את⟩ ang imong mga anak, ug gihatag nimo sila sa pagpaagi ⟨את⟩ kanila ngadto kanila.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "ug gipatay nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang imong mga anak"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ug gihatag nimo sila"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "sa pagpaagi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngadto kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:36:54.313573334Z",
+  "model": "glm-5.3"
+}

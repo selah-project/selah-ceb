@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Wala ba ⟨ikaw⟩ pagaliran siya ug ang iyang balay ug ang tanan nga iya, sa palibot? Ang buhat sa iyang mga kamot gipanalanginan ⟨mo⟩, ug ang iyang kahayopan mikaylap sa yuta.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ikaw⟩",
+      "marks": "pagaliran (imong buhat)"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "pagaliran"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ug"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang iyang balay"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ug"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "ug ang iyang kahayopan"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "mikaylap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:03.501314898Z",
+  "model": "glm-5.3"
+}

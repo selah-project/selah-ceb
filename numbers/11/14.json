@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Dili ako makabuhat ako nga nag-inusara sa pagdala ⟨את⟩ sa tibuok niining katawhana, kay napugbat kini sa akong kaugalingon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makabuhat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "nag-inusara"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tibuok niining katawhana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "napugbat"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "sa akong kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:37:00.316489893Z",
+  "model": "glm-5.3"
+}

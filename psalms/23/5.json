@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Gipahimutang mo sa atubangan ko ⟨ang⟩ lamesa atbang sa akong mga kaaway; gihiwa-hiwan mo sa lana ang akong ulo; ang akong kopa puno kaayo.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "gipahimutang mo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan ko"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "gihiwa-hiwan mo"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang akong ulo"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ang akong kopa"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "puno kaayo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:32.520024911Z",
+  "model": "glm-5.3"
+}

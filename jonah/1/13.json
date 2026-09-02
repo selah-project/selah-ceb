@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan ang mga tawo naglugit aron ⟨pagbalik⟩ ngadto sa yuta-uga, apan wala sila makahimo, kay ang dagat nagkadaghan ug nag-unos sa ibabaw nila.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "naglugit"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "aron pagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "yuta-uga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makahimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nagkadaghan"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "ug nag-unos"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw nila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:27.350988620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Busa miadto ako pag-ubos sa balay sa magbubuhat sa kolon, ug ⟨miantaw⟩ siya nga nagabuhat og ⟨usa ka⟩ buhat sa mga bato ⟨nga tindahan sa pagtuyok⟩.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "miadto ako pag-ubos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "sa magbubuhat sa kolon"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ug ⟨miantaw⟩ siya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "⟨usa ka⟩ buhat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mga bato"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:23.623612506Z",
+  "model": "glm-5.3"
+}

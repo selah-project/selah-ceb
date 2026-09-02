@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug si Yeshua nagkaanak ⟨את⟩ kang Yoyakim, ug si Yoyakim nagkaanak ⟨את⟩ kang Elyashiv, ug si Elyashiv ⟨nagkaanak⟩ ⟨את⟩ kang Yoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Ug si Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "kang Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "ug si Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "kang Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "ug si Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "kang Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:50.852354942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": " ug nagsulti si Aharon ⟨את⟩ ang tanan sa mga pulong nga gisulti ni Yahweh kang Moshe, ug gibuhat ⟨ang⟩ mga timailhan sa atubangan sa mga mata sa ⟨ang⟩ katawhan",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan sa mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "⟨ang⟩ mga timailhan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa atubangan sa mga mata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa ⟨ang⟩ katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:16.546666446Z",
+  "model": "glm-5.3"
+}

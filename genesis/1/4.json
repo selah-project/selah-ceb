@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nakita ni Elohim ⟨את⟩ ang kahayag nga ⟨maayo⟩, ug gibuwag ni Elohim ⟨sa⟩ taliwala sa kahayag ug sa kangitngit.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ug nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahayag"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨maayo⟩"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ug gibuwag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨sa⟩ taliwala sa"
+    },
+    {
+      "surface": "האור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "kangitngit"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:54.211593680Z",
+  "model": "glm-5.3"
+}

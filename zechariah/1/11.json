@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miatubang sila ⟨את⟩ sa anghel ni Yahweh nga nagtindog taliwala sa mga hadas, ug miingon sila: Naglibot kami sa yuta, ug ania karon, ang tibook nga yuta nagpabilin nga lingkod ug hinoon.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "miatubang sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa anghel ni Yahweh"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang anghel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "sa mga hadas"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "miingon sila"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "Naglibot kami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "nagpabilin nga lingkod"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "ug hinoon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:57.106261735Z",
+  "model": "glm-5.3"
+}

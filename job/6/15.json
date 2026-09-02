@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Nagpanlimbong ang akong mga igsoon sama sa sapa, sama sa mga agianan sa mga sapa nga molakat ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ang akong mga igsoon"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "nagpanlimbong"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sama sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "sa mga agianan"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "sa mga sapa"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "nga molakat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:11.829545087Z",
+  "model": "glm-5.3"
+}

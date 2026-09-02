@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Natapos na ang mga pag-ampo ni David nga anak ni Yishai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Natapos na"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ang mga pag-ampo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak ni"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:55.860090448Z",
+  "model": "glm-5.3"
+}

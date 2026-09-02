@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ang gipahibalo sa pagtulongon: sa sulod sa akong kasingkasing ⟨walay⟩ kahadlok sa Elohim atbang sa iyang mga mata.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Ang gipahibalo"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sa pagtulongon"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": ""
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨walay⟩"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sa iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:49.898494059Z",
+  "model": "glm-5.3"
+}

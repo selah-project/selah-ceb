@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Maayo ang usa ka palad nga puno sa pahulay kay sa duha ka kumo nga puno sa kabalakyran ug pagkasubo sa hangin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palad"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "pahulay"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "kay sa puno"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "duha ka kumo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kabalakyran"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ug pagkasubo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:25.250544598Z",
+  "model": "glm-5.3"
+}

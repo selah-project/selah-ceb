@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nanumpa ako ug gitindog ko ⟨kini⟩ nga magbantay ako sa imong matarong nga mga pagtulon-an.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "nanumpa ako"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "gitindog ko"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "nga magbantay"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga pagtulon-an"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "imong matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:37.943854654Z",
+  "model": "glm-5.3"
+}

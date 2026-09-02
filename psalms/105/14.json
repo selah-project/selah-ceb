@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Wala niya itugot ang bisan kinsa nga tawo sa pagpahimos kanila, ug gisaway niya alang kanila ang mga hari.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "niya itugot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bisan kinsa nga tawo"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "sa pagpahimos kanila"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ug gisaway niya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ang mga hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.225032929Z",
+  "model": "glm-5.3"
+}

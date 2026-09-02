@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug ang mga kwarto sa ibabaw gipamub-an, kay ang mga tarong ⟨gikan sa mga galamian⟩ mokaon sa bahin nila — gikan sa mga naubos ug gikan sa mga natunga, sa bilding.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "Ug ang mga kwarto"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "gipamub-an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "ang mga tarong"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "sa bahin nila"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "gikan sa mga naubos"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "ug gikan sa mga natunga"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "bilding"
+    }
+  ],
+  "timestamp": "2026-09-01T21:46:50.495333315Z",
+  "model": "glm-5.3"
+}

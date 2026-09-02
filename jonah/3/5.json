@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gituo sa mga tawo sa Ninweh ⟨kang⟩ Elohim, ug gitawag nilo ang pagpuasa, ug gisul-ob nilo ang mga sako, gikan sa ilang labing dako hangtod sa ilang labing gamay.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "gituo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "⟨kang⟩ Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "gitawag nilo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pagpuasa"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "gisul-ob nilo"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "mga sako"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "gikan sa ilang labing dako"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "ilang labing gamay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:57.558163641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang mga anak ni Chetsron nga natawo kaniya: ⟨את⟩ Yerachmeel, ug ⟨את⟩ Ram, ug ⟨את⟩ Kelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ni Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:39.524610639Z",
+  "model": "glm-5.3"
+}

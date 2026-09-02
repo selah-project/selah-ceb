@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Maglihi kamo og ⟨את⟩ uhay nga uga, mangaki kamo og dayami; ang inyong gininhawa — kalayo — mokaon ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "maglihi kamo"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "uhay nga uga"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "mangaki kamo"
+    },
+    {
+      "surface": "קש",
+      "gloss": "dayami"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ang inyong gininhawa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "mokaon kaninyo",
+      "marks": "kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:43.772823317Z",
+  "model": "glm-5.3"
+}

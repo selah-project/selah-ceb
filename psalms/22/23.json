@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Isulti ko ang imong ngalan ngadto sa akong mga igsoon, sulod sa katilingban dayawon ko ikaw.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Isulti ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ngadto sa akong mga igsoon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sulod sa"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "dayawon ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:14.487526679Z",
+  "model": "glm-5.3"
+}

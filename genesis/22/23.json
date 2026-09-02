@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug si Betuel natawo ⟨את⟩ si Rivkah; walo kini ang mga anak nga gianak ni Milka kang Nakhor, igsoon ni Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "Ug si Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Rivkah"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "si Rivkah"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gianak"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ni Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "kang Nakhor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:53.030150921Z",
+  "model": "glm-5.3"
+}

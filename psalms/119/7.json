@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Magapasalamat ako kanimo uban sa tinuod nga kasingkasing, sa pagtuon sa mga hukom sa imong pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magapasalamat ako kanimo"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "uban sa tinuod"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nga kasingkasing"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "sa pagtuon"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sa mga hukom"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sa imong pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.629131944Z",
+  "model": "glm-5.3"
+}

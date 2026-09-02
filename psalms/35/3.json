@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug i-sulod ang bangkaw, ug haradii ⟨ang dalan⟩ atubang sa ako mga manukol kanako; isulti sa akong kalag: Ako ang imong kaluwasan.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "i-sulod"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "bangkaw"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "haradii"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "atubang sa"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ako mga manukol kanako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "imong kaluwasan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.116620015Z",
+  "model": "glm-5.3"
+}

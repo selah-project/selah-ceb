@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang mga naghadlok kanimo makakita kanako ug magmalipayon, kay sa imong pulong ako naglaom.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "ang mga naghadlok kanimo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "makakita kanako"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ug magmalipayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sa imong pulong"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ako naglaom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:54.767343749Z",
+  "model": "glm-5.3"
+}

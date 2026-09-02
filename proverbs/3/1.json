@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Akong anak, ayaw pagkalimot sa akong tora, ug ang akong mga mando tingali pasidunggon sa imong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "akong tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimot"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ug ang akong mga mando"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "pasidunggon"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imong kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:23.123456817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Yahweh, ayaw ako pagpahimanga; kay nakatawag ako kanimo — mahimang ang mga dautan, pagahunong sila ngadto sa Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ako pagpahimanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nakatawag ako kanimo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahimang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "pagahunong sila"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ngadto sa Sheol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:27.672040032Z",
+  "model": "glm-5.3"
+}

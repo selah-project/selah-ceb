@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug buhaton ko sa kasuko ug sa kapungot ang panimaldos ⟨את⟩ ⟨ang⟩ mga nasod nga wala mamati.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ug buhaton ko"
+    },
+    {
+      "surface": "באף",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "ug sa kapungot"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ang panimaldos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga nasod"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "namati"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:44.850492812Z",
+  "model": "glm-5.3"
+}

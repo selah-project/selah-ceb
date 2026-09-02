@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gipanumpa ko ⟨את⟩ kamo, mga anak nga babaye sa Yerushalayim, pinaagi sa mga gasela o sa mga ula sa kapatagan: ayaw ninyo pagpukaw ug ayaw pagbansay ⟨את⟩ sa gugma hangtod nga mosama kini.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Gipanumpa ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo — mga anak nga babaye sa Yerushalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babaye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "pinaagi sa mga gasela"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "sa mga ula"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ayaw ninyo"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "pagpukaw"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "pagbansay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa gugma"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "sa gugma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "mosama kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:52.937007049Z",
+  "model": "glm-5.3"
+}

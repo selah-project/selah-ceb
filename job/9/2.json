@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Sa pagkatinuod, nasayod ako nga mao kini ang ⟨panghitabo⟩; apan unsaon pagmatwid ang tawong mortal kauban ang El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sa pagkatinuod"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nasayod ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "apan unsaon"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "pagmatwid"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ang tawong mortal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang El"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:34.691711239Z",
+  "model": "glm-5.3"
+}

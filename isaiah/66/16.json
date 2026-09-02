@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Kay sa kalayo magatuki ang paghukom ni Yahweh, ug sa iyang espada ⟨את⟩ ⟨sa⟩ tanan nga unod; ug kadaghanan ang mga patay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "magatuki ang paghukom"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "ug sa iyang espada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga unod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nga unod"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ug kadaghanan"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ang mga patay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:13:39.486321147Z",
+  "model": "glm-5.3"
+}

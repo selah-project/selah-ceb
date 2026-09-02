@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Sa maong adlaw, moanha sila ngari kanimo — gikan sa Ashur ug sa mga dakbayan sa Matsor, ug gikan sa Matsor hangtod sa Suba, ug gikan sa dagat ngadto sa dagat, ug gikan sa bukid ngadto sa bukid.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Sa maong adlaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "ngari kanimo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "moanha sila"
+    },
+    {
+      "surface": "למני",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ug sa mga dakbayan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sa Matsor"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "ug gikan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sa Matsor"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "sa Suba"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ug gikan sa dagat"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ngadto sa dagat"
+    },
+    {
+      "surface": "והר",
+      "gloss": "ug gikan sa bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngadto sa bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:50.315019129Z",
+  "model": "glm-5.3"
+}

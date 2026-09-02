@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Dili na pagatawgon og dugang ang nabalin og nadib, ug sa kihilanon dili pagasultion nga shoa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "pagatawgon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "og dugang"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ang nabalin"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "og nadib"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "ug sa kihilanon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "pagasultion"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shoa"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:43.157623858Z",
+  "model": "glm-5.3"
+}

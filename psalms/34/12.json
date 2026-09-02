@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Umari kamo, ⟨mga⟩ anak, pamati kamo kanako; ang pagkahadlok kang Yahweh tudloan ko kamo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umari kamo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pamati kamo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ang pagkahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "tudloan ko kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:21.768595919Z",
+  "model": "glm-5.3"
+}

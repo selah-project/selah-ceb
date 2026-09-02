@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Hinaot nga maisulat kini alang sa ulahing henerasyon, ug ang katawhan nga pagbuhaton pagsumala ni Yah magadayeg kang Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "maisulat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "alang sa henerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ulahing"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug ang katawhan"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "nga pagbuhaton pagsumala"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "magadayeg"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:12.243175818Z",
+  "model": "glm-5.3"
+}

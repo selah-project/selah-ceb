@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug mitubag si Iyov ⟨את⟩ kang Yahweh ug miingon:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ug mitubag"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:00.916520851Z",
+  "model": "glm-5.3"
+}

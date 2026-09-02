@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang mga principe sa Yehudah nahisama sa mga nangabalhin sa utlanan ⟨sa yuta⟩; ibuhos ko kanila sama sa tubig ang akong kaligutgut.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "nahisama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga principe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "sa mga nangabalhin"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ibuhos ko"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "sama sa tubig"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ang akong kaligutgut"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:12.236676119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Kabalilong sa yuta sa huni sa pako ⟨sa mga langgam⟩, nga anaa sa lahi pang bahin sa mga suba sa Kush!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kabalilong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "huni"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "pako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa lahi pang bahin"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "sa mga suba"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:07.851318907Z",
+  "model": "glm-5.3"
+}

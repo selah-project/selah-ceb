@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug siya nagaingon: Ihatag ⟨את⟩ si Avishag nga Shunamita kang Adoniyahu, imong igsoon, ingon nga asawa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug siya nagaingon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "si Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "nga Shunamita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "kang Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imong igsoon"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ingon nga asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:20.561702212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug sa Taberah, ug sa Massah, ug sa Kibroth-haTaavah, mga nagpakaligutgut kamo ⟨kang⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "Ug sa Taberah"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "ug sa Massah"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "ug sa Kibroth-"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "haTaavah"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "mga nagpakaligutgut"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:19.627380201Z",
+  "model": "glm-5.3"
+}

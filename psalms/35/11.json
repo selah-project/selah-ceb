@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Mobangon ang mga saksi sa kagubot; mga butang nga wala nako mahibaloan pangutan-on nila ako.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Mobangon"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ang mga saksi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sa kagubot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nako mahibaloan"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "pangutan-on nila ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:24.437404935Z",
+  "model": "glm-5.3"
+}

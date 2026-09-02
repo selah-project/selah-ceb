@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Unsa ang Shadday, nga ato siyang pag-alagaran? ug unsa ang atong makuha, nga kita magtagbo kaniya?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "siya atong pag-alagaran"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "ang atong makuha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "kita magtagbo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:40:41.405498355Z",
+  "model": "glm-5.3"
+}

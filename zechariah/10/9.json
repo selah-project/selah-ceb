@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug itanom nako sila taliwala sa ⟨mga⟩ katawhan, ug sa malayo nga mga dapit mahinumdom sila kanako, ug mabuhi sila kauban ⟨את⟩ ang ilang mga anak, ug mobalik sila.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "itanom nako sila"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "taliwala sa katawhan"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "ug sa malayo nga mga dapit"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "mahinumdom sila kanako"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ug mabuhi sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ang ilang mga anak"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ug mobalik sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:01:32.733943227Z",
+  "model": "glm-5.3"
+}

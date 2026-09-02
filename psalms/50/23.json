@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Ang nag-atan ug halad nga pagpasalamat magpadungog kanako; ug sa nagbutang ⟨sa⟩ dalan ipakita ko kaniya ang kaluwasan sa Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Ang nag-atan ug halad"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "nga pagpasalamat"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "magpadungog kanako"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug sa nagbutang"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ipakita ko kaniya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ang kaluwasan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:06.262053552Z",
+  "model": "glm-5.3"
+}

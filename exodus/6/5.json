@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ako usab nakadungog ⟨את⟩ sa pag-aghoy sa mga anak sa Israel, nga gipaalipin sa Mitsrayim ⟨את⟩ sila, ug nahinumdom ako ⟨את⟩ sa akong pakigsaad.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ug ako usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pag-aghoy"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "pag-aghoy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "gipaalipin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (mga anak sa Israel)"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ug nahinumdom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong pakigsaad"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akong pakigsaad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:52.680546465Z",
+  "model": "glm-5.3"
+}

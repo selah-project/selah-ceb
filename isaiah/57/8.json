@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Ug luyo sa pultahan ug sa haligi imong gibutang ang imong handumag-butang; kay gikan kanako ⟨את⟩ imong gipakita ang imong kaugalingon ug misaka ka, imong gipalapad ang imong higdaanan, ug nagpakigsaad ka alang kanimo gikan kanila; gihigugma mo ang ilang higdaanan — ang kamot imong gitan-aw.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ug luyo"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "sa pultahan"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "ug sa haligi"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "imong handumag-butang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ gikan kanako",
+      "marks": "ang imong kaugalingon"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "gipakita (ang kaugalingon)"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "gipalapad"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "imong higdaanan"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ug nagpakigsaad"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "gihigugma"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "ilang higdaanan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "gitan-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:47.557457901Z",
+  "model": "glm-5.3"
+}

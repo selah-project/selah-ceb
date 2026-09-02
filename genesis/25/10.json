@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "⟨Ang⟩ uma nga gipalit ni Avraham gikan sa ⟨את⟩ mga anak ni Khet — didto gilubong si Avraham ug si Sarah nga iyang asawa.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "⟨ang⟩ uma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "gipalit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan sa ⟨את⟩",
+      "marks": "mga anak ni Khet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ni Khet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "gilubong"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "ug si Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:54.934599710Z",
+  "model": "glm-5.3"
+}

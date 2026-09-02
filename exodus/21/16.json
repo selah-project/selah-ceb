@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ang magpangawat ug usa ka tawo ug magbaligya niini, ug kini makaplagan sa iyang kamot, patyon gayod pagapatyon siya.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Ug ang magpangawat ug"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ug magbaligya niini"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "ug kini makaplagan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "מות",
+      "gloss": "patyon gayod"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:11.448052985Z",
+  "model": "glm-5.3"
+}

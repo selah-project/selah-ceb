@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug naglakaw sila sa kamingawan, ug nilibot nila ⟨את⟩ ang yuta sa Edom ug ⟨את⟩ ang yuta sa Moab, ug miabot sila gikan sa sidlakan sa adlaw ngadto sa yuta sa Moab, ug nagkampo sila sa tabok sa Arnon, ug wala sila mosulod sa utlanan sa Moab, kay ang Arnon mao ⟨ang⟩ utlanan sa Moab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "nilibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa Edom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang yuta sa Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "gikan sa sidlakan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa tabok"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sa utlanan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-01T20:10:30.367762115Z",
+  "model": "glm-5.3"
+}

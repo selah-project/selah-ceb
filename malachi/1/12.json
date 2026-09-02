@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan kamo nagapakaulawan ⟨את⟩ niya pinaagi sa inyong pag-ingon: Ang lamesa ni Adonay hugaw na, ug ang bunga niini kaulawanon ang kan-onon niini.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "apan kamo"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "napakaulawan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "niya (ang ngalan ni Yahweh)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "pinaagi sa inyong pag-ingon"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "hugaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ug ang bunga niini"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "kaulawanon"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ang kan-onon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:44.376043840Z",
+  "model": "glm-5.3"
+}

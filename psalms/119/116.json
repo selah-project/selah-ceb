@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sukipi ako sumala sa imong gisaad ⟨aron⟩ mabuhi ako, ug ayaw ako pagpahuya tungod sa akong paglaom.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Sukipi ako"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "sumala sa imong gisaad"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "aron mabuhi ako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "pagpahuya ako"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "tungod sa akong paglaom"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:57.296172579Z",
+  "model": "glm-5.3"
+}

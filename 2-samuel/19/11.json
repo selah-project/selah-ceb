@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug si Avshalom, nga among gidinihogan ibabaw kanamo, namatay na sa gubat; ug karon, nganong magtahimik kamo ⟨sa pagpakanhaod⟩ ⟨את⟩ sa hari?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ug si Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "among gidinihogan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ibabaw kanamo"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "magtahimik"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "sa pagpakanhaod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:43.911081582Z",
+  "model": "glm-5.3"
+}

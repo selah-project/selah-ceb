@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ikaw ⟨ang⟩ akong hari, Elohim; sugoa ⟨ang⟩ mga kaluwasan ni Yakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akong hari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "sugoa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mga kaluwasan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:22.370053896Z",
+  "model": "glm-5.3"
+}

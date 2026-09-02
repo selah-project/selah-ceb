@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug mitubag si Yoav ug miingon: \"Layo kini, layo kini kanako, nga mamon ako ug mopatyo!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ug mitubag"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Layo kini"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "layo kini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "mamon ako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "mopatyo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:33:48.391660602Z",
+  "model": "glm-5.3"
+}

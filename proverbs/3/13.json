@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Malipayon ang tawo nga nakakaplag og kaalam, ug ang tawo nga makahimo og pagsabut.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakakaplag"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "pagsabut"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:12.027986731Z",
+  "model": "glm-5.3"
+}

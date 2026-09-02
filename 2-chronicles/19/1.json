@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mibalik si Yehoshafat, hari sa Yehudah, ngadto sa iyang balay sa pakigdait, ngadto sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ug mibalik"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sa pakigdait"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ngadto sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:55.551133987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Yahweh, Adonay, kusog sa akong kaluwasan, nagtabon ka sa akong ulo sa adlaw sa armadong pakiggubat.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sa akong kaluwasan"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "nagtabon ka"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "sa akong ulo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "sa armadong pakiggubat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.991225426Z",
+  "model": "glm-5.3"
+}

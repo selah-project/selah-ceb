@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug nahitabo nga samtang ang usa nagpatigbas sa kahanas, ang puthaw nahulog ngadto sa tubig; ug siya misinggit ug miingon: Ahah, akong Adonay! Ug kini ⟨gihimo nga⟩ gipangayo!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "nagpatigbas"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "sa kahanas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang puthaw"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ang puthaw"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "ug misinggit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akong Adonay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "gipangayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:48.007040367Z",
+  "model": "glm-5.3"
+}

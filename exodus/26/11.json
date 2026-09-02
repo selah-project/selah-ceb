@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug imong buhaton ang kalim-an ka kawit nga tumbaga, ug imong isulod ⟨את⟩ ang mga kawit ngadto sa mga lungag, ug imong ihiusa ⟨את⟩ ang tolda aron mahimong usa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ug imong buhaton"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ang mga kawit"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nga tumbaga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ang kalim-an"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "ug imong isulod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kawit"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ang mga kawit"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "ngadto sa mga lungag"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "ug imong ihiusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "aron mahimong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:27.308595178Z",
+  "model": "glm-5.3"
+}

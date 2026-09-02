@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Busa miadto si Obadyahu sa pagtagbo kang Ahab, ug gisulti niya kini kaniya; ug miadto si Ahab sa pagtagbo kang Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "si Obadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kang Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisulti niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug miadto"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "kang Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:31.707723408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang hulmigas usab ⟨את⟩ pagapadad-on ni Yahweh nga imong Elohim batok kanila, hangtod mahurot ang mga nahabilin ug ang mga nagtago gikan sa imong atubangan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ug usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hulmigas"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ang hulmigas"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pagapadad-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "batok kanila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "mahurot"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ang mga nahabilin"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "ug ang mga nagtago"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gikan sa imong atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:00.978414824Z",
+  "model": "glm-5.3"
+}

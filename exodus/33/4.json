@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug nadungog sa katawohan ⟨את⟩ kining dautanong pulonga, ug nagsubang sila, ug walay bisan usa ka tawo nga nagbutang sa iyang mga hias sa ibabaw kaniya.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawohan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining dautanong pulonga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "dautanon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "nagsubang sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan usa ka tawo"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "iyang mga hias"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:47.205837037Z",
+  "model": "glm-5.3"
+}

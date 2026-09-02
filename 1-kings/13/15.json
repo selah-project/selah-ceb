@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug siya miingon kaniya: Lakaw uban ⟨את⟩ kanako ngadto sa balay, ug mokaon ug tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug siya miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "uban ⟨את⟩ kanako"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ngadto sa balay"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ug mokaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ug tinapay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:07.137402341Z",
+  "model": "glm-5.3"
+}

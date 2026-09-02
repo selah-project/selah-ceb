@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "⟨את⟩ ang akong mga Shabbat bantayi ninyo, ug ang akong santuwaryo tahuraa ninyo; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga Shabbat"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ang akong mga Shabbat"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bantayi ninyo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ug ang akong santuwaryo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tahuraa ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:52.526205537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug napuno ang pito ka adlaw human himoona ni Yahweh ⟨את⟩ sa suba.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ug napuno"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "himoona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa suba"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "sa suba"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:17.505541355Z",
+  "model": "glm-5.3"
+}

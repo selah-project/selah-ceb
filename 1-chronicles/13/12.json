@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug nahadlok si David ⟨kang⟩ Elohim nianang adlawa, nga nagaingon: Unsaon nako pagdala ngari kanako ⟨את⟩ ang aron sa Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ug nahadlok"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nianang adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Unsaon"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ako pagdala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron sa Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:29.506488496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 3:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Hupton kini sa kangitngit ug sa tsalmavet, mopuyo ⟨kaniya⟩ ⟨ang⟩ panganod; pakahunahadon sila kini ingon sa mga kapaitan sa adlaw.",
+  "tokens": [
+    {
+      "surface": "יגאלהו",
+      "gloss": "hupton sila kini"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ug sa tsalmavet"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "mopuyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "⟨ang⟩ panganod"
+    },
+    {
+      "surface": "יבעתהו",
+      "gloss": "pakahunahadon nila kini"
+    },
+    {
+      "surface": "כמרירי",
+      "gloss": "ingon sa mga kapaitan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:41.353389101Z",
+  "model": "glm-5.3"
+}

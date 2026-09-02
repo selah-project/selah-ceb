@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Nahulog ang korona sa atong ulo — kamingaw kanamo, kay kita nakasala!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "kamingaw"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nakasala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:20.204900019Z",
+  "model": "glm-5.3"
+}

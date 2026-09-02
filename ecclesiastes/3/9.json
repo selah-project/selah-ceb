@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Unsa may nakab-ot sa nagatrabaho diha sa iyang ginakakapoyan?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "nakab-ot"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "sa nagatrabaho"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "diha sa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "iya"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ginakakapoyan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:39.059483598Z",
+  "model": "glm-5.3"
+}

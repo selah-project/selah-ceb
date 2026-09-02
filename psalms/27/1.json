@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ni David. Si Yahweh ⟨ang⟩ akong kahayag ug akong kaluwasan — kinsa ang akong ikahadlok? Si Yahweh ang kusog sa akong kinabuhi — kinsa ang akong ikakahadlok?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "akong kahayag"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "ug akong kaluwasan"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "akong ikahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "akong kinabuhi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "akong ikakahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:57.719728103Z",
+  "model": "glm-5.3"
+}

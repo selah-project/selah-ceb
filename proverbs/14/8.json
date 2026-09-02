@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang kaalam sa maantigo ⟨mao⟩ ang pagsabut sa iyang dalan, apan ang kabuang sa mga ulaw ⟨mao ang⟩ pangilad.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "sa maantigo"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ang pagsabut"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa iyang dalan"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "apan ang kabuang"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga ulaw"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "⟨mao ang⟩ pangilad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:46.596905016Z",
+  "model": "glm-5.3"
+}

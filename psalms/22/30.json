@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Mokaon ug mosimba ang tanan nga datu sa yuta sa iyang atubangan; moluhod ang tanan nga manaog sa abug, ug ⟨ang iyang⟩ kalag wala makabuhi.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Mokaon"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ug mosimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "nga mga datu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iyang atubangan"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "moluhod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "nga manaog"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abug"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ug ⟨ang iyang⟩ kalag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "makabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:34.253468044Z",
+  "model": "glm-5.3"
+}

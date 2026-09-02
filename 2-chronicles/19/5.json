@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug nagbutang siya ug mga maghuhukom sa yuta, sa tanang kuta nga mga dakbayan sa Yehudah, alang sa matag dakbayan ug dakbayan.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nagbutang siya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mga maghuhukom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "kuta nga"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "alang sa matag dakbayan"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ug dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:26.662196806Z",
+  "model": "glm-5.3"
+}

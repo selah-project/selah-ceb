@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug naa kiniya ⟨ang⟩ pito ka gatos ka babayeng ginoo, ug tulo ka gatos ka pingkagugo-ong; ug ang iyang mga asawa nagyawa ⟨את⟩ sa iyang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug naa kiniya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga babaye"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "babayeng ginoo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "ug mga pingkagugo-ong"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "nagyawa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "iyang mga asawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iyang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:54.090769052Z",
+  "model": "glm-5.3"
+}

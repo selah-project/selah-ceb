@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Nagpadala si Shaul ngadli kang Yishay nga nag-ingon: Hinaot nga magpabilin si David sa akong atbang, kay nakakaplag siya ug kahoy sa akong mga mata.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadli kang"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magpabilin nanindang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hinaot nga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa akong atbang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nakakaplag"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ug kahoy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa akong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T20:18:57.127709497Z",
+  "model": "glm-5.3"
+}

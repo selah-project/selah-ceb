@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Nagkahadlok ang tanan nga tawo, ug nagpahibalo sa buhat ni Elohim, ug sa iyang ginbuhat nagtulonon sila.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "nagkahadlok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "nagpahibalo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "sa buhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "sa iyang ginbuhat"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nagtulonon sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:04.874566161Z",
+  "model": "glm-5.3"
+}

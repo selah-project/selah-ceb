@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Kay ikaw, Yahweh, ⟨ang⟩ Labaw sa tanan ⟨nga⟩ yuta, sa pagkamatugi nagtindog ka nga labaw sa tanan nga mga elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Labaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa pagkamatugi"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "nagtindog ka nga labaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:48.683339489Z",
+  "model": "glm-5.3"
+}

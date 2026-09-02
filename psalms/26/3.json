@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Kay ang imong hesed ⟨nakita⟩ sa atubangan sa akong mga mata, ug nagpanaglawig ako sa imong kamatuoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imong hesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mga mata"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ug nagpanaglawig ako"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa imong kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:48.851915179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug ibutang nimo ⟨את⟩ ang nahan palibot, ug ibutang nimo ⟨את⟩ ang tabon sa ganghaan sa nahan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ug ibutang nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nahan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ang nahan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ug ibutang nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabon sa ganghaan"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang tabon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa nahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:15.750805498Z",
+  "model": "glm-5.3"
+}

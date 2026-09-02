@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon siya sa iyang mga anak nga babae: Asa ba siya? Ngano nga inyong gimabiit ang tawo? Tawgi siya ⟨את⟩ aron mokaon siya og tinapay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "iyang mga anak nga babae"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "asa ba siya"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "inyong gimabiit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "tawgi ninyo siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "aron mokaon siya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "og tinapay"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:26.499167126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Gipadala niya ang iyang mga ulitawo ⟨mga sulugoon nga babaye⟩; mosinggit siya sa mga bintana sa kataas-an sa ⟨ang⟩ ciudad:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "gipadala niya"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "ang iyang mga ulitawo ⟨mga sulugoon nga babaye⟩"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "mosinggit siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "mga bintana"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "sa kataas-an"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ciudad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:42.431540719Z",
+  "model": "glm-5.3"
+}

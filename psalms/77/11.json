@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Ug ako nakoning: Kini ang akong kaluya ⟨nga⟩ ⟨ang⟩ mga kaliwat sa too nga kamot sa Elyon.",
+  "tokens": [
+    {
+      "surface": "וָאֹמַר",
+      "gloss": "Ug ako nakoning"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ang akong kaluya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "⟨ang⟩ mga kaliwat"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sa too nga kamot"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sa Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:40.843736Z",
+  "model": "glm-5.3"
+}

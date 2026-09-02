@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gibiyaan ko ⟨את⟩ ang akong panimalay, gitugbakan ko ⟨את⟩ ang akong panulondon; gihatag ko ⟨את⟩ ang hinigugma sa akong kalag ngadto sa kamot sa iyang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Gibiyaan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong panimalay"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ang akong panimalay"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "gitugbakan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong panulondon"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ang akong panulondon"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hinigugma sa akong kalag"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "ang hinigugma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "sa iyang mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:14.302689332Z",
+  "model": "glm-5.3"
+}

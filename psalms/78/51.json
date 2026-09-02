@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gigunturig niya ang tanan nga panganay sa Mitsrayim, ang unang bunga sa ilang kusog ⟨sa⟩ mga tolda ni Ham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gigunturig niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "nga panganay"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang unang bunga"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "sa mga tolda"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Ham"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:13.362773982Z",
+  "model": "glm-5.3"
+}

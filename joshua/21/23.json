@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gikan sa tribo sa Dan: ⟨את⟩ Eltekeh ug ⟨את⟩ ang iyang mga migrah, ⟨את⟩ Giv'aton ug ⟨את⟩ ang iyang mga migrah.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ug gikan sa tribo"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giv'aton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Giv'aton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:13.948642195Z",
+  "model": "glm-5.3"
+}

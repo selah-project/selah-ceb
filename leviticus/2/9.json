@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug momula ang kohen gikan sa mincha sa ⟨את⟩ akeng hinumdom niini, ug pasusohon niini sa hawan sa atang — sa paghalad nga kalayo, baho nga nakapahulay kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "Ug momula"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akeng hinumdom niini"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "akeng hinumdom niini"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ug pasusohon sa kalayo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa hawan sa atang"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sa paghalad nga kalayo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "baho"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "nga nakapahulay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:35.378439537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug sa pagpagahum ⟨sa⟩ adlaw ug ⟨sa⟩ gabii, ug sa pagbulag taliwala sa kahayag ug taliwala sa kangitngit; ug nakita ni Elohim nga ⟨kini⟩ maayo.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "sa pagpagahum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨sa⟩ adlaw"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ug ⟨sa⟩ gabii"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ug sa pagbulag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "האור",
+      "gloss": "sa kahayag"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:12.706840085Z",
+  "model": "glm-5.3"
+}

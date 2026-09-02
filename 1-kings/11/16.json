@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay unom ka bulan nagpabilin didto si Yoav ug ang tanan nga Yisrael, hangtod maputol ang tanan nga lalaki sa Edom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "unom"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "maputol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:03.250402150Z",
+  "model": "glm-5.3"
+}

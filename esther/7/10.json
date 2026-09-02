@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug gipabitay nila ⟨את⟩ si Haman sa kahoy nga iyang gipangandam alang kang Mordekai, ug ang kaligutgut sa hari nanabyo na.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "ug gipabitay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "giandam"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "alang kang Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ug ang kaligutgut"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nanabyo na"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:16.504881287Z",
+  "model": "glm-5.3"
+}

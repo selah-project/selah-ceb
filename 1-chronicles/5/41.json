@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Si Yehotsadak adto ⟨gihigad⟩ sa pagkabihag, sa pagpahigad ni Yahweh ⟨את⟩ kang Yehudah ug ⟨את⟩ Yerushalayim pinaagi sa kamot ni Nevukhadnetstsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "Si Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "adto ⟨gihigad⟩"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kang Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ug Yerushalayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot ni"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukhadnetstsar"
+    }
+  ],
+  "timestamp": "2026-09-02T01:05:50.202132339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh ⟨margetas⟩ sa kusog; ang tingog ni Yahweh ⟨margetas⟩ sa kahalangdon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "sa kahalangdon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:41.119792866Z",
+  "model": "glm-5.3"
+}

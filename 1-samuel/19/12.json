@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug gipakanaog ni Mikal si David ⟨את⟩ pinaagi sa bintana; ug siya milakaw, ug milagas, ug nakalagiw.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Ug gipakanaog"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ni Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pinaagi sa"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug milakaw"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ug milagas"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ug nakalagiw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:25.641913767Z",
+  "model": "glm-5.3"
+}

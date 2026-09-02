@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug gibuhat nila ⟨את⟩ ang plaka sa koronang balaan, bulawan nga hingpit nga tin-aw, ug gisulat niini ang sinulat, ingon sa pag-ukit sa singsing-selyo: Balaan kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gibuhat nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang plaka"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ang plaka (dahon nga nagsiga)"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hingpit nga tin-aw"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "ug gisulat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "ang sinulat"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "pag-ukit"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "singsing-selyo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:19.487755691Z",
+  "model": "glm-5.3"
+}

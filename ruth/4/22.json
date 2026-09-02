@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Oved nagkatawo ⟨את⟩ kang Yishay, ug si Yishay nagkatawo ⟨את⟩ kang David.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Ug si Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "kang Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ug si Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kang David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:10.047359860Z",
+  "model": "glm-5.3"
+}

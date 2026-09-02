@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Nagapakabusog ⟨kaniya⟩ sa maayo nga mga butang ang imong adiyon; ⟨ini⟩ magabag-o ingon sa agila ang imong kabatan-on.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "nagapakabusog"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa maayo nga mga butang"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ang imong adiyon"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "magabag-o"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ingon sa agila"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ang imong kabatan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:59.500842195Z",
+  "model": "glm-5.3"
+}

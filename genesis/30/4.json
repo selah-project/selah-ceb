@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug gihatag niya kaniya ⟨את⟩ si Bilhah nga iyang sulug-on nga babaye ingon nga asawa, ug misulod si Yaakov kaniya.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "gihatag niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "si Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "nga iyang sulug-on nga babaye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ingon nga asawa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "misulod"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:12.048983211Z",
+  "model": "glm-5.3"
+}

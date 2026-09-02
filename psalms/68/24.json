@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Aran nga ang imong tikod madasmol ⟨sa⟩ dugo; ang dila sa imong mga iro ⟨makabahin⟩ gikan sa mga kaaway — gikan kanila.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aran nga"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "madasmol"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ang imong tikod"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ang dila"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "sa imong mga iro"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "gikan sa mga kaaway"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "gikan kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:09.574836294Z",
+  "model": "glm-5.3"
+}

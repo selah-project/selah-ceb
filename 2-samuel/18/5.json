@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gisugo sa hari si ⟨את⟩ Yoav ug si ⟨את⟩ Avishay ug si ⟨את⟩ Itay, nga nag-ingon: Pagmalumoay ⟨alang kanako⟩ ngadto sa batan-on, kang Avshalom. Ug ang tibook nga mga tawo nakadungog sa pagsugo sa hari ⟨את⟩ sa tanang mga kapitan mahitungod kang Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Avishay"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Itay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "Pagmalumoay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ngadto sa batan-on"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "kang Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "Ug ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "sa pagsugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanang mga kapitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahunghung sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:09.758582570Z",
+  "model": "glm-5.3"
+}

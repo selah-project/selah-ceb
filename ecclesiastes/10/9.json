@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang nagabalhin sa ⟨mga⟩ bato masakitlan niini; ang nagabungkag sa kahoy madamay niini.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "nagabalhin"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "masakitlan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niini"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "nagabungkag"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "madamay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:27.413617236Z",
+  "model": "glm-5.3"
+}

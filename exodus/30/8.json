@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug sa pagpatindog ni Aharon ⟨את⟩ sa mga lamparahan taliwala sa mga kagabhion, sunogon niini ang insenso — insenso nga padayon atbang ni Yahweh, sa inyong mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "ug sa pagpatindog"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga lamparahan"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ang mga lamparahan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mga kagabhion"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "sunogon niini"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ang insenso"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sa inyong mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:43.407857476Z",
+  "model": "glm-5.3"
+}

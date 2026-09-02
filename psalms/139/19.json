@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Kon mobun-og ikaw, Eloah, sa daotan, ug ⟨sa⟩ mga tawo nga may dugo — hilayi kamo ako!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "mobun-og ikaw"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ו אנשי",
+      "gloss": "ug mga tawo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "nga may dugo"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "hilayi kamo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:11.525400999Z",
+  "model": "glm-5.3"
+}

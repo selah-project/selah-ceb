@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ayaw kamo pagpakigbisog ⟨kanila⟩, kay wala ako maghatag kaninyo gikan sa ilang yuta, bisan ang tikang salapat sa tiil, kay ingon nga panunod kang Esav akong gihatagan ⟨את⟩ sa bukid sa Seir.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "pagpakigbisog"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "gikan sa ilang yuta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ang tikang"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sa salapat"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "sa tiil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ingon nga panunod"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "kang Esav"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "akong gihatagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bukid sa Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:04.618134321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Magkahiusa batok kanako managhoy ang tanan nga nagadumili kanako; batok kanako nagahunahuna sila ug kadaot ⟨alang⟩ ⟨kanako⟩.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "managhoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nga nagadumili kanako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "nagahunahuna sila"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ug kadaot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨alang kanako⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:10.240498476Z",
+  "model": "glm-5.3"
+}

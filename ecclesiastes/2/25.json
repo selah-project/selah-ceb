@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kay kinsa ang mokaon, ug kinsa ang magpadali ⟨sa pagpasigarbo⟩ nga nagawas gikan kanako?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "magpadali"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "nagawas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:54.191214169Z",
+  "model": "glm-5.3"
+}

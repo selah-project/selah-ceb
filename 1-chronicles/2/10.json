@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Ram natawo ⟨את⟩ ni Aminadab, ug si Aminadab natawo ⟨את⟩ ni Nachshon, dagko sa mga anak ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ug si Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ug si Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "pangulo \/ dagko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:39.524863485Z",
+  "model": "glm-5.3"
+}

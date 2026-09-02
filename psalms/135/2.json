@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "⟨ang mga⟩ nagtindog sa balay ni Yahweh, sa mga nataran sa balay sa atong Elohim.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga nataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:21.077921674Z",
+  "model": "glm-5.3"
+}

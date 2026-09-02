@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Busa nangita sila ug batan-ong dalaga nga matahum sa tibook nga utlanan sa Yisrael, ug nakaplagan nila ⟨את⟩ si Avishag nga taga-Shunem, ug gidala nila ⟨את⟩ siya ngadto sa hari.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "nangita sila"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "batan-ong dalaga"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibook nga"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "nakaplagan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "si Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "nga taga-Shunem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gidala nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ siya",
+      "marks": "ngadto sa hari"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:40.373882448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug mangita kamo gikan didto ⟨את⟩ Yahweh, ang inyong Elohim, ug makit-an ninyo ⟨siya⟩, kay taman kini nga pangitaon ninyo ⟨siya⟩ sa tibuok nimong kasingkasing ug sa tibuok nimong kalag.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ug mangita kamo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang inyong Elohim"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "ug makit-an ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "pangitaon ninyo siya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nimong kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nimong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:40.228387688Z",
+  "model": "glm-5.3"
+}

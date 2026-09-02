@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Apan ako, kabus ug mingaw ⟨ang⟩ akong kahimtang; si Adonay magaisip kanako; ikaw ang akong tabang ug akong manlualuhi, Elohim nako, ayaw paglanguy.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kabus"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug mingaw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "magaisip"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ang akong tabang"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ug akong manlualuhi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "paglanguy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:42.986123654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 19:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug nakita ni Yoav nga ang pag-atubang sa pakiggubat ⟨naa⟩ batok kaniya, sa atubangan ug sa luyo; ug mipili siya gikan sa tanan nga pinili sa Israel, ug naghan-ay aron pag-atubang sa Aram.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ug nakita"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang pag-atubang"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sa pakiggubat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ug sa luyo"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "ug mipili siya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "nga pinili"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ug naghan-ay"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "aron pag-atubang"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:15.612511047Z",
+  "model": "glm-5.3"
+}

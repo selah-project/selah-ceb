@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Hinaot nga ang iyang kataposan ⟨magtima-on⟩ sa pagkapugong; sa laing kaliwatan papason ang ilang ngalan.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "hinaot nga mahitabo"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "ang iyang kataposan"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "sa pagkapugong"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "papason"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ang ilang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:38.745637426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨את⟩ si Yeuts, ug ⟨את⟩ si Shavkhya, ug ⟨את⟩ si Mirmah — kini ⟨mga⟩ anak niya, mga ulo sa mga amahan ⟨mga pamilya⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Shavkhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shavkhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "sa mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:11.072547773Z",
+  "model": "glm-5.3"
+}

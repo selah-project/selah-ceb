@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "aron ipahawa ang gingharian gikan sa balay ni Shaul, ug aron ipatindog ⟨את⟩ ang trono ni David ibabaw sa Israel ug ibabaw sa Yehudah, gikan sa Dan hangtod sa Beer-Sheva.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "aron ipahawa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "ug aron ipatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang trono ni David"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug ibabaw sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "gikan sa Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:33.684806506Z",
+  "model": "glm-5.3"
+}

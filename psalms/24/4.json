@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ang putli sa mga kamot, ug matinud-anon sa kasingkasing, nga dili nagdala ngadto sa kawalay-sulod ⟨sa iyang⟩ kalag, ug wala manumpa sa panglimod.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "putli"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "sa mga kamot"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ug matinud-anon"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ngadto sa kawalay-sulod"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa iyang kalag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "manumpa"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "sa panglimod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.052945619Z",
+  "model": "glm-5.3"
+}

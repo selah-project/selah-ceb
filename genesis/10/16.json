@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ⟨את⟩ sa mga Yebusi, ug ⟨את⟩ sa mga Emori, ug ⟨את⟩ sa mga Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Yebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "mga Yebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "mga Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "mga Girgashi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.111509413Z",
+  "model": "glm-5.3"
+}

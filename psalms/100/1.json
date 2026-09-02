@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 100,
+  "translation": "Mizmor alang sa pagpasalamat: pagmaliwat kamo kang Yahweh, tibuok nga yuta.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "alang sa pagpasalamat"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pagmaliwat kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:19.480852767Z",
+  "model": "glm-5.3"
+}

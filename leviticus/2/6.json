@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Pipithoon nimo ⟨את⟩ kini ngadto sa mga pipi, ug ibuhin nimo diha niini ang lana: mincha kini.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Pipithoon nimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mga pipi"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "mga pipi"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ug ibuhin nimo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "diha niini"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.509588701Z",
+  "model": "glm-5.3"
+}

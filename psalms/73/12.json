@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Tan-awa, kining mga daotan — ug ang mga hinungdanong way kahadlok sa kanunay — nakadako na ug gatusan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "ug ang mga hinungdanong way kahadlok"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "nakadako na"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ug gatusan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:12.181787968Z",
+  "model": "glm-5.3"
+}

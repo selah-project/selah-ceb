@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Ug mosimba kaniya ang tanang mga hari; tanang mga nasod mag-alagad kaniya.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "ug mosimba (mosimba sa yuta)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "mag-alagad kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.833511767Z",
+  "model": "glm-5.3"
+}

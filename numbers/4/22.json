@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Pag-ihap usab ⟨את⟩ sa mga ulo sa mga anak ni Gershon, sila usab, sumala sa ilang balay-ama, sumala sa ilang mga banay.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Pag-ihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga ulo sa mga anak ni Gershon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sumala sa ilang balay-ama"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:25.183950423Z",
+  "model": "glm-5.3"
+}

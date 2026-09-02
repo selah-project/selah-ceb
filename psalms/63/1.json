@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Usa ka mizmor ni David, sa pagka-adto niya sa kamingawan sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "sa pagka-adto niya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:49.500314339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug miingon si Yeshayahu kang Hizkiyahu: Paminawa ang pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:21.244100311Z",
+  "model": "glm-5.3"
+}

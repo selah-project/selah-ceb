@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨את⟩ inyong mga anak nga babaye kuhaon niya aron mahimong mga magbubuhat sa pahimutang, ug mga magluto, ug mga maghudhod sa tinapay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga anak nga babaye"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "inyong mga anak nga babaye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon niya"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "mga magbubuhat sa pahimutang"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ug mga magluto"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ug mga maghudhod sa tinapay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:05.197823022Z",
+  "model": "glm-5.3"
+}

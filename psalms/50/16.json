@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Apan ngadto sa dautan giingnan sa Elohim: Unsa may imong labot sa pagsulti sa akong mga balaod, samtang gisulod mo ang akong pakigsaad ngadto sa imong baba?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "apan ngadto sa dautan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingnan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imo \/ imong labot"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "sa akong mga balaod"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ug gisulod mo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:27.925528446Z",
+  "model": "glm-5.3"
+}

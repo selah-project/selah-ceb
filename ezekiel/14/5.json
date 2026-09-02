@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Aron mapakong niya ⟨את⟩ ang balay sa Israel sa ilang kaugalingong kasingkasing, nga nangahiwa sila gikan kanako pinaagi sa ilang mga diosdios — silang tanan.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "mapakong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sa Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa ilang kasingkasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "nangahiwa sila"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "sa ilang mga diosdios"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:37:47.579535463Z",
+  "model": "glm-5.3"
+}

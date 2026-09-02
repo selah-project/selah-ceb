@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Ikaw lamang ang motan-aw sa imong mga mata, ug makita nimo ang ganti sa mga dautan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ang motan-aw"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ug ang ganti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.011046758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kini ang buhaton namo sa ila: palakyon namo sila ⟨את⟩, aron dili mahitabo ⟨kanamo⟩ ang kasuko tungod sa panumpa nga among gisumpa sa ila.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "buhaton namo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "palakyon"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "⟨kanamo⟩"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kasuko"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "sa panumpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "among gisumpa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:37.059637554Z",
+  "model": "glm-5.3"
+}

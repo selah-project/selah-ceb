@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Hesed ug pagkamatinud-anon ayaw pagbiya ⟨kanimo⟩; ikaput kini sa imong liog, isulat kini sa plakehante sa imong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ug pagkamatinud-anon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "pagbiya kanimo"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "ikaput kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "imong liog"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "isulat kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "plakehante"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imong kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:23.123797880Z",
+  "model": "glm-5.3"
+}

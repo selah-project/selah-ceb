@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug siya miingon: Kon alang sa kalinaw sila migula, dakpa sila nga buhi; apan kon alang sa gubat sila migula, dakpa sila nga buhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "alang sa kalinaw"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sila migula"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "dakpa sila"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apan kon"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alang sa gubat"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sila migula"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "dakpa sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:31.559192433Z",
+  "model": "glm-5.3"
+}

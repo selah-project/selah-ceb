@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 45:15",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug usa ka karnero gikan sa panon, gikan sa mga gatos, gikan sa matubig nga kapatagan sa Yisrael — alang sa mincha, ug alang sa olah, ug alang sa shelamim, sa pag-aton alang kanila — giingon ni Adonay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושה",
+      "gloss": "Ug usa ka karnero"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "panon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המאתים",
+      "gloss": "mga gatos"
+    },
+    {
+      "surface": "ממשקה",
+      "gloss": "matubig nga kapatagan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "alang sa mincha"
+    },
+    {
+      "surface": "ולעולה",
+      "gloss": "ug alang sa olah"
+    },
+    {
+      "surface": "ולשלמים",
+      "gloss": "ug alang sa shelamim"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "sa pag-aton"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:47:47.467896578Z",
+  "model": "glm-5.3"
+}

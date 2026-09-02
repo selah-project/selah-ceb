@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 12:31",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gikan sa mga anak ni Efrayim kawhaan ka libo ug walo ka gatos, mga kusganon nga mandirigma, mga tawo sa mga ngalan, sumala sa balay sa ilahanang mga amahan.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Ug gikan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan ka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ug walo ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "kusganon nga mandirigma"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ka kusog"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sa mga ngalan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sumala sa balay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sa ilahang mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:30.289061276Z",
+  "model": "glm-5.3"
+}

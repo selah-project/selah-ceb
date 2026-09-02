@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 48:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Kay gikan sa ⟨balaang⟩ dakbayan sila gitawag, ug sa Elohim ni Yisrael sila nanalig — Yahweh-Tsevaot ang iyang ngalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "gikan sa dakbayan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "נקראו",
+      "gloss": "sila gitawag"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נסמכו",
+      "gloss": "sila nanalig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:13.310573158Z",
+  "model": "glm-5.3"
+}

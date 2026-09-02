@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Labaw sa mga tigulang ⟨ako⟩ nakasabot nga lawom, kay ang imong mga sugo gitipigan ko.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "labaw sa mga tigulang"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nakasabot nga lawom ⟨ako⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ang imong mga sugo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "gitipigan ko"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:06.139727839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ipaduol nimo ⟨את⟩ ang mga Levita atubangan ni Yahweh, ug butangon sa mga anak ni Yisrael ⟨את⟩ ang ilang mga kamot ibabaw sa mga Levita.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ipaduol nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "butangon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ilang mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "sa mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:45.218494369Z",
+  "model": "glm-5.3"
+}

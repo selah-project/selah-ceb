@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Moinom siya gikan sa sapa diha sa dalan; tungod niini itaas niya ang iyang ulo.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "gikan sa sapa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "diha sa dalan"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "Moinom siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "itaas niya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang iyang ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:09.851254111Z",
+  "model": "glm-5.3"
+}

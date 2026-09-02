@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Sa kamot nga kusog ug sa brasong nahunahuna ⟨nga gipadako⟩, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Sa kamot"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nga kusog"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "ug sa braso"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "natungha \/ gipadako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:44.826924615Z",
+  "model": "glm-5.3"
+}

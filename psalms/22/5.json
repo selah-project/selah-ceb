@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kanimo nagsalig ang among mga amihanon; nagsalig sila, ug giluwas mo sila.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagsalig"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ang among mga amihanon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagsalig sila"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "ug giluwas mo sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:42.719556482Z",
+  "model": "glm-5.3"
+}

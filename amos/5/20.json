@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Dili ba ⟨ang⟩ adlaw ni Yahweh kadiluman ug dili kahayag, ug kangitngit nga walay sinaw alang niini?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kadiluman"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "ug kangitngit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "sinaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:07.825319986Z",
+  "model": "glm-5.3"
+}

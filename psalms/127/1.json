@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 127,
+  "translation": "Awit sa mga pag-alsa, alang kang Shelomo. Kon si Yahweh dili magtukod ⟨sa⟩ balay, awa ang pagpaningkamot sa iyang mga magtutukod ⟨niini⟩; kon si Yahweh dili magbantay sa dakbayan, awa ang pagpabiling mata sa magbantay.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-alsa"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "alang kang Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "magtukod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "awa"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "nagpaningkamot"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "ang iyang mga magtutukod"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "awa"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "nagapabiling mata"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "sa magbantay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:57.773790026Z",
+  "model": "glm-5.3"
+}

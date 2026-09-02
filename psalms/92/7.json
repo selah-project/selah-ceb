@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Ang tawong walay hinungud wala makahibalo, ug ang buang wala makasabut ⟨את⟩ niini.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ang tawo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "walay hinungud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ug ang buang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "makasabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niini (זאת)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.759468935Z",
+  "model": "glm-5.3"
+}

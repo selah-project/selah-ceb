@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Mizmor ni David. Yahweh, gitawag taka; padali kang molingin ngari kanako; ipahilong ⟨ang⟩ akong tingog sa akong pagtawag Kanimo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gitawag taka"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "padali kang molingin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipahilong"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa akong pagtawag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:25.134839596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Dili ba dakol ang imong kadaotan, ug walay katapusan ang imong mga sala?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ang imong kadaotan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dakol"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "ang imong mga sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:40:29.152275901Z",
+  "model": "glm-5.3"
+}

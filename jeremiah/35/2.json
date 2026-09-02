@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Lakat ngadto sa balay sa mga Rekhavnon, ug sultihi ⟨את⟩ sila, ug idadla nimo sila ngadto sa balay ni Yahweh, ngadto sa usa ka kwarto, ug ipainom nimo ⟨את⟩ sila ug bino.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Lakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "mga Rekhavnon"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ug sultihi nimo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga Rekhavnon"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "ug idadla nimo sila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "kwarto"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ug ipainom nimo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "bino"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    }
+  ],
+  "timestamp": "2026-09-01T21:25:51.125648114Z",
+  "model": "glm-5.3"
+}

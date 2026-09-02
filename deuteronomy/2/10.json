@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "⟨Ang⟩ mga Emites nagpuyo kaniadto ⟨diha⟩ niini — usa ka dakong katawhan, ug daghan, ug taas, ingon sa mga Anakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "ang mga Emites"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kaniadto"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "diha niini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ug daghan"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ug taas"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "ingon sa mga Anakim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:19.932234021Z",
+  "model": "glm-5.3"
+}

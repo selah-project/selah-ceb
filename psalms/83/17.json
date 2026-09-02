@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Pun-i ang ilang mga nawong ug kaulaw, ug pangitaa nila ang imong ngalan, Yahweh.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Pun-i"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ang ilang mga nawong"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kaulaw"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "ug pangitaa nila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:42.479036182Z",
+  "model": "glm-5.3"
+}

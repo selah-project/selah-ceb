@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gikan sa kahayag sa iyang atubangan ang iyang mabug-at nga panganod mipalabay — ⟨mga⟩ yapo ug ⟨mga⟩ bara sa kalayo.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Gikan sa kahayag"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "sa iyang atubangan"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "ang iyang mabug-at nga panganod"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mipalabay"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "yapo"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ug mga bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:41.242157045Z",
+  "model": "glm-5.3"
+}

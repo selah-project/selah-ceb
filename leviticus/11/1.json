@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gisulti ni Yahweh kang Moshe ug kang Aharon, pag-ingon kanila,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "אַהֲרֹן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "pag-ingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:28.361231684Z",
+  "model": "glm-5.3"
+}

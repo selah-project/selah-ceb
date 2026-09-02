@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Siya usab naghimo ⟨Mga⟩ mga bamtad sa kabukiran sa Yehudah, ug gipakaon niya ⟨את⟩ ang mga pumoluyo sa Yerushalayim ug gipatumbas niya ⟨את⟩ ang Yehudah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "במות",
+      "gloss": "mga bamtad"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "gipakaon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo sa Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "gipatumbas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:03.871783018Z",
+  "model": "glm-5.3"
+}

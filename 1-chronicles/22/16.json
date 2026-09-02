@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa bulawan, sa plata, ug sa tumbaga, ug sa puthaw — walay ihap. Tumindog ka ug buhata, ug ang Yahweh ⟨mahiuban⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "sa plata"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "ug sa tumbaga"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "ug sa puthaw"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tumindog ka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhata"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug ⟨mahiuban⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:51.166563290Z",
+  "model": "glm-5.3"
+}

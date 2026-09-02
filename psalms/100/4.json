@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 100,
+  "translation": "Pagsulod kamo sa iyang mga ganghaan uban sa pagpasalamat, ug sa iyang mga nataran uban sa pagdayeg; pagdayeg kamo kaniya, pagpanalangin kamo sa iyang Ngalan.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Pagsulod kamo"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "sa iyang mga ganghaan"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "uban sa pagpasalamat"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "sa iyang mga nataran"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "uban sa pagdayeg"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pagpanalangin kamo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa iyang Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:19.481401206Z",
+  "model": "glm-5.3"
+}

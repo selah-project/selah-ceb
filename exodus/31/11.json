@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "ug ⟨את⟩ ang lana sa pagdihog ug ⟨את⟩ ang insenso sa mga pangmahimutang panakip alang sa balaan nga dapit — sumala sa tanan nga among gimando kanimo, buhaton nila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lana sa pagdihog"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "insenso sa mga pangmahimutang panakip"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sa mga pangmahimutang panakip"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "alang sa balaan nga dapit"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "among gimando kanimo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "buhaton nila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:00.851285334Z",
+  "model": "glm-5.3"
+}

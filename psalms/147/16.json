@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "⟨Siya⟩ nga nagahatag ug niebe ingon sa balahibo, yanong bahandi ingon sa abo iyang gikalat.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "⟨Siya⟩ nga nagahatag"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ug niebe"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ingon sa balahibo"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "yanong bahandi"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "ingon sa abo"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "iyang gikalat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.430178181Z",
+  "model": "glm-5.3"
+}

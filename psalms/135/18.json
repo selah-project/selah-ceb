@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Sama kanila mahimong ⟨mga tawo⟩ ang mga naghimo kanila; ang tanan nga nagatuo kanila.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "sama kanila"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ang mga naghimo kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagatuo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:18.686094021Z",
+  "model": "glm-5.3"
+}

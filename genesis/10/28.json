@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": " ug ⟨את⟩ si Ovol ug ⟨את⟩ si AvimaEl ug ⟨את⟩ si Sheva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Ovol"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si AvimaEl"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "AvimaEl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:59.593186464Z",
+  "model": "glm-5.3"
+}

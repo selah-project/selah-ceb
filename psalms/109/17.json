@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Gihigugma niya ang pagtulongon ug kini miabut ⟨kan⟩⟨ia⟩ kaniya; ug wala siya magmalig-on sa panalangin, ug kini milayo kaniya.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "gihibugma niya"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "ang pagtulongon"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "ug kini miabut kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nagmalig-on"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "sa panalangin"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "ug kini milayo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:33.400412759Z",
+  "model": "glm-5.3"
+}

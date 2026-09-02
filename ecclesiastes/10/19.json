@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Alang sa katawa gihimo ang tinapay, ug ang bino naglipay sa kinabuhion, apan ang salapi magtubag ⟨את⟩ sa tanan.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "alusod sa katawa"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ug ang bino"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "naglipay"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhion"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "apan ang salapi"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "magtubag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sa tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:46.073110421Z",
+  "model": "glm-5.3"
+}

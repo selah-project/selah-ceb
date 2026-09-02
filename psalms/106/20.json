@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gisiliban nila ⟨את⟩ ang ilang himaya sa dagway sa usa ka baka nga mokaon sa sagbot.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "ug gisiliban nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang himaya"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang ilang himaya"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "sa dagway"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sa usa ka baka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nga mokaon"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sa sagbot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:29.515814984Z",
+  "model": "glm-5.3"
+}

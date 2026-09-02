@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Shmuel nag-alagad ⟨את⟩ atbang ni Yahweh, usa ka batan-on, nagpusti ug ephod nga lino.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ug si Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atbang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "usa ka batan-on"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "nagpusti"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "nga lino"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:41.716103345Z",
+  "model": "glm-5.3"
+}

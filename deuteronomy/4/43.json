@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "⟨את⟩ ang Betser sa kamingawan, sa yuta sa patag nga dapit, alang sa mga Rubenita; ug ⟨את⟩ ang Ramot sa Gilead alang sa mga Gadi; ug ⟨את⟩ ang Golan sa Bashan alang sa mga Manase.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta sa"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "patag nga dapit"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "alang sa mga Rubenita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Ramot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilead"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "alang sa mga Gadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Golan"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "alang sa mga Manase"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:48.328470454Z",
+  "model": "glm-5.3"
+}

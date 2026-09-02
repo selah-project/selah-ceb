@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "⟨את⟩ ang habagatan ⟨nga⟩ dapit gisukod niya, lima ka gatos ka kawayan, uban sa kawayan sa pagsukod.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang habagatan nga dapit"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ang habagatan"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "gisukod"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos ka"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kawayan"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "uban sa kawayan"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "sa pagsukod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:46:40.968771298Z",
+  "model": "glm-5.3"
+}

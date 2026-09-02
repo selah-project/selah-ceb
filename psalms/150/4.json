@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 150,
+  "translation": "Pagdayegahamu siya sa tof ug sa sayaw; pagdayegahamu siya sa mga minnim ug sa ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "sa tof"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ug sa sayaw"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "sa mga minnim"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ug sa ugav"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:51.427741277Z",
+  "model": "glm-5.3"
+}

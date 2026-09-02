@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Dili ako mahadlok gikan sa napulo ka libo ⟨ka mga⟩ tawo, nga nagpalibot nagbutang sila batok kanako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako mahadlok"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "gikan sa napulo ka libo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nagpalibot"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nagbutang sila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:36.523962137Z",
+  "model": "glm-5.3"
+}

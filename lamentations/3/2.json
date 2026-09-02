@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "⟨את⟩ ako iyang gipalakip ug gipaadto sa kangitngit, ug dili ⟨sa⟩ kahayag.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "gipalakip"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug gipaadto sa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:57.786359763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ikaw, pagkuha alang kanimo sa tanan nga pagkaon nga makakaon, ug imong tigumon ngadto kanimo; ug mahimong ⟨kini⟩ pagkaon alang kanimo ug alang kanila.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "קח",
+      "gloss": "pagkuha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makakaon"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ug imong tigumon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "ug alang kanila"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:07.358633234Z",
+  "model": "glm-5.3"
+}

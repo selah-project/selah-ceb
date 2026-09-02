@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Lakaw, ug tiguma nimo ⟨את⟩ ang mga tigulang nga mangulo sa Yisrael, ug ingnan nimo sila: Si Yahweh, ang Elohim sa inyong mga amahan, nagpakita kanako — ang Elohim ni Avraham, ni Yitskhak, ug ni Yaakov — nga nag-ingon: Pagbisita ako nagbisita na ⟨את⟩ ⟨kaninyo⟩ ug ⟨את⟩ ang gibuhat ngadto kaninyo sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ug tiguma nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tigulang nga mangulo sa Yisrael"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga tigulang nga mangulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ug ingnan nimo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sa"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "inyong mga amahan"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ug ni Yaakov"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "pagbisita"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ako nagbisita na"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kaninyo⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang gibuhat ngadto kaninyo sa Mitsrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "ang gibuhat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ngadto kaninyo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:49.003522309Z",
+  "model": "glm-5.3"
+}

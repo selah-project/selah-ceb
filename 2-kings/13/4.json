@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Nangaliya si Yehoahaz ⟨את⟩ sa nawong ni Yahweh, ug gipaminaw siya ni Yahweh, kay nakita niya ⟨את⟩ ang kagutom-panalipod sa Israel, kay gigipit ⟨את⟩ sila sa hari sa Aram.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nangaliya"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "si Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa nawong ni Yahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa nawong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug gipaminaw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "rאה",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kagipit sa Israel"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ang kagipit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "gigipit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:04.377116020Z",
+  "model": "glm-5.3"
+}

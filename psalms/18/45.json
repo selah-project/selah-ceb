@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Sa pagdungog sa igdungog sa dalunggan, mamatikdi nila ako; ang mga anak sa langyaw magpakamatnuo kanako.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagdungog"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "igdungog sa dalunggan"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mamatikdi nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sa langyaw"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "magpakamatnuo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:58.762266665Z",
+  "model": "glm-5.3"
+}

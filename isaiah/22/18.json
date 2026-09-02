@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 22:18",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Pagpalid magapalid niya ikaw, pagpalid ⟨nga sama⟩ sa bola, ngadto sa yuta nga halapad ang ⟨mga⟩ kamot; didto ikaw mamatay, ug didto ang mga karitela sa imong himaya, ⟨kahimtang sa⟩ kaulaw sa balay sa imong mga agalon.",
+  "tokens": [
+    {
+      "surface": "צנוף",
+      "gloss": "Pagpalid"
+    },
+    {
+      "surface": "יצנפך",
+      "gloss": "magapalid niya ikaw"
+    },
+    {
+      "surface": "צנפה",
+      "gloss": "pagpalid"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "sa bola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "halapad"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ikaw mamatay"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "mga karitela"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sa imong himaya"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kaulaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sa imong mga agalon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:35.896243494Z",
+  "model": "glm-5.3"
+}

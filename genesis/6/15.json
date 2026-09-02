@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug kini ang imong buhaton ⟨את⟩ kini: tulo ka gatos ka siko ang gitas-on sa arka, singkwenta ka siko ang gilapdon niini, ug Trenta ka siko ang gitas-on padung sa taas niini.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos ka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang gitas-on"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sa arka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "singkwenta ka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ang gilapdon niini"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug Trenta ka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ang gitas-on padung sa taas niini"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:00.904041717Z",
+  "model": "glm-5.3"
+}

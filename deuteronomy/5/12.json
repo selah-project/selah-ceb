@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Bantayan mo ⟨את⟩ ang adlaw sa Shabbat aron sa pagcabalaan niini, sumala sa gimando ni Yahweh ⟨nga⟩ Elohim mo kanimo.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Bantayan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang adlaw sa Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "aron sa pagcabalaan niini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "gimando ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:45.031759786Z",
+  "model": "glm-5.3"
+}

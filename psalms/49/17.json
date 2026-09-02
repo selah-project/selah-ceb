@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ayaw kahadlok kung adunay magpadato nga tawo, kung modako ang kavod sa iyang balay;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "magpadato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "modako"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kavod"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa iyang balay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:00.347356616Z",
+  "model": "glm-5.3"
+}

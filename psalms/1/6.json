@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay nasayod si Yahweh sa dalan sa mga sadik, apan ang dalan sa mga rash-a mangawala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nasayod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga sadik"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "apan ang dalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga rash-a"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mangawala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:43.706029639Z",
+  "model": "glm-5.3"
+}

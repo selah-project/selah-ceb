@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ⟨את⟩ Kivtsayim ug ⟨את⟩ ang iyang mga migrah, ug ⟨את⟩ Beit-Khoron ug ⟨את⟩ ang iyang mga migrah — upat ka dakbayan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Kivtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kivtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:13.948522477Z",
+  "model": "glm-5.3"
+}

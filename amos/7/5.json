@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug nangingon ako: Adonay Yahweh, hunong na ⟨kana⟩; unsa man ang mobangon sa Yaakov, kay gamay siya?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ug nangingon ako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "hunong"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa\/unsay"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:27.363295525Z",
+  "model": "glm-5.3"
+}

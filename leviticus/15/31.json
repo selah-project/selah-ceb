@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug pagbuwag ninyo ⟨את⟩ ang mga anak ni Yisrael gikan sa ilang kalaparon, aron sila dili mamatay sa ilang kalaparon sa paglapar nila ⟨את⟩ sa akong puloy-anan nga anaa sa taliwala nila.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "Ug pagbuwag ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "gikan sa ilang kalaparon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila mamatay"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "sa ilang kalaparon"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "sa paglapar nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong puloy-anan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "akong puloy-anan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "anaa sa taliwala nila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:56.618667622Z",
+  "model": "glm-5.3"
+}

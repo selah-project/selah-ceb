@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang akong dodi masilak ug mapula, hataas ug bandila ⟨sa⟩ pipila ka libo.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ang akong dodi"
+    },
+    {
+      "surface": "צח",
+      "gloss": "masilak"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "ug mapula"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "hataas ug bandila (nakalaraw)"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "pipila ka libo"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:11.231686493Z",
+  "model": "glm-5.3"
+}

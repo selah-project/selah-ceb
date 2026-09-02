@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gimol ni Yahweh Elohim ⟨את⟩ ang tawo nga abo gikan sa yuta (hawmad), ug gihipo niya sa iyang ilong ang gininhawa sa kinabuhi, ug nahimong nagkahinasing kalag ang tawo.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "ug gimol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nga abo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yuta (hawmad)"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ug gihipo"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "sa iyang ilong"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ang gininhawa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nagkahinasing"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:17.018426710Z",
+  "model": "glm-5.3"
+}

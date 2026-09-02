@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Usa ka mizmor ni Asaf. El, Elohim, Yahweh, nagsulti ug gitawag niya ⟨ang⟩ yuta gikan sa pagsidlak sa adlaw hangtod sa iyang pagsalop.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "gikan sa pagsidlak"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "iyang pagsalop"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:28.822851402Z",
+  "model": "glm-5.3"
+}

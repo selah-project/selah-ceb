@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Burdén sa pulong ni Yahweh ngadto sa Yisrael pinaagi sa kamot ni Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Burdén"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa kamot ni"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:34.592539796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 8:8",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Nagbasa sila sa libro, sa Torah ni Elohim, nga gipasabut ⟨nga maayo⟩, ug naghatag ug sekhel ⟨sa pagtulonhon⟩, ug nagpasabot nila ang gibasa.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "Nagbasa sila"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa libro"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa Torah ni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפרש",
+      "gloss": "nga gipasabut"
+    },
+    {
+      "surface": "ושום",
+      "gloss": "ug nagbutang"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "sekhel (pagtulonhon)"
+    },
+    {
+      "surface": "ויבינו",
+      "gloss": "ug nagpasabot nila"
+    },
+    {
+      "surface": "במקרא",
+      "gloss": "ang gibasa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:28.607874892Z",
+  "model": "glm-5.3"
+}

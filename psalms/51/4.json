@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Hinumogi ako pag-ayo gikan sa akong kasal-anan, ug gikan sa akong sala hinloan ako.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "pag-ayo"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Hinumogi ako"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": " gikan sa akong kasal-anan"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": " ug gikan sa akong sala"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": " hinloan ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.855977565Z",
+  "model": "glm-5.3"
+}

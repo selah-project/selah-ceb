@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan sa kining butanga wala kamo motoo kang Yahweh nga inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Apan sa kining butanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "wala kamo"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "motoo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:49.999149458Z",
+  "model": "glm-5.3"
+}

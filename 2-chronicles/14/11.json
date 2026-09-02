@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Uz gipamildi ni Yahweh ⟨את⟩ ang mga Kushite atubang ni Asa ug atubang sa Yehudah; ug nanikad ang mga Kushite.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ug gipamildi ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Kushite"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "ang mga Kushite"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ug atubang sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ug nanikad ang"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "mga Kushite"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:34.107297830Z",
+  "model": "glm-5.3"
+}

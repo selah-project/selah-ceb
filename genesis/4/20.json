@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gitanaw ni Adah ⟨את⟩ si Yaval; siya mao ang amahan sa mga nagpuyo sa tolda ug sa mga nagbantay sa kahayupan.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "gitanaw ni"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaval"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "si Yaval"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mao ang"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan sa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mga nagpuyo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ug sa mga kahayupan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:43.846913521Z",
+  "model": "glm-5.3"
+}

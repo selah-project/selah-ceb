@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Luponon ako sa akong mga kaaway tibuok ⟨ang⟩ adlaw, kay daghan ang nakigbatok kanako, ⟨O⟩ kahitas-an.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "luponon ako"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ang⟩ adlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ang nakigbatok"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "kahitas-an"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:15.166498253Z",
+  "model": "glm-5.3"
+}

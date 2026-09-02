@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Bantayi ako ingon sa itom sa mata, ⟨ang⟩ anak sa mata; sa landong sa imong mga pako itago Mo ako.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Bantayi ako"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ingon sa itom sa mata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨ang⟩ anak"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sa mata"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa landong"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa imong mga pako"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "itago Mo ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:59.176529678Z",
+  "model": "glm-5.3"
+}

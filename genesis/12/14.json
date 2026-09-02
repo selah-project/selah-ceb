@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nahitabo, sa pag-abot ni Avram ngadto sa Mitsrayim, nga nakita sa mga taga-Mitsrayim ⟨את⟩ ⟨ang⟩ babaye nga siya matahum kaayo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ngadto sa Mitsrayim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "nga nakita"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "sa mga taga-Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ babaye"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨ang⟩ babaye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:17.417413140Z",
+  "model": "glm-5.3"
+}

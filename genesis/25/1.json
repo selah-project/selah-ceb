@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug midugang pa si Avraham ug mikuha ug asawa, ug ang iyang ngalan mao si Keturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "midugang pa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mikuha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ug asawa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "si Keturah"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:43.787141955Z",
+  "model": "glm-5.3"
+}

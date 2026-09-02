@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nahitabo kini, pagkahuman ni Shelomoh sa pagtukod ⟨את⟩ sa balay ni Yahweh ug ⟨את⟩ sa balay sa hari, ug ⟨את⟩ sa tanang kalingaw ni Shelomoh nga iyang gikalipay nga buhaton.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "pagkahuman"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa balay sa hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa tanang kalingaw ni Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "kalingaw"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gikalipay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:01.075738327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug iyang itigbabas ⟨את⟩ niini sa kilid sa halaran sa amihanan, atubangan ni Yahweh; ug igwamsak sa mga anak ni Aharon, ang mga kohen, ⟨את⟩ sa iyang dugo sa ibabaw sa halaran sa palibot.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ug iyang itigbabas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "sa amihanan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "ug igwamsak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sa iyang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:52.729478973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Hangtod sa kahangtin ba nga masuko ka kanamo? Madugayon ba nimo ang imong kapungot ⟨hangtod⟩ sa henerasyon ug henerasyon?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Hangtod sa kahangtin ba"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "masuko"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Madugayon ba"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "imong kapungot"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:45.669128428Z",
+  "model": "glm-5.3"
+}

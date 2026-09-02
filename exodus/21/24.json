@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "mata baylo sa mata, ngipon baylo sa ngipon, kamot baylo sa kamot, tiil baylo sa tiil.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "baylo sa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "baylo sa"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "baylo sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "baylo sa"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:06.135693078Z",
+  "model": "glm-5.3"
+}

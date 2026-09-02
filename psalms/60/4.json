@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Gipakurog Mo ang yuta, gilansa Mo kini — ayuhon Mo ang mga gukab niini, kay kini nagkurog.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Gipakurog Mo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "gilansa Mo kini"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ayuhon Mo"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ang mga gukab niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kini nagkurog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:13.567427706Z",
+  "model": "glm-5.3"
+}

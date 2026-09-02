@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nadungog ni Atalya ⟨את⟩ ang tingog sa mga tigdagan, ⟨ang⟩ katawhan, ug misulod siya ngadto sa katawhan ⟨adto⟩ sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "Ug nadungog"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "sa mga tigdagan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ug misulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:23.119482853Z",
+  "model": "glm-5.3"
+}

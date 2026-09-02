@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nahitabo kini paglabay sa udto, ug nagpanagma sila hangtod sa pagsaka sa ⟨ang⟩ halad sa kagabhion, apan walay tingog, ug walay mosimbag, ug walay mamati.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "paglabay sa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "udto"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "nagpanagma sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "pagsaka sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "halad sa kagabhion"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "apan walay"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "mosimbag"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "mamati"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:09.211777827Z",
+  "model": "glm-5.3"
+}

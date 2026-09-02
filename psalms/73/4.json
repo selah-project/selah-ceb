@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Kay walay mga hagkos alang sa ilang kamatayon, ug barako ang ilang lawas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "mga hagkos"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "alang sa ilang kamatayon"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ug barako"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ang ilang lawas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:08.618718634Z",
+  "model": "glm-5.3"
+}

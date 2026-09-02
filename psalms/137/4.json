@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Unsaon nato pag-awit ⟨את⟩ sa awit ni Yahweh sa yuta nga lain?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Unsaon nato"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "pag-awit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa awit ni Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nga lain"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.826843773Z",
+  "model": "glm-5.3"
+}

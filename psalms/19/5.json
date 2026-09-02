@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Sa tibook ⟨nga⟩ yuta migawas ang ilang linya, ug ngadto sa mga kinatumyan sa kalibotan ang ilang mga pulong; alang sa adlaw nagbutang ⟨siya⟩ og tolda sulod nila.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa tibook"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "migawas"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ang ilang linya"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ug ngadto sa mga kinatumyan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa kalibotan"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ang ilang mga pulong"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "alang sa adlaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sulod nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:49.289544293Z",
+  "model": "glm-5.3"
+}

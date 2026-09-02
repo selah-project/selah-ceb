@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Daghan ang nagaingon mahitungod sa akong nefesh, “Walay kaluwasan alang kaniya sa Elohim.” Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Daghan"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ang nagaingon"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mahitungod sa akong nefesh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "kaluwasan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:27.976829019Z",
+  "model": "glm-5.3"
+}

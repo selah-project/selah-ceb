@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Si Benayahu nga anak ni Yehoyada, ⟨mga liyoranan⟩ sa mga Kereti ug sa mga Peleti; ug ang mga anak ni David mga saserdote ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Si Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "sa mga Kereti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "sa mga Peleti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨kini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:37.654120080Z",
+  "model": "glm-5.3"
+}

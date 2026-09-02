@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang anak nga babae sa sacerdote, kung mahimong ⟨asawa⟩ siya sa usa ka tagagawas nga lalake, siya sa terumah sa mga balaan nga butang dili mokaon.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ug ang anak nga babae"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa usa ka lalake"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tagagawas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "sa terumah"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga balaan nga butang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mokaon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:34.230420683Z",
+  "model": "glm-5.3"
+}

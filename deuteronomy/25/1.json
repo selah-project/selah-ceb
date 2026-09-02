@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Kon adunay pagbangi tali sa mga tawo ug sila moduol sa ⟨hukmanan⟩ ug magahukom sila ⟨kanila⟩, ug ipakamatarong nila ⟨את⟩ ang matarong ug ipakasala nila ⟨את⟩ ang salaon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pagbangi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tali sa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ug moduol sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukmanan"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ug magahukom sila"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ug ipakamatarong nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang matarong"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ug ipakasala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salaon"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang salaon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:09.123626799Z",
+  "model": "glm-5.3"
+}

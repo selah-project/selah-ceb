@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gidumilian nila ang yuta nga pangandoy, wala sila motuo sa iyang pulong,",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Ug gidumilian nila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "nga pangandoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sila motuo"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "sa iyang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:18.283705932Z",
+  "model": "glm-5.3"
+}

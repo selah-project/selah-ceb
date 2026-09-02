@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Sa mga salix⟨mga willow⟩ didto sa tunga niini among gabitay ⟨ang among mga kinor⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "mga willow"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "sa tunga niini"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "among gabitay"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ang among mga kinor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.826519892Z",
+  "model": "glm-5.3"
+}

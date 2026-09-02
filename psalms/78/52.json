@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gipahunahuna niya ang iyang katawhan ⟨nga molarga⟩ sama sa mga karnero, ug gitudlo niya sila sama sa panon sa mga carabao ⟨sa⟩ kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "gipahunahuna niya ⟨nga molarga⟩"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "sama sa mga karnero"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "gitudlo niya sila"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "sama sa panon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:13.363034441Z",
+  "model": "glm-5.3"
+}

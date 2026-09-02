@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa ikatulong adlaw nagtan-aw sa itaas si Avraham ⟨את⟩ sa iyang mga mata, ug nakita niya ⟨את⟩ ang dapit gikan sa layo.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatulong"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nagtan-aw sa itaas"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iyang mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dapit"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang dapit"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "gikan sa layo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:42.650349217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Malipayon ang nasud kansa nga Elohim ⟨ang⟩ Yahweh — ang katawhan nga iyang gipilian ingon nga iyang manunanaw.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang nasud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kansa nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim niya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "gipilian"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ingon nga manunanaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:08.807314527Z",
+  "model": "glm-5.3"
+}

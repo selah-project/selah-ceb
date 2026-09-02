@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Sa pagkaguba, naguba ang yuta; sa pagkabungkag, nabungkag ang yuta; sa pagkahisalaog, naghisalaog ang yuta.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Sa pagkaguba"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "naguba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "פור",
+      "gloss": "Sa pagkabungkag"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "nabungkag"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "sa pagkahisalaog"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "naghisalaog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:13.943873634Z",
+  "model": "glm-5.3"
+}

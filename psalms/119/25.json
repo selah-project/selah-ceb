@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nagadikit sa abo ang akong nefesh; palangiga ako sumala sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nagadikit"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa abo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "palangiga ako"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sumala sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.894173170Z",
+  "model": "glm-5.3"
+}

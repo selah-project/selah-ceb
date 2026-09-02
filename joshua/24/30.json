@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 24:30",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gilubong nila ⟨siya⟩ sa utlanan sa iyang panulondon, sa Timnat-Serakh nga anaa sa bukid sa Efrayim, amihanan sa bukid sa Gaash.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "gilubong nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sa utlanan"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sa iyang panulondon"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "sa Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Serakh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga anaa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sa Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "amihanan"
+    },
+    {
+      "surface": "להר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "געש",
+      "gloss": "sa Gaash"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:12.032238842Z",
+  "model": "glm-5.3"
+}

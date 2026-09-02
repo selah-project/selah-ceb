@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kay gisangtad ni Yahweh ⟨את⟩ si Hannah, ug nangabdos siya ug natawo ug tulo ka mga anak nga lalaki ug duha ka mga anak nga babae; ug mitubo ang batang si Shemuel kauban ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "gisangtad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hannah"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hannah"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ug nangabdos"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ug natawo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ug duha ka"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babae"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ug mitubo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:28.363843388Z",
+  "model": "glm-5.3"
+}

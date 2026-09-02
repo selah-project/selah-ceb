@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kaninyo, mga tawo, ako magtawag, ug ang akong tingog ⟨moabot⟩ ngadto sa mga anak ni Adam",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Kaninyo"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako magtawag"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "ug ang akong tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:27.408181975Z",
+  "model": "glm-5.3"
+}

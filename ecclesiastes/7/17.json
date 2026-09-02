@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ayaw pagpakasala ⟨ug⟩ kaayo, ug ayaw pagkahingangaw; ngano man nga mamatay ka nga wala pa ang imong panahon?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "pagpakasala"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "pagkahimo"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "hingangaw"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano man"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mamatay ka"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nga wala pa"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ang imong panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:23.555458794Z",
+  "model": "glm-5.3"
+}

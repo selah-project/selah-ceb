@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ingon sa mga nasod nga gipalaho ni Yahweh gikan sa inyong atubangan, ingon niana kamo maglaho — tungod kay dili kamo mamati sa tingog ni Yahweh nga inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "ingon sa mga nasod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "gipalaho"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "gikan sa inyong atubangan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "kamo maglaho"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "kamo mamati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:29.638617369Z",
+  "model": "glm-5.3"
+}

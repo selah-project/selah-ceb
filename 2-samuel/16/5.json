@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 16:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug miabot ang hari nga si David hangtod sa Bakhurim, ug ania karon, gikan didto may usa ka tawo nga mogawas gikan sa banay sa balay ni Shaul, ug ang iyang ngalan mao si Shimei nga anak ni Gera; nagagawas siya nga kinahanglan ug nagatumar ⟨nga tungod sa iyang paggawas⟩ ug nagpakalagot ⟨sa paglampas⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "Bakhurim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "gikan sa banay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ug ang iyang ngalan"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "si Shimei"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "ni Gera"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nagagawas"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "kinahanglan nga mogawas"
+    },
+    {
+      "surface": "ומקלל",
+      "gloss": "ug nagatumar"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:31.848246136Z",
+  "model": "glm-5.3"
+}

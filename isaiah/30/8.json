@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Karon, umadto ⟨ka⟩, isulat kini sa pisa ⟨את⟩ sa ilang atubangan, ug isul-ob kini sa basahon, aron mahimo kini ⟨saksi⟩ alang sa ulahing adlaw, hangtod sa dayon, hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Karon"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "umadto"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "isulat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "pisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang atubangan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "basahon"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "isul-ob"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "aron mahimo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "alamat sa adlaw"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ulahing"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:20.592727135Z",
+  "model": "glm-5.3"
+}

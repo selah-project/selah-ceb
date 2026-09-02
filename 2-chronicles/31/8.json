@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug miabot si Yehizkiyahu ug ang mga mangulo, ug nakita nila ⟨את⟩ ang mga tumpok, ug gipanalanginan nila ⟨את⟩ si Yahweh ug ⟨את⟩ ang iyang katawhan nga si Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "si Yehizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "ug ang mga mangulo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ug nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tumpok"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ang mga tumpok"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ug gipanalanginan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang katawhan nga si Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:20.836978479Z",
+  "model": "glm-5.3"
+}

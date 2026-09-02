@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Gibilin ni David ⟨את⟩ ang mga butang sa ibabaw kaniya ngadto sa kamot sa magbantay sa mga butang, ug midagan siya ngadto sa pormasyon, ug miabot, ug nangutana siya sa iyang mga igsoon mahitungod sa ilang kahimsog.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "gibilin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga butang"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ang mga butang"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "sa ibabaw kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "sa mga butang"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ug midagan siya"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ngadto sa pormasyon"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ug nangutana siya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa iyang mga igsoon"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mahitungod sa ilang kahimsog (shalom)"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:06.398578010Z",
+  "model": "glm-5.3"
+}

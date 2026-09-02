@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang tibuok nga katilingban sa Yisrael magabuhat niini ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "magabuhat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niini",
+      "marks": "ang Pesakh (gibituon sa miaging bersikulo)"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:45.188390756Z",
+  "model": "glm-5.3"
+}

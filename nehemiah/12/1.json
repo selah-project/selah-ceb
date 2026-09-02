@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug kini ang mga paryente ug ang mga Levita nga misaka kauban si Zerubavel nga anak ni Shealtiyel ug si Yeshua: Serayah, Yirmeyah, Ezra,",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga paryente"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ug ang mga Levita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "misaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "si Zerubavel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ni Shealtiyel"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "ug si Yeshua"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeyah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    }
+  ],
+  "timestamp": "2026-09-01T23:07:06.157551006Z",
+  "model": "glm-5.3"
+}

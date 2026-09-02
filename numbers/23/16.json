@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug nagpakita si Yahweh kang Bilam ug nagbutang ug pulong sa iyang baba, ug miingon: Balik kang Balak ug ingon niini imong isulti.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Ug nagpakita si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug nagbutang ug"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Balik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ug ingon niini"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "imong isulti"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:02.993292891Z",
+  "model": "glm-5.3"
+}

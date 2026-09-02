@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Pila ka higayon nila siya gipakapait sa kamingawan, siya gisakit sa kahawiran nga dapit!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Pila ka higayon"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "nila siya gipakapait\/pagrebelde"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "siya gisakit"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa kahawiran nga dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:19.809253974Z",
+  "model": "glm-5.3"
+}

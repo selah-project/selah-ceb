@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si David ngadto sa batan-on nga nagsulti kaniya: Unsaon nimo pag-ila nga patay na si Shaul ug si Yehonatan nga iyang anak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "batan-on"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "איך",
+      "gloss": "unsaon"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "imo pag-ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ug si Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:19.579540418Z",
+  "model": "glm-5.3"
+}

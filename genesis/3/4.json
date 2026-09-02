@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon ang bitin sa babaye: \"Dili gayod kamatay kamo pagkamatay.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ang bitin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Dili gayod"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pagkamatay"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kamo mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:53.999566570Z",
+  "model": "glm-5.3"
+}

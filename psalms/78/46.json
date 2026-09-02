@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gihatag niya ⟨ang⟩ tinubos nila ngadto sa ulod-nganod, ug ang kabalik-an nila ngadto sa balang.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Gihatag niya"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "ngadto sa ulod-nganod"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "ang tinubos nila"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "ug ang kabalik-an nila"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ngadto sa balang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:23.218981608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Ang tibuok nga yuta moyukbo kanimo ug mag-awit kanimo; mag-awit sila sa imong ngalan. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "moyukbo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ug mag-awit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "mag-awit sila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:26.442828941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon si Moshe: Molia ko karon aron makita ko ⟨את⟩ kining dako kaayong panan-aw — ngano nga wala masunog ang agta?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Molia ko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "aron makita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining dako kaayong panan-aw"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ang panan-aw"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "dako kaayo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "masunog"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ang agta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:52.710690346Z",
+  "model": "glm-5.3"
+}

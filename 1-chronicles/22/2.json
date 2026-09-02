@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 22:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug si Dawid nagsugo pagtigum sa ⟨את⟩ ⟨ang⟩ mga dayo nga anaa sa yuta sa Yisrael, ug nagbutang siya ug mga mamumutol sa bato sa pagputol ug mga bato nga gitas-on aron sa pagtukod sa balay ni ⟨ang⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si Dawid"
+    },
+    {
+      "surface": "לכנוס",
+      "gloss": "sa pagtigum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ mga dayo"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "⟨ang⟩ mga dayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ug nagbutang"
+    },
+    {
+      "surface": "חצבים",
+      "gloss": "mga mamumutol sa bato"
+    },
+    {
+      "surface": "לחצוב",
+      "gloss": "sa pagputol"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "nga gitas-on"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "aron sa pagtukod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni ⟨ang⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:52.064676507Z",
+  "model": "glm-5.3"
+}

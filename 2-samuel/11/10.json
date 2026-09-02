@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 11:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gisugiran si David ⟨nga nag-ingon⟩: Wala manaog si Uriya sa iyang balay. Ug miingon si David kang Uriya: Wala ka ba gikan sa pagpanaw? Ngano nga wala ka manaog sa imong balay?",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "gisugiran"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "manaog"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "wala ka ba"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "sa pagpanaw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "ka manaog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imong balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:14.729776588Z",
+  "model": "glm-5.3"
+}

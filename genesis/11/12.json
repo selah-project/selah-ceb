@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug si Arpakshad nagkinabuhi ug lima ug kawhaan ug napulo ka tuig, ug natawo siya ⟨את⟩ Shelakh.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ug si Arpakshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nagkinabuhi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug kawhaan ug napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:20.032859522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Sa usa ka gutiay nga kadihaton biyaan ta ikaw, apan sa dakong kalooy tigumon ta ikaw pagbalik.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "sa usa ka kadihaton"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "gutiay"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "biyaan ta ikaw"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "apan sa dakong kalooy"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "tigumon ta ikaw pagbalik"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:02.118779893Z",
+  "model": "glm-5.3"
+}

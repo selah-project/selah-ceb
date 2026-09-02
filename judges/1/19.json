@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Yahweh ⟨את⟩ ⟨may kalakip ni⟩ Yehudah, ug gihiusa nila ⟨את⟩ ang kabukiran, kay wala nila mahingaabot ang mga pumoluyo sa sapat, kay adunay sila mga kareta nga bato.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨may kalakip ni⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "gihiusa nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kabukiran"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang kabukiran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "mahingaabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo sa sapat"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "sa sapat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "mga kareta"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "bato"
+    },
+    {
+      "surface": "להם",
+      "gloss": "adunay sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:19.348538657Z",
+  "model": "glm-5.3"
+}

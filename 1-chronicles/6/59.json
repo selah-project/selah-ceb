@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gikan sa tribo ni Asher ⟨את⟩ Mashal uban ⟨את⟩ sa iyang mga migrah, ug ⟨את⟩ Avdon uban ⟨את⟩ sa iyang mga migrah.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ug gikan sa tribo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashal"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga migrah"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sa iyang mga migrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga migrah"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sa iyang mga migrah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:17.136956954Z",
+  "model": "glm-5.3"
+}

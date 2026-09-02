@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Hangtod nga moabot ang iyang pulong — ang gisulti ni Yahweh nagpanunod kaniya.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iyang pulong"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ang gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "nagpanunod kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:13.834489076Z",
+  "model": "glm-5.3"
+}

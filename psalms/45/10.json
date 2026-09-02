@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Mga anak nga babaye sa mga hari anaa sa imong mga ginatahuron; nagtindog ⟨siya⟩ ang reyna sa imong too, bulawan nga tinunaw sa Ophir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babaye"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "sa imong mga ginatahuron"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "ang reyna"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "sa imong too"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "bulawan nga tinunaw"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "sa Ophir"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:48.849965829Z",
+  "model": "glm-5.3"
+}

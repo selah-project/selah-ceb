@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug mahimong ang Babilonya —kahayag sa mga gingharian, dayandayan sa kagahum sa mga Kasdi— sama sa pagpangbalik ni Elohim ⟨sa⟩ ⟨את⟩ Sodoma ug ⟨את⟩ Amora.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ang Babilonya"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "sa mga gingharian"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "dayandayan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sa kagahum"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "sa mga Kasdi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "sama sa pagpangbalik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodoma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Amora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:46.130658693Z",
+  "model": "glm-5.3"
+}

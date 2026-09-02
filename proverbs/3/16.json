@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Taas nga kinabuhi ⟨adunay⟩ sa iyang too, ug sa iyang wala ⟨adunay⟩ bahandi ug dungog.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Taas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga kinabuhi"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "sa iyang too"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "sa iyang wala"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bahandi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ug dungog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:12.028518268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gikapitan ni David ang iyang mga bisti ug gisi niya sila, ug usab ang tanan nga mga tawo nga ⟨anaa⟩ ⟨⟨את⟩⟩ kauban niya.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ug gikapitan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ang iyang mga bisti"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ug gisi niya sila"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kauban niya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:36.758948294Z",
+  "model": "glm-5.3"
+}

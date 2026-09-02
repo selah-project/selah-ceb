@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug tan-awon sa pakohanan ⟨את⟩ ang dampoa, ug isira ⟨niya⟩ ⟨את⟩ ang gidagitang butang pito ka adlaw.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa pakohanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dampoa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang dampoa"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ug isira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dampoa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang gidagitang dampoa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:41.288039067Z",
+  "model": "glm-5.3"
+}

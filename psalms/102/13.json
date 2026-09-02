@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Ug ikaw, Yahweh, hangtod sa kahangturan magalingkod ⟨ka⟩, ug ang imong paghinumdom ⟨moadto⟩ sa kaliwatan ngadto sa kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "magalingkod"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ug ang imong paghinumdom"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngadto sa kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:57.719214693Z",
+  "model": "glm-5.3"
+}

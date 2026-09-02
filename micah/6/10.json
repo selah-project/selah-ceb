@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Aduna ⟨ba⟩ pa bay bahandi sa kadautan sa balay sa dautan, ug ang epa nga masulub-on — nga gikasuko kini?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨ba⟩ ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "bahandi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa kadautan"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ug ang epa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "masulub-on"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "gikasuko"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:46.343314259Z",
+  "model": "glm-5.3"
+}

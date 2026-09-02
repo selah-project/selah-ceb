@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Daghan na ka nga higayuna luwason niya sila, apan sila nagminomho sa ilang tambag, ug nalugda sila tungod sa ilang sala.",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "higayuna"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "Daghan"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "luwason niya sila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "apan sila"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "nagminomho"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "sa ilang tambag"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "nalugda sila"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "tungod sa ilang sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.884992148Z",
+  "model": "glm-5.3"
+}

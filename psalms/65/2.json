@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Kanimo ang paghilum ⟨ang⟩ pagdayeg, Elohim, sa Tsiyon, ug kanimo mataguman ⟨ang⟩ saad.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "paghilum"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pagdayeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ug kanimo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mataguman"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "saad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:50.031285033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug si Yahweh ⟨kauban⟩ ni Yosef, ug siya nahimong tawong matinagdanon, ug siya anaa sa balay sa iyang agalon, ang Mitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug siya nahimo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "matinagdanon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug siya anaa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sa iyang agalon"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ang Mitsri"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:04.210786187Z",
+  "model": "glm-5.3"
+}

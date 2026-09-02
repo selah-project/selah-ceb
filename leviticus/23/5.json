@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Sa unang bulan, sa ikanapulog-upat ⟨sa⟩ bulan, taliwala sa mga kakahaponan, ⟨adunay⟩ Pesach alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "sa unang"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa upat ka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sa mga kakahaponan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:12.869524926Z",
+  "model": "glm-5.3"
+}

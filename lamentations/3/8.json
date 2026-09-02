@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Bisan pa nga mosinggit ako ug motawag ⟨ako⟩ alang sa tabang, gipusli niya ang akong pag-ampo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "mosinggit ako"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ug motawag alang sa tabang"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "gipusli"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:37.530819950Z",
+  "model": "glm-5.3"
+}

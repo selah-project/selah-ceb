@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 1:15",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Magadala pa ako ⟨ug⟩ manunakop kanimo, ⟨ikaw⟩ nga nagapuyo sa Mareshah; hangtod sa Adulam moabot ang himaya sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "הירש",
+      "gloss": "⟨ang⟩ manunakop"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "magadala ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "nga nagapuyo"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "sa Mareshah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:19.464738771Z",
+  "model": "glm-5.3"
+}

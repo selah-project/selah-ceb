@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Dako ang iyang himaya sa Imong kaluwasan; kahalangdon ug kadungganan imong gipahimutang ibabaw Kaniya.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "iya nga himaya"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sa Imong kaluwasan"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "kahalangdon"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ug kadungganan"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "imong gipahimutang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ibabaw Kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:23.886604338Z",
+  "model": "glm-5.3"
+}

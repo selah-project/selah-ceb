@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "\"Apan sa bunga sa kahoy nga anaa sa taliwala sa tanan, giingon ni Elohim: 'Dili kamo mokaon niini, ni kamo mora niini, aron kamo dili mamatay.'\"",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Apan sa bunga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sa kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kamo mokaon"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni dili"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kamo mora"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "kamo mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:53.999386714Z",
+  "model": "glm-5.3"
+}

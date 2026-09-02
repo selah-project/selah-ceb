@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Daghan kaayo ang imong mga buhat, o Yahweh! Tanan nimong gibuhat uban sa kaalam; puno ang yuta sa imong mga binuhat.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Daghan kaayo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang imong mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "uban sa kaalam"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nimo gibuhat"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "puno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "sa imong mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:01.302752317Z",
+  "model": "glm-5.3"
+}

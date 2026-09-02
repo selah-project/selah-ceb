@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug karon, pagdala kanako ug usa ka magtutogtog. Ug nahitabo, samtang nagatugtog ang magtutogtog, nga naangkon sa iya ang kamot ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pagdala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "usa ka magtutogtog"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "samtang nagatugtog"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "ang magtutogtog"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nga naangkon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:14.167777484Z",
+  "model": "glm-5.3"
+}

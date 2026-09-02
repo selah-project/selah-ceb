@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gitipon nila kini ⟨את⟩ sa buntag sa matag buntag, matag tawo sumala sa iyang pagkaon; ug kung nag-init na ang adlaw, natunaw kini.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "gitipon nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang manna nga gitipon)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa matag buntag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "iyang pagkaon"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kung nag-init na"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "natunaw kini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:23.253625493Z",
+  "model": "glm-5.3"
+}

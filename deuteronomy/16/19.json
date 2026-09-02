@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ayaw pagbaliligda sa paghukom; ayaw pag-ila sa mga nawong; ug ayaw pagdakop sa suhol, kay ang suhol nagabula sa mga mata sa mga maalamon ug nagapatilsik sa mga pulong sa mga matarong.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "pagbaliligda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "pag-ila"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa mga nawong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pagdakop"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sa suhol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ang suhol"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "nagabula"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalamon"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ug nagapatilsik"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "sa mga matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:02.607556976Z",
+  "model": "glm-5.3"
+}

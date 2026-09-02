@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ug ang kusog sa imong mga makahahadlok nga buhat, isulti sa ⟨mga tawo⟩, ug ang imong kadungganan akong isaysay.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "ug ang kusog"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "imong mga makahahadlok"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "isulti nila"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ug ang imong kadungganan"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "akong isaysay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:19.977070865Z",
+  "model": "glm-5.3"
+}

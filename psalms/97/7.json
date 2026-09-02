@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Mahilawon tanan nga mga alagad sa tinamdan nga larawan, nga mga nagapahalad sa ilang mga diosdios; magluhod kamo ngadto kaniya, tanan kamo nga mga elohim ⟨mga diyos⟩.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mahilawon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga alagad"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tinamdan nga larawan"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "mga nagapahalad"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "sa ilang mga diosdios"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "magluhod kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan kamo nga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim ⟨mga diyos⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.175747421Z",
+  "model": "glm-5.3"
+}

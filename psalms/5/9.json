@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Yahweh, gimiyahi ako diha sa imong pagkamatarong tungod sa akong mga maggugamok kanako; padaghana ang imong dalan sa akong ⟨atubangan⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "gimiyahi ako"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "diha sa imong pagkamatarong"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "akong mga maggugamok kanako"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "padaghana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa akong atubangan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang imong dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.719708953Z",
+  "model": "glm-5.3"
+}

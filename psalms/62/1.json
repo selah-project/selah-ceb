@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Alang sa magdumala ⟨sa⟩ mga mag-aawit, kang Yedutun; usa ka mizmór ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa magdumala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "kang Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmór"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:35.426667725Z",
+  "model": "glm-5.3"
+}

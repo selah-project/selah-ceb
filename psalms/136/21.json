@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Ug gihatag niya ang ilang yuta ingong panunod: kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ug gihatag niya"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ilang yuta"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ingong panunod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:52.349398953Z",
+  "model": "glm-5.3"
+}

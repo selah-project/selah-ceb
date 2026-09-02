@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Kay miangas siya gikan sa iyang balaang kahitas-an; gikan sa kalangitan mitan-aw si Yahweh ngadto sa yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "miangas"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "gikan sa kahitas-an"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa kalangitan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "mitan-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:12.243300006Z",
+  "model": "glm-5.3"
+}

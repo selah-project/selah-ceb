@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug ⟨את⟩ mga panit sa mga batang kambing sa mga kanding iyang gisul-ob sa iyang mga kamot, ug sa hinis nga bahin sa iyang liog.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga panit"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "mga panit"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "mga batang kambing"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "sa mga kanding"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "gisul-ob niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iyang mga kamot"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "hinis nga bahin"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "iyang liog"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:25.100598990Z",
+  "model": "glm-5.3"
+}

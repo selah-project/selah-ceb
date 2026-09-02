@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Ayaw pagtugot ⟨nga⟩ mobaklid ang imong tiil, ayaw pagtugot ⟨nga⟩ molutom ang nagbantay kanimo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "pagtugot"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "mobaklid"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ang imong tiil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "molutom"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ang nagbantay kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:46.825163957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Kanimo, Yahweh, manghikay ako, ug kang Adonay magpangadyo ako ug kalooy.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "manghikay ako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "magpangadyo ako ug kalooy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:17.655332496Z",
+  "model": "glm-5.3"
+}

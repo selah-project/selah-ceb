@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ang kalaliman nagatawag ngadto sa kalaliman sa tingog sa imong mga katubigan-nga-nagahunong; ang tanan nimong mga balud ug ang imong mga balud-nga-dako milapas ⟨⟨kanako⟩⟩.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "kalaliman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kalaliman"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nagatawag"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tingog sa"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "imong mga katubigan-nga-nagahunong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "nimong mga balud"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "ug ang imong mga balud-nga-dako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨kanako⟩"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "milapas"
+    }
+  ],
+  "timestamp": "2026-09-02T00:50:08.612672974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 126,
+  "translation": "Balika, O Yahweh, ⟨את⟩ among pagkabihag, sama sa mga sapa sa Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Balika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "among pagkabihag"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "among pagkabihag"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "sama sa mga sapa"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa Negev"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:17.741813245Z",
+  "model": "glm-5.3"
+}

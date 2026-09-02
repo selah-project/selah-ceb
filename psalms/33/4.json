@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Kay matul-id ang pulong ni Yahweh, ug ang tanan niyang buhat ⟨gihimo⟩ sa pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "niyang buhat"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.847414773Z",
+  "model": "glm-5.3"
+}

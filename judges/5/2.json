@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 5:2",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Sa pagpahibalo ⟨sa mga⟩ pangulo sa Yisrael, sa pagtambeling kusog ⟨sa⟩ katawhan, pagpanalangin kamo kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "בפרע",
+      "gloss": "sa pagpahibalo"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "sa mga pangulo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "בהתנדב",
+      "gloss": "sa pagtambeling kusog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pagpanalangin kamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:29.645646367Z",
+  "model": "glm-5.3"
+}

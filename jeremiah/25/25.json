@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "ug ⟨את⟩ tanang mga hari sa Zimri, ug ⟨את⟩ tanang mga hari sa Elam, ug ⟨את⟩ tanang mga hari sa Midiya",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanang mga hari sa Zimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari sa"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanang mga hari sa Elam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari sa"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanang mga hari sa Midiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari sa"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Midiya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:22:09.309254172Z",
+  "model": "glm-5.3"
+}

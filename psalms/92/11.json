@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Giitaas mo ang akong sungay sama sa reem; gibuboan ako ug lana nga lami-lami ⟨bag-o⟩.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "giitaas mo"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "sama sa reem"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ang akong sungay"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "gibuboan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ug lana"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "nga lami-lami ⟨bag-o⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:01.139475683Z",
+  "model": "glm-5.3"
+}

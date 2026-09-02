@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Papangit-on ang ilang mga mata aron dili na makakita, ug ang ilang mga hawak pagatigbakon nga walay hunong.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "papangit-on"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ang ilang mga mata"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "aron dili na makakita"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ug ang ilang mga hawak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay hunong"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "pagatigbakon \/ pagalihokon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:12.886047400Z",
+  "model": "glm-5.3"
+}

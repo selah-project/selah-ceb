@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang kamot ni Yahweh nabug-aton sa mga taga-Ashdod, ug gipanglaglag niya sila, ug gibunalan niya ⟨את⟩ sila sa ⟨mga hubag⟩, ⟨את⟩ Ashdod ug ⟨את⟩ mga utlanan niini.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "nabug-aton"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "mga taga-Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "ug gipanglaglag sila"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gibunalan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (mga taga-Ashdod)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "sa mga hubag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga utlanan niini"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "mga utlanan niini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:50:01.362791023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Gipangbukhad nila batok kanako ang ilang baba, nagaingon sila: Haha, haha, nakita sa among mata ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "gipangbukhad nila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ang ilang baba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagaingon sila"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Haha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "haha"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "sa among mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:20.624015729Z",
+  "model": "glm-5.3"
+}

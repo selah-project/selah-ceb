@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Kay itago niya ako sa iyang payag sa adlaw sa kadaot, itago niya ako sa tinagoan sa iyang tolda, ibabaw sa bato iyang ipataas ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "itago niya ako"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sa iyang payag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "itago niya ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tinagoan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sa iyang tolda"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "sa ibabaw sa bato"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "ipataas niya ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:50.112973542Z",
+  "model": "glm-5.3"
+}

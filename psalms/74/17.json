@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ikaw ang nagbutang sa tanan nga mga utlanan sa yuta; tingani ug tingtugnaw — ikaw ang naghimo niini.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "mga utlanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "tingani"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ug tingtugnaw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "naghimo niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.139262966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Busa magpanalangin ako kanimo sa tanan nga kinabuhi ko; sa imong ngalan itaas ko ang akong mga palad.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "magpanalangin ako kanimo"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sa tanan nga kinabuhi ko"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "itaas ko"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akong mga palad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:52.595012773Z",
+  "model": "glm-5.3"
+}

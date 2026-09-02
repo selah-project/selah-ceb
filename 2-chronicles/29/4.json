@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug gipapaila niya ⟨את⟩ ang mga saserdote ug ⟨את⟩ ang mga Levita, ug gitigum niya sila ngadto sa halapad nga dapit sa sidlakan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ug gipapaila niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "ug gitigum niya sila"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "ngadto sa halapad nga dapit"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "sa sidlakan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:27:21.673223057Z",
+  "model": "glm-5.3"
+}

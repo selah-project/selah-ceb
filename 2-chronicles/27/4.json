@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug mga siyudad gipatukod niya sa kabukiran sa Yehudah, ug sa mga kagang gipatukod siya ug mga kuta ug mga torre.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "Ug mga siyudad"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gipatukod niya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "ug sa mga kagang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gipatukod siya"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "mga kuta"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "ug mga torre"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:15.074903537Z",
+  "model": "glm-5.3"
+}

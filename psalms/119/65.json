@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Maayo ang imong gibuhat sa imong sulogoon, Yahweh, sumala sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang imong gibuhat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulogoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sumala sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:24.946079148Z",
+  "model": "glm-5.3"
+}

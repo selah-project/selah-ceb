@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug siya nagmahimong batok-angawan ⟨⟨sa⟩⟩ Yisrael tibuok nga adlaw ni Shelomoh, ug ⟨את⟩ ang kadaot nga gibuhat ni Hadad, ug nagkaduDaut siya ⟨sa⟩ Yisrael, ug naghari siya sa ibabaw sa Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug siya nagmahimong"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "batok-angawan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kadaot"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "gibuhat ni Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "Ug nagkaduDaut siya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "Ug naghari siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:35.046734774Z",
+  "model": "glm-5.3"
+}

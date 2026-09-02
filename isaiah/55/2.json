@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 55:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Ngano man nga gigahin ninyo ang ⟨inyong⟩ salapi sa dili tinapay, ug ang inyong kahas sa dili kaabusaw? Paminawa kamo pag-ayo kanako, ug kaona ug maayo, ug magapahimutang ang inyong nefesh sa tambok.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ngano man"
+    },
+    {
+      "surface": "תשקלו",
+      "gloss": "gigahin ninyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "sa dili"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "ויגיעכם",
+      "gloss": "ang inyong kahas"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "sa dili"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "kaabusaw"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Paminawa kamo"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "pag-ayo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug kaona"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ותתענג",
+      "gloss": "ug magapahimutang"
+    },
+    {
+      "surface": "בדשן",
+      "gloss": "sa tambok"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ang inyong nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:08.273239949Z",
+  "model": "glm-5.3"
+}

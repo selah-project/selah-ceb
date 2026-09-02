@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Sa dalan sa pagkamatarong nagalakaw ako, sa taliwala sa mga agianan sa paghukom.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "Sa dalan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "nagalakaw ako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "sa mga agianan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:34.070780396Z",
+  "model": "glm-5.3"
+}

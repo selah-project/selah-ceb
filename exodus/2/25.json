@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gitudloan sa Elohim ⟨את⟩ ang mga anak ni Yisrael, ug nakaila ang Elohim.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gitudloan sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:24.736939361Z",
+  "model": "glm-5.3"
+}

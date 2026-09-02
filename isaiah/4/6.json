@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ⟨mang Scout⟩ ang sukkah mahimong landong sa adlaw gikan sa kainit, ug kapasilongan ug tagonganan gikan sa bagyo ug gikan sa ulan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "ug ang sukkah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "landong"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa kainit"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ug kapasilongan"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "ug tagonganan"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "gikan sa bagyo"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "ug gikan sa ulan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:39.843258248Z",
+  "model": "glm-5.3"
+}

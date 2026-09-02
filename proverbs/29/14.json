@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang hari nga momatud-an ⟨sa⟩ paghubad sa mga kabus — ang iyang trono ingon sa dayon magatindog.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mohubad"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa pagkamatuod"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "mga kabus"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "iyang trono"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "magatindog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:32.485622435Z",
+  "model": "glm-5.3"
+}

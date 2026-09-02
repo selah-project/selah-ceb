@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kay wala gayod buhata ang ingon niini nga Pesah sukad sa mga adlaw sa mga maghuhukom nga nagahukom ⟨את⟩ sa Israel, ni sa tanan nga adlaw sa mga hari sa Israel ug sa mga hari sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala gayod"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "buhata"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "ang ingon niini nga Pesah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "sukad sa mga adlaw"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "sa mga maghuhukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "nagahukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "ug sa mga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:51.452211087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ang imong mga anak nangluya, naghigda sila sa ulohan sa tanan nga kalsada, sama sa antilope sa pukot, napuno sila sa kaakgaw ni Yahweh, sa pagbadlong sa imong Elohim.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Ang imong mga anak"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "nangluya"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "naghigda sila"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ulohan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "kalsada"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "sama sa antilope"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "sa pukot"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "napuno sila"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa kaakgaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "sa pagbadlong"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sa imong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:34.581671009Z",
+  "model": "glm-5.3"
+}

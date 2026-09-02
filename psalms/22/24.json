@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kamo nga nagakahadlok kang Yahweh, dayawa siya; tanan nga kaliwat ni Yaakov, himayahi siya; ug mahadloki kamo kaniya, tanan nga kaliwat ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Kamo nga nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dayawa siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "himayahi siya"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "ug mahadloki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:14.487669377Z",
+  "model": "glm-5.3"
+}

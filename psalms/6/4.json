@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang akong nefesh nangurog nga gayod; apan ikaw, Yahweh — hangtod kanus-a?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ug ang akong nefesh"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nangurog"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nga gayod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "apan ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:00.685278935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Sa akong pagbalik, ug ania kadayon: sa dapit sa sapa daghang mga kahoy kaayo, niining kilaha ug niadtong kilaha.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "Sa akong pagbalik"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kadayon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sa sapa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "niining kilaha"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ug niadtong kilaha"
+    }
+  ],
+  "timestamp": "2026-09-01T21:47:36.991678407Z",
+  "model": "glm-5.3"
+}

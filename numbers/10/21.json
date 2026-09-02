@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "UG nanglakaw ang mga Kehatita, nga mga magdala sa santuaryo; ug gitindog sa uban ⟨את⟩ ang balay-igsoon hangtod nga sila moabot.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "nanglakaw ang mga"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatita"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mga magdala sa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "santuaryo"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ug gitindog sa uban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay-igsoon"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang balay-igsoon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "באם",
+      "gloss": "sila moabot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:53.576524189Z",
+  "model": "glm-5.3"
+}

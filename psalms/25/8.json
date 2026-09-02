@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Maayo ug matarong ⟨si⟩ Yahweh; busa magatudlo Siya sa mga mananlawas sa dalan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ug matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "busa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "magatudlo Siya"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sa mga mananlawas"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:17.423681760Z",
+  "model": "glm-5.3"
+}

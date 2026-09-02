@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 21:5",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagtindog siya ug mga halaran alang sa tibuok panon sa kalangitan, sa duha ka nataran sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nagtindog siya ug"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mga halaran"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tibuok"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "sa duha ka"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "nataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:34.422563521Z",
+  "model": "glm-5.3"
+}

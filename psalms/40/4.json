@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gibutang niya sa akong baba ang usa ka bag-ong kanta, usa ka pagdayeg ngadto sa atong Elohim; makakita kadaghanan ug mokaguol ⟨sila⟩, ug mosalig kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang niya"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akong baba"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pagdayeg"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ngadto sa atong Elohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makakita kadaghanan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kadaghanan"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ug mokaguol"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ug mosalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:01.760534664Z",
+  "model": "glm-5.3"
+}

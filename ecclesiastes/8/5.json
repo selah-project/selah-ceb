@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ang nagabantay sa mando dili makaila ug ⟨sa⟩ daotang butang, ug ang panahon ug ang pagtukod makaila ⟨kini⟩ ang kasingkasing sa maalam.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ang nagabantay"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "sa mando"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug ang panahon"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug ang pagtukod"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sa maalam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:29.961338253Z",
+  "model": "glm-5.3"
+}

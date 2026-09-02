@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug alagaran ninyo si Yahweh nga Elohim ninyo, ug iyang pagaabakon ⟨את⟩ ang imong tinapay ug ⟨את⟩ ang imong tubig, ug tangtangon ko ang sakit gikan sa taliwala ninyo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ug alagaran ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohim ninyo"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ug iyang pagaabakon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong tinapay"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "imong tinapay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong tubig"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "imong tubig"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ug tangtangon ko"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ang sakit"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "gikan sa taliwala ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:38.240143291Z",
+  "model": "glm-5.3"
+}

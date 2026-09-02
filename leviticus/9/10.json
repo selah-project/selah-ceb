@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ⟨את⟩ ⟨ang⟩ tambok ug ⟨את⟩ ⟨ang mga⟩ kidney ug ⟨את⟩ ⟨ang⟩ yapot sa atay, gikan sa halad alang sa sala, gisunog niya sa halaran, sumala sa gisugo ni Yahweh ⟨את⟩ kang Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kidney"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ang mga kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang yapot sa atay"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang yapot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "halad alang sa sala"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "gisunog"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:42.752192344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Gipahibalo sa ⟨mga⟩ langit ang iyang katarungan, ug nakita sa tanang mga katawohan ang iyang himaya.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "gipahibalo sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "iyang katarungan"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga katawohan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "iyang himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.175589915Z",
+  "model": "glm-5.3"
+}

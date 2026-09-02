@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Si Yahweh ⟨ang⟩ akong bato-kabangisan, ug akong kuta, ug akong manluluwas; akong El, akong bato, ⟨kaniya⟩ ako modangop; akong taslak, ug ang sungay sa akong kaluwasan, akong hataas nga kuta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "akong bato-kabangisan"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ug akong kuta"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ug akong manluluwas"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "akong El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "akong bato"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ako modangop"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "akong taslak"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ug ang sungay"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "sa akong kaluwasan"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "akong hataas nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:13.354321635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang tigpahibalo misangyaw sa kusog: Sa inyo gisugo, mga katawhan, mga nasud, ug mga pinulongan —",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Ug ang tigpahibalo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "misangyaw"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "Sa inyo"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "ug mga pinulongan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:56:20.689196998Z",
+  "model": "glm-5.3"
+}

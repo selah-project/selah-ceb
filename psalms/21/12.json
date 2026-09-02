@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay nagtuyok sila pagbatok kanimo og daotan; naglangkob sila ug maong pagtinguha, apan dili nila kini mahimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "nagtuyok sila"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "pagbatok kanimo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "og daotan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "naglangkob sila"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "ug maong pagtinguha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "nila kini mahimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.880906756Z",
+  "model": "glm-5.3"
+}

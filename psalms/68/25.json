@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Nakita nila ang imong mga lakang, Elohim, ang mga lakang sa akong El, akong hari, sa ⟨balay⟩ balaan.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "ang imong mga lakang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ang mga lakang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "sa akong El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akong hari"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:43.612726740Z",
+  "model": "glm-5.3"
+}

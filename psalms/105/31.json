@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nasulti siya, ug miabot ang mga huyhoy nga mangiyawiyaw, mga ngisi sa tibuok nilang utlanan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nasulti siya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ang mga huyhoy nga mangiyawiyaw"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "mga ngisi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "nilang utlanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.878213090Z",
+  "model": "glm-5.3"
+}

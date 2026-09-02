@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug natawo kang Yaakov ang ikaduhang anak nga lalake ni Zilpa, ang sulugoon ni Lea.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ni Zilpa"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ang sulugoon"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ni Lea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak nga lalake"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kang Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:07.720915958Z",
+  "model": "glm-5.3"
+}

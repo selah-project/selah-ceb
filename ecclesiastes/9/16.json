@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Unya ako nag-ingon: Maayo ang kaalam kay sa kusog; apan ang kaalam sa kabus gibalewala, ug ang iyang mga pulong wala mapaminaw.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "unya nag-ingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "kay sa kusog"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "apan ang kaalam"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "sa kabus"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "gibalewala"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ug ang iyang mga pulong"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "mapaminaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:04.181301755Z",
+  "model": "glm-5.3"
+}

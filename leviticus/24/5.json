@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Mokuhaa ka ug semolina, ug imong lutoon ⟨את⟩ niini: napulo ug duha ka tinapay; duha ka ikasnapulo ang mahimong ⟨nila⟩ ang matag usa ka tinapay.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mokuhaa ka"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "semolina"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "imong lutoon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang napulo ug duha ka tinapay)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "ka tinapay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ka ikasnapulo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang mahimong"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ang matag usa ka tinapay"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:52.341345521Z",
+  "model": "glm-5.3"
+}

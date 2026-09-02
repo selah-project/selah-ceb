@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug si Shmuel miingon: Pagdala ngari kanako ⟨את⟩ si Agag, hari sa Amalek. Ug si Agag miduol kaniya nga malipayon, ug si Agag miingon: Sa pagkamatuod, ang kapait sa kamatayon mipahaway na.",
+  "tokens": [
+    {
+      "surface": "וימר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shmuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "pagdala ngari"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "si Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "sa Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug miduol"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "si Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "nga malipayon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "si Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "sa pagkamatuod"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mipahaway"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ang kapait"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:28.516072383Z",
+  "model": "glm-5.3"
+}

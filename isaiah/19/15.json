@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug walay buhat mahimo alang sa Mitsrayim, nga mahimo gayong buhaton sa ulo o sa ikog, sa dahon sa palmera o sa tambo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug walay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "alang sa Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mahimo gayong buhaton"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "o sa ikog"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "dahon sa palmera"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "o sa tambo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:20.482845266Z",
+  "model": "glm-5.3"
+}

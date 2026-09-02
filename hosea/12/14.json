@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug pinaagi sa usa ka propeta gipataas ni Yahweh ⟨את⟩ si Yisrael gikan sa Mitsrayim, ug pinaagi sa usa ka propeta gibantayan siya.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "ug pinaagi sa usa ka propeta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gipataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ug pinaagi sa usa ka propeta"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "gibantayan siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:25.109080159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug magsugo ang sacerdote, ug kuhaon nila ⟨את⟩ ang mga bato diin anaa ang saki, ug ilabay nila sila ⟨את⟩ sa gawas sa dakbayan, ngadto sa dili hinlo nga dapit.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Ug magsugo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang sacerdote"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "ug kuhaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang saki"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "ug ilabay nila"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga bato)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "dili hinlo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:23.162520564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Sa uma siya nagpangolkol hangtod sa ⟨ang⟩ kagabhion, ug gihampak niya ⟨את⟩ ⟨ang⟩ iyang gipangolkol, ug kini ⟨nahimong⟩ mga usa ka efa sa sebada.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "nagpangolkol"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kagabhion"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang gipangolkol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang iyang gipangolkol"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "gipangolkol"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug kini nahimong"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "mga usa ka efa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sebada"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:38.825136084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ukbon sa balay sa Yisrael sila sulod sa pito ka bulan, aron mahinlo ⟨את⟩ ang yuta.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "Ukbon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "mahinlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:44:51.247683539Z",
+  "model": "glm-5.3"
+}

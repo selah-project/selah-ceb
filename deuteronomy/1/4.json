@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Human sa pagpatay niya ⟨את⟩ kang Sihon, hari sa mga Emori, nga nagpuyo kheshbon, ug ⟨את⟩ kang Og, hari sa Bashan, nga nagpuyo sa Ashtarot, sa Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Human sa"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "pagpatay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "kang Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sa mga Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kang Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "kang Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "sa Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "sa Edrei"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:28.531858902Z",
+  "model": "glm-5.3"
+}

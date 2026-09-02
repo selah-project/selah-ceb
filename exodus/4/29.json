@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": " ug miduaw si Moshe ug si Aharon, ug gitigom nila ⟨את⟩ ang tanan nga mga tigulang sa mga anak ni Yisrael",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miduaw"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug si Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "gitigom nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga tigulang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:16.546409060Z",
+  "model": "glm-5.3"
+}

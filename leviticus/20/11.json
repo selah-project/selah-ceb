@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ⟨ang⟩ tawo nga higdaanan ang ⟨את⟩ asawa sa iyang amahan — ang pagkahubo sa iyang amahan iyang gipadayag — kamatayon gayod ⟨sila⟩ duha ka sila; ang ilang dugo diha ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "higdaanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa sa iyang amahan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang pagkahubo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "iyang gipadayag"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "kamatayon gayon sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duha ka sila"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ang ilang dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "diha kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:44.794274125Z",
+  "model": "glm-5.3"
+}

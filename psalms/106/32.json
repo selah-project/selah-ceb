@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Gipukaw nila ang kasuko diha sa mga tubig sa Meribah, ug nakaadto kini sa daotan kang Moshe tungod kanila.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "gipukaw nila ang kasuko"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מריבah",
+      "gloss": "sa Meribah"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ug nakaadto kini sa daotan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kang Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "tungod kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.870427754Z",
+  "model": "glm-5.3"
+}

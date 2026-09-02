@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug ⟨את⟩ ang natabunan nga dapit sa adlaw sa pag-pahulay nga ilang gitukod sa balay, ug ⟨את⟩ ang pagsulod sa hari gikan sa gawas, iyang gibalhin tungod sa balay ni Yahweh, tungod sa hari sa Ashur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang natabunan nga dapit sa adlaw sa pag-pahulay"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "ang natabunan nga dapit"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa adlaw sa pag-pahulay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ilang gitukod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagsulod sa hari"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ang pagsulod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "gikan sa gawas"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "giibalhin niya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:54.261017627Z",
+  "model": "glm-5.3"
+}

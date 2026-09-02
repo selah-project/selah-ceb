@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang panahon ba alang kaninyo — kamo gayod — sa pagpuyo sa inyong mga balay nga gitabonan ug atip, samtang kining balay nga ini naglalinog?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Ang panahon ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo gayod"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "sa inyong mga balay"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "nga gitabonan ug atip"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "samtang ang balay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "naglalinog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:30.241544806Z",
+  "model": "glm-5.3"
+}

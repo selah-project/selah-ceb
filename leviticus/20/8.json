@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug bubuon ninyo ⟨את⟩ ang akong mga balaad ug buhaton ninyo sila ⟨את⟩; ako ang Yahweh nga nagabalaan kaninyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ug bubuon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga balaad"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ang akong mga balaad"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ug buhaton ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga balaad)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "nga nagabalaan kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:43.153253628Z",
+  "model": "glm-5.3"
+}

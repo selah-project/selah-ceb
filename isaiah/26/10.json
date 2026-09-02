@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Bisan pagkaluoyan ang dautan, dili siya makakat-on sa pagkamatarong; sa yuta sa tinuod nga pagkamatarong nagbuhat siya ug pagkadaot, ug dili ⟨siya⟩ makakita sa kahalangdon ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "bis pagkaluoyan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang dautan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "למד",
+      "gloss": "makakat-on"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "sa tinuod nga pagkamatarong"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "nagbuhat siya ug pagkadaot"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "sa kahalangdon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:40.834706240Z",
+  "model": "glm-5.3"
+}

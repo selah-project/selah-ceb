@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug ⟨את⟩ ang iyang mga anak imong duolon, ug isul-ob nimo ⟨את⟩ sila og mga kutonet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iang mga anak"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "imong duolon"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "isul-ob nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga kutonet"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:25.959216308Z",
+  "model": "glm-5.3"
+}

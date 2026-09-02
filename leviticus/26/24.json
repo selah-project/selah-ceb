@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "maglakat ako usab uban kaninyo sa ⟨pagbatok⟩, ug molabay ako ⟨את⟩ kaninyo — ako usab — pito ka pilo tungod sa inyong mga sala.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "maglakat ako"
+    },
+    {
+      "surface": "אף",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "uban kaninyo"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "sa ⟨pagbatok⟩"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ug molabay ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka pilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "inyong mga sala"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:18.303038476Z",
+  "model": "glm-5.3"
+}

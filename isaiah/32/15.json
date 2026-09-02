@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Hangtod nga mabubo kanato ⟨ang⟩ ruah gikan sa kahitas-an, ug ang kamingaw mahimo ⟨nga⟩ karmel, ug ang karmel ihapon nga kalasangan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "mabubo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanato"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "gikan sa kahitas-an"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingaw"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "nga karmel"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "ug ang karmel"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "nga kalasangan"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ihapon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:07.040436518Z",
+  "model": "glm-5.3"
+}

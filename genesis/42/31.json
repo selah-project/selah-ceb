@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug miingon kami kaniya: Matinud-anon kami, dili kami mga mananag-ip.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ug miingon kami"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "man"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga mananag-ip"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:52.360162991Z",
+  "model": "glm-5.3"
+}

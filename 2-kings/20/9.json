@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 20:9",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug si Yeshayahu miingon: Kini alang kanimo ang timaila gikan ⟨את⟩ kang Yahweh, nga buhaton ni Yahweh ⟨את⟩ ang pulong nga iyang gisulti: modan-ag ba ang landong sa napulo ka grado, o mobalik kini sa napulo ka grado?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "si Yeshayahu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ang timaila"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "gikan kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "modan-ag"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ang landong"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "ka grado"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "ka grado"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:20.803521139Z",
+  "model": "glm-5.3"
+}

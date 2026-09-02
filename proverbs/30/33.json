@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Kay ang pagsigpit sa gatas nagapagula ⟨sa⟩ keso, ug ang pagsigpit sa ilong nagapagula ⟨sa⟩ dugo, ug ang pagsigpit sa kasilag nagapagula ⟨sa⟩ away.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "pagsigpit"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "gatas"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "nagapagula"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "keso"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ug ang pagsigpit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "nagapagula"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ug ang pagsigpit"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kasilag"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "nagapagula"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "away"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:09.243415138Z",
+  "model": "glm-5.3"
+}

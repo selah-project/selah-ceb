@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug wala mamati ang hari sa katawhan, kay adunay kahimtang gikan kang Yahweh, aron matindog niya ⟨את⟩ ang iyang pulong nga gisulti ni Yahweh pinaagi kang Ajiya ang taga-Shilo ngadto kang Yerovoam nga anak ni Nevat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adu­nay kahimtang"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "kahimtang"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gikan kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "matindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang pulong"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iyang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi kang"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ajiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "ang taga-Shilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerovoam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:54.707216639Z",
+  "model": "glm-5.3"
+}

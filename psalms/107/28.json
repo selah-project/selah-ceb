@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ug nangaliya sila kang Yahweh sa ilang kagul-anan, ug gikan sa ilang mga kagul-anan gipagwa sila niya.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "ugs nangaliya sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kagul-anan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "gikan sa ilang mga kagul-anan"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "gipagwa sila niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:04.812390310Z",
+  "model": "glm-5.3"
+}

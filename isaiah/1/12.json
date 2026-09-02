@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay nganong mo kamo moanhi sa pagtan-aw sa akong nawong? kinsa ang nangayo niini gikan sa inyong kamot — ang pagtapak sa akong mga nataran?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "mo kamo moanhi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa akong nawong"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ang nangayo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "gikan sa inyong kamot"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "ang pagtapak"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "sa akong mga nataran"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:43.012164633Z",
+  "model": "glm-5.3"
+}

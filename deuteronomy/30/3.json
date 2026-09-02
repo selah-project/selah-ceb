@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Unya mobalik si Yahweh nga imong Elohim sa imong pagkabihag ⟨את⟩ ug maloloy-on ka niya, ug mobalik siya ug magatigom kanimo gikan sa tanan nga mga katawhan, diin gipatibulaag ka ni Yahweh nga imong Elohim ⟨ngadto didto⟩.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ug mobalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong pagkabihag (שבותך)"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "imong pagkabihag"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ug maloloy-on ka niya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug mobalik siya"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "ug magatigom kanimo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan nga"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "gipatibulaag ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "⟨ngadto didto⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:32.556824977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug siya mibalik ⟨את⟩ uban kaniya, ug mikaon ug pan sa iyang balay, ug miinom ug tubig.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ug mibalik siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban kaniya"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ug mikaon siya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ug miinom siya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:52.415676629Z",
+  "model": "glm-5.3"
+}

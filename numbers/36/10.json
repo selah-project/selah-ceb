@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": " Sama sa gisugo ni Yahweh ⟨את⟩ ni Moshe, mao kini ang gibuhat sa mga anak nga babayi ni Tselofkhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sama sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babayi"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofkhad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:10.273725368Z",
+  "model": "glm-5.3"
+}

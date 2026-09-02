@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Nahitabo sa iyang paghari, sa diha siya nakalingkod sa iyang trono, giyaod niya ⟨את⟩ ang tibuok balay ni Baasha; wala gayod magtugot kaniya og bisan usa ka maniigo sa bongbong, ni sa iyang mga managbantay sa paryente, ni sa iyang higala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa iyang paghari"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "sa diha siya nakalingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "iyang trono"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "giyaod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok balay ni Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala gayod"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nagtugot og bisan usa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "maniigo"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa bongbong"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ni sa iyang mga managbantay sa paryente"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "ni sa iyang higala"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:30.392954200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gitukod ni Shelomoh ⟨את⟩ ⟨ang⟩ balay ug gihaton niya kini.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ug gitukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ug gihaton niya kini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:16.754494057Z",
+  "model": "glm-5.3"
+}

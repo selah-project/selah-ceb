@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug magkampo ako nga naliboton ⟨ikaw⟩, ug palibutan ko ikaw ug mga guardia, ug itindog ko batok kanimo mga mud sa pagbisbis.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Ug magkampo ako"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "nga naliboton"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ug palibutan ko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "mga guardia"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ug itindog ko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "batok kanimo"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "mga mud sa pagbisbis"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:41.919026609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Gisul-ob sa akong unod ang ulod ug ⟨ang⟩ usa ka bun-og sa abo; ang akong panit nahiuyang ug gimingaw.",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "gisul-ob"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ang ulod"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "ug usa ka bun-og"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abo"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "ang akong panit"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "nihiuyang"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "ug gimingaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:34.906982598Z",
+  "model": "glm-5.3"
+}

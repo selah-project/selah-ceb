@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Ang pulong ni Yahweh nga miabot kang Yirmeyahu ⟨ang propeta⟩ mahitungod sa mga Peleshti, sa wala pa mohampak si Paro ⟨sa⟩ ⟨את⟩ Aza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshti"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mohampak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    }
+  ],
+  "timestamp": "2026-09-01T21:28:50.727762149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Naglingkod siya sa taguan sa mga koral; sa tinagong mga dapit iyang gipatay ang inosente; ang iyang mga mata matahod sa mga kabos, maghulat sa tago.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "sa taguan"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "sa mga koral"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa tinagong mga dapit"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "gipatay"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ang inosente"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "iyang mga mata"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "sa mga kabos"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "maghulat sa tago"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:08.891833084Z",
+  "model": "glm-5.3"
+}

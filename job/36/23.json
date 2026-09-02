@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 36:23",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Kinsa ang nagsugo sa iyang dalan ⟨kaniya⟩? Ug kinsa ang nagsulti: Nagbuhat ka ug kadautan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa iyang dalan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ug kinsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "Nagbuhat ka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ug kadautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:48.318367100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Gibutang nila ang ilang baba sa langit, ug ang ilang dila nagtinin-aw sa yuta.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ang ilang baba"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ug ang ilang dila"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "nagtinin-aw"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:12.181376079Z",
+  "model": "glm-5.3"
+}

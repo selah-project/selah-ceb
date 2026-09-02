@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Sa pagpahibalo sa mga anak sa tawo sa iyang mga gubat-nga-kusog, ug sa himaya sa kahalangan sa iyang gingharian.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Sa pagpahibalo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "sa iyang mga gubat-nga-kusog"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ug sa himaya"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "sa kahalangan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sa iyang gingharian"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.703930152Z",
+  "model": "glm-5.3"
+}

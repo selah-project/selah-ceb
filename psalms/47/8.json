@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Kay hari sa tibuok kalibutan si Elohim; pag-awit kamo uban sa pagtamod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "uban sa pagtamod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.604632813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Didto ila ginglubong ⟨את⟩ si Avraham ug ⟨את⟩ si Sarah nga iyang asawa; didto ila ginglubong ⟨את⟩ si Yitskhak ug ⟨את⟩ si Rivka nga iyang asawa; ug didto ako ang naglubong ⟨את⟩ kay Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ginglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ginglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ako ang naglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:16.580487888Z",
+  "model": "glm-5.3"
+}

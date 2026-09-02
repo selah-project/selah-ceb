@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": " kondisyon: Sa takna nga sama niini ugma, padalon ko ang akong mga sulugoon ⟨את⟩ ngari kanimo, ug susilon nila ⟨את⟩ ang imong balay ug ⟨את⟩ ang mga balay sa imong mga sulugoon; ug mahitabo nga tanan nga gimahal sa imong mga mata ibutang nila sa ilang kamot ug dad-on nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": " kondisyon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "Sa takna nga sama niini"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ugma"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "padalon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga sulugoon"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang akong mga sulugoon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngari kanimo"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "ug susilon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong balay"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ang imong balay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga balay sa imong mga sulugoon"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ang mga balay"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sa imong mga sulugoon"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahitabo nga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "nga gimahal"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ibutang nila"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa ilang kamot"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ug dad-on nila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:37.312846013Z",
+  "model": "glm-5.3"
+}

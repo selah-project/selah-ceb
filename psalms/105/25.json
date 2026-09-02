@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Giyabo niya ang ilang kasingkasing sa pagkadumot sa iyang katawhan, sa pagpaniktik batok sa iyang mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "giyabo niya"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ilang kasingkasing"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sa pagkadumot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa iyang katawhan"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "sa pagpaniktik"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "batok sa iyang mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:14.544030578Z",
+  "model": "glm-5.3"
+}

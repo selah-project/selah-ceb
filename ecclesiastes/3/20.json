@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang tanan molakat ngadto sa usa ka dapit; ang tanan ⟨nagikan⟩ sa abok, ug ang tanan mobalik ngadto sa abok.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "molakat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sa usa ka dapit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ra"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨nagikan⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "abok"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "sa abok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:05.734955105Z",
+  "model": "glm-5.3"
+}

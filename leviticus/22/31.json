@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug magbantay kamo sa akong mga sugo ug buhaton ninyo ⟨את⟩ sila; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "magbantay kamo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sa akong mga sugo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ug buhaton ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga sugo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:38.133689865Z",
+  "model": "glm-5.3"
+}

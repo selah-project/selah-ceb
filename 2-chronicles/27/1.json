@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 27:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Anak si Yotam sa ⟨iyang⟩ kamog-ot ka tuig ug lima ka tuig pagkahimong hari, ug napulo ug unom ka tuig siyang naghari sa Yerushalayim; ug ang ngalan sa iyang inahan mao siyerusha, anak nga babaye ni Tsadok.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ug lima"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "pagkahimong hari"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug napulo ug unom"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo ug unom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    },
+    {
+      "surface": "ירושה",
+      "gloss": "Yerusha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    }
+  ],
+  "timestamp": "2026-09-02T01:02:24.734210158Z",
+  "model": "glm-5.3"
+}

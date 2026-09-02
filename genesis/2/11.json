@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang ngalan sa usa mao ang Pishon; ⟨kini⟩ ang naglibut ⟨את⟩ sa tibuok nga yuta sa Havilah, diin didto ang bulawan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Ang ngalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sa usa"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "mao ang Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "ang naglibut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tibuok nga yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok nga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "sa Havilah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:58.828126277Z",
+  "model": "glm-5.3"
+}

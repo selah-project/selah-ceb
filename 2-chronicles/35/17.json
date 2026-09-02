@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Gihimo sa mga anak nga Israel ⟨ang⟩ mga nakaplagan ⟨את⟩ ang Pesach sa oras nga niana, ug ⟨את⟩ ang fiesta sa mga tinapay nga walay lebadura pito ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "mga nakaplagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa oras"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "nga niana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang fiesta"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ang fiesta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "sa mga tinapay nga walay lebadura"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:29:48.114124455Z",
+  "model": "glm-5.3"
+}

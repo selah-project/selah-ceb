@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa tanan nga kahingpitan may katapusan akong nakita, apan imong sugo halapad kaayo ⟨kaayo⟩.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "kahingpitan\/katapusan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "akong nakita"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "halapad"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "imong sugo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:20.091724918Z",
+  "model": "glm-5.3"
+}

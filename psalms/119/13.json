@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa akong mga ngabil gisaysay ko ang tanan nga mga pagtulon-an ⟨sa⟩ imong baba.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "sa akong mga ngabil"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "gisaysay ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga pagtulon-an"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "imong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:24.879516307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Bisan unsa ang gikahoylan ni Yahweh, kini gibuhat niya ⟨sa⟩ kalangitan ug ⟨sa⟩ yuta, ⟨sa⟩ mga dagat ug sa tanan nga mga kahiladman.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bisabas unsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anga gikahoylan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gikahoylan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "ug sa yuta"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga dagat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mga kahiladman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:23.153868371Z",
+  "model": "glm-5.3"
+}

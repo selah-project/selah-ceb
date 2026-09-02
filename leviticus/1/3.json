@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kon ang iyang halad usa ka sinunog nga halad, gikan sa mga baka, usa ka lalaki nga walay depekto iyang ihalad; sa ganghaan sa tolda sa katigayonan iyang ihalad kini ⟨את⟩ alang sa pagkadawat niini ⟨atbang⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sinunog nga halad"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang iyang halad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "usa ka lalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga walay depekto"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "iyang ihalad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa katigayonan"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "iyang ihalad"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang sinunog nga halad)"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "alang sa pagkadawat niini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨atbang⟩ ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T01:18:10.906930676Z",
+  "model": "glm-5.3"
+}

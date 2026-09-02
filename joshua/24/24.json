@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug miingon ang katawhan kang Yehoshua: ⟨Ang⟩ Yahweh nga Elohim nato ang atong sulugoon, ug sa iyang tingog manandomo kami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh nga Elohim nato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga Elohim nato"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ang atong sulugoon"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ug sa iyang tingog"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "manandomo kami"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:25.714679041Z",
+  "model": "glm-5.3"
+}

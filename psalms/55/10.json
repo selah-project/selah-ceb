@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Lamonon, Adonay, ug bahaon ang ilang dila, kay nakita nako ang kapintas ug panagbangi sa ⟨syoudad⟩.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "lamonon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "bahaon"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ilang dila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ang kapintas"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ug panagbangi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa syudad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:18.075237975Z",
+  "model": "glm-5.3"
+}

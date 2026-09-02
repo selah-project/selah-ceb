@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nagsulti siya kanila sumala sa tambag sa mga batan-on, nga nag-ingon: Ang akong amahan gipugngat ang inyong luna, ug ako magdugang sa inyong luna; ang akong amahan nagbisyo kaninyo ⟨את⟩ ug ako magbisyo kaninyo ⟨את⟩ sa mga alakdan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ug nagsulti siya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "sumala sa tambag"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sa mga batan-on"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Ang akong amahan"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "gipugngat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong luna"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ang inyong luna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "inyong luna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akong amahan"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagbisyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "sa mga latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "magbisyo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "sa mga alakdan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:54.707009892Z",
+  "model": "glm-5.3"
+}

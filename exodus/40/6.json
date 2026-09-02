@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug ibutang nimo ⟨את⟩ ang altar sa halad nga sinunog sa atubangan sa pultahan sa Mishkan sa Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ug ibutang nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang altar sa halad nga sinunog"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa halad nga sinunog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pultahan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sa Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:15.750505854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Kamo nga nagakahadlok kang Yahweh, salig kamo kang Yahweh; ⟨siya⟩ ang ilang tabang ug ilang panangga.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Kamo nga nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "salig kamo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ilang tabang"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ug ilang panangga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:00.900645554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 18:24",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug tawga ninyo sa ngalan sa inyong mga elohim, ug ako motawag sa ngalan ni Yahweh; ug mahitabo nga ang Elohim nga motubag pinaagi sa kalayo — siya ang Elohim. Ug mitubag ang tibuok katawhan ug nanaghom: Maayo ang pulong.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Ug tawga ninyo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong mga elohim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "motawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahitabo nga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "motubag"
+    },
+    {
+      "surface": "באש",
+      "gloss": "piaagi sa kalayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Ug mitubag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug nanaghom"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:47.726229770Z",
+  "model": "glm-5.3"
+}

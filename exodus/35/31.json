@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug gipun-an siya ⟨את⟩ sa espiritu sa Elohim, sa kaalam, sa pagsabot, ug sa kahibalo, ug sa tanang buhat.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ug gipun-an"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Betsalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "sa pagsabot"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ug sa kahibalo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tanang"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:53.018813141Z",
+  "model": "glm-5.3"
+}

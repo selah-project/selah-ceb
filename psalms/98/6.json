@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Uban sa mga trumpeta ug tingog sa shofar, pag-uyog sa atubangan sa Hari, si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Uban sa mga trumpeta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ug tingog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pag-uyog ⟨sa kalinaw⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "halach",
+      "gloss": "sa Hari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:02.556611520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kay ikaw ⟨ang⟩ himaya sa ilang kusog, ug sa imong kaayohan gipatindog ang among sungay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "sa ilang kusog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ug sa imong kaayohan"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ang among sungay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:16.648733651Z",
+  "model": "glm-5.3"
+}

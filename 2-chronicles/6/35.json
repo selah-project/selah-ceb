@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "ug madungog mo gikan sa mga langit ⟨את⟩ ang ilang pangadyi ug ⟨את⟩ ang ilang pagpangaliya, ug buhaton mo ang ilang pagtad-ong.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ug madungog mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pangadyi"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ila nga pangadyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pagpangaliya"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ila nga pagpangaliya"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton mo"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ang ilang pagtad-ong"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:24.103402173Z",
+  "model": "glm-5.3"
+}

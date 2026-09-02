@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Ang tibuok adlaw gisamok nila ang akong mga pulong; batok kanako ang tanan nilang mga hunahuna ⟨alang⟩ sa kadautan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang akong mga pulong"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "gisamok nila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "nilang mga hunahuna"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa kadautan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:03.957285045Z",
+  "model": "glm-5.3"
+}

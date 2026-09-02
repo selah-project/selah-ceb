@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 28:14",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ikaw ang keruv nga nagpadaplin ug nagtabon, ug gipahimutang ko ikaw ⟨sa⟩ balaang bukid ni Elohim; anaa ka sa taliwala sa mga bato sa kalayo — nagpanaog-panaog ka.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "ikaw",
+      "marks": "keruv"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "ממשח",
+      "gloss": "nagpadaplin"
+    },
+    {
+      "surface": "הסוכך",
+      "gloss": "nagtabon"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "gipahimutang ko ikaw"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היית",
+      "gloss": "anaa ka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "התהלכת",
+      "gloss": "nagpanaog-panaog ka"
+    }
+  ],
+  "timestamp": "2026-09-01T21:42:39.276165316Z",
+  "model": "glm-5.3"
+}

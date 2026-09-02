@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Miangat si Moshe ug nagsulti ni ⟨את⟩ ⟨sa mga⟩ pulong nga kining mga kini ngadto sa tibuok Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miangat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨sa mga⟩ pulong nga kining mga kini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨sa mga⟩ pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga kining mga kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:45.655875834Z",
+  "model": "glm-5.3"
+}

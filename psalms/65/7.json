@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Nagpatindog ⟨siya⟩ sa mga bukid pinaagi sa iyang gahum, nagpulos siya ug kusog.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "sa iyang gahum"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "nagpulos"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ug kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:59.993901992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Mapuno ang akong baba sa imong pagdayeg, ang tibuok adlaw sa imong himaya.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "mapuno"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sa imong pagdayeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "sa imong himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:13.317454401Z",
+  "model": "glm-5.3"
+}

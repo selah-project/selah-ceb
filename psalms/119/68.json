@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ikaw maayo, ug naghimo ug maayo — tudloi ako sa imong mga batas.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ug naghimo ug maayo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tudloi ako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga batas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:24.946544190Z",
+  "model": "glm-5.3"
+}

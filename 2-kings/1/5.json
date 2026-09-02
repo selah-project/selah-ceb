@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang mga mensahero mibalik ngadto kaniya, ug siya miingon kanila: Unsa man kini — mibalik kamo?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ug mibalik"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ang mga mensahero"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug siya miingon"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa man"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "mibalik kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:20.320420068Z",
+  "model": "glm-5.3"
+}

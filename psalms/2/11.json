@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Pag-alagad kamo ⟨את⟩ kang Yahweh uban ang kahadlok, ug magmalipayon kamo uban ang pagurog.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "pag-alagad kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "uban ang kahadlok"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ug magmalipayon kamo"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "uban ang pagurog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:09.893165823Z",
+  "model": "glm-5.3"
+}

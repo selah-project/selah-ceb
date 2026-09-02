@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Gipataas niya ako gikan sa atabay sa kagubot, gikan sa lapok nga hinugtan, ug gipatindog niya ang akong mga tiil ibabaw sa bato, gipalig-on niya ang akong mga lakang.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "gipataas niya ako"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "gikan sa atabay"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "sa kagubot"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "gikan sa lapok"
+    },
+    {
+      "surface": "היון",
+      "gloss": "nga hinugtan"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ug gipatindog niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "bato"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong mga tiil"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "gipalig-on niya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ang akong mga lakang"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:01.760223565Z",
+  "model": "glm-5.3"
+}

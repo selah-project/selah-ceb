@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ayaw itugyan sa bangis nga mananap ang kalag sa imong salampati; ang kahayag sa imong mga kabos ayaw kalimti hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "itugyan"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "sa bangis nga mananap"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "sa imong salampati"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "sa imong mga kabos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kalimti"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.139613389Z",
+  "model": "glm-5.3"
+}

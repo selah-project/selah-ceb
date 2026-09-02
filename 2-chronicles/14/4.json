@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Gikuha niya gikan sa tanan nga mga dakbayan sa Yehudah ⟨את⟩ ang mga bamos ug ⟨את⟩ ang mga hamman, ug nahunong ang gingharian sa iyang atubangan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Gikuha niya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bamos"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mga bamos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga hamman"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "mga hamman"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "ug nahunong"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iyang atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:23.895614882Z",
+  "model": "glm-5.3"
+}

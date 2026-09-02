@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Kay estatuto alang sa Israel ⟨kini⟩, usa ka balaod alang sa Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חק",
+      "gloss": "estatuto"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "alang sa Israel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "alang sa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:11.576190440Z",
+  "model": "glm-5.3"
+}

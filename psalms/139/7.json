@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Asa ako molakat gikan sa imong ruah, ug asa ako molagas gikan sa imong atubangan?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "molakot ako"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "gikan sa imong ruah"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ug asa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gikan sa imong atubangan"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "molagas ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:04.629666896Z",
+  "model": "glm-5.3"
+}

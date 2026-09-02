@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ba ⟨ang⟩ kadaghan sa mga pulong dili pagtubgon? Ug ba ang tawo sa mga ngabil makataronganon?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "pagtubgon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "sa mga ngabil"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "makataronganon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:27.086494712Z",
+  "model": "glm-5.3"
+}

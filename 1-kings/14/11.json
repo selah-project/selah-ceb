@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang mamatay kang Yaravam sa dakbayan, kaonon sa mga iro; ug ang mamatay sa uma, kaonon sa mga langgam sa langit; kay si Yahweh ang nagsulti.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Ang mamatay"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kang Yaravam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "sa mga iro"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ug ang mamatay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "sa mga langgam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang nagsulti"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:06.720935788Z",
+  "model": "glm-5.3"
+}

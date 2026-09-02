@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Taas kaayo ang kaalam alang sa bungol; diha sa ganghaan dili niya buksi ang iyang baba.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "taas kaayo"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "alang sa bungol"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "diha sa ganghaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "buksi"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ang iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:17.334275486Z",
+  "model": "glm-5.3"
+}

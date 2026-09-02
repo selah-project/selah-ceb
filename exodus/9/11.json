@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 9:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ang mga magtatahwag dili makatindog atubang ni Moshe tungod sa hubag, kay ang hubag anaa sa mga magtatahwag ug sa tibuok Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "makatindog"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ang mga magtatahwag"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "(makatindog)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "hubag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "ang hubag"
+    },
+    {
+      "surface": "בחרטמם",
+      "gloss": "sa mga magtatahwag"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:22.525341017Z",
+  "model": "glm-5.3"
+}

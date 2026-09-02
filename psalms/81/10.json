@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Dili ⟨mahitabo⟩ nga adunay laing El sa imong tunga, ug dili ka manimba sa El nga dayuhan;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨mahitabo⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imong tunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "laing"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ka manimba"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nga dayuhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:48.230667052Z",
+  "model": "glm-5.3"
+}

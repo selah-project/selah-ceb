@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ang magsapot sa mga panumhot, ug ang mangutana sa espiritu, ug sa mga kabalo sa tinago, ug ang nangita ngadto sa mga patay.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "ug ang magsapot"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "sa mga panumhot"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "ug ang mangutana"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "sa espiritu (sa patay)"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "ug sa mga kabalo sa tinago"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ug ang nangita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mga patay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:22.273723079Z",
+  "model": "glm-5.3"
+}

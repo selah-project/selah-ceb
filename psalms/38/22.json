@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ayaw ako pagbiha-biya, Yahweh, Elohim nako; ayaw paglayo ⟨kanako⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ako pagbiha-biya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "paglayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "⟨kanako⟩ \/ gikan kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:39.776913192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 70,
+  "translation": "Apan ako’ng pobre ug gikulangan; O Elohim, dalii pag-abot kanako. Ikaw ang akong tabang ug ang akong manlualuwas, O Yahweh; ayaw paglangan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug gikulangan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "dalii pag-abot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ang akong tabang"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ug ang akong manlualuwas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "paglangan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:13.754707151Z",
+  "model": "glm-5.3"
+}

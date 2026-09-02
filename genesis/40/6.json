@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug miadto si Yosef kanila sa buntag, ug nakita niya sila ⟨את⟩, ug ania karon, nagsubo sila.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "nagsubo sila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:42.650420822Z",
+  "model": "glm-5.3"
+}

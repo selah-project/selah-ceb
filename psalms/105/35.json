@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gikaon nila ang tanang balili sa ilang yuta, ug gikaon ang bunga sa ilang yutahan.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "gikaon nila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "balili"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa ilang yuta"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ug gikaon"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ang bunga"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "sa ilang yutahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:09.938477178Z",
+  "model": "glm-5.3"
+}

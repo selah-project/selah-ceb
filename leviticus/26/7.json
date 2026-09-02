@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug mangahas kamo ⟨את⟩ sa inyong mga kaaway, ug matumba sila atubang kaninyo sa espada.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Ug mangahas kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyong mga kaaway"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sa inyong mga kaaway"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ug matumba sila"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "atubang kaninyo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:48.300139121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Ug ako nangawatan ug wala nakahibalo; ingon sa mananap ako ⟨kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nangawatan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mananap"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako ⟨kanimo⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kauban nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.012244596Z",
+  "model": "glm-5.3"
+}

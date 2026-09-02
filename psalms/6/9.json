@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Pahawa kamo kanako, tanan kamo nga mangbubuhat sa pagkadautan, kay nadungog ni Yahweh ang tingog sa akong pagpanilak.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Pahawa kamo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mangbubuhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "pagkadautan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "sa akong pagpanilak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:42.476896090Z",
+  "model": "glm-5.3"
+}

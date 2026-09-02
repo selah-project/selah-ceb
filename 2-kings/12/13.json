@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 12:13",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kag sa mga magdadako sa bongbong ug sa mga magtabas sa bato, ug sa pagpalit og kahoy ug gitabsang bato, aron sa pagpalig-on ⟨את⟩ sa mga naguba sa balay ni Yahweh, ug sa tanan nga gikahanglan ⟨kini⟩ alang sa balay aron pagpalig-on.",
+  "tokens": [
+    {
+      "surface": "ולגדרים",
+      "gloss": "ug sa mga magdadako sa bongbong"
+    },
+    {
+      "surface": "ולחצבי",
+      "gloss": "ug sa mga magtabas"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ug sa pagpalit"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ug mga bato"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "gitabsang"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "aron sa pagpalig-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga naguba (בדק)"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mga naguba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogawas \/ gikahanglan"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "aron pagpalig-on"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:05.563005716Z",
+  "model": "glm-5.3"
+}

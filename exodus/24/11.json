@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug sa mga dungganon nga mga anak sa Yisrael wala niya iunat ang iyang kamot; ug nagtan-aw sila ⟨את⟩ sa Elohim, ug mikaon sila ug miminum.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ug sa"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "mga dungganon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "niya iunat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ug nagtan-aw sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ug mikaon sila"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ug miminum"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:46.119724960Z",
+  "model": "glm-5.3"
+}

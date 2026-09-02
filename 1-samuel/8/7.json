@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug naggiingon si Yahweh kang Shemuel: Pamati sa tingog sa katawhan, sa tanan nga ingon nila kanimo; kay dili ⟨את⟩ ikaw ang ilang gisalikway, kondili ⟨את⟩ ako ang ilang gisalikway, sa paghari kanila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug naggiingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Pamati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "igon nila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ang ilang gisalikway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "ang ilang gisalikway"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "sa paghari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:28.422656157Z",
+  "model": "glm-5.3"
+}

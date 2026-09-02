@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 150,
+  "translation": "Pagdayegahamu siya sa iyang mga gahum sa pagbuhat; pagdayegahamu siya sumala sa kadaghan sa iyang pagkadako.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "sa iyang mga gahum sa pagbuhat"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "sumala sa kadaghan"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "sa iyang pagkadako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:51.427506102Z",
+  "model": "glm-5.3"
+}

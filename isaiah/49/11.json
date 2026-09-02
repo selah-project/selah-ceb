@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ug buhaton nako ang tanan ⟨nga⟩ akong mga bukid nga dalan, ug ang akong mga karsada itaason.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ug buhaton nako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "akong mga bukid"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "ug ang akong mga karsada"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "itaason"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:30.620222754Z",
+  "model": "glm-5.3"
+}

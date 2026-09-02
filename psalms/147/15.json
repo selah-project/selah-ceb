@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "⟨Siya⟩ nga nagapadala sa iyang sugo ngadto sa yuta, paspas kaayo nga modagan ang iyang pulong.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "⟨Siya⟩ nga nagapadala"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sa iyang sugo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "paspas kaayo"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "nga modagan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iyang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.430032131Z",
+  "model": "glm-5.3"
+}

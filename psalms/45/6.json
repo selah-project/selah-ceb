@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ang imong mga pana mga natulis ⟨mga⟩ — mga katawhan mahulob sa ubos kanimo — ⟨ngadto⟩ sa kasingkasing sa mga kaaway sa hari.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "ang imong mga pana"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "mga natulis"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "sa ubos kanimo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mahulob"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "sa mga kaaway"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:41.175126847Z",
+  "model": "glm-5.3"
+}

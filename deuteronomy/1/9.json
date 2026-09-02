@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ako naging kaninyo nianang panahona, nga nagaingon: Dili ako makakahimo nga ako usa ra pagdala ⟨sa⟩ inyong tanan.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ug ako naging kaninyo"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "niadtong panahona"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "niana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makakahimo"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ako usa ra"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "pagdala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyong tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:12.581736165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gipabantayan sa akong kalag ang imong mga pagsaksi, ug gihigugma ko sila nga kaayo.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "gipabantayan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "imong mga pagsaksi"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "ug gihigugma ko sila"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nga kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:55.609526624Z",
+  "model": "glm-5.3"
+}

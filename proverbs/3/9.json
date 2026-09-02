@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ipadangat ang himaya kang Yahweh gikan sa imong kabtangan, ug gikan sa unang bahin sa tanan nimong ani.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ipadangat ang himaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "gikan sa imong kabtangan"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ug gikan sa unang bahin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "imong ani"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:03.880368604Z",
+  "model": "glm-5.3"
+}

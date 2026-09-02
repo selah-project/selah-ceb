@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gipangguba nila ⟨את⟩ ang haliging memoryal ni Baal, ug gipangguba nila ⟨את⟩ ang balay ni Baal, ug gihimo nila kini nga kasilyas hangtod sa karon nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ug gipangguba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang haliging memoryal ni Baal"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ang haliging memoryal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ug gipangguba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ug gihimo nila kini"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "nga kasilyas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:15.344508249Z",
+  "model": "glm-5.3"
+}

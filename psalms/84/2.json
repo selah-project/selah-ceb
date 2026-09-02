@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 84,
+  "translation": "Unsa ka gugmaon ⟨ang⟩ imong mga puloy-anan, Yahweh Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa ka"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "gugmaon"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "imong mga puloy-anan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:30.971421285Z",
+  "model": "glm-5.3"
+}

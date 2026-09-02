@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kay sa hebel siya miabot ug sa kangitngit siya molakaw, ug sa kangitkit ang iyang ngalan tabonan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "sa hebel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ug sa kangitngit"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "siya molakaw"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ug sa kangitngit"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "tabonan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:11.322870943Z",
+  "model": "glm-5.3"
+}

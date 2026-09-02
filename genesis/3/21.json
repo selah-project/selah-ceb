@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Naghimo si Yahweh Elohim kang Adam ug sa iyang asawa og mga bisti sa panit, ug gisul-ob niya sila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kang Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "ug sa iyang asawa"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sa panit"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "gisul-ob niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:59.498245626Z",
+  "model": "glm-5.3"
+}

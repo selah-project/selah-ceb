@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Gipalibot nila ⟨ako⟩ ingon sa tubig ang tibuok adlaw; naglibot sila tanan sa hinungagon batok kanako.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "gipalibot nila ako"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ingon sa tubig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "naglibot sila tanan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sa hinungagon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:30.065468663Z",
+  "model": "glm-5.3"
+}

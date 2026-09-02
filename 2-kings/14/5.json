@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Nahitabo kung na-nalig-on na ang gingharian sa iyang kamot, nga iyang gipatay ⟨את⟩ ang iyang mga sulugoon, ang mga nagpatay sa hari nga iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kung"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "na-nalig-on"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "giya niya pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iyang mga sulugoon"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ang mga nagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:48.040817100Z",
+  "model": "glm-5.3"
+}

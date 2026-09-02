@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang maayong tawo makadawat sa pag-uyon gikan kang Yahweh, apan ang tawo sa daotang mga plano ipahisalaag niya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayong tawo"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "makadawat"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "pag-uyon"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "gikan kang Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "apan ang tawo"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "daotang mga plano"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "ipahisalaag niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:37.098126731Z",
+  "model": "glm-5.3"
+}

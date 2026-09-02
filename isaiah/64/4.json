@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Gitakdan mo ⟨את⟩ ang malipayon ug nagbuhat sa matarong, ⟨ang mga⟩ nagpahinumod kanimo sa imong mga dalan; ania, ikaw nasuko ug kami nagpakasala; niadto ⟨ang kahisgutan sukad sa suang⟩ ug maluwas kami.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "gitakdan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang malipayon"
+    },
+    {
+      "surface": "שש",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug nagbuhat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "sa imong mga dalan"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "nagpahinumod kanimo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ania"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "nasuko"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ug kami nagpakasala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niadto"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sukad sa suang"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ug maluwas kami"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:40.488532061Z",
+  "model": "glm-5.3"
+}

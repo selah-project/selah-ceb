@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug mihatag si Paro sugo niadtong adlawa ⟨את⟩ ⟨mga⟩ nangluthaw sa katawhan ug ⟨את⟩ ⟨mga⟩ opisyal niini, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ug mihatag sugo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "niadtong adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(niadtong)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga nangluthaw sa katawhan"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "mga nangluthaw"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga opisyal niini"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "mga opisyal niini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:49.065287293Z",
+  "model": "glm-5.3"
+}

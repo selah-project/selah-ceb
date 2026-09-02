@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Napulo ug usa ka adlaw nga pagpanaw gikan sa Khorib paagi sa bukid sa Seir, hangtod sa Kadesh-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "Napulo ug"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa Khorib"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "paagi sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid sa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:13.472853174Z",
+  "model": "glm-5.3"
+}

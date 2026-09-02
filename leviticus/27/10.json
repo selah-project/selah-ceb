@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ayaw niya kini ilisan niini ug ayaw ibaylohi ⟨את⟩ kini — maayo ug daotan, o daotan ug maayo; ug kon kinahanglan gayod mobaylo siya og mananap sa mananap, unya kini ug ang iyang gibaylohan mahimong balaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "niya kini ilisan niini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "ibaylohi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ug daotan"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ug maayo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "המר",
+      "gloss": "kinahanglan gayod mobaylo"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "siya mobaylo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mananap"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa mananap"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "unya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "ug ang iyang gibaylohan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:52.530529262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang kahimsog sa hunahuna magabantay kanimo, ang pagtilaaw magapanalipad kanimo —",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Ang kahimsog sa hunahuna"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "magabantay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ang pagtilaaw"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "magapanalipad kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:48.371607824Z",
+  "model": "glm-5.3"
+}

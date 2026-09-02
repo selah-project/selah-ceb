@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 20:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug kinsa ang tawo nga nagtanom ug kaparasan ug wala pa kini pagbungahi? Moadto siya ug mobalik sa iyang balay, aron nga dili siya mamatay sa gubat ug ang laing tawo mao ang magabungahi niini.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Ug kinsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "nagtanom"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kaparasan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala pa"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "pagbungahi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Moadto siya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug mobalik"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron nga dili"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang laing tawo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lalin"
+    },
+    {
+      "surface": "יחללנו",
+      "gloss": "magabungahi niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:05.001249050Z",
+  "model": "glm-5.3"
+}

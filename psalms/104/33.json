@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Magakanta ako kang Yahweh samtang ako adunay kinabuhi; maggukod ako alang sa akong Elohim samtang nagpadayon ang akong pagkabuhi.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "magakanta ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "samtang ako adunay kinabuhi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "maggukod ako"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "alang sa akong Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "samtang nagpadayon ang akong pagkabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:00.575434579Z",
+  "model": "glm-5.3"
+}

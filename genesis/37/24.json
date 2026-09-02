@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gikuha nila siya ug gisulyog nila ⟨את⟩ siya ngadto sa atipan; ug ang atipan hangaw — walay tubig sulod niini.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ug gikuha nila siya"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "ug gisulyog nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ngadto sa atipan"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ug ang atipan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "hangaw"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sulod niini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:22.248207428Z",
+  "model": "glm-5.3"
+}

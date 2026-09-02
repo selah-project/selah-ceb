@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Wala nila bantayan ang pakigsaad ni Elohim, ug sa iyang Torah nagdumili sila sa paglakaw ⟨⟨ini⟩⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nila bantayan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang pakigsaad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ug sa iyang Torah"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nagdumili sila"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:55.957621445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug kini alang kanimo ang timaila ⟨את⟩ ⟨gikan kang⟩ Yahweh, nga buhaton ni Yahweh ⟨את⟩ ang maong butang nga iyang gisulti:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ang timaila"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨gikan kang⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang maong butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:23.015732556Z",
+  "model": "glm-5.3"
+}

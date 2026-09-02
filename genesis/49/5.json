@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Shimon ug Levi, mga igsoon ⟨kini⟩; mga kagamitan sa kadaot ang ilang mga espada.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "ug Levi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "mga igsoon"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "ang ilang mga espada"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:01.790078366Z",
+  "model": "glm-5.3"
+}

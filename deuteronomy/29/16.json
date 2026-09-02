@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug nakita ninyo ⟨את⟩ ang ilang mga kasuklam ug ⟨את⟩ ang ilang mga diosdios — kahoy ug bato, pilak ug bulawan, nga anaa uban kanila.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "ug nakita ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga kasuklam"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ang ilang mga kasuklam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga diosdios"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ang ilang mga diosdios"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ug bato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "pilak"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ug bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "uban kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:58.263498703Z",
+  "model": "glm-5.3"
+}

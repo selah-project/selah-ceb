@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ugaling ba Nimo mahadlukan ang dahon nga gipadagan sa hangin? Ug ⟨את⟩ ang uhai nga mamala imong baylon?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ugaling ba"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "dahon nga gipadagan sa hangin"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "imong mahadlukan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang uhai nga mamala"
+    },
+    {
+      "surface": "קש",
+      "gloss": "uhai"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "mamala"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "imong baylon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:36.355757868Z",
+  "model": "glm-5.3"
+}

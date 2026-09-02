@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "ug dili na ⟨ang⟩ imong ngalan tawgon ⟨את⟩ Avram, ug mahimong imong ngalan Avraham, kay amahan sa kadaghan sa mga nasod gibuhat ko ikaw.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "tawgon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong ngalan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "gibuhat ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:02.976876795Z",
+  "model": "glm-5.3"
+}

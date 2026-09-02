@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Busa ania kako, magasapinit ako ⟨את⟩ sa imong dalan, ug magbukod ako ⟨את⟩ ug paril, ug ang iyang mga agianan dili siya makapangita.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ania kako"
+    },
+    {
+      "surface": "שך",
+      "gloss": "magasapinit ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong dalan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sa imong dalan"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "sa mga tunok"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ug magbukod ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ug paril"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "ug paril"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ug ang iyang mga agianan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "siya makapangita"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:29.804288288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 133,
+  "translation": "Awit sa mga pag-angsad, ni David. Ania karon, unsa ka maayo ug unsa ka kalipay ang pagpuyo sa mga igsoon — bisan magkahiusa!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angsad"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka maayo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ka kalipay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang pagpuyo"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "sa mga igsoon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.005167825Z",
+  "model": "glm-5.3"
+}

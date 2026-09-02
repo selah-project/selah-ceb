@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug giiunat ni Moshe ⟨את⟩ ang iyang kamot ngadto sa ⟨mga⟩ langit, ug nagkahimong kangitngit nga dikit-dikit sa tibook nga yuta sa Mitsrayim, tulo ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "giiunat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nagkahimong"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "nga dikit-dikit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibook nga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:05.022076187Z",
+  "model": "glm-5.3"
+}

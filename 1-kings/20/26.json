@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug nahitabo sa pagbalik sa tuig, gidapit ni Ben-Hadad ⟨את⟩ ang Aram, ug misaka siya sa Apek aron makig-away batok sa Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "gidapit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka siya"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sa Apek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "aron makig-away"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:42.934641838Z",
+  "model": "glm-5.3"
+}

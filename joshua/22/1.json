@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa niana nga panahon gitawag ni Yehoshua ⟨ang⟩ mga Reubeninhon, ug ⟨ang⟩ mga Gadhonon, ug ang katunga sa tribo ni Menashe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa niana nga panahon"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "⟨ang⟩ mga Reubeninhon"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ug ⟨ang⟩ mga Gadhonon"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ug ang katunga"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashe"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:57.818510050Z",
+  "model": "glm-5.3"
+}

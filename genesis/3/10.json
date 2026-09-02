@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon siya: Ang imong tingog nadungog ko sa tanaman, ug nakahadlok ako, kay hubo ako, ug nagtago ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong tingog"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "ang imong tingog"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nadungog ko"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "ויארא",
+      "gloss": "ug nakahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "hubo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ug nagtago"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:00.251675863Z",
+  "model": "glm-5.3"
+}

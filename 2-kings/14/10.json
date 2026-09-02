@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Sa pagkatinuod gipildi mo ⟨את⟩ ang Edom, ug gipatimbang-on kini sa imong kasingkasing; manghambug ka ⟨kanito⟩ ug pabilin sa imong balay; ug nganong mangahas ka sa kadaot nga mahulog ikaw ug ang Yehuda kauban kanimo?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "sa pagpildi"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "gipildi mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "gipatimbang-on ikaw"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sa imong kasingkasing"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "manghambug ka"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug pabilin"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ug nganong"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "mangahas ka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "nga mahulog"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ug ang Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kauban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:52.995330096Z",
+  "model": "glm-5.3"
+}

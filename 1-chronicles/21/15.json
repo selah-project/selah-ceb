@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 21:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gipadala ni Elohim ⟨את⟩ usa ka mensaheho ngadto sa Yerushalayim aron paglaglag niini; ug samtang nagalaglag ⟨siya⟩, nakita ni Yahweh ug nagbasol siya mahitungod sa kadaotan, ug miingon siya sa mensaheho nga nagalaglag: Igo na karon, ipahulay ang imong kamot. Ug ang mensaheho ni Yahweh nagtindog duol sa giikanan-humay ni Arnan nga Jebusnon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "usa ka mensaheho"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ngadto sa Yerushalayim"
+    },
+    {
+      "surface": "להשחיתה",
+      "gloss": "aron paglaglag niini"
+    },
+    {
+      "surface": "וכהשחית",
+      "gloss": "ug samtang nagalaglag"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ug nagbasol"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "sa mensaheho"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "nga nagalaglag"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Igo na"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "ipahulay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "Ug ang mensaheho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "duol sa"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "giikanan-humay"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ni Arnan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "nga Jebusnon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:59.057252728Z",
+  "model": "glm-5.3"
+}

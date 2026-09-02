@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug gihimo niya ⟨את⟩ ang bisti sa ephod, buhat sa maghuhabhab, tibuok nga tekhelet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bisti"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ang bisti"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sa ephod"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "sa maghuhabhab"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:52.831764330Z",
+  "model": "glm-5.3"
+}

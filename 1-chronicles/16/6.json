@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug si Benayahu ug si Yejaziel ⟨ang mga⟩ sacerdote, ⟨nagtutunog⟩ ug mga trumpeta sa kanunay atubang sa aron sa pakigsaad ni Elohim.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Ug si Benayahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "si Yejaziel"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨ang mga⟩ sacerdote"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "⟨nagtutunog⟩ ug mga trumpeta"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang sa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:00.361226723Z",
+  "model": "glm-5.3"
+}

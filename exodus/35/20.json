@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug migula ang tibuuk nga katigayonan sa mga anak ni Yisrael gikan sa atubangan ni Moshe",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Ug migula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuuk"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ka katigayonan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:21.305469065Z",
+  "model": "glm-5.3"
+}

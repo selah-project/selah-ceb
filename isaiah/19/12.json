@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Asa na, ngani, ang imong mga maalam? Pasumbongha sila kanimo karon, ug mahibalo sila unsa ang gitambag ni Yahweh Tsevaot batok sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "na"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "ang imong mga maalam"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "pasumbongha sila"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ug mahibalo sila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "gitambag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:55.466156314Z",
+  "model": "glm-5.3"
+}

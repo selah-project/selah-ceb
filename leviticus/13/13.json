@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug tan-awon sa kohen, ug ania karon, nakatabon na sa tsaraat ⟨את⟩ ang tibuok nga unod niya, ug ipahinlo sa kohen ⟨את⟩ ang may sakit — ang tibuok natapon ngadto sa puti — nga hinlo siya.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "nakatabon na"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sa tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga unod niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nga unod niya"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ug ipahinlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang may sakit"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang may sakit"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "natapon"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ngadto sa puti"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga hinlo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:57.595592819Z",
+  "model": "glm-5.3"
+}

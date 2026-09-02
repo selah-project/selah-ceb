@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "⟨Ang⟩ mata nga nakatan-aw kaniya dili na ⟨magpadayon⟩, ug ang iyang dapit dili na siya makita pa.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "nga nakatan-aw kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "⟨magpadayon⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "makita siya"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ang iyang dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:40:25.159528219Z",
+  "model": "glm-5.3"
+}

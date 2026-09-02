@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Nahitabo sa pagkagabii, nga gikuha niya ⟨את⟩ si Lea nga iyang anak nga babae, ug gidala niya ⟨את⟩ siya ngadto kaniya, ug misulod siya ngadto kaniya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagkagabii"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "nga iyang anak nga babae"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug gidala niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug misulod siya"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ngadto kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:15.696949006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 43:14",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Mao kini ang giingon ni Yahweh, ang inyong Manubus, ang Balaan sa Yisrael: Tungod kaninyo gipadala ko ngadto sa Bavel, ug gipaubos ko ang tanan ⟨nga mga-bar⟩ ug ang mga Kashdi ⟨ngadto sa mga sakayan⟩ sa ilang pag-awit.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גאלכם",
+      "gloss": "ang inyong Manubus"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ang Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "Tungod kaninyo"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "gipadala ko"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ngadto sa Bavel"
+    },
+    {
+      "surface": "והורדתי",
+      "gloss": "ug gipaubos ko"
+    },
+    {
+      "surface": "בריחים",
+      "gloss": "ang mga-bar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "ug ang mga Kashdi"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "sa mga sakayan"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "sa ilang pag-awit"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:43.359012798Z",
+  "model": "glm-5.3"
+}

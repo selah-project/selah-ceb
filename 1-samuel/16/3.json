@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": " ug tawga si Yishay sa panahon sa pagsa-ang, ug ako magpasidaan kanimo mahitungod sa ⟨את⟩ sa buhaton nimo, ug dihogi alang kanako ⟨את⟩ sa akong isulti kanimo.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "ug tawga"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "si Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "sa panahon sa pagsa-ang"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "magpasidaan kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa buhaton nimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa buhaton nimo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imo nga buhaton"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ug dihogi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong isulti kanimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa akong isulti kanimo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "akong isulti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:13.941762049Z",
+  "model": "glm-5.3"
+}

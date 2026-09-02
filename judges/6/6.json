@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang Yisrael hugot nga napaubsanon tungod sa Midyan, ug ang mga anak ni Yisrael nangaliya kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "ug napaubsanon hugot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hugot nga"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "ug nangaliya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:57.833181494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang hari sa Afeq, usa; ang hari sa Lasharon, usa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "sa Afeq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "sa Lasharon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:38.536690097Z",
+  "model": "glm-5.3"
+}

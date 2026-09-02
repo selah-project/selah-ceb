@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": " ug ⟨nahimong⟩ taga-tagang taas ang gubat taliwala sa balay ni Shaul ug taliwala sa balay ni David; ug si David nagpadayon nga namugkos ⟨sa gahum⟩, samtang ang balay ni Shaul nagpadayon nga naguyang.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ug ⟨nahimong⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang gubat"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "taga-tagang taas"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagpadayon"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "nga namugkos"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug ang balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagpadayon"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "nga naguyang"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:43.540590513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 9:1",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug siya migwaol sa akong mga igdulog-ginhawa nga adunay usa ka tingog nga dako, nga nagaingon: Paduola ⟨ang⟩ mga pagbisita sa dakbayan, ug ang matag tawo ⟨adunay⟩ iyang himan sa paglaglag sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "migwaol"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa akong mga igdulog-ginhawa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "paduola"
+    },
+    {
+      "surface": "פקדות",
+      "gloss": "mga pagbisita"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang matag tawo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "himan"
+    },
+    {
+      "surface": "משחתו",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:36:06.316716514Z",
+  "model": "glm-5.3"
+}

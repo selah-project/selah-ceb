@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Kini ang nahitabo kanako, kay ang imong mga sugo gitipigan ko.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ang nahitabo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ang imong mga sugo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "gitipigan ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:28.779876526Z",
+  "model": "glm-5.3"
+}

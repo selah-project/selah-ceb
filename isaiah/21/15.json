@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay gikan sa atubangan sa mga hinagiban nakalayas sila, gikan sa atubangan sa hiniwa nga espada, ug gikan sa atubangan sa gikilat nga pana, ug gikan sa atubangan sa kagubot sa gubat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga hinagiban\/espada"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nakalayas sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "hiniwa nga"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ug gikan sa atubangan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "gikilat nga"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ug gikan sa atubangan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kagubot\/gibug-aton"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:53.471030192Z",
+  "model": "glm-5.3"
+}

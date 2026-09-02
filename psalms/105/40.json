@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nangayo sila, ug gipadala niya ang salti, ug sa tinapay sa langit gipabusog niya sila.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Nangayo sila"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ang salti"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ug sa tinapay"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "gipabusog niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:00.456348761Z",
+  "model": "glm-5.3"
+}

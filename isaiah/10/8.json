@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kay mag-ingon ⟨siya⟩: Wala ba ang akong mga mangulo magkahiusa nga mga hari?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mag-ingon"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang akong mga mangulo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "nga mga hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:26.114583687Z",
+  "model": "glm-5.3"
+}

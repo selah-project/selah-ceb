@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Gipatindog niya ⟨את⟩ ang balay ug gihuman niya kini; gisapinan niya ⟨את⟩ ang balay ug mga balangkas ug liniyon sa sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gipatindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "gihuman niya kini"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "gisapinan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "mga balangkas"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "ug mga liniyon"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "sa sedro"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:21.908845028Z",
+  "model": "glm-5.3"
+}

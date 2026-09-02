@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang imong mga balaod nahimong mga awit alang kanako sa balay sa akong pagpuyo nga langyaw.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "mga awit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang imong mga balaod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "sa akong pagpuyo nga langyaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:28.779563890Z",
+  "model": "glm-5.3"
+}

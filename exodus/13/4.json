@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Kining adlawa kamo ⟨manggikan⟩, sa bulan sa Aviv.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Kining adlawa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "⟨manggikan⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "sa Aviv"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:37.110660675Z",
+  "model": "glm-5.3"
+}

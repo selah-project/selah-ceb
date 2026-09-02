@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Ngadto ba sa mga patay imong buhaton ang katingalah-an? Mosangbang ba ang mga Refaim aron magatawo sila kanimo? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Ngadto ba sa mga patay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ang katingalah-an"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ang mga Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "Mosangbang ba"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magatawo sila kanimo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:39.886251511Z",
+  "model": "glm-5.3"
+}

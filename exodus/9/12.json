@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gipalig-on ni Yahweh ⟨את⟩ ang kasingkasing ni Paro, ug wala siya mamati kanila, ingon sa gisulti ni Yahweh kang Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ug gipalig-on ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasingkasing ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "siya mamati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "kasאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti ni Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:22.525457172Z",
+  "model": "glm-5.3"
+}

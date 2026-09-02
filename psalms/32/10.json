@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Daghan nga mga kapaitan ⟨nga moabot⟩ sa dautan, apan ang nagatuo kang Yahweh — hesed (maloloy-on nga pagkamatinud-anon) ang magalibut kaniya.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Daghan"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "mga kapaitan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "apan ang nagatuo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ang magalibut kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:12.852415767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug buhaton ni Yahweh ang pag-ila ⟨nga kausaban⟩ taliwala sa mga kahayop sa Yisrael ug sa mga kahayop sa Mitsrayim, ug wala gayoy mamatay gikan sa tanan nga mga kahayop sa mga anak ni Yisrael — bisan usa ka butang.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "Ug buhaton ni Yahweh ang pag-ila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mga kahayop"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mga kahayop"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala gayoy"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nga mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bisan usa ka butang"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:32.957693378Z",
+  "model": "glm-5.3"
+}

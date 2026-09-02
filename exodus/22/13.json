@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 22:13",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug kon mangamot ⟨sa butang⟩ ang usa ka tawo gikan sa iyang isigkatawo ug kini mabuak o mamatay — wala ang tagsa uban niini — magbayad siya, hingpit nga magbayad.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "mangamot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iyang isigkatawo"
+    },
+    {
+      "surface": "ונשבר",
+      "gloss": "ug mabuak"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ang tagsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban niini"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "magbayad"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hingpit nga magbayad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:19.825534755Z",
+  "model": "glm-5.3"
+}

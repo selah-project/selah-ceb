@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Busa gipadala ni David ang mga espiya, ug nakahibalo siya nga miabot gayod si Shaul ngadto sa Nahon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ang mga espiya"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ug nakahibalo siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nahon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:00.807300272Z",
+  "model": "glm-5.3"
+}

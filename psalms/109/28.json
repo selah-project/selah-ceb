@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Maglitok sila, apan ⟨ikaw⟩ magpanalangin; mobangon sila ug mawad-an og ulaw, apan ang imong sulugoon magmalipayon.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Maglitok sila"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "apan ikaw"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "magpanalangin"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "mobangon sila"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ug mawad-an og ulaw"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "apan ang imong sulugoon"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:17.553686497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug dili niya paglubongan ang iyang binhi sa taliwala sa iyang katawhan; kay ako si Yahweh nga nagabalaan kaniya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "niya paglubongan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ang iyang binhi"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "sa taliwala sa iyang katawhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "nga nagabalaan kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:20.900360502Z",
+  "model": "glm-5.3"
+}

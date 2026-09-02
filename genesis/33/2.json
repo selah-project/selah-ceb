@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug gipahimutang niya ⟨את⟩ ang mga sulugoon nga babaye ug ⟨את⟩ ang ilang mga anak sa unang bahin, ug ⟨את⟩ si Lea ug ang iyang mga anak sa ulahi, ug ⟨את⟩ si Rakel ug ⟨את⟩ si Yosef sa kataposang bahin.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ug gipahimutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sulugoon nga babaye"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ang mga sulugoon nga babaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang mga anak"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ang ilang mga anak"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "sa unang bahin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sa ulahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Rakel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "si Rakel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "sa kataposang bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:43.042224809Z",
+  "model": "glm-5.3"
+}

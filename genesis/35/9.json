@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug nagpakita si Elohim kang Yaakov pag-usab, sa iyang pag-anhi gikan sa Padan-Aram, ug iyang gikamayo ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "sa iyang pag-anhi"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "gikan sa Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug iyang gikamayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:03.331016161Z",
+  "model": "glm-5.3"
+}

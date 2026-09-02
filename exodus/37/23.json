@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gihimo niya ⟨את⟩ ang iyang pito ka mga lamparahan, ug ang iyang mga malqah, ug ang iyang mga mahat, bulawan nga hinlo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang pito ka mga lamparahan"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ang iyang mga lamparahan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "ug ang iyang mga malqah"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "ug ang iyang mga mahat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga hinlo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:39.773773026Z",
+  "model": "glm-5.3"
+}

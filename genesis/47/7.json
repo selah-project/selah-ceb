@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Ug gidala ni Yosef si ⟨את⟩ Yaakov nga iyang amahan, ug gipatindog siya atubang ni Paro; ug gipanalanginan ni Yaakov si ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ug gidala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "si ⟨את⟩",
+      "marks": "Yaakov nga iyang amahan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iyang amahan"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ug gipatindog siya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug gipanalanginan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "si ⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:20.103280047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Si Yahweh ang magtigumon alang kaninyo, ug kamo maghilum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "magtigumon"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ug kamo"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "maghilum"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:25.992936077Z",
+  "model": "glm-5.3"
+}

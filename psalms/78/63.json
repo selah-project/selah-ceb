@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ang kalayo mikaon sa iyang mga batan-on nga lalaki, ug ang iyang mga ulitawo wala ipadayeg.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "ang iyang mga batan-on nga lalaki"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "mikaon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "ug ang iyang mga ulitawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "ipadayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:22.706487633Z",
+  "model": "glm-5.3"
+}

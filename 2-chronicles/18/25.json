@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug miingon ang hari sa Israel: Pagdakop kamo ⟨את⟩ kang Mikhayhu ug iuli siya ngadto kang Amon, punoan sa ⟨siyudad⟩, ug ngadto kang Yoash, anak sa hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pagdakop kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Mikhayhu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayhu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "ug iuli siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "punoan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa ⟨siyudad⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto kang"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:27.993441922Z",
+  "model": "glm-5.3"
+}

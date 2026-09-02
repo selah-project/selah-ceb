@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug buhata sumala sa imong kaalam, ug ayaw pagpaubos sa iyang puti nga ulo ngadto sa Sheol sa kalinaw.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhata"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "sumala sa imong kaalam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "pagpaubos"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "sa iyang puti nga ulo"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "sa kalinaw"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ngadto sa Sheol"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:38.211297156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gituli ni Avraham ⟨את⟩ si Yitskhak nga iyang anak, anak sa walo ka adlaw, ingon sa gisugo ni Elohim ⟨את⟩ kaniya.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "Ug gituli"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "sa walo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:58.495018377Z",
+  "model": "glm-5.3"
+}

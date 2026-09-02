@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang iyang panalipod ug ang iyang mga giilanon: upat ka gatus ug kalim-an ka libo ug upat ka gatus.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "ug ang iyang panalipod"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ug ang iyang mga giilanon"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ug kalim-an"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ug upat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatus"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:11.095595732Z",
+  "model": "glm-5.3"
+}

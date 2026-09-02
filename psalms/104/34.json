@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Hinaot nga matam-is ⟨kaniya⟩ ang akong pagpahinongdom; ako, magakalipay ako kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "hinaot nga matam-is"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ang akong pagpahinongdom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "magakalipay ako"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:00.575716831Z",
+  "model": "glm-5.3"
+}

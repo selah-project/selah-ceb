@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Ug walay nagatawag sa imong ngalan, walay nagbangon sa pagkupot kanimo, kay nagtago ikaw sa imong dagway gikan kaniya, ug gipakunog kami pinaagi sa among mga kasalahan.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nagatawag"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "sa pagkupot"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "nagtago ikaw"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong dagway"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "ug gipakunog kami"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "sa among mga kasalahan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:12.592101720Z",
+  "model": "glm-5.3"
+}

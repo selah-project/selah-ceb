@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug miingon si Shemuël sa magluto: Ihatag ⟨את⟩ ang bahin nga akong gihatag kanimo, nga akong giingnan kanimo: Ibutang mo ⟨את⟩ kini uban kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "sa magluto"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bahin"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "akong gihatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "akong giingnan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ibutang mo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:39.155021378Z",
+  "model": "glm-5.3"
+}

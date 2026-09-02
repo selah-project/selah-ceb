@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Gisugoan ni Avimelekh ⟨את⟩ ang tibuok nga katawhan, nga nagaingon: Ang mopakigbahin niining tawhana o sa iyang asawa, mamatay pagapatyon siya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gisugoan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Ang mopakigbahin"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "niining tawhana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "o sa iyang asawa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon siya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:13.292075126Z",
+  "model": "glm-5.3"
+}

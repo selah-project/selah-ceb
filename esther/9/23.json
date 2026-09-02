@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gidawat sa mga Yehudi ⟨את⟩ ang nga gisugdan nila pagbuhat, ug ⟨את⟩ ang nga gisulat ni Mordekhai ngadto kanila,",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "ug gidawat"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sa mga Yehudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nga gisugdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "gisugdan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang nga gisulat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "gisulat"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ngadto kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:34.665532343Z",
+  "model": "glm-5.3"
+}

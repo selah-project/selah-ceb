@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang mga napatay sa espada mas maayo kaysa mga napatay sa kagutom, kay sila nagtuno nga gitusok, nga walay ani sa uma.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "mas maayo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mga"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "mga napatay"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "kaysa mga napatay"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "sa kagutom"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "kay sila"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "nagtuno"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "nga gitusok"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "nga walay ani"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-01T22:49:16.712245111Z",
+  "model": "glm-5.3"
+}

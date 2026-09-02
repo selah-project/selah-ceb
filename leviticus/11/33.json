@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ang tanan nga sudlonan sa bakil ⟨ang⟩ nahulog ngadto sa sulod niini bisan unsa nga bahin kanila ang tanan nga anaa sa sulod niini mahimong dili matinlo, ug ⟨את⟩ niini pagabuagon ninyo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sudlonan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa bakil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "bisan unsa nga bahin kanila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "sulod niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sulod niini"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mahimong dili matinlo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ niini",
+      "marks": "sudlonan sa bakil"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "pagabuagon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:43.288295313Z",
+  "model": "glm-5.3"
+}

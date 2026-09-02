@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Gipili niya alang kanato ⟨את⟩ ang among panulondon, ⟨את⟩ ang kahaluag sa Yakov, nga iyang gihigugma. Selah.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Gipili"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang among panulondon"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ang among panulondon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahaluag"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ang kahaluag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "sa Yakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "gihigugma"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.604179016Z",
+  "model": "glm-5.3"
+}

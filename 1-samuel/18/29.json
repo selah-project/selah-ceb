@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gidugangan ni Shaul ang pagkahadlok sa atubangan ni David paagi, ug ang Shaul nahimong kaaway ni ⟨את⟩ David sa tanang ⟨mga⟩ adlaw.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "gidugangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "ang pagkahadlok"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "paagi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ang Shaul"
+    },
+    {
+      "surface": "איב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:33.974042576Z",
+  "model": "glm-5.3"
+}

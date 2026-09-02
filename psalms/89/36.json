@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Usa ka higayon nakapanumpa ako sa akong pagkabalaan: sa pagkatinuod, kang David dili ako magbakak —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "usa ka higayon"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nakapanumpa ako"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "sa akong pagkabalaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "magbakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.997202719Z",
+  "model": "glm-5.3"
+}

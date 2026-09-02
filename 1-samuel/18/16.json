@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Apan ang tibuok Israel ug Yehudah naghigugma kang ⟨את⟩ David, kay siya mao ang mogawas ug mosulod sa ilang atbang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "apan ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ug Yehudah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mao ang"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ug mosulod"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ilang atbang"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:57.722116491Z",
+  "model": "glm-5.3"
+}

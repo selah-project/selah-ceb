@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Kay abo ingon sa pan ang akong gikaon, ug ang akong ilimnon uban sa paghibi ko gisagol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "ingon sa pan"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ang akong gikaon"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ug ang akong ilimnon"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "uban sa paghibi"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "gisagol ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:58.928521155Z",
+  "model": "glm-5.3"
+}

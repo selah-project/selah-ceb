@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Nga wala mamati sa tingog sa mga mumurmur, sa labing maalamon nga mamumulong sa mga anting-anting.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "sa mga mumurmur"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mamumulong"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "sa mga anting-anting"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "labing maalamon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.429269562Z",
+  "model": "glm-5.3"
+}

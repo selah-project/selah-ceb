@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nakita sa Elohim ⟨את⟩ ang ilang mga buhat, nga nibalik sila gikan sa ilang daotang dalan; ug nagmahay ang Elohim mahitungod sa kadaotan nga giingon Niya nga buhaton sa ila, ug wala Niya kini buhata.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga buhat"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ang ilang mga buhat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nibalik sila"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "gikan sa ilang dalan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ug nagmahay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "giingon Niya"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhata"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:51.925447668Z",
+  "model": "glm-5.3"
+}

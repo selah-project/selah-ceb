@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ang magtunglo sa iyang amahan ug sa iyang inahan — siguradong pagapatyon siya.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "ang magtunglo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ug sa iyang inahan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "pagapatyon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "siguradong patyon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:26.767085622Z",
+  "model": "glm-5.3"
+}

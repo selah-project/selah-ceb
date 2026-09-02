@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug kon mupanumpog sila ⟨sa mga trumpeta⟩, magatigum ⟨kanimo⟩ ang tibuok nga katigulangan, ngadto sa ganghaan sa tolda sa pagtagbo.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Ug kon mupanumpog sila"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "⟨sa mga trumpeta⟩"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "magatigum"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨kanimo⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "nga katigulangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:35:18.288562342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug sa katapusang bahin sa tabernakulo, ngadto sa kasadpan, magabuhat ka ug unom ka mga tabla.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "ug sa katapusang bahin"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa tabernakulo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ngadto sa kasadpan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "magabuhat ka"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "unom"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "mga tabla"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:05.702524833Z",
+  "model": "glm-5.3"
+}

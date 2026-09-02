@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gipahimuslan niya sa aso ⟨את⟩ iyang halad nga sinusunog ug ⟨את⟩ iyang halad nga harina, ug gibuhos niya ⟨את⟩ iyang halad nga ilimnon, ug gisabwag niya ⟨את⟩ ang dugo sa mga halad sa kalinaw nga iya ngadto sa ibabaw sa ⟨ang⟩ halaran.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "gipahimuslan niya sa aso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang halad nga sinusunog"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "iyang halad nga sinusunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyang halad nga harina"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "iyang halad nga harina"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "gibuhos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang halad nga ilimnon"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "iyang halad nga ilimnon"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ug gisabwag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa mga halad sa kalinaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa ibabaw sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:45.199145537Z",
+  "model": "glm-5.3"
+}

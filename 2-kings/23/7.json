@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug giguba niya ⟨את⟩ ang mga balay sa mga konsagrado nga anaa sa balay ni Yahweh, diin ang mga babaye nagtenel didto ug mga balay alang kang Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "giguba niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga balay"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga konsagrado"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babaye"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "nagtenel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "alang kang Asherah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:25.429387546Z",
+  "model": "glm-5.3"
+}

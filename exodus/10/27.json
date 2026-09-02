@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Usiab gipalig-on ni Yahweh ⟨את⟩ ang kasingkasing ni Paro, ug dili siya motugot sa pagpalakip kanila.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "gipalig-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasingkasing ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "motugot"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sa pagpalakip kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:42.286673299Z",
+  "model": "glm-5.3"
+}

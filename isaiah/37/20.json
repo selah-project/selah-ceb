@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 37:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug karon, Yahweh nga among Elohim, luwasa kami gikan sa iyang kamot, ug mahibaloan sa tanang mga gingharian sa yuta nga ikaw, ikaw nga usa ra, mao ang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "הושיענו",
+      "gloss": "luwasa kami"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "gikan sa iyang kamot"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ug mahibaloan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ikaw nga usa ra"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:25.048816875Z",
+  "model": "glm-5.3"
+}

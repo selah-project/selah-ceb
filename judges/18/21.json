@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Mibalik sila ug nangadto, ug gibutang nila ⟨את⟩ ang mga gagmayng bata ug ⟨את⟩ ang mga kahayopan ug ⟨את⟩ ang mga butang nga may kabug-aton sa ilang atubangan.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Mibalik sila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug nangadto"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ug gibutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga gagmayng bata"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "ang mga gagmayng bata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kahayopan"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ang mga kahayopan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga butang nga may kabug-aton"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "ang mga butang nga may kabug-aton"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ilang atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:11:36.095796028Z",
+  "model": "glm-5.3"
+}

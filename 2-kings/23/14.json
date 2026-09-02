@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gipamut-ob niya ⟨את⟩ ang mga matsevah, ug gitigbas niya ⟨את⟩ ang mga Asherah, ug gipun-an niya ⟨את⟩ ang ilang mga dapit ug mga bukog sa tawo.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Ug gipamut-ob niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga matsevah"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ang mga matsevah"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ug gitigbas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Asherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ang mga Asherah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ug gipun-an niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga dapit"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ang ilang mga dapit"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga bukog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:14.926197547Z",
+  "model": "glm-5.3"
+}

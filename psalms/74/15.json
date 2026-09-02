@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ikaw ang nagbukak sa tinubdan ug sa sapa, ikaw ang nagpauga sa mga suba nga walay katapusan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "nagbukak"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "tinubdan"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ug sa sapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "nagpauga"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga suba"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "nga walay katapusan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.848325120Z",
+  "model": "glm-5.3"
+}

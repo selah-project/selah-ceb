@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nahitabo, sa pagkatigulang ni Shemuel, nga gipatindog niya ⟨את⟩ ang iyang mga anak ingon nga mga maghuhukom alang sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa dihang"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "pagkatigulang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gipatindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "maghuhukom"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "alang sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:27.963476551Z",
+  "model": "glm-5.3"
+}

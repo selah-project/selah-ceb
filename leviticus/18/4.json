@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "⟨את⟩ akong mga mishpat buhaton ninyo, ug ⟨את⟩ akong mga chukot bantayan ninyo, sa paglakaw niini: Ako si Yahweh ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong mga mishpat"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "akong mga mishpat"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "buhaton ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "akong mga chukot"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "akong mga chukot"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bantayan ninyo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakaw"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:48.100850056Z",
+  "model": "glm-5.3"
+}

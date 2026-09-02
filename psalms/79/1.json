@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Usa ka mizmor kang Asaf. Elohim, ming sulod ang mga nasod sa imong kabilin, ginghugawan nila ⟨את⟩ ang templo sa imong pagkabalaan, gihimo nila ⟨את⟩ ang Yerushalayim nga mga tinagbungtod.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kang Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ming sulod"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "sa imong kabilin"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "ginghugawan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang templo"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ang templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sa imong pagkabalaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "gihimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "nga mga tinagbungtod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:17.397142266Z",
+  "model": "glm-5.3"
+}

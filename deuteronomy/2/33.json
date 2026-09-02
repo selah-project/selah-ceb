@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gihatag ni Yahweh nga Elohim nato siya ⟨את⟩ atubangan namo, ug gislagan namo ⟨את⟩ siya ug ⟨את⟩ ⟨ang⟩ iyang mga anak ug ⟨את⟩ ang tibuok niyang katawhan.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "gihatag niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nato"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "atubangan namo"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "ug gislagan namo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Sihon)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niyang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:12.578530580Z",
+  "model": "glm-5.3"
+}

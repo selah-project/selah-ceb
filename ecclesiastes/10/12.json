@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang mga pulong sa baba sa maalamon ⟨mga⟩ grasya ⟨kini⟩; apan ang mga ngabil sa buang mokaon kaniya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasya"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "mokaon kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:27.414212332Z",
+  "model": "glm-5.3"
+}

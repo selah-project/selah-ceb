@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 5:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay ikaw, Yahweh, magpanalangin sa matarong; ingon sa lagsaw ⟨sa⟩ imong kaayohan ikaw magapalibot kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "magpanalangin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצנה",
+      "gloss": "ingon sa lagsaw"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "kaayohan"
+    },
+    {
+      "surface": "תעטרנו",
+      "gloss": "magapalibot kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:36.865510249Z",
+  "model": "glm-5.3"
+}

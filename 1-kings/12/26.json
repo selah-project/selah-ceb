@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Miingon si Yaravam sa iyang kasingkasing: Karon mobalik na ang gingharian sa balay ni David.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:19.749586257Z",
+  "model": "glm-5.3"
+}

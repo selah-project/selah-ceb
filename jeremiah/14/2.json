@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Nagsubad ang Yehudah, ug ang iyang mga ganghaan nagluya; nangitom sila ngadto sa yuta, ug ang panawag sa Yerushalayim mitaas ⟨ngadto sa itaas⟩.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "nagsubad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "ug ang iyang mga ganghaan"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "nagluya"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "nangitom"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "ug ang panawag"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "mitaas"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:38.762414093Z",
+  "model": "glm-5.3"
+}

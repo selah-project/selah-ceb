@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ang palade sa Tsor: Panaghoy kamo, mga sakayan sa Tarshish, kay gipan-un ang ⟨iyang⟩ balay nga walay sulod, walay pagsulod; gipadayag kanila gikan sa yuta sa Kittim.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "palade"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sa Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "panaghoy kamo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "mga sakayan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "sa Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "gipan-un"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "pagsulod"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "sa Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "gipadayag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:16.181311823Z",
+  "model": "glm-5.3"
+}

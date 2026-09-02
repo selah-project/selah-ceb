@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug mamahulay kaniya ang espirito ni Yahweh, ang espirito sa kaalam ug sa pagsabot, ang espirito sa tambag ug sa kusog, ang espirito sa kahibalo ug sa kahadlok kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "mamahulay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espirito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espirito"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ug sa pagsabot"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espirito"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sa tambag"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ug sa kusog"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espirito"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sa kahibalo"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ug sa kahadlok kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:15.483015947Z",
+  "model": "glm-5.3"
+}

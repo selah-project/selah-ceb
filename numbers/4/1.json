@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "UG nagsulti si Yahweh kang Moshe ug kang Aharon, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:28.655340659Z",
+  "model": "glm-5.3"
+}

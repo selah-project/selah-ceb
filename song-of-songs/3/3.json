@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nakapakigkita kanako ang mga bantay nga naglibot-libot sa dakbayan: ⟨את⟩ niya nga gihigugma sa akong kalag, nakita ba ninyo siya?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "nakapakigkita kanako"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ang mga bantay"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "naglibot-libot"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niya nga gihigugma sa akong kalag"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "gihigugma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakita ba ninyo siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:32.317301226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug miingon ang tawo sa Elohim: Asa kini nahulog? Ug gipakita niya kaniya ⟨את⟩ ang dapit, ug nagputol siya ug kahoy ug gisulod kini didto, ug gipalutaw ⟨niya⟩ ang puthaw.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "ug gipakita niya kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dapit"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang dapit"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "ug nagputol siya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ug gisulod niya"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ug gipalutaw"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ang puthaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:48.007285111Z",
+  "model": "glm-5.3"
+}

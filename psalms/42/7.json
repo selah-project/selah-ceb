@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Akong Elohim, ang akong kalag nagalubog ⟨sa⟩ akong ⟨sulod⟩; tungod niini mahinumdom ko Kanimo gikan sa yuta sa Yarden, ug sa mga Khremonim, gikan sa bukid sa Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Akong Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akong ⟨sulod⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "nagalubog"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "mahinumdom ko Kanimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "ug sa mga Khremonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gikan sa bukid"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "sa Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:18.396308511Z",
+  "model": "glm-5.3"
+}

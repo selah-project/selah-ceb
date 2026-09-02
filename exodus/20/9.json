@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Unom ka adlaw magaabot ka ug buhaton mo ang tanan nimong buhat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Unom ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "magaabot ka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "nimong buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:21.856396160Z",
+  "model": "glm-5.3"
+}

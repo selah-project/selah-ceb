@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kining tanan nainit sila ingon sa hurno, ug gikaon nila ⟨את⟩ ang ilang mga maghuhukom; ang tanan nilang mga hari natumba; walay nagatawag kanako kanila.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "kining tanan sila"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "nainit"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ingon sa hurno"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug gikaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga maghuhukom"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "ang ilang mga maghuhukom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "nilang mga hari"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nagatawag"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:22.211563265Z",
+  "model": "glm-5.3"
+}

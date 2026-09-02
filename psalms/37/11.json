@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ang mga mapaubsanon magapanunod ⟨sa⟩ yuta, ug magakalipay sila sa kadaghan sa shalom.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "Ug ang mga mapaubsanon"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "magapanunod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ug magakalipay sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:46.665421581Z",
+  "model": "glm-5.3"
+}

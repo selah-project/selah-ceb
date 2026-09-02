@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Panawayi ang imong hampak gikan kanako; gikan sa pakigbungga sa imong kamot ako nagkawad-on.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "panawayi"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "imong hampak"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "gikan sa pakigbungga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imong kamot"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nagkawad-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:54.703881108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug magabalik ako ngadto kaninyo, ug magapaam ⟨את⟩ kamo, ug magadaghan ⟨את⟩ kamo, ug patindogon ko ⟨את⟩ ang akong pakigsaad ⟨את⟩ uban kaninyo.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "magabalik ako"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ngadto kaninyo"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "magapaam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "magadaghan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "patindogon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong pakigsaad"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ uban kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:48.698823684Z",
+  "model": "glm-5.3"
+}

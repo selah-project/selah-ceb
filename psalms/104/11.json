@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Painumon nila ang tanang mga mananap sa kapatagan; ang mga iro nga ilahas mabali ang ilang uhaw.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "painumon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mga mananap"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "mabali"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "mga iro nga ilahas"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ilang uhaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:49.696247772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug sa pagkatinuod, ⟨את⟩ nga dugo sa inyong mga kinabuhi pangitaon Ko; gikan sa kamot sa tanang binuhat nga buhi pangitaon Ko kini; ug gikan sa kamot sa tawo — gikan sa kamot sa tawo, sa iyang igsoon — pangitaon Ko ⟨את⟩ nga kinabuhi sa tawo.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "ug sa pagkatinuod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga dugo sa inyong mga kinabuhi"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "dugo sa inyong mga kinabuhi"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "sa inyong mga kinabuhi"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "pangitaon Ko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "binuhat nga buhi"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "pangitaon Ko kini"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ug gikan sa kamot"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "pangitaon Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga kinabuhi sa tawo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:09.398967501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug mga tawo nga balaan alang kanako mahimo ninyo; ug unod nga natigbabaw sa uma dili ninyo kan-on; sa iro pagtangtangon ninyo ⟨את⟩ niini.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ug mga tawo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nga balaan"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "mahimo ninyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ug unod"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "nga natigbabaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kan-on"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "sa iro"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "pagtangtangon ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang unod nga natigbabaw)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:44.097061254Z",
+  "model": "glm-5.3"
+}

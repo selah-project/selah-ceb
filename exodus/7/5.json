@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug mahibalo ang mga taga-Mitsrayim nga ako si Yahweh, sa pagpatigbabaw sa akong kamot ⟨את⟩ ibabaw sa Mitsrayim, ug paggawason ko ⟨את⟩ sa mga anak nga Israel gikan sa taliwala nila.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ug mahibalo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang mga taga-Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "sa pagpatigbabaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "akong kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ug paggawason ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak nga Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "gikan sa taliwala nila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:40.833436843Z",
+  "model": "glm-5.3"
+}

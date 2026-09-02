@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang saksi nga matinud-anon dili molimbong, ug ang saksi sa bakak mogula ug mga bakak.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ang saksi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "nga matinud-anon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "molimbong"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "mogula ug"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "mga bakak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ang saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:46.596433269Z",
+  "model": "glm-5.3"
+}

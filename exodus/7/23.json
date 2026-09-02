@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug si Paro miliko ug misulod sa iyang balay, ug wala niya itudlo ang iyang kasingkasing bisan niini.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ug miliko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug misulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שת",
+      "gloss": "itudlo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iyang kasingkasing"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:46.915495765Z",
+  "model": "glm-5.3"
+}

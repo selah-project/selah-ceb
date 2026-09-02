@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang kohen nga magahalad ⟨את⟩ sa olah (halad nga tungatunga) sa usa ka tawo — ang panit sa olah nga iyang gihalad, ngadto sa kohen ⟨kaniya⟩ kini mahimong.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "ug ang kohen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "nga magahalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang olah (halad nga tungatunga)"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olah (halad nga tungatunga)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ang panit"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa olah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "iyang gihalad"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ngadto sa kohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini mahimong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:23.452786859Z",
+  "model": "glm-5.3"
+}

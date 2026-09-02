@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "UG nangiyan si Kenan pitumpung tuig, ug natawo siya ⟨את⟩ Mahalalel:",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nangiyan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "si Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:28.856322191Z",
+  "model": "glm-5.3"
+}

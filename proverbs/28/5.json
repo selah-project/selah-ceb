@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ang mga tawong daotan dili makasabot sa paghukom, apan ang mga nangita kang Yahweh makasabot ⟨sa⟩ tanan.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawong"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "makasabot"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "apan ang mga nangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "makasabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:45.949850170Z",
+  "model": "glm-5.3"
+}

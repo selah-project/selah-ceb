@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 12:4",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ikaw, Daniyel: sirhi ang mga pulong ug selyohi ang basahon hangtod sa panahon sa katapusan; daghan ang mosuroy-suroy, ugpadaghanon ang kahibalo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "sirhi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "וחתם",
+      "gloss": "ug selyohi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang basahon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "katapusan"
+    },
+    {
+      "surface": "ישטטו",
+      "gloss": "ang mosuroy-suroy"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "ותרבה",
+      "gloss": "ug ⟨mapadaghanon⟩"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ang kahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:07.294737746Z",
+  "model": "glm-5.3"
+}

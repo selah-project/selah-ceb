@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Buhí ang Yahweh nga imong Elohim, walay nasod ug gingharian nga wala magpadala ang akong adon didto aron pangitaa ikaw; ug niana sila miingon: Wala siya dinhi; ug gipapanumpa niya ⟨את⟩ ang gingharian ug ⟨את⟩ ang nasod nga dili ka makaplagan.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Buhí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ang Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasod"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "ug gingharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "magpadala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang akong adon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "aron pangitaa ikaw"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ug miingon sila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "ug gipapanumpa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gingharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang nasod"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang nasod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "ka makaplagan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:20.930384648Z",
+  "model": "glm-5.3"
+}

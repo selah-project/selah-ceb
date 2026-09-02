@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 38:22",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug si Hizkiyahu nag-ingon: Unsa ang timailhan nga ako mosaka sa balay ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "si Hizkiyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ang timailhan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ako mosaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:04:32.744320102Z",
+  "model": "glm-5.3"
+}

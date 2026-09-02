@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug miabot si Uriya kaniya, ug nangutana si David mahitungod sa kahimsog ni Yoab, ug sa kahimsog sa katawhan, ug sa kahimsog sa gubat.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ug miabot"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ug nangutana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mahitungod sa kahimsog"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ug sa kahimsog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "ug sa kahimsog"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:13.665017968Z",
+  "model": "glm-5.3"
+}

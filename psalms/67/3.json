@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "⟨Aron⟩ mahibalo sa tibuok yuta ang imong dalan, sa tanang mga nasod ang imong kaluwas.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "aron mahibalo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa tibuok yuta"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang imong dalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ang imong kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.805554864Z",
+  "model": "glm-5.3"
+}

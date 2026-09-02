@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ug nakuha ang mga agianan, ug ⟨את⟩ ang mga latian gisunog sa kalayo, ug ang mga tawo sa gubat nangahadlok.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "ug ang mga agianan"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "nakuha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga latian"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "ang mga latian"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "gisunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ug ang mga tawo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nangahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T21:31:50.512323026Z",
+  "model": "glm-5.3"
+}

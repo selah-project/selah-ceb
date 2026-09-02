@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug si Haring Shelomah namahal ⟨sa⟩ daghang mga babaye nga langyaw, ug ⟨את⟩ ang anak nga babaye ni Paro — mga Moabihanon, mga Amonihanon, mga Edomihanon, mga Tsidonihanon, mga Hition.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ug si Haring"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "namahal"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mga babaye"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "nga langyaw"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang anak nga babaye ni Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "mga Moabihanon"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "mga Amonihanon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "mga Edomihanon"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "mga Tsidonihanon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "mga Hition"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:54.090286409Z",
+  "model": "glm-5.3"
+}

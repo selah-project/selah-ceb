@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Miingon sila sa ilang kasingkasing: Pahawaon namo sila tanan magkahiusa; gisunog nila ang tanang tinagbo-anan ni El sa yuta.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "miingon sila"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa ilang kasingkasing"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "pahawaon namo sila"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "gisunog nila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tinagbo-anan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.324475155Z",
+  "model": "glm-5.3"
+}

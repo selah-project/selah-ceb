@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Kinsa kini nga mosaka ingon sa suba, ingon sa mga sapa nga nagbughos sa iyang mga tubig?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ingon sa suba"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ingon sa mga sapa"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "nagbughos"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "sa iyang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T21:28:31.308206651Z",
+  "model": "glm-5.3"
+}

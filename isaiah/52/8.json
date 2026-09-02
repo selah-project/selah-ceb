@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Tingog sa imong mga magbantay! Nagpatunhay sila og tingog, magkahiusa sila magdayeg; kay mata sa atbang sa mata makita nila ⟨kini⟩ sa pagbalik ni Yahweh sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Tingog"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "sa imong mga magbantay"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "Nagpatunhay sila og"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sila magdayeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa atbang sa mata"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita nila"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:40:14.095145482Z",
+  "model": "glm-5.3"
+}

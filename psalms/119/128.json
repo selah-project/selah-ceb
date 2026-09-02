@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Busa gitakda ko nga matarong ang tanan nimong mga pagsugo sa tanang butang — ang tanan nga dalan sa bakak gikadlaw ko.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "mga pagsugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang butang"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "gitakda ko nga matarong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sa bakak"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gikadlaw ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:51.224430565Z",
+  "model": "glm-5.3"
+}

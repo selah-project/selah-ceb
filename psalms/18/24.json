@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nahimo akong tibuuk ⟨nga tawo⟩ uban kaniya, ug nagbantay ako sa akong kaugalingon gikan sa akong sala.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ug nahimo akong"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tibuuk nga tawo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ug nagbantay ako sa akong kaugalingon"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "gikan sa akong sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.027216499Z",
+  "model": "glm-5.3"
+}

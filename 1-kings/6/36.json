@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug iyang gitukod ⟨את⟩ ang sulod nga nataran: tulo ka laray sa igini nga bato, ug usa ka laray sa mga putol nga sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulod nga nataran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nataran"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "laray"
+    },
+    {
+      "surface": "guaזית",
+      "gloss": "agini nga bato"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "ug usa ka laray"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "mga putol"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedro"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:46.851080020Z",
+  "model": "glm-5.3"
+}

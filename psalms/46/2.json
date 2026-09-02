@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Elohim ⟨ang⟩ among panulay ug kusog, usa ka tabang nga makit-an gayod sa mga kagul-anan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "among"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "panulay"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ug kusog"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "usa ka tabang"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "sa mga kagul-anan"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "gayod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.224677244Z",
+  "model": "glm-5.3"
+}

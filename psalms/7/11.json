@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ang akong panangga ⟨naa⟩ sa Elohim, magaluwas sa ⟨mga⟩ tinuod nga kasingkasing.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Ang akong panangga"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨naa⟩ sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "magaluwas"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "sa ⟨mga⟩ tinuod nga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.960579845Z",
+  "model": "glm-5.3"
+}

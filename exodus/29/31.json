@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Kuang ⟨את⟩ ang carnero sa pagdihog imong kuhaon, ug imong lutoon ⟨את⟩ ang iyang unod sa balaang dapit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang carnero sa pagdihog"
+    },
+    {
+      "surface": "איל",
+      "gloss": "carnero"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sa pagdihog (pagpanumpay)"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "imong kuhaon"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ug imong lutoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang unod"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ang iyang unod"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:22.956937841Z",
+  "model": "glm-5.3"
+}

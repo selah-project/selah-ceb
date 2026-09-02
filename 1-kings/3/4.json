@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang hari milakat ngadto sa Gibon sa pagsakop didto, kay kini mao ang bama nga dakoa; usa ka libo ka olot gipasaka ni Shelomoh ibabaw saadtong halaran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ug milakat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "ngadto sa Gibon"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sa pagsakop"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini mao"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ang bama"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "nga dakoa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "usa ka libo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ka olot"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "gipasaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "adtong halaran"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "saadtong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:44.516340610Z",
+  "model": "glm-5.3"
+}

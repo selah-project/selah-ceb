@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Ang mga dili matinud-anon naglain na gikan sa tagoangkan; nagasala sila gikan sa tiyan, nga nagsulti ug bakak.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "naglain na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ang mga dili matinud-anon"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gikan sa tagoangkan"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "nagasala sila"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga nagsulti ug"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:48.982978654Z",
+  "model": "glm-5.3"
+}

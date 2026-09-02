@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Hinumdoman sa Yahweh ang kadaotan sa iyang mga kagikanan; ug ang sala sa iyang inahan ayaw papasa.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "hinumdoman"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kadaotan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sa iyang mga kagikanan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ug ang sala"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa iyang inahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "papasa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:38.745814070Z",
+  "model": "glm-5.3"
+}

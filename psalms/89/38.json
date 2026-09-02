@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ingon sa bulan ⟨kini⟩ mapalig-on hangtod sa kahangturan, ug ingon sa matinud-anong saksi sa kangitngit ⟨sa langit⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "Ingon sa bulan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "⟨kini⟩ mapalig-on"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug ingon sa saksi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "sa kangitngit ⟨sa langit⟩"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:57.772543092Z",
+  "model": "glm-5.3"
+}

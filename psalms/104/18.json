@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "⟨Ang⟩ mga bungtod nga hataas alang sa mga yael; ⟨ang⟩ mga bato maoy kandidungan alang sa mga shefanim.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "mga bungtod"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "nga hataas"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "alang sa mga yael"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "kandidungan"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "alang sa mga shefanim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:28.375579370Z",
+  "model": "glm-5.3"
+}

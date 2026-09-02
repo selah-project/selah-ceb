@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Ug sa imong hesed (kaluoy) pagtaposa ang akong mga kaaway, ug paglagliga sa tanan nga mga naglupig sa akong nefesh, kay ako imong sulugoon.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Ug sa imong hesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "pagtaposa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ug paglagliga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "nga mga naglupig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:23.571053793Z",
+  "model": "glm-5.3"
+}

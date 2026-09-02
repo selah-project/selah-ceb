@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gikan sa imong binhi dili ka maghatag sa pagpaagi ngadto ⟨sa⟩ Molekh, ug dili ikaw mangil-ad sa ⟨את⟩ ngalan sa imong Elohim; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "Ug gikan sa imong binhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka maghatag"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "sa pagpaagi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto sa Molekh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ikaw mangil-ad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sa imong Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:59.970710398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Sa ⟨adtong⟩ adlawa itambog sa tawo ⟨את⟩ ang iyang mga diosdios nga plata ug ⟨את⟩ ang iyang mga diosdios nga bulawan, nga gihimo sa matag usa alang kaniya aron simbahton, ngadto sa mga tulo ug sa mga kabog.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga kana"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "itambog"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga diosdios nga plata"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mga diosdios"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "nga plata niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga diosdios nga bulawan"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "mga diosdios"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "nga bulawan niya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "aron simbahton"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ngadto sa mga tulo"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "sa mga lungag"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "ug sa mga kabog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:54.971871493Z",
+  "model": "glm-5.3"
+}

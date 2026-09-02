@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug nahitabo sa pag-abot nila nga iyang gitan-aw ⟨את⟩ si Eliav, ug miingnon siya: Sa pagkatinuod, atubangan ni Yahweh ang iyang Mesiyas.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "sa pag-abot nila"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "iyang gitan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eliav"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "si Eliav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingnon siya"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Sa pagkatinuod"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ang iyang Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:27.538068944Z",
+  "model": "glm-5.3"
+}

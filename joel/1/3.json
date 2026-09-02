@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Mahitungod ⟨niini⟩ sa inyong mga anak isulti ninyo; ug ang inyong mga anak sa ilang mga anak, ug ang ilang mga anak sa usa ka laing henerasyon.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "mahitungod niini"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "sa inyong mga anak"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "isulti ninyo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ug ang inyong mga anak"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ilang mga anak"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ug ang ilang mga anak"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "laing"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:32.247642171Z",
+  "model": "glm-5.3"
+}

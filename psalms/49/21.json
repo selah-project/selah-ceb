@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ang tawo anaa sa dungog ⟨apan⟩ wala magkasabot — nahisama siya sa mga mananap ⟨nga⟩ naglaho.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "anaa sa dungog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "magkasabot"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "nahisama siya"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "sa mga mananap"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "naglaho"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:34.282349424Z",
+  "model": "glm-5.3"
+}

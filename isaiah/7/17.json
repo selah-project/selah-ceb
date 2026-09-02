@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 7:17",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Magadala si Yahweh kanimo ⟨⟨sulog⟩⟩, ug sa imong katawhan, ug sa balay sa imong amahan, mga adlaw nga wala pa moabot ⟨mga adlaw⟩ sukad sa adlaw nga mituwag ang Efrayim gikan sa Yehudah ⟨ang hari⟩ sa Ashur.",
+  "tokens": [
+    {
+      "surface": "יביא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imong katawhan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "sukad sa adlaw"
+    },
+    {
+      "surface": "סור",
+      "gloss": "mituwag"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ang Efrayim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:34.009825404Z",
+  "model": "glm-5.3"
+}

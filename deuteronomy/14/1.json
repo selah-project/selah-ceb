@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Mga anak kamo ⟨kamo⟩ alang kang Yahweh, sa inyong Elohim; ayaw kamo magpanghikap ⟨ug⟩ ug ayaw kamo magbutang ug kalbo nga dapit taliwala sa inyong mga mata alang sa minatay.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "magpanghikap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "magbutang"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kalbo nga dapit"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "sa inyong mga mata"
+    },
+    {
+      "surface": "למת",
+      "gloss": "alang sa minatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:24.156381974Z",
+  "model": "glm-5.3"
+}

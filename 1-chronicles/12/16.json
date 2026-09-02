@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kini sila ang mikatabok ⟨את⟩ sa Yarden sa unang bulan, ug kini — puno ⟨sa tubig⟩ sa tanang mga pangpang niini; ug gipalagiw nila ⟨את⟩ ang tanan ⟨mga pumoluyo⟩ sa mga walog ngadto sa sidlakan ug ngadto sa kasadpan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mikatabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "mga pangpang niini"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "gipalagiw nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga walog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "mga walog"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "ngadto sa sidlakan"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "ug ngadto sa kasadpan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:53.273529960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kini ang mga kaliwatan ni Shem: Si Shem usa ka anak sa usa ka gatus ka tuig, ug natawo siya ⟨את⟩ Arpakshad duha ka tuig human sa baha.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ang mga kaliwatan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Si Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "usa ka anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "usa ka gatus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "duha ka tuig"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "baha"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:20.032460486Z",
+  "model": "glm-5.3"
+}

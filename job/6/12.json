@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kon bato ba ang akong kusog? Kon puti ba ang akong unod?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "akong kusog"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "akong unod"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "puti ba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:43.573660468Z",
+  "model": "glm-5.3"
+}

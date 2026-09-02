@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Ang tanan nila kanimo naghulat ⟨nga⟩ mohatag ikaw sa ilang pagkaon sa iyang panahon.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "naghulat"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "⟨nga⟩ mohatag ikaw"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "sa ilang pagkaon"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa iyang panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:20.118626697Z",
+  "model": "glm-5.3"
+}

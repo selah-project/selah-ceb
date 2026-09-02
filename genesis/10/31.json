@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kini ang mga anak ni Shem, sumala sa ilang mga banay, sumala sa ilang mga pinulongan, sa ilang mga yuta, sumala sa ilang mga nasod.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ni Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "sumala sa ilang mga pinulongan"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa ilang mga yuta"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "sumala sa ilang mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:00.222946296Z",
+  "model": "glm-5.3"
+}

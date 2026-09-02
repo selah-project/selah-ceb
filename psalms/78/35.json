@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug nahinumdom sila nga si Elohim ⟨ang ilang⟩ bato, ug si El Elyon ang ilang manunubos.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "ug nahinumdom sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "bato nila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "manunubos nila"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:12.090416641Z",
+  "model": "glm-5.3"
+}

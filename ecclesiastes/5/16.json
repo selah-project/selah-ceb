@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang tanan niyang mga adlaw mokaon siya sa kangitngit, ug daghan nga kasuko ug iyang sakit ug kadudha.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "niyang mga adlaw"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon siya"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ug kasuko"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ug iyang sakit"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ug kadudha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:39.544199443Z",
+  "model": "glm-5.3"
+}

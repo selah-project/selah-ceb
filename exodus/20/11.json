@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Kay sa unom ka adlaw gibuhat ni Yahweh ⟨את⟩ ang mga langit ug ⟨את⟩ ang yuta, ⟨את⟩ ang dagat ug ⟨את⟩ ang tanan nga anaa kanila, ug nagpahulay siya sa ikapito nga adlaw; tungod niini gipanalanginan ni Yahweh ⟨את⟩ ang adlaw sa shabbat ug gibalaan niya kini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "unom ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga langit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga anaa kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בם",
+      "gloss": "anaa kanila"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "ug nagpahulay siya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa … adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang adlaw sa shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa shabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "ug gibalaan niya kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:21.856900874Z",
+  "model": "glm-5.3"
+}

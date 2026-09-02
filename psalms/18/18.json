@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gluwas niya ako gikan sa akong malig-on nga mga kaaway, ug gikan sa mga nagadumot kanako, kay sila nanglakop kaniako.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "gluwas niya ako"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "gikan sa akong mga kaaway"
+    },
+    {
+      "surface": "עז",
+      "gloss": "malig-on nga"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "ug gikan sa mga nagadumot kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "nanglakop sila"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:12.976103411Z",
+  "model": "glm-5.3"
+}

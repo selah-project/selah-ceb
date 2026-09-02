@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang Kinaadman mosinggit sa gawas, sa mga karsada naghatag siya sa iyang tingog",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Ang Kinaadman"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa gawas"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "mosinggit"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "sa mga karsada"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "sa iyang tingog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:28.788104369Z",
+  "model": "glm-5.3"
+}

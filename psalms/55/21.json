@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Gipadala niya ang iyang mga kamot batok sa mga nakigdait kaniya; gipakamalaot niya ang iyang pakigsaad.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Gipadala"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ang iyang mga kamot"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "batok sa mga nakigdait kaniya"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "gipakamalaot"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ang iyang pakigsaad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:40.078093902Z",
+  "model": "glm-5.3"
+}

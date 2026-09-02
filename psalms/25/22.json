@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Lumagtang si Elohim ⟨את⟩ sa Yisrael gikan sa tanan niyang mga kagul-anan.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Lumagtang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "niyang mga kagul-anan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:56.784774428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Nagbukas ang yuta ug milamoy kang Datan, ug mitabon sa panag-uban ni Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "nagbukas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "ug milamoy"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "kang Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ug mitabon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "panag-uban"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "ni Aviram"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:29.515322353Z",
+  "model": "glm-5.3"
+}

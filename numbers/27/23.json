@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug gipahimutang niya ⟨את⟩ ang iyang mga kamot sa ibabaw kaniya ug gisugoan niya siya, sumada sa gisulti ni Yahweh pinaagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "ug gipahimutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga kamot"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ang iyang mga kamot"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw kaniya"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ug gisugoan niya siya"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumada sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:57.201012417Z",
+  "model": "glm-5.3"
+}

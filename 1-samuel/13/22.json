@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug nahitabo sa adlaw sa gubat, nga wala makaplagan nga espada ni bangkaw sa kamot sa bisan kinsa sa katawhan nga kauban ⟨ang⟩ Shaul ug ⟨את⟩ kang Yonatan; apan nakaplagan kang Shaul ug kang Yonatan nga iyang anak.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "nga espada"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ni bangkaw"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa bisan kinsa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga kauban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "kang Yonatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "apan nakaplagan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "ug kang Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:30.234848873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Kay mao kini ang giingon ni Adonay Yahweh: ngadto sa Mitsrayim ang akong katawhan nanaog sa sinugdan aron didto mopupoy, ug ang Ashur ⟨kini⟩ nga walay hinungdan gipugos nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ngadto sa Mitsrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nanaog"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "sa sinugdan"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "aron mopupoy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ug ang Ashur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "nga walay hinungdan"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "gipugos nila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:44.724967748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Ang akong mga adlaw ⟨ingon⟩ sa anino nga natayon, ug ako ingon sa sagbot nga nanganaw.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "akong mga adlaw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ingon sa anino"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natayon"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ingon sa sagbot"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "nanganaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:58.928792302Z",
+  "model": "glm-5.3"
+}

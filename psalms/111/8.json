@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Gisuportahan ⟨sila⟩ hangtod sa kahangturan, hangtod sa dayon nga kalinaw; gihimo ⟨sila⟩ sa kamatuoran ug sa kaiktar.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "gisuportahan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa dayon nga kalinaw"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ug sa kaiktar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:57.412096856Z",
+  "model": "glm-5.3"
+}

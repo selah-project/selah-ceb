@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ang mosulod sa balay sa tanan nga adlaw sa pagsira niini ⟨את⟩, mahinaw ang iyang kaugalingon ⟨hangtod⟩ sa paglubog sa adlaw.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "ug ang mosulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "sa pagsira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niini",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mahinaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sa paglubog sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:35.524112972Z",
+  "model": "glm-5.3"
+}

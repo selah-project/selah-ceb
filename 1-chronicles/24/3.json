@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gibahin sila ni David uban ni Tsadok gikan sa mga anak ni Elazar, ug si Akhimelekh gikan sa mga anak ni Itamar, sumala sa ilang katungdanan sa ilang pag-alagad.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "ug gibahin sila"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "uban ni Tsadok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "ug si Akhimelekh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "sumala sa ilang katungdanan"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "sa ilang pag-alagad"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:39.913514069Z",
+  "model": "glm-5.3"
+}

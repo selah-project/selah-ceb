@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ug nanawag sila kang Yahweh sa ilang kagul-an; gikan sa ilang mga kalisud giluwas niya sila.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ug nanawag sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kagul-an"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "gikan sa ilang mga kalisud"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "giluwas niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:43.927284736Z",
+  "model": "glm-5.3"
+}

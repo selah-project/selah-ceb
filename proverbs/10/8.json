@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang maalamon sa kasingkasing modawat ⟨sa mga⟩ sugo, apan ang buang nga daghan bibig mahulog.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "modawat"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "apan ang buang"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "daghan bibig"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "mahulog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:46.404039571Z",
+  "model": "glm-5.3"
+}

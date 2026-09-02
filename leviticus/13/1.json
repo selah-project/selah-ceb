@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug nagsulti si Yahweh kang Moshe ug kang Aharon, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:04.429133104Z",
+  "model": "glm-5.3"
+}

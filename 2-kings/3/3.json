@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Apan gibitik niya ang mga sala ni Yarovam nga anak ni Nevat — kaniya nga nakapahimakak ⟨את⟩ sa Yisrael — wala siya mobalik gikan niini.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ang mga sala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaniya nga"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nakapahimakak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "gibitik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "gikan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:32.977583094Z",
+  "model": "glm-5.3"
+}

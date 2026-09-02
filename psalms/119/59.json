@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nahunahuna ko ang akong mga dalan, ug gipabalik ko ang akong mga tiil ngadto sa imong mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "nahunahuna ko"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akong mga dalan"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "ug gipabalik ko"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong mga tiil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imong mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:25.429443443Z",
+  "model": "glm-5.3"
+}

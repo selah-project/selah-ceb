@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gisundan pag-hisgot sa mga Peleshti si Shaul ug ang iyang mga anak, ug gisamat sa mga Peleshti ⟨את⟩ si Yonatan ug ⟨את⟩ si Avinadav ug ⟨את⟩ si Malki-Shua, mga anak ni Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "gisundan pag-hisgot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Peleshti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkahuman sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ug pagkahuman sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ug gisamat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Peleshti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "si Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "si Avinadad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "si Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:09.415045118Z",
+  "model": "glm-5.3"
+}

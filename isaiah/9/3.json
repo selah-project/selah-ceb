@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kay ⟨את⟩ ang panganod sa iyang kabug-at ug ⟨את⟩ ang sungkod sa iyang abaga, ang basilisko sa nagpugos kaniya — gipangguba mo kini ingon sa adlaw sa Midyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panganod"
+    },
+    {
+      "surface": "על",
+      "gloss": "ang panganod"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "sa iyang kabug-at"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang sungkod"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ang sungkod"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sa iyang abaga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang basilisko"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "sa nagpugos"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "gipangguba mo kini"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa adlaw"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sa Midyan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:54.682436920Z",
+  "model": "glm-5.3"
+}

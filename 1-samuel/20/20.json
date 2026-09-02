@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ako magatudlo og tulo ka dayaday ngadto sa kilid, ingon nga nagapadala alang kanako ngadto sa target.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "dayaday"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ngadto sa kilid"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "magatudlo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "sa pagpadala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "sa target"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:46.276953174Z",
+  "model": "glm-5.3"
+}

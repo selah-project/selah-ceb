@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Dako kaayo ang mga buhat ni Yahweh; gipangita sa tanan nga nagkadako og gusto ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Dako kaayo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "gipangita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "nagkadako og gusto kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:30.225017574Z",
+  "model": "glm-5.3"
+}

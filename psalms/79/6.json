@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Ibuhos ang imong kaligutgut ngadto sa ⟨mga⟩ nasod nga wala makaila kanimo, ug ngadto sa ⟨mga⟩ gingharian nga sa imong ngalan wala maggahum.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Ibuhos"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ang imong kaligutgut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨mga⟩ nasod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "makaila kanimo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "⟨mga⟩ gingharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "maggahum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:10.947447843Z",
+  "model": "glm-5.3"
+}

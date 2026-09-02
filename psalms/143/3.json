@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Kay ang kaaway nangitaod sa akong nefesh, gilumpag sa yuta ang akong kinabuhi; gipapuyo ako niya sa kangitngitan, sama sa mga patay sa karaang panahon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "nangitaod"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "gilumpag"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ang akong kinabuhi"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "gipapuyo ako niya"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "sa kangitngitan"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "sama sa mga patay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa karaang panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:26.259596142Z",
+  "model": "glm-5.3"
+}

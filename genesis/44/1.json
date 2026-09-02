@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug gisugo niya ⟨את⟩ ⟨ang⟩ nagatindog sa ibabaw sa iyang balay, nga nag-ingon: Pun-a ⟨את⟩ ang mga sako sa mga tawo ug pagkaon, hangtod sa makabantog sila, ug butangi ug pilak ang matag tawo sa baba sa iyang sako.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gisugo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ nagatindog sa ibabaw sa iyang balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ang⟩ nagatindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Pun-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sako sa mga tawo ug pagkaon"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "mga sako"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ug pagkaon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "makabantog sila"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "makabantog"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ug butangi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ug pilak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa baba sa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "iyang sako"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:58.000657270Z",
+  "model": "glm-5.3"
+}

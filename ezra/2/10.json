@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Mga anak ni Bani, unom ka gatos kawal-an ug duha.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kawal-an"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ug duha"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:16.416201806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ilang kan-on ang ⟨את⟩ unod sa ⟨kini nga⟩ gabii — inihaw sa kalayo — ug tinapay nga walay lebadura; kauban sa mapait nga mga tanom ilang kan-on kini.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ug ilang kan-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unod"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini nga"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "inihaw"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "ug tinapay nga walay lebadura"
+    },
+    {
+      "surface": "על",
+      "gloss": "kauban sa"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "mapait nga mga tanom"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ilang kan-on kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:25.605972311Z",
+  "model": "glm-5.3"
+}

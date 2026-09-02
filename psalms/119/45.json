@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ug magalakaw ako sa lapad ⟨nga dapit⟩, kay ang imong mga mandato gipangita ko.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Ug magalakaw ako"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "sa lapad ⟨nga dapit⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ang imong mga mandato"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "gipangita ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:43.455454049Z",
+  "model": "glm-5.3"
+}

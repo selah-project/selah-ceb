@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gikuha niya ug gibutang ⟨את⟩ ang pagsaksi ngadto sa arca, ug gipahimutang niya ⟨את⟩ ang mga pingpong sa arca, ug gibutang niya ⟨את⟩ ang takip sa aton ibabaw sa arca gikan sa taas.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagsaksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang pagsaksi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arca"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug gipahimutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pingpong"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga pingpong"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arca"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang takip sa aton"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang takip sa aton"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arca"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "gikan sa taas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:30.767579502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ayaw ninyo buhaton sa ingon alang kang Yahweh sa inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ninyo buhaton"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa ingon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:00.428977759Z",
+  "model": "glm-5.3"
+}

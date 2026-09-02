@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gipatindog ko ang akong mga mata ug nakita ko, ug ania karon — usa ka tawo nga nakasinina ⟨את⟩ sa bisti nga lino, ug ang iyang hawak giputos ug bulawan nga gikan sa Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ug gipatindog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ug nakita ko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "nakasinina"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "bisti nga lino"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ug ang iyang hawak"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "giputos"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ug bulawan"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "gikan sa Uphaz"
+    }
+  ],
+  "timestamp": "2026-09-01T22:59:18.901641519Z",
+  "model": "glm-5.3"
+}

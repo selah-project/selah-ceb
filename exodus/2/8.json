@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon kaniya ang anak nga babae ni Paro: Lakaw. Ug milakaw ang dalaga ug gitawag niya ⟨את⟩ ang inahan sa bata.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inahan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inahan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "sa bata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:23.422768688Z",
+  "model": "glm-5.3"
+}

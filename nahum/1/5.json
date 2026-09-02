@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 1:5",
+  "book": "nahum",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang mga bukid nagkurog tungod kaniya, ug ang mga bungtod natunaw, ug ang yuta mitaas sa iyang atbang, ug ⟨ang⟩ kalibotan ug ang tanan nga nagpuyo niini.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "nagkurog"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tungod kaniya"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ug ang mga bungtod"
+    },
+    {
+      "surface": "התמגגו",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ug mitaas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa iyang atbang"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ug ⟨ang⟩ kalibotan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan nga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:14.063167629Z",
+  "model": "glm-5.3"
+}

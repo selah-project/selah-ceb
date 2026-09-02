@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug nagbuhat siya ug kusog, ug gihampak niya ⟨את⟩ si Amalek, ug giluwas niya ⟨את⟩ ang Israel gikan sa kamot sa mga naghakot niini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug nagbuhat"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ug kusog"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ug giluwas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "sa mga naghakot niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:05.349440028Z",
+  "model": "glm-5.3"
+}

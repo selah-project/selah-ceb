@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug miingon si Yahweh kang Moshe: \"Isulat kini ingon nga pahinumdom sa ⟨⟨sa⟩⟩ libro, ug isulti sa mga dalunggan ni Yehoshua, kay papason ko gayod ⟨את⟩ ang pahinumdom ni Amalek gikan sa ubos sa mga langit.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Isulat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pahinumdom"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa libro"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ug isulti"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga dalunggan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "papason"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "papason ko gayod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pahinumdom (sa Amalek)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pahinumdom"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "gikan sa ubos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:34.737839560Z",
+  "model": "glm-5.3"
+}

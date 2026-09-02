@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Kay ania kadtong mga kaaway mo, Yahweh; kay ania, ang imong mga kaaway mangawala gayod; mangalahisalaag ang tanan nga mga mamumugos sa kadaot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania kadtong"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mga kaaway mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "mga kaaway mo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mangawala gayod"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "mangalahisalaag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga mamumugos"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:01.139316501Z",
+  "model": "glm-5.3"
+}

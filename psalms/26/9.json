@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ayaw pagtigum ⟨⟨ug⟩⟩ akong kalag kauban ang mga makasasala, ni ang akong kinabuhi kauban ang mga tawo sa mga dugo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "pagtigum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ang mga makasasala"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni kauban"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "akong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:06.811421993Z",
+  "model": "glm-5.3"
+}

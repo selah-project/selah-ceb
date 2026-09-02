@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang upat ka ligid anaa sa ilawom sa mga panel, ug ang mga armahan sa mga ligid ⟨anaa⟩ sa base; ug ang gitas-on sa usa ka ligid usa ka kubit ug katunga sa kubit.",
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "Ug ang upat ka"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "ligid"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "sa ilawom"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "sa mga panel"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "ug ang mga armahan"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "sa mga ligid"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "sa base"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "ug ang gitas-on"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "sa ligid"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "usa ka kubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug katunga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sa kubit"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:14.340715938Z",
+  "model": "glm-5.3"
+}

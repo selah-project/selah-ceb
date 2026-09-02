@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Elohim, ikaw ang akong El, sa kaadlawon pangitaon ko ikaw; gika-uhawan ako sa imong kabubut-on, ang akong kalag nasubo kanimo, ang akong unod nangandoy kanimo, sa yutang uga ug kapoy, nga walay tubig.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ang akong El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "sa kaadlawon pangitaon ko ikaw"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "gika-uhawan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "nasubo\/nangandoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "uga"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "ug kapoy"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:49.500554054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug natawo kaniya ni igsoon ni Takhpenes si ⟨את⟩ Genubat, iyang anak; ug ginitas siya ni Takhpenes sulod sa balay ni Paro; ug si Genubat ⟨was⟩ sa balay ni Paro taliwala sa mga anak ni Paro.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ni igsoon"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ni Takhpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Genubat"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "ug ginitas siya"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "ni Takhpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "si Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:33.470464301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Gikuha niya ⟨את⟩ ang mga altarn sa mga taga-langyaw ug ang mga bamos, gipangguba niya ⟨את⟩ ang mga haligi-istatwa, ug gitgad niya ⟨את⟩ ang mga Ashera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga altarn sa mga taga-langyaw"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mga altarn"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "sa mga taga-langyaw"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ug ang mga bamos"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "gipangguba niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga haligi-istatwa"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "mga haligi-istatwa"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "gitgad niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "mga Ashera"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:23.895359102Z",
+  "model": "glm-5.3"
+}

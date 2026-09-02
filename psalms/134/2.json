@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 134,
+  "translation": "Ibayaw ninyo ang inyong mga kamot pasa ⟨ang balaang dapit⟩, ug pagpanalangin kamo ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Ibayaw ninyo"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ang inyong mga kamot"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "⟨ang balaang dapit⟩"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "ug pagpanalangin kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:36.891241307Z",
+  "model": "glm-5.3"
+}

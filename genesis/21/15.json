@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nahurot ang tubig gikan sa panaksan, ug iyang gihulog ⟨את⟩ ang bata sa ubos sa usa ka sagbot.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Ug nahurot"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "panaksan"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "ug iyang gihulog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos sa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "sagbot"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:23.243490579Z",
+  "model": "glm-5.3"
+}

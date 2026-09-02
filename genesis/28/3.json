@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug pagpalangga ka ni El Shadday ⟨את⟩, ug pagpalahi ka, ug pagpadaghan ka, ug mahimo ⟨ikaw⟩ nga katilingban sa mga katawhan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "pagpalangga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka",
+      "marks": "ikaw (si Yaakov)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "ug pagpalahi ka"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ug pagpadaghan ka"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ug mahimo"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "nga katilingban"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:12.542347910Z",
+  "model": "glm-5.3"
+}

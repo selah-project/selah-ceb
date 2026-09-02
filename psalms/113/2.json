@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 113,
+  "translation": "Himoon nga dayegon ⟨ang⟩ ngalan ni Yahweh, karon ug hangtod sa kahangtoran.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "himoon nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "dayegon"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.544828651Z",
+  "model": "glm-5.3"
+}

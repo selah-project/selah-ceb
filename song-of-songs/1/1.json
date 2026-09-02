@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang awit sa mga awit, nga kang Shelomoh ⟨ini⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "sa mga awit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kang Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:19.080436327Z",
+  "model": "glm-5.3"
+}

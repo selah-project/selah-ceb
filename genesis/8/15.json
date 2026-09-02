@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nagsulti si Elohim kang Noach, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ug nagsulti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:31.983016946Z",
+  "model": "glm-5.3"
+}

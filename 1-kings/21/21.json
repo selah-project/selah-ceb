@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ania karon, magadala ako ug kadaot kanimo, ug paglabayon ko ikaw ⟨sa⟩ pagtapok, ug paputlon ko kang Ahab ang mag-ihi sa bongbong, ug ang gibilanggo ug ang gibilin sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "magadala ako ug"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "ug paglabayon ko"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ug paputlon ko"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kang Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ang mag-ihi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa bongbong"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ug ang gibilanggo"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ug ang gibilin"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:43.125167859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "UG natao kaniya ang pito ka mga anak nga lalaki ug tulo ka mga anak nga babaye.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ug natao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ang pito"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ka mga anak nga lalaki"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ka mga anak nga babaye"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:11.867644658Z",
+  "model": "glm-5.3"
+}

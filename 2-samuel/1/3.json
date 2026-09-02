@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si David nangutana kaniya: Asa ka gikan? Ug siya mitubag kaniya: Gikan sa kampo sa Israel ako milayas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug nangutana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug mitubag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "Gikan sa kampo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "ako milayas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:27.348141052Z",
+  "model": "glm-5.3"
+}

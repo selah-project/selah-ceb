@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug gipuno ko ⟨את⟩ siya sa espiritu sa Elohim, sa kaalam, ug sa pagsabot, ug sa kahibalo, ug sa tanan nga trabaho.",
+  "tokens": [
+    {
+      "surface": "וואמלא",
+      "gloss": "Ug gipuno ko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya — si Betsalel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ug sa pagsabot"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ug sa kahibalo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "nga trabaho"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:24.379551080Z",
+  "model": "glm-5.3"
+}

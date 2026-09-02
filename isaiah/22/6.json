@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug si Eylam nagdala sa kahan sa mga pana, uban sa karwasa sa mga tawo ug mga kabalyero; ug si Kir nagpadayag sa panangga.",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "Ug si Eylam"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "kahan sa mga pana"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "sa karwasa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "mga kabalyero"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "ug si Kir"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "nagpadayag"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "panangga"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:45.937310690Z",
+  "model": "glm-5.3"
+}

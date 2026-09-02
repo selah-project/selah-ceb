@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Gihatag nila ⟨את⟩ ang minatay sa imong mga sulugoon nga pagkaon sa mga langgam sa kahangturan, ang unod sa imong mga matarong ⟨sa⟩ mga mananap sa yuta.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang minatay sa imong mga sulugoon"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ang minatay"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sa imong mga sulugoon"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "sa mga langgam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sa imong mga matarong"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "⟨sa⟩ mga mananap"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:41.821138097Z",
+  "model": "glm-5.3"
+}

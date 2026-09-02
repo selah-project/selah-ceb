@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug mahitungod usab kang Izebel nagsulti si Yahweh nga nagaingon: Ang mga iro mokaon ⟨את⟩ kang Izebel sa paril sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "mahitungod kang Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ang mga iro"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "kang Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "sa paril"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "sa Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:43.125600631Z",
+  "model": "glm-5.3"
+}

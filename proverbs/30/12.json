@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "May henerasyon nga matinlaw ⟨sa⟩ ilang mga kaugalingong mga mata, apan gikan sa ilang ka hugaw dili mapauli.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "matinlaw"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa ilang mga mata"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "gikan sa ilang hugaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "mapauli"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:31.009997335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "ug kang ⟨את⟩ mga Pathrusinhon, ug kang ⟨את⟩ mga Kaslukinhon, nga gikan kanila migula ang mga Pelishtinhon, ug kang ⟨את⟩ mga Kaphtorinhon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug kang ⟨את⟩",
+      "marks": "mga Pathrusinhon"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "mga Pathrusinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug kang ⟨את⟩",
+      "marks": "mga Kaslukinhon"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "mga Kaslukinhon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "migula"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto \/ gikan kanila"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishtinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug kang ⟨את⟩",
+      "marks": "mga Kaphtorinhon"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "mga Kaphtorinhon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:15.236060207Z",
+  "model": "glm-5.3"
+}

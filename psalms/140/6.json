@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Nagtagò ang mga garboson ug panik alang kanako ug mga pisi; nagpatigbabaw sila ug pukot tupad sa dalan; mga silo ilang gipahimutang alang kanako. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "Nagtagò"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ang mga garboson"
+    },
+    {
+      "surface": "פח",
+      "gloss": "panik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "ug mga pisi"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "nagpatigbabaw sila"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "pukot"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "tupad"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "mga silo"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "gipahimutang ilang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.990931719Z",
+  "model": "glm-5.3"
+}

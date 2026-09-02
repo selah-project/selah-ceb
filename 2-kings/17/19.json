@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Bisan si Yehudah wala magbantay ⟨את⟩ sa mga sugo ni Yahweh nga ilang Elohim, kondili nagsunod sila sa mga batas sa Israel nga ilang gibuhat.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga sugo ni Yahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sa mga sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga ilang Elohim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "kondili nagsunod sila"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sa mga batas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ilang gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:13.155169532Z",
+  "model": "glm-5.3"
+}

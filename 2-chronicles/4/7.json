@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug nagbuhat siya ⟨את⟩ mga sugu-sugangan nga bulawan nga napulo sumala sa ilang tulubagon, ug nagbutang ⟨siya⟩ sa templo: lima sa too ug lima sa wala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug nagbuhat siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sugu-sugangan nga bulawan"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "mga sugu-sugangan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "sumala sa ilang tulubagon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug nagbutang"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa templo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "sa too"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ug lima"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "sa wala"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:12.923615431Z",
+  "model": "glm-5.3"
+}

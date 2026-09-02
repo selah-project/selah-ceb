@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay ang hari nagatuo kang Yahweh, ug pinaagi sa hesed sa Elyon, dili gayod siya mabaliska.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagatuo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ug pinaagi sa hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "sa Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "mabaliska"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:23.886848943Z",
+  "model": "glm-5.3"
+}

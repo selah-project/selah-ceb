@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ikaw, iyaon ang imong sungkod ug iunat ⟨ang⟩ imong kamot ngadto sa dagat ug biya-i kini, ug mosulod ang mga anak ni Yisra'el sa taliwala sa dagat sa mamala nga yuta.",
+  "tokens": [
+    {
+      "surface": "ו אתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "iyaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong sungkod"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ang imong sungkod"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "ug iunat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "ug biya-i kini"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ug mosulod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisra'el"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa mamala nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:25.993197584Z",
+  "model": "glm-5.3"
+}

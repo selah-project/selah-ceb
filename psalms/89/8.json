@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "El nga makahahadlok sa tinago nga katigulangan sa mga balaan, dakog kahadlukan, ug makapasngil sa tanan nga nagapalibot kaniya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "nga makahahadlok"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sa tinago nga katigulangan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa mga balaan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dakog kahadlukan"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ug makapasngil"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "nga nagapalibot kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.532373151Z",
+  "model": "glm-5.3"
+}

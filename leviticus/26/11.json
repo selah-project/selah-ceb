@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug butangan ko ang akong puloy-anan diha sa taliwala ninyo, ug ang akong kalag dili magadumili ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug butangan ko"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ang akong puloy-anan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "diha sa taliwala ninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "magadumili"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:48.699297596Z",
+  "model": "glm-5.3"
+}

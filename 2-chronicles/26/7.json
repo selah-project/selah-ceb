@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug gitabangan siya sa Elohim batok sa mga Peleshti, ug batok sa mga Arabo nga nagpuyo sa Gur-Baal, ug sa mga Meuni.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "gitabangan siya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Peleshti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug batok"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "sa mga Arabo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "nga nagpuyo"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "sa Gur"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-Baal"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "ug sa mga Meuni"
+    }
+  ],
+  "timestamp": "2026-09-01T23:27:01.614315312Z",
+  "model": "glm-5.3"
+}

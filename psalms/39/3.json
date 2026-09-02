@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Nahimo akong amang ug hilum; naghilum ako bisan sa ⟨pagsulti sa⟩ maayo, ug ang akong kasakit napukaw.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Nahimo akong amang"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ug hilum"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "naghilum ako"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "bisan sa maayo"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ug ang akong kasakit"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "napukaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:01.758011540Z",
+  "model": "glm-5.3"
+}

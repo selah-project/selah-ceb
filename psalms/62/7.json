@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Siya lamang ang akong bato ug ang akong kaluwasan, ang akong katasanan; dili ako mahilog.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ang akong bato"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ug ang akong kaluwasan"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ang akong katasanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ako mahilog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:32.827087015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Natawo kaniya niya mga anak: ⟨את⟩ si Yeush, ⟨את⟩ si Shemaryah, ug ⟨את⟩ si Zaham.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Natawo kaniya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yeush"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "si Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemaryah"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "si Shemaryah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Zaham"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "si Zaham"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:17.283705777Z",
+  "model": "glm-5.3"
+}

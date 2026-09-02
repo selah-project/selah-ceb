@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ako mitubag ug miingon sa anghel nga nagsulti kanako, nga nagaingon: Unsa kini, akong Adonay?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "Ug ako mitubag"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagsulti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akong Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:36.323824777Z",
+  "model": "glm-5.3"
+}

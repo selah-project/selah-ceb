@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Si David nagpadayon sa paglakaw ug pagdako, ug si Yahweh Tsevaot ⟨kauban niya⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagpadayon sa paglakaw"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "sa paglakaw"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ug pagdako"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨kauban niya⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:43.077829293Z",
+  "model": "glm-5.3"
+}

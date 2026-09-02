@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Magalipay ako ug magakalipay sa imong hesed, kay nakita nimo ⟨את⟩ ang akong kagul-anan; nahibal-an nimo ang mga kalisud sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "magalipay ako"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ug magakalipay"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "sa imong hesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakita nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kagul-anan"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang akong kagul-anan"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nahibal-an nimo"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ang mga kalisud"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:54.546644704Z",
+  "model": "glm-5.3"
+}

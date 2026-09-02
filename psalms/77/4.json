@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Nahinumdom ako kang Elohim ug nagbungol ako; naghandum-handum ako ug nagkuyap ang akong gininhawa. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Nahinumdom ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ug nagbungol ako"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "naghandum-handum ako"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ug nagkuyap"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akong gininhawa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:59.002987124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Miabot ang pulong ni Yahweh kang Yehu, anak ni Khanani, batok kang Baasha, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Miabot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ni Khanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok kang"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:58.301357965Z",
+  "model": "glm-5.3"
+}

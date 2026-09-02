@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Nagaduko ang akong kalag kaniimo; kanako nagsukol ang imong too ⟨nga⟩ kamot.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "nagaduko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "kaniimo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "nagsukol"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong too nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:15.791914890Z",
+  "model": "glm-5.3"
+}

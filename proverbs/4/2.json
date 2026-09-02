@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kay maayong panudlon akong gihatag kaninyo; ang akong tora ayaw ninyo biyaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "panudlon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "akong gihatag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ang akong tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ninyo biyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:35.820244500Z",
+  "model": "glm-5.3"
+}

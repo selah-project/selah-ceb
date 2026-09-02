@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gipagawas niya ⟨את⟩ ang uwak, ug kini naggawas ug nagbalik, hangtod nga namala ang mga tubig gikan sa ibabaw sa yuta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ug gipagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang uwak"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ang uwak"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ug naggawas"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "paggawas"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ug pagbalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "namala"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:47.128392129Z",
+  "model": "glm-5.3"
+}

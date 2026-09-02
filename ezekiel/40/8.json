@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gisukod niya ⟨את⟩ ang porches sa ganghaan gikan sa ⟨ang⟩ balay — usa ka kaway.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ug gisukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang porches sa ganghaan"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "porches"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "usa ka kaway"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T21:46:46.492974237Z",
+  "model": "glm-5.3"
+}

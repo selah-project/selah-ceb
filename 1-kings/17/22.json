@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug nadungog ni Yahweh ang tingog ni Eliyahu, ug ang kalag sa bata mipabalik ngadto sa iyang lawas, ug siya nabuhi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "ug mipabalik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "sa bata"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "iyang lawas"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ug siya nabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:35.282538454Z",
+  "model": "glm-5.3"
+}

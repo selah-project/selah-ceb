@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Kon mosaka ako sa kalangitan, didto ikaw ⟨ug⟩ kon maghiga ako ⟨sa⟩ Sheol, ania ikaw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "mosaka ako"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "kon maghiga ako"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ania ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:04.629803726Z",
+  "model": "glm-5.3"
+}

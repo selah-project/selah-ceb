@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug sa paglakaw sa Tolda, iulan kini ⟨את⟩ sa mga Levita, ug sa pagkampo sa Tolda, itindog kini ⟨את⟩ sa mga Levita; ug ang layo nga tawo nga moduol, patyon.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "Ug sa paglakaw"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa Tolda"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "iulan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "sa mga Levita gihatag ang Tolda"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "ug sa pagkampo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa Tolda"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "itindog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "sa mga Levita gihatag ang Tolda"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ug ang layo nga tawo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nga moduol"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "patyon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:01.015009217Z",
+  "model": "glm-5.3"
+}

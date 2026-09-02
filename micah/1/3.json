@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay tan-awa, si Yahweh mogula gikan sa iyang dapit, ug moanaog, ug molatas sa mga kahitas-an sa yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "gikan sa iyang dapit"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ug moanaog"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ug molatas sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "mga kahitas-an"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:10.066571565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kini ang mga pulong nga gisulti ni Moshe ngadto sa tibuok Israel sa pikas ⟨sa⟩ Yarden, sa kamingawan, sa Arabah, atbang sa Suf, taliwala sa Paran ug taliwala sa Tofel, sa Lavan, sa Hatsrot, ug sa Di-Zahav.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa pikas ⟨sa⟩"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa Arabah"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "Tofel"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "sa Lavan"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "sa Hatsrot"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "ug sa Di-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:25.884907192Z",
+  "model": "glm-5.3"
+}

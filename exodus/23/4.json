@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kon makasugat ka sa baka sa imong kaaway o sa iyang buriko nga natala-o, siguradohon nimo nga ibalik kini kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "makasugat ka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "sa imong kaaway"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "sa iyang buriko"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "nga natala-o"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ibalik nimo kini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:33.573158759Z",
+  "model": "glm-5.3"
+}

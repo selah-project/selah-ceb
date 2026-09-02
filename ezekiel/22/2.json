@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ikaw, anak sa tawo, maggahum ka ba, maggahum ka ba sa ⟨את⟩ siyudad sa mga dugo? Ug ipahibalo mo sa kini ⟨את⟩ tanan nga iyang mga gikasilanan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "maggahum ka ba"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "maggahum ka ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siyudad sa mga dugo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "Ug ipahibalo mo sa kini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga iyang mga gikasilanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "nga iyang mga gikasilanan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:39:34.238310250Z",
+  "model": "glm-5.3"
+}

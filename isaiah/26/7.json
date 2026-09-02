@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ang agianan sa matarong matul-id; o Ikaw nga Matul-id, nagsapaw sa tul-id nga agianan sa matarong.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ang agianan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "o Ikaw nga Matul-id"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "agianan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "nagsapaw"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:48.778989357Z",
+  "model": "glm-5.3"
+}

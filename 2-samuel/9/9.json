@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Gintawag sa hari si Tsiba, ang sulugoon ni Shaul, ug gisulti niya kaniya: Tanan nga anaa kang Shaul ug sa tibuok niyang panimalay gihatag nako sa anak sa imong agalon.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Gintawag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "sulugoon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug gisulti niya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "niyang panimalay"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag nako"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sa imong agalon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:11.549964627Z",
+  "model": "glm-5.3"
+}

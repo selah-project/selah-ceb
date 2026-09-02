@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Pagbutang kamo ug awit, ug tuktuka ang tambor; ang kinor nga mamhinahon kaayop ⟨uban⟩ ang nebel.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "pagbutang kamo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ug tuktuka"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ang tambor"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ang kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "mamhinahon kaayop"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨uban⟩"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ang nebel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:53.437752898Z",
+  "model": "glm-5.3"
+}

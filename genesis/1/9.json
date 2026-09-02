@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si Elohim: \"Magtigom ang mga tubig nga anaa sa ubos sa Shamayim ngadto sa usa ka dapit, ug magpakita ang yuta nga mamala\"; ug nahitabo kini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "Magtigom"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anaa sa ubos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa Shamayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "ug magpakita"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ang yuta nga mamala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:55.469380628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug labaw pa sa ilang duha ⟨si⟩adtong wala pa ⟨mengkayo⟩ hangtod karon, nga wala makakita ⟨את⟩ sa daotang buhat nga gihimo sa ilalom sa adlaw.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ug labaw pa"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "sa ilang duha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "adtong wala pa mengkayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "hangtod karon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili pa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mengkayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa daotang buhat"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:23.177378778Z",
+  "model": "glm-5.3"
+}

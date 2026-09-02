@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "aron ang gingharian mahimong ubos, aron dili kini makabangon, sa pagbantay ⟨את⟩ sa iyang pakigsaad aron kini makabarog.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "aron mahimo"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "ubos"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "kini makabangon"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang pakigsaad"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iyang pakigsaad"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "aron kini makabarog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:37:52.543137763Z",
+  "model": "glm-5.3"
+}

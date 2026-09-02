@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug kini mao ang mga kaliwat ni Yitskhak, anak ni Avraham: si Avraham natawo-an ⟨kang⟩ Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga kaliwat"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:54.076277630Z",
+  "model": "glm-5.3"
+}

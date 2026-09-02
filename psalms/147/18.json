@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nagapadala siya sa iyang pulong ug natunaw sila; nagahimo siya nga muyupad ang iyang hangin — mangahasag ang mga tubig.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "nagapadala siya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iyang pulong"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ug natunaw sila"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagahimo siya nga mopaad"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "iyang hangin"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "mangahasag"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.478453926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Si Yahweh nga nag-inusara ang nanguna ⟨את⟩ kanila, ug walay laing El nga langyaw uban kaniya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "nga nag-inusara"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ang nanguna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "nga langyaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:23.803329315Z",
+  "model": "glm-5.3"
+}

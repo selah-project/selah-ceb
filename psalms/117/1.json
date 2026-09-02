@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 117,
+  "translation": "Pagdayeg kamo ⟨את⟩ kang Yahweh, tanan nga mga nasod; pagpasiawdaw kaniya, tanan nga ⟨ang⟩ mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "pagpasiawdaw kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "⟨ang⟩ mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:56.321458030Z",
+  "model": "glm-5.3"
+}

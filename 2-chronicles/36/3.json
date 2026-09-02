@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Gipapahawa siya sa hari sa Mitsrayim sa Yerushalayim, ug gipamulta ang yuta ⟨את⟩ — usa ka gatos ka talento nga plata ug usa ka talento nga bulawan.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "gipapahawa siya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "gipamulta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "mאה",
+      "gloss": "usa ka gatos"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talento"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ug usa ka talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:24.856251048Z",
+  "model": "glm-5.3"
+}

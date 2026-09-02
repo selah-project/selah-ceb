@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Magkinabuhi ang akong nefesh ug magdayeg ⟨kanimo⟩, ug ang imong mga pagtadlong magatabang kanako.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "magkinabuhi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ug magdayeg kanimo"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ug ang imong mga pagtadlong"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "magatabang kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:41.741065771Z",
+  "model": "glm-5.3"
+}

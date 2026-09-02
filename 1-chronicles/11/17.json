@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gimingaw si David ug miingon ⟨siya⟩: Kinsa ba ang magpatubig kanako ug tubig gikan sa atipan sa Beit Lechem nga ⟨ananaa⟩ sa ganghaan?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "gimingaw"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "magpatubig kanako"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "gikan sa atipan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:16.795322233Z",
+  "model": "glm-5.3"
+}

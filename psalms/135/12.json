@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Ug gihatag niya ang ilang yuta ingong panunod, ingong panunod kang Yisrael, ⟨ang⟩ iyang katawhan.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ug gihatag niya"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ilang yuta"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ingong panunod"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ingong panunod"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kang Yisrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:01.839804022Z",
+  "model": "glm-5.3"
+}

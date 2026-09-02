@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Kay ang akong mga adlaw nangalahos ingon sa aso, ug ang akong mga bukog nangasuga ingon sa dapit sa kalayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nangalahos"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ingon sa aso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang akong mga adlaw"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ug ang akong mga bukog"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "קד",
+      "gloss": "dapit sa kalayo"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "nangasuga"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:22.069079210Z",
+  "model": "glm-5.3"
+}

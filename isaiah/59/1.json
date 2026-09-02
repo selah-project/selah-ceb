@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Ania karon, wala mokubli ang kamot ni Yahweh sa pagluwas, ug wala mamugos ang iyang dunggan sa pagkadungog.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "mokubli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "mamugos"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ang iyang dunggan"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa pagkadungog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:40.654915854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang maalam nahadlok ug molikay sa kadaotan, apan ang buyag mosobra-sobra ug motuo ⟨sa kaugalingon⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ang maalam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nahadlok"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ug molikay"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa kadaotan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "apan ang buyag"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "mosobra-sobra"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ug motuo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:40.633579264Z",
+  "model": "glm-5.3"
+}

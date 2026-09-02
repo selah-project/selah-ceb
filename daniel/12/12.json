@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Malipayon ang naghulat ug moabot sa mga adlaw nga usa ka libo, tulo ka gatos, katloan ug lima.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "ang naghulat"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "ug moabot"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "usa ka libo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ug lima"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:20.563585721Z",
+  "model": "glm-5.3"
+}

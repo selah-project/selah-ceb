@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Gikan sa tanan nga akong mga paglapas luwasa ako; ayaw paghimo sa akon ⟨nga⟩ kaulawan sa buang.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "akong mga paglapas"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kaulawan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sa buang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "paghimo sa akon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:54.703452665Z",
+  "model": "glm-5.3"
+}

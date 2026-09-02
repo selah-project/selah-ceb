@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Hangtod sa kahangturan, O Yahweh, ang imong pulong ⟨nga⟩ nagatindog sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Hangtod sa kahangturon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "imong pulong"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa ⟨mga⟩ langit"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:50.993301774Z",
+  "model": "glm-5.3"
+}

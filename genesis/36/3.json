@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug ⟨את⟩ si Bosmath, anak nga babaye ni Yishmael, igsoon nga babaye ni Nevaot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ni Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "igsoon nga babaye"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ni Nevaot"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:58.997079959Z",
+  "model": "glm-5.3"
+}

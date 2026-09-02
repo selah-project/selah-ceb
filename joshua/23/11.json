@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Busa magbantay kamo kaayo alang sa inyong mga kalag, sa paghigugma ⟨kang⟩ Yahweh ⟨את⟩ nga inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "magbantay kamo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "alang sa inyong mga kalag"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sa paghigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh nga inyong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:22.441832424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Si Asher wala magpagawas ⟨sa⟩ ⟨את⟩ ang mga pumoluyo sa Akko ug ⟨sa⟩ ⟨את⟩ ang mga pumoluyo sa Tsidon, ug ⟨sa⟩ ⟨את⟩ ang Achlav ug ⟨sa⟩ ⟨את⟩ ang Aktsiv ug ⟨sa⟩ ⟨את⟩ ang Khelba ug ⟨sa⟩ ⟨את⟩ ang Afek ug ⟨sa⟩ ⟨את⟩ ang Rekhov.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Si Asher"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "magpagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "sa Akko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "sa Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Achlav"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "ang Achlav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Aktsiv"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "ang Aktsiv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Khelba"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "ang Khelba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Afek"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "ang Afek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Rekhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang Rekhov"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:11.313462301Z",
+  "model": "glm-5.3"
+}

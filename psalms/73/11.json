@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Ug manguting sila: Unsaon pagkahibalo ni El, ug aduna bay kahibalo sa Elyon?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Ug manguting sila"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Unsaon"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pagkahibalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ug aduna bay"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "sa Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:12.181668669Z",
+  "model": "glm-5.3"
+}

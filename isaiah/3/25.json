@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang imong mga lalaki sa espada matumba, ug ang imong kusgan sa gubat.",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "imong mga lalaki"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ug ang imong kusgan"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:35.139258034Z",
+  "model": "glm-5.3"
+}

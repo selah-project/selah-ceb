@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Tingog sa kagubot gikan sa ⟨dakbayan⟩, tingog gikan sa templo, tingog ni Yahweh nga nagabayad sa balos sa iyang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Tingog"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kagubot"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "gikan sa dakbayan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "gikan sa templo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "nagabayad"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "sa balos"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "sa iyang mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:55.115460735Z",
+  "model": "glm-5.3"
+}

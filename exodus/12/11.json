@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ingon niini ninyo kini kan-on: ang inyong mga hawak higutan, ang inyong mga sandalyas sa inyong mga tiil, ug ang inyong tungkod sa inyong kamot; ug kan-on ninyo ⟨את⟩ kini nga paspas kaayo; Pesach kini alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "ug ingon niini"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kan-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ang inyong mga hawak"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "higutan"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ang inyong mga sandalyas"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "sa inyong mga tiil"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "ug ang inyong tungkod"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa inyong kamot"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ug kan-on ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "nga paspas kaayo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:24.446860194Z",
+  "model": "glm-5.3"
+}

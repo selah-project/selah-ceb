@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Ikaw nga anak nga babae sa Babilonya, kanang pagalaglagon — bulahan siya nga mobayad kanimo ⟨sa⟩ imong ganti ⟨את⟩, nga imong gibuhat kanamo.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Babilonya"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "kanang pagalaglagon"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bulahan siya nga"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "mobayad kanimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong ganti"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "imong ganti"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.695857524Z",
+  "model": "glm-5.3"
+}

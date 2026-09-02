@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ang kahaluwa sa himaya sa imong kadungganan, ug ang mga pulong sa imong mga katingalahan, akong itsuron.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "ang kahaluwa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "imong kadungganan"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ug ang mga pulong"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "imong mga katingalahan"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "akong itsuron"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:19.976694529Z",
+  "model": "glm-5.3"
+}

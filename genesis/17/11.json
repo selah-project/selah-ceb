@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug pagtuli-an ninyo ⟨את⟩ ang unod sa inyong atipan [prepucio]; ug mahimo kini nga timaila sa pakigsaad taliwala kanako ug taliwala kaninyo.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Ug pagtuli-an ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang unod"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "sa inyong atipan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimo kini"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "nga timaila"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa pakigsaad"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "taliwala kanako"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ug taliwala kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:19.597709583Z",
+  "model": "glm-5.3"
+}

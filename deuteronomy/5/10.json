@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug nagabuhat ⟨ug⟩ hesed ngadto sa minilibo ⟨ka henerasyon⟩ ngadto kanako nga mga nahigugma kanako ug ngadto sa nagabantay sa akong mga mando.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ug nagabuhat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ngadto sa minilibo"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ngadto kanako nga mga nahigugma kanako"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ug ngadto sa nagabantay"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "sa akong mga mando"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:45.031488918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "⟨את⟩ ang kaba sa pagsaksi ug ⟨את⟩ ang mga payong niini, ug ⟨את⟩ ang kaporet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaba"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ang kaba"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sa pagsaksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga payong niini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang mga payong niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang kaporet"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:03.188764426Z",
+  "model": "glm-5.3"
+}

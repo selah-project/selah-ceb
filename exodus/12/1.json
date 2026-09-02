@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miingon si Yahweh kang Moshe ug kang Aharon sa yuta sa Mitsrayim, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:35.058741895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Mga anak ni Kehat: si Aminadav iyang anak, si Korach iyang anak, si Asir iyang anak.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "si Aminadav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "si Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "si Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:52.777357102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nahibalo ka kang Avner nga anak ni Ner, nga miadto siya aron limbonon ka, ug aron mahibalo sa ⟨את⟩ imong paggawas ug ⟨את⟩ sa imong pagsulod, ug aron mahibalo sa ⟨את⟩ tanan nga imong gibuhat.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Nahibalo ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ni Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "aron limbonon ka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miadto siya"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ug aron mahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong paggawas"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "imong paggawas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imong pagsulod"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "imong pagsulod"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ug aron mahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:16.165188653Z",
+  "model": "glm-5.3"
+}

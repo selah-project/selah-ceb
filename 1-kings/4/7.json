@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug kang Shelomo napulo ug duha ka nitzavim (mga opisyal) ang nagabarug sa tibook nga Israel, ug sila nagsustinar ⟨את⟩ sa hari ug ⟨את⟩ sa iyang panimalay; usa ka bulan sa usa ka tuig ang matag usa alang sa pagsustinar.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Ug kang Shelomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "mga nitzavim (mga opisyal)"
+    },
+    {
+      "surface": "על",
+      "gloss": "nagabarug sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibook"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Israel"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ug sila nagsustinar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang panimalay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa iyang panimalay"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "usa ka bulan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa usa ka tuig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang matag (ang mabutang)"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa (ka tawo)"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "sa pagsustinar"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:14.446084584Z",
+  "model": "glm-5.3"
+}

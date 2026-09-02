@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Ngadto kaniya nga nagabuhat ⟨sa⟩ mga katingalahanong dakong mga buhat, nga nag-iya lamang, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ngadto kaniya nga nagabuhat"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahanong buhat"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nga nag-iya lamang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:51.374800783Z",
+  "model": "glm-5.3"
+}

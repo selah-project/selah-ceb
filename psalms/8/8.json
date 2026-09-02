@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kabalyero ug mga baka, silang tanan, ug bisan pa ang mga mananap sa kapatagan.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Kabalyero"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ug mga baka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang tanan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug bisan pa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ang mga mananap"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:34.550092331Z",
+  "model": "glm-5.3"
+}

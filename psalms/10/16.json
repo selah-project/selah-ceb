@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Si Yahweh ⟨ang⟩ hari sa kahangturan ug sa dayon; napunya ang mga nasod gikan sa iyang yuta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug sa dayon"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "napunya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "gikan sa iyang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:54.750591214Z",
+  "model": "glm-5.3"
+}

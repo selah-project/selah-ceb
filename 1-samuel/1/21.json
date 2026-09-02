@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mitungas ang bantogan nga si Elkana uban sa tibuok niyang panimalay aron sa paghalad kang Yahweh ⟨את⟩ sa halad sa mga adlaw ug ⟨את⟩ sa iyang gisaad.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mitungas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang bantogan"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "si Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "uban sa tibuok"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "niyang panimalay"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "aron sa paghalad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa halad sa mga adlaw"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang gisaad"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "iyang gisaad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:49.671512077Z",
+  "model": "glm-5.3"
+}

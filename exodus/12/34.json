@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gidala sa katawhan ⟨את⟩ ang ilang masa sa tinapay ugbaw pa kini mahimo ug lebadura, ang ilang sudlanan sa paglima gidapot-apod sa ilang mga bisti ibabaw sa ilang mga abaga.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "gidala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang masa sa tinapay"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ang ilang masa sa tinapay"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ugbaw pa"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "mahimo ug lebadura"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "ang ilang sudlanan sa paglima"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "gidapot-apod"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "sa ilang mga bisti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "ilang mga abaga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:06.145175554Z",
+  "model": "glm-5.3"
+}

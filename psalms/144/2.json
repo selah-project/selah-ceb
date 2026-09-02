@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Akong hesed ug akong kuta, akong taas nga kanipaan ug akong manlualo, ⟨siya⟩ akong laming ug diha kaniya ako nanalipod, ⟨siya⟩ nga nagapaubos sa akong mga katawhan ⟨ubos⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "akong hesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ug akong kuta"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "akong taas nga kanipaan"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ug akong manlualo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "akong laming"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ug diha kaniya"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nanalipod ako"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "nagapaubos"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong mga katawhan"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "⟨ubos⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:32.992344165Z",
+  "model": "glm-5.3"
+}

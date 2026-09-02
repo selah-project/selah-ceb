@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "⟨Sa⟩ imong baba ⟨adunay⟩ trumpeta — ingon sa agila ⟨batok⟩ sa balay ni Yahweh, tungod kay nakalapas sila sa akong pakigsaad, ug batok sa akong Torah nanumpung sila.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "imong baba"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "trumpeta"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ingon sa agila"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨batok⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nakalapas sila"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akong pakigsaad"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug batok sa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "akong Torah"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "nanumpung sila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:01.087076005Z",
+  "model": "glm-5.3"
+}

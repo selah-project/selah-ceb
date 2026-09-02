@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Magkahiusa ang mga biangbihag ⟨nagakalinaw⟩; wala sila makadungog sa tingog sa nagbugkos.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ang mga biangbihag"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "⟨nagakalinaw⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "makadungog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "sa nagbugkos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:43.351310666Z",
+  "model": "glm-5.3"
+}

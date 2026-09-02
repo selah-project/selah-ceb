@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Mao kini ang giingon sa hari: Ayaw pagtugot nga pagbuwagan kamo ni Khizkiyahu, kay dili niya makaya nga luwason ⟨את⟩ kamo gikan sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "pagbuwagan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makaya"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "luwason"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "gikan sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:43.235603660Z",
+  "model": "glm-5.3"
+}

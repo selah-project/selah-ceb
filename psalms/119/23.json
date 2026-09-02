@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Bisan ang mga mangulo naglingkod, batok kanako nagsulti sila; ang imong sulugoon naghanduraw sa imong mga batas.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisang"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga mangulo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "nagsulti sila"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "naghanduraw"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sa imong mga batas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:38.769503472Z",
+  "model": "glm-5.3"
+}

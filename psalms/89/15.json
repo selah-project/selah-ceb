@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Pagkamatarong ug pagkamatarung ⟨ang⟩ pundasyon sa imong trono; hesed ug pagkamatinud-anon nanguna sa imong atubangan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug pagkamatarung"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pundasyon"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "sa imong trono"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ug pagkamatinud-anon"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "nanguna sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:54.096719868Z",
+  "model": "glm-5.3"
+}

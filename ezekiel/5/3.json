@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug magkuha ka gikan didto ug gamay nga ihap, ug igputos ⟨את⟩ sila sulod sa imong mga pako.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ug magkuha ka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "nga ihap"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ug igputos"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "sulod sa imong mga pako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:34:38.361822967Z",
+  "model": "glm-5.3"
+}

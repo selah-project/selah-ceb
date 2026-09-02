@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 8:8",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "gikan sa ilang mga anak nga nahibilin human kanila sa yuta, nga wala sila pagbungkagon sa mga anak ni Yisrael — gipahunod sila ni Shelomoh sa pagbayad ug mes tribute hangtod niining adlawa.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilaang mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נותרו",
+      "gloss": "nahibilin"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "human kanila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כלום",
+      "gloss": "pagbungkagon sila"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "gipahunod sila ni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "למס",
+      "gloss": "sa pagbayad ug mes tribute"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "היום",
+      "gloss": "niining adlawa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:29.578943732Z",
+  "model": "glm-5.3"
+}

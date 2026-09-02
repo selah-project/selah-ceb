@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gisakyan siya ⟨את⟩ sa iyang mga sulogoon paingon sa Yerushalayim, ug gilubong siya ⟨את⟩ sa iyang lubnganan kauban ang iyang mga amahan, sa ciudad ni David.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "gisakyan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sa iyang mga sulogoon"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "paingon sa Yerushalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ug gilubong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "sa iyang lubnganan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ang iyang mga amahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ciudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:17.373804261Z",
+  "model": "glm-5.3"
+}

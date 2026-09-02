@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug imong tabunan kini ⟨את⟩ ug bulawan nga putli; gikan sa sulod ug gikan sa gawas imong kini tabunan; ug imong buhaton sa ibabaw niini ang usa ka borlas nga bulawan nga palibot.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ug imong tabunan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang Kahon)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga putli"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa sulod"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ug gikan sa gawas"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "imong kini tabunan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug imong buhaton"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw niini"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ang usa ka borlas"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:09.026975405Z",
+  "model": "glm-5.3"
+}

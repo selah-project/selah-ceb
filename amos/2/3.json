@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 2:3",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug papason ko ang maghuhukom gikan sa taliwala niini, ug ang tanan ⟨nga⟩ mga mangulo niini patyon ko uban kaniya, nag-ingon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "והכרתי",
+      "gloss": "ug papason ko"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "maghuhukom"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "gikan sa taliwala niini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "mga mangulo niini"
+    },
+    {
+      "surface": "אהרוג",
+      "gloss": "patyon ko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:35.883896051Z",
+  "model": "glm-5.3"
+}

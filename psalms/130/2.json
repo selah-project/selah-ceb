@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "Adonay, pamatii ang akong tingog; ang imong mga dunggan ⟨mga⟩ malisonong ⟨mga⟩ sa tingog sa akong mga pangaliyo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨mga⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ang imong mga dunggan"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "malisonong ⟨mga⟩"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "sa akong mga pangaliyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:51.395938139Z",
+  "model": "glm-5.3"
+}

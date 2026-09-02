@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 21:6",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang pagtanom sa mga bahandi pinaagi sa dila nga bakak ⟨mao⟩ ang hungit nga gipalid ⟨sa mga nangita sa kamatayon⟩.",
+  "tokens": [
+    {
+      "surface": "פעל",
+      "gloss": "buhat\/pagtanom"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "mga bahandi"
+    },
+    {
+      "surface": "בלשון",
+      "gloss": "paagi sa dila"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga bakak"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hungit"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "gipalid"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "sa mga nangita"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:27.968424107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Nanguna ⟨ang⟩ mga mag-aawit, sumunod ang mga tumutugtog, sa tunga-tunga ⟨ang⟩ mga dalaga nga nagtutugtog sa tambol.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "nanguna"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mga mag-aawit"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sumunod"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "mga tumutugtog"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga-tunga"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "mga dalaga"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "nagtutugtog sa tambol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:43.613004382Z",
+  "model": "glm-5.3"
+}

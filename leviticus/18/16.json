@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kahubasan sa asawa sa imong igsoon nga lalake dili nimo ilantad; kahubasan sa imong igsoon nga lalake ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubasan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon nga lalake"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ilantad"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahubasan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon nga lalake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:34.264830729Z",
+  "model": "glm-5.3"
+}

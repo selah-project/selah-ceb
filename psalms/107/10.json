@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "⟨Mga⟩ nanimuyo sa kangitngit ug sa landong sa kamatayon, ⟨mga⟩ binilanggo sa kalisud ug sa puthaw —",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "mga nanimuyo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ug sa landong sa kamatayon"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "mga binilanggo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kalisud"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ug sa puthaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.709999923Z",
+  "model": "glm-5.3"
+}

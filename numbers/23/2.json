@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug buhaton ni Balak ⟨ang⟩ ingon sa gisulti ni Bilam, ug gisaka ni Balak ug ni Bilam ang usa ka baka ug usa ka karnero sa ⟨matag⟩ halaran.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug buhaton ni"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti ni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug gisaka ni"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "ug si Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "usa ka baka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ug usa ka karnero"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:00.704226481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Giduol ni Moshe ⟨את⟩ ilang pagtulongon atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "giduol ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang pagtulongon"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ilang pagtulongon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:13.025112450Z",
+  "model": "glm-5.3"
+}

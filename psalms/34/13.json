@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kinsa ang tawo nga nangandoy ⟨sa⟩ kinabuhi, naghigugma ⟨sa⟩ daghang mga adlaw, aron makakita ⟨sa⟩ maayo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "nangandoy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron makakita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:28.173824364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kinsa ang nakahibalo kon ang ruah sa mga anak sa tawo — ⟨ang⟩ molas pataas — molas ngadto sa ibabaw, ug ang ruah sa mananap — ⟨ang⟩ molas paubos — molas ngadto sa ubos, ngadto sa yuta?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "molas pataas"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ngadto sa ibabaw"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug ang ruah"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "sa mananap"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "molas paubos"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ngadto sa ubos"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ngadto sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:25.389256785Z",
+  "model": "glm-5.3"
+}

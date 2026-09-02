@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug kini ang mga kapitan sa mga nangalagad ni Haring Shlomoh — duha ka gatos ug kalim-an — nga nagadumala sa ⟨mga⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "ו אלה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "sa mga nangalagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ni Haring"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "kalim-an"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ug duha ka gatos"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "nga nagadumala"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:45.210517792Z",
+  "model": "glm-5.3"
+}

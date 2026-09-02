@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug pagaguon nila ⟨את⟩ ang yuta sa Ashur sa espada, ug ⟨את⟩ ang yuta sa Nimrod diha sa mga ganghaan niini; ug luwason ⟨siya⟩ gikan sa Ashur kung moanhi ⟨siya⟩ sa atong yuta ug kung molatok ⟨siya⟩ sa atong utlanan.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "ug pagaguon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa Ashur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "sa Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "sa mga ganghaan niini"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ug luwason"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "gikan sa Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "moanhi siya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "sa atong yuta"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug kung"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "molatok siya"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "sa atong utlanan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:22.133851505Z",
+  "model": "glm-5.3"
+}

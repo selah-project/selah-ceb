@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Sa Mitsrayim naghatag ⟨kami ug⟩ kamot, ngadto sa Ashshur, aron mabusog sa tinapay.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Sa Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "aron mabusog"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:34.260065792Z",
+  "model": "glm-5.3"
+}

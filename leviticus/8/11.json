@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gisabni niya niini ibabaw sa halaran pito ka higayon, ug gihidlawan niya ⟨את⟩ ang halaran ug ⟨את⟩ tanan nga mga sudlanan niini, ug ⟨את⟩ ang lababo ug ⟨את⟩ ang tiil-ibananan niini, aron sa pagbalaan niini.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "gisabni niya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka higayon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ug gihidlawan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga mga sudlanan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "nga mga sudlanan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang lababo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ang lababo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tiil-ibananan niini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ang tiil-ibananan niini"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "aron sa pagbalaan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:04.037985030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ang ilang mga haligi kawhaan, ug ang ilang mga pondo kawhaan, tumbaga; ang mga lansang sa mga haligi ug ang ilang mga singsing, plata.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "ang ilang mga haligi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ug ang ilang mga pondo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "ושוי",
+      "gloss": "ug ang mga lansang"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sa mga haligi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ug ang ilang mga singsing"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:20.991087859Z",
+  "model": "glm-5.3"
+}

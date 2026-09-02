@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Ug sa ako — unsa ka bililhon ang imong mga hunahuna, O El! unsa kadako ang ilang ihap!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ug sa ako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "bililhon"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ang imong mga hunahuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "O El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kadako"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ang ilang ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:11.525081867Z",
+  "model": "glm-5.3"
+}

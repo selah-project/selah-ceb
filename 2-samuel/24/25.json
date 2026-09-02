@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 24:25",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Nagpatindog si David didto ug altar alang kang Yahweh, ug nagtungtong siya ⟨sa⟩ mga halad nga sinunog ug mga halad sa pakigdait; ug gitubag ni Yahweh ⟨ang pangaliyo⟩ alang sa yuta, ug napahunong ang plage gikan sa ibabaw ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nagtungtong"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mga halad nga sinunog"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "ug mga halad sa pakigdait"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "gitubag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "alang sa yuta"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ug napahunong"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ang plage"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:39.660326956Z",
+  "model": "glm-5.3"
+}

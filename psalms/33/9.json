@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Kay siya miingon ug ⟨kini⟩ nahitabo; siya nagtugyawag ug ⟨kini⟩ mitindog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagtugyawag"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ug mitindog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:08.806861219Z",
+  "model": "glm-5.3"
+}

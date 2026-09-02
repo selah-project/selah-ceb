@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay ang tagsatagsa nagtumba sa iyang sungkod, ug nahimong mga tanin sila; apan gilaon sa sungkod ni Aharon ⟨את⟩ ang ilang mga sungkod.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "nagtumba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsatagsa"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "sa iyang sungkod"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "mga tanin sila"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "gilaon"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sa sungkod"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga sungkod"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ang ilang mga sungkod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:03.699050296Z",
+  "model": "glm-5.3"
+}

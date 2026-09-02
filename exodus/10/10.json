@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miingon siya kanila: Hinaot nga ingon niana si Yahweh uban kaninyo, ingon sa pagpapagawas nako ⟨את⟩ kaninyo ug ⟨את⟩ ang inyong mga gamayng anak: tan-awa, kay kadaot ⟨ang⟩ atubang sa inyong mga nawong.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Hinaot nga mahitabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "uban kaninyo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "akong ipapagawas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo (kamo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang inyong mga gamayng anak"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ang inyong mga gamayng anak"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "sa inyong mga nawong"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:46.216606939Z",
+  "model": "glm-5.3"
+}

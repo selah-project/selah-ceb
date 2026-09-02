@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Magbuhat ba ang tawo og mga dios alang sa iyang kaugalingon, ug sila dili mga dios?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Magbuhat ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang sa iyang kaugalingon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "og mga dios"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:15.058782430Z",
+  "model": "glm-5.3"
+}

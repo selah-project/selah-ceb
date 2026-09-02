@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "ug ngadto sa mga tawo sa Khormah, ug ngadto sa mga tawo sa Bor-Ashan, ug ngadto sa mga tawo sa Atakh,",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "ug ngadto sa mga tawo sa"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Khormah"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ug ngadto sa mga tawo sa"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "ug ngadto sa mga tawo sa"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:55.672751631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug miingon si Yahweh: Kinsa ang modani ⟨את⟩ kang Achav aron momolakat siya ug matumba sa Ramot-Gil'ad? Ug ang usa miingon nga ingon niini, ug ang usa miingon nga ingon niini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ang modani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Achav"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achav"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "aron momolakat siya"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ug matumba"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "sa Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gil'ad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nga ingon niini"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ug ang usa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nga ingon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:51.026930333Z",
+  "model": "glm-5.3"
+}

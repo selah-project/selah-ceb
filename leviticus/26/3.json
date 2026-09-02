@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Kon sa akong mga chukkim molakaw kamo, ug ⟨את⟩ ang akong mga mitsvot bantayan ninyo ug buhaton ninyo ⟨ang mga tawag⟩",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "sa akong mga chukkim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "molakaw kamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang akong mga mitsvot"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ang akong mga mitsvot"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bantayan ninyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ug buhaton ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawag (sa mitsvot)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:52.526329585Z",
+  "model": "glm-5.3"
+}

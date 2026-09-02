@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nahitabo samtang nagbantay si Yoav sa dakbayan, nga iyang gipahimutang ⟨את⟩ si Uriah sa dapit nga iyang gihibaloan nga adunay mga kusganong tawo didto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "samtang nagbantay"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gipahimutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "gihibaloan niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kusganong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:12.327453048Z",
+  "model": "glm-5.3"
+}

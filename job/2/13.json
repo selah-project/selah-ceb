@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug sila nalingkod ⟨את⟩ kaniya sa yuta pito ka adlaw ug pito ka gabii, ug walay nagsulti kaniya ug pulong, kay nakita nila nga dako kaayo ang kasakit.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nalingkod sila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "kaniya — anaa si Iyov"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ug pito"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ka gabii"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ug pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "dako"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "ang kasakit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:16.991517637Z",
+  "model": "glm-5.3"
+}

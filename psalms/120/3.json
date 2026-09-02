@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Unsa ang ⟨ihatag⟩ kanimo, ug unsa ang idugang kanimo, o dila nga malimbongon?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨ihatag⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "idugang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nga malimbongon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:23.519181545Z",
+  "model": "glm-5.3"
+}

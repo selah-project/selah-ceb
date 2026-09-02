@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "ug maglakaw siya ug mag-alagad sa laing mga dios, ug moyuko siya kanila — sa adlaw, o sa bulan, o sa tanan nga panon sa kalangitan, nga wala nako tugmahi —",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ug maglakaw siya"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ug mag-alagad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "laing"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ug moyuko siya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nako tugmahi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:59.810448839Z",
+  "model": "glm-5.3"
+}

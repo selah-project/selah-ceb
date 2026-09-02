@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug karon, dili kamo ang nagpadala ⟨את⟩ ako ngadto dinhi, kondili ⟨ang⟩ Elohim, ug gibuhat niya ako nga amahan kang Paro, ug nga agalon sa tibuok niyang balay, ug nga mananaog sa tibuok yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "ang nagpadala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngadto dinhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ang⟩ Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "ug gibuhat niya ako nga"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kang Paro"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "ug nga agalon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "niyang balay"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ug nga mananaog"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:34.437236729Z",
+  "model": "glm-5.3"
+}

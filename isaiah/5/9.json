@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Sa akong mga dalogdog miingon si Yahweh Tsevaot: Sa pagkamatuod, daghang mga balay nga mahimong kagubot ⟨ang⟩ mga dako ug nindot, nga walay molingkod.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "sa akong mga dalogdog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa pagkamatuod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "nga kagubot"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mga dako"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ug nindot"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "molingkod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:14.058715568Z",
+  "model": "glm-5.3"
+}

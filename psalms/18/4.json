@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang gipasidunggan ⟨ang⟩ Yahweh atong tawgon, ug gikan sa akong mga kaaway maluwas ako.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "gipasidunggan"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "atong tawgon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ug gikan sa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "maluwas ako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:16.878788055Z",
+  "model": "glm-5.3"
+}

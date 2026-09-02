@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang matag tawo — ⟨את⟩ sa iyang mga balaang butang iya ⟨kini⟩ mahimo; ang tawo nga unsa man ang iyang ihatag sa padi, sa padi ⟨kini⟩ mahimo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang matag tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga balaang butang"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "sa iyang mga balaang butang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa padi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa padi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:43.500588979Z",
+  "model": "glm-5.3"
+}

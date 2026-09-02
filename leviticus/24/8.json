@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Sa adlaw sa Sabad, sa adlaw sa Sabad, ihan-ay niya kini atubang ni Yahweh sa walay kataposan, gikan sa ⟨את⟩ mga anak ni Israel — usa ka pakigsaad hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw sa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabad"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw sa"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabad"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "ihan-ay niya kini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa walay kataposan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan sa ⟨את⟩",
+      "marks": "mga anak ni Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:52.341820900Z",
+  "model": "glm-5.3"
+}

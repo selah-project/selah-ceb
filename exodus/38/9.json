@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug gibuhat niya ⟨את⟩ ⟨ang⟩ nataran; sa tinungang bahin sa habagatan, ang mga kurtina sa nataran ⟨mga⟩ hiniws nga lino, usa ka gatus ka suko.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nataran"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨ang⟩ nataran"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa tinungang bahin"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "habagatan"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sa habagatan"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ang mga kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa nataran"
+    },
+    {
+      "surface": "שש",
+      "gloss": "⟨mga⟩ hiniws nga lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "hiniws"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka suko"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:00.752515995Z",
+  "model": "glm-5.3"
+}

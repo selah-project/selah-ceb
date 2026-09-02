@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Ang imong mga pari magasul-ob ug kahusayan, ug ang imong mga hasid magasadayaw ⟨sa kalipay⟩.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ang imong mga pari"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "magasul-ob"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kahusayan"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ug ang imong mga hasid"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magasadayaw ⟨sa kalipay⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:47.350011773Z",
+  "model": "glm-5.3"
+}

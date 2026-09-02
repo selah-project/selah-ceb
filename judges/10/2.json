@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ⟨siya⟩ nagdalag hustisya ⟨את⟩ sa Israel baynte-tulo ka tuig; ug namatay siya ug gilubong sa Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "nagdalag hustisya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "baynte"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "gilubong"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "sa Shamir"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:49.273236465Z",
+  "model": "glm-5.3"
+}

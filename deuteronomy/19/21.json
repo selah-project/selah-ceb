@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "ug ang imong mata dili ⟨mopalabi⟩ ug kaluoy: nefesh alang sa nefesh, mata alang sa mata, ngipon alang sa ngipon, kamot alang sa kamot, tiil alang sa tiil.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mopalabi ug kaluoy"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ang imong mata"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "alang sa nefesh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "alang sa mata"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ngipon"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "alang sa ngipon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "alang sa kamot"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "alang sa tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:59.854154489Z",
+  "model": "glm-5.3"
+}

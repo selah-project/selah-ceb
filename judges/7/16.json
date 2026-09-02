@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 7:16",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug gibahin niya ⟨את⟩ ang tulo ka gatos ka tawo ngadto sa tulo ka panon, ug gihatag niya ang mga sungay sa kamot sa tanan nila, ug mga bangga nga walay sulod, ug mga sulo sulod sa mga bangga.",
+  "tokens": [
+    {
+      "surface": "ויחץ",
+      "gloss": "ug gibahin niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tulo ka gatos ka tawo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "panon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag niya"
+    },
+    {
+      "surface": "שופרות",
+      "gloss": "ang mga sungay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sa tanan nila"
+    },
+    {
+      "surface": "וכדים",
+      "gloss": "ug mga bangga"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "nga walay sulod"
+    },
+    {
+      "surface": "ולפדים",
+      "gloss": "ug mga sulo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sulod sa"
+    },
+    {
+      "surface": "הכדים",
+      "gloss": "mga bangga"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:50.117497635Z",
+  "model": "glm-5.3"
+}

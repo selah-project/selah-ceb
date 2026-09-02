@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug ang mga mata sa mga nanan-aw dili na mamalimong, ug ang mga igong sa mga mamati magapakigdait.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "mamalimong"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "sa mga nanan-aw"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ug ang mga igong"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "sa mga mamati"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "magapakigdait"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:04.515062691Z",
+  "model": "glm-5.3"
+}

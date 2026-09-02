@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "Magmalipayon ug magsinggit sa kalipay ang mga nasod, kay ikaw magahukom sa mga katawhan uban sa katarong, ug ang mga nasod sa yuta imong giatudlan. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Magmalipayon"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "magsinggit sa kalipay"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "uban sa katarong"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ug ang mga nasod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "imong giatudlan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:21.047582738Z",
+  "model": "glm-5.3"
+}

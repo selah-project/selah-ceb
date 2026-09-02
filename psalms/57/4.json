@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Magapadala ⟨siya⟩ gikan sa mga langit ug magaluwas kanako ⟨sa⟩ pagtabog ⟨kang⟩ nangangadaot ⟨nga⟩ nagapanglakop kanako. Selah. Magapadala ang Elohim sa iyang hesed ug sa iyang katinuoran.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "magapadala"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ug magaluwas kanako"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "pagtabog"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "nagapanglakop kanako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "magapadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sa iyang hesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "ug sa iyang katinuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:49.336731760Z",
+  "model": "glm-5.3"
+}

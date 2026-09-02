@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Apan pinaagi sa soriteso lamang igbahin ⟨את⟩ ang yuta; sumala sa mga ngalan sa mga tribo sa ilang mga amahan sila magpanulandon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "apan lamang"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "pinaagi sa soriteso"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "igbahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "sumala sa mga ngalan"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "sila magpanulandon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:41.733856333Z",
+  "model": "glm-5.3"
+}

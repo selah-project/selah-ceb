@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Kay motindog ⟨siya⟩ sa tuo nga kamot sa kabus, sa pagluwas kaniya gikan sa mga nagahukom sa iyang kalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "motindog siya"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "sa tuo nga kamot"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "sa kabus"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "gikan sa mga nagahukom"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:35.508202035Z",
+  "model": "glm-5.3"
+}

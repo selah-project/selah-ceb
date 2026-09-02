@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug gipanalanginan ni Yahweh ⟨את⟩ ang ulahing bahin ni Iyob labaw sa iyang sinugdan; ug naa kaniya napulo'g upat ka libo nga karnero, ug unom ka libo nga kamelyo, ug usa ka libo ka pares sa baka, ug usa ka libo nga burika.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulahing bahin ni Iyob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang ulahing bahin"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "labaw sa iyang sinugdan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug naa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "kamelyo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ug usa ka libo"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "pares"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "baka"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ug usa ka libo"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "burika"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:35.059078898Z",
+  "model": "glm-5.3"
+}

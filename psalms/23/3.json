@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ang akong nefesh iyang gipaingon pagbalik; iya ako gimandoa sa mga agianan sa pagkamatarong, alang sa iyang ngalan.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "iya gipaingon pagbalik"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "iya ako gimandoa"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "sa mga agianan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:43.032184182Z",
+  "model": "glm-5.3"
+}

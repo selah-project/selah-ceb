@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ako usab adunay kasingkasing sama ninyo; dili ako nahulog ⟨gikan⟩ kaninyo; ug ⟨את⟩ kinsa ang walay sama niini?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "sama ninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kinsa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sama"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:27.395872634Z",
+  "model": "glm-5.3"
+}

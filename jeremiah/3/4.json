@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Wala ba gikan karon pagatawga nako kanako: Akong Amahan, ikaw ang kauban sa akong pagkatanod?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gikan karon"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "pagatawga nako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Akong Amahan"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ang kauban"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "sa akong pagkatanod"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T21:14:35.043731211Z",
+  "model": "glm-5.3"
+}

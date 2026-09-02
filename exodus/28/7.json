@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Duha ka pahakot sa abaga nga magahiusa ang mahimo ⟨kini⟩ niini, sa iyang duha ka kataposan, ug magahiusa ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "pahakot sa abaga"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "nagahiusa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang mahimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "kataposan niini"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ug magahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:10.074771958Z",
+  "model": "glm-5.3"
+}

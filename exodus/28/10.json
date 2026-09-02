@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Unom ka ngalan sa ilang mga ngalan sa ⟨ang⟩ usa ka bato, ug ⟨את⟩ ang mga ngalan sa unom nga natandi sa ikaduhang bato, sumala sa ilang kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "Unom ka"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "sa ilang mga ngalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga ngalan sa unom nga natandi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga ngalan"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "sa unom"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "nga natandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "sumala sa ilang kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:35.019589854Z",
+  "model": "glm-5.3"
+}

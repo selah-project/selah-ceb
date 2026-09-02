@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gitigum ni Yehu ⟨את⟩ ang tibuok nga mga tawo, ug miingon siya kanila: Si Akhab nag-alagad ⟨את⟩ Baal ug gamay; si Yehu mag-alagad kaniya ug daghan.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "ug gitigum"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ni Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga mga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Si Akhab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ug gamay"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "יַעַבְדֶנּוּ",
+      "gloss": "mag-alagad kaniya"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ug daghan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:35.131101638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Mga buyog ⟨⟨⟩⟩ tungod sa ilang pagpahisalaag, ug tungod sa ilang mga kalapasan sila gipagmay.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Mga buyog"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tungod sa dalan sa"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ilang pagpahisalaag"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "ug tungod sa ilang mga kalapasan"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "sila gipagmay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.421195513Z",
+  "model": "glm-5.3"
+}

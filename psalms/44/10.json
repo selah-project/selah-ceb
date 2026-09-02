@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Apan gipakyas mo kami ug gipaulaw ⟨kami⟩, ug wala ka mosulod uban sa among mga panon.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "gipakyas mo"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "ug gipaulaw ⟨kami⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ka mosulod"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "uban sa among mga panon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:44.443168213Z",
+  "model": "glm-5.3"
+}

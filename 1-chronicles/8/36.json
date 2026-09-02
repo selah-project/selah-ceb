@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug si Akhaz natawo ⟨את⟩ Yehoadah, ug si Yehoadah natawo ⟨את⟩ Alemet ug ⟨את⟩ Atsmavet ug ⟨את⟩ Zimri, ug si Zimri natawo ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Ug si Akhaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoadah"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Yehoadah"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "ug si Yehoadah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Atsmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Atsmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "ug si Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:26.357426525Z",
+  "model": "glm-5.3"
+}

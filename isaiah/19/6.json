@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang mga sapa mobaho ug baho, manghina ang mga kanal sa Mitsrayim, uga sila; ang kawayan ug ang papiro mamatay.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "mobaho ug baho"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "manghina"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "uga sila"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "mga kanal"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kawayan"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "ug papiro"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:00.311691646Z",
+  "model": "glm-5.3"
+}

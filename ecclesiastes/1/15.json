@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang baluktot dili mahimong tul-ion, ug ang kulang dili mahimong ihap.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ang baluktot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "tul-ion"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ug ang kulang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:40.545663685Z",
+  "model": "glm-5.3"
+}

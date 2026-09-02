@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug si David miingon kang Avishay: Ayaw siya paglaglaga, kay kinsa ang nagpadala sa iyang kamot sa Mesiyas ni Yahweh ug ⟨mahimong⟩ malimpyo ⟨sa sala⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "siya paglaglaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "sa Mesiyas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ug malimpyo sa sala"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:06.720358128Z",
+  "model": "glm-5.3"
+}

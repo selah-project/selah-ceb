@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug isulod nimo ⟨את⟩ ang mga bad sa mga singsing sa mga kilid sa Aron, aron madala ⟨את⟩ ang Aron pinaagi niini.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ug isulod nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bad"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga bad"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga kilid"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sa Aron"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "aron madala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang Aron"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "piraagi niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:21.619628499Z",
+  "model": "glm-5.3"
+}

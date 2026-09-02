@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Moabot kaniya ang kadaot ⟨nga wala niya mahibalo-i⟩, ug ang iyang pukot nga iyang gitago modakop kaniya; sa kadaot siya mahulog niini.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "Moabot kaniya"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "niya mahibalo-i"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "ug ang iyang pukot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "iyang gitago"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "modakop kaniya"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "siya mahulog"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.286238633Z",
+  "model": "glm-5.3"
+}

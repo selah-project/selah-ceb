@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gidakop ni Khanun ⟨את⟩ ang mga sulugoon ni David, ug gagahson niya ⟨את⟩ ang katunga sa ilang mga bungot, ug gigutom niya ⟨את⟩ ang ilang mga bisti sa katunga, hangtod sa ilang mga tikod-ilhanan, ug gipapauli niya sila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gidakop"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ni Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sulugoon ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "gagahson"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katunga sa ilang mga bungot"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "katunga"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ilang mga bungot"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "gigutom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga bisti"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ilang mga bisti"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa katunga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "ilang mga tikod-ilhanan"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "gipapauli sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:50.665425035Z",
+  "model": "glm-5.3"
+}

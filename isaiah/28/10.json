@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Kay sapatus ⟨sa sapatus⟩, sapatus ⟨sa sapatus⟩, linya ⟨sa linya⟩, linya ⟨sa linya⟩, gamay dinhi, gamay didto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "צו",
+      "gloss": "sapatus"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "⟨sa sapatus⟩"
+    },
+    {
+      "surface": "צו",
+      "gloss": "sapatus"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "⟨sa sapatus⟩"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "⟨sa linya⟩"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "⟨sa linya⟩"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:16.584643427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Kanimo ako nakasandig gikan sa tiyan; gikan sa tagoangkan sa akong inahan ikaw ang nagputol ⟨kanako⟩; kanimo ang akong pagdayeg sa walay katapusan.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ako nakasandig"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "gikan sa tagoangkan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sa akong inahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ang nagputol"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ang akong pagdayeg"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa walay katapusan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:13.317231868Z",
+  "model": "glm-5.3"
+}

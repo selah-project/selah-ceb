@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gitukod ko usab ang akong pakigsaad ⟨את⟩ uban kanila, sa paghatag kanila og ⟨את⟩ ang yuta sa Kenaan, ⟨את⟩ ang yuta sa ilang pagpangisda-oran, diin sila nangisda-oran.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ug usab"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "gitukod ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong pakigsaad"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ uban"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa ilang pagpangisda-oran"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "sa ilang pagpangisda-oran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "silva nangisda-oran"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa."
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:46.311793984Z",
+  "model": "glm-5.3"
+}

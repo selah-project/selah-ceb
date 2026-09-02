@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 21:16",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gihatag niya ⟨את⟩ kini sa pagpakintal, sa pagkupot sa palad; kini gihimo sharp nga espada, ug kini gipakintal, sa paghatag ⟨את⟩ niini sa kamot sa magpapatay.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang espada)"
+    },
+    {
+      "surface": "למרטה",
+      "gloss": "sa pagpakintal"
+    },
+    {
+      "surface": "לתפש",
+      "gloss": "sa pagkupot"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "sa palad"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "gihimo sharp"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "nga espada"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "gipakintal"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (sa kamot sa magpapatay)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "הורג",
+      "gloss": "sa magpapatay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:38:43.003188615Z",
+  "model": "glm-5.3"
+}

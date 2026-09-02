@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Pagpasigarbo kamo sa iyang balaang ngalan; magmalipayon ⟨ang⟩ kasingkasing sa mga nangita kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "pagpasigarbo kamo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "sa mga nangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.383785193Z",
+  "model": "glm-5.3"
+}

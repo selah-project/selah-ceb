@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang molakaw ⟨את⟩ ⟨kauban⟩ sa mga maalam maalam usab, apan ang kauban sa mga buang madaut.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Ang molakaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga maalam"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "mga maalam"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "maalam usab"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "apan ang kauban"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga buang"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "madaut"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:33.454756610Z",
+  "model": "glm-5.3"
+}

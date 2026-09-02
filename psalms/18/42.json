@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nangilog sila ug wala may nagluwas ⟨sa ila⟩; ngadto kang Yahweh, apan wala Niya sila tubga.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Nangilog sila"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala may"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "nagluwas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Niya sila tubga"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:09.163065770Z",
+  "model": "glm-5.3"
+}

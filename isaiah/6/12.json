@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug papahalon ni Yahweh ⟨את⟩ ang tawo, ug madaghan ang gibiyai sa tunga sa ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "Ug papahalon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ug madaghan"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ang gibiyai"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:27.342299106Z",
+  "model": "glm-5.3"
+}

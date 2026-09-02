@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gikabenihan ni Elohim ⟨את⟩ si Noach ug ⟨את⟩ ang iyang mga anak, ug giingnan niya sila: Mangitulo kamo ug dumadag kamo ug pun-i ninyo ⟨את⟩ ang yuta.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ug gikabenihan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug giingnan niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mangitulo kamo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ug dumadag kamo"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ug pun-i ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:51.332376118Z",
+  "model": "glm-5.3"
+}

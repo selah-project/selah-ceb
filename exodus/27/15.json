@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug alang sa ikaduhang kilid ⟨adunay⟩ napulog-lima ka kurtina; ang ilang mga haligi tulo, ug ang ilang mga base tulo.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "ug alang sa ikaduhang kilid"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "napulog-lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "kurtina"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ang ilang mga haligi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ug ang ilang mga base"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:00.283850975Z",
+  "model": "glm-5.3"
+}

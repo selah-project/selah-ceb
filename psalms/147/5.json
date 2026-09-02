@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Dako ang atong Adonay, ug daghan ⟨ang⟩ gahum; sa iyang kaalam walay ihap.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ang atong Adonay"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ug daghan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "gahum"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "sa iyang kaalam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:30.507434706Z",
+  "model": "glm-5.3"
+}

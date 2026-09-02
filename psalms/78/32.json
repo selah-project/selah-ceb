@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Bisan pa sa tanan niini, nakasala pa gihapon sila, ug wala sila motuo sa iyang mga katingalahan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nakasala sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa gihapon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "motuo sila"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "sa iyang mga katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:34.863377950Z",
+  "model": "glm-5.3"
+}

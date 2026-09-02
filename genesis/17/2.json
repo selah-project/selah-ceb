@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug ibutang ko ang akong pakigsaad taliwala ko ug taliwala nimo, ug padaghanon ko ikaw ⟨את⟩ nga hilabihan kaayo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ug ibutang ko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "taliwala ko"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ug taliwala nimo"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ug padaghanon ko"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "nga hilabihan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:10.757803485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nahum 1:8",
+  "book": "nahum",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug sa usa ka naglabang nga baha, hingpit nga pagguba ang buhaton niya sa iyang dapit, ug ang iyang mga kaaway susdon sa kangitngit.",
+  "tokens": [
+    {
+      "surface": "ובשטף",
+      "gloss": "Ug sa usa ka naglabang nga baha"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "naglabang"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hingpit nga pagguba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang buhaton niya"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "sa iyang dapit"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ug ang iyang mga kaaway"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "susdon"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sa kangitngit"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:14.063654114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug tejelet nga asul, ug argaman nga ube, ug tolaat shani nga pula, ug shesh nga lino, ug balahibo sa kanding.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "tejelet nga asul"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman nga ube"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani nga pula"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "shesh nga lino"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "balahibo sa kanding"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:42.076511917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Sa paghampak sa Mitsrayim ⟨sa⟩ ilang mga panganay, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "sa paghampak"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "sa ilang mga panganay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:44.826587813Z",
+  "model": "glm-5.3"
+}

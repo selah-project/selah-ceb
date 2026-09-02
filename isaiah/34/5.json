@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kay nagabusong na sa kalangitan ang akong espada; ania karon, moana kini sa Edom, ug sa katawhan sa akong pagtugna ⟨sa paglaglag⟩ alang sa paghukom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "nagabusong na"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ang akong espada"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "moana kini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "sa akong pagtugna"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "alang sa paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:23.243996333Z",
+  "model": "glm-5.3"
+}

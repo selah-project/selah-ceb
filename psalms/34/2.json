@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Amod-an ko ⟨את⟩ si Yahweh sa tanan nga panahon; sa walay hunong ang iyang pagdayeg anaa sa akong baba.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Amod-an ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa walay hunong"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang iyang pagdayeg"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:37.601642569Z",
+  "model": "glm-5.3"
+}

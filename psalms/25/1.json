@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "⟨Ni⟩ Davide. Kanimo, Yahweh, ang akong kalag gipasaka ko.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni Davide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "gipasaka ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.091622823Z",
+  "model": "glm-5.3"
+}

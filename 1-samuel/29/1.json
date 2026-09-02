@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug nagkatipon ang mga Pelishtiyano ang ⟨את⟩ tanan nilang mga kampo sa Afekah, ug ang Yisrael nagkampo sa tinubdan sa tubig nga naa sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nagkatipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishtiyano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nilang mga kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "nilang mga kampo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "sa Afekah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ug ang Yisrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa tinubdan sa tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga naa sa"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:25.791762536Z",
+  "model": "glm-5.3"
+}

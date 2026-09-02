@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miingon si Shemuel sa ⟨ang⟩ katawhan: Si Yahweh — ⟨siya⟩ nga nagbuhat ⟨את⟩ kang Moshe ug ⟨את⟩ kang Aharon, ug nga nagpatungha ⟨את⟩ sa inyong mga amahan gikan sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nagpatungha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyong mga amahan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "inyong mga amahan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:42.278623425Z",
+  "model": "glm-5.3"
+}

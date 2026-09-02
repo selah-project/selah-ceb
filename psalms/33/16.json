@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Walay hari maluwas pinaagi sa kadaghan sa kusog; ang gamhanan dili maluwas pinaagi sa kadaghan sa gahum.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Walay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "pinasokadaghan"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ang gamhanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "pinaagi sa kadaghan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa gahum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.866864514Z",
+  "model": "glm-5.3"
+}

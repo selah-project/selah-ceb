@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Busa miadto si Eliyahu sa pagpakita sa iyang kaugalingon kang Ajab; ug ang kagutom ⟨nga⟩ grabe ⟨kini⟩ sa Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "sa pagpakita sa iyang kaugalingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "ug ang kagutom"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "grabe"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:19.466867390Z",
+  "model": "glm-5.3"
+}

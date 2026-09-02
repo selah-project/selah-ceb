@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang tingog sa akong hinigugma! Tan-awa, siya moabot, molukso ibabaw sa mga bukid, molukso-lukso ibabaw sa mga bungtod.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ang tingog"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "sa akong hinigugma"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "molukso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "molukso-lukso"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mga bungtod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:39.590220777Z",
+  "model": "glm-5.3"
+}

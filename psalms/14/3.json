@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "⟨Ang⟩ tanan mitalikod, nga nagkahiusa nan angkla ⟨sila⟩; wala nay magbuhat sa maayong butang, wala gani bisan usa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "⟨ang⟩ tanan"
+    },
+    {
+      "surface": "סר",
+      "gloss": "mitalikod"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagkahiusa"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nan angkla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala nay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "magbuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa maayong butang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala nay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bisan usa"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:53.483216508Z",
+  "model": "glm-5.3"
+}

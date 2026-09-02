@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang tigulang ug ang dungganon ⟨sa panagway⟩ — siya ang ulo; ug ang manalagna nga nagtudlo sa bakak — siya ang ikog.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "ang tigulang"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ug ang dungganon"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "panagway"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ug ang manalagna"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "nagtudlo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sa bakak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "ang ikog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:20.976929109Z",
+  "model": "glm-5.3"
+}

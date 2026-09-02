@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "Sa unang panahon ang mga tubig nga garbos molapas na sa atong kinabuhi, ang mga mapahitas-on nga tubig.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "sa unang panahon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "molapas"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "atong kinabuhi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "nga garbos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:08.543015365Z",
+  "model": "glm-5.3"
+}

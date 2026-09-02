@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Si Ashur usab nakigbahin uban kanila; nahimong bukton sila alang sa mga anak ni Lot. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "si Ashur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "nakigbahin"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "uban kanila"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "bukton"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ni Lot"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:55.009965889Z",
+  "model": "glm-5.3"
+}

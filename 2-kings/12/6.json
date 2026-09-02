@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kuhaon sa mga saserdote alang sa ilang kaugalingon, ang matag usa gikan ⟨את⟩ sa iyang kaila, ug sila magpalig-on ⟨את⟩ ang guba sa balay, diha sa tanan nga makit-an didto nga guba.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "Kuhaon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang sa ilang kaugalingon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩ sa"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sa iyang kaila"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "magpalig-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang guba sa balay"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ang guba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "diha sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "nga guba"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:25.741138428Z",
+  "model": "glm-5.3"
+}

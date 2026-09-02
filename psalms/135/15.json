@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Ang mga diosdios sa mga kanasoran ⟨mao ang⟩ salapi ug bulawan, binuhat sa mga kamot sa tawo.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "ang mga diosdios"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sa mga kanasoran"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ug bulawan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "binuhat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:16.879905937Z",
+  "model": "glm-5.3"
+}

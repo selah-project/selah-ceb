@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gipatindog niya ⟨את⟩ ang iyang nawong nga mokalitod hangtod nga makaulaw, ug ang tawo sa Elohim nanghilak.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "gipatindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iyang nawong"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nga mokalitod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "בש",
+      "gloss": "makaulaw"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nanghilak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:45.907606917Z",
+  "model": "glm-5.3"
+}

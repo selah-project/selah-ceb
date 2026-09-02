@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ⟨את⟩ ang mga anak ni Tsidkiyahu gidan-ag nila sa atubangan sa iyang mga mata; ug ⟨את⟩ ang mga mata ni Tsidkiyahu gipabuta; ug gigapos siya uban singgang tumbaga, ug gidala siya ngadto sa Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga anak ni Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "gidan-ag nila"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "sa atubangan sa iyang mga mata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga mata ni Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gipabuta"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ug gigapos siya"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "uban singgang tumbaga"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ug gidala siya ngadto"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:18.373371252Z",
+  "model": "glm-5.3"
+}

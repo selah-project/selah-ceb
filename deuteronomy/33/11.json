@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Pagakanun, O Yahweh, ang iyang kusog, ug ang buhat sa iyang mga kamot pagatagana ⟨siya⟩; pangguba sa mga hawak sa iyang mga kaaway, ug sa iyang mga magdumili kanimo ⟨mga tawo⟩ — nga dili na sila mobangon.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "pagakanun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ang iyang kusog"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ug ang buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "pagatagana"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "pangguba"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "sa mga hawak"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "sa iyang mga kaaway"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ug sa iyang mga nagadumili kanimo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aron nga"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "dili na sila mobangon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:26.740007515Z",
+  "model": "glm-5.3"
+}

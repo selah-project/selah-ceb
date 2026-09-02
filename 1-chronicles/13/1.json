@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug nakigkonsulta si David uban sa mga pangulo sa ⟨mga⟩ liboan ug sa ⟨mga⟩ gatosan, sa matag usa ka magdudumala.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "nakigkonsulta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga pangulo sa"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "liboan"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ug sa gatosan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa matag"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "magdudumala"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:27.285237298Z",
+  "model": "glm-5.3"
+}

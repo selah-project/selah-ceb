@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gingtawag sa hari sa Mitsrayim ang mga mangabulong ug giingnan niya sila: Ngano nga inyong gibuhat ⟨ang⟩ butang ⟨kini⟩, ug gipabuhi ninyo ⟨את⟩ ang mga bata?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gingtawag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ang mga mangabulong"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "להן",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "inyong gibuhat"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "ug gipabuhi ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:25.827294866Z",
+  "model": "glm-5.3"
+}

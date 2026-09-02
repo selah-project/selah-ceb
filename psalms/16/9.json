@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Busa nagmaya ang akong kasingkasing ug nag-aliya ang akong kavod (himaya); bisan ang akong unod magapuyo sa ⟨kalig-on⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nagmaya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ug nag-aliya"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang akong kavod (himaya)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kalig-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.645171703Z",
+  "model": "glm-5.3"
+}

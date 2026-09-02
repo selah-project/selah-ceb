@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ako, ania kadi, ang akong pakigsaad ⟨את⟩ kanimo, ug mahimo ka nga amahan sa kadaghan sa mga nasod.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania kadi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kanimo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ug mahimo ka nga"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "amahan sa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:10.758067786Z",
+  "model": "glm-5.3"
+}

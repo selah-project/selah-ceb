@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug si Arpakshad natawan ⟨את⟩ si Shelakh, ug si Shelakh natawan ⟨את⟩ si Eber.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ug si Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ug si Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Eber"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.721967026Z",
+  "model": "glm-5.3"
+}

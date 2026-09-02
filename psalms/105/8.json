@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nahinumdom siya hangtod sa kahangtul sa iyang pakigsaad, sa pulong nga iyang gisugo ngadto sa usa ka libo ka henerasyon.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Nahinumdom siya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtul"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sa iyang pakigsaad"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa pulong"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ngadto sa usa ka libo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ka henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:59.594403876Z",
+  "model": "glm-5.3"
+}

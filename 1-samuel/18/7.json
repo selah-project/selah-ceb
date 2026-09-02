@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug mitubag ang mga babaye nga nagdula ug mitambag sila: Si Shaul nakapatay sa iyang libo, ug si David sa iyang napulo ka libo.",
+  "tokens": [
+    {
+      "surface": "ויתענינה",
+      "gloss": "ug nagtubag"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babaye"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "nga nagdula"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "ug mitambag sila"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nakapatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "sa iyang libo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "sa iyang napulo ka libo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:03.692689092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug sa pagbutang alang kaniya og mga kapitan sa kabbo ug mga kapitan sa kalim-an, ug sa pag-arado sa iyang pag-arado, ug sa pag-ani sa iyang pag-ani, ug sa paghimo sa iyang mga galamiton sa gubat ug sa mga galamiton sa iyang karwahe.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "Ug sa pagbutang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "og mga kapitan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sa kabbo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ug mga kapitan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sa kalim-an"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "ug sa pag-arado"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "sa iyang pag-arado"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "ug sa pag-ani"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "sa iyang pag-ani"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ug sa paghimo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sa iyang mga galamiton"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ug sa mga galamiton"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "sa iyang karwahe"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:21.197663152Z",
+  "model": "glm-5.3"
+}

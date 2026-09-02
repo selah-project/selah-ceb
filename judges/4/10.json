@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gitawag ni Barak ⟨את⟩ si Zevulun ug ⟨את⟩ si Naftali ngadto sa Kedesh, ug misaka siya sa iyang mga tiil ⟨ang⟩ napulo ka libo ka lalaki, ug misaka uban kaniya si Debora.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ug gitawag"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zevulun"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa iyang mga tiil"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka lalaki"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Debora"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:24.642866812Z",
+  "model": "glm-5.3"
+}

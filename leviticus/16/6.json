@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug magahatod si Aharon ⟨את⟩ sa toro nga hatop sa sala nga iya, ug magapanub ​taw​ alang kaniya ug alang sa iyang panimalay.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ug magahatod"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa toro"
+    },
+    {
+      "surface": "פר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hatop sa sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ug magapanub taw"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ug alang"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa iyang panimalay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:59.993260388Z",
+  "model": "glm-5.3"
+}

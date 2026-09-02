@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kini ang bahin sa pagdihog kang Aharon ug ang bahin sa pagdihog sa iyang mga anak, gikan sa mga handog nga paagi sa kalayo ni Yahweh, sa adlaw nga giduol sila ⟨את⟩ sa pag-alagad ingon nga pari kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "bahin sa pagdihog"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kang Aharon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ug bahin sa pagdihog"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "gikan sa mga handog nga paagi sa kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "giduol"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa pag-alagad ingon nga pari"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pag-alagad ingon nga pari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:38.637557251Z",
+  "model": "glm-5.3"
+}

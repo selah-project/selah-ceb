@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sa imong paglakaw dili mamugong ang imong mga lakang, ug kon modagan ka, dili ka matigbak.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "sa imong paglakaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mamugong"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ang imong mga lakang"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "modagan ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili ka"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "matigbak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:17.702066110Z",
+  "model": "glm-5.3"
+}

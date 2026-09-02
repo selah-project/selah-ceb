@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Usa ka awit sa mga pag-angat. Kadaghanan sa higayon gisapi nila ako sukad sa akong pagkabatan-on — moingon karon ⟨kamo⟩ ang Israel:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angat"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "kadaghanan sa higayon"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "gisapi nila ako"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sukad sa akong pagkabatan-on"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karong"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:40.279714030Z",
+  "model": "glm-5.3"
+}

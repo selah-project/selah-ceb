@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug mitungas siya sa mga dalan sa mga hari sa Yisrael, ug naghimo usab siya mga tinunaw nga larawan alang sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mitungas siya"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "mga tinunaw nga larawan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "alang sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:40.500169984Z",
+  "model": "glm-5.3"
+}

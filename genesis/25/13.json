@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug kini ang mga ngalan sa mga anak ni Yishmael, sumala sa ilang mga ngalan, sumala sa ilang kaliwatan: ang panganay ni Yishmael, Nevayot; ug Kedar, ug Adbeel, ug Mivsam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "sumala sa ilang mga ngalan"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "sumala sa ilang kaliwatan"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "ug Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "ug Adbeel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "ug Mivsam"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:25.320770613Z",
+  "model": "glm-5.3"
+}

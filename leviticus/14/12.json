@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug kuhaon sa sacerdote ⟨את⟩ ang usa ka karnero, ug ihalad niya ⟨את⟩ kini ingon nga halad sa sala, ug ⟨את⟩ ang log nga lana, ug iyang iligad-on ⟨את⟩ sila ingon nga wave-offering ⟨atubangan⟩ ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ug kuhaon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa ka karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ug ihalad niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang karnero)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ingon nga halad sa sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang log nga lana"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "nga lana"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ug iligad-on niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang karnero ug ang lana)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ingon nga wave-offering"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨atubangan⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:16.562106945Z",
+  "model": "glm-5.3"
+}

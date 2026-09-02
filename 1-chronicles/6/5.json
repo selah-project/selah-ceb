@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kang Gershom: si Livni iyang anak, si Yachat iyang anak, si Zimma iyang anak.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "kang Gershom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "si Livni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "si Yachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "si Zimma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:52.776994317Z",
+  "model": "glm-5.3"
+}

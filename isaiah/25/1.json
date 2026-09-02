@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Yahweh, Elohim nako ⟨ang⟩ ikaw, itaason ko ikaw, magasaulod ako sa imong ngalan, kay nagbuhat ka ug katingalahan; ⟨mga⟩ tuyo gikan sa kanhiay, pagkamatinud-anon, ⟨o⟩ matinud-anon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "itaason ko ikaw"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "magasaulod ako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nagbuhat ka"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "katingalahan"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "mga tuyo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "gikan sa kanhiay"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "pagkamatinud-anon"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "matinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:19.447332781Z",
+  "model": "glm-5.3"
+}

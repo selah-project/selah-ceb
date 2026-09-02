@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug gidakop nila ⟨את⟩ ang hari, ug gidala nila siya ngadto sa hari sa Bavel, sa Rivlah; ug gisulti nila ⟨את⟩ siya pagatungdanan sa pagtulon-an.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "ug gidakop nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ug gidala nila siya paingon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ngadto sa hari sa Bavel)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "sa Rivlah"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ug gisulti nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban siya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pagatungdanan sa pagtulon-an"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:18.373220522Z",
+  "model": "glm-5.3"
+}

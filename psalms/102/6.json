@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Tungod sa tingog sa akong pagpaninghot, ang akong mga bukot naghigot sa akong unod.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "tungod sa tingog"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "sa akong pagpaninghot"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "naghigot"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akong mga bukot"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "sa akong unod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:48.260267881Z",
+  "model": "glm-5.3"
+}

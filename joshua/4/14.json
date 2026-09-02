@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sa adlawngadtus gipadako ni Yahweh si ⟨את⟩ Yehoshua sa atubangan sa tibouk nga Israel, ug gibati nila siya ug kahadlok, ingon sa ilang pagkahadlok kang ⟨את⟩ Moshe, sa tanan nga adlaw sa iyang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "gipadako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibouk nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ug gibati nila ug kahadlok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Yehoshua)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ilang pagkahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sa iyang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:26.228902337Z",
+  "model": "glm-5.3"
+}

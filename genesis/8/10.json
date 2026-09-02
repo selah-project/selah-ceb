@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug naghulat pa og pito ka adlaw nga lain, ug gidugang niya pagpadala ⟨את⟩ sa salampati gikan sa arka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ug naghulat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga lain"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ug gidugang niya"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pagpadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salampati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "sa salampati"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:21.762925114Z",
+  "model": "glm-5.3"
+}

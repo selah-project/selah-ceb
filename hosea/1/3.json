@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug milakaw siya ug gidala ⟨את⟩ si Gomer nga anak ni Diblayim, ug nagmabdos siya ug natawo siya kaniya ug anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ug milakaw siya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug gidala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "si Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "ni Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ug nagmabdos siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ug natawo siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ug anak nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:06.907116822Z",
+  "model": "glm-5.3"
+}

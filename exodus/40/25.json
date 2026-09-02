@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gipasaka niya ang mga lamparahan atubang ni Yahweh, ingon nga gisugo ni Yahweh ⟨את⟩ ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "gipasaka niya"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ang mga lamparahan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:55.696248264Z",
+  "model": "glm-5.3"
+}

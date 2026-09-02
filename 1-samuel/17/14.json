@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Si David mao ang gigamay; ug ang tulo ka magulang mibalhin pagsunod kang Shaul.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ang gigamay"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ug ang tulo ka"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "magulang"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "mibalhin pagsunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sunod kang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:06.209117529Z",
+  "model": "glm-5.3"
+}

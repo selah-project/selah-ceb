@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 12:40",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug naghunong ang duha ka panon sa pagpasalamat sulod sa balay ni Elohim, ug ako ug katunga sa mga pagtigumanon ⟨kauban nako⟩.",
+  "tokens": [
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ug naghunong"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "התודת",
+      "gloss": "panon sa pagpasalamat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sulod sa balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug katunga"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "sa mga pagtigumanon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kauban nako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:53.620443484Z",
+  "model": "glm-5.3"
+}

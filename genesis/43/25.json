@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ug gipangandam nila ⟨את⟩ ang mga tanyag hangtod nga moabot si Yosef sa udto, kay nadungog nila nga didto sila mokaon ug tinapay.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "gipangandam nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tanyag"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang mga tanyag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "sa udto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nadungog nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mokaon sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ug tinapay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:07.778313530Z",
+  "model": "glm-5.3"
+}

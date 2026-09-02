@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Sa pagbantay sa mga dalan sa pagtukod-hustisya, ug sa dalan sa iyang mga tapat iyang bantayan.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "pagtukod-hustisya"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ug sa dalan"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "iyang mga tapat"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "iya nga bantayan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:48.849322755Z",
+  "model": "glm-5.3"
+}

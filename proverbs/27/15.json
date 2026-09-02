@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ang padayon nga panulo sa adlaw sa dakong ulan, ug ang babayeng puno sa kagubot — magkahitsura sila.",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "panulo"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "sa dakong ulan"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ug ang babayeng"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "puno sa kagubot"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "magkahitsura sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:20.367562472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 8:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gibutang niya ⟨את⟩ ang turban sa ibabaw sa iyang ulo, ug gibutang niya sa ibabaw sa turban, atbang sa iyang nawong, ⟨את⟩ ang bulawanong plato, ang korona sa kabad, sumala sa gisugo ni Yahweh ⟨את⟩ kang Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang turban"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ang turban"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iyang ulo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang nawong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulawanong plato"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "plato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bulawanong"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ang korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa kabad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:28.710165332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 38:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Unsa may ikasulti nako? Kay ⟨siya⟩ ang nagsulti kanako, ug siya mismo ang nagbuhat ⟨ini⟩. Magdalag-dalag ako sa tanan nakong mga tuig tungod sa kapait sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "may ikasulti nako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya mismo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "אדדה",
+      "gloss": "magdalag-dalag ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "nakong mga tuig"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "מר",
+      "gloss": "kapait"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:10.137095418Z",
+  "model": "glm-5.3"
+}

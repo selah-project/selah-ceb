@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Hinaot nga sila mga maalam, nga magasabut sila niini, nga mahibalo sila sa ilahang kataposan!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "hinaot nga"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "mga maalam"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "magasabut"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "sa ilahang kataposan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:35.271787850Z",
+  "model": "glm-5.3"
+}

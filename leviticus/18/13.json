@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kahubasan sa igsoon nga babaye sa imong inahan dili nimo ilantad; kay ⟨siya⟩ unod sa imong inahan.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubasan"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "igsoon nga babaye"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sa imong inahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ilantad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sa imong inahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:34.264422612Z",
+  "model": "glm-5.3"
+}

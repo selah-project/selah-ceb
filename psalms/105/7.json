@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "⟨Siya⟩ mao si Yahweh ang atong Elohim; sa tibuok kalibutan ⟨anaa⟩ ang iyang mga pagtulon-an.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "⟨Siya⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ang iyang mga pagtulon-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:59.594283739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Apan sila ug ang atong mga katigulangan nagpailadalon, ug gipagahi nila ⟨את⟩ ilang liog, ug wala magpatalinghog sa imong mga mando.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "apan sila"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "ug ang atong mga katigulangan"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "nagpailadalon"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "ug gipagahi nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang liog"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ilang liog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "magpatalinghog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imong mga mando"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:15.769107381Z",
+  "model": "glm-5.3"
+}

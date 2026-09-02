@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Nanumpa si Yahweh kang David ⟨sa⟩ kamatuoran, dili niya kini ibalik gikan niini: gikan sa bunga sa imong tiyan magabutang ako ug trono alang kanimo.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "nanumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "gikan niini"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "gikan sa bunga"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "sa imong tiyan"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "magabutang ako"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "ug trono"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:59.434781664Z",
+  "model": "glm-5.3"
+}

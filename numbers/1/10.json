@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Alang sa mga anak ni Yosef: alang kang Efrayim, Elishama nga anak ni Ammihud; alang kang Menashe, Gamliel nga anak ni Pedah-tsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "alang kang Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "alang kang Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedah-tsur"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:45.226566984Z",
+  "model": "glm-5.3"
+}

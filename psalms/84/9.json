@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 84,
+  "translation": "Yahweh Elohim Tsevaot, pagdungog sa akong pag-ampo; itandi ang imong igong pagpatalinghog, Elohim ni Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pagdungog"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sa akong pag-ampo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "itandi ang imong igong pagpatalinghog"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:55.848157442Z",
+  "model": "glm-5.3"
+}

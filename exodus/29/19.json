@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug kuhaon nimo ⟨את⟩ ang ikaduhang nasi, ug butangon ni Aharon ug ang iyang mga anak ⟨את⟩ ang ilang mga kamot sa ibabaw sa ulo sa nasi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ug kuhaon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikaduhang nasi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang nasi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "ug butangon ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ilang mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sa nasi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:20.983124779Z",
+  "model": "glm-5.3"
+}

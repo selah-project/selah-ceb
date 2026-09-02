@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kon ang tagsa ⟨⟨kauban niini⟩⟩, dili siya magbayad; kon swelduhan kini, moabut ⟨kini⟩ uban sa iyang sweldo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "tagsa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "magbayad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "swelduhan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בא",
+      "gloss": "moabut"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "uban sa iyang sweldo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:19.825764553Z",
+  "model": "glm-5.3"
+}

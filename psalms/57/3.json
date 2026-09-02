@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Magatawag ako ngadto kang El Elyon, ngadto kang El nga nagatuman ⟨sa iyang buhat⟩ alang kanako.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngadto kang Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (Labing Hataas)"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ngadto kang El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "nagatuman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "alang kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:49.336609737Z",
+  "model": "glm-5.3"
+}

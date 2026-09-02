@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Ipadala ang imong mga kamot gikan sa kahitas-an; luwasi ako ug luwasa ako gikan sa daghang mga tubig, gikan sa kamot sa mga anak nga taga-lain.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ang imong mga kamot"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "gikan sa kahitas-an"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "luwasi ako"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ug luwasa ako"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "gikan sa mga tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "taga-lain"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.642008076Z",
+  "model": "glm-5.3"
+}

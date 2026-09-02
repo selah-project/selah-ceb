@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Tanang kini ⟨mga⟩ anak ni David, gawas sa mga anak sa mga piling-asawa, ug si Tamar nga ilang igsoon nga babae.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "gawas sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak sa"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "mga piling-asawa"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "ug si Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ilang igsoon nga babae"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:13.084742674Z",
+  "model": "glm-5.3"
+}

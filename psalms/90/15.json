@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Pagpalipya kami sumala sa mga adlaw nga imong gipakasakit kami, ⟨ug⟩ sa mga tuig nga nakit-an nato ang kadaot.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Pagpalipya kami"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "sumala sa mga adlaw"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "nga imong gipakasakit kami"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "sa mga tuig"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nga nakit-an nato"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:09.951156811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug mokultiya ikaw kaniya ug ibutang nimo ⟨את⟩ ang mga pulong sa iyang baba, ug ako, anaa ako uban sa imong baba ug uban sa iyang baba, ug tudloan ko ⟨ang inyong duha⟩ ⟨את⟩ sa bunoa nga inyong buhaton.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Ug mokultiya ikaw"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ug ibutang nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "anaa ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sa imong baba"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug uban"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ug tudloan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong duha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bunoa nga inyong buhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "inyong buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:22.730271172Z",
+  "model": "glm-5.3"
+}

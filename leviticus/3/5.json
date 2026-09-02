@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Usab ⟨את⟩ sunogon sa mga anak ni Aharon ⟨את⟩ sa halaran, ibabaw sa halad nga sinunog, nga anaa sa ibabaw sa kahoy, nga anaa sa ibabaw sa kalayo — halad nga sunog, baho nga kahimasahon alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "Usab sunogon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "halad nga sinunog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga anaa sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga anaa sa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "האש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad nga sunog"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "baho"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "kahimasahon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:48.927716230Z",
+  "model": "glm-5.3"
+}

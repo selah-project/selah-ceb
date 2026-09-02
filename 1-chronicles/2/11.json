@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Nachshon natawo ⟨את⟩ ni Salma, ug si Salma natawo ⟨את⟩ ni Boaz.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Ug si Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ug si Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaz"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:39.525026229Z",
+  "model": "glm-5.3"
+}

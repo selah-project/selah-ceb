@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ako si Yahweh, kana ⟨ang⟩ akong ngalan; ug ang akong himaya sa lain dili ko hatag, ni ang akong pagdayeg sa mga tinagulipad nga diosdios.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "akong ngalan"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ug ang akong himaya"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "sa lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ko hatag"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ni ang akong pagdayeg"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "sa mga tinagulipad nga diosdios"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:24.960910873Z",
+  "model": "glm-5.3"
+}

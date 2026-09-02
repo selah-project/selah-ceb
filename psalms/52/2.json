@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Sa pag-abot ni Doeg nga Edomano, ug gisulti niya ⟨kang⟩ Shaul ug giingon niya kaniya: Miabot si David sa balay ni Aḥimelekh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Sa pag-abot"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "nga Edomano"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisulti niya"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug giingon niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Miabot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ni Aḥimelekh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:37.657606373Z",
+  "model": "glm-5.3"
+}

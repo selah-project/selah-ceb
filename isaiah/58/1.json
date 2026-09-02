@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Sanggit sa tutunlan, ayaw pagbati, ingon sa shofar itaas ang imong tingog, ug ipahibalo ⟨את⟩ sa akong katawhan ang ilang pagpanukmod, ug sa balay ni Yaakov ang ilang mga sala.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Sanggit"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "sa tutunlan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "pagbati"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "ingon sa shofar"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "itaas"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ang imong tingog"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "ug ipahibalo"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ang ilang pagpanukmod"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ug sa balay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ang ilang mga sala"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:54.478737076Z",
+  "model": "glm-5.3"
+}

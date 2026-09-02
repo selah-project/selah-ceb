@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Mga gingharian sa yuta, pag-awit kamo kang Elohim; pag-zamer kamo kang Adonay. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pag-zamer kamo (pagtukar ug panumduman)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kang Adonay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.897380547Z",
+  "model": "glm-5.3"
+}

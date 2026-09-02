@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gihimo niya ⟨את⟩ ang mga kagamitan ⟨nga⟩ anaa sa ibabaw sa lamesa: ⟨את⟩ ang mga plato niini, ug ⟨את⟩ ang mga kutsara niini, ug ⟨את⟩ ang mga mangko niini, ug ⟨את⟩ ang mga sudlanan nga ibubad kaniini — bulawan nga hinloan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kagamitan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ang mga kagamitan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga plato niini"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "ang mga plato niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kutsara niini"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "ang mga kutsara niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga mangko niini"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "ang mga mangko niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga sudlanan"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "ang mga sudlanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "ibubad"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kaniini"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga hinloan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:45.642722329Z",
+  "model": "glm-5.3"
+}

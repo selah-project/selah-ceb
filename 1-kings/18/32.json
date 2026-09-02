@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gitukod niya ⟨את⟩ ang mga bato ingon nga halaran sa ngalan ni Yahweh, ug naghimo siya ug kanal dapit sa kadako sa balay sa duha ka sáa ug liso, palibot sa halaran.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "ug gitukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug naghimo siya ug"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "dapit sa kadako sa balay sa"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "duha ka sáa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ug liso"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:09.212650566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Pagpanalangin kamo kang Yahweh, tanan ninyong ⟨mga⟩ buhat niya, sa tanan ⟨mga⟩ dapit sa iyang paghari; pagpanalangin ikaw, akong kalag, ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pagpanalangin kamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "buhat niya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "mga dapit"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "sa iyang paghari"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "pagpanalangin ikaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:51.106233292Z",
+  "model": "glm-5.3"
+}

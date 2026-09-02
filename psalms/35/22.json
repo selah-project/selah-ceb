@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Nakita mo ⟨kini⟩, Yahweh — ayaw paghilum, Adonay, ayaw pagpalayo kanako.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "nakita mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "paghilum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "pagpalayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:20.624263756Z",
+  "model": "glm-5.3"
+}

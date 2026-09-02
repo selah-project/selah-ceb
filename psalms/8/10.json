@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Yahweh, Adonay namo, unsa ka mahimayaon ang imong ngalan sa tibuok yuta!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay namo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahimayaon"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:22.812598150Z",
+  "model": "glm-5.3"
+}

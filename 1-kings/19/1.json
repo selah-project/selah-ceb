@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Gisugilon ni Ahab kang Izebel ⟨את⟩ tanan nga gibuhat ni Eliyahu, ug ⟨את⟩ tanan nga iyang gipatay — ⟨את⟩ tanan ⟨nga⟩ mga propeta — pinaagi sa espada.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "gisugilon"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "kang Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gipatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "mga propeta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pinaagi sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:56.602292479Z",
+  "model": "glm-5.3"
+}

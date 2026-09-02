@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug ihatag ⟨kaniya⟩ kanimo ⟨את⟩ ang panalangin ni Avraham — kanimo ug sa imong kaliwat nga uban ⟨את⟩ kanimo — aron imong panagiyahan ⟨את⟩ ang yuta sa imong pagpanglangyaw, nga gihatag ni Elohim kang Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panalangin ni Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ang panalangin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ug sa imong kaliwat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ uban kanimo"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "aron imong panagiyahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa imong pagpanglangyaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "sa imong pagpanglangyaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kang Avraham"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:12.542491376Z",
+  "model": "glm-5.3"
+}

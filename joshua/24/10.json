@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug wala ako modawat sa pagpatalinghog kang Bilam, ug siya nagpanalangin ⟨את⟩ kaninyo, ug ako nagluwas ⟨את⟩ kaninyo gikan sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "ako modawat"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpatalinghog"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "kang Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug siya nagpanalangin"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "nagpanalangin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ug ako nagluwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "gikan sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:01.922998674Z",
+  "model": "glm-5.3"
+}

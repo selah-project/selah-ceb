@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Kay kadtong nangatipon niini magakaon niini ug magadayeg kang Yahweh ⟨את⟩, ug kadtong nakatipon niini magainom niini sa mga atupan sa akong balaan ⟨nga lugar⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "kadtong nangatipon niini"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "magakaon niini"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ug magadayeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ug kadtong nakatipon niini"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "magainom niini"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga atupan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akong balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:15.111440956Z",
+  "model": "glm-5.3"
+}

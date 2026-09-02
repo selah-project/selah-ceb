@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug kon babayi ⟨siya⟩ ⟨mangadayon⟩ ang imong pagtagad katloan ka shekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "babayi"
+    },
+    {
+      "surface": "homo",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨mangadayon⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ang imong pagtagad"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ka shekel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:33.433745648Z",
+  "model": "glm-5.3"
+}

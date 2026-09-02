@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang hari sa Aram nakiggubat batok sa Israel, ug nagtambag siya sa iyang mga sulogoon nga mag-ingon: Sa ⟨usa⟩ ⟨ka⟩ dapit nga ingon niana ug ingon niana ang akong kampo.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ug ang hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨kanunay⟩ nagkadto"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok sa Israel"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ug nagtambag siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iyang mga sulogoon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga mag-ingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "nga ingon niana"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "ug ingon niana"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ang akong kampo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:48.007583287Z",
+  "model": "glm-5.3"
+}

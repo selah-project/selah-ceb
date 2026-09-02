@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang imong mga mata magtan-aw ⟨sa⟩ atubang, ug ang imong mga kiyak sa mata mopahimos ⟨ngadto sa⟩ atubang nimo.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "imong mga mata"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "magtan-aw"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "ug ang imong mga kiyak sa mata"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "mopahimos"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "atubang nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:09.381427549Z",
+  "model": "glm-5.3"
+}

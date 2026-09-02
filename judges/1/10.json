@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mibalhin si Yehudah batok sa Kanaaninhon nga nagpuyo sa Khevron — ug ang ngalan sa Khevron sauna mao ang Kiryat-Arba — ug gislag nila ⟨את⟩ si Sheshai, ⟨את⟩ si Akhiman, ug ⟨את⟩ si Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ug mibalhin si"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaaninhon"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nga nagpuyo sa"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan sa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sauna"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ug gislag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "si Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "si Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "si Talmai"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:52.869306857Z",
+  "model": "glm-5.3"
+}

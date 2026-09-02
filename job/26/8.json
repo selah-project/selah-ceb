@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Naghipos siya sa tubig sulod sa iyang mga panganod, ug ang panganod dili mabuka ilalom niini.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "naghipos siya sa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "sulod sa iyang mga panganod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "mabuka"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ang panganod"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "ilalom niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:44.364333859Z",
+  "model": "glm-5.3"
+}

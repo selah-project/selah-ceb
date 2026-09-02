@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Sa tuig sa kining Yovel ⟨kini⟩, ang matag usa kaninyo mobalik ngadto sa iyang kapanhungan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig sa"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Yovel"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kning"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "mobalik kamo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "iyang kapanhungan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:19.428413304Z",
+  "model": "glm-5.3"
+}

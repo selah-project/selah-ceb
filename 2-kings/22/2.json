@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug gibuhat niya ang matarong ⟨sa⟩ mga mata ni Yahweh, ug naglakaw siya sa tanan nga dalan ni David iyang amahan, ug wala siya motalikod — tuo o wala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug naglakaw siya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "סר",
+      "gloss": "motalikod"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "o wala"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:32.341995487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Sa ibabaw sa mga kahitas-an, atbang sa dalan, taliwala sa mga agianan ⟨siya⟩ nanindog",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "Sa ibabaw"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "sa mga kahitas-an"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "mga agianan"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "⟨siya⟩ nanindog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:27.407936393Z",
+  "model": "glm-5.3"
+}

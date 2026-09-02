@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ibutang nimo sa ⟨ang⟩ lamesa ang tinapay ⟨sa⟩ dagway ⟨atubangan⟩ sa akong nawong, nga walay katapusan.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ug ibutang nimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨ang⟩ lamesa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "dagway"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay katapusan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:57.069088193Z",
+  "model": "glm-5.3"
+}

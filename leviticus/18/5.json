@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug magbantay kamo sa ⟨את⟩ akong mga hut-ong balaod ug sa ⟨את⟩ akong mga mando, nga buhaton sa ⟨את⟩ tawo ug mabuhi tungod niini; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "magbantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong mga hut-ong balaod"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "akong mga hut-ong balaod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akong mga mando"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "akong mga mando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ug mabuhi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tungod niini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:51.015129754Z",
+  "model": "glm-5.3"
+}

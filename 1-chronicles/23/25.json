@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kay si David nag-ingon: Gipahulay ni Yahweh, ang Elohim ni Yisrael, ⟨ang⟩ iyang katawhan, ug ⟨siya⟩ nagpuyo ⟨sa⟩ Yerushalayim hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "gipahulay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "iyang katawhan"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ug nagpuyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "⟨sa⟩ Yerushalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:31.857462480Z",
+  "model": "glm-5.3"
+}

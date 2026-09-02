@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Luwasa ako gikan sa baba sa leon, ug gikan sa mga sungay sa mga baka nga ihalas ⟨imong gitubag ako⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Luwasa ako"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "gikan sa baba"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sa leon"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "ug gikan sa mga sungay"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "sa mga baka nga ihalas"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "⟨imong gitubag ako⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:14.487377555Z",
+  "model": "glm-5.3"
+}

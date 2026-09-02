@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Ipaguhit sila sa gilit sa espada; mahimong bahin sila sa ⟨mga⟩ iro.",
+  "tokens": [
+    {
+      "surface": "יגיתרהו",
+      "gloss": "ipaguhit sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "gilit"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "mga iro"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:15.792387895Z",
+  "model": "glm-5.3"
+}

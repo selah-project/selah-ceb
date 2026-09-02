@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Yahweh magasuporta kaniya sa higaan nga sakit; ang tibuok niyang higdaanan imong gibalikbalik sa iyang sakit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "magasuporta kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "nga sakit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "niyang higdaanan"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "imong gibalikbalik"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "sa iyang sakit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:09.713859645Z",
+  "model": "glm-5.3"
+}

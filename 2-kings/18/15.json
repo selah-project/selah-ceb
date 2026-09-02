@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gihatag ni Hizkiyah ⟨את⟩ ang tanan nga salapi nga nakaplagan sa balay ni Yahweh ug sa mga bartolina sa balay sa hari.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag ni Hizkiyah"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "si Hizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga salapi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga nakaplagan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ug sa mga bartolina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:39.343183123Z",
+  "model": "glm-5.3"
+}

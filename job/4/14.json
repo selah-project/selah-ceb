@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 4:14",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang kahadlok nakigsugat kanako, ug ang pagkurog, ug ang kadaghan sa akong mga bukog napahadlok.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ang kahadlok"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "nakigsugat kanako"
+    },
+    {
+      "surface": "ורעדה",
+      "gloss": "ug ang pagkurog"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ug ang kadaghan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "akong mga bukog"
+    },
+    {
+      "surface": "הפחיד",
+      "gloss": "napahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:59.916184407Z",
+  "model": "glm-5.3"
+}

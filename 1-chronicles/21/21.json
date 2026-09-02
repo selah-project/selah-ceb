@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug miabot si David hangtod kang Ornan, ug mitan-aw si Ornan ug nakakita ⟨את⟩ kang David, ug migawas siya gikan sa ⟨ang⟩ giikanan ug nagpatiruhod kang David, nawong ⟨ngadto⟩ sa yuta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "kang Ornan"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "mitan-aw"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "si Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "migawas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "giikanan"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nagpatiruhod"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:50.743137372Z",
+  "model": "glm-5.3"
+}

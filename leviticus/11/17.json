@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ⟨את⟩ ang kos ⟨ang gamay nga bukaw⟩, ug ⟨את⟩ ang shalakh, ug ⟨את⟩ ang yanshuf ⟨ang dako nga bukaw⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ang kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ang shalakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ang yanshuf"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:29.065817189Z",
+  "model": "glm-5.3"
+}

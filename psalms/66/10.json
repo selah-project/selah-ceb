@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Kay gisulayan Mo kami, O Elohim; gipadilain Mo kami ingon sa pagpadilain sa pilak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "gisulayan Mo kami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "gipadilain Mo kami"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "ingon sa pagpadilain"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sa pilak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:12.315194542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 25:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ipapasa ninyo ang shofar sa pagbughaw sa ikapitong bulan, sa ikadose sa bulan, sa adlaw sa mga kipurim ipapasa ninyo ang shofar sa tibuok ninyong yuta.",
+  "tokens": [
+    {
+      "surface": "והעברת",
+      "gloss": "ipapasa ninyo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "sa pagbughaw"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa ikapitong bulan"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "sa ikadose"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "sa mga kipurim"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "ipapasa ninyo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ang shofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ninyong yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:29.214330827Z",
+  "model": "glm-5.3"
+}

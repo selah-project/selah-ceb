@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Kanako, O Elohim, ⟨ang⟩ imong mga panumpa; ituman ko ⟨ang⟩ mga pagpasalamat ngadto kanimo.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "imong mga panumpa"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ituman ko"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "mga pagpasalamat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngadto kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.692268693Z",
+  "model": "glm-5.3"
+}

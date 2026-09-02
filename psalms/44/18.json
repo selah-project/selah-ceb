@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ang tanan niini miabot kanamo, ug wala ka namo kalimti, ug wala kami mamintaha sa imong pakigsaad.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "miabot kanamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "ka namo kalimti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "kami mamintaha"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "sa imong pakigsaad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:44.651569185Z",
+  "model": "glm-5.3"
+}

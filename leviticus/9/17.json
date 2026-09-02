@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug giduol niya ⟨את⟩ ang minchah (halad nga lugas), ug gipunô ang iyang palad niini, ug gisunog niya kini sa ibabaw sa ⟨ang⟩ halaran, gawas pa sa holokausto sa kabuntagon.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "giduol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang minchah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ug gipunô"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ang iyang palad"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ug gisunog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "gawas pa sa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "holokausto"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa kabuntagon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:12.445084458Z",
+  "model": "glm-5.3"
+}

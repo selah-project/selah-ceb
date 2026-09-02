@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug inyong binhi ug inyong mga kaparangan sa ubas iyang ipatakos ⟨sa napulo ka bahin⟩, ug ihatag ngadto sa iyang mga opisyal ug sa iyang mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "inyong binhi"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "ug inyong mga kaparangan sa ubas"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ipatakos"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "sa iyang mga opisyal"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ug sa iyang mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:05.198255375Z",
+  "model": "glm-5.3"
+}

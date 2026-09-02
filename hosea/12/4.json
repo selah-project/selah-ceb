@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa tiyan gihaklidan ⟨niya⟩ ⟨את⟩ ang iyang igsoon, ug sa iyang kusog nakigbisag siya ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "sa tiyan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "gihaklidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang iyang igsoon"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ug sa iyang kusog"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "nakigbisag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:17.408754916Z",
+  "model": "glm-5.3"
+}

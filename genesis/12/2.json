@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug buhaton nako ikaw nga dakong nasod, ug pagbulahan nako ikaw, ug padak-on nako ang imong ngalan, ug ⟨ikaw⟩ mahimong panalangin.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Ug buhaton nako ikaw"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "nga nasod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ug pagbulahan nako ikaw"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ug padak-on nako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "panalangin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:48.307902010Z",
+  "model": "glm-5.3"
+}

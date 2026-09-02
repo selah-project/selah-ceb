@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gisakripisyohan nila ⟨את⟩ ilang mga anak nga lalaki ug ⟨את⟩ ilang mga anak nga babayi ngadto sa mga shedim (mga demonyo).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "gisakripisyohan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga anak nga lalaki"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilang mga anak nga lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ilang mga anak nga babayi"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ilang mga anak nga babayi"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ngadto sa mga shedim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:13.458435284Z",
+  "model": "glm-5.3"
+}

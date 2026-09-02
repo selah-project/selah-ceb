@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Dili ka makhadlok sa katalagman sa gabii, ni sa dayap nga molupad adlaw;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ka makhadlok"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "sa katalagman"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ni sa dayap"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "nga molupad"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.010540856Z",
+  "model": "glm-5.3"
+}

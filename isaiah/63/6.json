@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Ug manapyas ako sa mga nasod sa akong kasuko, ug palanguon ko sila sa akong kaligutgut, ug ipaubos ko ngadto sa yuta ang ilang dugo ⟨nga sama sa katas sa ubas⟩.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "ug manapyas ako"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "sa akong kasuko"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "ug palanguon ko sila"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "sa akong kaligutgut"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "ug ipaubos ko"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ang ilang dugo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:05.718453651Z",
+  "model": "glm-5.3"
+}

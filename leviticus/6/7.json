@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug kini mao ang balaod sa mincha: ihaulad ⟨את⟩ kini ang mga anak ni Aharon atubangan ni Yahweh, sa atubangan sa halaran.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "mao ang balaod"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sa mincha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ihaulad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang mincha)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:47.155089725Z",
+  "model": "glm-5.3"
+}

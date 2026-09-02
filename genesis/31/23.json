@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 31:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug gikuha niya ⟨את⟩ ang iyang mga igsoon kauban niya, ug misunod siya kaniya sa agianan sa pito ka adlaw, ug nakaabot siya kaniya ⟨את⟩ sa bukid sa Gilead.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang iyang mga igsoon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "misunod"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa agianan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וידבק",
+      "gloss": "nakaabot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "sa Gilead"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:47.288807338Z",
+  "model": "glm-5.3"
+}

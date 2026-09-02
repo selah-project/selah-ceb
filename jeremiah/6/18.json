@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Busa, mga nasod, pagpaminaw kamo, ug ikaw, katilingban, nahibalo sa ⟨mahitabo⟩ ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pagpaminaw kamo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "ug ikaw nahibalo"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mahitabo kanila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨mahitabo⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T21:15:48.421753295Z",
+  "model": "glm-5.3"
+}

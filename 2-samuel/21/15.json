@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nausab adunay gubat sa mga Pelisti ⟨את⟩ Yisrael, ug milugsong si David uban sa iyang mga sulugoon, ug nakig-away sila ⟨את⟩ sa mga Pelisti, ug nangawa si David.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ug nausab adunay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nausab"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "sa mga Pelisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "milugsong"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "uban sa iyang mga sulugoon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nakig-away sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga Pelisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelisti"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "nangawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:40.366450428Z",
+  "model": "glm-5.3"
+}

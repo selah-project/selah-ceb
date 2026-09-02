@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang inyong mga carnero usab, ang inyong mga baka usab, dad-a kamo, sumala sa inyong gisulti, ug lakaw kamo; ug panalanginan ninyo usab ⟨את⟩ ako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "Ang inyong mga carnero"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ang inyong mga baka"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "dad-a kamo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "inyong gisulti"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ug lakaw kamo"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ug panalanginan ninyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:12.352166715Z",
+  "model": "glm-5.3"
+}

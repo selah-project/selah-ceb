@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug natawo niya kaniya ⟨את⟩ si Zimran ug ⟨את⟩ si Yokshan ug ⟨את⟩ si Medan ug ⟨את⟩ si Midiyan ug ⟨את⟩ si Yishbak ug ⟨את⟩ si Shuach.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "natawo niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "si Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "si Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "si Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Midiyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "si Midiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "si Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Shuach"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "si Shuach"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:43.787539175Z",
+  "model": "glm-5.3"
+}

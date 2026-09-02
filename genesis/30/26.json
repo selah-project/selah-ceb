@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ihatag ⟨ang⟩ ⟨את⟩ ang akong mga asawa ug ⟨את⟩ ang akong mga anak, diin nakasilbi ko kanimo pinaagi niini, ug moadto ko; kay ikaw nakasayod ⟨sa⟩ ⟨את⟩ ang akong pag-alagad diin gialagaran ko kanimo.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga asawa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ang akong mga asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga anak"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "ang akong mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "nakasilbi ko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "pira nila"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ug moadto ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakasayod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong pag-alagad"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ang akong pag-alagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "gialagaran ko kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:15.921264587Z",
+  "model": "glm-5.3"
+}

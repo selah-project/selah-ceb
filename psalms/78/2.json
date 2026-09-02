@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ablihan ko ang akong baba sa mga sambingay; ibuga ko ang mga tinago-sulud sukad sa karaang panahon.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ablihan ko"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "sa mga sambingay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ibuga ko"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "ang mga tinago-sulud"
+    },
+    {
+      "surface": "מני",
+      "gloss": "sukad sa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "karaang panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:09.024175456Z",
+  "model": "glm-5.3"
+}

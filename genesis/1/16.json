@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gibuhat ni Elohim ⟨את⟩ ang duha ka dagkong mga suga, ⟨את⟩ ang dako nga suga alang sa pagmando sa adlaw, ug ⟨את⟩ ang gagmay nga suga alang sa pagmando sa gabi, ug ⟨את⟩ ang mga bitoon.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka dagkong mga suga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ka mga suga"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "dagko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dako nga suga"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "suga"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "alang sa pagmando sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang gagmay nga suga"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "suga"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "gagmay"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "alang sa pagmando sa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bitoon"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "mga bitoon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:06.788899382Z",
+  "model": "glm-5.3"
+}

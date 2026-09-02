@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Ngano man nga ⟨im⟩ pula ang imong bestida, ug ang imong mga sinina ingon sa nagdol-og sa pungsod sa bino?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Ngano man"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "ang imong bestida"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "ug ang imong mga sinina"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "ingon sa nagdol-og"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "sa pungsod sa bino"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:55.929469089Z",
+  "model": "glm-5.3"
+}

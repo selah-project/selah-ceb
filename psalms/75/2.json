@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Nagapasalamaton kita kanimo, Elohim, nagapasalamaton kita, kay duol ang imong ngalan; gisugilon ang imong mga katingalahan.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "nagapasalamaton kita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "nagapasalamaton kita"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "duol"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "gisugilon"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ang imong mga katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.222587514Z",
+  "model": "glm-5.3"
+}

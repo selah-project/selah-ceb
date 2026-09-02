@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Magpanalangin kamo, mga katawhan, sa atong Elohim, ug pagpahibalo sa tingog sa iyang pagdayeg.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Magpanalangin kamo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ug pagpahibalo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa iyang pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:44.828895478Z",
+  "model": "glm-5.3"
+}

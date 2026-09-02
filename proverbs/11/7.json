@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Sa pagkamatay sa tawong dautan, magaawit ang paglaom; ug ang pagpanaw sa mga tigkamot nadaot na.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "Sa pagkamatay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "magaawit"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ang paglaom"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ug ang pagpanaw"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "sa mga tigkamot"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "nadaot na"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:03.720298559Z",
+  "model": "glm-5.3"
+}

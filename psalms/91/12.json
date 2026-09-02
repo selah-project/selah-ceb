@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Ibuklon ka nila sa ilang mga palad, aron dili ka matigbak ang imong tiil sa bato.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mga palad"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ibuklon ka nila"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "matigbak"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ang imong tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.508621821Z",
+  "model": "glm-5.3"
+}

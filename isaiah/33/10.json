@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Karon mobangon ako, matod ni Yahweh; karon magataas ako, karon magabangon ako.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mobangon ako"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "magataas ako"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "magabangon ako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:17.915171925Z",
+  "model": "glm-5.3"
+}

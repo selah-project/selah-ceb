@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Si Etser ang pangulo, si Ovadyah ang ikaduha, si Eliav ang ikatulo.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Etser"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliav"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ang ikatulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:28.329556902Z",
+  "model": "glm-5.3"
+}

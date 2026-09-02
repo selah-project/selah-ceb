@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Sa pagpahibalo sa ngalan ni Yahweh sa Tsiyon, ug sa iyang pagdayeg sa Yerushalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "sa pagpahibalo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ug sa iyang pagdayeg"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:53.944476680Z",
+  "model": "glm-5.3"
+}

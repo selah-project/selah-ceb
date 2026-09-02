@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Apan sa mga anak ni Kehat wala siya ⟨mohatod⟩ ⟨ug⟩ wagong ug baka, kay ang pag-alagad sa balaang mga butang anaa ⟨kanila⟩ — sa abaga nila kini gibuksan.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "apan sa mga anak ni"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "siya mohatod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ang pag-alagad"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaang mga butang"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "anaa kanila"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "sa abaga"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "gibuksan nila kini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:58.343161482Z",
+  "model": "glm-5.3"
+}

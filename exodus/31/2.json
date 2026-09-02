@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Tan-awa, gitawag nako pinaagi sa ngalan si Betsalel, nga anak ni Uri, nga anak ni Khur, sa tribo ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gitawag nako"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "paagi sa ngalan"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "si Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ni Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ni Khur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:24.379421444Z",
+  "model": "glm-5.3"
+}

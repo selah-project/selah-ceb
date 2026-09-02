@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kon maayo ang imong buhaton, dili ba ⟨kamatngoran⟩ ⟨nga mabatonan⟩? Ug kon dili ka magbuhat ug maayo, didto sa pultahan ang sala nga nagtuyok-naglingkod; ug ngadto kanimo ang iyang pangandoy, apan ikaw ang magagahum kaniya.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "magbuhat ug maayo"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "⟨kamatngoran⟩"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "magbuhat ug maayo"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pultahan"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "nagtuyok-naglingkod"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "iyang pangandoy"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "apan ikaw"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "magagahum"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:17.969168943Z",
+  "model": "glm-5.3"
+}

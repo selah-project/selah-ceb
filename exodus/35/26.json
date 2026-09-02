@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 35:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ang tanan ⟨nga⟩ mga babaye nga ang kasingkasing naghatag kanila ⟨sa⟩ kaalam naghimis ⟨את⟩ sa balahibong kanding.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "mga babaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "אתנה",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "kanila (mga babaye)"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "naghimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balahibong kanding"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "balahibong kanding"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:15.634530303Z",
+  "model": "glm-5.3"
+}

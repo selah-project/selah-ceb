@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Dayagon ko ang ngalan ni Elohim pinaagi sa awit, ug dadak-on ko siya pinaagi sa pagpasalamat.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Dayagon ko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "angan ngalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "paagi sa awit"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ug dadak-on ko siya"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "paagi sa pagpasalamat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:45.765612286Z",
+  "model": "glm-5.3"
+}

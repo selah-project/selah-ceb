@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug ako nag-ingon sa akong kahusay: dili gayod ako mahilog, hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ug ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "sa akong kahusay"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mahilog"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:54.423495628Z",
+  "model": "glm-5.3"
+}

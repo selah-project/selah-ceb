@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Pagamaohi si Tsiyon sumala sa imong kaluyangan ⟨את⟩; ipatindog ang mga paril sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Pagamaohi"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "sumala sa imong kaluyangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "si Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ipatindog"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mga paril"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:53.926937278Z",
+  "model": "glm-5.3"
+}

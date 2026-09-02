@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug gipahimutang niya ⟨את⟩ iyang bangkay sa iyang lubnganan, ug nagbangutan sila mahitungod kaniya: Hoi, akong igsoon!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "gipahimutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang bangkay"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "iyang bangkay"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "sa iyang lubnganan"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "nagbangutan sila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mahitungod kaniya"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "akong igsoon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:00.390547329Z",
+  "model": "glm-5.3"
+}

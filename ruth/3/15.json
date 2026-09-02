@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 3:15",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon siya: Ihatag ang kolumpo nga anaa kanimo, ug kupti kini; ug gikuptan niya kini, ug gimolmol niya ang unom ka takal sa sebada ug gibutang niya kini kanimo — ug misulod siya ngadto sa ⟨siyudad⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon siya"
+    },
+    {
+      "surface": "הבי",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "המטפחת",
+      "gloss": "ang kolumpo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anaa kanimo"
+    },
+    {
+      "surface": "ואחזי",
+      "gloss": "ug kupti"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ותאחז",
+      "gloss": "gikuptan niya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "gimolmol niya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom ka"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "takal sa sebada"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug misulod siya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ngadto sa siyudad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:55.781180704Z",
+  "model": "glm-5.3"
+}

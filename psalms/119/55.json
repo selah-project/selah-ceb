@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nahinumdom ako sa gabii sa imong ngalan, Yahweh, ug gitipigan ko ang imong Torah.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "nahinumdom ako"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ug gitipigan ko"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang imong Torah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:28.779704911Z",
+  "model": "glm-5.3"
+}

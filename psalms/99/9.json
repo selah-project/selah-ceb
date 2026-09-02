@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Iyang-angat kamo si Yahweh nga among Elohim, ug magpakiloob kamo sa ⟨ang⟩ bungtod sa iyang kasantusan, kay balaan si Yahweh nga among Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Iyang-angat kamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ug magpakiloob kamo"
+    },
+    {
+      "surface": "להר",
+      "gloss": "sa ⟨ang⟩ bungtod"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang kasantusan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:42.404776065Z",
+  "model": "glm-5.3"
+}

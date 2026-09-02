@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug nakita ni Haman nga wala magpailalom ni maggike si Mordecai kaniya, ug napuno si Haman sa kainit sa kalogdugo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ug nakita"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordecai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "magpailalom (paglutik sa tuhod)"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "ni maggike"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ug napuno"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "sa kainit sa kalogdugo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:28.348640493Z",
+  "model": "glm-5.3"
+}

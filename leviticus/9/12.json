@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gihimran niya ⟨את⟩ ⟨ang⟩ halad nga sinunog, ug gidad-an sa mga anak ni Aharon kaniya ⟨את⟩ ⟨ang⟩ dugo, ug giwispahay niini kini sa hiltapas sa halaran, sa palibot.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "gihimran niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halad nga sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "halad nga sinunog"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "gidad-an sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "giwispahay niini kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa hiltapas sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:42.888380808Z",
+  "model": "glm-5.3"
+}

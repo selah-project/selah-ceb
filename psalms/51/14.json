@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Iuli kanako ang kalipay sa kaluwas mo, ug usa ka matinagiyahanon nga espiritu magapalig-on kanako.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "iuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ang kalipay"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "sa kaluwas mo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug espiritu"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "matinagiyahanon"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "magapalig-on kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.191007642Z",
+  "model": "glm-5.3"
+}

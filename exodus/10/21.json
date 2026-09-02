@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug si Yahweh miingon kang Moshe: Iunat ang imong kamot ngadto sa ⟨mga⟩ langit, ug mahimong kangitngit ang ⟨mga⟩ bahin sa yuta sa Mitsrayim, ug madutlan ang kangitngit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Iunat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ⟨mga⟩ bahin sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "ug madutlan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangitngit"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:05.021532288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kay bisan pa sila magpadako ⟨את⟩ sa ilang mga anak, pagpahimuslan ko sila sa pagkawala sa tawo; kay kaguol usab alang kanila sa akong pagbiya kanila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "bisan pa"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "magpadako sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sa ilang mga anak"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "pagpahimuslan ko sila sa pagkawala"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "kaguol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "sa akong pagbiya"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:34.099565858Z",
+  "model": "glm-5.3"
+}

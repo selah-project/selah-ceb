@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Busa gipadala si Yahweh Elohim siya paggawas sa tanaman sa Eden, sa pag-atiman ⟨את⟩ sa yutang gintubuan, diin siya gikuha didto.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "gipadala niya siya paggawas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-atiman (pagbuklad)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yutang gintubuan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yutang gintubuan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "didto (gikan didto)"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:59.499631321Z",
+  "model": "glm-5.3"
+}

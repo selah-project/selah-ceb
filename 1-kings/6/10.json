@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Gipatindog niya ⟨את⟩ ang side-structure ngadto sa tibuok nga balay, lima ka siko ang gitas-on niini; ug gipilit niya ⟨את⟩ ang balay pinaagi sa kahoy nga sedro.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gipatindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang side-structure"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "ang side-structure"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ang gitas-on niini"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ug gipilit niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "paagi sa kahoy"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedro"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:21.909168070Z",
+  "model": "glm-5.3"
+}

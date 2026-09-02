@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug mitubag ang hari ⟨את⟩ sa katawhan nga makahahadlok, ug gitipas niya ⟨את⟩ ang tambag sa mga tigulang nga gihatag kanila kaniya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nga makahahadlok"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ug gitipas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambag"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ang tambag"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gihatag kanila kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:54.706754112Z",
+  "model": "glm-5.3"
+}

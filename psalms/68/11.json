@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ang imong mga buhi nagpuyo niini; imong gipangandam, sa imong kaayo, alang sa kabus, O Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ang imong mga buhi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "imong gipangandam"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "sa imong kaayo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "alang sa kabus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:10.853654192Z",
+  "model": "glm-5.3"
+}

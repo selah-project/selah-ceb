@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Wala mawala ang haligi sa panganod adlaw, ug ang haligi sa kalayo gabii, ⟨gikan⟩ sa atubangan sa katawhan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "mawala"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sa panganod"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ug haligi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabii"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:21.025088162Z",
+  "model": "glm-5.3"
+}

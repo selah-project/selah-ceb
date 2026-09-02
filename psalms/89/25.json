@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ug ang akong pagkamatinud-anon ug ang akong hesed ⟨magmaa⟩ uban kaniya, ug sa akong ngalan itaas ang iyang sungay.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "ang akong pagkamatinud-anon"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "ug ang akong hesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "ug sa akong ngalan"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "itaas"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ang iyang sungay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:28.802927684Z",
+  "model": "glm-5.3"
+}

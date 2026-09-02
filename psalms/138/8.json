@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Si Yahweh magatuman ⟨ang iyang buhat⟩ alang kanako; Yahweh, ang imong hesed hangtod sa kahangtura; ang mga buhat sa imong mga kamot ayaw pagbayaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "magatuman"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imong hesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtura"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang mga buhat sa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sa imong mga kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "pagbayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:29.216529559Z",
+  "model": "glm-5.3"
+}

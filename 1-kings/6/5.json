@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gitukod niya sa bongto sa balay ang usa ka higdaanan palibot, ⟨את⟩ mga bongto sa balay palibot, alang sa Heikhal (ang templo) ug alang sa Debir (ang sulod nga balaan); ug gihimo niya mgalawom nga agianan sa kilid palibot.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gitukod niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa bongto"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "bongto"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "higdaanan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bongto sa balay"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "mga bongto"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "alang sa Heikhal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "ug alang sa Debir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "agianan sa kilid"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:17.968611442Z",
+  "model": "glm-5.3"
+}

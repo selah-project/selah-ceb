@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ayaw paglayo kanako, kay haduol na ang kagul-anan, kay walay manabang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "paglayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kagul-anan"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "haduol na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "manabang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:06.123835224Z",
+  "model": "glm-5.3"
+}

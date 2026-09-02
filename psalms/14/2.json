@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Si Yahweh gikan sa mga langit nangayo-ayo sa ibabaw sa mga anak ni Adam, sa pagtan-aw kon aduna bay matinud-anon nga nangita ⟨את⟩ kang Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nangayo-ayo sa ibabaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kon aduna bay"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "nga nangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:14.443521084Z",
+  "model": "glm-5.3"
+}

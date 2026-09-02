@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Nagapaangat siya ug mga alimpatakan gikan sa kinatumyan sa yuta, naghimo ug mga kilat alang sa ulan, nagagula ug hangin gikan sa iyang mga kamalig.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "nagapaangat"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mga alimpatakan"
+    },
+    {
+      "surface": "mקצה",
+      "gloss": "gikan sa kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mga kilat"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "alang sa ulan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "nagagula"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "gikan sa iyang mga kamalig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:23.154222146Z",
+  "model": "glm-5.3"
+}

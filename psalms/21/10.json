@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ibutang nimo sila ingon nga hurnong nagadagway sa kalayo ⟨sa panahon⟩ sa imong pagpakita, Yahweh; sa iyang kaligutgut tuluon niya sila, ug kaonon sila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Ibutang nimo sila"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ingon nga hurno"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong pagpakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa iyang kaligutgut"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "tuluon niya sila"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ug kaonon sila"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.880637983Z",
+  "model": "glm-5.3"
+}

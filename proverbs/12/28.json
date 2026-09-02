@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa dalan sa pagkamatarong ⟨adia⟩ ang kinabuhi, ug sa tad-an nga agianan ⟨wala⟩ ang kamatayon.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ang kinabuhi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ug sa tad-an"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "nga agianan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨wala⟩ (panalang)"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ang kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:23.533765665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Daghan ang nagaingon: Kinsa ang magpakita kanamo ug ⟨maayo⟩? Ipatungha mo ⟨ang⟩ kahayag sa imong nawong kanamo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Daghan"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ang nagaingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ang magpakita kanamo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Ipatungha mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong nawong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:29.029680481Z",
+  "model": "glm-5.3"
+}

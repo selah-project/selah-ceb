@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug miingon ang hari nga si Ahashverosh kang Ester nga reyna ug kang Mordekhay nga Judio: Ania karon, ang balay ni Haman gihatag ko kang Ester, ug ⟨siya⟩ gilansang sa kahoy tungod kay gipadala niya ang iyang kamot sa mga Judio.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kang Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ang reyna"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "ug kang Mordekhay"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "ang Judio"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kang Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ug ⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "gilansang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "sa mga Judio"
+    }
+  ],
+  "timestamp": "2026-09-01T22:55:36.133082853Z",
+  "model": "glm-5.3"
+}

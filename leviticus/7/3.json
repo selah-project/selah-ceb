@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ⟨את⟩ ang tanan ka tambok niini ihalad gikan niini: ⟨את⟩ ang ikog nga tambok, ug ⟨את⟩ ang tambok nga nagatabon sa ⟨את⟩ mga tinai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang tanan ka tambok niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan ka"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "tambok niini"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ihalad"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikog nga tambok"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ang ikog nga tambok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nagatabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tinai"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mga tinai"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:56.614793125Z",
+  "model": "glm-5.3"
+}

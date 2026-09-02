@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Adlaw ug gabii naglibut ⟨sila⟩ sa ibabaw sa mga paril niini, ug kadaot ug kahagit anaa sa taliwala niini.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug gabii"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "naglibut sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "sa mga paril niini"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ug kadaot"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ug kahagit"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa taliwala niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:18.075363979Z",
+  "model": "glm-5.3"
+}

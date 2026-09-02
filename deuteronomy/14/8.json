@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ⟨kadtong⟩ ⟨את⟩ ang baboy, kay nagabahin siya sa kuku apan wala ⟨siya⟩ magdala ug gerah — hawa siya alang kaninyo; sa ilang unod ayaw ninyo kan-on, ug sa ilahang patay nga lawas ayaw ninyo paghikap.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang baboy"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ang baboy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "nagabahin siya"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "sa kuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ug gerah"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hawa siya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "sa ilang unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw ninyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kan-on"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ug sa ilahang patay nga lawas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw ninyo"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "paghikap"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:36.222094620Z",
+  "model": "glm-5.3"
+}

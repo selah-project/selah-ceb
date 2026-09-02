@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Naghimo ako ⟨alang sa akong kaugalingon⟩ og mga tipigi sa tubig, aron patubigon gikan kanila ang kagubatan nga nagatubo og mga kahoy.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang sa akong kaugalingon"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mga tipigi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "aron patubigon"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "יער",
+      "gloss": "kagubatan"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "nagatubo"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "og mga kahoy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:55.966105885Z",
+  "model": "glm-5.3"
+}

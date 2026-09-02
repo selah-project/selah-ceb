@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug ibutang ni Yahweh nga imong Elohim ⟨את⟩ ang tanan niini nga mga tunglo ibabaw sa imong mga kaaway ug sa imong mga nagadumili kanimo, nga nagpanukmod kanimo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ug ibutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niini nga mga tunglo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "mga tunglo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imong mga kaaway"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug ibabaw sa"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "imong mga nagadumili kanimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "nagpanukmod kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:21.520826695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Dose ka tuig sila nag-alagad ⟨את⟩ kang Kedarlaomer, ug sa ikanapulog-tulo ka tuig sila minaldag.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nag-alagad sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "minaldag sila"
+    }
+  ],
+  "timestamp": "2026-09-02T00:37:46.392999817Z",
+  "model": "glm-5.3"
+}

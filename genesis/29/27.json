@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 29:27",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Himoa nga bug-os kining ⟨sembanang⟩ semana, ug ihatag usab kanimo ⟨kining⟩ ⟨את⟩ kini alang sa pag-alagad nga atong pag-alagaran uban kanako pa, pito pa ka tuig nga lain.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "Himoa nga bug-os"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sembanang ⟨semana⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kining"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kini (si Rachel)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "alang sa pag-alagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "atong pag-alagaran"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "nga lain"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:47.868473574Z",
+  "model": "glm-5.3"
+}

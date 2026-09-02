@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Itom ako apan matahum, mga anak nga babaye sa Yerushalayim, sama sa mga tolda ni Kedar, sama sa mga kurtina ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "Itom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "apan matahum"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babaye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "sama sa mga tolda"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ni Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "sama sa mga kurtina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:46:59.080986422Z",
+  "model": "glm-5.3"
+}

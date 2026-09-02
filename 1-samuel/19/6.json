@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug gituman ni Shaul ang tingog ni Yehonatan, ug nanumpa si Shaul: Buhì si Yahweh, dili siya pagapatyon.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gituman \/ nadungog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ug nanumpa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Buhì"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dili siya pagapatyon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:19.445596642Z",
+  "model": "glm-5.3"
+}

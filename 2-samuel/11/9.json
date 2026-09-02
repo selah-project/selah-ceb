@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Nahigda si Uriya sa ganghaan sa balay sa hari ⟨kauban⟩ ⟨את⟩ tanang mga sulugoon sa iyang agalon, ug wala manaog sa iyang balay.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nahigda"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanang mga sulugoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sa iyang agalon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "manaog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:14.729524022Z",
+  "model": "glm-5.3"
+}

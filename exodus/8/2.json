@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug giunat ni Aharon ⟨את⟩ iyang kamot ibabaw sa mga tubig sa Mitsrayim, ug mitungas ang baki ug nigtabon ⟨את⟩ sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Ug giunat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ug mitungas"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "ang baki"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ug nigtabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:54.612341921Z",
+  "model": "glm-5.3"
+}

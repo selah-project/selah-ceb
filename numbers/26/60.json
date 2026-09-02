@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug natawo kang Aharon ⟨את⟩ si Nadav ug ⟨את⟩ si Avihu, ⟨את⟩ si Elazar ug ⟨את⟩ si Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ug natawo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kang Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Nadav"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "si Nadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "si Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "si Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "si Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:46.787796343Z",
+  "model": "glm-5.3"
+}

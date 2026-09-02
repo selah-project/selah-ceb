@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gibuhat niya ⟨את⟩ ang lana sa pagpahid-pagdihog, balaan; ug ⟨את⟩ ang insenso sa mga panakot, tin-aw — buhat sa magbubuak sa pahumot.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lana sa pagpahid-pagdihog"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa pagpahid-pagdihog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang insenso sa mga panakot"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sa mga panakot"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "tin-aw"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "sa magbubuak sa pahumot"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:10.825270725Z",
+  "model": "glm-5.3"
+}

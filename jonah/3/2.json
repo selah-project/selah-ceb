@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Bangon, lakaw ngadto sa Ninwe, ⟨ang⟩ dakong dakong dakong syudad, ug sultihi siya og ⟨את⟩ ang pagmantala nga akong sultion kanimo.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Bangon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang syudad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "ו�readableא",
+      "gloss": "ug sultihi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagmantala"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ang pagmantala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sultion"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:01.776692120Z",
+  "model": "glm-5.3"
+}

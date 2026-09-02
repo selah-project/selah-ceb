@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ba tungod niini dili ako magsusi ⟨kanila⟩, matud pa ni Yahweh, ba sa nasod nga ingon niini dili mabalos ang akong kalag?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Ba tungod"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ako magsusi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matud pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "sa nasod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "nga ingon niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "mabalos"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:17:24.345069520Z",
+  "model": "glm-5.3"
+}

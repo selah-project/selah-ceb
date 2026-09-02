@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 22:24",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang gipamasa, ug gipikas, ug ginitik, ug gigutol ⟨sa mga lalaki nga bahin⟩ — ayaw ninyo kini iduol kang Yahweh; ug diha sa inyong yuta ayaw ninyo ⟨usab⟩ buhaton.",
+  "tokens": [
+    {
+      "surface": "ומעוך",
+      "gloss": "Ug ang gipamasa"
+    },
+    {
+      "surface": "וכתות",
+      "gloss": "ug gipikas"
+    },
+    {
+      "surface": "ונתוק",
+      "gloss": "ug ginitik"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "ug gigutol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ninyo iduol"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ובארצכם",
+      "gloss": "ug diha sa inyong yuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:53.608729571Z",
+  "model": "glm-5.3"
+}

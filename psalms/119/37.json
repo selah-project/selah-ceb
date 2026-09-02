@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 119:37",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Palagdi ang akong mga mata sa pagtan-aw sa ⟨mga⟩ butong walay pulos; sa imong mga dalan palangonga ako.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Palagdi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sa ⟨mga⟩ butong walay pulos"
+    },
+    {
+      "surface": "בדרכך",
+      "gloss": "sa imong mga dalan"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "palangonga ako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:02.491388662Z",
+  "model": "glm-5.3"
+}

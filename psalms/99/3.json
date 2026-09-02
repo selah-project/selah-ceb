@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Paghimaya sila sa imong ngalan — dako ug makahahadlok; balaan ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Paghimaya sila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ug makahahadlok"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:09.875906550Z",
+  "model": "glm-5.3"
+}

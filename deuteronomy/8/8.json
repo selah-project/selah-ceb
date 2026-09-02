@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": " ⟨yuta⟩ sa trigo ug sebada, sa ubas nga tanom ug sa igos ug sa granada, ⟨yuta⟩ sa lana sa olibo ug dugos.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "⟨yuta⟩"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ug sebada"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "ugas nga tanom"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ug igos"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ug granada"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨yuta⟩"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olibo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ug dugos"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:57.804081124Z",
+  "model": "glm-5.3"
+}

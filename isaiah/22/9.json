@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ⟨את⟩ mga naguba nga bahin sa dakbayan ni David nakita ninyo, kay nagkadaghan ⟨kini⟩, ug gitipok ninyo ⟨את⟩ tubig sa ubos nga linaw.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga naguba nga bahin"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "mga naguba nga bahin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakita ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nagkadaghan"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "gitipok ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tubig"
+    },
+    {
+      "surface": "מי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "linaw"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ubos"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:34.261929282Z",
+  "model": "glm-5.3"
+}

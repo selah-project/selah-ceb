@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 4:9",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sangyawaha kini ⟨sa⟩ taliwala sa ⟨mga⟩ mga nasod; pagabalaanon ang gubat: pagmata pagkahinuktok ang ⟨mga⟩ mga hamtong nga mandirigma, mobalhin sila, momolso sila, tanang mga tawo sa gubat.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "sangyawaha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "taliwala sa mga nasod"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "pagabalaanon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ang gubat"
+    },
+    {
+      "surface": "העירו",
+      "gloss": "pagmata pagkahinuktok"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ang mga hamtong nga mandirigma"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "mobalhin sila"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "momolso sila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo sa"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:06.099408640Z",
+  "model": "glm-5.3"
+}

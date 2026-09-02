@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "sa pagpalit sa mga timawa pinaagi sa pilak, ug sa tawong panginahanglan puli sa mga sapin, ug sa pagbaligya sa mga libák sa bál.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "sa pagpalit"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "pia­gi sa pilak"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "sa mga timawa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug sa tawong panginahanglan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "puli sa"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "mga sapin"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "ug sa mga libák"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sa bál"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "pagbaligya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:05.822380512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miabot si Yahweh ug nagtindog ug nagtawag, ingon sa higayon sa matag higayon: Shemuel, Shemuel. Ug miingon si Shemuel: Sulti, kay nagapatalinghog ang imong sulugoon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ug miabot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ug nagtindog"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug nagtawag"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "ingon sa higayon"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "sa matag higayon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Sulti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagapatalinghog"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:08.302903514Z",
+  "model": "glm-5.3"
+}

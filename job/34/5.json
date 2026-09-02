@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kay nag-ingon si Iyov: \"Matarong ako, ug gikuha ni El ⟨ang⟩ akong hukom.\"",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "matarong ako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ni El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akong hukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:44:09.333633827Z",
+  "model": "glm-5.3"
+}

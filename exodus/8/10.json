@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gitipon sila ⟨את⟩ ⟨ngadto sa⟩ mga punongan — mga punongan — ug gilangguyngoy ⟨ang baho⟩ ang yuta.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "ug gitipon sila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga punongan (ang mga baki)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "mga punongan"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "mga punongan"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ug gilangguyngoy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:25.263439897Z",
+  "model": "glm-5.3"
+}

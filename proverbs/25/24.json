@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Maayo ang paglingkod sa sikt sa atop kay sa pag-uban ⟨sa⟩ babayeng matig-a ang ulo ug ⟨sa⟩ balay nga halapad.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "paglingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "sikt"
+    },
+    {
+      "surface": "גג",
+      "gloss": "atop"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "kay sa babaye"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "matig-a ang ulo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug balay"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "nga halapad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:32.801970861Z",
+  "model": "glm-5.3"
+}

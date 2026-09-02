@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nakita ko ⟨את⟩ ang kabalaka nga gihatag ni Elohim sa mga anak sa tawo aron pagabat-on nila.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kabalaka"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ang kabalaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "aron pagabat-on"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:39.059725618Z",
+  "model": "glm-5.3"
+}

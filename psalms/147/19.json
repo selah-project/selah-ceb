@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nagapahibalo siya sa iyang pulong ngadto kang Yaakov, ⟨sa⟩ iyang mga pagtad ug ⟨sa⟩ iyang mga pagtulon-an ngadto sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "nagapahibalo siya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa iyang pulong"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ngadto kang Yaakov"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "iyang mga pagtad"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ug iyang mga pagtulon-an"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ngadto sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.478576577Z",
+  "model": "glm-5.3"
+}

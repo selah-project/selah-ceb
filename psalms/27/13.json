@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Kon wala ko pagtuo ⟨nga⟩ makakita ako sa kaayohan ni Yahweh sa yuta sa mga buhi —",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "Kon wala"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ko pagtuo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa kaayohan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa mga buhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:00.110275726Z",
+  "model": "glm-5.3"
+}

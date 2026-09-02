@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Kanimo giingon sa akong kasingkasing: 'Pangitaa ang akong panagway' — ⟨את⟩ ang imong panagway, Yahweh, pangitaon ko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Pangitaa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akong panagway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong panagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong panagway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "pangitaon ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:50.113423008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug sa ikaduhang bulan, sa ika-pito ug kaluhaan ug usa ka adlaw sa bulan, namanagkot na ang yuta.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ug sa bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ug kaluhaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "namanagkot na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:31.982836810Z",
+  "model": "glm-5.3"
+}

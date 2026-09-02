@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug sila ⟨mga⟩ imong mga sulugoon ug imong katawhan, nga imong gitubos pinaagi sa imong gahum nga dakoa ug pinaagi sa imong kamot nga kusgan.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ug sila"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulugoon"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ug imong katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "imong gitubos"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "paagi sa imong gahum"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nga dakoa"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ug paagi sa imong kamot"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nga kusgan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:03:23.394896666Z",
+  "model": "glm-5.3"
+}

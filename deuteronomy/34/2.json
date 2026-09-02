@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug ⟨את⟩ ang tibuok nga Naftali, ug ⟨את⟩ ang yuta sa Efrayim ug sa Menashe, ug ⟨את⟩ ang tibuok nga yuta sa Yehuda, hangtod sa ⟨ang⟩ dagat sa kasadpan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok nga Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "nga Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang yuta sa Efrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sa Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ug sa Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok nga yuta sa Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nga yuta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "sa kasadpan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:07.324929715Z",
+  "model": "glm-5.3"
+}

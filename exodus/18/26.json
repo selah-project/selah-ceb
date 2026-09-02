@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nagahukom sila sa ⟨את⟩ katawhan sa tanang panahon; ang ⟨את⟩ lisud nga butang idala nila ngadto kang Moshe, apan ang tanang gagmayng butang ihukom nila ⟨⟨sila mismo⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "ug nagahukom sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lisud nga butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga butang"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "lisud"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "idala nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "apan ang tanang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "gagmayng"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "ihukom"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila mismo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:25.860287373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Si Yahweh magahukom sa ⟨mga⟩ katawohan: hukmi ako, Yahweh, sumala sa akong pagkamatarong ug sa akong pagkamatinud-anon nga ⟨naa⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa ⟨mga⟩ katawohan"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "hukmi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sumala sa akong pagkamatarong"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ug sa akong pagkamatinud-anon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nga ⟨naa⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.960223554Z",
+  "model": "glm-5.3"
+}

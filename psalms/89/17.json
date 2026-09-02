@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Sa imong ngalan magakalipay sila tibuok ⟨ang⟩ adlaw, ug sa imong pagkamatarud pasidunggan sila.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "magakalipay sila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ug sa imong pagkamatarud"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "pasidunggan sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:16.648522852Z",
+  "model": "glm-5.3"
+}

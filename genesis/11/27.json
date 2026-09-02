@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug kini mao ang mga kaliwat ni Terakh: si Terakh natawo kang ⟨את⟩ Avram, ⟨את⟩ Nahor, ug ⟨את⟩ Haran; ug si Haran natawo kang ⟨את⟩ Lot.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "mga kaliwat"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ug si Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:14.289481101Z",
+  "model": "glm-5.3"
+}

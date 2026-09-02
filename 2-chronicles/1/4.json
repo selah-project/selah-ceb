@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan ang kahon sa Elohim gipahunad ni David gikan sa Kiryat-Yearim, sa pag-andam niini ni David, kay naglatag siya ug tolda alang niini sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gipahunad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "gikan sa Kiryat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearim"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "sa pag-andam niini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "naglatag siya ug"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang niini"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:19:27.212448692Z",
+  "model": "glm-5.3"
+}

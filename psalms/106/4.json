@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Hinumdumi ako, O Yahweh, uban sa kalipayan sa imong katawhan; tuman-i ako uban sa imong kaluwasan.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Hinumdumi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "uban sa kalipayan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa imong katawhan"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "tuman-i ako"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "uban sa imong kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.662905537Z",
+  "model": "glm-5.3"
+}

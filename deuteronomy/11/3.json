@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "⟨את⟩ ang iyang mga timailhan ug ⟨את⟩ ang iyang mga buhat nga gibuhat niya sa taliwala sa Mitsrayim, kang Paro hari sa Mitsrayim ug sa tibuok niyang yuta;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga timailhan"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "ang iyang mga timailhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga buhat"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ang iyang mga buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kang Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "niyang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:02.618720293Z",
+  "model": "glm-5.3"
+}

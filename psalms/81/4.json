@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Humuni kamo sa shofar sa bag-ong bulan, sa adlaw nga gitakda alang sa adlaw sa atong fiesta.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "humuni kamo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bag-ong bulan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "sa adlaw nga gitakda"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "alang sa adlaw"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "sa atong fiesta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:53.437913336Z",
+  "model": "glm-5.3"
+}

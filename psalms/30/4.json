@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Yahweh, imong gipahunod ⟨ang⟩ akong kalag gikan sa Sheol, gipabuhi ka nako ⟨aron dili⟩ mosulod sa ngitngit nga baha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "imong gipahunod"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "gipabuhi ka nako"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "⟨aron dili⟩ mosulod sa"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ngitngit nga baha"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:00.027182347Z",
+  "model": "glm-5.3"
+}

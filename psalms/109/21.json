@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Apan ikaw, Yahweh Adonay, buhata ⟨את⟩ sa akong bahin alang sa ngalan mo, kay maayo ang imong hesed (gugma nga matinud-anon); luwasa ako.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apan ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhata"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong bahin"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ngalan mo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed mo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "luwasa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.383390004Z",
+  "model": "glm-5.3"
+}

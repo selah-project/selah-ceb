@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ako, ako ang nagsugo sa akong mga gibalaan, gipatawag usab nako ang akong mga kusgan alang sa akong kasuko, ang mga nagakalipay sa akong kadungganan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nagsugo"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "sa akong mga gibalaan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gipatawag"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ang akong mga kusgan"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "alang sa akong kasuko"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "ang mga nagakalipay"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "sa akong kadungganan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:24.987387974Z",
+  "model": "glm-5.3"
+}

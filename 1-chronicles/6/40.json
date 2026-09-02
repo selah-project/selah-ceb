@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gihatag nila ⟨את⟩ ang Khevron sa yuta sa Yehuda, ug ⟨את⟩ ang iyang mga saran nga nanlibot niini.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ug gihatag nila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ang Khevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga saran"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga saran"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "nga nanlibot niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:43.325418846Z",
+  "model": "glm-5.3"
+}

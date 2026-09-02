@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Kanimo ang adlaw, ug kanimo usab ang gabii, ikaw ang nag-andam sa kahayag ug sa adlaw nga silaw.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "אף",
+      "gloss": "usab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ang gabii"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "nag-andam"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ug sa adlaw nga silaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.848452451Z",
+  "model": "glm-5.3"
+}

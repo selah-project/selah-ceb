@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ayaw pangitaa ang ilang kalinaw ni ang ilang kaayohan tanan nimong adlaw, hangtod sa kahangtoran.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "pangitaa"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ang ilang kalinaw"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ni ang ilang kaayohan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "nimong adlaw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtoran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:00.745333053Z",
+  "model": "glm-5.3"
+}

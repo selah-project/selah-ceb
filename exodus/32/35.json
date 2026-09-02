@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Gihampak ni Yahweh ⟨את⟩ ang katawhan tungod kay naghimo sila og ⟨את⟩ sa guyang baka nga gihimo ni Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "naghimo sila og"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa guyang baka"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "sa guyang baka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:59.710866161Z",
+  "model": "glm-5.3"
+}

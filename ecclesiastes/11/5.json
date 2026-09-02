@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ingon nga wala ka makahibalo unsa ang dalan sa ⟨ang⟩ hangin, ⟨ug unsa⟩ ang mga bukog sa sulod sa tiyan sa mabdos, ingon usab niana dili ka makaila ⟨את⟩ sa buhat ni Elohim nga nagabuhat ⟨את⟩ sa tanan.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wala ka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "sa hangin"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "ang mga bukog"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "sa sulod sa tiyan"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "sa mabdos"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ingon usab niana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ka makaila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa buhat"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sa tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:40.557660961Z",
+  "model": "glm-5.3"
+}

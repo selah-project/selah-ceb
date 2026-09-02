@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Mga anak ni Shem: Elam, ug Ashur, ug Arpakshad, ug Lud, ug Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ug Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ug Arpakshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ug Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ug Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.721649502Z",
+  "model": "glm-5.3"
+}

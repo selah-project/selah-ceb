@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Mosulod ako sa imong balay uban ⟨ang⟩ mga sinunog nga halad; bayaran ko kanimo ang akong mga nazar.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "mosulod ako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "uban ⟨ang⟩ mga sinunog nga halad"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "bayaran ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ang akong mga nazar"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:29.224004431Z",
+  "model": "glm-5.3"
+}

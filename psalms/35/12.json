@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Nagsagubli sila kanako ug daotan sanglit sa maayo, pagkabalo sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Nagsagubli sila kanako"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ug daotan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sanglit sa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "pagkabalo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:24.437553081Z",
+  "model": "glm-5.3"
+}

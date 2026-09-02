@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Sa iyang balahibo tabunan ka niya, ug sa ilalom sa iyang mga pako magdulog ka; kalasag ug taming ang iyang pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "sa iyang balahibo"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "tabunan ka niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ug sa ilalom"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sa iyang mga pako"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "magdulog ka"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "kalasag"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "ug taming"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "iyang pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.777899817Z",
+  "model": "glm-5.3"
+}

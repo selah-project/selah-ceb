@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 51:22",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Mao kini ang giingon sa imong Adonay nga si Yahweh, ug sa imong Elohim nga nagatigo sa iyang katawhan: Tan-awa, gikuha ko gikan sa imong kamot ⟨את⟩ ang kopa sa pagkangpag, ⟨את⟩ ang kopa-kopa sa kopa sa akong kaligutgut — dili na ka magdugang pag-inom niini ⟨na⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sa imong Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "ug sa imong Elohim"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "nagatigo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa iyang katawhan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "gikuha ko"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "gikan sa imong kamot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kopa sa pagkangpag"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "ang kopa"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "sa pagkangpag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kopa-kopa sa kopa sa akong kaligutgut"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "ang kopa-kopa"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "sa kopa"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "sa akong kaligutgut"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "לשתותה",
+      "gloss": "pag-inom niini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:25.511645101Z",
+  "model": "glm-5.3"
+}

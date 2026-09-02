@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagkinabuhi si Shelach katloan ka tuig, ug natawo siya ⟨את⟩ kang Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ug si Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nagkinabuhi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kang Ever"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:11.935786294Z",
+  "model": "glm-5.3"
+}

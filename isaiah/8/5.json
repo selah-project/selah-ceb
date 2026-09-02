@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nagdugang pa si Yahweh pagpanulti kanako, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nagdugang pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pagpanulti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:42.901603660Z",
+  "model": "glm-5.3"
+}

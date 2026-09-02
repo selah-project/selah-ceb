@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Nagsabwag ⟨siya⟩ sa tubig sa mga bukid gikan sa iyang mga lawak sa itaas; gikan sa bunga sa imong mga buhat mabusog ang yuta.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "nagsabwag sa tubig"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "gikan sa iyang mga lawak sa itaas"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "gikan sa bunga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sa imong mga buhat"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:23.272418539Z",
+  "model": "glm-5.3"
+}

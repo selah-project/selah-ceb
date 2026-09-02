@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug si Oholibamah natawo ⟨את⟩ kang Yeish, ug ⟨את⟩ kang Yalam, ug ⟨את⟩ kang Korach — kini ang mga anak ni Esav nga natawo kaniya sa yuta sa Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Ug si Oholibamah"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "kang Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "kang Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Korach"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "kang Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:29.298515347Z",
+  "model": "glm-5.3"
+}

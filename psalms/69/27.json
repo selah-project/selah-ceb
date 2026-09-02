@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Kay siya nga imong gihampak — gisundan nila; ug sa kasakitan sa imong mga natusok, ilang gisaysay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "imo(n g)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "gisundan nila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kasakitan"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "imong mga natusok"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "gisaysay"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:29.240380813Z",
+  "model": "glm-5.3"
+}

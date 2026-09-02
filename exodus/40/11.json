@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug pahida-dinihoga ⟨את⟩ ang labahan ug ⟨את⟩ ang tiil niini, ug ipagawas-ngadto-sa-kabalaan ⟨את⟩ kini.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Ug pahida-dinihoga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang labahan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ang labahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tiil niini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ang tiil niini"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ug ipagawas-ngadto-sa-kabalaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang labahan)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:13.038111449Z",
+  "model": "glm-5.3"
+}

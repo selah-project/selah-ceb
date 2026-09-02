@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Nisaka si Elohim uban sa pag-awgit, si Yahweh uban sa tingog sa trumpeta.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Nisaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "uban sa pag-awgit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "uban sa tingog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sa trumpeta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.604410979Z",
+  "model": "glm-5.3"
+}

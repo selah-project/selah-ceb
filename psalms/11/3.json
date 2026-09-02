@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay ang mga tulunghaan pagagubaton — unsa may buhaton sa matarong?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ang mga tulunghaan"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "pagagubaton"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa may"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:31.346334583Z",
+  "model": "glm-5.3"
+}

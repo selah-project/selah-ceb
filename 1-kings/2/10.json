@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nagmatog si David uban sa iyang mga katigulangan, ug gilubong siya sa ⟨ang⟩ dakbayan ni David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nagmatog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga katigulangan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ug gilubong siya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:59.105043938Z",
+  "model": "glm-5.3"
+}

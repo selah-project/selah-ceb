@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug akong hatagon ⟨את⟩ ang balay ni Ahab nga sama sa balay ni Yaravam nga anak ni Nevat, ug sama sa balay ni Baasha nga anak ni Ajiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug akong hatagon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "nga sama sa balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "ni Nevat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ug sama sa balay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Ajiya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:44.885503123Z",
+  "model": "glm-5.3"
+}

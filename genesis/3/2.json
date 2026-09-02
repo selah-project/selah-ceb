@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon ang babaye sa bitin: \"Sa bunga sa mga kahoy sa tanan makakaon kami.\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babaye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "bitin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Sa bunga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "makakaon kami"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:53.999002626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kay kinsa ba sa mga panganod ang makatimbung kang Yahweh? Kinsa ba ang makapareha kang Yahweh taliwala sa mga anak sa mga gamhanan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa ba"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "sa mga panganod"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ang makatimbung"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ang makapareha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "taliwala sa mga anak"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "sa mga gamhanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.532235901Z",
+  "model": "glm-5.3"
+}

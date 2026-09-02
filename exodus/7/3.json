@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ako pagapatig-aon ⟨את⟩ ang kasingkasing ni Paro, ug padaghanon ko ⟨את⟩ ang akong mga timailhan ug ⟨את⟩ ang akong mga katingalahan sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ug ako"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "pagapatig-aon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasingkasing ni Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ug padaghanon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga timailhan"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ang akong mga timailhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga katingalahan"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ang akong mga katingalahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:01.057410163Z",
+  "model": "glm-5.3"
+}

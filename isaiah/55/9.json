@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Kay sama sa kahitas-on sa ⟨mga⟩ langit kagikan sa ⟨mga⟩ yuta, mao man ang kahitas-on sa akong mga dalan kagikan sa inyong mga dalan, ug sa akong mga hunahuna kagikan sa inyong mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kahitas-on"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao man"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "kahitas-on"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "akong mga dalan"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "gikan sa inyong mga dalan"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ug sa akong mga hunahuna"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "gikan sa inyong mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:11.197148710Z",
+  "model": "glm-5.3"
+}

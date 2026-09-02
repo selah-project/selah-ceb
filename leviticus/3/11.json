@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug pasonon sa kohan ⟨את⟩ niini sa ibabaw sa halaran — pagkaon nga halad nga paagi sa kalayo alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "pasonon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa ibabaw sa halaran"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad nga paagi sa kalayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:31.183697218Z",
+  "model": "glm-5.3"
+}

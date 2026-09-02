@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": " ug mitindog ang katawhan halayo ⟨gikan⟩, ug si Moshe miduol sa kangitngit nga dagum nga diha didto ⟨ang⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "halayo"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ug si Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "miduol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "kangitngit nga dagum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diha didto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ang⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:51.519562938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ang tingog sa nagatawag: Sa kamingaw pag-andama kamo sa dalan ni Yahweh, tul-ion ninyo sa kamingaw ang karsada alang sa atong Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "sa nagatawag"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "pag-andama kamo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "tul-ion ninyo"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "ang karsada"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "alang sa atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:46.719551060Z",
+  "model": "glm-5.3"
+}

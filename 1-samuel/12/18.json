@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gipangtawag ni Shemuël si Yahweh, ug gihatag ni Yahweh ang mga tingog ug ulan niadtong adlawa, ug gitagadtang kaayo sa tibuok katawhan ⟨ang⟩ Yahweh ug ⟨את⟩ si Shemuël.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Gipangtawag"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "ang mga tingog"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "ug ulan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "niadtong adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(niadtong adlawa)"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "gitagadtang kaayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(kaayo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:00.987424058Z",
+  "model": "glm-5.3"
+}

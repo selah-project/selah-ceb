@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Himoan nimo ako ug halaran nga yuta-on, ug magsaka ka didto ⟨את⟩ sa imong mga halad nga sinusunog ug ⟨את⟩ sa imong mga halad sa kalinaw, ⟨את⟩ sa imong mga karnero ug ⟨את⟩ sa imong mga baka; sa tanan nga dapit nga ipahinumdom nako ⟨את⟩ sa akong Ngalan, moanha ako kanimo ug bendisyonan taka.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "nga yuta-on"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Himoan nimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "ug magsaka ka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong mga halad nga sinusunog"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "imong mga halad nga sinusunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imong mga halad sa kalinaw"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "imong mga halad sa kalinaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong mga karnero"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "imong mga karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imong mga baka"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "imong mga baka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ipahinumdom nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong Ngalan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "akong Ngalan"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "moanha ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ug bendisyonan taka"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:51.520217334Z",
+  "model": "glm-5.3"
+}

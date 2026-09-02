@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug kini nga mga anak natawo kaniya sa Yerushalayim: Shimea, ug Shovav, ug Natan, ug Shelomo — upat — kang Bat-Shua nga anak ni Ammiel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "ug Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "ug Shelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:09.019309170Z",
+  "model": "glm-5.3"
+}

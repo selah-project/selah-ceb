@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Kang Tserakh, ang pamilya sa mga Tserakhi; kang Shaul, ang pamilya sa mga Shauli.",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "kang Tserakh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "sa mga Tserakhi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "sa mga Shauli"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:16.099029906Z",
+  "model": "glm-5.3"
+}

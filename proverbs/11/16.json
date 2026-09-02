@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang babayeng may hen (kagwapa) momatnod ug kavod (himaya); apan ang mga mapintas momatnod ug bahandi.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ang babayeng"
+    },
+    {
+      "surface": "חן",
+      "gloss": "may hen (kagwapa)"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "momatnod"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ug kavod (himaya)"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "apan ang mga mapintas"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "momatnod"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ug bahandi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:24.523088556Z",
+  "model": "glm-5.3"
+}

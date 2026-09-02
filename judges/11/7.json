@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 11:7",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug si Yiftakh nag-ingon sa mga tigulang sa Gilad: Wala ba ⟨kamo⟩ mga nagadumot kanako ⟨את⟩ ug nagatabog nako gikan sa balay sa akong amahan? Ug ngano man, nganong moari kamo kanako karon, sa diha nga nasamad ⟨kamo⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug nag-ingon"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "si Yiftakh"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "mga nagadumot"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ kanako",
+      "marks": "kanako (gitudlo ni שנאתם)"
+    },
+    {
+      "surface": "ותגרשוני",
+      "gloss": "ug nagatabog nako"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "sa akong amahan"
+    },
+    {
+      "surface": "ומדוע",
+      "gloss": "ug ngano man"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "moari kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa diha nga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nasamad \/ gigutumon sa kalisud"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:09:57.705369139Z",
+  "model": "glm-5.3"
+}

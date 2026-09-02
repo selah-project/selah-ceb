@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Ang akong mga saad kang Yahweh ubranon ko, ⟨karon⟩ atbang sa tanan ⟨nga⟩ iyang katawhan.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ang akong mga saad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ubranon ko"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨karon⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:15.009079225Z",
+  "model": "glm-5.3"
+}

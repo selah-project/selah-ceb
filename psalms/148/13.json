@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Paghimaya sila ⟨את⟩ sa ngalan ni Yahweh, kay ang iyang ngalan lamang ⟨ang⟩ nahitas; ang iyang himaya labaw sa yuta ug sa mga langit.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "paghimaya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ngalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "nahitas"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ang iyang himaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "labaw sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ug sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-02T01:17:53.129798361Z",
+  "model": "glm-5.3"
+}

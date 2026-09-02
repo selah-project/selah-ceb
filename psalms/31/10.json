@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Kaloy-i ako, Yahweh, kay nalain ako; nanghinay sa kasubo ang akong mata, ⟨ang⟩ akong kalag ug ang akong tiyan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kaloy-i ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nalain"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "nanghinay"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "sa kasubo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "ug ang akong tiyan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:22.897532029Z",
+  "model": "glm-5.3"
+}

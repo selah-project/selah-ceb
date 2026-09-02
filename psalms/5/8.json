@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Apan ako, tungod sa kadaghan sa imong hesed (gugma nga matinud-anon), mosulod ako sa imong balay, magatuhod ako ngadto sa imong balaang templo sa imong pagkahadlok ⟨kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "b\/7230",
+      "gloss": "tungod sa kadaghan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sa imong hesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "mosulod ako"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "magatuhod ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "imong balaang templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imong balaang"
+    },
+    {
+      "surface": "b\/3374",
+      "gloss": "sa imong pagkahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:59.076711823Z",
+  "model": "glm-5.3"
+}

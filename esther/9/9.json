@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "ug ⟨את⟩ si Parmashta, ug ⟨את⟩ si Arisai, ug ⟨את⟩ si Aridai, ug ⟨את⟩ si Vayezata;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Parmashta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "si Parmashta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Arisai"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "si Arisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Aridai"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "si Aridai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Vayezata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "si Vayezata"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:15.057562904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Balik, O Yahweh, lua ⟨ang⟩ akong kalag; luwasa ako tungod sa imong hesed (kaluoy).",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Balik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "lua"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:00.235396122Z",
+  "model": "glm-5.3"
+}

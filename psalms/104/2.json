@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Nagsulob ⟨siya⟩ ug kahayag ingon nga bisti, nagpatigbabaw ⟨siya⟩ sa kalangitan ingon nga tabil.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Nagsulob"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "ingon nga bisti"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "nagpatigbabaw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kalangitan"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "ingon nga tabil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:31.382716943Z",
+  "model": "glm-5.3"
+}

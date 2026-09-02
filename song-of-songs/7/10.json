@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang imong kalo-oy sa baba ⟨ang⟩ sama sa maayong bino, nga molatad alang sa akong minahal, ⟨sa⟩ kalma nga pagdagan — nagpagabiak sa mga ngabil sa natulog.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "ug ang imong baba"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "sama sa bino"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "molatad"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "alang sa akong minahal"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "sa kalma"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "nagpagabiak"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sa mga ngabil"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "sa natulog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:26.204568350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa Yahweh salig ka sa tanan nimong kasingkasing, ug sa imong kaalam ayaw pag-butang pagtoo.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "salig ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "nimong kasingkasing"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "imong kaalam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "pag-butang pagtoo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:59.365503644Z",
+  "model": "glm-5.3"
+}

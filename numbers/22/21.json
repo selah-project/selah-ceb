@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": " ug mobangon si Bilam sa buntag, ug magsakyan ⟨את⟩ siya sa iyang bura, ug mopalakat kauban sa mga prinsipe sa Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "si Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "magsakyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang bura"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "sa iyang bura"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mopalakat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sa mga prinsipe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:35.713775222Z",
+  "model": "glm-5.3"
+}

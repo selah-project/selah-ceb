@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": " ug mituman ang mga anak ni Yisrael gikan sa Raamses, ug nagkamp sila sa Sukkot.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ug mituman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "gikan sa Raamses"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ug nagkamp sila"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "sa Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:22.458197186Z",
+  "model": "glm-5.3"
+}

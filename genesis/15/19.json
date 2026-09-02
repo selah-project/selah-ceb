@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "⟨את⟩ ang Keinita, ⟨את⟩ ang Kenizita, ug ⟨את⟩ ang Kadmonita:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Keinita"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "ang Keinita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kenizita"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "ang Kenizita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kadmonita"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "ang Kadmonita"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:10.252136560Z",
+  "model": "glm-5.3"
+}

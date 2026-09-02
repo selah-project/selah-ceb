@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug si Lot usab, nga naglakaw uban ⟨את⟩ ni Avram, adunay mga karnero ug mga baka ug mga tolda.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug si ... usab"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nga naglakaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ug mga baka"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ug mga tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:50.481463266Z",
+  "model": "glm-5.3"
+}

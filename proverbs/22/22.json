@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ayaw pagpanghilabot sa kabos, kay kabos siya, ug ayaw pagdagsa sa timawa sa ganghaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "pagpanghilabot"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kabos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kabos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "pagdagsa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "timawa"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:16.693801434Z",
+  "model": "glm-5.3"
+}

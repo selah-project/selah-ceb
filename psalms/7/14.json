@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug alang kaniya naghandum siya ⟨sa⟩ mga butang sa kamatayon; iyang mga panah gitakda alang sa mga mosunod nga nagadilaab ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ug alang kaniya"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "naghandum"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga butang"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "iyang mga panah"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "alang sa mga nagadilaab"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "gitakda"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.966370319Z",
+  "model": "glm-5.3"
+}

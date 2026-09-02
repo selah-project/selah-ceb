@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ikaw ⟨⟨nga⟩⟩ balaan, ⟨ikaw⟩ nga nagalingkod sa mga pagdayeg sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagalingkod"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "mga pagdayeg"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:28.245699343Z",
+  "model": "glm-5.3"
+}

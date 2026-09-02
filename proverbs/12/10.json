@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Nasayod ⟨ang⟩ tigsama ang sa kalag sa iyang binuhing hayop, apan ang kabalak-an sa mga dautan ⟨mga⟩ malalis.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "nasayod"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tigsama"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "sa iyang binuhing hayop"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "apan ang kabalak-an"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "malalis"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:10.236058243Z",
+  "model": "glm-5.3"
+}

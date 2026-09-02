@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Hatagi kami ug tabang batok sa kagul-an, ug walay pulos ang pagluwas sa tawo.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Hatagi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "tabang"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "batok sa kagul-an"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ug walay pulos"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ang pagluwas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:51.265432375Z",
+  "model": "glm-5.3"
+}

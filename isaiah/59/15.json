@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Ug ang kamatuoran nahimong nawala, ug ang mitalikod gikan sa kadaot ⟨nahimong⟩ ginhubak; ug nakita ni Yahweh ⟨kini⟩ ug nadawat daotan ⟨kini⟩ sa iyang mga mata, kay walay hustisya.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "nawala"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "mitalikod"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "gikan sa kadaot"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "ginhubak"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "nadawat daotan"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:44.381033828Z",
+  "model": "glm-5.3"
+}

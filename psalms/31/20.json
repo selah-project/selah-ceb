@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Sa unsang kadako ang imong kaayo, nga imong gitago alang sa mga nagaikog kanimo, nga imong gibuhat alang sa nagadagan sa imong panalipod, atubang sa mga anak ni Adam!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Sa unsang kadako"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ang imong kaayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "imong gitago"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "alang sa mga nagaikog kanimo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "alang sa nagadagan sa panalipod"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam (sa tawo)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:27.672302937Z",
+  "model": "glm-5.3"
+}

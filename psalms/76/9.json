@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Gikan sa kalangitan gipadungog nimo ⟨ang⟩ hukom; ang yuta nahadlok ug nahihamtong.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Gikan sa kalangitan"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "gipadungog nimo"
+    },
+    {
+      "surface": "דין",
+      "gloss": "hukom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nahadlok"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ug nahihamtong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:28.030537589Z",
+  "model": "glm-5.3"
+}

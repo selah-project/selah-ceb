@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang aron ni Yahweh ⟨ang⟩ anaa sa kapatagan sa mga Pelishtiy pito ka bulan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug…anaa sa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishtiy"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:52.954728316Z",
+  "model": "glm-5.3"
+}

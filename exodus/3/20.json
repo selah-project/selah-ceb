@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ipadala ko ang akong kamot, ug himoon ko ang paghampak ⟨את⟩ sa Mitsrayim uban sa tanan nako nga mga katingalahan nga buhaton ko sa taliwala niini; ug human niadto, ipadala niya kamo ⟨sa paglakat⟩.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ug ipadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong kamot"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ug himoon ko ang paghampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "uban sa tanan"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "nga mga katingalahan nako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "buhation ko"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa taliwala niini"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ug human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niadto"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ipadala niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:37.669399716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Magaliko ba ⟨ang⟩ El sa pagtulon-on? Ug ba kaha si Shadday magaliko sa kaangayan?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "⟨ang⟩ El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "magaliko ba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa pagtulon-on"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Ug ba kaha"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "si Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "magaliko"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa kaangayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:57.537001413Z",
+  "model": "glm-5.3"
+}

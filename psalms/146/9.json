@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Si Yahweh nagabantay sa ⟨את⟩ mga langyaw nga pumoluyo; ⟨ang⟩ ilo ug ⟨ang⟩ balo iyang gipatindog; apan ang dalan sa mga daotan iyang gihisala.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga langyaw nga pumoluyo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga langyaw nga pumoluyo"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ilo"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ug balo"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "apan ang dalan sa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "gihisala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:43.590843126Z",
+  "model": "glm-5.3"
+}

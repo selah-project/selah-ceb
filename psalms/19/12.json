@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Usab, ang imong sulogoon gimantala pinaagi niini; sa pagbantay niini adunay dako nga ganti.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Usab"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulogoon"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "gimantala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pinaagi niini"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "sa pagbantay niini"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:47.706764262Z",
+  "model": "glm-5.3"
+}

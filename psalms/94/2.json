@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Pagbaton, ⟨oh⟩ ⟨ikaw⟩ nga maghuhukum sa ⟨kalibutan⟩; isauli ang ganti sa ⟨mga⟩ garbosos.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Pagbaton"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "maghuhukum"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨kalibutan⟩"
+    },
+    {
+      "surface": "השב",
+      "gloss": "isauli"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "garbosos"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:12.169002070Z",
+  "model": "glm-5.3"
+}

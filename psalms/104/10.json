@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "⟨Siya nga⟩ nagapadala sa mga tinubdan sa tubig sa mga walog — taliwala sa mga bukid sila molatas.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "nagapadala"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "mga tinubdan sa tubig"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "sa mga walog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "molatas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:49.696130499Z",
+  "model": "glm-5.3"
+}

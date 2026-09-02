@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Gihampak ⟨ang⟩ akong kasingkasing ingon sa sagbot ug natunga; kay nakalimot na ako sa pagkaon sa akong pan.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "ginhampak"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ingon sa sagbot"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ug natunga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nakalimot na ako"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "sa akong pan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:48.260058619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug gipagula kami ni Yahweh gikan sa Mitsrayim pinaagi sa kusgan nga kamot, ug sa gipatindog nga bukton, ug sa dakong kahadlok, ug sa mga timailhan ug sa mga katingalahang buhat.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "ug gipagula kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nga kusgan"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "ug sa bukton"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "ug sa kahadlok"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "ug sa mga timailhan"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "ug sa mga katingalahang buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:21.965274248Z",
+  "model": "glm-5.3"
+}

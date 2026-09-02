@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Busa ihatag nako ⟨את⟩ ang ilang mga asawa ngadto sa lain, ⟨את⟩ ang ilang mga kapatagan ngadto sa mga manunaw, kay gikan sa gagmay hangtod sa dako, tanan sila manamsam ug sangkap; gikan sa manalagna hangtod sa sacerdote, tanan sila naggibuhat ug bakak.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga asawa"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ang ilang mga asawa"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ngadto sa lain"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "ang ilang mga kapatagan"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "ngadto sa mga manunaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "gikan sa gagmay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "manamsam"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ug sangkap"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "gikan sa manalagna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sacerdote"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naggibuhat"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ug bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:40:16.066559905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ikaw, anak sa tawo, ipakita ⟨את⟩ sa balay ni Yisrael ⟨את⟩ ang balay, ug mangauyong sila sa ilang mga sala, ug isukod nila ⟨את⟩ ang hulagway niini.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ipakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay ni Yisrael"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ug mangauyong sila"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "sa ilang mga sala"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ug isukod nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hulagway niini"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "ang hulagway niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:47:15.956180540Z",
+  "model": "glm-5.3"
+}

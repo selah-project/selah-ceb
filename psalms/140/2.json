@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Luwasi ako, Yahweh, gikan sa tawong daotan; gikan sa tawong manlulupig ipanalipdan ako.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Luwasi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "manlulupig"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ipanalipdan ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:08.865323418Z",
+  "model": "glm-5.3"
+}

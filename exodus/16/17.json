@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "UG ang mga anak ni Yisrael nagbuhat ⟨ug⟩ ingon niini, ug nagtilap ang nakadaghan ug ang nakagamay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "nagtilap"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "ang nakadaghan"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "ug ang nakagamay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:06.432969038Z",
+  "model": "glm-5.3"
+}

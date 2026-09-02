@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 21:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gihatag sa saserdote kaniya ⟨ang⟩ balaan ⟨nga pan⟩, kay walay pan dida kondili ang pan sa atubangan, nga gikuha gikan sa atubangan ni Yahweh, aron sa pagbutang ug mainit nga pan sa adlaw nga kini kuhaon.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dida"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "המוסרים",
+      "gloss": "nga gikuha"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "aron sa pagbutang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "חם",
+      "gloss": "mainit"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הלקחו",
+      "gloss": "nga kini kuhaon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:32.936207350Z",
+  "model": "glm-5.3"
+}

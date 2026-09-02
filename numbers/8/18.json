@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "UG gikuha ko ⟨את⟩ ang mga Levite puli sa tanan nga panganay sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ug gikuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Levite"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levite"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "puli sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:35:39.234206055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang dalin sa pagkamatinud-anon ang akong gipilian; ang imong mga matarong nga pagtadong gipahimutang ko sa ⟨atubangan⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalin"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "pagkamatinud-anon"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ang akong gipilian"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang imong mga matarong nga pagtadong"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "gipahimutang ko"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:10.237945798Z",
+  "model": "glm-5.3"
+}

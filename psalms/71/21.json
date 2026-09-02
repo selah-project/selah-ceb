@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Mosobra ang akong kadakulan, ug mobalik ka ug maglipay kanako.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "mosobra"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ang akong kadakulan"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "ug mobalik ka"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "maglipay kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:47.544477114Z",
+  "model": "glm-5.3"
+}

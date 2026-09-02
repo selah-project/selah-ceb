@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug nadungog ni Yahweh ⟨את⟩ ang tingog sa inyong mga pulong samtang nagsulti kamo kanako, ug miingon si Yahweh kanako: Nadungog ko ⟨את⟩ ang tingog sa mga pulong niining katawhana nga gisulti nila kanimo — maayo sila nagsulti sa tanan nga ilang gisulti.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "sa inyong mga pulong"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "samtang nagsulti kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nadungog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gisulti nila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "maayo sila nagsulti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ilang gisulti"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:21.163494672Z",
+  "model": "glm-5.3"
+}

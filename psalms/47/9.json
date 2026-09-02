@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Naghari ang Elohim ⟨sa⟩ mga nasud, ang Elohim nalingkod sa trono sa iyang pagkabalaan.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nalingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang pagkabalaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:38.492355622Z",
+  "model": "glm-5.3"
+}

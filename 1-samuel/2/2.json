@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Walay balaan sama kang Yahweh, kay walay ⟨uban⟩ gawas kanimo, ug walay bato sama sa atong Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "sama kang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "⟨uban⟩ gawas kanimo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "sama sa atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:17.525806568Z",
+  "model": "glm-5.3"
+}

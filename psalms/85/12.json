@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Ang kamatuoran motungha gikan sa yuta, ug ang pagkamatarong magatan-aw gikan sa mga langit.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Ang kamatuoran"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "motungha"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ug ang pagkamatarong"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "magatan-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:36.542782581Z",
+  "model": "glm-5.3"
+}

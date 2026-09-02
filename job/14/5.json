@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kon natudloan na ang iyang mga adlaw, kauban ⟨את⟩ kanimo ang ihap sa iyang mga bulan; gipahimutang mo ang iyang utlanan ug dili siya makalapas.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "natudloan na"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iyang mga adlaw"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ang ihap"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "sa iyang mga bulan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kauban kanimo",
+      "marks": "ang ihap sa iyang mga bulan"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "ang iyang utlanan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gipahimutang mo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "siya makalapas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:48.098616803Z",
+  "model": "glm-5.3"
+}

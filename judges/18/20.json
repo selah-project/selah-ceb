@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nalipay ang kasingkasing sa sacerdote, ug gikuha niya ⟨את⟩ ang ephod ug ⟨את⟩ ang mga terafim ug ⟨את⟩ ang tinukib nga larawan, ug misulod siya sa taliwala sa mga tawo ⟨nga kadto⟩.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Ug nalipay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ephod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "mga terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tinukib nga larawan"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "tinukib nga larawan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug misulod siya"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:11:37.140751170Z",
+  "model": "glm-5.3"
+}

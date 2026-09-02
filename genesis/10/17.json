@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "ug ⟨את⟩ ⟨ang⟩ Hivyo, ug ⟨את⟩ ⟨ang⟩ Arvadhinhon, ug ⟨את⟩ ⟨ang⟩ Sininhon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "⟨ang⟩ Hivyo"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "⟨ang⟩ Hivyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "⟨ang⟩ Arvadhinhon"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "⟨ang⟩ Arvadhinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "⟨ang⟩ Sininhon"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "⟨ang⟩ Sininhon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:02.228543550Z",
+  "model": "glm-5.3"
+}

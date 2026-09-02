@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Ikaw, Ikaw ⟨ang⟩ makahahadlok, ug kinsa ang mobarug atubang nimu sukad sa imong kaligutgut?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "makahahadlok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "mobarug"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "atubang nimu"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sukad"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "imong kaligutgut"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:43.939681474Z",
+  "model": "glm-5.3"
+}

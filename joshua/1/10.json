@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gimandoan ni Yehoshua ⟨את⟩ ang mga opisyal sa katawhan, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ug gimandoan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga opisyal sa katawhan"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ang mga opisyal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:58.630654537Z",
+  "model": "glm-5.3"
+}

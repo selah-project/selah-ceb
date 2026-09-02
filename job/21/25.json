@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ang ⟨lain⟩ mamatay sa mapait nga nefesh, ug wala gayod makatilaw sa maayo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ug ang ⟨lain⟩"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa nefesh"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala gayod"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "makatilaw"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "sa maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:40:51.252207834Z",
+  "model": "glm-5.3"
+}

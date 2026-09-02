@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ako ang nagtindog taliwala kang Yahweh ug kaninyo ⟨sa⟩ ⟨tiva⟩ sa pagpanulti kaninyo sa ⟨את⟩ sa pulong ni Yahweh, kay nahadlok kamo atubang sa kalayo ug wala kamo mosaka sa bukid sa pagsulti ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ug kaninyo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "⟨sa tiva⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨tiva⟩"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "sa pagpanulti"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pulong ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "nahadlok kamo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "mosaka kamo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pagsulti"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:46.788329023Z",
+  "model": "glm-5.3"
+}

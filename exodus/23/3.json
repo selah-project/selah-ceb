@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug sa kabus ayaw pagtahod sa iyang bangga.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "Ug sa kabus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "pagtahod"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "sa iyang bangga"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:33.572915621Z",
+  "model": "glm-5.3"
+}

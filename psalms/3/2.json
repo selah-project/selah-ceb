@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Yahweh, unsa ka kadaghan ang akong mga kasukasukod! Kadaghan nang nagtindog batok kanako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa ka"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ang akong mga kasukasukod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:27.976714819Z",
+  "model": "glm-5.3"
+}

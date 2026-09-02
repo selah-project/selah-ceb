@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gisangput niya ngadto sa yelo ang ilang mga baka, ug ang ilang mga panapton sa rashapim ⟨mga lainla nga kidlat⟩.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Gisangput niya"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "ngadto sa yelo"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ang ilang mga baka"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "ug ang ilang mga panapton"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "sa rashapim ⟨mga lainla nga kidlat⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:23.219218669Z",
+  "model": "glm-5.3"
+}

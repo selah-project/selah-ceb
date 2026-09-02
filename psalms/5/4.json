@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Yahweh, sa buntag imong madungog ang akong tingog; sa buntag maghan-ay ako ⟨sa akong pag-ampo⟩ alang kanimo ug magbantay ako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "imong madungog"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "maghan-ay ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "ug magbantay ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.467521238Z",
+  "model": "glm-5.3"
+}

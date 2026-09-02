@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Magoyag ba ang leon sa lasang, ug walay manggad alang kaniya? Maghatag ba ang batan-ong leon sa iyang tingog gikan sa iyang lungag, kon wala siya makakwarta?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Magoyag ba"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ang leon"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sa lasang"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ug manggad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Maghatag ba"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ang batan-ong leon"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sa iyang tingog"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "gikan sa iyang lungag"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kon wala"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לכד",
+      "gloss": "makakwarta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:55.748203264Z",
+  "model": "glm-5.3"
+}

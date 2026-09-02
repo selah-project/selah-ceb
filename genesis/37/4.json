@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug nakita sa iyang mga igsoon nga ang ilang amahan naghigugma ⟨את⟩ kaniya labaw sa tanan niyang mga igsoon, ug gigukod nila siya, ug wala na sila makahimo sa pagsulti kaniya sa kalinaw.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang mga igsoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "naghigugma kaniya"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ang ilang amahan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "niyang mga igsoon"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "ug gigukod nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "gigukod nila siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makahimo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "sa kalinaw"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:58.008568779Z",
+  "model": "glm-5.3"
+}

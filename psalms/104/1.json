@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Pagpanalangin ka, akong kalag, kang ⟨את⟩ Yahweh; Yahweh, akong Elohim, dako ka nga kaayo; himaya ug kahalangan ang imong gisul-ob.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Pagpanalangin ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "dako ka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nga kaayo"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ug kahalangan"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "gisul-ob"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:31.382508170Z",
+  "model": "glm-5.3"
+}

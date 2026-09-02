@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Magmalipayon ang mga langit, ug maglipay ang yuta; magkuwak ang dagat ug ang tanan nga anaa niini.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ug maglipay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "magkuwak"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ug ang tanan nga anaa niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.796984860Z",
+  "model": "glm-5.3"
+}

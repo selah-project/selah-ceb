@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kung magpahulam ka ug salapi ⟨את⟩ sa akong katawhan ⟨את⟩ sa kabos nga uban kanimo, dili ka mahimong mananglitan kaniya; dili ninyo ibutang kaniya ang tubo sa salapi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "ka magpahulam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kabos"
+    },
+    {
+      "surface": "העני",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nga uban kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ka mahimong"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "mananglitan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "ninyo ibutang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tubo sa salapi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:46.591603579Z",
+  "model": "glm-5.3"
+}

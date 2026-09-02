@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 123,
+  "translation": "Awit sa mga pag-alsa. Kanimo gibayaw ko ⟨את⟩ ang akong mga mata, O ikaw nga nagapuyo sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-alsa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "gibayaw ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga mata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ikaw nga nagapuyo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:32.535295095Z",
+  "model": "glm-5.3"
+}

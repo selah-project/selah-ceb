@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "nga akong gitago alang sa panahon sa kagul-an, alang sa adlaw sa panagbangi ug sa gubat?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "akong gitago"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "alang sa panahon"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sa kagul-an"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "alang sa adlaw"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "sa panagbangi"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ug sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:44:45.650829531Z",
+  "model": "glm-5.3"
+}

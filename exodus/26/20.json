@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug alang sa ikaduhang kilid sa tabernakulo, sa bahin sa amihanan: kaluhaan ka tabla.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ug alang sa kilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa tabernakulo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ang ikaduhang"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa bahin sa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amihanan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tabla"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:57.990762226Z",
+  "model": "glm-5.3"
+}

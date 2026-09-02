@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug gipadala ni Avshalom ang mga tigpanimuot sa tanan nga mga tribo sa Yisrael, nga nag-ingon: Inigkamat ninyo ⟨את⟩ sa tingog sa trumpeta, inyo kining ingnon: Si Avshalom naghari sa Khevron.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ni Avshalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ang mga tigpanimuot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Inigkamat ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sa trumpeta"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "inyo kining ingnon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Khevron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:01.665725847Z",
+  "model": "glm-5.3"
+}

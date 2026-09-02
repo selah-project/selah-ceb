@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Unta si Yahweh nga atong Elohim anaa ⟨kanamo⟩, ingon sa iyang pagkahisama sa atong mga katsila; ayaw siya pagbiya ⟨kanamo⟩ ug ayaw siya pagpasagad ⟨kanamo⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "unta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "atong Elohim"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "anaa kanamo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "iya nga pagkahisama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "atong mga katsila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "siya pagbiya kanamo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "siya pagpasagad kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:14.406598725Z",
+  "model": "glm-5.3"
+}

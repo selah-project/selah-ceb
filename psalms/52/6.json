@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Gihigugma mo ang tanan ⟨nga mga⟩ pulong nga makalugon, O dili-matinud-anong dila!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ghihigugma mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "nga makalugon"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "dili-matinud-anong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.712347283Z",
+  "model": "glm-5.3"
+}

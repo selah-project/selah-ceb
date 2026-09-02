@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Sa ingon ba sa pag-atake sa nag-atake kaniya, giatake ba siya niya? O sa ingon ba sa pagpatay sa iyang mga ginpatay, nagpatay ba siya?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "sa ingon ba sa pag-atake"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "sa nag-atake kaniya"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "giatake ba siya niya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "sa ingon ba sa pagpatay"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "sa iyang mga ginpatay"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "nagpatay ba siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:59.775968727Z",
+  "model": "glm-5.3"
+}

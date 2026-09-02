@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Dalangpanan si Yahweh ⟨sa⟩ kahangturan. Amin, ug amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dalangpanan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨sa⟩ kahangturon"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ug amin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:37.622159201Z",
+  "model": "glm-5.3"
+}

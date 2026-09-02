@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Walay tawo nga nagakagumkom sa gininhawa aron papilion ⟨את⟩ ang gininhawa, ug walay gahum sa adlaw sa kamatayon, ug walay pagpagawas sa gubat, ug dili luwason sa pagkadauton ⟨את⟩ ang iyang tag-iya.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "nga nagakagumkom"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "sa gininhawa"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "arong papilion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gininhawa"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ang gininhawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "gahum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "pagpagawas"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "luwason"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa pagkadauton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang tag-iya"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ang iyang tag-iya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:29.961925666Z",
+  "model": "glm-5.3"
+}

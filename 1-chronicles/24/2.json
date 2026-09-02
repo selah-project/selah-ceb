@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 24:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug namatay si Nadav ug si Avihu sa atubangan sa ilang amahan, ug mga anak wala ⟨sila⟩ aduna; ug naghimo sa pagkapari sila Elazar ug Itamar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "si Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ug si Avihu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "sa ilang amahan"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ug mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨aduna⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila \/ ⟨sila⟩"
+    },
+    {
+      "surface": "ויכהנו",
+      "gloss": "ug naghimo sa pagkapari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "sila Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ug Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:39.913368648Z",
+  "model": "glm-5.3"
+}

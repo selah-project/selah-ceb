@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang suga ni Elohim wala pa matumba, ug si Shemuel naghigda sa templo ni Yahweh, diin didto ang arka ni Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ug ang suga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ug si Shemuel"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "naghigda"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang arka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:48.405860079Z",
+  "model": "glm-5.3"
+}

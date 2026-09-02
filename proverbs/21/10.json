@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang kalag sa daotan nagtinguha sa kadaot; dili ⟨siya⟩ makatonaw og grasya sa iyang mga mata ⟨sa⟩ iyang isigkatawo.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Ang kalag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "nagtinguha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "makatonaw og grasya"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iyang isigkatawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:33.706851679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Niadtong panahona ang hari nagpalambo kang Shadrakh, kang Meshakh, ug kang Abed-Nego sa lalawigan sa Babilonya.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "niadtong panahona"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "nagpalambo"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "kang Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ug Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "sa lalawigan sa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:56:19.569763774Z",
+  "model": "glm-5.3"
+}

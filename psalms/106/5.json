@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Sa pagtan-aw sa kaayohan sa imong mga pinilian, sa pagmalipayon sa kalipay sa imong nasod, sa pagpasidungog uban sa imong kabilin.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "sa kaayohan"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "sa imong mga pinilian"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "sa pagmalipayon"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "sa kalipay"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "sa imong nasod"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "sa pagpasidungog"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "imong kabilin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.424211661Z",
+  "model": "glm-5.3"
+}

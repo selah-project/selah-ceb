@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon si Yahweh kang haSatan: Ania kini ⟨sa⟩ imong kamot; hinuon, ang iyang nefesh bantayi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "haSatan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Ania kini"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "⟨sa⟩ imong kamot"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hinuon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang nefesh"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang nefesh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bantayi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:57.885285945Z",
+  "model": "glm-5.3"
+}

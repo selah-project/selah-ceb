@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 29:30",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug ang ilang mga halad nga minchang ug ang ilang mga nasakop ⟨nga ilimnon⟩ alang sa mga baka, alang sa mga karnero, ug alang sa mga nating karnero, sumala sa ilang ihap, sumala sa balaod.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "ug ang ilang minchang halad"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ug ang ilang mga nasakop"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "alang sa mga baka"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "alang sa mga karnero"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "ug alang sa mga nating karnero"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "sumala sa ilang ihap"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sumala sa balaod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:33.802223672Z",
+  "model": "glm-5.3"
+}

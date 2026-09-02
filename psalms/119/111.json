@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Napanunod nako ang imong mga pagpamatuod ⟨ingon nga bahin⟩ hangtod sa kahangturan, kay ang kalipay sa akong kasingkasing sila ⟨naa⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "gipanunod nako"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ang imong mga pagpamatuod"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:16.959314093Z",
+  "model": "glm-5.3"
+}

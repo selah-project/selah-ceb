@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ilang makaila nga ako si Yahweh, sa pagbiaybiay nako ⟨את⟩ kanila sa mga nasod, ug sa pagpasaboy nako ⟨את⟩ kanila sa mga yuta.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ug ilang makaila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "sa pagbiaybiay nako"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "sa mga nasod"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ug sa pagpasaboy nako"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "sa mga yuta"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:35:54.099995696Z",
+  "model": "glm-5.3"
+}

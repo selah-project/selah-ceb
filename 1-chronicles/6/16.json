@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug kini ang mga ⟨tawo⟩ nga gipatindog ni David sa mga kamot ⟨sa⟩ pag-awit sa balay ni Yahweh, sukad sa pagpahulay sa Arka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini ang mga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pag-awit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "sukad sa pagpahulay"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sa Arka"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:15.330623718Z",
+  "model": "glm-5.3"
+}

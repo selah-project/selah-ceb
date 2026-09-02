@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Sumala sa imong ngalan, O Elohim, mao usab ang imong pagdungog, hangtod sa mga kinatumyan sa yuta; sa pagkamatarong napuno ang imong kamot nga tuong.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "sumala sa imong ngalan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ang imong pagdungog"
+    },
+    {
+      "surface": "על",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "mga kinatumyan sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang imong kamot nga tuong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:57.524610030Z",
+  "model": "glm-5.3"
+}

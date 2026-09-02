@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug miabot sila hangtod sa giikanan ni Kidon, ug gipadpad ni Uzza ⟨את⟩ iyang kamot sa pagdakop sa ⟨את⟩ aron, kay nangalog ang mga baka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "miabot sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "giikanan"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "ni Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadpad"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uzza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang kamot"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "sa pagdakop sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "nangalog"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:29.505906879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "nga iyang giputol ⟨את⟩ kang Avraham, ug ang iyang panumpa kang Yitskhak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "giputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ug ang iyang panumpa"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kang Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:01.084320101Z",
+  "model": "glm-5.3"
+}

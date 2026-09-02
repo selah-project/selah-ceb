@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug nagmabdos siya pag-usab ug natawo siya ug usa ka anak nga lalaki, ug gitawag niya ⟨את⟩ ang iyang ngalan — Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagmabdos"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "natawo siya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:40.325659172Z",
+  "model": "glm-5.3"
+}

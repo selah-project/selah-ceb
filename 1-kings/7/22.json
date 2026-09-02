@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 7:22",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug sa ibabaw sa mga haligi may buhat nga susama sa liryo; ug nahuman na ang buhat sa mga haligi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ug sa ibabaw"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sa mga haligi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "nga liryo"
+    },
+    {
+      "surface": "ותתם",
+      "gloss": "nahuman na"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sa mga haligi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:55.893423016Z",
+  "model": "glm-5.3"
+}

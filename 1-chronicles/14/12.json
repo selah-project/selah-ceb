@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug gibilin nila didto ⟨את⟩ ang ilang mga dios, ug si David mihan-aw, ug gisunog sila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ug gibilin nila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang ilang mga dios"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug mihan-aw si"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ug gisunog sila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:34.268586807Z",
+  "model": "glm-5.3"
+}

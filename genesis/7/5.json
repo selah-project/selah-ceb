@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Gihimo ni Noach ang tanan nga gisugo kaniya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Gihimo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ni Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gisugo kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:19.789093977Z",
+  "model": "glm-5.3"
+}

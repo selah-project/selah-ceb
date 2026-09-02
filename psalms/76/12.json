@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Panumpa ug tuman ngadto kang Yahweh, sa inyong Elohim; tanan nga mga palibot niya magadala ug gasa ngadto sa Hadolkan.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Panumpa"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ug tuman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "mga palibot niya"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ug gasa"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "ngadto sa Hadolkan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:28.031076600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Si Yahweh Tsevaot ⟨kanamo⟩; usa ka misgab ⟨alang⟩ ⟨kanamo⟩ ang Elohim ni Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨kanamo⟩"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "misgab"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨alang⟩ ⟨kanamo⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:05.626293665Z",
+  "model": "glm-5.3"
+}

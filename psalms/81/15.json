@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Sa gamay nga panahon ang ilang mga kaaway pawngon ko, ug batok sa ilang mga kaaway ibalik ko ang akong kamot.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sa gamay nga panahon"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ang ilang mga kaaway"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "pawngon ko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug batok sa"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ang ilang mga kaaway"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ibalik ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.779768619Z",
+  "model": "glm-5.3"
+}

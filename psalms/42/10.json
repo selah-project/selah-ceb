@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Mag-ingon ako ngadto sa El, akong bato-ng-kabatooran: Ngano nga nakalimot ka kanako? Ngano nga molakaw ako nga nagdulom sa panagsup sa mananaway?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "mag-ingon ako"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ngadto sa El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "akong bato"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "nakalimot ka kanako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nagdulom"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "molakaw ako"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sa panagsup"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mananaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:06.311164165Z",
+  "model": "glm-5.3"
+}

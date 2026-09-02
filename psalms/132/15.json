@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Ang iyang pagkaon panalanginan ko sa pagpanalangin; ang iyang mga kabus busugin ko sa tinapay.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ang iyang pagkaon"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "panalanginan ko"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "sa pagpanalangin"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "ang iyang mga kabus"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "busugin ko"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sa tinapay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:55.221462601Z",
+  "model": "glm-5.3"
+}

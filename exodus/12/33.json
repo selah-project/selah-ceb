@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gipugos sa Mitsrayim ang katawhan ⟨sa⟩ pagdali sa pagpagula kanila gikan sa ⟨ang⟩ yuta, kay sila miingon: Tanan kami ⟨nga⟩ mamatay.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "gipugos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "sa pagdali"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "sa pagpagula kanila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ yuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sila miingon"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Tanan kami"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:06.144876259Z",
+  "model": "glm-5.3"
+}

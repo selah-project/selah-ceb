@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Kay mga taga-lain nagtindog batok kanako, ug mga mapintas nga nangita sa akong kalag; wala nila ibutang si Elohim ⟨sa⟩ atubang nila. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mga taga-lain"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ug mga mapintas"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "sa atubang nila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:12.040574187Z",
+  "model": "glm-5.3"
+}

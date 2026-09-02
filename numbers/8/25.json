@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gikan sa anak nga lalaki nga edad lima ka pulo ka tuig, mobalik siya gikan sa panag-alyansa sa pag-alagad, ug dili na siya mag-alagad pa ⟨⟨⟩⟩.",
+  "tokens": [
+    {
+      "surface": "וּמִבֶּן",
+      "gloss": "ug gikan sa anak"
+    },
+    {
+      "surface": "חֲמִשִּׁים",
+      "gloss": "lima ka pulo"
+    },
+    {
+      "surface": "שָׁנָה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "יָשׁוּב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "מִצְּבָא",
+      "gloss": "gikan sa panag-alyansa"
+    },
+    {
+      "surface": "הָעֲבֹדָה",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יַעֲבֹד",
+      "gloss": "mag-alagad"
+    },
+    {
+      "surface": "עוֹד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:43.214682220Z",
+  "model": "glm-5.3"
+}

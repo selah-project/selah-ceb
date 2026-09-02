@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug siya miingon: Anus-a nga dalan kita mosaka? Ug siya miingon: Ang dalan sa kamingawan sa Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug siya miingon"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Anus-a"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kita mosaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug siya miingon"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Ang dalan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:37.154856260Z",
+  "model": "glm-5.3"
+}

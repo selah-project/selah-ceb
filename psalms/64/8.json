@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Apan si Elohim magapana kanila ug usa ka pana; sa kalit mahimo ang ilang mga samad.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Apan ... magapana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ug usa ka pana"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "sa kalit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ang ilang mga samad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:48.288972850Z",
+  "model": "glm-5.3"
+}

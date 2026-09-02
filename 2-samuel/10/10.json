@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ⟨ang⟩ salin sa mga tawo gihatag niya ngadto sa kamot ni Avishai nga iyang igsoon, ug kini naghan-ay sa pag-atubang sa mga anak sa Amon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salin sa mga tawo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "salin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag niya"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "ni Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nga iyang igsoon"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "naghan-ay"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pag-atubang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "sa Amon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:12.465478918Z",
+  "model": "glm-5.3"
+}

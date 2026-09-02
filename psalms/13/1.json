@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Sa pangulo sa mga musikero. Usa ka mizmor alang kang David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa pangulo sa mga musikero"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": " Usa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "alang kang David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.140296982Z",
+  "model": "glm-5.3"
+}

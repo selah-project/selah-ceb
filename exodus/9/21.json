@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ang wala ⟨magbutang⟩ sa iyang kasingkasing sa pulong ni Yahweh nagbilin sa ⟨את⟩ iyang mga sulugoon ug sa ⟨את⟩ iyang mga kahayupan sa uma.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ug ang nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "magbutang"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iyang kasingkasing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "nagbilin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iyang mga sulugoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyang mga kahayupan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "iyang mga kahayupan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:22.299380667Z",
+  "model": "glm-5.3"
+}

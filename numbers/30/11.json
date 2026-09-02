@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug kon didto sa balay sa iyang bana siya nagsaad, o nagsapot ug sapot sa iyang kalag pinaagi sa panumpa —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "didto sa balay"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "sa iyang bana"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "siya nagsaad"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "nagsapot"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ug sapot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "iyaang kalag"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "panumpa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:22.274813874Z",
+  "model": "glm-5.3"
+}

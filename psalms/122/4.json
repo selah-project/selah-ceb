@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Kay didto mosaka ang mga tribo, ang mga tribo ni Yah, ⟨usa ka⟩ pagsaksi alang sa Israel, sa pagpasalamat ngadto sa ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "ang mga tribo"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ang mga tribo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "pagsaksi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "alang sa Israel"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "sa pagpasalamat"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ngadto sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:03.562470085Z",
+  "model": "glm-5.3"
+}

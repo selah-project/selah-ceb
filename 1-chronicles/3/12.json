@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Amatsyahu ang iyang anak, Azaryahu ang iyang anak, Yotam ang iyang anak.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:13.085160988Z",
+  "model": "glm-5.3"
+}

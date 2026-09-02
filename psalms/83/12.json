@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Butanga ang ilang mga tigdako ingon kang Oreb ug ingon kang Zeeb, ug ingon kang Zevah ug ingon kang Tsalmona, tanan nilang mga prinsipe.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Butanga"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "ang ilang mga tigdako"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "ingon kang Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "ug ingon kang Zeeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "ug ingon kang Zevah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "ug ingon kang Tsalmona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "nilang mga prinsipe"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:55.010437217Z",
+  "model": "glm-5.3"
+}

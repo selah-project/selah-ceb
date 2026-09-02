@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 134,
+  "translation": "Mobendisyunar kanimo si Yahweh gikan sa Tsiyon, ang Magbubuhat sa langit ug sa yuta.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Mobendisyunar kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang Magbubuhat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:36.891353551Z",
+  "model": "glm-5.3"
+}

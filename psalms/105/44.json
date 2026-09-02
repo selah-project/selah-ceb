@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Ug gihatag niya kanila ang mga yuta sa mga nasod, ug ang kabalikatan sa mga katawhan ilang nasod ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ang mga yuta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ug ang kabalikatan"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ilang nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:03.172986430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug miadto siya ⟨את⟩ kauban nila, ug miabot sila sa Yarden, ug nagputol sila sa mga kahoy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ug miadto siya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kauban nila"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ug miabot sila"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "ug nagputol sila"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sa mga kahoy"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:53.379600492Z",
+  "model": "glm-5.3"
+}

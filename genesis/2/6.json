@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Apan ang usa ka sapa migawas gikan sa yuta, ug gidilig niini ⟨את⟩ ang tibuok nawong sa yuta (hawmad).",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "apan ang sapa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "migawas paing"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "ug gidilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nawong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yuta (hawmad)"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:17.017563959Z",
+  "model": "glm-5.3"
+}

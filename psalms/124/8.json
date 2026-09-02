@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "Ang atong tabang ⟨naa⟩ sa ngalan ni Yahweh, ang Magbubuhat sa kalangitan ug sa yuta.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "ang atong tabang"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang Magbubuhat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:08.543573233Z",
+  "model": "glm-5.3"
+}

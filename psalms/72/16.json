@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "May pag-abunda sa humay sa yuta, sa tumoy sa kabukiran kini magkurog sama sa Libano ang bunga niini, ug mamulak sila gikan sa dakbayan sama sa sagbot sa yuta.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "may"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "pag-abunda"
+    },
+    {
+      "surface": "בר",
+      "gloss": "humay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa tumoy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "magkurog"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "sama sa Libano"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ang bunga niini"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ug mamulak sila"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "gikan sa dakbayan"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "sama sa sagbot"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.659873804Z",
+  "model": "glm-5.3"
+}

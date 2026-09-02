@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ang ikatulo nga bahin sa ganghaan sa Sur, ug ang ikatulo nga bahin sa ganghaan sa luyo sa mga korredor; ug magbantay kamo ⟨את⟩ sa pagbantay sa balay ingon babera.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "ug ang ikatulo nga bahin"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "סור",
+      "gloss": "sa Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ug ang ikatulo nga bahin"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "sa mga korredor"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ug magbantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "ingon babera"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:23.520406047Z",
+  "model": "glm-5.3"
+}

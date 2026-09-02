@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Gipangita nila ang mga kadaotan; nahuman na ang gipangita nga pagpangita; ug ang tinago sulod sa tawo ug ang kasingkasing ⟨mga⟩ lawom.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "Gipangita nila"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ang mga kadaotan"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "nahuman na"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ang gipangita"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "nga pagpangita"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ug ang tinago sulod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ug ang kasingkasing"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "⟨mga⟩ lawom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:48.288817371Z",
+  "model": "glm-5.3"
+}

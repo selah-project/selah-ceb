@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ba kini ngadto kang Yahweh ang inyong gisulbad, nga katawohan nga mangmang ug dili maalamon? Dili ba siya ang imong amahan, ang nagpalimo kanimo? Siya ang nagbuhat kanimo ug nagpatindog kanimo.",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "inisulbad ninyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawohan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mangmang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "imong amahan"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "nagpalimo kanimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "nagbuhat kanimo"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "ug nagpatindog kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:08.777592592Z",
+  "model": "glm-5.3"
+}

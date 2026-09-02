@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Kamo ang nakakita sa akong gibuhat sa Mitsrayim, ug gidala ko ⟨את⟩ kamo sa ibabaw sa mga pako sa mga agila, ug gidala ko ⟨את⟩ kamo ngadto kanako.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa (akong gibuhat)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akong gibuhat"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ug gidala ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "sa ibabaw sa mga pako — ang butang nga gidala"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "sa mga pako"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "sa mga agila"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ug gidala ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "ngadto kanako — ang butang nga gidala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngadto kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:29.390734066Z",
+  "model": "glm-5.3"
+}

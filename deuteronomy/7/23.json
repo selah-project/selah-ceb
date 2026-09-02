@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ihatag sila ni Yahweh nga imong Elohim sa imong atubangan, ug pagalibugin niya sila nga dakong kagulio, hangtod nga mangalahin sila.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ihatag sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "pagalibugin niya sila"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "kagulio"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "mangalahin sila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:39.266720710Z",
+  "model": "glm-5.3"
+}

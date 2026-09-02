@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gidala ni Yitro, ang ugangan ni Moshe, ⟨את⟩ si Tsipora, asawa ni Moshe, human sa iyang pagpapauli.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gidala ni"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ang ugangan ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "si Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "iyang pagpapauli"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:10.153557422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon si Yahweh: Sa pagkakita nakita nako ⟨את⟩ ang kagul-anan sa akong katawhan nga anaa sa Mitsrayim, ug ⟨את⟩ ang ilang pagtuok nadungog nako tungod sa ilang mga manugpahimutang, kay nahibalo ako ⟨את⟩ sa iyang mga kasakit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sa pagkakita"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kagul-anan sa akong katawhan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kagul-anan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "anaa sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang pagtuok"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ang ilang pagtuok"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nadungog nako"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ilang mga manugpahimutang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga kasakit"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "sa iyang mga kasakit"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:47.856470068Z",
+  "model": "glm-5.3"
+}

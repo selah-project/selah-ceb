@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Tan-awa, testigo sa mga nasod gihatagan ko siya; pangulo ug magsugo sa mga nasod.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "testigo"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "gihatagan ko siya"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "ug magsugo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sa mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:08.273576751Z",
+  "model": "glm-5.3"
+}

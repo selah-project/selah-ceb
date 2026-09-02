@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gibuhat ni David ⟨ang⟩ ingon niana, sumala sa gisugo kaniya ni Yahweh, ug gihampak niya ⟨את⟩ ang mga Pilisti gikan sa Geba hangtod sa imong pag-abot sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gibuhat niya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gisugo kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Pilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pilisti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "gikan sa Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "באך",
+      "gloss": "imong pag-abot"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:32.874417605Z",
+  "model": "glm-5.3"
+}

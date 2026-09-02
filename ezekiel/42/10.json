@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Sa gilapdon sa bongbong sa nataran, dalan sa sidlakan, atbang sa gipunting nga dapit ug atbang sa bildin — ⟨mga⟩ kuwarto.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "sa gilapdon"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "bongbong"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa nataran"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "gipunting nga dapit"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "bildin"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "mga kuwarto"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:22.202409411Z",
+  "model": "glm-5.3"
+}

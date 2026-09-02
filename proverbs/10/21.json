@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang mga ngabil sa matarong nagapakaon ⟨sa⟩ daghan, apan ang mga ulol tingali sa kakulang sa kasingkasing mamatay.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "nagapakaon"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "apan ang mga ulol"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "sa kakulang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:15.762433809Z",
+  "model": "glm-5.3"
+}

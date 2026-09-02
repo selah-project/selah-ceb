@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug daotan kini sa mga mata ni Yahweh, ang buhatong iyang gibuhat, ug gipatay niya siya usab ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhatong iyang gibuhat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug gipatay niya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:44.804615227Z",
+  "model": "glm-5.3"
+}

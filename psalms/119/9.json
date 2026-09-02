@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa unsaon paghimo nga matinaw ang dalan sa batan-on? Pinaagi sa pagbantay niini sumala sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "sa unsaon"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "paghimo nga matinaw"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batan-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang dalan"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ang iyang dalan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sumala sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:39.203405290Z",
+  "model": "glm-5.3"
+}

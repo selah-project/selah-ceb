@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ngadto sa ⟨mga⟩ Reuveni, ug ngadto sa ⟨mga⟩ Gadi, ug ngadto sa katunga sa tribo ni Menashe, naggikan ang pulong ni Yehoshua, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Ug ngadto sa ⟨mga⟩ Reuveni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ug ngadto sa ⟨mga⟩ Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ug ngadto sa katunga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "ni Menashe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "naggikan ang pulong"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:24.500362686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Ug ang iyang mga saserdote sinuslan ko sa kaluwasan, ug ang iyang mga matinud-anon magsiangaw sa kalipay.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "ug ang iyang mga saserdote"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "sinuslan ko"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "sa kaluwasan"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "ug ang iyang mga matinud-anon"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "magsiangaw"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sa kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:55.221584903Z",
+  "model": "glm-5.3"
+}

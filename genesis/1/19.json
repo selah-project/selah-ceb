@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug natabo ang kagabhion, ug natabo ang kaadlawon — ikaupat nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug natabo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ang kagabhion"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug natabo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ang kaadlawon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "ikaupat"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:12.707333414Z",
+  "model": "glm-5.3"
+}

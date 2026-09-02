@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "⟨Adunay⟩ usa ka suba, ang mga sapa niini magmalipayon sa dakbayan ni Elohim, ⟨ang⟩ balaan nga puloyananan ni El Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "ang mga sapa niini"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "puloyananan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:14.757008064Z",
+  "model": "glm-5.3"
+}

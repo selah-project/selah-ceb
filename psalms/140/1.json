@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Sa magdadagway ⟨sa⟩ koral, usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdadagway"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:08.865096275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Sa pagmalipayon sa mga matarong ⟨there is⟩ kadako nga himaya, apan sa pagtindog sa mga dautan ang tawo magatago.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "Sa pagmalipayon"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kadako"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "sa pagtindog"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "magatago"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:27.840934603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang kasingkasing sa tawo nagplano ⟨sa⟩ iyang dalan, apan si Yahweh mao ang nagpatindog sa iyang lakang.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "nagplano"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iyang dalan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "apan si Yahweh"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "iyang lakang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:11.602221502Z",
+  "model": "glm-5.3"
+}

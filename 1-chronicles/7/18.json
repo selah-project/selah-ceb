@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang iyang igsoon nga babae nga si Hammoleketh natawo ⟨kang⟩ Ishod, ug ⟨kang⟩ Aviezer, ug ⟨kang⟩ Makhlah.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Ug ang iyang igsoon nga babae"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "si Hammoleketh"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Makhlah"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Makhlah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:37.537122678Z",
+  "model": "glm-5.3"
+}

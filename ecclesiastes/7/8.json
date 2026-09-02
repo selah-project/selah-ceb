@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Maayo ang katapusan sa usa ka butang kay sa sinugdan niini; maayo ang mapainubsanon nga gininhawa kay sa garboso nga gininhawa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang katapusan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa usa ka butang"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "kay sa sinugdan niini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mapainubsanon"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gininhawa"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "kay sa garboso"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gininhawa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:50.415730003Z",
+  "model": "glm-5.3"
+}

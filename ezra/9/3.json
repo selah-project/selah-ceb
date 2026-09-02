@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug pagkadungog ko ⟨את⟩ niining pulonga, gihiwa ko ⟨את⟩ ang akong bisti ug ang akong bisti nga panggawas, ug gigisi ko ang bubhog sa akong ulo ug sa akong barbas, ug nalingkod ako nga napakurat.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "ug pagkadungog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niining pulonga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "gihiwa ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong bisti"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang akong bisti"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "ug ang akong bisti nga panggawas"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ug gigisi ko"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ang bubhog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sa akong ulo"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ug sa akong barbas"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ug nalingkod ako"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "nga napakurat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:03:48.213861321Z",
+  "model": "glm-5.3"
+}

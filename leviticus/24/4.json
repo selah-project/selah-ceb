@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Igbalik niya ⟨את⟩ ang mga kahayag sa tinahas nga kandeleroha, atubangan ni Yahweh, sa kanunay.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandeleroha"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "tinahas"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "Igbalik niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kahayag"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ang mga kahayag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:20.149458338Z",
+  "model": "glm-5.3"
+}

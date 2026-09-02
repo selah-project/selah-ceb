@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa adlaw nga kana, matod ni Yahweh Tsevaot, tawgon ninyo ang matag tawo ngadto sa iyang isigkatawo, ngadto sa ilalom sa pods ug ngadto sa ilalom sa mga igos.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga kana"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "tawgon ninyo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ngadto sa iyang isigkatawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom sa"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "pods"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom sa"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "mga igos"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:46.004791200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ang tanan ⟨nga⟩ babaye nga maalam sa kasingkasing naghimis ug hilo sa ilang mga kamot, ug gidala nila ang gihimis — ⟨את⟩ ang tekhelet (asul nga lana) ug ⟨את⟩ ang argaman (purpura), ⟨את⟩ ang tola'at hashani (ulod nga scarlet) ug ⟨את⟩ ang shesh (maayong lino).",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babaye"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "sa ilang mga kamot"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "naghimis ug hilo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ug gidala nila"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ang gihimis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tekhelet (asul nga lana)"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ang tekhelet (asul nga lana)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang argaman (purpura)"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ang argaman (purpura)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tola'at hashani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ang ulod"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nga scarlet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang shesh (maayong lino)"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ang shesh (maayong lino)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:15.634294149Z",
+  "model": "glm-5.3"
+}

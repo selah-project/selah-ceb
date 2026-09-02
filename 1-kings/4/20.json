@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Si Yehudah ug si Yisrael ⟨nga⟩ daghan, sama sa balas nga ⟨anaa⟩ sa baybayon sa dagat ⟨sa kadaghan⟩, nagakaon ug nagainum ug nagakalipay.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ug si Yisrael"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "sama sa balas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa baybayon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadaghan"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "nagakaon"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ug nagainum"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "ug nagakalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:20.400906597Z",
+  "model": "glm-5.3"
+}

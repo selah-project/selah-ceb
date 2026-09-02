@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ikaw ⟨ang⟩ akong tago-anan; gikan sa kagul-anan imo akong bantayan; sa mga paninghot sa pagluwas imo akong paliboton. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "tago-anan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akong"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "kagul-anan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "imo akong bantayan"
+    },
+    {
+      "surface": "רני",
+      "gloss": "paninghot"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "pagluwas"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "imo akong paliboton"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:09.721726524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "⟨Ba⟩ ako ang dagat, o ba ako ang tannin, kay nagbutang ka ug bantay ibabaw kanako?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o ba"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "ang tannin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "nagbutang ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ibabaw kanako"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ug bantay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:30.262243791Z",
+  "model": "glm-5.3"
+}

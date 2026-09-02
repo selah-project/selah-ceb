@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Gikuha usab ni David ⟨את⟩ ang tanan nga mga karnero ug mga baka; gipadagan kini sa atubangan sa maong mga kahayopan, ug sila nanagtambong: 'Kini mao ang sinuslak ni David.'",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gikuha usab ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga karnero ug mga baka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "ug mga baka"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "gipadagan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan sa"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mga kahayopan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug sila nanagtambong"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sinuslak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:57.674828920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Kabtangan ug kadato ⟨naa⟩ sa iyang balay; ug ang iyang pagkamatarong nanindig hangtod sa kahangtoran.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "kabtangan"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ug kadato"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ug ang iyang pagkamatarong"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nanindig"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa kahangtoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:05.778828927Z",
+  "model": "glm-5.3"
+}

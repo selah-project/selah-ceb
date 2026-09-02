@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Mga kadaot anaa sa taliwala niini, ug dili mohawa gikan sa iyang karsada ang panikod ug pangilad.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "mga kadaot"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa taliwala niini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "mohawa"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "gikan sa iyang karsada"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ang panikod"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ug pangilad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:18.075487958Z",
+  "model": "glm-5.3"
+}

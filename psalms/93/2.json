@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 93,
+  "translation": "Natukod ang imong trono sukad sa unang panahon; gikan sa kahangturan ikaw ⟨na⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "natukod"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ang imong trono"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "sukad sa unang panahon"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sa kahangturan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.776419547Z",
+  "model": "glm-5.3"
+}

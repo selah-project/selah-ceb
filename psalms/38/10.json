@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Adonay, atubangan nimo ⟨ang⟩ tibook nga akong gana, ug ang akong pagpaninghot gikan kanimo wala matago.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "atubangan nimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "nga akong gana"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ug ang akong pagpaninghot"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "matago"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:53.841048015Z",
+  "model": "glm-5.3"
+}

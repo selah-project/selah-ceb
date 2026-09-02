@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Sa maong panahon nagsaka ang mga sulugoon ni Nevukhadnetstsar nga hari sa Bavel paingon sa Yerushalayim, ug ang dakbayan miadto sa pagsapos.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Sa maong panahon"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sa maong"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagsaka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga sulugoon"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "ni Nevukhadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ug miadto"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "sa pagsapos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:28.478532142Z",
+  "model": "glm-5.3"
+}

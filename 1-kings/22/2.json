@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug nahitabo sa ikatulong tuig nga mikanaog si Yehoshafat, hari sa Yehudah, ngadto sa hari sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ikatulong"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ug mikanaog"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:48.345041790Z",
+  "model": "glm-5.3"
+}

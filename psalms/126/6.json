@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 126,
+  "translation": "Naglakaw siya nga maglakaw ug naghilak, nagdala sa binhi sa pagtanum; sa pag-abot moabot siya uban sa pag-awit, nagdala sa iyang mga sangputos.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Naglakaw"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "nga maglakaw"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ug naghilak"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sa binhi sa pagtanum"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "sa pagtanum"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "moabot siya"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "uban sa pag-awit"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "sa iyang mga sangputos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:45.762000927Z",
+  "model": "glm-5.3"
+}

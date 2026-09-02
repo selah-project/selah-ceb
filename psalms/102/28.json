@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Apan ikaw mao ⟨ang gihisgutan⟩, ug ang imong mga tuig dili matapos.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apan ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ug ang imong mga tuig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "matapos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:27.270810585Z",
+  "model": "glm-5.3"
+}

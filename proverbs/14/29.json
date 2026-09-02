@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 14:29",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang taga-as sa kaakgit daghan ang pagtamdan; ug ang mubo sa gininhawa nagataas sa kaikag.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "taga-as"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kaakgit"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "pagtamdan"
+    },
+    {
+      "surface": "וקצר",
+      "gloss": "ug ang mubo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gininhawa"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "nagataas"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "kaikag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:35.206186594Z",
+  "model": "glm-5.3"
+}

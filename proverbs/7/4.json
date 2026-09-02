@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ingna ang kaalam: 'Igsoon kong babae ikaw,' ug tawga nga imong paryente ang salabutan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ingna"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Igsoon kong babae"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ug imong paryente"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ang salabutan"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "tawga"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:41.416097312Z",
+  "model": "glm-5.3"
+}

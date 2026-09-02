@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gisugo ni Yirmeyahu ⟨את⟩ si Barukh nga nagaingon: Ako gigapos ⟨ang⟩, dili ako makasulod sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "ug gisugo"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Barukh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "si Barukh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "gigapos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makasulod"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pag-sulod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:26:37.815538270Z",
+  "model": "glm-5.3"
+}

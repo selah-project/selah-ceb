@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Luwasa ako gikan sa mga mamumugos sa kadaotan, ug gikan sa mga tawo sa dugo luwasa ako.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Luwasa ako"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "gikan sa mga mamumugos sa"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "ug gikan sa mga tawo sa"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:03.010578841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay ang damgo moabot tungod sa kadaghan sa kabalaka, ug ang tingog sa buang — tungod sa kadaghan sa mga pulong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ang damgo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "tungod sa kadaghan"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "sa kabalaka"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ug ang tingog"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sa buang"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "tungod sa kadaghan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "sa mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:21.247912072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miingon ang uyoan ni Shaul: Isulti ⟨kuno⟩ kanako unsa ang giingnan kaninyo ni Shemuel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ang uyoan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kuno⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingnan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:03.522401102Z",
+  "model": "glm-5.3"
+}

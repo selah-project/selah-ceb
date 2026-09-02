@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Gipadala ka ni Yahweh sa ⟨ang⟩ dalan ug miingon: Lakaw ⟨ka⟩ ug ihalad sa paglaglag ⟨את⟩ ⟨ang⟩ mga makasasala — ⟨את⟩ si Amalek — ug makiggubat ka batok kanila hangtod nga malaglag sila ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Gipadala ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa ⟨ang⟩ dalan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw ⟨ka⟩"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "ug ihalad sa paglaglag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ mga makasasala"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "⟨ang⟩ mga makasasala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "si Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "ug makiggubat ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "batok kanila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "malaglag sila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga Amalek)"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:49.419747185Z",
+  "model": "glm-5.3"
+}

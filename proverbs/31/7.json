@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Moinum siya ug makalimot sa iyang kakabos, ug ang iyang kagutom dili na niya mahinumduman.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Moinum siya"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ug makalimot"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "sa iyang kakabos"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "ug ang iyang kagutom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mahinumduman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:18.132666437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Sa ikaduhang bulan, sa ikanapulog-upat ka adlaw, taliwala sa mga kagabhion, buhaton nila ⟨את⟩ kini; uban sa mga tinapay nga walay lebadura ug mga mapait nga tanom mokaon sila niini.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Sa ikaduhang bulan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "Sa ikaduhang bulan"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ikanapulog-upat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sa mga kagabhion"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "buhaton nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga tinapay nga walay lebadura"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "ug mga mapait nga tanom"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "mokaon sila niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:35:21.494427705Z",
+  "model": "glm-5.3"
+}

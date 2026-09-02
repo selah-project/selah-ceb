@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang mga bisti sa pag-alagad sa balaang dapit, ⟨את⟩ ang mga balaang bisti alang kang Aharon ang kohen, ug ⟨את⟩ ang mga bisti sa iyang mga anak sa pagkakohen",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bisti sa pag-alagad"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaang dapit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga balaang bisti"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ang balaang"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "alang kang Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga bisti sa iyang mga anak"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pagkakohen"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:21.305353747Z",
+  "model": "glm-5.3"
+}

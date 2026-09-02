@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug bangon nga sayo si Yehoshua sa buntag, ug gidala sa mga saserdote ⟨את⟩ ⟨sa⟩ arca ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ug bangon nga sayo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ug gidala"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arca"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:02.883731337Z",
+  "model": "glm-5.3"
+}

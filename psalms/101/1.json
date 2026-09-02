@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Ni kang David, usa ka mizmor. Ang hesed ug ang paghukom pag-awiton ko; kanimo, Yahweh, mag-zamer ako.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni kang David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug ang paghukom"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "pag-awiton ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mag-zamer ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:06.140105056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug nakita ni Atalyahu, ang inahan ni Ahaziyahu, nga patay na ang iyang anak, ug mobangon siya ug gipatay niya ⟨את⟩ ang tibuok nga kaliwat sa gingharian sa balay ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "Ug si Atalyahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ang inahan ni"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziyahu"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang iyang anak"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "mobangon siya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "gipatay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga kaliwat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok nga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "sa gingharian"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay ni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:16.807574610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 93,
+  "translation": "Naghari si Yahweh, gisul-ob niya ang kadungganan; gisul-ob ni Yahweh ang kusog, ug giputos niya ⟨kini⟩ sa iyang hawak; oo, natukod ang kalibutan, dili gayod kini matukar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "gisul-ob niya"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "gisul-ob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "giputos niya sa hawak"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "natukod"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "matukar"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.776192823Z",
+  "model": "glm-5.3"
+}

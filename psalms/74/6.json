@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Karon ang tanang inukit niini magkahiusa gigamyon nila sa wasay ug sa martilyo.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "karon"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "ang tanang inukit niini"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "sa wasay"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "ug sa martilyo"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "gigamyon nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.324240818Z",
+  "model": "glm-5.3"
+}

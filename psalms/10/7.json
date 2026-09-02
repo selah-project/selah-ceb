@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Panumpa ang iyang baba, puno sa pandaraya ug panlilimos; sa ilalom sa iyang dila kabalik-i ug pagkadautan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "panumpa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "iyang baba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "ug pandaraya"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ug panlilimos"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "sa iyang dila"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kabalik-i"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ug pagkadautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:08.891713855Z",
+  "model": "glm-5.3"
+}

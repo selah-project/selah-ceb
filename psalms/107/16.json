@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Kay nabali niya ang mga pultahan sa tumbaga, ug ang mga barahan sa puthaw iyang gibakol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nabali niya"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ang mga pultahan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tumbaga"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ug ang mga barahan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sa puthaw"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "iya nga gibakol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:43.927789661Z",
+  "model": "glm-5.3"
+}

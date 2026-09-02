@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ⟨את⟩ kining tungkod imong kuhaon sa imong kamot, nga diin imong buhaton ⟨את⟩ ang mga timailhan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kining tungkod"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kining tungkod"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "imong kuhaon"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "sa imong kamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga timailhan"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ang mga timailhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:10.749624156Z",
+  "model": "glm-5.3"
+}

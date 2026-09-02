@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 25:44",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ang imong sulugong lalaki ug ang imong sulugong babaye nga magaana kanimo — gikan sa ⟨את⟩ mga nasud nga naglibut kaninyo, gikan kanila makapalit kamo ug sulugong lalaki ug sulugong babaye.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Ug ang imong sulugong lalaki"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ug ang imong sulugong babaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "magaana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mga nasud"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "naglibut kaninyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "תקנו",
+      "gloss": "makapalit kamo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ug sulugong lalaki"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug sulugong babaye"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:19.195686460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 127,
+  "translation": "Sama sa mga palaso sa kamot sa usa ka gamhanan, mao usab ang mga anak sa pagkatanod ⟨sa kabatan-on⟩.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Sama sa mga palaso"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "kabatan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:03.189391774Z",
+  "model": "glm-5.3"
+}

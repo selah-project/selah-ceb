@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang nagatawo sa kaila moadto sa kasubo alang kaniya; ug ang amahan sa nabuluk dili magmalipayon.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "Ang nagatawo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "kaila"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "sa kasubo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabuluk"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:17.883196024Z",
+  "model": "glm-5.3"
+}

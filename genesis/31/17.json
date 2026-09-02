@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Mitindog si Yaakov ug gisakyan niya ⟨את⟩ ang iyang mga anak ug ⟨את⟩ ang iyang mga asawa sa mga kamelyo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "gisakyan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga asawa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ang iyang mga asawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "mga kamelyo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:56.167445936Z",
+  "model": "glm-5.3"
+}

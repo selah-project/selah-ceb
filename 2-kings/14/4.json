@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Apan ang mga bama wala matangtang; gihapon pa ang katawhan nga nagsaka ug manunungab sa mga bama.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga bama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "matangtang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gihapon pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nagsaka ug halad"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "manunungab ug insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga bama"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:30.053825208Z",
+  "model": "glm-5.3"
+}

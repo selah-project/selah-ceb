@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang nagatrabaho sa iyang yuta mabusog sa tinapay; apan ang naningkil sa mga walay sulod kulang sa kasingkasing.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "Ang nagatrabaho"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sa iyang yuta"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sa tinapay"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "apan ang naningkil"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "sa mga walay sulod"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:12.567160010Z",
+  "model": "glm-5.3"
+}

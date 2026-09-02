@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Sumala sa tanan nga akong ipakita ⟨את⟩ kanimo ⟨את⟩ — ang pamaagi sa Balay-balayan ug ⟨את⟩ ang pamaagi sa tanan nga mga kagamitan niini — mao usab kini ang inyong buhaton.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ipakita"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pamaagi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ang pamaagi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa Balay-balayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang pamaagi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ang pamaagi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan niini"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "inyong buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:09.026534250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ipadala nimo siya ngadto sa sulod sa imong balay, ug magapahimotso siya ⟨את⟩ sa iyang ulo, ug buhaton niya ⟨את⟩ sa iyang mga kuko",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "Ipadala nimo siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "imong balay"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "ug magapahimotso siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang ulo"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "iyang ulo"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ug buhaton niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga kuko"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "iyang mga kuko"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:29.974830327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang hari nga si David tigulang na, mosulod na ⟨sa⟩ mga adlaw, ug gisul-oban sila siya ⟨sa⟩ mga bisti, apan wala siya makabati ⟨sa⟩ kainit.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ug ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang na"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mosulod na"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "gisul-oban nila siya"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "makabati sa kainit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:40.373247399Z",
+  "model": "glm-5.3"
+}

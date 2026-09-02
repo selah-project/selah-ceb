@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Pinaagi sa pagpit-os ug sa paghukom gikuha siya; ug ⟨את⟩ sa iyang kaliwatan — kinsa ang mopahinungod ⟨niini⟩? Kay giputol siya gikan sa yuta sa mga buhi; tungod sa paglapas sa akong katawhan, naigo ang castigo ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "sa pagpit-os"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "ug sa paghukom"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang kaliwatan"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "sa iyang kaliwatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ang mopahinungod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "giputol siya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa mga buhi"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "tungod sa paglapas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "naigo ang castigo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:40:15.956838295Z",
+  "model": "glm-5.3"
+}

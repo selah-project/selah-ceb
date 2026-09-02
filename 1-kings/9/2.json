@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nagpakita si Yahweh kang Shelomoh sa ikaduhang higayon, ingon sa iyang pagpakita kaniya sa Giv'on.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "sa ikaduhang higayon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "pagpakita"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "sa Giv'on"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:01.076067306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug migula ang hari sa Israel, ug migisi ⟨את⟩ ang mga kabayo ug ⟨את⟩ ang mga karwahe, ug nag-atake sa Aram uban sa dakong pagpatay.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "migula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "migisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kabayo"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ang mga kabayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga karwahe"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ang mga karwahe"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "nag-atake"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "pagpatay"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dakong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:13.223418477Z",
+  "model": "glm-5.3"
+}

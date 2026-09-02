@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug sa ibabaw mga bato nga bililho sumala sa sukod sa ginakiltong bato, ug sedro.",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "ug sa ibabaw"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "bililho"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "sumala sa sukod"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ginakiltong bato"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "ug sedro"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:15.950190095Z",
+  "model": "glm-5.3"
+}

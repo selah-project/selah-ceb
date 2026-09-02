@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug imong ihiusa ⟨את⟩ ang lima ka tabil sa nag-inusara, ug ⟨את⟩ ang unom ka tabil sa nag-inusara; ug imong itikihla ⟨את⟩ ang ika-unom nga tabil atbang sa atubangan sa tolda.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "imong ihiusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lima ka tabil"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ka tabil"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sa nag-inusara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang unom ka tabil"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ka tabil"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sa nag-inusara"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "ug imong itikihla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ika-unom nga tabil"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ang tabil"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "ang ika-unom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:27.308223032Z",
+  "model": "glm-5.3"
+}

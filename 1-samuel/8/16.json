@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨את⟩ inyong mga sulugoon nga lalaki, ug ⟨את⟩ inyong mga sulugoon nga babaye, ug ⟨את⟩ inyong mga batan-ong lalaki nga pinakamaayo, ug ⟨את⟩ inyong mga asno kuhaon niya, ug ipahimo niya sa iyang kaugalingong buhat.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga sulugoon nga lalaki"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "inyong mga sulugoon nga lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga sulugoon nga babaye"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "inyong mga sulugoon nga babaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga batan-ong lalaki"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "inyong mga batan-ong lalaki"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nga pinakamaayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga asno"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "inyong mga asno"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon niya"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug ipahimo niya"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "sa iyang kaugalingong buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:05.198410575Z",
+  "model": "glm-5.3"
+}

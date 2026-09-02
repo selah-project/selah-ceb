@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Naghari si Yahweh — mangilog kini ⟨kaghurot⟩ ang mga katawhan; ⟨siya⟩ nga naglingkod ⟨ibabaw sa⟩ mga kerub, moluktok kini ang yuta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "mangilog kini ⟨kaghurot⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "mga kerub"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "moluktok kini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:09.875551168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Kay sa kadtong adlawa mag-atone ⟨siya⟩ alang kaninyo aron sa paghimo malinis ⟨את⟩ kaninyo gikan sa tanan ninyong mga sala; atbang kang Yahweh mamalinis kamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa kadtong adlawa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kadto"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "mag-atone ⟨siya⟩"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "aron sa paghimo malinis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ninyong mga sala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "mamalinis kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:32.567958925Z",
+  "model": "glm-5.3"
+}

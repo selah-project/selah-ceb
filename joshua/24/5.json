@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gipadala ko ⟨את⟩ si Moshe ug ⟨את⟩ si Aharon, ug gibunalan ko ⟨את⟩ ang Mitsrayim sumala sa akong gibuhat diha sa taliwala niini; ug pagkahuman gipagula ko ⟨את⟩ kamo.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "Ug gipadala ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ug gibunalan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akong gibuhat"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "diha sa taliwala niini"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ug pagkahuman"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "gipagula ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:52.600014313Z",
+  "model": "glm-5.3"
+}

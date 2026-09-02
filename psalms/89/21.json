@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Nakaplagan ko si David nga akong sulogoon; sa akong balaang lana gidinihogan ko siya.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "nakaplagan ko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga akong sulogoon"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akong balaan"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "gidinihogan ko siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:22.361761609Z",
+  "model": "glm-5.3"
+}

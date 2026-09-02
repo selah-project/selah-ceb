@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Panawag kamo ug kalipay kang Elohim, ⟨ang⟩ atong kusog; pag-usab kamo ug kusog nga tingog kang Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "panawag kamo ug kalipay"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "atong kusog"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pag-usab kamo ug kusog nga tingog"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:53.437609082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang dagway sa mga baka ⟨ang⟩ anaa sa ubos niini, naglibut nga naglibut, nagpalibot ⟨את⟩ niini napulo ka matag siko, nagapalibot ⟨את⟩ sa Dagat nga naglibut, duha ka laray ang mga baka, gintunaw sa pagtunaw niini.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "ug ang dagway"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "sa mga baka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "naglibut"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga naglibut"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "nagpalibot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niini",
+      "marks": "niini (ang Dagat)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka matag siko"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "nagapalibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa Dagat"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga naglibut"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "ka laray"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "gintunaw"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "sa pagtunaw niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:01.115404073Z",
+  "model": "glm-5.3"
+}

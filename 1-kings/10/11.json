@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 10:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang mga sakayan ni Khiram usab, nga nagdala ug bulawan gikan sa Ofir, nagdala gikan sa Ofir ug daghang kaayo nga kahoy nga almug, ug mahal nga bato.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ug usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mga sakayan"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Khiram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "מאופיר",
+      "gloss": "gikan sa Ofir"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "מאפיר",
+      "gloss": "gikan sa Ofir"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "almug"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ug bato"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "mahal"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:31.193281176Z",
+  "model": "glm-5.3"
+}

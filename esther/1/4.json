@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "sa iyang pagpakita ⟨את⟩ sa bahandi sa himaya sa iyang gingharian ug ⟨את⟩ sa kabililhon sa kaanyag sa iyang kadako, daghang mga adlaw — kat-uman ug usa ka gatos ka adlaw.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "sa iyang pagpakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bahandi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "sa bahandi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sa himaya"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sa iyang gingharian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa kabililhon"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "sa kabililhon"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sa kaanyag"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "sa iyang kadako"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "kat-uman"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ug usa ka gatos"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:58.059899481Z",
+  "model": "glm-5.3"
+}

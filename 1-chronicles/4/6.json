@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug natawo kaniya ni Naarah ⟨את⟩ si Ahuzzam, ug ⟨את⟩ si Chepher, ug ⟨את⟩ si Temeni, ug ⟨את⟩ si Haahashtari; kini ang mga anak ni Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ug natawo kaniya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ni Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ahuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "si Ahuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Chepher"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "si Chepher"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "si Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Haahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "si Haahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini ang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "ni Naarah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:20.514289570Z",
+  "model": "glm-5.3"
+}

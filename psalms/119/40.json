@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Tan-awa, nagapangandoy ako sa imong mga sugo; sa imong pagkamatarong pabuhi ako.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "nagapangandoy ako"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "sa imong mga sugo"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imong pagkamatarong"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "pabuhi ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:24.506379642Z",
+  "model": "glm-5.3"
+}

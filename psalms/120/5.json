@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Kaguol alang kanako, kay naglangyaw ako sa Meshek, nagpuyo ako uban sa ⟨mga⟩ tolda sa Kedar.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Kaguol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "naglangyaw ako"
+    },
+    {
+      "surface": "משך",
+      "gloss": "sa Meshek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "nagpuyo ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "mga tolda"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sa Kedar"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:25.412053832Z",
+  "model": "glm-5.3"
+}

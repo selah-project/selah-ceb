@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug nagtambayayong siya kauban ang iyang mga pangulo ug ang iyang mga kusgan nga manggugubat sa pagsira ⟨את⟩ sa tubig sa mga tinubdan nga anaa gawas sa dakbayan, ug gitabangan siya nila.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ug nagtambayayong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ang iyang mga pangulo"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "ug ang iyang mga kusgan nga manggugubat"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "sa pagsira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tubig sa mga tinubdan"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "mga tinubdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "ug gitabangan siya nila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:29:13.880390202Z",
+  "model": "glm-5.3"
+}

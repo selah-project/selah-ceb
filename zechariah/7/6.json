@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug kung mokaon kamo ug kung mainom kamo, dili ba kamo ang mga mokaon ug kamo ang mga mainom?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ug kung"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mokaon kamo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug kung"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "mainom kamo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ang mga mokaon"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ug kamo"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "ang mga mainom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:19.415512614Z",
+  "model": "glm-5.3"
+}

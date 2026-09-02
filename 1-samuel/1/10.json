@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ⟨siya⟩ mapait ang kalag, ug nag-ampo ⟨ngadto⟩ kang Yahweh, ug naghilak nga hilak.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "nag-ampo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "naghilak"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "nga hilak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:12:57.085226809Z",
+  "model": "glm-5.3"
+}

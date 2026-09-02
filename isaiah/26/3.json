@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ang hunahuna nga napalagpat ⟨kanimo⟩, panipigon nimo sa kalinaw, kalinaw; kay diha ⟨kanimo⟩ nagatoo ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "ang hunahuna"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "nga napalagpat"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "panipigon nimo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sa kalinaw"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "diha ⟨kanimo⟩"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "nagatoo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:52.458858410Z",
+  "model": "glm-5.3"
+}

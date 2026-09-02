@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ibutang nimo ngadto sa Aron ⟨את⟩ ang pagsaksi nga akong ihatag kanimo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ug ibutang nimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagsaksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang pagsaksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akong ihatag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:21.619863884Z",
+  "model": "glm-5.3"
+}

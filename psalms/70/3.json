@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 70,
+  "translation": "Magpahilaw sila ug magpaka-aulaw sila, ang mga nangita ⟨sa⟩ akong kalag; mobalik sila paadto sa luyo ug mag-aulaw sila, ang mga ganahan sa akong kadaot.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "magpahilaw sila"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ug magpaka-aulaw sila"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ang mga nangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mobalik sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paadto sa luyo"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ug mag-aulaw sila"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ang mga ganahan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sa akong kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:00.102618974Z",
+  "model": "glm-5.3"
+}

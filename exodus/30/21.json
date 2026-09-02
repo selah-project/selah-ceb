@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 30:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "UG maghugas sila sa ilang mga kamot ug sa ilang mga tiil, ug dili sila mamatay; ug kini mahimong ⟨usa ka⟩ batasan nga dayon alang kaniya ug alang sa iyang kaliwat, sa tanan nilang mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "ug maghugas sila"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sa ilang mga kamot"
+    },
+    {
+      "surface": "ורגליהם",
+      "gloss": "ug sa ilang mga tiil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila mamatay"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ug kini mahimong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "חק",
+      "gloss": "batasan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "ug alang sa iyang kaliwat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa tanan nilang mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:29.196670829Z",
+  "model": "glm-5.3"
+}

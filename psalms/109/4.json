@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Sa puli sa akong gugma gisumbong nila ako; apan ako — ⟨pag-ampo⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Sa puli sa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "akong gugma"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "gisumbong nila ako"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:45.218072201Z",
+  "model": "glm-5.3"
+}

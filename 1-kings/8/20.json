@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gituman ni Yahweh ⟨את⟩ ang iyang gisulti nga iyong gisulti; ug ako mitindog sa dapit ni David nga akong amahan, ug nakalingkod sa trono ni Yisrael, sumala sa gisulti ni Yahweh, ug nagtukod ako sa balay alang sa ngalan ni Yahweh, Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "gituman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang gisulti"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iyang gisulti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iyong gisulti"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ako mitindog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa dapit ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "nakalingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "nagtukod ako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "alang sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:39.948431626Z",
+  "model": "glm-5.3"
+}

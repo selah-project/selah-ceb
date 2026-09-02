@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Sa ika-trentay-syete ka tuig kang Yoash nga hari sa Yehudah, naghari si Yehoash nga anak ni Yehoahaz sa Israel ⟨sa⟩ Shomron, napulo'g unom ka tuig.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sa ... ka tuig"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "trenta"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ug pito"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "kang Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "si Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "⟨sa⟩ Shomron"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo'g"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:06.165870292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "ug ⟨את⟩ ⟨ang⟩ Arvadhonhon, ug ⟨את⟩ ⟨ang⟩ Tsemarinhon, ug ⟨את⟩ ⟨ang⟩ Khamathinhon; ug pagkahuman nagkatibulaag ang mga banay sa Kanaanhon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "⟨ang⟩ Arvadhonhon"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "⟨ang⟩ Arvadhonhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "⟨ang⟩ Tsemarinhon"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "⟨ang⟩ Tsemarinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "⟨ang⟩ Khamathinhon"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "⟨ang⟩ Khamathinhon"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ug pagkahuman"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "nagkatibulaag"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mga banay"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "sa Kanaanhon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:02.228913879Z",
+  "model": "glm-5.3"
+}

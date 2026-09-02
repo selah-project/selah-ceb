@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Itago mo ako gikan sa sod sa mga tawong daotan, gikan sa pagtigum sa mga mamumuo sa kadaotan.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Itago mo ako"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "gikan sa sod"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sa mga tawong daotan"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "gikan sa pagtigum"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sa mga mamumuo"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:39.916979318Z",
+  "model": "glm-5.3"
+}

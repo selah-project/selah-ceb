@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Gihimo sa Yehudah ang daotan sa atubangan ni Yahweh, ug gipahinukdog nila siya ⟨את⟩ labaw pa sa tanan nga gibuhat sa ilang mga amahan, pinaagi sa ilang mga sala nga ilang gisala.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "gipahinukdog nila siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (Yahweh)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw pa sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "pinaagi sa ilang mga sala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ilang gisala"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:34.486232919Z",
+  "model": "glm-5.3"
+}

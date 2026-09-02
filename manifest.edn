@@ -1,0 +1,104 @@
+#:rendering{:label "Sinugboanon",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :open-questions
+              :rendering/people
+              :rendering/process
+              :rendering/adjudication
+              :rendering/checks]},
+            :role :served,
+            :produced {:from "2026-09-01", :to "2026-09-02"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "ceb.v1",
+            :catalog {:ui "resources/i18n/ui/ceb.edn"},
+            :license "CC BY-SA 4.0 (The Selah Cebuano Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ceb.md",
+             :rails-commit "3ce86913",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonay",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "יה" "Yah",
+              "יהוה" "Yahweh",
+              "שדי" "Shadday"},
+             :open-questions
+             ["gate specimen: ang bracketed vs bare"
+              "UI: pung- coinages, Ngalan sa Dios vs Balaang Ngalan, tabon sa dughan, lanot"]},
+            :status :live,
+            :adjudication
+            {:chair 52,
+             :note "the fifty-second chair — the fourth Austronesian"},
+            :checks
+            {:census
+             {:diyos-lawful 155,
+              :name-seat-ginoo 0,
+              :ginoo-human-lawful 51,
+              :verses 23213,
+              :elohim 2154,
+              :leak-classes 0,
+              :yahweh 5805,
+              :sheol-seat-impyerno 0,
+              :et-verses 7385},
+             :aleph-tav {:misaligned 0, :stray 0, :missing 0},
+             :residue-after-relay 35,
+             :tekoa {:lawful 229, :garble 0},
+             :model-tics [:cyrillic-a-in-sila :english-is-fill]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-ceb",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :ceb,
+            :process
+            [:relay-burn
+             :census-gleaning-rounds
+             :hand-repair
+             :tekoa-review
+             :aleph-tav-audit
+             :readers-documents
+             :notes
+             :manifest]}

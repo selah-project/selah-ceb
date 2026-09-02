@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mitindog ang usa ka bag-ong hari sa ibabaw sa Mitsrayim, nga wala makaila ⟨את⟩ kang Yosef.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ug mitindog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:43.212474295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug karon ikaw nag-ingon: Lakaw, ingna ang imong adon: Ania kini si Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ingna"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "ang imong adon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "kini si Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:20.930540128Z",
+  "model": "glm-5.3"
+}

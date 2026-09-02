@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug ang mga sarhento sa mga Pelishteh nag-agi ⟨sa⟩ mga gatos ug ⟨sa⟩ mga libo; ahi si David ug ang iyang mga tawo nga nag-agi sa luyo kauban si Akhish.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "Ug ang mga sarhento"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishteh"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "nag-agi"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "⟨sa⟩ mga gatos"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "ug ⟨sa⟩ mga libo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ahi si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ug ang iyang mga tawo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "nga nag-agi"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "si Akhish"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:51.917354609Z",
+  "model": "glm-5.3"
+}

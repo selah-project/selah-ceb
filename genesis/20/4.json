@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": " Apan si Avimelekh wala magduol kaniya, ug miingon: Adonay, ang nasod ba, bisan ang matarong, patyon mo?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "apan si Avimelekh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "magduol"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "adני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang nasod"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "patyon mo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:16.487673398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mga kamot sa tawo ⟨aangkop⟩ ubos sa ilang mga pako, sa ilang upat ka kiliran; ug ang ilang mga nawong ug ang ilang mga pako ⟨adunay⟩ sa upat ka taliwala kanila.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "ug mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ubos"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "sa ilang mga pako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "upat ka"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "ilang kiliran"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ug ang ilang mga nawong"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "ug ang ilang mga pako"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "sa upat ka taliwala kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:32:24.093244588Z",
+  "model": "glm-5.3"
+}

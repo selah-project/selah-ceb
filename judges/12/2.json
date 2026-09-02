@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 12:2",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miingon si Yiphtach kanila: «Tawo sa panagbingkil ako ug ang akong katawhan, kauban sa mga anak ni Ammon, nga dakong kaayo; ug nanawag ako ⟨את⟩ ⟨kaninyo⟩, apan wala kamo mangluwas ⟨את⟩ ⟨kanako⟩ gikan sa ilang kamot.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "si Yiphtach"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "panagbingkil"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨ako⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "ug ang akong katawhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Ammon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "nga dakong kaayo"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "ug nanawag"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kaninyo⟩",
+      "marks": "kaninyo — porma sa את nga adunay panapi, gihubad nga panultihon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "הושעתם",
+      "gloss": "mangluwas"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ⟨kanako⟩",
+      "marks": "kanako — porma sa את nga adunay panapi, gihubad nga panultihon"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ilang kamot"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:31.700367854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sa ikaupat nga tuig gipundasyon ang balay ni Yahweh, sa bulan sa Ziv.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "Sa ... tuig"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "ikaupat"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "gipundasyon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "sa Ziv"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:11.437547640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang maayo dili mahitabo sa dautan, ug dili niya mapalong ⟨ang⟩ ⟨iyang⟩ mga adlaw ingon sa landong, nga wala siya manghadlok sa atubangan ni Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Ug ang maayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "mapalong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ingon sa landong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manghadlok"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:25.520291483Z",
+  "model": "glm-5.3"
+}

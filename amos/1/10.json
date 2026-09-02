@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug magapadala ako ug kalayo sa paril sa Tzor, ug molamoy kini sa iyang mga kuta.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "magapadala ako ug"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "sa paril sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "molamoy kini"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "sa iyang mga kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:08.357781051Z",
+  "model": "glm-5.3"
+}

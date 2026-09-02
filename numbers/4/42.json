@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang mga giilhanan sa mga pamilya sa mga anak ni Merari, sumala sa ilang mga pamilya, sumala sa balay sa ilang mga amahan.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Ug ang mga giilhanan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sa mga pamilya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sumala sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:50.992657670Z",
+  "model": "glm-5.3"
+}

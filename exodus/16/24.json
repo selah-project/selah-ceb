@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gibutang nila kini ⟨את⟩ hangtod sa buntag, sumala sa gisugo ni Moshe; ug wala kini mobaho, ug ulod wala ⟨mathinod⟩ anaa niini.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Ug gibutang nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang pagkaon)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "mobaho"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ug ulod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:36.673638144Z",
+  "model": "glm-5.3"
+}

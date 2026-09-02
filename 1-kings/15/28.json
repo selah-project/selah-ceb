@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 15:28",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Gipatay ni Baasha ⟨siya⟩ sa ikatulong tuig ni Asa nga hari sa Yehuda, ug nanimahimong hari sa iyang pulingan.",
+  "tokens": [
+    {
+      "surface": "וימתהו",
+      "gloss": "gipatay"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ni Baasha"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ikatulo"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ug nanimahimong hari"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang pulingan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:47.594417047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Hinumdomi kini: ang kaaway nag-insulto kang Yahweh, ug ang katawhan nga buang nagpasipala sa imong Ngalan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "nag-insulto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug ang katawhan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nga buang"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "nagpasipala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.139477117Z",
+  "model": "glm-5.3"
+}

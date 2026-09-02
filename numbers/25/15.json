@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 25:15",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ang ngalan sa babaye nga gipatay, ⟨ang⟩ Midyanhon, ⟨mao kini⟩ Kozbi, anak ni Tsur, pangulo sa mga umah sa panimalay sa amahan sa Midyan — ⟨siya kini⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sa babaye"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "nga gipatay"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "Midyanhon"
+    },
+    {
+      "surface": "כזבי",
+      "gloss": "Kozbi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ni Tsur"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sa mga umah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "panimalay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "sa amahan"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "sa Midyan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:40.381040865Z",
+  "model": "glm-5.3"
+}

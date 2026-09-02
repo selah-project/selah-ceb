@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Gawas lang alang sa iyang paryente nga haduol kaniya: alang sa iyang inahan, ug alang sa iyang amahan, ug alang sa iyang anak nga lalaki, ug alang sa iyang anak nga babae, ug alang sa iyang igsoon nga lalaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gawas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lang"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "alang sa iyang paryente"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nga haduol"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "alang sa iyang inahan"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ug alang sa iyang amahan"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ug alang sa iyang anak nga lalaki"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ug alang sa iyang anak nga babae"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ug alang sa iyang igsoon nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:46.917660921Z",
+  "model": "glm-5.3"
+}

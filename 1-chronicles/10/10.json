@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gibutang nila ⟨את⟩ ang iyang mga armadura sa balay sa ilang mga dios, ug ⟨את⟩ ang iyang bagol gilitik nila sa balay ni Dagon.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ug gibutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga armadura"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ang iyang mga armadura"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa ilang mga dios"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang bagol"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "ang iyang bagol"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "gilitik nila \/ gitukod nila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:41.648651546Z",
+  "model": "glm-5.3"
+}

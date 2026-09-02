@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Ania karon, malayo ako ug manuroy, molarger ako sa kamingawan. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "malayo ako"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ug manuroy"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "molarger ako"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:08.665957200Z",
+  "model": "glm-5.3"
+}

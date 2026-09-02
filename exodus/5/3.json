@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 5:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug nagaingon sila: Ang Elohim sa mga Ebreo nagtawag kanamo. Palakaw kami, palihog, sa adlaw nga tulog ka lakang sa kamingawan, ug maghalad kami ug sakripisyo kang Yahweh nga among Elohim, tingali molapot Siya kanamo pinaagi sa peste o pinaagi sa espada.",
+  "tokens": [
+    {
+      "surface": "וי׭אמרו",
+      "gloss": "Ug nagaingon sila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ang Elohim sa"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "mga Ebreo"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "Palakaw kami"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka lakang"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulog ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ונזבחה",
+      "gloss": "ug maghalad kami ug sakripisyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "tingali ... bili"
+    },
+    {
+      "surface": "יפגענו",
+      "gloss": "molapot Siya kanamo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa peste"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:59.324783242Z",
+  "model": "glm-5.3"
+}

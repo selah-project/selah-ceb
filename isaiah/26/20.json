@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Lakaw, akong katawhan, sulod sa imong mga lawak, ug isira ang imong mga pultahan sa imong luyo; magtago ka ug gamay nga higayon hangtod nga molabay ang kasuko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "sa imong mga lawak"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ug isira"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ang imong mga pultahan"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "sa imong luyo"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "magtago ka"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ug gamay"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "nga higayon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "molabay"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ang kasuko"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:08.674815466Z",
+  "model": "glm-5.3"
+}

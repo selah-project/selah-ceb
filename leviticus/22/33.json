@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "nga nagpagula ⟨את⟩ kaninyo gikan sa yuta sa Mitsrayim, aron mahimong Elohim alang kaninyo — ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "nga nagpagula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aron mahimong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:52.158974006Z",
+  "model": "glm-5.3"
+}

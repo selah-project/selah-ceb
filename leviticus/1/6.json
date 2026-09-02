@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ubran niya ang panit ⟨את⟩ sa holokausto, ug pagputlon niya ⟨את⟩ kini sa mga piraso niini.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "ubran niya ang panit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa holokausto"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa holokausto"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "pagputlon niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga piraso niini"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "sa mga piraso niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.540297705Z",
+  "model": "glm-5.3"
+}

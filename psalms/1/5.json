@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Tungod niini ang mga rash-a dili ⟨mabangon⟩ sa pagtulon-an, ni ang mga makasasala sa katigayonan sa mga sadik.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "mabangon"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga rash-a"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa pagtulon-an"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ni ang mga makasasala"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "sa katigayonan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga sadik"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:43.705530231Z",
+  "model": "glm-5.3"
+}

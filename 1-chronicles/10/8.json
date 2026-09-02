@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nahitabo sa sunod adlaw nga miabot ang mga Pelishtey sa paghubas ⟨את⟩ sa mga napatay, ug nakaplagan nila ⟨את⟩ si Shaul ug ⟨את⟩ ang iyang mga anak nga nagtumba sa bukid sa Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa sunod adlaw"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishtey"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "sa paghubas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga napatay"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "sa mga napatay"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ug nakaplagan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "nagtumba"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "sa Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:06.902204693Z",
+  "model": "glm-5.3"
+}

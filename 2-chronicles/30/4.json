@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug matarong ang butang ⟨sa⟩ mga mata sa hari ug ⟨sa⟩ mga mata sa tibook nga katigulangan.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "Ug matarong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨sa⟩ mga mata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ug ⟨sa⟩ mga mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibook"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "nga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:48.365292028Z",
+  "model": "glm-5.3"
+}

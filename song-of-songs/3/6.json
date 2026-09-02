@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kinsa ⟨kini⟩ nga nagtungas gikan sa kamingawan, sama sa mga haligi sa aso, nainsenso ug mor ug insenso, gikan sa tanang abok sa mangangalakal?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nagtungas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "sama sa mga haligi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "sa aso"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "nainsenso"
+    },
+    {
+      "surface": "מור",
+      "gloss": "ug mor"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "ug insenso"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanang"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "abok"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "sa mangangalakal"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:52.937280849Z",
+  "model": "glm-5.3"
+}

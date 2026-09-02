@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Isulti mo sa mga anak ni Yisrael, ug ingna sila: Ako si Yahweh ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ug ingna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:48.100564241Z",
+  "model": "glm-5.3"
+}

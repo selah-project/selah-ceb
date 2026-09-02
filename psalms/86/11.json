@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Pagtudloi kanako, Yahweh, sa imong dalan; magalakaw ako sa imong kamatuoran; hiusaon ang akong kasingkasing sa pagkahadlok sa imong ngalan.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Pagtudloi kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sa imong dalan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "magalakaw ako"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sa imong kamatuoran"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hiusaon"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "sa pagkahadlok"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.180360712Z",
+  "model": "glm-5.3"
+}

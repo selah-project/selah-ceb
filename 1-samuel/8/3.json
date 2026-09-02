@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Apan ang iyang mga anak wala maglakaw sa iyang mga dalan, kondili nagpahisalaot sila paghuman sa bahin, ug gidawat nila ang suhol, ug gipahisalaot nila ang hustisya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "maglakaw"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "sa iyang mga dalan"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "nagpahisalaot sila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paghuman sa"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "bahin (sapi)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "gidawat nila"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suhol"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "gipahisalaot nila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang hustisya (hukom)"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:27.963931256Z",
+  "model": "glm-5.3"
+}

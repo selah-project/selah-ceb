@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Tungod niini masilawlon ko ⟨ako⟩ ug nagbasol ako ⟨sa⟩ abug ug abo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "masilawlon ko"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ug nagbasol ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "abug"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ug abo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:03.885225492Z",
+  "model": "glm-5.3"
+}

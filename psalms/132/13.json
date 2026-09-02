@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Kay gipili ni Yahweh ang Tsiyon, gipangandoy niya kini ingon nga puloy-anan alang kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "gipili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ang Tsiyon"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "gipangandoy niya"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "ingon nga puloy-anan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:55.221157090Z",
+  "model": "glm-5.3"
+}

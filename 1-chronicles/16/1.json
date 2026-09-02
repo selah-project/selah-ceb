@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gidala nila ⟨את⟩ aron sa Elohim, ug gibutang nila ⟨kini⟩ ⟨את⟩ sa taliwala sa tolda nga gikaylad ni David alang niini; ug gidala nila pagduol ang mga halad-sinunog ug ang mga halad-saad-atong ⟨sa atubangan⟩ sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "gidala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron sa Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "gibutang nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kini⟩",
+      "marks": "sa taliwala sa tolda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "gikaylad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang niini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "gidala nila pagduol"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mga halad-sinunog"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "ug mga halad-saad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:18.893826486Z",
+  "model": "glm-5.3"
+}

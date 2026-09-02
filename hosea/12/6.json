@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug si Yahweh, ang Elohim sa mga panon — si Yahweh ⟨ang⟩ iyang ngalan-sa-paghinumdom.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "sa mga panon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "iyang ngalan-sa-paghinumdom"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:57.117583739Z",
+  "model": "glm-5.3"
+}

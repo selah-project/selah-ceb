@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Panag-a ang akong nefesh gikan sa espada, gikan sa kamot sa iro ang akong bugtong ⟨nga kalag⟩.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Panag-a"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa espada"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "sa iro"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ang akong bugtong ⟨nga kalag⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:14.487169969Z",
+  "model": "glm-5.3"
+}

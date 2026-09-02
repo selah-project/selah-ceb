@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nangingingo ako kaninyo: Nangabot kamo ngadto sa bukid sa Emori, nga gihatag ni Yahweh nga among Elohim kanato.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ug nangingingo ako"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Nangabot kamo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sa Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanato"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:52.305203263Z",
+  "model": "glm-5.3"
+}

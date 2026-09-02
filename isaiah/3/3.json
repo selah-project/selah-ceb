@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "ang kapitan sa kalimahan ug ang tinahod ⟨sa dagway⟩, ang tigtagad ug ang maalamon sa mga panday, ug ang masinuron sa laway nga hilom.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "ang kapitan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sa kalimahan"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "ug ang tinahod"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa dagway"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ang tigtagad"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ug ang maalamon"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "sa mga panday"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ug ang masinuron"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "sa laway nga hilom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:27.999047048Z",
+  "model": "glm-5.3"
+}

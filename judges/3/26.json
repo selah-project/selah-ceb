@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Si Ehud nakalagiw samtang naglangay-langay ⟨sila⟩ ug ⟨siya⟩ miagi ⟨את⟩ ang mga imahen, ug nakalagiw siya padulong sa Seirah.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "Si Ehud"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "nakalagiw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "naglangay-langay sila"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug ⟨siya⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "miagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga imahen"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "ang mga imahen"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ug nakalagiw siya"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "padulong sa Seirah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:10.493824993Z",
+  "model": "glm-5.3"
+}

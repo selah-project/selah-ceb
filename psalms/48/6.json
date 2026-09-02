@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Nakita sila niini — ⟨samtang⟩ nagtinguha sila, nangahas sila, nangandoy sila, nangandad sila.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כן",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "natinguha"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nangahas"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "nangandad"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:31.243863789Z",
+  "model": "glm-5.3"
+}

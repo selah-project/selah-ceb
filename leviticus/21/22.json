@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨Sa⟩ tinapay sa iyang Elohim — sa mga balaang-butang sa ka'balaan — ug gikan sa mga balaan, mokaon siya.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sa iyang Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "sa mga balaang-butang"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa ka'balaan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ug gikan sa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "mga balaan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:31.641249861Z",
+  "model": "glm-5.3"
+}

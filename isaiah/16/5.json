@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug pinaagi sa hesed ⟨ang⟩ trono matukod, ug molingkod ⟨siya⟩ niini sa kamatuoran, sa tolda ni David, nagahukom ug nagapangita sa hustisya, ug padali sa pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "matukod"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "pinaagi sa hesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "molingkod"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "nagahukom"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ug nagapangita"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa hustisya"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "ug padali"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:19.007181813Z",
+  "model": "glm-5.3"
+}

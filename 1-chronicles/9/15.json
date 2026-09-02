@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug si Bakbakkar, si Kheresh, ug si Galal, ug si Mattanyah nga anak ni Mikha, nga anak ni Zikhri, nga anak ni Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "Ug si Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "si Kheresh"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ug si Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ug si Mattanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ni Mikha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ni Zikhri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ni Asaf"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:39.855838419Z",
+  "model": "glm-5.3"
+}

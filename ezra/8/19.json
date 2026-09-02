@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨את⟩ si Khashavya, ug ⟨את⟩ uban kaniya si Yeshayah, gikan sa mga anak ni Merari, iyang mga igsoon ug ilang mga anak — kawhaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Khashavya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "si Khashavya"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ uban kaniya",
+      "marks": "si Yeshayah"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "si Yeshayah"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gikan sa mga anak ni"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang mga igsoon"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ug ilang mga anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:03:55.699210302Z",
+  "model": "glm-5.3"
+}

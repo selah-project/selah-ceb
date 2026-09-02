@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Namatay si Elimelekh, bana ni Na'omi, ug siya nahibilin lakip sa iyang duha ka anak nga lalaki.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "si Elimelekh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "ni Na'omi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ug nahibilin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "lakip sa iyang duha"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "anak nga lalaki"
+    }
+  ],
+  "timestamp": "2026-09-01T23:46:58.541931891Z",
+  "model": "glm-5.3"
+}

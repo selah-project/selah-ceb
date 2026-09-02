@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Halad nga pinatay ug haruhay nga halad wala nimong gitinguha; mga dalunggan imong ginhukot alang kanako; halad nga sinunog ug halad sa sala wala nimo pangitaon.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Halad nga pinatay"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ug haruhay nga halad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "nimong gitinguha"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "mga dalunggan"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "imong ginhukot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "halad nga sinunog"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ug halad sa sala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "nimo pangitaon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:32.173837324Z",
+  "model": "glm-5.3"
+}

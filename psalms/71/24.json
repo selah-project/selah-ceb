@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Ang akong dila usab, tibuok adlaw, magahisgutan ang imong pagkamatarong, kay gikaulawan sila, kay napakaulaw sila, ang mga nangita sa akong daotan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang akong dila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "magahisgutan"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ang imong pagkamatarong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "gikaulawan sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "napakaulaw sila"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ang mga nangita"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sa akong daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:47.544985741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang mga tubig nagpadayon ⟨sa pag-adto ug pagkunhod⟩ hangtod sa ikapulong bulan; sa ikapulong bulan, sa unang ⟨adlaw⟩ sa bulan, nagpakita ang mga tumoy sa mga bukid.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Ug ang mga tubig"
+    },
+    {
+      "surface": "היו",
+      "gloss": "naglungtad"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nag-adto"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "ug nagkunhod"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ikapulo"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "sa ikapulo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa unang adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga tumoy"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "sa mga bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:47.127792213Z",
+  "model": "glm-5.3"
+}

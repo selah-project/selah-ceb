@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 14:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "ug gikaput ko ⟨את⟩ ang gingharian gikan sa balay ni David, ug gihatag ko kini kanimo; apan wala ka mahisama sa akong sulugoon nga si David, nga nagbantay sa akong mga sugo, ug nga nagsunod kanako sa tibuok niyang kasingkasing, sa pagbuhat lamang sa matarong sa akong mga mata:",
+  "tokens": [
+    {
+      "surface": "ואקרע",
+      "gloss": "ug gikaput ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gingharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ug gihatag ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kini kanimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ka mahisuma"
+    },
+    {
+      "surface": "כעבדי",
+      "gloss": "sa akong sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nga si David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sa akong mga sugo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nagsunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "niyang kasingkasing"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa akong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:11.716343204Z",
+  "model": "glm-5.3"
+}

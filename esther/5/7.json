@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug mitubag si Ester ug miingon: Ang akong pangabay ug ang akong gipangayo ⟨mao kini⟩ —",
+  "tokens": [
+    {
+      "surface": "וַתַּעַן",
+      "gloss": "Ug mitubag"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "וַתֹּאמַר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שְׁאֵלָתִי",
+      "gloss": "ang akong pangabay"
+    },
+    {
+      "surface": "וּבַקָּשָׁתִי",
+      "gloss": "ug ang akong gipangayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:26.903501765Z",
+  "model": "glm-5.3"
+}

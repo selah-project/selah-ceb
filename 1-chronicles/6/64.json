@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ ang Kedemot ug ⟨את⟩ ang iyang mga migraš, ug ⟨את⟩ ang Meypaat ug ⟨את⟩ ang iyang mga migraš.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "ang Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga migraš"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga migraš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Meypaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "ang Meypaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga migraš"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga migraš"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:44.451208681Z",
+  "model": "glm-5.3"
+}

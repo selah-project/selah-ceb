@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 51:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Kay nagahupay si Yahweh sa Tsiyon, nagahupay sa tanan niyang kagul-anan; ug iyang ibutang ang iyang kamingaw sama sa Eden, ug ang iyang kapatagan sama sa tanaman ni Yahweh — kalipay ug kadako nga makit-an didto, pagpasalamat ug tingog sa awit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nagahupay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "nagahupay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "חרבתיה",
+      "gloss": "niyang kagul-anan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug iyang ibutang"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "iyang kamingaw"
+    },
+    {
+      "surface": "כעדן",
+      "gloss": "sama sa Eden"
+    },
+    {
+      "surface": "וערבתה",
+      "gloss": "ug ang iyang kapatagan"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "sama sa tanaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ug kadako"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "pagpasalamat"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ug tingog"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "sa awit"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:26.192895378Z",
+  "model": "glm-5.3"
+}

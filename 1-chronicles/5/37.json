@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug si Azaryah nagmga ⟨את⟩ Amarayah, ug si Amarayah nagmga ⟨את⟩ Akhituv;",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "si Azaryah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amarayah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "si Amarayah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ug si Amarayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Akhituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "si Akhituv"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:12.940595687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug iresba ko ikaw gikan sa kamot sa hari sa Ashur, ug ⟨את⟩ kining dakbayan — ug panalipdan ko kining dakbayan.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "ug gikan sa kamot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "iresba ko ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kining dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "ug panalipdan ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:23.015509674Z",
+  "model": "glm-5.3"
+}

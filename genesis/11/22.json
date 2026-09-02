@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Nagkinabuhi si Serug katloan ka tuig, ug natawo siya ⟨את⟩ Nachor.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Nagkinabuhi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "si Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nachor"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.440732797Z",
+  "model": "glm-5.3"
+}

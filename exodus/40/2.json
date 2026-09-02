@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Sa adlaw sa unang bulan, sa unang adlaw sa bulan, itindog nimo ⟨את⟩ ang Mishkan, ang tolda sa pagtigom.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa unang (adlaw)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "itindog nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mishkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ang Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtigom"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:27.009392457Z",
+  "model": "glm-5.3"
+}

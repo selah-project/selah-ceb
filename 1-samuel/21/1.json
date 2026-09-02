@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Mibtun siya ug milakaw, ug si Yehonatan misulod sa siyudad.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mibtun siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug milakaw"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ug si Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "misulod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa siyudad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:29.559791657Z",
+  "model": "glm-5.3"
+}

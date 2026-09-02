@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Pagpadala kamo ug usa gikan kaninyo ug mokuha siya ⟨את⟩ among igsoon; ug kamo, pagabilanggo kamo, ug pagasulayon ang among mga pulong — kon adunay kamatuoran ⟨את⟩ kaninyo; ug kon wala — buhi ang Paro — mga espiya gayod kamo.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Pagpadala kamo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "gikan kaninyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug mokuha siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "among igsoon"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "among igsoon"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ug kamo"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "pagabilanggo kamo"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ug pagasulayon"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "among mga pulong"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:52.344666181Z",
+  "model": "glm-5.3"
+}

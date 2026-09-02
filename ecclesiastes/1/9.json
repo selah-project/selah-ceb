@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang nahitabo mao ang mahitabo, ug ang gibuhat mao ang pagabuhaton, ug walay bisan unsa nga bag-ong butang ⟨sa⟩ ilalom sa adlaw.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ang ⟨nahitabo⟩"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ang mahitabo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug ang gibuhat"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ang pagabuhaton"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan unsa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong butang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨sa⟩ ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:13.920721122Z",
+  "model": "glm-5.3"
+}

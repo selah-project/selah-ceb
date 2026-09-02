@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Ang naglalis-lis sa tinago sa iyang isigkatawo — kaniya ⟨את⟩ ako magapapahunong; ang hataas sa mga mata ug ang halapad sa kasingkasing — kini ⟨את⟩ dili nako makaya.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ang naglalis-lis"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tinago"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya (ang naglalis-lis)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ako magapapahunong"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "hataas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ug halapad"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang hataas sa mga mata ug halapad sa kasingkasing)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nako makaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:47.235495110Z",
+  "model": "glm-5.3"
+}

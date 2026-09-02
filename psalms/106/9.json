@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gitugisi niya ang Dagat sa Suf, ug kini nahiyaw ⟨sama sa⟩ pag-antigo sa usa ka tinagoan; apan gipadala niya sila sa lawom nga tubig sama sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "gitugisi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sa Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "nahiyaw"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "gipadala niya sila"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "sa lawom nga tubig"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sama sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:24.747376660Z",
+  "model": "glm-5.3"
+}

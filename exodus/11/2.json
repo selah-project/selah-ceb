@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Isulti karon ⟨⟨⟩⟩ sa mga igdulungog sa katawhan, ug mangayo ang matag lalaki ⟨את⟩ gikan sa iyang kauban, ug ang matag babayi ⟨את⟩ gikan sa iyang kauban nga babayi, mga sudlanan nga plata ug mga sudlanan nga bulawan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga igdulungog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ug mangayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag lalaki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gikan sa",
+      "marks": "iyang kauban"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iyang kauban"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ug ang matag babayi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gikan sa",
+      "marks": "iyang kauban nga babayi"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "iyang kauban nga babayi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nga plata"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ug mga sudlanan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:10.878078514Z",
+  "model": "glm-5.3"
+}

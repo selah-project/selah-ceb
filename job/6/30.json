@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Aduna ba ⟨kung⟩ kadaot sa akong dila? Wala ba makaila ang akong baba sa mga daotan?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Aduna ba"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sa akong dila"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mga daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:02.659097415Z",
+  "model": "glm-5.3"
+}

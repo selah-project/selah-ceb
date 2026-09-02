@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Giyukyok ang tawo ug giubos ang lalaki — ug ayaw pag-angkon ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "giyukyok"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "giubos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pag-angkon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:36.426932291Z",
+  "model": "glm-5.3"
+}

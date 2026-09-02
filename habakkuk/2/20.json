@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Apan si Yahweh ⟨naa⟩ sa iyang balaang templo — hilom kamo sa atubangan niya, tibouk nga yuta!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Apan si Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa balaang templo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang kabanalan"
+    },
+    {
+      "surface": "הס",
+      "gloss": "hilom kamo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa atubangan niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibouk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:38.451337828Z",
+  "model": "glm-5.3"
+}

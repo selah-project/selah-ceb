@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Gihigugma ko ⟨kay⟩ nadungog ni Yahweh ⟨את⟩ ang akong tingog, ang akong mga pag-ampo.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "gihigugma ko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong tingog"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ang akong mga pag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.659440136Z",
+  "model": "glm-5.3"
+}

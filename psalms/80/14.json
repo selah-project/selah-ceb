@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Gikaon kini sa baboy ihalas gikan sa lasang, ug binuhing hayop sa kapatayan ang nagsapaw niini.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "Gikaon kini"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "baboy ihalas"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "gikan sa lasang"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ug binuhing hayop"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa kapatayan"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "nagsapaw niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:00.905238296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug namatay si Eliysha, ug gilubong nila siya. Ug ang mga panggubat sa Moab mosulod sa yuta sa pagsulod sa tuig.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Eliysha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "gilubong nila siya"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "Ug ang mga panggubat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sa tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:58.564865578Z",
+  "model": "glm-5.3"
+}

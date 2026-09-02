@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Hinumdoman niya ang tanan nimong mga halad, ug ang imong sinunog nga halad pataamon niya ⟨nga daw tambok⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "hinumdoman niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "nimo nga mga halad"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ug imong sinunog nga halad"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "pataamon niya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:26.494784470Z",
+  "model": "glm-5.3"
+}

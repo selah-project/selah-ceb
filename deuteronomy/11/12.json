@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "⟨Ang⟩ yuta nga gipangita sa kasingkasing ni Yahweh nga imong Elohim ⟨את⟩ niini nga walay hunong; ang mga mata ni Yahweh nga imong Elohim ⟨anaa⟩ niini, gikan sa sinugdanan sa tuig hangtod sa kataposan sa tuig.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "gipangita sa kasingkasing"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang yuta)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay hunong"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aniya niini"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "gikan sa sinugdanan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "sa kataposan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sa tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:30.407876752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Busa makakaplag ka ug grasya ug maayong pagtilaad sa mga mata ni Elohim ug sa tawo.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "busa makakaplag ka"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasya"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ug pagtilaad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ug sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:23.123940578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 9:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nahulog ang mga laryo, apan ⟨sa⟩ gitanyag nga bato magatukod ⟨kami⟩; naputol ang mga sicomoro, apan mga sedro ang ilisan ⟨namo⟩.",
+  "tokens": [
+    {
+      "surface": "לבנים",
+      "gloss": "ang mga laryo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "וגזית",
+      "gloss": "sa gitanyag nga bato"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "magatukod kami"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "ang mga sicomoro"
+    },
+    {
+      "surface": "גדעו",
+      "gloss": "naputol"
+    },
+    {
+      "surface": "וארזים",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "נחליף",
+      "gloss": "ilisan namo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:21.966252656Z",
+  "model": "glm-5.3"
+}

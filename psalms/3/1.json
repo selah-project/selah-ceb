@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": " Usa ka mizmor ni David, sa pagpakalagiw niya gikan sa atubangan ni Avshalom nga iyang anak.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "sa pagpakalagiw niya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:27.976512960Z",
+  "model": "glm-5.3"
+}

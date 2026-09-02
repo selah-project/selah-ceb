@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug iyang patyon ⟨את⟩ ang usa ka langgam sa sudlanan nga hinimo sa putik, ibabaw sa tubig nga buhi.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ug patyon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa ka langgam"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ang langgam"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ang usa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sudlanan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "nga hinimo sa putik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nga buhi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:58.185784378Z",
+  "model": "glm-5.3"
+}

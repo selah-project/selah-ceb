@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang dalan sa buang matarong sa iyang mga mata, apan ang nagpatalinghog sa tambag maalamon.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sa buang"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "apan ang nagpatalinghog"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "sa tambag"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:26.739611430Z",
+  "model": "glm-5.3"
+}

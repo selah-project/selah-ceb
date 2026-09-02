@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ang tingog ni Yahweh nagatawag sa ⟨siyudad⟩, ug ang tushiyah (kaalam) magakahadlok sa imong ngalan; dungoga kamo ang sungay, ug kinsa ang nagbutang niini.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa ⟨siyudad⟩"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "nagatawag"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ug ang tushiyah (kaalam)"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "magakahadlok"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "dungoga kamo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ang sungay"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "nagbutang niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:46.343054218Z",
+  "model": "glm-5.3"
+}

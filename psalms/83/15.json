@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Sama sa kalayo nga mosunog sa lasang, ug sama sa lampinon nga magpadilaab sa ⟨mga⟩ bukid.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "sama sa kalayo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mosunog"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sa lasang"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ug sama sa lampinon"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "magpadilaab"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa ⟨mga⟩ bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:03.227738428Z",
+  "model": "glm-5.3"
+}

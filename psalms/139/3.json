@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Ang akong agianan ug ang akong paghigda gisala Mo ⟨sama sa trigo⟩, ug sa tanan nga akong mga dalan pamilyar ⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "ang akong agianan"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "ug ang akong paghigda"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "gisala Mo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tanan nga"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "akong mga dalan"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "pamilyar ⟨ka⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:07.773652452Z",
+  "model": "glm-5.3"
+}

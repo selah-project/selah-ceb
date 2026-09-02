@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug kon panumpa kini o kusang tanyag ang sakripisyo sa iyang halad, sa adlaw sa iyang pagdala ⟨את⟩ sa iyang sakripisyo mokaonon ⟨kini⟩; ug sa sunod adlaw, ug ang matik sa nahibilin niini mokaonon usab.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "panumpa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "kusang tanyag"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ang sakripisyo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sa iyang halad"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "sa iyang pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang sakripisyo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sa iyang sakripisyo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaonon"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ug sa sunod adlaw"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ug ang matik sa nahibilin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaonon usab"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:35.166877628Z",
+  "model": "glm-5.3"
+}

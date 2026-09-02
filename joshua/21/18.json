@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨את⟩ ang Anatot uban ⟨ang⟩ sa iyang mga migdas, ⟨את⟩ ang Almon uban ⟨ang⟩ sa iyang mga migdas — upat ka mga dakbayan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga migdas"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migdas niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga migdas"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migdas niini"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:23.567855137Z",
+  "model": "glm-5.3"
+}

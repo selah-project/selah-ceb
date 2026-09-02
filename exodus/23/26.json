@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Walay mapaakyong (bata) ni ba-in nga babaye sa imong yuta; ⟨את⟩ ang gidaghanon sa imong mga adlaw pun-on ko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mangihat"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "mapaakyong (bata)"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ba-in nga babaye"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sa imong yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gidaghanon sa imong mga adlaw"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "gidaghanon"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "imong mga adlaw"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "pun-on ko"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:38.240397605Z",
+  "model": "glm-5.3"
+}

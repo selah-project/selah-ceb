@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Kay nagtindog pag-usab si Yahweh sa Tsiyon, nagpakita ⟨siya⟩ sa iyang himaya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtindog pag-usab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "sa iyang himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:12.242833288Z",
+  "model": "glm-5.3"
+}

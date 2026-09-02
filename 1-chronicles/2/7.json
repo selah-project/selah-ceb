@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang mga anak ni Karmi: Akar, ang nagkagubot sa Israel, nga nakighinapsak bahin sa ⟨gibutang nga herem⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "Akar"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "ang nagkagubot sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nakighinapsak"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "bahin sa ⟨gibutang nga herem⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:47:35.708479942Z",
+  "model": "glm-5.3"
+}

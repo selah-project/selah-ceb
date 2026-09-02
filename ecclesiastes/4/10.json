@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kay kon matumba sila, ang usa magbanaw ⟨את⟩ sa iyang kauban; apan sa usa nga matumba ug walay ikaduha sa pagbanaw kaniya ⟨— pag-ulo kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matumba sila"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "magbanaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang kauban"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "sa iyang kauban"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "apan sa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "nga matumba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "sa pagbanaw kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.099653074Z",
+  "model": "glm-5.3"
+}

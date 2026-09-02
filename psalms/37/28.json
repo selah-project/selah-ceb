@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Kay si Yahweh nagahigugma sa hustisya, ug dili niya biyaan ⟨את⟩ ang iyang mga hasid — hangtod sa kahangtoraan sila gitipig; apan ang kaliwat sa mga dautan maputol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa hustisya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "niya biyaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga hasid"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ang iyang mga hasid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtoraan"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "sila gitipig"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "apan ang kaliwat"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "maputol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:34.616540796Z",
+  "model": "glm-5.3"
+}

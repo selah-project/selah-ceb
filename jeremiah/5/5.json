@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Moadto ako ngadto sa mga dumadako ug hisgutan ko sila ⟨את⟩, kay sila nakaila sa dalan ni Yahweh, sa mishpat sa ilang Elohim; apan sila hingpit nga naggun-ob sa uyok ug nagpunit sa mga higot.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "Moadto ako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ako⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "mga dumadako"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ug hisgutan ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga dumadako)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa mishpat"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa ilang Elohim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hingpit nga"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "naggun-ob"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa uyok"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "nagpunit"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "sa mga higot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:15:58.093386565Z",
+  "model": "glm-5.3"
+}

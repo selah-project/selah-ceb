@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Wala niya kini buhata ngadto sa bisan unsang nasod; ug maong mga pagtulon-an — wala sila makaila ⟨niini⟩. Pagdayeg kamo kang Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "niya buhata"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kini (mao kini)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngadto sa tanan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasod"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ug maong mga pagtulon-an"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala gayod"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "sila makaila"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.478689031Z",
+  "model": "glm-5.3"
+}

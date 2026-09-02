@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug gisakyan nila sa ⟨את⟩ kahon sa Elohim ang usa ka bag-ong kariton, gikan sa balay ni Avinadav; ug si Uzza ug si Achiyo ang naggiya sa kariton.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "gisakyan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahon sa Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kariton"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "ni Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ug si Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ug si Achiyo"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "ang naggiya"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "sa kariton"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:20.616048608Z",
+  "model": "glm-5.3"
+}

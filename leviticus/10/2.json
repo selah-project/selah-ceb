@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug migawas ang kalayo gikan sa atubangan ni Yahweh, ug mituyok ⟨את⟩ kanila, ug namatay sila sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ug migawas"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ug mituyok"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "kanila (si Nadav ug si Avihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ug namatay sila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:02.493585430Z",
+  "model": "glm-5.3"
+}

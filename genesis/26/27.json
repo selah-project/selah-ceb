@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug si Yitskhak miingon kanila: Ngano nga manumdom kamo kanako, ug kamo nga nagdumot kanako ⟨את⟩ ug nagpalayas kanako ⟨את⟩ gikan kaninyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitskhak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ngano nga"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "manumdom kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ug kamo"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "nagdumot"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "ug nagpalayas kanako"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ gikan kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:12.756643224Z",
+  "model": "glm-5.3"
+}

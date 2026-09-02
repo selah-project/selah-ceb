@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 131,
+  "translation": "Awit sa mga pagsaka, ni David. Yahweh, wala nagpasigarbo ang akong kasingkasing, ni mitaas ang akong mga mata, ni naglakaw ako sa mga butang nga dako ug sa mga kahibulongan nga labaw pa kanako.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pagsaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "nagpasigarbo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "mitaas"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "naglakaw ako"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "sa mga butang nga dako"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "ug sa mga kahibulongan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "labaw pa kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:00.333520057Z",
+  "model": "glm-5.3"
+}

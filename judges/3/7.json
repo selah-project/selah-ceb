@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang mga anak ni Yisrael naghimo ⟨את⟩ sa daotan sa mga mata ni Yahweh, ug nakalimot sila ⟨את⟩ kang Yahweh, sa Elohim nila, ug gisimba nila ⟨את⟩ ang mga Baal ug ⟨את⟩ ang mga Ashera.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ug naghimo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa daotan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "ug nakalimot sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kang",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa Elohim nila"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ug gisimba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ang mga Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga Ashera"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "ang mga Ashera"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:32.730125295Z",
+  "model": "glm-5.3"
+}

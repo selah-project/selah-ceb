@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Kay ang mga dautan mangawala, ug ang mga kaaway ni Yahweh — sama sa bahandi sa mga nating karnero — mangaguba; sama sa aso mangaguba sila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mangawala"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ug ang mga kaaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "sama sa bahandi"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mga nating karnero"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mangaguba"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "sama sa aso"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mangaguba (sila)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:31.008980871Z",
+  "model": "glm-5.3"
+}

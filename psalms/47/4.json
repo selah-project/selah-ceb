@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Magapatimin-od ⟨siya⟩ sa mga katawhan sa ubos kanato, ug sa mga nasod sa ubos sa atong mga tiil.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "magapatimin-od"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sa ubos kanato"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ug sa mga nasod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos sa"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "atong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.731017972Z",
+  "model": "glm-5.3"
+}

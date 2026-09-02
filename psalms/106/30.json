@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Nagbarug si Pinechas ug nagtuhop ⟨sa pagtapos⟩, ug napugong ang plagha.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nagbarug"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "si Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "ug nagtuhop"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "ug napugong"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ang plagha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.870174489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang kahuyang nagapatulog sa hilalom nga katulogon, ug ang kalag nga nagpabaya mag-antus ug gigutom.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "kahuyang"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "nagapatulog"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "hilalom nga katulogon"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ug kalag"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nagpabaya"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "mag-antus ug gigutom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:38.997017231Z",
+  "model": "glm-5.3"
+}

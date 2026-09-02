@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug kon magdayo ⟨את⟩-kanimo usa ka dayo sa inyong yuta, dili ninyo siya paglilion.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "magdayo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-kanimo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "usa ka dayo"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "sa inyong yuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ninyo paglilion"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang dayo)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:10.216482179Z",
+  "model": "glm-5.3"
+}

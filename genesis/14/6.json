@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ⟨את⟩ ang mga Hori sa ilang bukid sa Seir, hangtod sa El-Paran, nga ⟨anaa⟩ sa atbang sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang mga Hori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "ang mga Hori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "sa ilang bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sa Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa atbang sa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:28.087158660Z",
+  "model": "glm-5.3"
+}

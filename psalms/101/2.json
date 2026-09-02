@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Magahuna-hunaon ko ang dalan sa kinatin-aw — kanus-a ka moanhi ngari kanako? Magalakaw ako sa kinatin-aw sa kasingkasing, sulod sa akong balay.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "magahuna-hunaon ko"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "sa kinatin-aw"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "moanhi ka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "magalakaw ako"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "sa kinatin-aw"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "sa akong balay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:06.140411825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Buhat-a sila ⟨ingon sa⟩ Midyan, ⟨ingon kang⟩ Sisera, ⟨ingon kang⟩ Yavin, sa walog sa Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Buhat-a"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "⟨ingon sa⟩ Midyan"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "⟨ingon kang⟩ Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "⟨ingon kang⟩ Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "sa Kishon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:55.010186326Z",
+  "model": "glm-5.3"
+}

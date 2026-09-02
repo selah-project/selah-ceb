@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Sa magdumala sa koro, alang sa mga anak ni Korach, usa ka mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdumala sa koro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.730505294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Pagdayegon si Yah, kay maayong ⟨si⟩ Yahweh; pag-awit alang sa iyang ngalan, kay matinahoron ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayegon"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pag-awit"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "alang sa iyang ngalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "matinahoron"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:21.078052428Z",
+  "model": "glm-5.3"
+}

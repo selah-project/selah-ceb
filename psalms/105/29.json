@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Giyoha niya ⟨את⟩ ang ilang mga tubig ngadto sa dugo, ug gipatay niya ⟨את⟩ ang ilang mga isda.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "giyoha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga tubig"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ang ilang mga tubig"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ngadto sa dugo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug gipatay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga isda"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ang ilang mga isda"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.877693427Z",
+  "model": "glm-5.3"
+}

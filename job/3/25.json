@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kay ang kahadlok nga akong gikahadlokan mianhi kanako, ug ang akong gikahadlokan mitungtod kanako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ang kahadlok"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "nga akong gikahadlokan"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "mianhi kanako"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug ang"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "akong gikahadlokan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mitungtod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:27.513629916Z",
+  "model": "glm-5.3"
+}

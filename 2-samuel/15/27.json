@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 15:27",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug ang hari miingon kang Tsadok ang saserdote: ⟨Ba⟩ ikaw ang nagakita? Balik ngadto sa ⟨siyudad⟩ sa pakigdait; ug si Akhimaats imong anak, ug si Yehonatan anak ni Evyatar, inyong duha ka anak ⟨uban⟩ ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "הרואה",
+      "gloss": "ang nagakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "Balik"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sa pakigdait"
+    },
+    {
+      "surface": "ואחימעץ",
+      "gloss": "ug si Akhimaats"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "imong anak"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ug si Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Evyatar"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "inyong anak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ uban kaninyo",
+      "marks": "kaninyo (inyong duha ka anak)"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:08.934989566Z",
+  "model": "glm-5.3"
+}

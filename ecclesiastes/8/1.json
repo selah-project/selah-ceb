@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kinsa ⟨ang⟩ sama sa maalamon, ug kinsa ang makahibalo sa pagpasabot sa ⟨usa ka⟩ butang? Ang kaalam sa tawo magasangit sa iyang nawong, ug ang kusog sa iyang nawong mabag-o.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "sama sa maalamon"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "pagpasabot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "magasangit"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa iyang nawong"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ug ang kusog"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa iyang nawong"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "mabag-o"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:46.062506777Z",
+  "model": "glm-5.3"
+}

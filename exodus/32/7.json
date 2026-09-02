@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug nagsulti si Yahweh kang Moshe: Lakaw, manaog ka, kay napildil na ang imong katawhan nga imong gipataas gikan sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "רד",
+      "gloss": "manaog ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "napildil"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imong katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "imong gipataas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:18.022847623Z",
+  "model": "glm-5.3"
+}

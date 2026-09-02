@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug miingon ang hari kang Amasa: Pagtawag alang kanako ⟨את⟩ sa mga tawo sa Yehudah sulod sa tulo ka adlaw, ug ikaw dinhi magbarug.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Pagtawag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga tawo sa Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "sa tulo ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "פה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "magbarug"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:23.592673193Z",
+  "model": "glm-5.3"
+}

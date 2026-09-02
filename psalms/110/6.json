@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Magahukom siya sa taliwala ⟨sa⟩ mga nasod, magapanag-iya siya ⟨ug⟩ daghang bangkay; magbungkag siya ug ulo sa tibuok ⟨dako nga⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Magahukom siya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa taliwala ⟨sa⟩ mga nasod"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "magapanag-iya siya ⟨ug⟩ daghang"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "bangkay"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "magbungkag siya ug"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "⟨dako nga⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:09.851063987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug baka o karnero — kini ⟨את⟩ ug ⟨את⟩ ang iyang anak, dili nino pagpatyon sa usa ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ug baka"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang mananap)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iyang anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "nino pagpatyon"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:25.567182085Z",
+  "model": "glm-5.3"
+}

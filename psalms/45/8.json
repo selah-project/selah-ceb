@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Gihigugma nimo ang pagkamatarong ug gidumtan nimo ang pagkadautan; busa gidihogan ka ni Elohim, ang Elohim nga imong Elohim, lana sa kalipay gikan sa imong mga kauban.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "gihigugma nimo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang pagkamatarong"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ug gidumtan nimo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang pagkadautan"
+    },
+    {
+      "surface": "על",
+      "gloss": "busa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tungod niini"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "gidihogan ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang Elohim nga imong Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sa kalipay"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "gikan sa imong mga kauban"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:41.175403093Z",
+  "model": "glm-5.3"
+}

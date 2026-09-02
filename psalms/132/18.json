@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Ang iyang mga kaaway susudlan ko sa kahilaw; apan ang iyang korona mamumukadkad ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Ang iyang mga kaaway"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "susudlan ko"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "sa kahilaw"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "apan ⟨kaniya⟩"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mamumukadkad"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ang iyang korona"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:36.978327710Z",
+  "model": "glm-5.3"
+}

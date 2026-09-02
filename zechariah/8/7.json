@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Mao kini ang giingon ni Yahweh Tsevaot: Ania kini, ako magaluwas ⟨את⟩ sa akong katawhan gikan sa yuta sa sidlakan, ug gikan sa yuta sa pagsulod sa adlaw.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania kini"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "magaluwas ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "ug gikan sa yuta"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:45.393419337Z",
+  "model": "glm-5.3"
+}

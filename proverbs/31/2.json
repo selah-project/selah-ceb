@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Unsa, akong anak nga lalaki? Ug unsa, anak sa akong tagoangkan? Ug unsa, anak sa akong mga saad?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "akong anak nga lalaki"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "sa akong tagoangkan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "sa akong mga saad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:32.460092080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Pagdayegahin ninyo siya, ⟨mga⟩ langit sa ⟨mga⟩ langit, ug ⟨mga⟩ tubig nga ⟨mga⟩ nasa ibabaw sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahin ninyo siya"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "langit sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "ug ⟨mga⟩ tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nasa ibabaw sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.025852633Z",
+  "model": "glm-5.3"
+}

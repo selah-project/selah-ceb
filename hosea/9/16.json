@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Natigo si Efrayim, ang ilang mga gamot nataya, bunga wala na sila ⟨magabuhat⟩; bisan pa nga manganak sila, pagapatyon Ko ang mga gugmaon sa ilang tagoangkan.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Natigo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "ang ilang mga gamot"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "nataya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "magabuhat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "manganak sila"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "pagapatyon Ko"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "ang mga gugmaon"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "sa ilang tagoangkan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:39.912289620Z",
+  "model": "glm-5.3"
+}

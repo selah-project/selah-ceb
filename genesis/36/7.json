@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Kay daghan kaayo ang ilang kabtang aron magpuyo sila nga nagkahiusa, ug ang yuta sa ilang pagpanumpangi wala makabaton kanila ⟨את⟩ tungod sa kadaghan sa ilang mga kahayupan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨mao⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ang ilang kabtang"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghan kaayo"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "aron magpuyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagkahiusa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "makabaton"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "sa ilang pagpanumpangi"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "kanila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "sa ilang mga kahayupan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:29.299027535Z",
+  "model": "glm-5.3"
+}

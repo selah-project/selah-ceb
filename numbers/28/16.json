@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug sa unang bulan, sa ikanapulo ug upat ka adlaw sa bulan, ⟨ang⟩ Pesach alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Ug sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa upat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:23.478903161Z",
+  "model": "glm-5.3"
+}

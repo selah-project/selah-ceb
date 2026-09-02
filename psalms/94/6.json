@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Ang balo ug ang langyaw nga mopuyo gipamatay nila, ug ang mga ilo gipangpatay nila.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ang balo"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "ug ang langyaw nga mopuyo"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "gipamatay nila"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ug ang mga ilo"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "gipangpatay nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.331299075Z",
+  "model": "glm-5.3"
+}

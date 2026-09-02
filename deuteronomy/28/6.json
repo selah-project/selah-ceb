@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Bulahan ikaw sa imong pagpasulod, ug bulahan ikaw sa imong paggawas.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "sa imong pagpasulod"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ug bulahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "sa imong paggawas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:06.633357191Z",
+  "model": "glm-5.3"
+}

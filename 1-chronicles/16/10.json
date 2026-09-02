@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Magpagarandi kamo sa iyang balaan nga Ngalan; magmalipayon ⟨ang⟩ kasingkasing sa mga nagapangita kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Magpagarandi kamo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ... Ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mga nagapangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:32.914703061Z",
+  "model": "glm-5.3"
+}

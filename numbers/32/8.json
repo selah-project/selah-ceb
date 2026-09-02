@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Mao kini ang gibuhat sa inyong mga amahan, sa pagpadala nako ⟨את⟩ kanila gikan sa Kadesh-Barnea aron sa pagtan-aw sa ⟨את⟩ ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "sa inyong mga amahan"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "sa pagpadala nako"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "gikan sa Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:03.794076999Z",
+  "model": "glm-5.3"
+}

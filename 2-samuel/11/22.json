@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Busa ang mensahero milakaw, ug miabot, ug gisugidan si David ⟨את⟩ tanang gipadala kaniya ni Yoav.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "gisugidan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanang gipadala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gipadala kaniya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:20.659234976Z",
+  "model": "glm-5.3"
+}

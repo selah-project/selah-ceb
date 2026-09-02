@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nagatudlo sa akong mga kamot alang sa paggubat, ug gipaubos ⟨ako sa akong mga bukton⟩ ang pana nga tumbaga.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Nagatudlo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa akong mga kamot"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alang sa paggubat"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ug gipaubos"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "akong mga bukton"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:07.296901411Z",
+  "model": "glm-5.3"
+}

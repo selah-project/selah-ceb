@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "kay si Yahweh, ang inyong Elohim, mao ang naglakat uban kaninyo, sa pagpakigbatok alang kaninyo batok sa inyong mga kaaway, aron sa pagluwas ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "mao ang naglakat"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "uban kaninyo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sa pagpakigbatok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyong mga kaaway"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "aron sa pagluwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo (ang luwason)"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:22.115101788Z",
+  "model": "glm-5.3"
+}

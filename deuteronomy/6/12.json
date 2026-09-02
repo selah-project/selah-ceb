@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "pagbantay ka sa imong kaugalingon, basig kalimtan nimo si ⟨את⟩ Yahweh nga nagpagula kanimo gikan sa yuta sa Mitsrayim, gikan sa balay sa mga ulipon.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "pagbantay ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imong kaugalingon"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basig"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kalimtan nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "nagpagula kanimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sa mga ulipon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:53.160515755Z",
+  "model": "glm-5.3"
+}

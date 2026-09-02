@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 123,
+  "translation": "Kaluoyan kami, O Yahweh, kaluoyan kami, kay nasapo na kaayo kami sa pagtamay.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Kaluoyan kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "kaluoyan kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "nasapo na kami"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "sa pagtamay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:32.535710126Z",
+  "model": "glm-5.3"
+}

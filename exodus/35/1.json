@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Gipatigom ni Moshe ⟨את⟩ tibuok nga katigayonan sa mga anak ni Yisrael, ug miingon siya kanila: Kini ang mga pulong nga gisugo ni Yahweh sa pagbuhat ⟨sa mga pulong⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "Gipatigom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibuok nga katigayonan sa mga anak ni Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katigayonan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "silap nga — ang gisugo nga mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:08.520406319Z",
+  "model": "glm-5.3"
+}

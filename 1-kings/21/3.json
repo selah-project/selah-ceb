@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Apan si Nabot nagsulti kang Ahab: Layo gayod kanako gikan kang Yahweh ang paghatag kanimo ⟨את⟩ sa kabilin sa akong mga amahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "si Nabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "layo gayod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "gikan kang Yahweh"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ang paghatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kabilin sa akong mga amahan"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "kabilin"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "sa akong mga amahan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:50.819040213Z",
+  "model": "glm-5.3"
+}

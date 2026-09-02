@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug magapadala ako ug kalayo sa paril sa Aza, ug mokaon kini sa iyang mga kuta.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ug magapadala ako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ug kalayo"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "sa paril"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "sa Aza"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ug mokaon kini"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "sa iyang mga kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:50.117898360Z",
+  "model": "glm-5.3"
+}

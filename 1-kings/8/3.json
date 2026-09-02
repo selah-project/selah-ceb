@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug miabot tanan nga mga tigulang sa Yisrael, ug gidala sa mga sacerdote ⟨את⟩ ang aron.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "nga mga tigulang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ug gidala"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga sacerdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang aron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:12.862268124Z",
+  "model": "glm-5.3"
+}

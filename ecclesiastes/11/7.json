@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug tam-is ang kahayag, ug maayo alang sa mga mata ang pagtan-aw ⟨את⟩ sa adlaw.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ug tam-is"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ug maayo"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "alang sa mga mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ang pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa adlaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:40.558254521Z",
+  "model": "glm-5.3"
+}

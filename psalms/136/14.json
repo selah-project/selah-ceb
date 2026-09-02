@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Ug gipaubos ang Yisrael nga moagi sa taliwala niini, kay hangtod sa kahangtan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Ug gipaubos nga moagi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sa taliwala niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:53.119688797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ingon niana buhaton kaninyo, Beit-El, tungod sa kadaotan sa inyong kadaotan; sa pagkabuntag mapugno na ang hari sa Israel.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "sa inyong kadaotan"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "sa pagkabuntag"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "mapugno"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:45.730340539Z",
+  "model": "glm-5.3"
+}

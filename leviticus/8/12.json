@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gibubo niya sa lana sa paghidlaw ibabaw sa ulo ni Aharon, ug gihidlawan niya siya ⟨את⟩ aron sa pagbalaan kaniya.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ug gibubo niya"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa paghidlaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ug gihidlawan niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Aharon)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "aron sa pagbalaan kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:04.038225863Z",
+  "model": "glm-5.3"
+}

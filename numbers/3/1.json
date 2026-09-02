@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug kini ang kaliwat ni Aharon ug ni Moshe, sa adlaw nga nagsulti si Yahweh ⟨את⟩ kang Moshe sa bukid sa Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini ang"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ug ni Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid sa"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:03.871381882Z",
+  "model": "glm-5.3"
+}

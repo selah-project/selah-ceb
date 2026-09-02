@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug mobalik ang abo sa ibabaw sa yuta sama sa pagkaniadto niini, ug ang espiritu mobalik ngadto kang Elohim nga naghatag niini.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "sama sa pagkaniadto niini"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ug ang espiritu"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "naghatag niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:15.473591574Z",
+  "model": "glm-5.3"
+}

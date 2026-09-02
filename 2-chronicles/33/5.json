@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug nagtindog siya ug mga halaran alang sa tanan nga panon sa langit sa duha ka nataran sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nagtindog siya ug"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "mga halaran"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "ka nataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:29:25.358718189Z",
+  "model": "glm-5.3"
+}

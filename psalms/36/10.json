@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Kay kanimo ⟨ang⟩ tinubdan sa kinabuhi; sa imong kahayag makakita kami ug kahayag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "tinubdan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "sa imong kahayag"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "makakita kami"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.683858153Z",
+  "model": "glm-5.3"
+}

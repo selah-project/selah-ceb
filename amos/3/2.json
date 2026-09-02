@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kamo lamang ang akong naila sa tanan nga mga banay sa yuta; tungod niini silutan ko ⟨את⟩ kamo ⟨את⟩ sa tanan ninyong mga sala.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ang akong naila"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "mishpachot_placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "silutan ko"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan ninyong mga sala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ninyong mga sala"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:55.747929883Z",
+  "model": "glm-5.3"
+}

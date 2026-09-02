@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gibuhat ni Moshe; sumala sa gisugo ni Yahweh ⟨את⟩ kaniya, mao kini ang iyang gibuhat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang iyang gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:38:43.386880128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ang baba sa matarong nagahunahuna sa kaalam, ug ang iyang dila nagsulti sa hustisya.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "nagahunahuna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ug ang iyang dila"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:30.051750505Z",
+  "model": "glm-5.3"
+}

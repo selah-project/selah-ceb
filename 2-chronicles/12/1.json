@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nahitabo, sa paglig-on ⟨sa⟩ gingharian ni Rechavam ug sa pagpalig-on niya ⟨sa iyang kaugalingon⟩, gibiyaan niya ⟨את⟩ ang Torah ni Yahweh, ug ang tibuok Israel uban kaniya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "sa paglig-on"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "gingharian"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ni Rechavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "ug sa pagpalig-on niya"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "gibiyaan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Torah ni Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:27.188167589Z",
+  "model": "glm-5.3"
+}

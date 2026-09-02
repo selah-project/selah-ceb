@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ Raamot uban ⟨את⟩ sa iyang mga migrah, ug ⟨את⟩ Anem uban ⟨את⟩ sa iyang mga migrah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Raamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga migrah"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sa iyang mga migrah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga migrah"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sa iyang mga migrah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:17.136795188Z",
+  "model": "glm-5.3"
+}

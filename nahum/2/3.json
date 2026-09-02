@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kay nabalik na kang Yahweh ⟨את⟩ ang kahaluagayan ni Yaakov, ingon sa kahaluagayan ni Yisrael, kay gipang-ula sila sa mga nag-ula, ug ang ilang mga sanga sa bugas gipahamok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nabalik na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahaluagayan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kahaluagayan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "ingon sa kahaluagayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "gipang-ula sila"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "mga nag-ula"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ilang mga sanga sa bugas"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "gipahamok"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:49.949603520Z",
+  "model": "glm-5.3"
+}

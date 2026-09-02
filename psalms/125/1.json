@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 125,
+  "translation": "Awit sa mga pag-angkat. Ang mga nagasalig kang Yahweh ⟨igan⟩ sa bukid sa Tsiyon, dili mahisala, hangtod sa kahangtors moypyok sila.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angkat"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ang mga nagasalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "⟨igan⟩ sa bukid"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "mahisala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtors"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "moypyok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:15.390089692Z",
+  "model": "glm-5.3"
+}

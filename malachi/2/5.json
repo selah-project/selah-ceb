@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang akong pakto ⟨את⟩ uban kaniya — ⟨ang⟩ kinabuhi ug ⟨ang⟩ kalinaw — ug gihatag ko sila kaniya alang sa kahadlok, ug nahadlok siya kanako, ug gikan sa atubangan sa akong ngalan nangahadlok siya.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakto"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "anaa kaniya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban kaniya",
+      "marks": "ang pakto"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang kinabuhi"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "ug ang kalinaw"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "ug gihatag ko sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "alang sa kahadlok"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "ug nahadlok siya kanako"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ug gikan sa atubangan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sa akong ngalan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "nangahadlok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:33.732347266Z",
+  "model": "glm-5.3"
+}

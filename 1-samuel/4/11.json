@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang kahon sa Elohim gikuha, ug ang duha ka anak ni Eli namatay — si Khopfni ug si Pinhas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "Ug ang kahon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ug ang duha ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "si Khopfni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "ug si Pinhas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:02.159511507Z",
+  "model": "glm-5.3"
+}

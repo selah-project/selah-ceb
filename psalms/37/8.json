@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Pahunong gikan sa kasuko ug biyai ang kaligutgut; ayaw pagkasuko — mosangpot lamang kini sa pagkadaot.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Pahunong"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "gikan sa kasuko"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ug biyai"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ang kaligutgut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "pagkasuko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "sa pagkadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.749263203Z",
+  "model": "glm-5.3"
+}

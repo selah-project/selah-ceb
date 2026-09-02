@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezekiel 16:58",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "⟨את⟩ Ang imong pagkadautan ug ⟨את⟩ ang imong mga ginawalat ikaw ang nagbaton ⟨sa imong kaugalingon⟩, nagsiugdon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong pagkadautan"
+    },
+    {
+      "surface": "זמתך",
+      "gloss": "ang imong pagkadautan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang imong mga ginawalat"
+    },
+    {
+      "surface": "תועבותיך",
+      "gloss": "ang imong mga ginawalat"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "נשאתים",
+      "gloss": "ang nagbaton"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagsiugdon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:37:04.815673119Z",
+  "model": "glm-5.3"
+}

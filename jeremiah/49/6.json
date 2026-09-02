@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Apan human niini pagapaundson ko ⟨את⟩ ang pagkabihag sa mga anak ni Amon, sumala sa giingon ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "apan human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "pagapaundson ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagkabihag"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sumala sa giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:30:37.886064974Z",
+  "model": "glm-5.3"
+}

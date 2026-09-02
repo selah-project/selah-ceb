@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa ⟨mao nga⟩ adlaw kuhaon ni Adonay ⟨את⟩ ang kahamugaway sa mga hikas sa tiil, ang mga pambumbot sa ulo, ug ang mga tinagitala nga daw bulan",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨mao nga⟩"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahamugaway"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ang kahamugaway"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "sa mga hikas sa tiil"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "ang mga pambumbot sa ulo"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "ug ang mga tinagitala nga daw bulan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:45.434332859Z",
+  "model": "glm-5.3"
+}

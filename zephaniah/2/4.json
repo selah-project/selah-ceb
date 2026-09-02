@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kay ang Azzah mahimong biyaan, ug ang Ashkelon mahimong kamingaw; ang Ashdod sa udto ilang pagahakuron, ug ang Ekron pagatangkaron ⟨sa gamot⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ang Azzah"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "mahimong biyaan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "ug ang Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "mahimong kamingaw"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ang Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "sa udto"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "ilang pagahakuron"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ug ang Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "pagatangkaron"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:11.565380987Z",
+  "model": "glm-5.3"
+}

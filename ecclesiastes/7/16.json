@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ayaw pagiging matarong nga sobra, ug ayaw pagpahibalo sa imong kaugalingon nga sobra — ngano nga ikaw ang maguba?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "pagiging"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nga sobra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "pagpahibalo sa imong kaugalingon"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "nga sobra"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ikaw ang maguba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:02.000264508Z",
+  "model": "glm-5.3"
+}

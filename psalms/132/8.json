@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Bangon ka, Yahweh, ngadto sa imong pahulayan, ⟨ikaw⟩ ug ang arko sa imong kusog.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangon ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ngadto sa imong pahulayan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ug ang arko"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "sa imong kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:06.153958531Z",
+  "model": "glm-5.3"
+}

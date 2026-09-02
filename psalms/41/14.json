@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Bulahan si Yahweh, ang Elohim sa Israel, gikan sa kahangturan ngadto sa kahangturan. Amin ug amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "gikan sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kahangturan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ug amin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:29.147198324Z",
+  "model": "glm-5.3"
+}

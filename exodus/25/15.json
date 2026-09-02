@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Sa mga singsing sa Aron ania ang mga bad; dili sila hawaon gikan niini.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "Sa mga singsing"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sa Aron"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ania ang"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mga bad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "sila hawaon"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:21.619757646Z",
+  "model": "glm-5.3"
+}

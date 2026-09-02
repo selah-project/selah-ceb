@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Gibutang niya ang mga suba ngadto sa kamingawan, ug ang mga tinubdan sa tubig ngadto sa uhaw nga yuta.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ngadto sa kamingawan"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ug ang mga tinubdan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ngadto sa uhaw nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:53.231679912Z",
+  "model": "glm-5.3"
+}

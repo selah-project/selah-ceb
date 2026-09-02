@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sa lahi nga bahin sa Yarden, sa yuta sa Moav, gisugdan ni Moshe pagpatin-aw ⟨את⟩ niini nga Torah, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "sa lahi nga bahin"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moav"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "gisugdan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "pagpatin-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niini nga Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "nga Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:05.843157230Z",
+  "model": "glm-5.3"
+}

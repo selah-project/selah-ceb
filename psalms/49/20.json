@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Mokanhi ⟨siya⟩ ngadto sa henerasyon sa iyang mga katigulangan; hangtod sa kahangturan dili nila makita ang kahayag.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "mokanhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "sa iyang mga katigulangan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "kahangturan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makita"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ang kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:00.347785687Z",
+  "model": "glm-5.3"
+}

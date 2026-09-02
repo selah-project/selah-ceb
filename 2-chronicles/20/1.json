@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug nahitabo human niini, nga miabot ang mga anak ni Moav ug ang mga anak ni Amon, ug kauban nila ang mga Amnoninhon, batok kang Yehoshafat sa paggubat.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "באו",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ug kauban nila"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "sa mga Amnoninhon"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "kang Yehoshafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa paggubat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:29.536916128Z",
+  "model": "glm-5.3"
+}

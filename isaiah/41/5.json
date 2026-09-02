@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Nakakita ang mga pulo ug nakahadlok; ang mga kinatumyangan sa yuta nanurog; nagduol sila ug ⟨nangadto⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ang mga pulo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "nakahadlok"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ang mga kinatumyangan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "nanurog"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "nagduol"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "ug nangadto"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:17.604659503Z",
+  "model": "glm-5.3"
+}

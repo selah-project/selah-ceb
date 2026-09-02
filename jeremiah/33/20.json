@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Mao kini ang giingon ni Yahweh: Kon makapapas kamo ⟨את⟩ ang akong pakigsaad sa adlaw ug ⟨את⟩ ang akong pakigsaad sa gabiay, aron dili na maglungtad ang adlaw ug ang gabiay sa ilang takna —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "makapapas kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong pakigsaad sa adlaw"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang akong pakigsaad sa gabiay"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "sa gabiay"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "aron dili na"
+    },
+    {
+      "surface": "היות",
+      "gloss": "maglungtad"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug ang gabiay"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "sa ilang takna"
+    }
+  ],
+  "timestamp": "2026-09-01T21:25:18.450617841Z",
+  "model": "glm-5.3"
+}

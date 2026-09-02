@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 3:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang akong katawhan — ang mga nangugkos kaniya mga bata pa, ug mga babaye ang naghari kaniya. Akong katawhan, ang mga nagpanalangin kanimo nagpalibog kanimo, ug ang dalan sa imong mga agianan gilamoy nila.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Ang akong katawhan"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "ang mga nangugkos kaniya"
+    },
+    {
+      "surface": "מעולל",
+      "gloss": "mga bata pa"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "ug mga babaye"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Akong katawhan"
+    },
+    {
+      "surface": "מאשריך",
+      "gloss": "ang mga nagpanalangin kanimo"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "nagpalibog kanimo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ug ang dalan"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "sa imong mga agianan"
+    },
+    {
+      "surface": "בלעו",
+      "gloss": "gilamoy nila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:21.596806624Z",
+  "model": "glm-5.3"
+}

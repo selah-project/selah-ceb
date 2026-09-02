@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gitawag ang tibuok katawhan nga ⟨adto⟩ sa dakbayan aron modangop paghuman nila, ug gidangop nila si Yehoshua, ug gibawi sila gikan sa dakbayan.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "aron modangop"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paghuman nila"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ug gidangop nila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "paghuman"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "ug gibawi sila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:03.983819679Z",
+  "model": "glm-5.3"
+}

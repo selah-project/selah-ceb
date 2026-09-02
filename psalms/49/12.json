@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ang sulod nga hunahuna nila: ang ilang mga balay ⟨mologia⟩ hangtod sa kahangturan, ang ilang mga puloy-anan sa tanan nga kaliwatan; gipanganak nila ang ilang mga ngalan ibabaw sa mga yuta.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "ang sulod nga hunahuna nila"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "ang ilang mga balay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "ang ilang mga puloy-anan"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa tanan nga kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug kaliwatan"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "gipanganak nila"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "ang ilang mga ngalan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "mga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:59.451389370Z",
+  "model": "glm-5.3"
+}

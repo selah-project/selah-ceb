@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug kuhaa ⟨את⟩ ang inyong amahan ug ⟨את⟩ ang inyong mga panimalay, ug umaari kanako, ug ihatag ko kaninyo ⟨את⟩ ang kamaayuhan sa yuta sa Mitsrayim, ug kaona ⟨את⟩ ang taba sa yuta.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong amahan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "inyong amahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga panimalay"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "inyong mga panimalay"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ug umaari"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamaayuhan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kamaayuhan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug kaona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:57.189620421Z",
+  "model": "glm-5.3"
+}

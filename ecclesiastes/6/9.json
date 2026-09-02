@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Labaw nga maayo ang panan-aw sa mga mata kay sa pagpanaw sa gana; kini usab hevel ug kagahas sa hangin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "labaw nga maayo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "panan-aw"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "pagpanaw"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sa gana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ug kagahas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hangin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:19.428105173Z",
+  "model": "glm-5.3"
+}

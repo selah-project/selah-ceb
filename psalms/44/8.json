@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Kay giluwas mo kami gikan sa among mga kaaway, ug gipahimuot mo ⟨kaming⟩ gigiyahan sa among mga magbudlayan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "giluwas mo kami"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "gikan sa among mga kaaway"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ug sa among mga nagadumili kanamo"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "gipahimuot mo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:22.370584525Z",
+  "model": "glm-5.3"
+}

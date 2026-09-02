@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa adlaw nga manglurog ang mga magbantay sa balay, ug mokuyog ang mga tawo sa kusog, ug mohunong ang mga galing kay pila na lamang, ug mamangitngit ang mga nagatan-aw sa mga bintana;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "nga manglurog"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ang mga magbantay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "ug mokuyog"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "ug mohunong"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "ang mga galing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "pila na lamang"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "ug mamangitngit"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ang mga nagatan-aw"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "sa mga bintana"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:00.671620891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Pilia nga plata ang dila sa matarong; ang kasingkasing sa mga dautan ingon sa gamay ra kaayo ⟨nga bili⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "pilia"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ingon sa gamay ra kaayo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:46.036609748Z",
+  "model": "glm-5.3"
+}

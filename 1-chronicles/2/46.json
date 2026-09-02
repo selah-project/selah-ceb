@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Eifah, ang pingkoles ni Kalev, natawan ⟨את⟩ si Kharan ug ⟨את⟩ si Motsa ug ⟨את⟩ si Gazez; ug si Kharan nagmamano ⟨את⟩ kang Gazez.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Ug si Eifah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ang pingkoles"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawan (nanganak)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "si Kharan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "si Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "si Gazez"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ug si Kharan"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "nagmamano (nagatawo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Gazez"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazez"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:40.195525022Z",
+  "model": "glm-5.3"
+}

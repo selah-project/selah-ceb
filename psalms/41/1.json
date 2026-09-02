@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Sa manguna sa musika. Usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manguna sa musika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:09.713396069Z",
+  "model": "glm-5.3"
+}

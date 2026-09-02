@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 19:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug kon padak-on ni Yahweh nga imong Elohim ⟨את⟩ ang imong utlanan, sumala sa iyang panumpa ngadto sa imong mga katigulangan, ug iyang hatagan ka ⟨את⟩ sa tanan ⟨ang⟩ yuta nga iyang gisulti nga iyang ihatag ngadto sa imong mga katigulangan —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "padak-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong utlanan"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ang imong utlanan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "sa iyang panumpa"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ngadto sa imong mga katigulangan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug iyang hatagan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan nga yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga ihatag"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ngadto sa imong mga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:46.296194220Z",
+  "model": "glm-5.3"
+}

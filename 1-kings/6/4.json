@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gimbuhat niya alang sa balay mga bintana nga may hawan nga tilipdan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gimbuhat niya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "alang sa balay"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "mga bintana"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "nga may hawan"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "nga tilipdan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:38.835085192Z",
+  "model": "glm-5.3"
+}

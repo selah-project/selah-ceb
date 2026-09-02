@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Maayo ang dili magtanyag kay ⟨ang⟩ magtanyag apan dili mabayad.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "magtanyag"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kay ang magtanyag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mabayad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:21.248189784Z",
+  "model": "glm-5.3"
+}

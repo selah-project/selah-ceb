@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 5:15",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug dad-on sa lalaki ⟨ang⟩ ⟨את⟩ iyang asawa ngadto sa sacerdote, ug dad-on niya ⟨ang⟩ ⟨את⟩ iyang halad alang kaniya: napulo nga bahin sa efa nga harina sa sebadas; ayaw pagbubo ug lana ⟨kaniya⟩, ug ayaw pagbutang ug insenso ⟨kaniya⟩, kay halad sa kainggitan kini, usa ka halad sa pahinumdom, nga nagapahinumdom sa sala.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "ug dad-on"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ug dad-on niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang halad"
+    },
+    {
+      "surface": "קרבנה",
+      "gloss": "iyang halad"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "napulo nga bahin"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "sa efa"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "harina"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sebadas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "pagbubo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "pagbutang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "halad"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "sa kainggitan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "halad"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "sa pahinumdom"
+    },
+    {
+      "surface": "מזכרת",
+      "gloss": "nagapahinumdom"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sa sala"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:55.374558969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang pagkadumot mobangon sa mga panagbingkil, ug sa tanan nga mga sala ang gugma magatabon.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "pagkadumot"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "mga panagbingkil"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "magatabon"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "gugma"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:36.597473947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug mobangon siya ug miabut ug milakaw paingon sa Shomron; siya ⟨adto⟩ sa Beit-Eked sa mga magbalantak sa dalan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ug mobangon siya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabut"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug milakaw"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "paingon sa Shomron"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Eked"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "sa mga magbalantak"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:59.242053810Z",
+  "model": "glm-5.3"
+}

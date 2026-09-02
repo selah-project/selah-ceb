@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang karga sa walog sa panan-awon: Unsa man kanimo karon, nga ang tibuok nimo nanag-akat na ngadto sa mga atop?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Ang karga"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "sa panan-awon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa man"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "nanag-akat na"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ang tibuok nimo"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ngadto sa mga atop"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:00.080804671Z",
+  "model": "glm-5.3"
+}

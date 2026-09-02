@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug pagbulahan nako ang mga nagapanalangin kanimo, ug ang nagatunglo kanimo tungloon nako; ug panalanginan ang tanan nga mga banay sa ⟨ang⟩ yadmos pinaagi kanimo.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Ug pagbulahan nako"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "ang mga nagapanalangin kanimo"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "ug ang nagatunglo kanimo"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "tungloon nako"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "ug panalanginan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "paagi kanimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mga banay"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa ⟨ang⟩ yadmos"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:48.308068246Z",
+  "model": "glm-5.3"
+}

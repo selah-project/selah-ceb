@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Sa walay kapuslanan gitamday ko ⟨את⟩ ang inyong mga anak; wala sila modawat og pagtulon-an; ang inyong espada mikaon sa inyong mga propeta, sama sa usa ka lannog nga maglaglag.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "sa walay kapuslanan"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "gitamday ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga anak"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ang inyong mga anak"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pagtulon-an"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "modawat"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "mikaon"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "ang inyong espada"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "sa inyong mga propeta"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sama sa usa ka lannog"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "nga maglaglag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:14:01.476618582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "ug si Naaman, ug si Akhia, ug si Gera — siya ang nagpahawa kanila; ug natawo ⟨kaniya⟩ si Uza ug si Akhikhud.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "ug si Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ug si Akhia"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ug si Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ang nagpahawa kanila"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ug natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "si Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Akhikhud"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "si Akhikhud"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:26.745983672Z",
+  "model": "glm-5.3"
+}

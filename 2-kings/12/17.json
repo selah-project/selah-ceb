@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang plata sa kasalanan-panaud ug ang plata sa mga sala dili ihatod ngadto sa balay ni Yahweh — para sa mga sacerdote kini ⟨mahimo⟩.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "kasalanan-panaud"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ug ang plata"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "ihatod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "para sa mga sacerdote"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kini ⟨mahimo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:13.734776799Z",
+  "model": "glm-5.3"
+}

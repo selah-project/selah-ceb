@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Sa pagbangon sa Elohim alang sa paghukom, sa pagluwas sa tanan nga mga mapainubsanon sa yuta. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "Sa pagbangon"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "alang sa paghukom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "mga mapainubsanon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:28.030782753Z",
+  "model": "glm-5.3"
+}

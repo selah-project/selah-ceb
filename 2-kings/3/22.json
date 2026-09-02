@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug mitungas sila sa sayo sa buntag, ug ang adlaw misidlak sa ibabaw sa tubig, ug nakita sa Moab gikan sa atbang ⟨את⟩ ang tubig nga pula ingon sa dugo.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ug mitungas sila sa sayo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ug ang adlaw"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "misidlak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "gikan sa atbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "nga pula"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "ingon sa dugo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:55.011864912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Ang akong mga mata ⟨mga⟩ matinud-anon sa yuta, aron mopuyo uban kanako; ang nagalakat sa dalan nga hingpit, siya mag-alagad kanako.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "sa matinud-anon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aron mopuyo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ang nagalakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga hingpit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "mag-alagad kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:34.361348429Z",
+  "model": "glm-5.3"
+}

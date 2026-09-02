@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miingon siya kanila: Lakaw pa ⟨ang⟩ tulo ka adlaw ug balik ngari kanako; ug milakaw ang katawhan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "balik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:26.503814411Z",
+  "model": "glm-5.3"
+}

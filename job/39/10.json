@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Makasiguro ka bang mogahin ang reem sa sudlay pinaagi sa iyang pisi, o maggasa ba siya sa mga kainggan sunod kanimo?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "makasiguro ka bang mogahin"
+    },
+    {
+      "surface": "רים",
+      "gloss": "reem"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "sa sudlay"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "iya nga pisi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "maggasa"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "mga kainggan"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sunod kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:44:48.174873459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Gipalimbogt Nimo sa imong bukton ang imong katawhan, ang mga anak ni Yaakov ug ni Yosef. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Gipalimbogt Nimo"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "sa imong bukton"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imong katawhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ug ni Yosef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.655026058Z",
+  "model": "glm-5.3"
+}

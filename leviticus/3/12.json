@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug kon ang iyang halad kanding ⟨siya⟩ magahalad niini ⟨atbang⟩ sa atubangan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kanding"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang iyang halad"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "magahalad niini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:53.874534227Z",
+  "model": "glm-5.3"
+}

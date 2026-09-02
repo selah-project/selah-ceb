@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 125,
+  "translation": "Ug siadtong nagatuyok sa ilang makulitong mga dalan, itultol sila ni Yahweh kauban ⟨את⟩ ang mga mamumuo sa kadaot. Pagkamalinawon sa Yisrael!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Ug siadtong nagatuyok"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "sa ilang makulitong mga dalan"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "itultol sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga mamumuo sa kadaot"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ang mga mamumuo"
+    },
+    {
+      "surface": "האון",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Pagkamalinawon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:34.335265040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Yuta nga mamumughon ⟨ngadto⟩ sa dapit nga asinan, tungod sa kadaotan sa mga pumoluyo niini.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "nga mamumughon"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "ngadto sa dapit nga asinan"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "tungod sa kadaotan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sa mga pumoluyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:53.231905868Z",
+  "model": "glm-5.3"
+}

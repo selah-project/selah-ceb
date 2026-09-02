@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kang kinsa gikan sa mga anak ni Aharon ang magahatag ⟨את⟩ sa dugo sa mga halarong pakigdait ug ⟨את⟩ sa tambok, kaniya ihatag ang hawak sa tuo nga tiil ingon nga bahin.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "ang magahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dugo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa mga halarong pakigdait"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "sa tambok"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gikan sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "hawak sa tiil"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sa tuo"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "ingon nga bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:38.637157935Z",
+  "model": "glm-5.3"
+}

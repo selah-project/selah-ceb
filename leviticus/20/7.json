@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug pagabalaanon ninyo ang inyong kaugalingon ug mahimong mga balaan kamo, kay ako mao ang Yahweh nga Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Ug pagabalaanon ninyo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "mga balaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:43.153156331Z",
+  "model": "glm-5.3"
+}

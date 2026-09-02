@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nahinumdum si Elohim ⟨את⟩ Noach, ug ⟨את⟩ tanang binuhi, ug ⟨את⟩ tanang mga hayop nga ⟨את⟩ ⟨kauban niya⟩ sa arka; ug gipadalagan sa Elohim ang usa ka hangin ibabaw sa yuta, ug nahunong ang mga tubig.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "nahinumdum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanang binuhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "binuhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanang mga hayop"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mga hayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kauban niya⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "sa arka"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "gipadalagan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "nahunong"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:06.767096868Z",
+  "model": "glm-5.3"
+}

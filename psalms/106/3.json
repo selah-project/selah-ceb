@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Malipayon ang nagabantay sa hustisya, ang nagabuhat sa katarungan sa tanan nga panahon.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ang nagabantay"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa hustisya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang nagabuhat"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "sa katarungan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.662783514Z",
+  "model": "glm-5.3"
+}

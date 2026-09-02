@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kinsa ang maalam, ug mabantad niini? Kinsa ang adunay salabutan, ug mahibalo niini? Kay matul-id ang mga dalan ni Yahweh, ug ang mga matarong molakaw ⟨kanila⟩, apan ang mga mosupak molukso ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ang maalam"
+    },
+    {
+      "surface": "ו יבן",
+      "gloss": "ug mabantad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ang adunay salabutan"
+    },
+    {
+      "surface": "ו ידעם",
+      "gloss": "ug mahibalo niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang mga dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ו צדיקים",
+      "gloss": "ug ang mga matarong"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "molakaw"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "apan ang mga mosupak"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "molukso"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:26.403500449Z",
+  "model": "glm-5.3"
+}

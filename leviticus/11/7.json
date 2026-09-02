@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ⟨את⟩ ang khazir (baboy), kay gibahinbahin niya ang kuko — natino ug gipunit ang kuko — apan ang pagkaon sa ngipon wala niya iya-usab; dili hinlo ⟨siya⟩ alang kaninyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang khazir"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ang khazir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "gibahinbahin"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ang kuko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ug natino"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "gipunit nga bitak"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "apan siya"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "pagkaon sa ngipon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "iya-usab"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "dili hinlo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:02.653004312Z",
+  "model": "glm-5.3"
+}

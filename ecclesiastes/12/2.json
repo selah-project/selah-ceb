@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "sa wala pa mangitngit ang adlaw ug ang kahayag, ug ang bulan ug mga bitoon, ug molarga ang mga panganod human sa ulan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "mangitngit"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ug ang kahayag"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ug ang bulan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ug mga bitoon"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ug molarga"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ang mga panganod"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ulan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:00.671470651Z",
+  "model": "glm-5.3"
+}

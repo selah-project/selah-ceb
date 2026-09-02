@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ingon sa pagpamatay ⟨sa⟩ akong mga bukog, gilotos ako sa akong mga mananaway, sa pag-ingon nila kanako sa tibuok adlaw: Hain ang imong Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "sa pagpamatay"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "sa akong mga bukog"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "gilotos ako"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "sa akong mga mananaway"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "sa pag-ingon nila"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "hain"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:06.311297084Z",
+  "model": "glm-5.3"
+}

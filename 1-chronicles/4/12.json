@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Eshton natawnan ⟨את⟩ si Beit-Rafa, ug ⟨את⟩ si Paseakh, ug ⟨את⟩ si Tkhinah nga amahan sa Ir-Nakhash — kini ang mga tawo sa Rekha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Ug si Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawnan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Beit-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Paseakh"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "si Paseakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Tkhinah"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "si Tkhinah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nakhash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo sa"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekha"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:52.123025440Z",
+  "model": "glm-5.3"
+}

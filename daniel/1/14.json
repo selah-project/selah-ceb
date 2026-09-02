@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gituman niya sila sa maong pulong, ug gisulayan niya sila napulo ka adlaw.",
+  "tokens": [
+    {
+      "surface": "וי שמע",
+      "gloss": "ug gituman niya"
+    },
+    {
+      "surface": "ל הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ל דבר",
+      "gloss": "sa maong pulong"
+    },
+    {
+      "surface": "ה זה",
+      "gloss": "maong"
+    },
+    {
+      "surface": "וי נס ם",
+      "gloss": "ug gisulayan niya sila"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo ka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:36.761847662Z",
+  "model": "glm-5.3"
+}

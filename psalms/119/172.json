@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mokanta ang akong dila mahitungod sa imong pulong, kay tanan nimong mga sugo ⟨mga⟩ pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "mokanta"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang akong dila"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sa imong pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nimong mga sugo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨mga⟩ pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:56.262042089Z",
+  "model": "glm-5.3"
+}

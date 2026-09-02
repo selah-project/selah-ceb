@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Sa nianang adlawa magaadunay dalan gikan sa Mitsrayim ngadto sa Ashur, ug moabot ang Ashur sa Mitsrayim ug ang Mitsrayim sa Ashur, ug mag-alagad ang Mitsrayim kauban ⟨את⟩ ang Ashur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa nianang adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(nianang)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "magaadunay"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ngadto sa Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ug moabot"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ang Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ug ang Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ug mag-alagad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:54.942408011Z",
+  "model": "glm-5.3"
+}

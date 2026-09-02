@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Pagdayeg kamo kang Yah! Malipayon ⟨ang⟩ tawo nga nahadlok kang ⟨את⟩ Yahweh; sa iyang mga sugo iyang gikalipay pag-ayo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "sa iyang mga sugo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gikalipay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pag-ayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:05.778458807Z",
+  "model": "glm-5.3"
+}

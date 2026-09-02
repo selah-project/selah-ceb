@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Si Yahweh magabantay sa imong paggawas ug sa imong pag-sulod, gikan karon hangtod sa kahangtuuran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "magabantay"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "imong paggawas"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ug sa imong pagsulod"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gikan karon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtuuran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.299179033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gisangtuniyahi niya ug mga bato ⟨ang tumong:⟩ ⟨את⟩ si David ug ⟨את⟩ ang tanan nga mga sulugoon ni hari David; ug ang tanan nga mga tawo ug ang tanan nga mga kusgan ⟨nga mga manggugubat⟩ anaa sa iyang tuong kamot ug sa iyang walang kamot.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "ug gisangtuniyahi"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ug mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga sulugoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ni hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "mga kusgan"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "sa iyang tuong kamot"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "ug sa iyang walang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:31.848508970Z",
+  "model": "glm-5.3"
+}

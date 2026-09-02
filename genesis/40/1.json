@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug ⟨nahitabo⟩ human sa ⟨mga⟩ butanga ⟨kini⟩, nakasala ang manluludog sa hari sa Mitsrayim ug ang magdadala-on sa ilang mga agalon, sa hari sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨nahitabo⟩"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨mga⟩ butang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nakasala"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "manluludog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "ug ang magdadala-on"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "sa ilang mga agalon"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:24.547907930Z",
+  "model": "glm-5.3"
+}

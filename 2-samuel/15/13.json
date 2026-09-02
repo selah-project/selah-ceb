@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug miadto ang nagdala sa balita kang David, nga nagaingon: Naanhì na ang kasingkasing sa tawo sa Yisrael pagsunod kang Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ang nagdala sa balita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naanhì na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagsunod"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "kang Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:08.079286817Z",
+  "model": "glm-5.3"
+}

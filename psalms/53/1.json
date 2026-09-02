@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Sa panguna sa magdadagkon, ibabaw ⟨sa⟩ Machalat, usa ka maskil ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa panguna sa magdadagkon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil nga tudloon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:13.592486862Z",
+  "model": "glm-5.3"
+}

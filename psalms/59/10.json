@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "⟨O⟩ akong kusog, ngadto kanimo magabantay ako; kay ⟨ang⟩ Elohim ⟨mao ang⟩ akong kuta nga dapit.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "akong kusog"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "magabantay ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "akong kuta nga dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:53.500158063Z",
+  "model": "glm-5.3"
+}

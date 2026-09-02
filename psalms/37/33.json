@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Si Yahweh dili mol biya siya sa iyang kamot, ug dili siya pagahimoon nga sad-an sa pagahukman siya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "mol biya siya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "pagahimoon nga sad-an siya"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "sa pagahukman siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:33.711521420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ang among mga timaila wala namo makita; wala nay propeta; ug wala ⟨את⟩ kanato ang nakabalo hangtod kanus-a.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "ang among mga timaila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "namo makita"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala nay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kanato",
+      "marks": "ang nakabalo hangtod kanus-a"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ang nakabalo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kanus-a"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:25.776438879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Itudlo ko kaninyo ⟨את⟩ nianang sa kamot ni El; ang nahanas kang Shadday dili nako itago.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "itudlo ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nianang sa kamot ni El"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nahanas kang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "nako itago"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:36.641113451Z",
+  "model": "glm-5.3"
+}

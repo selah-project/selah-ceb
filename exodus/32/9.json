@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug miingon si Yahweh kang Moshe: Nakita nako ⟨את⟩ ⟨ang⟩ katawhan ⟨kini⟩, ug ania karon, katawhan nga lig-on og liog kini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nga lig-on"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "liog"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:04.719142685Z",
+  "model": "glm-5.3"
+}

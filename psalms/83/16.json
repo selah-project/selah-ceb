@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Sa ingon niana, pangitas-on sila sa imong bagyo, ug sa imong unos pagkahadlokon sila.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sa ingon niana"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "pangitas-on sila"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "sa imong bagyo"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "ug sa imong unos"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "pagkahadlokon sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:03.227880916Z",
+  "model": "glm-5.3"
+}

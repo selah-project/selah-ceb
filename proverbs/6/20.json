@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Akong anak, bantayi ang sugo sa imong amahan, ug ayaw pagbiya sa tora sa imong inahan;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "pagbiya"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sa tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sa imong inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:58.912014957Z",
+  "model": "glm-5.3"
+}

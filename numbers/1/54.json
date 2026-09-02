@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gibuhat sa mga anak ni Yisrael ang tanan nga gisugo ni Yahweh ⟨את⟩ kang Moshe; mao kini ang ilang gibuhat.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ug gibuhat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kang Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ang ilang gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:41.518473565Z",
+  "model": "glm-5.3"
+}

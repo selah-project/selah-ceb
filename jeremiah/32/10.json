@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Uggisulat ko diha sa sulat, uggipirmahan ko, uggipatimo ko ang mga saksi, ug gitimbang ko ang pilak sa timbangan.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "uggisulat ko"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "diha sa sulat"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "uggipirmahan ko"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "uggipatimo ko"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ang mga saksi"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "uggitimbang ko"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "sa timbangan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:25:12.067795897Z",
+  "model": "glm-5.3"
+}

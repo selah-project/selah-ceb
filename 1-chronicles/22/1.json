@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Si Dawid naghimo: Kini mao ang balay ni Yahweh ⟨ang⟩ Elohim, ug kini mao ang halaran alang sa halad nga sinunog alang kang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Si Dawid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ang⟩ Elohim"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "alang sa halad nga sinunog"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "alang kang Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:52.064371555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ania karon, gihimo nako ⟨את⟩ ang imong nawong nga lig-on ⟨nga⟩ atbang sa ilang mga nawong, ug ⟨את⟩ ang imong agtang lig-on atbang sa ilang agtang.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihimo nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong nawong"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "nga lig-on"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ilang mga nawong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong agtang"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ang imong agtang"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "lig-on"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ilang agtang"
+    }
+  ],
+  "timestamp": "2026-09-01T21:34:05.450979994Z",
+  "model": "glm-5.3"
+}

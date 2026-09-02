@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Busa ang katawhan nagpahulay sa adlaw nga ikapito.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "nagpahulay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "nga ikapito"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:32.727260878Z",
+  "model": "glm-5.3"
+}

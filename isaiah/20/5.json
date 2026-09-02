@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Makulbaan sila ug maulaw mahitungod Kush ⟨ang⟩ ilang gilaoman, ug mahitungod Mitsrayim ⟨ang⟩ ilang kahimayaan.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "makulbaan sila"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ug maulaw"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "mahitungod Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ilang gilaoman"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ug mahitungod"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "ilang kahimayaan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:39.107403326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Uban sa mga dili matinud-anon, mga tig-uyon-uyon sa mga kaonon, nangatik sila og ngipon batok kanako.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "uban sa mga dili matinud-anon"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "mga tig-uyon-uyon"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "sa mga kaonon"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "nangatik og ngipon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "sila og ngipon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.688065143Z",
+  "model": "glm-5.3"
+}

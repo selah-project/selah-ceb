@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Si David magadto ug mobalik gikan kang Shaul sa pagatod-i ⟨את⟩ ang panon sa karnero sa iyang amahan sa Beit-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Si David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "magadto"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug mobalik"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan kang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "sa pagatod-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panon sa karnero"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "panon sa karnero"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:06.209263648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Ang tanang mga nasod nga imong gibuhat moanhi ug mosimba ⟨sa⟩ imong atubangan, O Adonay, ug himayaon nila ang imong ngalan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "moanhi"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ug mosimba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "imong atubangan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "ug himayaon nila"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ang imong ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.179917742Z",
+  "model": "glm-5.3"
+}

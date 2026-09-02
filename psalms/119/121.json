@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nahimo ko ang pagtulon-on ug ang pagkamatarong; ayaw ako pagbiya ngadto sa akong mga mamugos.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "nahimo ko"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang pagtulon-on"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ug ang pagkamatarong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ako pagbiya"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ngadto sa akong mga mamugos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:18.372082193Z",
+  "model": "glm-5.3"
+}

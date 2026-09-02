@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ang kaulaw nakabali sa akong kasingkasing, ug ako nagluya, ug naghulat ako ug mopakuyaw apan wala'y, ug mga managhatag kahupayan apan wala ko makaplagan.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "kaulaw"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "nakabali"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ug ako nagluya"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ug naghulat ako"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "mopakuyaw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "apan wala'y"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "mga managhatag kahupayan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ako nakaplagan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:12.885600309Z",
+  "model": "glm-5.3"
+}

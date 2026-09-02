@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Kay ikaw, Yahweh, ⟨ang⟩ akong pinahulayan; Elyon ang imong gipiling puloy-anan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "akong pinahulayan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ang imong gipiling"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "puloy-anan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.508055221Z",
+  "model": "glm-5.3"
+}

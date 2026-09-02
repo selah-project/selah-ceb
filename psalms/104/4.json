@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Nagbuhat ⟨siya⟩ sa iyang mga mensahero ingon mga hangin, ang iyang mga sulogoon ingon kalayo nga mosunog.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nagbuhat"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sa iyang mga mensahero"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ingon mga hangin"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ang iyang mga sulogoon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ingon kalayo"
+    },
+    {
+      "surface": "להט",
+      "gloss": "nga mosunog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:31.383035027Z",
+  "model": "glm-5.3"
+}

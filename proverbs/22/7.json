@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang adunahan mamando sa mga kabus, ug ang mounod ⟨sulugoon⟩ sa tawo nga nagpautang.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ang adunahan"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "sa mga kabus"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "mamando"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ug ⟨sulugoon⟩"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ang mounod"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "nga nagpautang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:00.813436396Z",
+  "model": "glm-5.3"
+}

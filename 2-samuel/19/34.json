@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug miingon ang hari kang Barzillay: Ikaw, pagtabok uban ⟨את⟩ kanako, ug akong sustinohon ⟨את⟩ ikaw uban kanako sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pagtabok"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "ug akong sustinohon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:06.416802002Z",
+  "model": "glm-5.3"
+}

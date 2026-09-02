@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Paminaw kamo ug dungoga ang akong tingog; tagda kamo ug dungoga ang akong pulong.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Paminaw kamo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ug dungoga"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "tagda kamo"
+    },
+    {
+      "surface": "וישמעו ושמעו",
+      "gloss": "ug dungoga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ang akong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:09.197297838Z",
+  "model": "glm-5.3"
+}

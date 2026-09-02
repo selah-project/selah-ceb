@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Pagdayegon nila ⟨את⟩ ang ngalan ni Yahweh, kay ⟨siya⟩ mao ang nagmando ug sila gigama.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Pagdayegon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "angan ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagmando"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ug sila gigama"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:21.085127087Z",
+  "model": "glm-5.3"
+}

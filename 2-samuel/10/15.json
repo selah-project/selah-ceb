@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nakita sa Aram nga sila napildi sa atubangan sa Israel, ug nagtigum sila nga magkahiusa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ug nakita sa Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "napildi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ug nagtigum sila"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nga magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:09.749619194Z",
+  "model": "glm-5.3"
+}

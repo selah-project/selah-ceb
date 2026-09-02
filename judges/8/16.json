@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gikuha niya ⟨את⟩ ang mga kaduulan sa ⟨siyudad⟩ ug ⟨את⟩ ang mga tunok sa kamingawan ug ⟨את⟩ ang mga barqanim, ug gipaila-ila niya kanila ⟨את⟩ ang mga tawo sa Sukkot ⟨pinaagi niini⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kaduulan sa siyudad"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga kaduulan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "siyudad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga tunok sa kamingawan"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "mga tunok"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga barqanim"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "mga barqanim"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "gipaila-ila niya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pinaagi niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tawo sa Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo sa"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:15.476353134Z",
+  "model": "glm-5.3"
+}

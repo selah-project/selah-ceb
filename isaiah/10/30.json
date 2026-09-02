@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Sigaw ⟨sa imong tingog⟩, anak nga babae sa Gallim; paminaw, ⟨O⟩ Laish; ⟨O⟩ kabus nga Anathoth.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "sigaw"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "sa imong tingog"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "sa Gallim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "paminaw"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Laish"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "kabus"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:47.543121467Z",
+  "model": "glm-5.3"
+}

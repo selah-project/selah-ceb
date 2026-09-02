@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Ako ⟨nagapakig-uban sa⟩ kalinaw, apan kung magyukad ako, sila ⟨nagapangandoy sa⟩ gubat.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinaw"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "apan kung"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "magyukad ako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:25.412455034Z",
+  "model": "glm-5.3"
+}

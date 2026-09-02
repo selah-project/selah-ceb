@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug natapos na si David sa pagpasaka sa halad-sinunog ug sa mga halad-saad, ug giyawi niya ug pagpanalangin ⟨את⟩ ang katawhan sa ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "natapos na"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "sa pagpasaka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa halad-sinunog"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ug sa mga halad-saad"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "giyawi niya ug pagpanalangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:18.894086946Z",
+  "model": "glm-5.3"
+}

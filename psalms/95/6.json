@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Umari kamo, mangluhod ⟨kita⟩ ug managtuho, magpanaalangal ⟨kita⟩ sa atubangan ni Yahweh nga ⟨siya ang⟩ naghimo kanato.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Umari kamo"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "mangluhod ⟨kita⟩"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "ug managtuho"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "magpanaalangal ⟨kita⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nga naghimo kanato"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:28.320300999Z",
+  "model": "glm-5.3"
+}

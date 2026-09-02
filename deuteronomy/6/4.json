@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Paminawa, O Yisrael: si Yahweh ang atong Elohim, si Yahweh hiusa.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hiusa"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:47.181579936Z",
+  "model": "glm-5.3"
+}

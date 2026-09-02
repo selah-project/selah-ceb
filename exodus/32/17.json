@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug Nadungog ni Yehoshua ⟨את⟩ ang tingog sa katawhan sa ilang pagsinggit, ug siya miingon kang Moshe: Tingog sa gubat ⟨ang⟩ anaa sa kampo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Nadungog"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa ilang pagsinggit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Tingog"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:43.290220027Z",
+  "model": "glm-5.3"
+}

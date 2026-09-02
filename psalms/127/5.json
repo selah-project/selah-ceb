@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 127,
+  "translation": "Malipayon ang lalaki nga nagpunô ⟨את⟩ sa iyang panangpanang sa mga kini; dili sila mahilakon, kay magasulti sila ⟨את⟩ sa mga kaaway ⟨sa⟩ ganghaan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nagpunô"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang panangpanang"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sa iyang panangpanang"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "sa mga kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahilakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "magasulti sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga kaaway"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "sa mga kaaway"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "⟨sa⟩ ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:32.361422799Z",
+  "model": "glm-5.3"
+}

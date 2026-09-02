@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gihimo ni Yahweh ⟨את⟩ uban kanila ang pakigsaad, ug gisugo niya sila nga nag-ingon: Ayaw kamo pagkahadlok sa ⟨mga⟩ dios nga lain, ug ayaw pagluhod kanila, ug ayaw pag-alagad kanila, ug ayaw paghalad kanila.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Ug gihimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ uban kanila",
+      "marks": "ang pakigsaad — gihimo uban kanila"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ug gisugo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo pagkahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga lain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "pagluhod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "pag-alagad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "paghalad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:00.473941748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Aduna bay ihap sa iyang mga kabangban? Ug kinsa bay dili motindog ang iyang kahayag ⟨kaniya⟩?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Aduna bay"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "sa iyang mga kabangban"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "Ug kinsa bay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa bay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "motindog"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "ang iyang kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:28.921457102Z",
+  "model": "glm-5.3"
+}

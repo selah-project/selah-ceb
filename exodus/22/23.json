@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug mamoto akong nasubo, ug patyon ko ⟨kamo⟩ ⟨את⟩ sa pinuti, ug mahimong balo ang inyong mga asawa ug mga ilo ang inyong mga anak.",
+  "tokens": [
+    {
+      "surface": "ויהו",
+      "gloss": "Ug mamoto"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "akong nasubo"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ug patyon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa pinuti"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ang inyong mga asawa"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "balo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ug ang inyong mga anak"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "mga ilo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:46.591440137Z",
+  "model": "glm-5.3"
+}

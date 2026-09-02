@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Hangtod kanus-a, Yahweh, kalimtan mo ako — hangtod sa kahangturan? Hangtod kanus-a itago mo ⟨את⟩ ang imong nawong gikan kanako?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "kalimtan mo ako"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "itago mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong nawong"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.140537047Z",
+  "model": "glm-5.3"
+}

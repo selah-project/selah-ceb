@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug kini mao ang sinulat nga ⟨na⟩ nakasulat: MENE, MENE, TEKEL, UPHARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ang sinulat"
+    },
+    {
+      "surface": "די",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "UPHARSIN"
+    }
+  ],
+  "timestamp": "2026-09-01T22:55:59.351515099Z",
+  "model": "glm-5.3"
+}

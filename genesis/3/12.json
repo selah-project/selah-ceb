@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon ang tawo: ⟨Ang⟩ babayi nga imong gihatag nga kauban ko — siya mao ang naghatag kanako gikan sa kahoy, ug mikaon ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babayi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "imong gihatag"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kauban ko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mao ang"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ug mikaon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:00.253047728Z",
+  "model": "glm-5.3"
+}

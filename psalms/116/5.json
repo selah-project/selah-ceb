@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Grasyoso si Yahweh ug matarong, ug ang atong Elohim mahimoong mahurossa.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "grasyoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ug matarong"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ug ang atong Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mahimoong mahurossa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:14.228362333Z",
+  "model": "glm-5.3"
+}

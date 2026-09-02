@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Kay ang mga bukton sa mga dautan mangaguba, apan si Yahweh maoy nagatukod ⟨sa⟩ mga matarong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "mga bukton"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "mangaguba"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "apan — nagatukod"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:31.008522603Z",
+  "model": "glm-5.3"
+}

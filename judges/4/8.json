@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Barak miingon kaniya: Kon ikaw moadto uban kanako, aku moadto; apan kon ikaw dili moadto uban kanako, aku dili moadto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "si Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ikaw moadto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "aku moadto"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apan kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ikaw moadto"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "aku moadto"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:55.810519421Z",
+  "model": "glm-5.3"
+}

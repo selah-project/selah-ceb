@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kanimo ang mga langit, ug kanimo usab ang yuta; ang kalibotan ug ang puno niini — ikaw ang nagtukod ⟨niini⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibotan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ug ang puno niini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "ang nagtukod ⟨niini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:04.697096604Z",
+  "model": "glm-5.3"
+}

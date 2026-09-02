@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Wala Davíd paghikwal ang ⟨את⟩ araron ngadto kaniya, ngadto sa dakbayan ni Davíd, kundi gipatuyang niya kini ngadto sa balay ni Oved-Edom ⟨ang⟩ Gitita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "paghikwal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang araron"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "gipatuyang niya kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "⟨ang⟩ Gitita"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:26.746503542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ako'y miliko ug milugsong gikan sa ⟨ang⟩ bukid, ug akong gipahimutang ⟨את⟩ ang mga plaka sa ⟨ang⟩ kahon nga akong gihimo, ug anaa sila didto, ingon sa gisugo kanako ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ug ako'y miliko"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ug milugsong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ug akong gipahimutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga plaka"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ang mga plaka"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sa kahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akong gihimo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug sila naa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "gisugo kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:02.876626982Z",
+  "model": "glm-5.3"
+}

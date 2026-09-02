@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": " ug molangkob kanamo ang noam ni Adonay nga Elohim nato, ug pagsaligon mo ⟨את⟩ ang buhat sa atong mga kamot ibabaw kanamo; oo, ang buhat sa among mga kamot — pagsaligona ⟨את⟩ niana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug molangkob"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ang noam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga Elohim nato"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ug ang buhat"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "sa among mga kamot"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "pagsaligon mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ibabaw kanamo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "oo, ang buhat"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "sa among mga kamot"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "pagsaligona niana",
+      "marks": "ang buhat sa among mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:39.229368687Z",
+  "model": "glm-5.3"
+}

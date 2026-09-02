@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Siya midaog ⟨את⟩ sa mga Pelishtihan hangtod sa Azzah ug ⟨את⟩ sa iyang mga utlanan, gikan sa torre sa mga magbantay hangtod sa pinatig-a nga dakbayan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "midaog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga Pelishtihan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishtihan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa iyang mga utlanan"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sa iyang mga utlanan"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "gikan sa torre"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "sa mga magbantay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "pinatig-a nga"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:28.161562891Z",
+  "model": "glm-5.3"
+}

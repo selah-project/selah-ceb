@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang nagapahumok ⟨sa⟩ iyang sulogoon sukad pagkabata, sa katapusan ⟨niya⟩ mahimong manon (nga mokabig ingon sa anak)",
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "nagapahumok\/pag-atiman nga malumo"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "sukad pagkabata"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iyang sulogoon"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "ug ang iyang katapusan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "manon (nga mokabig ingon sa anak)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:48.134369203Z",
+  "model": "glm-5.3"
+}

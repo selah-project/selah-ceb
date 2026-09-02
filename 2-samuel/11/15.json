@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagsulat siya sa sulat nga nag-ingon: Ibutang ninyo ⟨את⟩ si Uriah atbang sa nawong sa kusog nga pagpakig-away, ug mibalik kamo gikan sa luyo niya, aron siya maligsan ug mamatay.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nagsulat siya"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa sulat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Ibutang ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "pagpakig-away"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nga kusog"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ug mibalik kamo"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "gikan sa luyo niya"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "aron siya maligsan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ug mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:12.327303226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gikuha ko ang inyong amahan ⟨את⟩ si Avraham gikan sa pikas bahin sa suba, ug gipakuyog ko siya sa tibuok yuta sa Kenaan, ug gipadaghan ko ang iyang kaliwat, ug gihatagan ko siya ⟨את⟩ ni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "gikuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong amahan si Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "inyong amahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "gikan sa pikas bahin"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ug gipakuyog ko"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ug gipadaghan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kaliwat"
+    },
+    {
+      "surface": "זרעovo",
+      "gloss": "ang iyang kaliwat"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ug gihatagan ko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:49.982334384Z",
+  "model": "glm-5.3"
+}

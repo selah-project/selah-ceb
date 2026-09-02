@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug midugang ⟨siya⟩ pag-usab ug natao ang usa ka anak nga lalaki, ug gitawag niya ⟨את⟩ ang iyang ngalan nga Shelah; ug ⟨si Yehudah⟩ anaa sa Kheziv sa diha nga natao niya siya.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "midugang pag-usab"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "natao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug ⟨si Yehudah⟩ anaa"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "sa Kheziv"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "sa diha nga natao niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:18.989259392Z",
+  "model": "glm-5.3"
+}

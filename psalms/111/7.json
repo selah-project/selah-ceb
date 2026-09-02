@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Ang mga buhat sa iyang mga kamot ⟨mao ang⟩ kamatuoran ug hustisya; matinud-anon ang tanan niyang mga sugo.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "mga buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iyang mga kamot"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug hustisya"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "niyang mga sugo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:57.411836396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "sa maong panahon ang mga tubig maluman na kita, ang sapa milabay na ibabaw sa among kalag:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "sa maong panahon"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "maluman na kita"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ang sapa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "milabay na"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "among kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:14.587645447Z",
+  "model": "glm-5.3"
+}

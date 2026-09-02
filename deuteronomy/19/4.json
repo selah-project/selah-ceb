@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug kini mao ang kaso sa mamatay-tawo nga molagot didto ug mabuhi: ang mohampak ⟨את⟩ sa iyang isigkatawo nga wala makahibalo, ug ⟨siya⟩ nga wala kadumdum pagdumot kaniya sukad kagahapon ug sa adlaw sa milabay pa.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang kaso"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sa mamatay-tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "molagot"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ug mabuhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mohampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug ⟨siya⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "kadumdum pagdumot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "sukad kagahapon"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ug sa adlaw sa milabay pa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:34.938093221Z",
+  "model": "glm-5.3"
+}

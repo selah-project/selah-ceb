@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Nahinumduman niya ang iyang hesed ug ang iyang pagkamatinud-anon ngadto sa balay ni Yisrael; nakita sa tanan nga mga kinatumyan sa yuta ⟨את⟩ ang kaluwas sa atong Elohim.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Nahinumduman niya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "iyang hesed"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "ug iyang pagkamatinud-anon"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngadto sa balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga kinatumyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaluwas"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kaluwas"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:13.985752829Z",
+  "model": "glm-5.3"
+}

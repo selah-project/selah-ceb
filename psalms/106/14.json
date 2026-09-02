@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug nagpangandoy sila ug dakong tinguha sa kamingawan, ug gisulay nila si El sa Yeshimon.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "ug nagpangandoy sila"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "dakong tinguha"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ug gisulay nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "sa Yeshimon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:20.264589561Z",
+  "model": "glm-5.3"
+}

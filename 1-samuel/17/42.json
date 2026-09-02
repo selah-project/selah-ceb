@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug mitan-aw ang Palistinhon ug nakakita ⟨את⟩ kang David ug gikahigyaan siya, kay ⟨siya⟩ batan-on ug mapula kaayo ang panit, kauban ang gwapa sa dagway.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "Ug mitan-aw"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Palistinhon"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ug nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ug gikahigyaan siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batan-on"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "ug mapula kaayo ang panit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "gwapa"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "sa dagway"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:38.340205815Z",
+  "model": "glm-5.3"
+}

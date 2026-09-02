@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Ayaw kamo pagbutang ug pagsalig sa mga prinsipe, ni sa anak sa tawo, nga wala siyay kaluwas.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "kamo pagbutang ug pagsalig"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "sa mga prinsipe"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ni sa anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siyay"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:57.182652767Z",
+  "model": "glm-5.3"
+}

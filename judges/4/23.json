@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sa adlaw ngaadtowa, gipaubos ni Elohim ⟨את⟩ si Yabin, hari sa Kenaan, sa atubangan sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "gipaubos"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngaadtowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yabin"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "si Yabin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:55.495187269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gitawag ni Ajab si Obadyahu nga ⟨siya nga⟩ nangulo sa palasyo; ug si Obadyahu ⟨usa ka tawo nga⟩ nagakahadlok ⟨את⟩ kang Yahweh sa pagkagrabe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ajab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "si Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "nangulo sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "palasyo"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ug si Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨usa ka tawo nga⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa pagkagrabe"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:19.467106895Z",
+  "model": "glm-5.3"
+}

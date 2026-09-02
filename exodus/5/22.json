@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug mibalik si Moshe ngadto kang Yahweh ug miingon: Adonay, ngano imong gidaotan ⟨ang⟩ kining katawhana? Ngano kini — ako imong gipadala?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ug mibalik"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "imong gidaotan"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨ang⟩ katawhana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "ako imong gipadala"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:17.402806141Z",
+  "model": "glm-5.3"
+}

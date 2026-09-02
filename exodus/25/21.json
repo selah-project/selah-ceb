@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Igabutang mo ⟨את⟩ ang kapporet sa ibabaw sa ⟨ang⟩ Aron, ug ngadto sa ⟨ang⟩ Aron isulod mo ⟨את⟩ ang pagsaksi nga akong ihatag kanimo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Igabutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sa Aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "isulod mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagsaksi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ang pagsaksi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "akong ihatag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:30.636432355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": " ug gitamay ninyo ang tibuok nga tambag nako, ug ang akong pagtulongo wala ninyo tino-o:",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "ug gitamay ninyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "nga tambag nako"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ug ang akong pagtulongo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "ninyo tino-o"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:04.326687698Z",
+  "model": "glm-5.3"
+}

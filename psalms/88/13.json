@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Mahibal-an ba ang ⟨mga⟩ imong katingalahan sa kangitngit, ug ang imong pagkamatarong sa yuta sa pagkalimot?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "mahibal-an ba"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "imong katingalahan"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ug ang imong pagkamatarong"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "sa pagkalimot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:43.637088502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug kuhaon ba nako ⟨את⟩ ang akong tinapay, ug ⟨את⟩ ang akong tubig, ug ⟨את⟩ ang akong giihaw — nga akong giihaw alang sa akong mga magtataptap — ug ihatag kini ngadto sa mga tawo nga wala nako mahibalo-an diin sila gikan?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ug kuhaon ba nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong tinapay"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "akong tinapay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang akong tubig"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "akong tubig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang akong giihaw"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "akong giihaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "akong giihaw"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "alang sa akong mga magtataptap"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ngadto sa mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ako nakahibalo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "diin"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:10.802372507Z",
+  "model": "glm-5.3"
+}

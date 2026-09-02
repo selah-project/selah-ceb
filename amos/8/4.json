@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Pamatii kini, kamo nga manglutaw sa kabos, aron mapukan ang mga tinuyong kabus sa yuta.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Pamatii"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "kamo nga manglutaw"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "aron mapukan"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ang mga tinuyong kabus"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:53:39.357770891Z",
+  "model": "glm-5.3"
+}

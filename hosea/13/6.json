@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug sumala sa ilang kaagi sa sabsaban, sila nabusog; nabusog sila ug gitas-on sa ilang kasingkasing; tungod niini nakalimot sila kanako.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "sumala sa ilang kaagi sa sabsaban"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "sila nabusog"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "nabusog sila"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "gitas-on"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ilang kasingkasing"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tungod niini"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "nakalimot sila kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:15.654565103Z",
+  "model": "glm-5.3"
+}

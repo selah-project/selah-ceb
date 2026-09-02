@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ihapon ko ang tanan ⟨nga⟩ akong mga bukog; sila mangotan-aw, motan-aw kanako.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ihapon ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "akong mga bukog"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "mangotan-aw"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "motan-aw"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:30.130861765Z",
+  "model": "glm-5.3"
+}

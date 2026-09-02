@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Sabta kamo, mga mangilad sa katawohan, ug mga buang — hangtod kanus-a kamo magamaad?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Sabta kamo"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "mga mangilad"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa katawohan"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ug mga buang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hangtod kanus-a"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "kamo magamaad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.331534250Z",
+  "model": "glm-5.3"
+}

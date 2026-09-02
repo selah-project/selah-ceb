@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Ang nagbutang sa mga balangkas sa iyang mga hanaw sa tubig, ang nagbuhat sa mga panganod sa iyang karuwahe, ang naglakaw sa mga pako sa hangin.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Ang nagbutang sa mga balangkas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "sa iyang mga hanaw"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Ang nagbuhat"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "sa mga panganod"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "sa iyang karuwahe"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "Ang naglakaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pako"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:31.382855031Z",
+  "model": "glm-5.3"
+}

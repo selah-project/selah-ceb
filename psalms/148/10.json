@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Ang mga mananap nga ihalas ug ⟨ang⟩ tanan nga mga sapat, mga nagakamang ug mga langgam nga adunay pako:",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ang mga mananap nga ihalas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tanan nga"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "mga nagakamang"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "ug mga langgam"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "nga adunay pako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:44.587824543Z",
+  "model": "glm-5.3"
+}

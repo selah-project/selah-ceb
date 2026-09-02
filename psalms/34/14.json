@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Bantayan ang imong dila gikan sa daotan, ug ang imong mga ngabil gikan sa pagsulti ⟨sa⟩ tinikasan.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bantayan"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ang imong dila"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "gikan sa daotan"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ug ang imong mga ngabil"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gikan sa pagsulti"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tinikasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:28.174098304Z",
+  "model": "glm-5.3"
+}

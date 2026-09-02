@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Hokomi ako, Elohim, ug pagbatoksa ang akong pagbatok batok sa ⟨usa ka⟩ nasod nga dili matsilo, gikan sa ⟨usa ka⟩ tawo sa panglimod ug kadaot ihatag ako sa kaluwas.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Hokomi ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ug pagbatoksa"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ang akong pagbatok"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "batok sa nasod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga dili"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "matsilo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sa panglimod"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ug kadaot"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ihatag ako sa kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:18.102813760Z",
+  "model": "glm-5.3"
+}

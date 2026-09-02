@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gidungog mo ang tinguha sa mga mapainubsanon, Yahweh; imong ‹panalipdan ang ilang kasingkasing, ihapit ang imong dunggan,",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "tinguha"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mga mapainubsanon"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "gidungog mo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "imong ‹panalipdan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ilang kasingkasing"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "ihapit"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imong dunggan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:25.181320281Z",
+  "model": "glm-5.3"
+}

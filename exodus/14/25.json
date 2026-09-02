@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Gikuha niya ⟨את⟩ ang ligid sa ilang mga karo, ug gipalihok niya sila nga pag-abante-lintol, ug miingon ang Mitsrayim: Molikay kita gikan sa atubangan ni Yisrael, kay si Yahweh nakigbatok alang kanila batok sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ligid"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "ligid"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "sa ilang mga karo"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "gipalihok niya sila"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "nga pag-abante-lintol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "molikay kita"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakigbatok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "batok sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:16.777325185Z",
+  "model": "glm-5.3"
+}

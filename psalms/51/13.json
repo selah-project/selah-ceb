@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ayaw ako ilabay ⟨gikan⟩ sa atubangan mo, ug ang espiritu sa pagkabalaan mo ayaw kuhaa gikan kanako.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ilabay ako"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "gikan sa atubangan mo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug ang espiritu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sa pagkabalaan mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.190774004Z",
+  "model": "glm-5.3"
+}

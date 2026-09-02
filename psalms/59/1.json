@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Alang sa magdumala [sa kanta]: Ayaw Paglaglaga. Miktam ni Dawid, sa pagpadala ni Shaul, ug nagbantay sila ⟨את⟩ ang balay aron sa pagpatay kaniya.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa magdumala [sa kanta]"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Paglaglaga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "sa pagpadala ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ug nagbantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "aron sa pagpatay kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:03.010171003Z",
+  "model": "glm-5.3"
+}

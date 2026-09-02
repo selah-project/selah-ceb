@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Maloyi ako, Yahweh, kay nanghina ako; pag-ayoi ako, Yahweh, kay nangurog ang akong mga bukog.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Maloyi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "nanghina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "pag-ayoi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nangurog"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akong mga bukog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:00.685143152Z",
+  "model": "glm-5.3"
+}

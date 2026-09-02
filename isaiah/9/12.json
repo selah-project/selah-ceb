@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Apan ang katawohan wala mobalik ngadto sa nagpakugos kanila, ug ⟨את⟩ si Yahweh Tsevaot wala nila pangitaon.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Apan ang katawohan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "sa nagpakugos kanila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "pangitaon nila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:21.966812621Z",
+  "model": "glm-5.3"
+}

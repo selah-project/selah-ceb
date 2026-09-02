@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 19:36",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mipahawa si Sancherib, hari sa Ashur, ug miadto ug nibalik, ug nagpabilin sa Ninewe.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mipahawa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nibalik"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "sa Ninewe"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:50.237723350Z",
+  "model": "glm-5.3"
+}

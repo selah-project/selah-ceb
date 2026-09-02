@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug miadto si Yahweh sa dihang nahuman na siya pagpanulti kang Avraham, ug si Avraham nibalik sa iyang dapit.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa dihang"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nahuman na"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "pagpanulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "ug si Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nibalik"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "sa iyang dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:55.891330778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Apan ako nahimong huyaw ngadto kanila; nakakita sila kanako, nag-uyog sila sa ilang ulo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "huyaw"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "nakakita sila kanako"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "nag-uyog sila"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "sa ilang ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:17.553193167Z",
+  "model": "glm-5.3"
+}

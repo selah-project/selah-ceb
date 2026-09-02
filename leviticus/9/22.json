@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 9:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gipatindog ni Aharon ⟨את⟩ iyang kamot ngadto sa ⟨ang⟩ katawhan ug gipanalangin niya sila; ug milugsok siya gikan sa paghimo sa halad alang sa sala ug sa sinunog nga halad ug sa mga halad sa pakigdait.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ug gipatindog"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויברכם",
+      "gloss": "ug gipanalangin niya sila"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ug milugsok siya"
+    },
+    {
+      "surface": "מעשת",
+      "gloss": "gikan sa paghimo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sa halad alang sa sala"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ug sa sinunog nga halad"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "ug sa mga halad sa pakigdait"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:19.527235413Z",
+  "model": "glm-5.3"
+}

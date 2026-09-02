@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug miyalis siya gikan kanila ug naghilak; ug mipauli siya ngadto kanila ug nakigstorya ⟨את⟩ kanila, ug gikuha niya gikan kanila ⟨את⟩ si Shimon, ug gipusil niya ⟨את⟩ siya atbang sa ilang mga mata.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ug miyalis siya"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ug naghilak"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug mipauli siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug nakigstorya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha niya"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ gikan kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shimon"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "si Shimon"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "ug gipusil niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "atbang sa ilang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:23.947452415Z",
+  "model": "glm-5.3"
+}

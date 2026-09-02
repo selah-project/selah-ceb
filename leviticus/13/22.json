@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug kon lapad kaayo kini motlapad sa panit, ug ipahibalo nga dili matinud-anon sa kohen ⟨את⟩ kini: ngadulat kini.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "lapad kaayo"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "motlapad"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "sa panit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ug ipahibalo nga dili matinud-anon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ngadulat"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ngadulat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:46.719222189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ug nagmalipayon sila kay naghinahon na ⟨ang dagat⟩, ug gidad-a niya sila ngadto sa pundohanan nga ilang gitinguha.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ug nagmalipayon sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "naghinahon na"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ug gidad-a niya sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "pundohanan"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "nga ilang gitinguha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:58.164741604Z",
+  "model": "glm-5.3"
+}

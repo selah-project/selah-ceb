@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug nagasing siya niini ug insenso sa mamumo nga mga panakot, ingon nga gisugo ni Yahweh ⟨את⟩ ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "nagasing siya ug insenso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ug insenso"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "sa mamumo nga mga panakot"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:55.696644437Z",
+  "model": "glm-5.3"
+}

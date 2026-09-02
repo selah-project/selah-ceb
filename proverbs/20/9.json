@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Kinsa ang makasulti, Gihinlo ko ang akong kasingkasing, hinlo ako sa akong sala?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makasulti"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "gihinlo ko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "hinlo ako"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "sa akong sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:09.499125494Z",
+  "model": "glm-5.3"
+}

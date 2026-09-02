@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa paghilak ug panahon sa pagtawa; panahon sa pagbangutan ug panahon sa pagsayaw.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "sa paghilak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "sa pagtawa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "sa pagbangutan"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "sa pagsayaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:49.250628250Z",
+  "model": "glm-5.3"
+}

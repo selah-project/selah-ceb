@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Walay kahimsog ⟨ang⟩ akong unod tungod sa imong nasuko, walay shalom ⟨ang⟩ akong mga bukog tungod sa akong sala.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "kahimsog"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "imong nasuko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "ang akong mga bukog"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "akong sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:49.795660962Z",
+  "model": "glm-5.3"
+}

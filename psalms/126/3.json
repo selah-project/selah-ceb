@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 126,
+  "translation": "Nagbuhat ug dakog butang si Yahweh uban kanamo; nahimo kami nga mga malipayon.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Nagbuhat ug dakog butang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "uban kanamo"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nahimo kami"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "nga mga malipayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:17.741710011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ang kasingkasing sa mga maalamon ⟨kaa⟩ sa balay sa pagbangutan, ug ang kasingkasing sa mga hungul ⟨kaa⟩ sa balay sa kalipay.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Ang kasingkasing"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalamon"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kaa sa balay"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "sa pagbangutan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ug ang kasingkasing"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga hungul"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "kaa sa balay"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sa kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:23.534758385Z",
+  "model": "glm-5.3"
+}

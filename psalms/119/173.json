@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Himuat nga ang imong kamot ⟨ang⟩ magatabang kanako, kay ang imong mga pagsugo gipilian ko.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "himuat nga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "magatabang kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ang imong mga pagsugo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "gipilian ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:41.740755510Z",
+  "model": "glm-5.3"
+}

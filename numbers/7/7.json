@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "⟨את⟩ ang duha ka karwahe ug ⟨את⟩ ang upat ka baka gihatag niya sa mga anak ni Gershon, sumala sa ilang pag-alagad.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka karwahe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ka mga karwahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang upat ka baka"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "upat"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ka mga baka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag niya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ilang pag-alagad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:39.740949531Z",
+  "model": "glm-5.3"
+}

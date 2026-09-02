@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Yahweh, pamatii ang akong pangadyi, ug ang akong pagpanawag moanha ngadto kanimo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pangadyi"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ug ang akong pagpanawag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "moanha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:22.068760707Z",
+  "model": "glm-5.3"
+}

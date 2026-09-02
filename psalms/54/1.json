@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Alang sa manguna ⟨sa⟩ mga instrumentong may hilit, usa ka mashkil (tagh mga panudlon) ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa manguna"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sa mga instrumentong may hilit"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "usa ka mashkil (tagh mga panudlon)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:12.589700636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang hinumok nga tubag nagabawi ⟨sa⟩ kasuko, ug ang makapasakit nga pulong mopatindog sa kalagot.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "tubag"
+    },
+    {
+      "surface": "רך",
+      "gloss": "hinumok"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "nagabawi"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "kasuko"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ug pulong"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "makapasakit"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mopatindog"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kalagot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:35.158442983Z",
+  "model": "glm-5.3"
+}

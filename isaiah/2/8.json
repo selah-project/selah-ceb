@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Napuno ang ilang yuta ug mga diosdios nga walay pulos; ngaduhaw sila sa buhat sa ilang mga kamot, sa gibuhat sa ilang mga tudlo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Napuno"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ang ilang yuta"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "mga diosdios nga walay pulos"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "sa buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sa ilang mga kamot"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ngaduhaw sila"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "sa ilang mga tudlo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:11.478775349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug nakita sa rayna sa Sheba ⟨את⟩ ang kaalam ni Shelomoh, ug ang balay nga iyang gitukod.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ug nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "sa rayna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sa Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaalam ni Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ug ang balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iyang gitukod"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:42.490269252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gisulti sa bantay nga nagbantay, nga nagaingon: Miabot siya hangtod kanila ug wala mobalik; ug ang pagmaneho ⟨sama⟩ sa pagmaneho ni Yehu, anak ni Nimshi, kay sa pagkabuang siya nagmaneho.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisulti"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "sa bantay nga nagbantay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "ug ang pagmaneho"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "sama sa pagmaneho"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "sa pagkabuang"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "nagmaneho"
+    }
+  ],
+  "timestamp": "2026-09-02T00:58:04.561565382Z",
+  "model": "glm-5.3"
+}

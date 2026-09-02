@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Malipayon ang tawo nga dili iihap ni Yahweh ⟨kaniya⟩ ang kasal-anan, ug wala ⟨may⟩ panlilinlang sa iyang espiritu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "iihap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasal-anan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "sa iyang espiritu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "panlilinlang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:56.184631594Z",
+  "model": "glm-5.3"
+}

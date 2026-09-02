@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Alang sa magdadaghog, sumala sa ⟨Nehilot⟩ — usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "alang sa magdadaghog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨Nehilot⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.466970492Z",
+  "model": "glm-5.3"
+}

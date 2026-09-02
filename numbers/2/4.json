@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "ug ang iyang panundon ug ang ilang ⟨mga⟩ giihap — upat ug kapitoan ka libo ug unom ka gatos.",
+  "tokens": [
+    {
+      "surface": "וּצְבָא֖וֹ",
+      "gloss": "ug ang iyang panundon"
+    },
+    {
+      "surface": "וּפְקֻדֵיהֶ֑ם",
+      "gloss": "ug ang ilang giihap"
+    },
+    {
+      "surface": "אַרְבָּעָ֧ה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "וְשִׁבְעִ֛ים",
+      "gloss": "ug kapitoan"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "וְשֵׁ֥שׁ",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "ka gatos"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:04.188834155Z",
+  "model": "glm-5.3"
+}

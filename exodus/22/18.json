@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang tanan nga naghigda uban sa ⟨usa ka⟩ mananap — kamatayon gayod siya ⟨mapatay⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "naghigda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "mananap"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mapatay gayod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:34.087726269Z",
+  "model": "glm-5.3"
+}

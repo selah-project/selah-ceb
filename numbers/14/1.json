@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug mitaas ang tibuok katigulangan sa ilang tingog, ug naghinabi sila ⟨את⟩ sa ilang tingog, ug naghilak ang katawhan niadtong gabiihana.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "mitaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ang katigulangan"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "naghinabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang tingog"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sa ilang tingog"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "naghilak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "niadtong gabii"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "niadto"
+    }
+  ],
+  "timestamp": "2026-09-01T19:36:30.215019813Z",
+  "model": "glm-5.3"
+}

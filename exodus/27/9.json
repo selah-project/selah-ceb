@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug imong buhaton ⟨את⟩ ang nataran sa balay-balay: alang sa kilid sa habagat, paingon sa habagat, mga kurtina alang sa nataran sa lino nga hilgis, usa ka gatus ka siko ang gitas-on alang sa usa ka kilid.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug imong buhaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nataran"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "nataran"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa balay-balay"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "alang sa kilid"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sa habagat"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "paingon sa habagat"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "alang sa nataran"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sa lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nga hilgis"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatus"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang gitas-on"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "alang sa kilid"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:03.377158855Z",
+  "model": "glm-5.3"
+}

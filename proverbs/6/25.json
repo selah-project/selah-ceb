@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ayaw pangandoy sa iyang kaanyag sa imong kasingkasing, ug ayaw pagpasagad nga ⟨siya⟩ mokuha ⟨kanimo⟩ pinaagi sa iyang mga matahon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "pangandoy"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "iya kaanyag"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa imong kasingkasing"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "mokuha kanimo"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "sa iyang mga matahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:11.530287876Z",
+  "model": "glm-5.3"
+}

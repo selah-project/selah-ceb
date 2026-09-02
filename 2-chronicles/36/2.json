@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Anak sa tulo ka napulo ug kawhaan ka tuig si Yoachaz sa iyang paghari, ug tulo ka bulan siya naghari sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ug napulo ug kawhaan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoachaz"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa iyang paghari"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "bulan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:24.856031937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 142,
+  "translation": "Paminawa ang akong tingog sa pagtuol, kay gipakuyaw ako nga kaayo; luwasa ako sa akong mga manukol, kay nagkusgan sila kaniako.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "akong tingog sa pagtuol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "gipakuyaw ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "sa akong mga manukol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "nagkusgan sila"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kaniako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:56.824981134Z",
+  "model": "glm-5.3"
+}

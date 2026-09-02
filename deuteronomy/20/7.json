@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug kinsa ang tawo nga nangakig babaye ug wala pa siya pagkuhaon? Moadto siya ug mobalik sa iyang balay, aron nga dili siya mamatay sa gubat ug ang laing tawo mao ang magakuha kaniya.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Ug kinsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "nangakig"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babaye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala pa"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "pagkuhaon"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "Moadto siya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug mobalik"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron nga dili"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang laing tawo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lalin"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "magakuha kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:05.001401107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kinsa ang nagbutang sa ⟨mga⟩ sukod niini, kay ikaw nakahibalo? O kinsa ang naglatid ⟨sa⟩ hibla sa pagsukod ibabaw niini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "sukod niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ikaw nakahibalo"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "naglatid"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ibabaw niini"
+    },
+    {
+      "surface": "קו",
+      "gloss": "hibla sa pagsukod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:44:57.422015334Z",
+  "model": "glm-5.3"
+}

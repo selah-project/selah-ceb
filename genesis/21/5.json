@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug si Avraham ⟨ang⟩ anak nga tagsa ka gatos ka tuig sa pagkatawo kaniya ni Yitskhak ⟨את⟩ iyang anak.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ug si Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yitskhak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:35.958536488Z",
+  "model": "glm-5.3"
+}

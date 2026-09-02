@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon siya kanako: Anak sa tawo, ⟨את⟩ tanan nga akong mga pulong nga akong isulti kanimo, dawata sa imong kasingkasing, ug sa imong mga dalunggan pagpatalinghuga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga akong mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga akong mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "akong isulti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "dawata"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa imong kasingkasing"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "ug sa imong mga dalunggan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pagpatalinghuga"
+    }
+  ],
+  "timestamp": "2026-09-01T21:33:27.809302629Z",
+  "model": "glm-5.3"
+}

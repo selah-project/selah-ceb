@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Unya ang Yahweh mahimong maghuhukom ug magahukom taliwala kanako ug kanimo, ug makita niya ug ipatindog niya ⟨את⟩ ang akong kasoha, ug ipatingala niya ako gikan sa imong kamot.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "unya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ang Yahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mahimong maghuhukom"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ug magahukom"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "taliwala kanako"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "ug taliwala kanimo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug makita niya"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ug ipatindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kasoha"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ang akong kasoha"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "ug ipatingala niya ako"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "gikan sa imong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:25.017593612Z",
+  "model": "glm-5.3"
+}

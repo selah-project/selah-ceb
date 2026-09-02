@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 8:28",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kini ang mga pangulo sa ⟨mga baynte-baynte⟩ sumala sa ilang mga kaliwatan, mga pangulo; kini nga ⟨mga tawo⟩ nagpuyo sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "⟨mga baynte-baynte⟩"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "sumala sa ilang mga kaliwatan"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini nga ⟨mga tawo⟩"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:38.128161004Z",
+  "model": "glm-5.3"
+}

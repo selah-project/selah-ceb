@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nahadlok ang mga tawo ⟨nga⟩ hadlok nga dako ⟨את⟩ kang Yahweh, ug naghagas sila ug hagas alang kang Yahweh, ug napanumpa sila ug panumpa.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "nahadlok"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hadlok"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ug naghagas sila"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ug hagas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ug napanumpa sila"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "ug panumpa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:34.080720011Z",
+  "model": "glm-5.3"
+}

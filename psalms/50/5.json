@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Tiguma kanako ang akong mga hasid, ang nagahimo sa akong pakigsaad pinaagi sa paghalad.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Tiguma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "ang akong mga hasid"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nagahimo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "sa akong pakigsaad"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pinaagi sa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "paghalad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:58.268182637Z",
+  "model": "glm-5.3"
+}

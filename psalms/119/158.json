@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nakita ko ang mga taksil ug nasubo ako, kay ang imong pulong wala nila gituman.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakita ko"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ang mga taksil"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "ug nasubo ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imong pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nila gituman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:26.241857553Z",
+  "model": "glm-5.3"
+}

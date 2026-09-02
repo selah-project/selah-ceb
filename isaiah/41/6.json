@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ang matag tawo motabang ⟨את⟩ sa iyang isigkatawo, ug sa iyang igsoon moingon: ⟨Paglig-on ka⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "motabang"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ug sa iyang igsoon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Paglig-on ka"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:17.604918566Z",
+  "model": "glm-5.3"
+}

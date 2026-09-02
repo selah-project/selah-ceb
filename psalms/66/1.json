@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Sa magdudumala. Usa ka awit, usa ka mizmor. Paghariak kamo kang Elohim, ⟨ang tibuok⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa magdudumala"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "paghariak kamo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:26.442318219Z",
+  "model": "glm-5.3"
+}

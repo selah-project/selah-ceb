@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Pagdayeg kamo kang Yah; pag-awit kamo kang Yahweh ug bag-ong awit, ang pagdayeg kaniya ⟨sa⟩ katilingban sa mga hasid.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang pagdayeg kaniya"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "⟨sa⟩ katilingban"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "sa mga hasid"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.863004071Z",
+  "model": "glm-5.3"
+}

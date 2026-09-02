@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Iyangaway ninyo ang inyong mga ulo, kamo nga mga ganghaan, ug itaas kamo, kamo nga mga ganghaan sa kahangturan, ug mosulod ang hari sa himaya.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Iyangaway ninyo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ang inyong mga ulo"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ug itaas kamo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ug mosulod"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sa himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.163035731Z",
+  "model": "glm-5.3"
+}

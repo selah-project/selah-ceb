@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Usa ka pagtulon-an ang mahimo kaninyo — ingon sa tagalahi, ingon sa natawo sa yuta, mahimo ⟨siya⟩; kay ako si Yahweh, ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "pagtulon-an"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "ingon sa tagalahi"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "ingon sa natawo sa yuta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:02.846343334Z",
+  "model": "glm-5.3"
+}

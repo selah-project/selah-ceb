@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 17:27",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug misugo ang hari sa Ashur, nga nagaingon: Pagdala kamo ngadto didto ug usa sa ⟨mga⟩ saserdote nga imong gipatapon gikan didto, ug mobalik sila ug mopuyo didto, ug magtudlo siya kanila ⟨sa⟩ balaod sa Elohim sa yuta.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ug misugo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "הליכו",
+      "gloss": "pagdala kamo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngadto didto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגליתם",
+      "gloss": "inyong gipatapon"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug mobalik sila"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug mopuyo sila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "ug magtudlo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balaod"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:25.935902453Z",
+  "model": "glm-5.3"
+}

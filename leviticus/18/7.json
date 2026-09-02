@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang pagkapatayaw sa imong amahan ug ang pagkapatayaw sa imong inahan dili nimo ipadayag; ⟨kini⟩ ang imong inahan — dili nimo ipadayag ang iyang pagkapatayaw.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ang pagkapatayaw"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "ug ang pagkapatayaw"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sa imong inahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ipadayag"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ang imong inahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ipadayag"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ang iyang pagkapatayaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:27.554492975Z",
+  "model": "glm-5.3"
+}

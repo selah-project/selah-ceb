@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ang mga hulmigas ⟨ang⟩ usa ka katawohan nga dili kusgan, apan nag-andam sila sa ting-init sa ilang pagkaon.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "ang mga hulmigas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawohan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusgan"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "nag-andam sila"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa ting-init"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "sa ilang pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:26.064006451Z",
+  "model": "glm-5.3"
+}

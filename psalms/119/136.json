@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mga sapa sa tubig ang nanaog sa akong mga mata, ⟨kay⟩ wala nila bantayi ang imong Torah.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ang nanaog"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mga mata"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kay⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nila bantayi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang imong Torah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:08.712316121Z",
+  "model": "glm-5.3"
+}

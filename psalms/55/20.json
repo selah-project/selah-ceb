@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Dungogon ni El ug itubag sila, ang ⟨nagalingkod⟩ sukad sa kanhiay — Selah — sila nga walay ⟨kabag-o⟩ ⟨kanila⟩, ug wala sila mahadlok sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "Dungogon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ug itubag sila"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ang nagalingkod"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sukad sa kanhiay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "kabag-o"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:40.274377282Z",
+  "model": "glm-5.3"
+}

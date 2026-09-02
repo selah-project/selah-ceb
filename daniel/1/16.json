@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang tigdumala nagdala papuo ⟨את⟩ sa ilang pinggan ug sa bino nga ilang ilimnon, ug naghatag siya kanila ug mga utan.",
+  "tokens": [
+    {
+      "surface": "ו יהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "ה מלצר",
+      "gloss": "ang tigdumala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagdala papuo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang pinggan"
+    },
+    {
+      "surface": "פתבג ם",
+      "gloss": "sa ilang pinggan"
+    },
+    {
+      "surface": "ו יין",
+      "gloss": "ug sa bino"
+    },
+    {
+      "surface": "מ שתיהם",
+      "gloss": "nga ilang ilimnon"
+    },
+    {
+      "surface": "ו נתן",
+      "gloss": "ug naghatag siya"
+    },
+    {
+      "surface": "ל הם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "ug mga utan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:36.762171752Z",
+  "model": "glm-5.3"
+}

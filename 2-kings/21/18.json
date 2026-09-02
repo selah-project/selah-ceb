@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagkatulog si Menashsheh uban sa iyang mga amahan, ug gilubong siya sa tanom sa iyang balay, sa tanom ni Uzza; ug si Amon iyang anak naghari sa iyang dapit.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nagkatulog"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "si Menashsheh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga amahan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ug gilubong"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanom"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ug naghari"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "si Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:02.845794717Z",
+  "model": "glm-5.3"
+}

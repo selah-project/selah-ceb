@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Alang sa magdadaglat ⟨sa mga mag-aawit⟩, sumala sa «Shushan-Edut», usa ka miktam ni David, alang sa pagtulon-an.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa magdadaglat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "usa ka miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "alang sa pagtulon-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:13.566929487Z",
+  "model": "glm-5.3"
+}

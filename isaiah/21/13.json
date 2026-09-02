@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang bug-at nga pulong mahitungod sa Arabiya. Sa kahoyng dapit sa Arabiya maggabi kamo, mga karanahan sa mga Dedanhon.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ang bug-at nga pulong"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mahitungod sa Arabiya"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sa kahoyng dapit"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa Arabiya"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "maggabi kamo"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mga karanahan"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "mga Dedanhon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:53.470495373Z",
+  "model": "glm-5.3"
+}

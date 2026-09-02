@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Dili ⟨mapalig-on⟩ ang tawo pinaagi sa pagkadaotan, apan ang gamot sa mga matarong dili gayod matuktok.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "mapalig-on"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "piraagi sa pagkadaotan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "apan ang gamut"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "matuktok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:37.098267753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug si Yaakov milakat padulong sa iyang dalan, ug nagsugat kaniya ang mga sulogoon ⟨mga mensahero⟩ ni Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "ug si Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "milakat"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "sa iyang dalan"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "nagsugat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ang mga sulogoon ⟨mga mensahero⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:28.214066625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kon gibalosan ko og kadaotan ang tawong nagpanagkalinaw nako, ug giluwas ko ang akong kaaway nga walay hinungdan,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "gibalosan ko"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ang tawong nagpanagkalinaw nako"
+    },
+    {
+      "surface": "רע",
+      "gloss": "og kadaotan"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ug giluwas ko"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ang akong kaaway"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga walay hinungdan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:48.718327290Z",
+  "model": "glm-5.3"
+}

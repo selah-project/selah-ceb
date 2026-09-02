@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Aminadav natawo-an ⟨את⟩ ni Nakhshon, ug si Nakhshon natawo-an ⟨את⟩ ni Salmah.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Ug si Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Nakhshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ni Nakhshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ug si Nakhshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Salmah"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Salmah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:51.851609461Z",
+  "model": "glm-5.3"
+}

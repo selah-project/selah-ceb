@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kon mahulog ba ang langgam sa litong ⟨sa⟩ yuta nga walay mohon niini? Mobangon ba ang litong gikan sa adamah ug wala makakop?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "mahulog ba"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "langgam"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פח",
+      "gloss": "litong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "ug mohon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "לה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "mobangon ba"
+    },
+    {
+      "surface": "פח",
+      "gloss": "litong"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "adamah"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "ug makakop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "makakop"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:43.130611265Z",
+  "model": "glm-5.3"
+}

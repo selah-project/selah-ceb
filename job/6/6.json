@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Makaon ba ang walay lami nga ⟨dili⟩ lalison ug asin? Adunay ba lami sa sapal sa itlog?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "makaon ba"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ang walay lami"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nga ⟨dili⟩ lalison ug"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "asin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "lami"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "sa sapal"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "sa itlog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:36.886826049Z",
+  "model": "glm-5.3"
+}

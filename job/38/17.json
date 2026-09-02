@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 38:17",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Gipakita ba kanimo ang mga ganghaan sa kamatayon, ug ang mga ganghaan sa ⟨sahad sa kamatayon⟩ — makita mo ba kini?",
+  "tokens": [
+    {
+      "surface": "הנגלו",
+      "gloss": "gipakita ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ang mga ganghaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "ושערי",
+      "gloss": "ug ang mga ganghaan"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sa sahad sa kamatayon"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita mo ba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:16.487004907Z",
+  "model": "glm-5.3"
+}

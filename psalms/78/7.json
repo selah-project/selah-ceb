@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug ibutang nila sa Elohim ang ilang pagsalig, ug dili nila kalimti ang mga buhat ni El, ug ang iyang mga sugo atimanon nila.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ug ibutang nila"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ang ilang pagsalig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "kalimti"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ug ang iyang mga sugo"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "atimanon nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:08.512717165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang dalan sa mga resinado ingon sa kangitngit ⟨kangitngit⟩; wala sila mahibalo sa unsa sila matumba.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga resinado"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "במה",
+      "gloss": "sa unsa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matumba"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:01.475615273Z",
+  "model": "glm-5.3"
+}

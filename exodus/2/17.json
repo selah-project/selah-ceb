@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miabot ang mga magbalantay ug gipapahawa nila sila; apan mitindog si Moshe ug giluwas niya sila, ug giinom niya ⟨את⟩ ang ilang panon sa mga karnero.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "miabot ang mga magbalantay"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ang mga magbalantay"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "gipapahawa nila sila"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "giluwas niya sila"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "giinom niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang panon sa mga karnero"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ang ilang panon sa mga karbero"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:15.225078962Z",
+  "model": "glm-5.3"
+}

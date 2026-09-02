@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gibuhat sa mga tawo ang ingon; ug gidala nila ang duha ka baka nga nagataga og gatas, ug gisulog nila kini sa karit, apan ⟨את⟩ ang ilang mga anak nga baka gipadung nila sa sulod sa balay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gibuhat"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang ingon"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ug gidala nila"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "baka"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nga nagataga og gatas"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "ug gisulog nila sila"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "sa karit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga anak nga baka"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ang ilang mga anak nga baka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "gipadung"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa sulod sa balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:01.790539974Z",
+  "model": "glm-5.3"
+}

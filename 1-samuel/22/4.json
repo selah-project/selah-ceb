@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug giya niya sila ⟨את⟩ sa atubangan sa hari sa Moav, ug nagpabilin sila uban kaniya sa tanan nga adlaw sa pagkana didto ni David sa kuta.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "giya niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa atubangan sa hari sa Moav"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa atubangan sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moav"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug nagpabilin sila"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "היות",
+      "gloss": "sa pagkana didto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "sa kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:18.007223215Z",
+  "model": "glm-5.3"
+}

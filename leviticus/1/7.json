@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug butangan sa mga anak ni Aharon, sa saserdote, ⟨ang⟩ kalayo sa ibabaw sa halaran, ug sulondon nila ang mga kahoy sa ibabaw sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "butangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "sulondon nila"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ang mga kahoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.540410019Z",
+  "model": "glm-5.3"
+}

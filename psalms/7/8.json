@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang katilingban sa mga nasod molibot ⟨kanimo⟩, ug ibabaw niini sa katas-on pagbalik ka.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Ug ang katilingban"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "molibot ⟨kanimo⟩"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ug ibabaw niini"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa katas-on"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "pagbalik ka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:48.718813707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Kay usa ka piridi ang anaa sa iyang kasuko, kinabuhi ang anaa sa iyang kaluyo: sa pagkagabii mopabilin ang pagpanangu, apan sa pagkabuntag adunay pag-awit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "usa ka piridi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa iyang kasuko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "sa iyang kaluyo"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagkagabii"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mopabilin"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ang pagpanangu"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "apan sa pagkabuntag"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "pag-awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:54.423381148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Kung magpabilin kamo sa pagpuyo niining yuta ⟨⟨yuta⟩⟩, tukuron ko ⟨את⟩ kamo ug dili ko paggub-on, ug tanomon ko ⟨את⟩ kamo ug dili ko pagbut-on, kay nagbasol ako mahitungod sa daotan nga gibuhat nako kaninyo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "sa pagpabilin"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "magpuyo kamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "niining"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "tukuron ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "paggub-on"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ug tanomon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "pagbut-on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "nagbasol ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gibuhat nako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:29:52.208631348Z",
+  "model": "glm-5.3"
+}

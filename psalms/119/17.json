@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pagamaayo sa imong sulugoon ⟨aron⟩ ako mabuhi, ug ako magbantay sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Pagamaayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ako mabuhi"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ug ako magbantay"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:25.327522631Z",
+  "model": "glm-5.3"
+}

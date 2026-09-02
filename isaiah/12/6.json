@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 12:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Pag-aliyo ka ug pag-awit, ⟨oh⟩ nagpuyo ka sa Tsiyon, kay dakog siya ⟨nga⟩ sulod kanimo — ang Balaan sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Pag-aliyo ka"
+    },
+    {
+      "surface": "ורני",
+      "gloss": "ug pag-awit"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "nagpuyo ka"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakog siya"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "sulod kanimo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ang Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:58.844142865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Diha ang mga langgam naghimo sa ilang pukot; ang hasida nagpuyo sa mga barosh ⟨ingon nga iyang balay⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "diha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "diha"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "mga langgam"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "naghimo sa ilang pukot"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ang hasida"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sa mga barosh"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "iya nga balay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:28.375347617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 9:15",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Si Yahweh Tsevaot magbantay kanila, ug mokaon sila ug molupog sa mga bato sa gapuyangan, ug moinum sila ug maggarasgaras ingon og bino, ug mapun-an sila ingon og sudlanan, ingon sa mga suok sa halaran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "יגן",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug mokaon sila"
+    },
+    {
+      "surface": "וכבשו",
+      "gloss": "ug molupog"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "sa mga bato"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "sa gapuyangan"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ug moinum sila"
+    },
+    {
+      "surface": "המו",
+      "gloss": "maggarasgaras"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon og"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ug mapun-an sila"
+    },
+    {
+      "surface": "כמזרק",
+      "gloss": "ingon og sudlanan"
+    },
+    {
+      "surface": "כזויות",
+      "gloss": "ingon sa mga suok"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:01:29.073185343Z",
+  "model": "glm-5.3"
+}

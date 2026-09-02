@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Miadto si David ug ang iyang mga tawo ngadto sa Keilah, ug nakiggubat ⟨sa⟩ mga Pilisti, ug gidala niya ⟨את⟩ ang ilang mga kahayupan, ug nangahas kanila ug usa ka dako nga pag-atake, ug giluwas ni David ⟨את⟩ ang mga pumoluyo sa Keilah.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "ug ang iyang mga tawo"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "sa mga Pilisti"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "gidala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga kahayupan"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ang ilang mga kahayupan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nangahas"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "usa ka pag-atake"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "giluwas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo sa Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:31.473739230Z",
+  "model": "glm-5.3"
+}

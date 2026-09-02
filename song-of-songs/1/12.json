@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Samtang ang hari ⟨aa⟩ sa iyang higa-higaan, ang akong nard mihatag sa iyang baho.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "sa iyang higa-higaan"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "ang akong nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mihatag"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "sa iyang baho"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:48.633096641Z",
+  "model": "glm-5.3"
+}

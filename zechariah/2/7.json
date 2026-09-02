@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug tan-awa ⟨karon⟩, ang mensahero nga nagsulti ⟨kanako⟩ migula, ug usa ka lain nga mensahero migula sa pagsugat kaniya.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagsulti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨kanako⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "migula"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ug usa ka mensahero"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "migula"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sa pagsugat kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:15.287385989Z",
+  "model": "glm-5.3"
+}

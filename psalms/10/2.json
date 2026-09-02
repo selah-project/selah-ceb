@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Sa kahitas-an sa dautan, gisunog sa pagpadangat ang timawa; madakop sila sa mga limbong nga ilang gihuna-huna.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Sa kahitas-an"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "gisunog sa pagpadangat"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang timawa"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "madakop sila"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "sa mga limbong"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ilang gihuna-huna"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:19.460252451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "ug putlon nimo ⟨את⟩ ang iyang palad; ang imong mata dili magmaloloy.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ug putlon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang palad"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ang iyang palad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "magmaloloy"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ang imong mata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:46.178406643Z",
+  "model": "glm-5.3"
+}

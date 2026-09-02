@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Magasalamat ako kanimo, kay sa kahinulatingan ako gimayori; manghidakpan ang imong mga buhat, ug ang akong kalag nakahibalo niini sa pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magasalamat ako kanimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "kahinulinganan"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ako gimayori"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "manghidakpan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang imong mga buhat"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ug ang akong kalag"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.030642551Z",
+  "model": "glm-5.3"
+}

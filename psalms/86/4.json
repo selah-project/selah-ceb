@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Palanggawa ang kalag sa imong sulugoon, kay ngadto kanimo, Adonay, ang akong kalag iyangat ko.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "palanggawa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sa imong sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "iyangat ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:07.073531924Z",
+  "model": "glm-5.3"
+}

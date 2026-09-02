@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Oo, ang kaayohan ug ang hesed magasunod kanako sa tanan nga adlaw sa akong kinabuhi, ug magapabilin ako sa balay ni Yahweh ⟨sa⟩ taas nga panahon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "oo, walay duha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang kaayohan"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ug ang hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "magasunod (magapaningkas) kanako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sa akong kinabuhi"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ug magapabilin ako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sa taas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nga panahon (nga adlaw)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:59.716347527Z",
+  "model": "glm-5.3"
+}

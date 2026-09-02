@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Dili siya magpaninggit, ug dili siya magtas-aw ⟨sa tingog⟩, ug dili niya pagpahibaloa sa gawas ang iyang tingog.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "siya magpaninggit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "siya magtas-aw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "pagpahibaloa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa gawas"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ang iyang tingog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:25.228594819Z",
+  "model": "glm-5.3"
+}

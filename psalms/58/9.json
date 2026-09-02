@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Ingon nga usa ka shablul nga matunaw samtang naglakaw, ingon nga gipang-anak nga patay sa usa ka babaye — dili sila makakita sa adlaw.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "shablul (kilid-kilid)"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "matunaw"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "samtang naglakaw"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "gipang-anak nga patay"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sa usa ka babaye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:15.346211078Z",
+  "model": "glm-5.3"
+}

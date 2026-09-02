@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gibuhat ni Elohim ⟨את⟩ ang tawo sa iyang hulagway; sa hulagway sa Elohim gibuhat niya ⟨את⟩ siya; lalaki ug babaye gibuhat niya ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Ug gibuhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "sa iyang hulagway"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "sa hulagway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gbuhat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ug babaye"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gbuhat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:13.978169706Z",
+  "model": "glm-5.3"
+}

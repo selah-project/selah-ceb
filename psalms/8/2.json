@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Yahweh, ang among Adonay, unsa ⟨ka⟩ kahalangdon ang imong ngalan sa tibuok ⟨nga⟩ yuta, nga imong gihatag ang imong himaya sa ibabaw sa ⟨mga⟩ langit.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ang among Adonay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "kahalangdon"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "imong gihatag"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ang imong himaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:56.054871094Z",
+  "model": "glm-5.3"
+}

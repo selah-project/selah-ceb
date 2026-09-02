@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay ang kasuko nagapatay sa buangbuang, ug ang panibugho nagapatay sa sayon-madani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "sa buangbuang"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "nagapatay"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ang kasuko"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "ug ang sayon-madani"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "nagapatay"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ang panibugho"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:25.771739874Z",
+  "model": "glm-5.3"
+}

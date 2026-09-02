@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": " ug mang ang tawo: Sa pagkatuod adunay bunga alang sa matarong; sa pagkatuod adunay Elohim nga nagahukom ⟨sa⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug mang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sa pagkatuod"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "alang sa matarong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sa pagkatuod"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "nga nagahukom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨sa⟩ yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:15.346740729Z",
+  "model": "glm-5.3"
+}

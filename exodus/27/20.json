@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug ikaw magtugo-an ⟨את⟩ ang mga anak ni Yisrael, ug mokuha sila kanimo ug lana sa olibo, hinlo, giluto nga lubi, alang sa suga, aron sa pagpaantus sa pagpadayon sa suga sa lamparahan nga walay hunong.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "magtugo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ug mokuha sila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "זית",
+      "gloss": "sa olibo"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hinlo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "giluto nga lubi"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "alang sa suga"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "aron sa pagpaantus sa pagpadayon sa suga"
+    },
+    {
+      "surface": "נר",
+      "gloss": "sa lamparahan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay hunong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:38.097204739Z",
+  "model": "glm-5.3"
+}

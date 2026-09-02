@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Unta ang akong katawhan nakadungog kanako, ang Israel naglakaw sa akong mga dalan!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "unta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa akong mga dalan"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "naglakaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.779660147Z",
+  "model": "glm-5.3"
+}

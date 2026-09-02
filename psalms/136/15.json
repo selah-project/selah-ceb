@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Ug giyag-yag ang Paro ug ang iyang panon didto sa Dagat sa Suph, kay hangtod sa kahangtan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Ug giyag-yag"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ang Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "ug ang iyang panon"
+    },
+    {
+      "surface": "בים",
+      "gloss": "didto sa Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sa Suph"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:53.119831215Z",
+  "model": "glm-5.3"
+}

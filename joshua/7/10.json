@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug miingon si Yahweh kang Yehoshua: Tumindog ka! Ngano man nga natumba ka sa imong kaugalingon nga nawong?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Tumindog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano man"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:24.115617624Z",
+  "model": "glm-5.3"
+}

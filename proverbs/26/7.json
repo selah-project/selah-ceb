@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Nangaluya ang mga tiil sa piang, ug ang panging ⟨sa⟩ baba sa mga kahang.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "Nangaluya"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ang mga tiil"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "sa piang"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ug ang panging"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga kahang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:07.712717546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Sa kadaghan sa imong mga dalan nakapoy ka, apan wala ka mag-ingon nga \"Nawala na ang paglaom\"; nakit-an mong nabuhi ang imong kamot — tungod niini wala ka magluya.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "sa kadaghan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sa imong mga dalan"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "nakapoy ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ka mag-ingon"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "nawala na ang paglaom"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nabuhi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "nakit-an mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ka magluya"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:11.390012377Z",
+  "model": "glm-5.3"
+}

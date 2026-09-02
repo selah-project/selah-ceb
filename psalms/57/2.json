@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Kaloy-i ako, Elohim, kaloy-i ako, kay kanimo nagadagan ⟨ang akong kalag⟩; ug sa landong sa imong mga pako magapanikoy ako, hangtod molabay ⟨ang⟩ mga kadaot.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kaloy-i ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaloy-i ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "nagadagan (nagpanikoy)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ug sa landong"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa imong mga pako"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "magapanikoy ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "molabay"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mga kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:49.336466340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang iyang kaatbang nga babaye naglagot usab kaniya sa pagpahilabot, tungod kay si Yahweh nagsira sa iyang tagoangkan.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "ug nanglagot"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "ang iyang kaatbang nga babaye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "sa pagpahilabot"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "nagpaguol kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nagsira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "iya nga tagoangkan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:15.841760251Z",
+  "model": "glm-5.3"
+}

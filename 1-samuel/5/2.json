@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gikuha sa mga Filistihanon ⟨את⟩ aron ni Elohim, ug gisulod nila kini ⟨את⟩ ngadto sa balay ni Dagon, ug gitindog nila ⟨את⟩ kini duol ni Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Filistihanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "gisulod nila kini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "ngadto sa balay ni Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "gitindog nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "duol ni Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "duol"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ni Dagon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:44.141195050Z",
+  "model": "glm-5.3"
+}

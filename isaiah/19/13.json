@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Nangahiubog ang mga prinsipe sa Tsoän, nalimbong ang mga prinsipe sa Noph; nakapaligoy sila ⟨את⟩ Mitsrayim, ⟨ang⟩ mga anggulo ⟨sa⟩ iyang mga tribo.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "nangahiubog"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga prinsipe"
+    },
+    {
+      "surface": "צען",
+      "gloss": "sa Tsoän"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nalimbong"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga prinsipe"
+    },
+    {
+      "surface": "נף",
+      "gloss": "sa Noph"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "nakapaligoy sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "mga anggulo"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "sa iyang mga tribo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:20.482508882Z",
+  "model": "glm-5.3"
+}

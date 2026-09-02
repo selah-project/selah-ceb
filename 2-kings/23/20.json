@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug giihaw niya ⟨את⟩ ⟨ang⟩ tanan nga mga saserdote sa mga bamtang nga didto sa ibabaw sa mga altar, ug gisunog ⟨את⟩ ⟨ang⟩ mga bukog sa tawo sa ibabaw nila, ug mibalik siya sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "giihaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga saserdote"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mga bamtang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mga altar"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "gisunog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bukog sa tawo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga bukog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw nila"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mibalik"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:10.351694098Z",
+  "model": "glm-5.3"
+}

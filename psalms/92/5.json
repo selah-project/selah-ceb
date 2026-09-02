@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Kay gipalipay mo ako, Yahweh, sa imong buhat; mahiuyon ako sa mga buhat sa imong mga kamot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "gipalipay mo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "sa imong buhat"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sa mga buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sa imong mga kamot"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mahiuyon ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.759136742Z",
+  "model": "glm-5.3"
+}

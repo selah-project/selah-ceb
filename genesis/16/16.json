@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug si Avram usa ka anak nga walo ka kawayan ug unom ka tuig ang panuigon sa pagkatawo ni Hagar kang ⟨את⟩ Yishmael kang Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "ug si Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "usa ka anak"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "walo ka kawayan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "kang Avram"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:14.713320048Z",
+  "model": "glm-5.3"
+}

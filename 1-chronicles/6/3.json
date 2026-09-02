@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang mga anak ni Kehat: Amram, Yitsar, Khevron, ug Utsiel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Yitsar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ug Utsiel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:43.063671064Z",
+  "model": "glm-5.3"
+}

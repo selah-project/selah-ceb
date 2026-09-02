@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Salig kang Yahweh ug buhata ⟨ang⟩ maayo; puyoi ang yuta ug sagana sa pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Salig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ang⟩ maayo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "puyoi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ug sagana"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sa pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:14.558880610Z",
+  "model": "glm-5.3"
+}

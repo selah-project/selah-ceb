@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Gikan sa pandilà ug gikan sa kagahas ila niya nga tubuson ang kalag, ug mahal ang ilang dugo sa iyang mga mata.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "gikan sa sulod"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "ug gikan sa kagahas"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ila niya nga tubuson"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ug mahal"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ang ilang dugo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.659523381Z",
+  "model": "glm-5.3"
+}

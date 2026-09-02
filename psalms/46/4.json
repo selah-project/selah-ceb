@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Nagaungal ug nagabukal ang mga tubig niini, nagakurog ang mga bukid sa iyang garbo. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "nagaungal"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "nagabukal"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ang mga tubig niini"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "nagakurog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "sa iyang garbo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.224931488Z",
+  "model": "glm-5.3"
+}

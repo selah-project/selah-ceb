@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gikan sa adlaw nga akuang gipagula ⟨את⟩ ang akong katawhan ⟨את⟩ ang Israel gikan sa Mitsrayim, wala ako mamili ug ciudad gikan sa tanang mga tribo sa Israel aron magtukod ug balay aron ang akong Ngalan anaa didto; apan nagpili ako kang David aron ⟨magbubuhat⟩ ibabaw sa akong katawhan nga Israel.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "akuang gipagula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ako mamili"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ug ciudad"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanang"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "aron magtukod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ug balay"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aron mahimong"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akong Ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaa didto"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "apan nagpili ako"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aron ⟨magbubuhat⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:00.349195610Z",
+  "model": "glm-5.3"
+}

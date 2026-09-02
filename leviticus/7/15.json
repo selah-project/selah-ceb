@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang unod sa sakripisyo sa pagpasalamat sa iyang mga halad sa kalinaw sa adlaw sa iyang halad mokaonon ⟨kini⟩; dili siya mobiyaag bisan unsa niini hangtod sa kaadlawon.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ug ang unod"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sa sakripisyo"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "sa pagpasalamat"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "sa iyang mga halad sa kalinaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sa iyang halad"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaonon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "siya mobiyaag"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bisan unsa niini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kaadlawon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:35.166739680Z",
+  "model": "glm-5.3"
+}

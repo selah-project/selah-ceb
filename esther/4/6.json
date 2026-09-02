@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Busa nanggawas si Hatakh ngadto kang Mordekhay, ngadto sa sidlakang dapit sa ⟨siyudad⟩ nga atbang sa ganghaan sa hari.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nanggawas"
+    },
+    {
+      "surface": "התך",
+      "gloss": "si Hatakh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "sidlakang dapit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨sa siyudad⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-02T00:47:04.500910687Z",
+  "model": "glm-5.3"
+}

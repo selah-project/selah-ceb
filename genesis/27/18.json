@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug miadto siya ngadto sa iyang amahan ug miingon: Amahan ko. Ug miingon ⟨siya⟩: Ania ako; kinsa ikaw, akong anak?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miadto siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Amahan ko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania ako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:40.269490992Z",
+  "model": "glm-5.3"
+}

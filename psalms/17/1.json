@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Pangamuyo ni David. Paminawa, Yahweh, ang pagkamatarong; tagda ang akong pagtuho; pamatia ang akong pangamuyo — sa walay mga ngabil sa pangilad.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pangamuyo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang pagkamatarong"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tagda"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ang akong pagtuho"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "pamatia"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pangamuyo"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "sa walay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sa pangilad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:23.239315264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ihatag kamo kang Yahweh ang kavod sa iyang ngalan; mangluhod kamo kang Yahweh ⟨sa⟩ kahalangdon sa kadesh.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ihatag kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa iyang ngalan"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "mangluhod kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "⟨sa⟩ kahalangdon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa kadesh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:41.119562650Z",
+  "model": "glm-5.3"
+}

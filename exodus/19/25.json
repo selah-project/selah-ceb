@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Busa miadto paingon sa ubos si Moshe ⟨sa⟩ ⟨ang⟩ katawhan, ug giingnan sila.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "miadto paingon sa ubos"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "giingnan sila"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:53.954706545Z",
+  "model": "glm-5.3"
+}

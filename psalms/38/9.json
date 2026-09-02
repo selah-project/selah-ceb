@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Nanghuya ako ug nadagdagan ⟨ako⟩ kaayo; nangiyaw ako tungod sa pag-iyag sa akong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "nanghuya ako"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "ug nadagdagan ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "nangiyaw ako"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "gikan sa pag-iyag"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:53.840837705Z",
+  "model": "glm-5.3"
+}

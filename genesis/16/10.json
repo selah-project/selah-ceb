@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug miingon kaniya ang mensahero ni Yahweh: Pagadaghanon ko ⟨את⟩ ang imong binhi, ug dili kini maihap tungod sa kadaghan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Pagadaghanon"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ko — pagadaghanon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong binhi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imong binhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "maihap"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "tungod sa kadaghan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:22.820605560Z",
+  "model": "glm-5.3"
+}

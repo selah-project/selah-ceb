@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Ug gikalipay ni Yahweh ang pagduso kaniya — gipasakit niya siya; kon iyang ihalad ang iyang nefesh ingon nga asham, makita niya ang kaliwat, malungtaron ang iyang mga adlaw, ug ang kaluyo ni Yahweh mopalambo sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ug Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gikalipay"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "ang pagduso kaniya"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "gipasakit niya siya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "iyang ihalad"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham (saad alang sa sala)"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iyang nefesh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita niya"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ang kaliwat"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "malungtaron"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang iyang mga adlaw"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "ug ang kaluyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "mopalambo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:58.390287414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Sa manguna sa mga musiko. Usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manguna sa mga musiko"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": " Usa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": " ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.855495899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 2:9",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gibilin nila siya ⟨את⟩ sa utlanan sa iyang panunod, sa Timnat-Kheres, sa kabukiran sa Efrayim, amihanan sa bukid Gaash.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "gibilin nila siya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "sa utlanan sa iyang panunod"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "sa utlanan"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sa iyang panunod"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "sa Timnat-Kheres"
+    },
+    {
+      "surface": "חרס",
+      "gloss": "(Timnat-Kheres)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sa Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "amihanan"
+    },
+    {
+      "surface": "להר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Gaash"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:19.884356137Z",
+  "model": "glm-5.3"
+}

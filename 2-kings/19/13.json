@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Asa ang hari sa Khamat, ug ang hari sa Arpad, ug ang hari sa ⟨ang⟩ dakbayan sa Sefarvayim, sa Hena ug sa Ivah?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa Khamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "sa Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "sa Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "sa Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ug sa Ivah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:37.046557975Z",
+  "model": "glm-5.3"
+}

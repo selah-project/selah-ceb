@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Nagsunod si Shelomoh kang Ashtoret, diyos ⟨sa⟩ mga taga-Tsidon, ug kang Milkom, kahalay ⟨sa⟩ mga Amonnon.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nagsunod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dios"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "mga taga-Tsidon"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "kahalay"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "mga Amonnon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:53.906659842Z",
+  "model": "glm-5.3"
+}

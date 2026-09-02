@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Apan sa imong mga adlaw dili ko kini buhaton, alang kang David nga imong amahan; gikan sa kamot sa imong anak ko kini gigison.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "sa imong mga adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ko kini buhaton"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "nga imong amahan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ko kini gigison"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:58.278856651Z",
+  "model": "glm-5.3"
+}

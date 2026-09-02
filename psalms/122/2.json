@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Nagtindog ⟨ang⟩ among mga tiil diha sa imong mga ganghaan, O Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Nagtindog"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨nagtindog⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "among mga tiil"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "diha sa imong mga ganghaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:03.562173235Z",
+  "model": "glm-5.3"
+}

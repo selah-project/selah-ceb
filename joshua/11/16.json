@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gikuha ni Yehoshua ⟨את⟩ kining tibuok nga yuta: ⟨ang⟩ kabungtoran, ug ⟨את⟩ tibuok nga Negev, ug ⟨את⟩ tibuok nga yuta sa Goshen, ug ⟨את⟩ ang kababaanan, ug ⟨את⟩ ang Arabah, ug ⟨את⟩ ang kabungtoran sa Israel uban ⟨ang⟩ iyang kababaanan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining tibuok nga yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kining"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨ang⟩ kabungtoran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tibuok nga Negev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tibuok nga yuta sa Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "sa Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang kababaanan"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "ang kababaanan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Arabah"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ang Arabah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang kabungtoran sa Israel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "kabungtoran"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "uban ang iyang kababaanan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:14.167523498Z",
+  "model": "glm-5.3"
+}

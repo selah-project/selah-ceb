@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Unya nanawag sila kang Yahweh diha sa ilang kagul-anan, ug gikan sa ilang mga kalisod siya nagluwas kanila.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Unya nanawag sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "diha sa kagul-anan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "gikan sa ilang mga kalisod"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "siya nagluwas kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.421569754Z",
+  "model": "glm-5.3"
+}

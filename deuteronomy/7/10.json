@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug magsabot siya ngadto sa iyang mga nanaway atbang sa ilang mga nawong, sa paglaglag kanila; dili siya magahunong sa pagbatol ngadto sa nanaway kaniya — atbang sa iyang nawong isabot niya kaniya.",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "ug magsabot siya"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "ngadto sa iyang mga nanaway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ila[ng] mga nawong"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "sa paglaglag kaniya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "magahunong sa pagbatol"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "ngadto sa nanaway kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang nawong"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "isabot niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:58.367203635Z",
+  "model": "glm-5.3"
+}

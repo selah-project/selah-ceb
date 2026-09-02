@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Magakalipay ang matarong tungod kay nakakita siya sa panimalos; magahugas siya sa iyang mga tikod sa dugo sa dautan.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nakakita siya"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "sa panimalos"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "sa iyang mga tikod"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "magahugas siya"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sa dautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:15.346614725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Libuta ang Tsiyon ug palibuti kini, ihap ang iyang mga tore.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "libuta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ang Tsiyon"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "ug palibuti kini"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ihap"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "ang iyang mga tore"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:55.558453361Z",
+  "model": "glm-5.3"
+}

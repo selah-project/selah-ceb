@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Si Moshe ug si Aharon taliwala sa iyang mga saserdote, ug si Shemuel taliwala sa mga nanawag sa iyang ngalan; nanawag sila kang Yahweh, ug Siya mitubag kanila.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug si Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "taliwala sa iyang mga saserdote"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ug si Shemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "taliwala sa mga nanawag"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa iyang ngalan"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "nanawag sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug Siya"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "mitubag kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:28.012034831Z",
+  "model": "glm-5.3"
+}

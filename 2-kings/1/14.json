@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ania karon, nayugsad ang kalayo gikan sa langit ug mikaon ⟨את⟩ sa duha ka kapitan sa ⟨ang⟩ kalim-an nga mga una ug ⟨את⟩ sa ilang kalim-an; ug karon, pagmahalon unta ang akong kalag sa imong mata.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "nayugsad"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ug mikaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa duha ka kapitan sa kalim-an nga mga una"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kapitan"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "sa kalim-an"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nga mga una"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang kalim-an"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "sa ilang kalim-an"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "pagmahalon unta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imong mata"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:47.930875228Z",
+  "model": "glm-5.3"
+}

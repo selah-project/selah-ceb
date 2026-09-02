@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug kini ⟨ang⟩ torat sa ashām: kadosh kodashim kini.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "torat"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sa ashām"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadosh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:53.961318962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Hatagan ni Yahweh ⟨את⟩ ang ulan sa imong yuta ug abok ug alabon — gikan sa kalangitan kini moari kanimo, hangtod nga magun-ob ka.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "hatagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulan"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "imong yuta"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "abok"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "alabon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kalangitan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "moari"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "magun-ob ka"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:26.515534522Z",
+  "model": "glm-5.3"
+}

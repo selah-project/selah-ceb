@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Balay ni Yisrael, panalanginA kamo ⟨את⟩ si Yahweh; balay ni Aharon, panalanginA kamo ⟨את⟩ si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalanginA kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "panalanginA kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:18.686226730Z",
+  "model": "glm-5.3"
+}

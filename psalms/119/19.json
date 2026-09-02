@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Langyaw ako ⟨sa⟩ yuta; ayaw ikubli kanako ⟨ang⟩ imong mga mando.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Langyaw"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨sa⟩ yuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ikubli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imo nga mga mando"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:57.514031213Z",
+  "model": "glm-5.3"
+}

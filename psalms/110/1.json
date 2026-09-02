@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Mizmor ni David. Ang orakulo ni Yahweh ngadto sa akong Adonay: Lingkod sa akong too, hangtod nga akong ibutang ⟨ang⟩ imong mga kaaway ingon nga tungtungan sa imong mga tiil.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "sa akong Adonay"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Lingkod"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "sa akong too"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "akong ibutang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imong mga kaaway"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "tungtungan"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "sa imong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:27.609082969Z",
+  "model": "glm-5.3"
+}

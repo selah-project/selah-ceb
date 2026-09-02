@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug miingon kaniya si Avraham: Magbantay ka ⟨sa imong kaugalingon⟩ nga dili nimo ibalik ⟨את⟩ ang akong anak ngadto didto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Magbantay ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨sa imong kaugalingon⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nga dili"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ibalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang akong anak"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ngadto didto"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:49.332362803Z",
+  "model": "glm-5.3"
+}

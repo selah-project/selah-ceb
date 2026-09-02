@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ ang Khilents ⟨את⟩ ug ang mga nataran niini, ⟨את⟩ ang Devir ug ⟨את⟩ ang mga nataran niini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang Khilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "ang Khilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang mga nataran niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ang Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang mga nataran niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:21.433850452Z",
+  "model": "glm-5.3"
+}

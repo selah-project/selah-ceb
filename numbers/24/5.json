@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Maayo ​kaayo​ ang imong mga tolda, Oh Yaakov, ang imong mga puloy-anan, Oh Yisrael!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Maano\/unsay"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "maayo kaayo"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "ang imong mga tolda"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "ang imong mga puloy-anan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:29.973202749Z",
+  "model": "glm-5.3"
+}

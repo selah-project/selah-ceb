@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Isulti sa mga kanasoran ⟨את⟩ ang iyang himaya, sa tanang mga katawhan ang iyang mga katingalahan.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga kanasoran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang himaya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang iyang himaya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "ang iyang mga katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:23.531614906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Sa ⟨maong⟩ panahon naangyan si Aviyah nga anak ni Yaravam.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Sa ⟨maong⟩ panahon"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨maong⟩"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "naangyan"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "si Aviyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yaravam"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:37.856512380Z",
+  "model": "glm-5.3"
+}

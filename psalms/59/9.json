@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Apan ikaw, Yahweh, magatawa kanila; magasapas sa tanan nga mga nasod.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apan ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "magatawa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "magasapas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:53.499973457Z",
+  "model": "glm-5.3"
+}

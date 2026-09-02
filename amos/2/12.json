@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gipainum ninyo ⟨את⟩ sa mga Nazireo ug bino, ug sa mga propeta gisugo ninyo nga nag-ingon: Ayaw pagpanulti.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "ug gipainum ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga Nazireo"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "sa mga Nazireo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ug bino"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "mga propeta"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "gisugo ninyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "pagpanulti"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:11.490560225Z",
+  "model": "glm-5.3"
+}

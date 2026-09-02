@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Lamang, ingon sa pagkaon sa ⟨את⟩ gasela ug ⟨את⟩ lalaking ilaran, mao usab nimo kiniokaon; ang hugaw ug ang putli magakaon niini nga managhiusa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gasela"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "gasela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalaking ilaran"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "lalaking ilaran"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "nimo kiniokaon"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ang hugaw"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ug ang putli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga managhiusa"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "magakaon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:32.929535704Z",
+  "model": "glm-5.3"
+}

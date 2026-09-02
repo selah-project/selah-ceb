@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Apan nagtuman ⟨ang⟩ Elohim ⟨ug⟩ usa ka ulod sa pagsaka sa ⟨kabanikanhan⟩ kaadlawon, sa sunod adlaw, ug gihampak niini ⟨את⟩ ⟨ang⟩ kikayon, ug kini mitiwang.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nagtuman"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨ang⟩ Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulod"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sa pagsaka"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "sa ⟨kabanikanhan⟩ kaadlawon"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "sa sunod adlaw"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ug gihampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "⟨ang⟩ kikayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ug kini mitiwang"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:11.038551409Z",
+  "model": "glm-5.3"
+}

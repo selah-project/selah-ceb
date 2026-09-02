@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Alang sa mangunguna sa pag-awit, sumala sa Gittith, kang Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "alang sa mangunguna sa pag-awit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kang Asaf"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:53.437380054Z",
+  "model": "glm-5.3"
+}

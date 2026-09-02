@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug migawas si Noach ug ang iyang mga anak ug ang iyang asawa ug ang mga asawa sa iyang mga anak ⟨את⟩ uban kaniya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ug migawas"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ug ang iyang asawa"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ug ang mga asawa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:07.711670346Z",
+  "model": "glm-5.3"
+}

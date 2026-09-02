@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ayaw pagtubag batok sa imong isigkatawo ⟨sa⟩ saksi nga bakak.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "pagtubag"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "batok sa imong isigkatawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:02.502249233Z",
+  "model": "glm-5.3"
+}

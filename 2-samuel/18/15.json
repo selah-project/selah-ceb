@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug napalibot napulo ka mga batan-on nga mga magdadala sa mga armas ni Yoab, ug gihampas nila ⟨את⟩ si Avshalom ug gipatay nila siya.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ug napalibot"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ka mga batan-on"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mga magdadala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sa mga armas"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ug gihampas nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ug gipatay nila siya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:29.098220964Z",
+  "model": "glm-5.3"
+}

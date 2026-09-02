@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Dili na siya mobalik ngadto sa iyang balay, ug ang iyang dapit dili na siya ilaila.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ngadto sa iyang balay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ilaila siya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ang iyang dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:30.261981445Z",
+  "model": "glm-5.3"
+}

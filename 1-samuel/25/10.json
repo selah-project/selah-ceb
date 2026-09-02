@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Mitubag si Naval ⟨את⟩ ang mga sulugoon ni David ug miingon: Kinsa si David? Ug kinsa ang anak ni Yishai? Karon nga adlaw nagsobra-sobra na ang mga sulugoon, ang mga motakas matag usa gikan sa atubangan sa iyang agalon.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sulugoon ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karong adlawa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nagsobra-sobra"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "ang mga motakas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sa iyang agalon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:10.802175330Z",
+  "model": "glm-5.3"
+}

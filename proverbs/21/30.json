@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Walay kaalam, walay sinabutan, ug walay tambag ⟨nga makadaog⟩ atbang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "sinabutan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "atbang kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:44.249219980Z",
+  "model": "glm-5.3"
+}

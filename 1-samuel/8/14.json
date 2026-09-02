@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨את⟩ inyong mga uma, ug ⟨את⟩ inyong mga kaparangan sa ubas, ug inyong mga olibo nga maayo kuhaon niya, ug ihatag niya sa iyang mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga uma"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "inyong mga uma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga kaparangan sa ubas"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "inyong mga kaparangan sa ubas"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "inyong mga olibo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon niya"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug ihatag niya"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "sa iyang mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:05.198112398Z",
+  "model": "glm-5.3"
+}

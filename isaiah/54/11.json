@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 54:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Ikaw nga tin-aw nga kabus, gisamok sa bagyo, nga wala mabawian pagdalaygon — ania karon, ako ang maglatid sa imong mga bato sa puk ⟨(tin-aw nga antimony)⟩, ug patinduron ko ikaw sa mga sapiro.",
+  "tokens": [
+    {
+      "surface": "עניה",
+      "gloss": "Ikaw nga tin-aw nga kabus"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "gisamok sa bagyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "נחמה",
+      "gloss": "mabawian pagdalaygon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מרביץ",
+      "gloss": "ang maglatid"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "sa puk (tin-aw nga antimony)"
+    },
+    {
+      "surface": "אבניך",
+      "gloss": "sa imong mga bato"
+    },
+    {
+      "surface": "ויסדתיך",
+      "gloss": "ug patinduron ko ikaw"
+    },
+    {
+      "surface": "בספירים",
+      "gloss": "sa mga sapiro"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:46.388795301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Umari kamo, palangga nato pagpainom ⟨את⟩ sa among amahan ug bino, ug higda kita kauban niya, aron mabuhi kita gikan sa among amahan ug kaliwat.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Umari"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "palangga nato pagpainom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "among amahan"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "among amahan"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "ug higda kita"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "aron mabuhi kita"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "gikan sa among amahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:02.165919804Z",
+  "model": "glm-5.3"
+}

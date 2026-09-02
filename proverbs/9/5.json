@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Umaon kamo, kumaon kamo sa akong tinapay, ug uminom kamo sa bino nga akong gisagol.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umaon kamo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "kumaon kamo"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "sa akong tinapay"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "ug uminom kamo"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "sa bino"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nga akong gisagol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:43.579297762Z",
+  "model": "glm-5.3"
+}

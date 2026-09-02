@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemot uban ⟨את⟩ mga kapatagan niini, ug ⟨את⟩ Meyfaat uban ⟨את⟩ mga kapatagan niini — upat ka mga dakbayan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩",
+      "marks": "mga kapatagan niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Meyfaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meyfaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩",
+      "marks": "mga kapatagan niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan niini"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:25.258235757Z",
+  "model": "glm-5.3"
+}

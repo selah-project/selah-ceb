@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": " ug mingbiya gikan didto si Avraham padulong sa yuta sa Habagatan, ug nagpuyo siya taliwala sa Kadesh ug sa Shur, ug naglangyaw siya sa Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mingbiya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "padulong sa yuta"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sa Habagatan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "naglangyaw"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "sa Gerar"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:16.487087661Z",
+  "model": "glm-5.3"
+}

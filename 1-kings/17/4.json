@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug mahitabo nga gikan sa sapa imongMainum, ug ⟨את⟩ ang mga uwak gisugo nako nga ipakaon kanimo didto.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ug mahitabo"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "gikan sa sapa"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "imong mainum"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga uwak"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ang mga uwak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "gisugo nako"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "nga ipakaon kanimo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:53.635361245Z",
+  "model": "glm-5.3"
+}

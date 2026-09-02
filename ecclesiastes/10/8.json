@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang nagkali sa atipan masulod ⟨ngadto⟩ kanhi; ug ang nagguba sa paril bitinon sa bitin.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ang nagkali"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "sa atipan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kanhi (ngadto)"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "masulod\/mahunong"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ug ang nagguba"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "sa paril"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bitinon"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "sa bitin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:28.306286751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Himoon nga anaa kanamo ang imong hesed, O Yahweh, ingon nga naglaom kami kanimo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Himoon nga anaa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imong hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "naglaom kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:05.372269390Z",
+  "model": "glm-5.3"
+}

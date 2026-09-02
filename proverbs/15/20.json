@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang anak nga maalamoon nagpalipay sa amahan, apan ang buang nga tawo nagdumiliw sa iyang inahan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ang anak"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nga maalamoon"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagpalipay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "sa amahan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "apan ang buang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "nagdumiliw"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa iyang inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:48.500622690Z",
+  "model": "glm-5.3"
+}

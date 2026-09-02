@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Pahimamatngoni sila, O Elohim; matagak sila pinaagi sa ilang mga tambag; palagya sila diha sa kadaghan sa ilang mga paglapas; kay nakasukol sila Kanimo.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "Pahimamatngoni sila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "matagak sila"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "paagi sa ilang mga tambag"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "diha sa kadaghan"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "sa ilang mga paglapas"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "palagya sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "nakasukol sila"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.720173437Z",
+  "model": "glm-5.3"
+}

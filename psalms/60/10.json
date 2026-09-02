@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Ang Moab mao ang akong kaldero sa pagpanghugas, sa Edom itambak ko ang akong sapin, sa Peleshet, pagadayeg kanako!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kaldero"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sa akong pagpanghugas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "itambak ko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "akong sapin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "pagadayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:05.286838940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Sa pagkatinuod, ingon usa ka hulagway naglakaw ang tawo; sa pagkatinuod, sa hangin magkagubot ⟨siya⟩; nagtapok ⟨siya⟩ ug wala ⟨siya⟩ mahibalo kinsa ang mangolekta niini.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ingon usa ka hulagway"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "sa hangin"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "magkagubot"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "nagtapok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ang mangolekta niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:27.013349760Z",
+  "model": "glm-5.3"
+}

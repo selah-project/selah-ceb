@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gihigugma ni Mikal, anak nga babaye ni Shaul, ⟨את⟩ si David; ug gisugilan sila kang Shaul, ug ang butang nahiuyon sa iyang mga mata.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "Ug gihigugma"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "ni Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ug gisugilan sila"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ug nahiuyon"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:31.633896958Z",
+  "model": "glm-5.3"
+}

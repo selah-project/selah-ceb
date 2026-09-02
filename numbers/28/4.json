@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "⟨את⟩ ang usa ka karnero himoon sa buntag, ug ⟨את⟩ ang ikaduhang karnero himoon taliwala sa mga kahaponon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa ka karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himoon"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikaduhang karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "himoon"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "sa mga kahaponon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:35.950412612Z",
+  "model": "glm-5.3"
+}

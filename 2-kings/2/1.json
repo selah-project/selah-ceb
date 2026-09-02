@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug nahitabo, sa pag-alsa kang Yahweh ⟨את⟩ kang Eliyahu sa alimpatakan ⟨sa⟩ langit, nga miadto si Eliyahu uban kang Elisha gikan sa Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "sa pag-alsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "kang Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "sa alimpatakan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "uban kang Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:23.699620955Z",
+  "model": "glm-5.3"
+}

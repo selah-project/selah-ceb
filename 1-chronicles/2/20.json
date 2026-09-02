@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Khur nagkatawo ⟨את⟩ si Uri, ug si Uri nagkatawo ⟨את⟩ si Betsalel.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ug si Khur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "si Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ug si Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Betsalel"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "si Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:54.285821095Z",
+  "model": "glm-5.3"
+}

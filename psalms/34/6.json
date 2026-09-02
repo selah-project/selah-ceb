@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Nagtan-aw sila kaniya, ug nagdan-ag sila, ug ang ilang mga nawong dili malauyon.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Nagtan-aw sila"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ug nagdan-ag sila"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ug ang ilang mga nawong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "malauyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:11.090697517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Gawas lang ang yuta sa mga sacerdote — wala kini gipalit niya, kay may gihatag nga bahin ang mga sacerdote gikan kang ⟨את⟩ Paro, ug gikaon nila ⟨את⟩ ang ilang bahin nga gihatag kanila ni Paro; tungod niini wala nila gibaligya ⟨את⟩ ang ilang yuta.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "gawas lang"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga sacerdote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "gipalit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חק",
+      "gloss": "gihatag nga bahin"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "sa mga sacerdote"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan kang ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug gikaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang bahin"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "ang ilang bahin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "gibaligya nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang yuta"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ang ilang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:12.204350279Z",
+  "model": "glm-5.3"
+}

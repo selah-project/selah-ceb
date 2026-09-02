@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 1:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang uban pa nga mga buhat ni Ahaziyahu nga iyang gihimo — wala ba kini gisulat sa libro sa mga pulong sa mga adlaw alang sa mga hari sa Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ug ang uban pa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong ⟨mga buhat⟩"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ni Ahaziyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iyang gihimo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "gisulat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "alang sa mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:23.986040283Z",
+  "model": "glm-5.3"
+}

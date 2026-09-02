@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Dagdahan na alang kaninyo ⟨ang⟩ paglibut sa ⟨את⟩ kining bukid ⟨⟩; lingsa kamo alang kaninyo paingon sa amihanan.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "dagdahan na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ang paglibut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "lingsa kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "paingon sa amihanan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:33.631097897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Ayaw ako pagbuhion sa panahon sa katiguwangon; sa pagkahurot sa akong kusog ayaw ako pagbiyaan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "pagbuhion ako"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "katiguwangon"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "sa pagkahurot"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "akong kusog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "pagbiyaan ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:28.792125670Z",
+  "model": "glm-5.3"
+}

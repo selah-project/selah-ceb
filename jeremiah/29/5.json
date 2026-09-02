@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Magtindog kamo og mga balay ug puyo didto, ug magtanom kamo og mga tanaman ug kaoha ⟨את⟩ ang bunga niini.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "magtindog kamo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ug puyo didto"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ug magtanom kamo"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mga tanaman"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug kaoha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bunga niini"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ang bunga niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:24:14.053812767Z",
+  "model": "glm-5.3"
+}

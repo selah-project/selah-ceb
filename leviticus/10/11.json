@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "ug sa pagtudlo ⟨sa mga anak⟩ ni Yisrael ⟨sa tanan⟩ nga mga statute nga gisulti ni Yahweh ngadto kanila pinaagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ug sa pagtudlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga statute"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mga statute"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:51.549717277Z",
+  "model": "glm-5.3"
+}

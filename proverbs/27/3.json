@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Bug-at ang bato ug ⟨ang⟩ kargada sa balas, apan ang kaligutgut sa ulol labaw nga bug-at sa duha kanila.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Bug-at"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ug kargada"
+    },
+    {
+      "surface": "החול",
+      "gloss": "sa balas"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "apan ang kaligutgut"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sa ulol"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "labaw nga bug-at"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "sa duha kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:19.060145342Z",
+  "model": "glm-5.3"
+}

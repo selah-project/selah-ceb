@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Nag-estorya bahin kanako ang mga nagalingkod sa ⟨ang⟩ ganghaan, ug ako ang kanta sa mga nag-inom ug makahilog nga ilimnon.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "nag-estorya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "bahin kanako"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga nagalingkod"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "sa mga nag-inom"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "makahilog nga ilimnon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:17.335745021Z",
+  "model": "glm-5.3"
+}

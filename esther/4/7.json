@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gisaysay ni Mordekhai kaniya ang tanan nga nahitabo kaniya, ug ⟨את⟩ ang gidaghanon sa salapi nga ingon ni Haman nga isiksik sa mga bahandianan sa hari mahitungod sa mga Yehudi, aron sila mapun-an.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "gisaysay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga nahitabo kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "nahitabo kaniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang gidaghanon sa salapi"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "ang gidaghanon"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sa salapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ingon"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "isiksik"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "mga bahandianan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "mahitungod sa mga Yehudi"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "aron sila mapun-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:57.276082489Z",
+  "model": "glm-5.3"
+}

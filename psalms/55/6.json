@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Kahadlok ug kurog mosulod ⟨kanako⟩, ug gitabonan ako sa kakilag.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "ug kurog"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "gitabonan ako"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "sa kakilag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:08.665671036Z",
+  "model": "glm-5.3"
+}

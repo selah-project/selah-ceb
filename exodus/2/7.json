@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon ang iyang igsoon nga babae ngadto sa anak nga babae ni Paro: Moadto ba ako ug tawgon alang kanimo ang usa ka babae nga magpasuso gikan sa mga Ebreo, aron pasusohon niya alang kanimo ⟨את⟩ ang bata?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "iyang igsoon nga babae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Moadto ba ako"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ug tawgon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babae"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "magpasuso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "mga Ebreo"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "pasusohon niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:23.422640589Z",
+  "model": "glm-5.3"
+}

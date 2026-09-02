@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Busa gipalit ko ⟨את⟩ ang bakus, sumala sa pulong ni Yahweh, ug gisulod ko kini sa akong hawak.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "busa gipalit ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bakus"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ang bakus"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ug gisulod ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "akong hawak"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:30.730385546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ug ako usab, igahatag ko kaniya isip panganay, labing hataas sa mga hari sa yuta.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "igahatag ko kaniya"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "labing hataas"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:28.803516495Z",
+  "model": "glm-5.3"
+}

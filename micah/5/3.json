@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 5:3",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug mobarug siya ug magabantog ⟨sa iyang panon⟩ sa kusog ni Yahweh, sa kahalangdon sa ngalan ni Yahweh nga iyang Elohim; ug mopuyo sila, kay karon molangkob ⟨ang iyang kadako⟩ hangtod sa mga kinatumyan sa yuta.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Ug mobarug siya"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ug magabantog ⟨sa iyang panon⟩"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "sa kahalangdon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "nga iyang Elohim"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug mopuyo sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "molangkob ⟨ang iyang kadako⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "sa mga kinatumyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:49.223324361Z",
+  "model": "glm-5.3"
+}

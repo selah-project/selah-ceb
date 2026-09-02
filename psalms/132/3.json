@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Dili ako modangop sa tolda sa akong balay, dili ako molunsang sa akong higdaanan,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Dili (sa panumpa — kon)"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "modangop"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "sa akong balay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dili (kon)"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "molunsang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "higdaanan"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "akong higdaanan nga gipatigbabaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:02.905471717Z",
+  "model": "glm-5.3"
+}

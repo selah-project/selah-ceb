@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Kay ⟨siya⟩ nakaila sa ⟨pagkadagway⟩ namo; nasumduman niya nga dabok kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "sa ⟨pagkadagway⟩ namo"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "nasumduman niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "dabok"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:04.851741806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "⟨Mga⟩ nagatukod sa Tsiyon pinaagi sa dugo, ug sa Yerushalayim pinaagi sa kadaotan.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "nagatukod"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "paagi sa dugo"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ug sa Yerushalayim"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "paagi sa kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:09.004111609Z",
+  "model": "glm-5.3"
+}

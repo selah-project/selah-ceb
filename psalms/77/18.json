@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Nagbuga ang mga dungog nga panganod ug tubig; naghatod ang mga kahangin ug tingog; bisan ang imong mga pana naglibot-libot.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "nagbuga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ug tubig"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ang mga dungog nga panganod"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ug tingog"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "naghatod"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ang mga kahangin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "ang imong mga pana"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "naglibot-libot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:56.573899816Z",
+  "model": "glm-5.3"
+}

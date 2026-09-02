@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Matudlo ko sa mga manlapas ang ⟨mga⟩ dalan mo, ug ang mga makasasala mobalik ⟨ngadto⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "matudlo ko"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "sa mga manlapas"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ang mga dalan mo"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ug ang mga makasasala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "mobalik"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.191150689Z",
+  "model": "glm-5.3"
+}

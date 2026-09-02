@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Nag-ingon sila: Lakaw kamo, ug pawngon nato sila ⟨aron mawala⟩ ingon nga nasod; ug dili na mahinumdoman ang ngalan ni Yisrael pa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "nag-ingon sila"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lakaw kamo"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ug pawngon nato sila"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ingon nga nasod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mahinumdoman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:12.751489881Z",
+  "model": "glm-5.3"
+}

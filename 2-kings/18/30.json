@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ayaw pagtugot nga pagpasalig kamo ni Khizkiyahu kang Yahweh, nga nag-ingon: Luwason ⟨את⟩ kamo gikaluwas ni Yahweh, ug dili ⟨ang⟩ mahatag ⟨את⟩ kining ⟨ang⟩ dakbayan sa kamot sa hari sa Ashur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "pagpasalig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "gikaluwas"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "luwason kami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "mahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kining"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:43.235950450Z",
+  "model": "glm-5.3"
+}

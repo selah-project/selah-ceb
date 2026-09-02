@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Sa paghisgot ni Moshe, ⟨ang⟩ tawo sa ⟨mga⟩ Elohim, ang iyang mga anak giapil sa tribo ni Levi.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Sa paghisgot ni Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "giapil \/ gihisgutan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:26.875188725Z",
+  "model": "glm-5.3"
+}

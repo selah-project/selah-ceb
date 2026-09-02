@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Dili makit-an diha kanimo ang nagaagi sa iyang anak nga lalaki ug iyang anak nga babayi sa kalayo, ang nagtagna pinaagi sa panghulas, ang magbantay sa mga timailhan, ug ang manlalandong, ug ang mamalakol.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makit-an"
+    },
+    {
+      "surface": "בך",
+      "gloss": "diha kanimo"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "ang nagaagi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak nga lalaki"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "ug iyang anak nga babayi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "panghulas"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "nagtagna pinaagi sa panghulas"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "magbantay sa mga timailhan"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "ug manlalandong"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ug mamalakol"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:22.273595818Z",
+  "model": "glm-5.3"
+}

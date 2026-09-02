@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 61,
+  "translation": "Paminawa, Elohim, ang akong pagtinguha; ipangingadlaw ang imong mga igugol sa akong pag-ampo.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ang akong pagtinguha"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ipangingadlaw"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "akong pag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:28.080758552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gipaduman niya ⟨sa taliwala nila⟩ ang usa ka daghang mga lamok nga nangaon ⟨kanila⟩, ug mga baki nga naglaglag ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Gipaduman"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa taliwala nila"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "usa ka daghang mga lamok"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "nga nangaon ⟨kanila⟩"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "ug mga baki"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "nga naglaglag ⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:23.218754465Z",
+  "model": "glm-5.3"
+}

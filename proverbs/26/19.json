@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Sa mao angay ang tawo nga naglimbong ⟨את⟩ sa iyang isigkatabang, ug moingon: Dili ba nga nagdula lamang ako?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "sa mao angay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "naglimbong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang isigkatabang"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa iyang isigkatabang"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "nagdula lamang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:18.991318952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ang tambag ni Yahweh magatindog hangtod sa kahangturan, ang mga hunahuna sa iyang kasingkasing sa tanan nga henerasyon ngadto sa henerasyon.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "magatindog"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mga hunahuna"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iyang kasingkasing"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngadto sa henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:19.993603442Z",
+  "model": "glm-5.3"
+}

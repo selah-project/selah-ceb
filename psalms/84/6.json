@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 84,
+  "translation": "Maayo ang kahimtang sa tawo nga ang iyang kusog anaa kanimo, ⟨mga⟩ dalan ⟨ang anaa⟩ sa ilang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Maayo ang kahimtang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ang iyang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "anaa kanimo"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sa ilang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:27.931072322Z",
+  "model": "glm-5.3"
+}

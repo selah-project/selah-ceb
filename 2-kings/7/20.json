@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug nahitabo kaniya ingon niana; ug gityad-an ⟨את⟩ siya sa katawhan diha sa ganghaan, ug namatay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "ug gityad-an"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "diha sa ganghaan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:51.084438555Z",
+  "model": "glm-5.3"
+}

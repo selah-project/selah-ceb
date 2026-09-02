@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gisulti-an si David ⟨את⟩ sa gibuhat ni Ritspah nga anak nga babaye ni Aiyah, nga asawa-iban ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisulti-an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa gibuhat ni Ritspah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa gibuhat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nga buhat"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "ni Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga anak nga babaye"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ni Aiyah"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "nga asawa-iban"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:40.450481822Z",
+  "model": "glm-5.3"
+}

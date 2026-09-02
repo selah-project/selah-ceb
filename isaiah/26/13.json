@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Yahweh, Elohim ⟨nato⟩, nangagamhan sa amo ang mga agalon labot kanimo; ikaw lamang, sa imo among hibaw-an ang imong ngalan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ⟨nato⟩"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "nangagamhan sa amo"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ang mga agalon"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "labot kanimo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ikaw lamang"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imo"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "among hibaw-an"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:52.606503833Z",
+  "model": "glm-5.3"
+}

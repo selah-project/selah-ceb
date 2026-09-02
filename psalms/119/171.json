@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mogula ang among mga ngawi ⟨mga⟩ pagdayeg, kay imong gitudlo kanako ang imong mga batas.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akong mga ngawi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "pagdayeg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "imong gitudlo kanako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ang imong mga batas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:56.261815924Z",
+  "model": "glm-5.3"
+}

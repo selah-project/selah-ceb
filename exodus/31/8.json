@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "ug ⟨את⟩ ang lamesa ug ⟨את⟩ ang mga kagamitan niini, ug ⟨את⟩ ang dalan-suga nga puti ug ⟨את⟩ ang tanan niyang mga kagamitan, ug ⟨את⟩ ang halaran sa insenso",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kagamitan niini"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ang mga kagamitan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang dalan-suga nga puti"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ang dalan-suga"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "nga puti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan niyang mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "niyang mga kagamitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang halaran sa insenso"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "sa insenso"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:22.594870115Z",
+  "model": "glm-5.3"
+}

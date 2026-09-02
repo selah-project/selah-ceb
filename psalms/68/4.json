@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ug ang mga matarong magakalipay, magasaulog sa atubangan ni Elohim, ug magakalipay ⟨uban sa⟩ dakong kalipay.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ug ang mga matarong"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "magasaulog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "magakalipay ⟨uban sa⟩"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "dakong kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:53.682221497Z",
+  "model": "glm-5.3"
+}

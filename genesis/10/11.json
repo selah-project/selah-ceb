@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gikan sa maong yuta migula si Ashur, ug nagtindog ⟨את⟩ sa Ninweh, ⟨ug⟩ ⟨את⟩ sa Rekhovot-Ir, ug ⟨את⟩ sa Kalakh —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Gikan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "migula"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "si Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Ninweh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa Rekhovot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rekhovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (nga dakbayan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa Kalakh"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:03.761922851Z",
+  "model": "glm-5.3"
+}

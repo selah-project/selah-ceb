@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug giduol ni Shemuël ⟨את⟩ tanan nga mga tribo ni Yisrael, ug nadakop ang tribo ni Binyamin.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ug giduol ni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga tribo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ug nadakop"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tribo ni"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:43.357471257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Hain ang imong mga hesed sa kanhiay, Adonay, nga imong gpanangway kang David diha sa imong pagkamatinud-anon?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hain"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ang imong mga hesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "sa kanhiay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "nga imong gpanangway"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "diha sa imong pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:50.927958150Z",
+  "model": "glm-5.3"
+}

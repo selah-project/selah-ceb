@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Naghukom siya sa pagtilaw sa kabos ug sa gustong matinabangon; sa maong panahon maayo — dili ba kini ang pag-ila ⟨את⟩ kanako? neum ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Naghukom siya"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sa pagtilaw"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug sa gustong matinabangon"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa maong panahon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ang pag-ila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:20:41.345409711Z",
+  "model": "glm-5.3"
+}

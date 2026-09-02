@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Wala ba nimo kini masayod sukad sa una, sukad ⟨sa⟩ pagbutang ⟨sa⟩ tawo ibabaw ⟨sa⟩ yuta?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Wala ba nimo masayod"
+    },
+    {
+      "surface": "מני",
+      "gloss": "suod sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "una"
+    },
+    {
+      "surface": "מני",
+      "gloss": "suod sa"
+    },
+    {
+      "surface": "שים",
+      "gloss": "pagbutang"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:46:47.605106952Z",
+  "model": "glm-5.3"
+}

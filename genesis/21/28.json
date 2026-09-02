@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gibutang ni Avraham ⟨את⟩ ang pitong mga nating karnero sa panon nga bulag sila.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Ug gibutang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pitong mga nating karnero"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pitong"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "mga nating karnero"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sa panon"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "bulag sila"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:40.296634940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Kay si Yahweh, ang Labing Hataas, mao ang makahahadlok, hari nga dako sa ibabaw sa tibuok yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ang Labing Hataas"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mao ang makahahadlok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.730867661Z",
+  "model": "glm-5.3"
+}

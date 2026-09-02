@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nagduko ang nawong ni Bat-Sheba sa yuta, ug miyuhom sa hari, ug miingon: Mabuhi ang akong agalon nga hari si David hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ויתקד",
+      "gloss": "Ug nagduko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ang nawong"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ug miyuhom"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Mabuhi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang akong agalon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:12.879825523Z",
+  "model": "glm-5.3"
+}

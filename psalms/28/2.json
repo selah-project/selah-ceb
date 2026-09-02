@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Paminawa ang tingog sa akong pangamuyo, sa akong pagpanawag ngadto kanimo, sa akong pagpatindog sa akong mga kamot ngadto sa imong balaang sulodnganan.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "sa akong pangamuyo"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "sa akong pagpanawag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "sa akong pagpatindog"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa akong mga kamot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "imong sulodnganan"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:56.783848192Z",
+  "model": "glm-5.3"
+}

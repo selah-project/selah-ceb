@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gipakatibulaag ni Yahweh ⟨את⟩ sila gikan didto sa ibabaw sa nawong sa tibuok kalibutan, ug mihunong sila sa pagtukod ⟨sa⟩ dakbayan.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Gipakatibulaag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa nawong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "ug mihunong sila"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "sa pagtukod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:29.782931933Z",
+  "model": "glm-5.3"
+}

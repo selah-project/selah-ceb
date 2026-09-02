@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 61,
+  "translation": "Gikan sa kinatumyan sa yuta ngadto kanimo magatawag ako; sa pagkupot sa akong kasingkasing, ngadto sa bato nga labaw pa kanako imong ipadala ako.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Gikan sa kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "sa pagkupot"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ngadto sa bato"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "nga labaw pa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "imong ipadala ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:28.080872753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Sa adlaw sa akong kagul-anan nangita ako kang Adonay; ang akong kamot gabii gipadako nga wala mohunong; nagdumili ang akong nefess ⟨nga malig-onon⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sa akong kagul-anan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nangita ako"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong kamot"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabii"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "gipadako nga daw nag-agos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "mohunong"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "nagdumili"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "⟨nga malig-onon⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefess"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:59.002841842Z",
+  "model": "glm-5.3"
+}

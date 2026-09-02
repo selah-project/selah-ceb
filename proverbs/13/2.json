@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Gikan sa bunga sa baba sa tawo mokaon siya ug ⟨maayong butang⟩; apan ang kalag sa mga tigluib — kagahum.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "gikan sa bunga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong butang"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "apan ang kalag"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "mga tigluib"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kagahum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:48.287278952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Kasuko alang sa iyang amahan ang anak nga khasil, ug pangkasuko sa natawo kaniya.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "kasuko"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "alang sa iyang amahan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nga khasil"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "ug pangkasuko"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "sa natawo kaniya"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:26.667849887Z",
+  "model": "glm-5.3"
+}

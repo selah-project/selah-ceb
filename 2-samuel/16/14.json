@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug ang hari ug tibuok nga katawhan nga ⟨ka⟩ niya miabok nga kapoy ug gikapoyon, ug nakapahulay sila didto.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miabok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tibuok nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ka niya"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "nga kapoy ug gikapoyon"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "nakapahulay sila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:37.807737080Z",
+  "model": "glm-5.3"
+}

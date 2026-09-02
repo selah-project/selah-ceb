@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Gikan sa kasakit sa iyang nefesh makita niya, matubrang siya; pinaagi sa iyang kahibalo ipatarong sa akong matinud-anong sulugoon ⟨ang⟩ daghan, ug ang ilang mga sala siya magadala.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "gikan sa kasakit"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang nefesh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita niya"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "matubrang siya"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "pinaagi sa iyang kahibalo"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "ipatarong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matinud-anong"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akong sulugoon"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ang daghan"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "ug ang ilang mga sala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "magadala"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:58.390468597Z",
+  "model": "glm-5.3"
+}

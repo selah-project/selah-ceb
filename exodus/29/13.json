@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 29:13",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug kuhaa ⟨את⟩ ang tanan nga tambok nga nagtabon ⟨את⟩ sa tinai, ug ⟨את⟩ ang yoteret ibabaw sa atay, ug ⟨את⟩ ang duha ka kidney, ug ⟨את⟩ ang tambok nga anaa kanila, ug pahimuoka sila sa halaran.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga tambok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "nga tambok"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nagtabon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tinai"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sa tinai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang yoteret"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang yoteret"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sa atay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang duha ka kidney"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ka kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "anaa kanila"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ug pahimuoka"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:45.072444431Z",
+  "model": "glm-5.3"
+}

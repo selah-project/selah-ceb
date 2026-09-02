@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Sa magdadagan sa koral; bahin sa Yonath-elem-rehokim ⟨ang hilom nga salampati sa malayong mga dapit⟩; usa ka miktam ni David, sa pagdakop kaniya ⟨את⟩ sa mga Pilishteo sa Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa magdadagan sa koral"
+    },
+    {
+      "surface": "על",
+      "gloss": "bahin sa"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonath"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehokim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "usa ka miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "sa pagdakop"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niya (ang mga Pilishteo)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pilishteo"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "sa Gat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:25.775463114Z",
+  "model": "glm-5.3"
+}

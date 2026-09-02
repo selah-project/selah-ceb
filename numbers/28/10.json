@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Olá sa Shabbat sa iyang Shabbat, ibabaw sa kanunay nga olá ug ang iyang nisek.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "olá"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sa Shabbat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "sa iyang Shabbat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olá"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "kanunay"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "ug ang iyang nisek"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:02.406477989Z",
+  "model": "glm-5.3"
+}

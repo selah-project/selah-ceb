@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Pagbutang ⟨ug⟩ tawong dautan sa ibabaw kaniya, ug ang satanas mobarog sa iyang tuo nga kamot.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "pagbutang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw kaniya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tawong dautan"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ug ang satanas"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "mobarog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iyang tuo nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:22.951479335Z",
+  "model": "glm-5.3"
+}

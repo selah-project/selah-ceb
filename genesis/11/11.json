@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagkinabuhi si Shem pagkahuman sa pagkatunol niya ⟨את⟩ Arpakshad ug lima ka gatus ka tuig, ug natawo siyag mga anak nga lalaki ug mga anak nga babae.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ug nagkinabuhi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "si Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkahuman sa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "sa pagkatunol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo siyag"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ug mga anak nga babae"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:20.032706278Z",
+  "model": "glm-5.3"
+}

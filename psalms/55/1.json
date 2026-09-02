@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Sa panguna sa maggugubat ⟨sa⟩ mga instrumentong may hugot, usa ka maschkil (tulon-an) ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa panguna sa maggugubat"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sa mga instrumentong may hugot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maschkil (tulon-an)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:31.545227481Z",
+  "model": "glm-5.3"
+}

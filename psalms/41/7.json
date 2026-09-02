@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ug kon motabang ⟨siya⟩ ⟨aron⟩ tan-awon ako, bakak ang iyang sulti; ang iyang kasingkasing nagatigom ug pagkadautan ⟨alang sa iyang kaugalingon⟩; kon mogawas siya, sa gawas sultihan niya ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "motabang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron tan-awon"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ang sulti"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iyang kasingkasing"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "nagatigom"
+    },
+    {
+      "surface": "און",
+      "gloss": "pagkadautan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨alang sa iyang kaugalingon⟩"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "sa gawas"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sultihan niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:10.240332170Z",
+  "model": "glm-5.3"
+}

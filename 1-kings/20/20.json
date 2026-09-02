@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ang matag usa nagpatay sa ⟨kabig nga tawo⟩ niya; ug ang Aram milagus, ug ang Israel nanagbuntog kanila; ug si Ben-Hadad, hari sa Aram, nakalagiw sa ⟨ibabaw sa⟩ usa ka kabayo uban sa mga mangangabayo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "Ug ang matag usa nagpatay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "sa ⟨kabig nga tawo⟩ niya"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "milagus"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ang Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "nanagbuntog kanila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "nakalagiw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ⟨ibabaw sa⟩"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "usa ka kabayo"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "uban sa mga mangangabayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:31.559477967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Hinaot nga mawala ang mga makasasala gikan ⟨sa⟩ yuta, ug sa mga dautan wala na sila. Pagdayega, akong kalag, si ⟨את⟩ Yahweh; Pagdayeg kamo kang Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "hinaot nga mawala"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ang mga makasasala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨sa⟩ yuta"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ug sa mga dautan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na sila"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "pagdayega"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:00.575975335Z",
+  "model": "glm-5.3"
+}

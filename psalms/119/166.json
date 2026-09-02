@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Naghulat ako sa pagluwas gikan kanimo, Yahweh, ug gibuhat ko ang imong mga sugo.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "naghulat ako"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sa imong pagluwas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "ug ang imong mga sugo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gibuhat ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:55.609374916Z",
+  "model": "glm-5.3"
+}

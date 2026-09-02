@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang mga anak ni Yavan: Elishah, ug Tarshish, ang mga Kitim, ug ang mga Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ug Tarshish"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ang mga Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ug ang mga Dodanim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:04.307176916Z",
+  "model": "glm-5.3"
+}

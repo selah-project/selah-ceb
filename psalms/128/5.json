@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 128,
+  "translation": "Mobendisyon kanimo si Yahweh gikan sa Tsiyon, ug makita nimo ang kaayohan sa Yerushalayim sa tanan nga adlaw sa imong kinabuhi.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Mobendisyon kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ug makita nimo"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ang kaayohan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "sa imong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:34.595416683Z",
+  "model": "glm-5.3"
+}

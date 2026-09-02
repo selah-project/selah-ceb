@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ salog sa balay gisapinan niya ug bulawan, didto sa sulod ⟨ug⟩ sa gawas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "salog"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "salog"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "gisapinan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "sa gawas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:47.966425168Z",
+  "model": "glm-5.3"
+}

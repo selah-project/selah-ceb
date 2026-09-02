@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Lantawa ang Yahweh ug bag-ong awit; lantawa ang Yahweh, tibouk ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "lantawa ang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "lantawa ang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibouk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:58.720008882Z",
+  "model": "glm-5.3"
+}

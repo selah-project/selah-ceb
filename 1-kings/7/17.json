@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 7:17",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Mga pukot, buhat sa pukot, ug mga festoon, buhat sa mga kadena, alang sa mga kapitel nga anaa sa ulo sa mga haligi — pito alang sa usa ka kapitel, ug pito alang sa ikaduhang kapitel.",
+  "tokens": [
+    {
+      "surface": "שבכים",
+      "gloss": "mga pukot"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "pukot"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mga festoon"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "שרשרות",
+      "gloss": "mga kadena"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "alang sa mga kapitel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "alang sa kapitel"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ug pito"
+    },
+    {
+      "surface": "לכתרת",
+      "gloss": "alang sa kapitel"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ang ikaduha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:19.452806872Z",
+  "model": "glm-5.3"
+}

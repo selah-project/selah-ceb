@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 45:20",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Sa pagkatinuod, ingon usab niana buhaton nimo sa pito ka adlaw sa bulan alang sa matag tawo nga nasayop ug alang kanang nawong nga sayop; ingon niana magahimo kamo ug atonar alang sa tempyo.",
+  "tokens": [
+    {
+      "surface": "וְכֵן",
+      "gloss": "ug ingon niana"
+    },
+    {
+      "surface": "תַּעֲשֶׂה",
+      "gloss": "buhaton nimo"
+    },
+    {
+      "surface": "בְּשִׁבְעָה",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "בַּחֹדֶשׁ",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "מֵאִישׁ",
+      "gloss": "alang sa tawo"
+    },
+    {
+      "surface": "שֹׁגֶה",
+      "gloss": "nga nasayop"
+    },
+    {
+      "surface": "וּמִפֶּתִי",
+      "gloss": "ug alang sa yano nga tawo"
+    },
+    {
+      "surface": "וְכִפַּרְתֶּם",
+      "gloss": "ug magahamo kamo ug atonar"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tempyo"
+    },
+    {
+      "surface": "הַבָּיִת",
+      "gloss": "ang tempyo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:47.850191266Z",
+  "model": "glm-5.3"
+}

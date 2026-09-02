@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 2:22",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Aron pagsulay nila ⟨את⟩ Israel, kon nagabantay sila sa dalan ni Yahweh sa paglakat niini, ingon nga gibantayan sa ilang mga amahan, ⟨o dili⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "pagsulay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "kon nagabantay sila"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "niini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gibantayan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:19.539607349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sama sa gikuha gikan sa baka sa halad sa mga panaghiusa, ug pahimuslon sa aso sa kohan sa ibabaw sa halaran sa halad nga sinunog.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sama sa"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "משור",
+      "gloss": "gikan sa baka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sa halad"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa mga panaghiusa"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "ug pahimuslon sa aso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa halad nga sinunog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:07.865629405Z",
+  "model": "glm-5.3"
+}

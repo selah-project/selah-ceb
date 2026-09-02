@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang imong nawong pagpasiga ibabaw sa imong sulugoon, ug tudloi ako ⟨את⟩ sa imong mga batas.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "האר",
+      "gloss": "pagpasiga"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ibabaw sa imong sulugoon"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ug tudloi ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong mga batas"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga batas"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:08.712117755Z",
+  "model": "glm-5.3"
+}

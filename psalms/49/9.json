@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ug mahal gayod ang pagpangita-ugsang sa ilang kalag, ug ⟨mohunong⟩ kini hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ug mahal gayod"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ang pagpangita-ugsang"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sa ilang kalag"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ug mohunong"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:59.450686708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 24:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug miingon si Yahweh ⟨kaniako⟩: Unsa ang imong nakita, Yirmeyahu? Ug ako miingon: Mga igos; ang mga igos nga maayo, maayo kaayo, ug ang mga daotan, daotan kaayo, nga dili makakaon tungod sa ka-daotan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨kaniako⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "imo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Ug ako miingon"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "Mga igos"
+    },
+    {
+      "surface": "התאנים",
+      "gloss": "ang mga igos"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "ug ang mga daotan"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "makakaon"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "tungod sa ka-daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:23:03.213003238Z",
+  "model": "glm-5.3"
+}

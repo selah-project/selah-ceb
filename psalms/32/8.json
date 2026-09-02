@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Pamaesian tika sa kaalam ug tudloan tika sa dalan nga atubanganon nimo; maghatag ako ug tambag kanimo nga ang akong mata ⟨nahisulod⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "pamaesian tika sa kaalam"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "ug tudloan tika"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "atubanganon nimo"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "maghatag ako ug tambag"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:09.721958207Z",
+  "model": "glm-5.3"
+}

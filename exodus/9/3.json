@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ania karon, ang kamot ni Yahweh ⟨mahitabo⟩ diha sa imong mga kahayop nga anaa sa kapatagan — sa mga kabayo, sa mga ibabaw, sa mga kamelyo, sa mga baka, ug sa mga karnero — ⟨dadlon sa⟩ peste nga bug-at kaayo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "⟨mahitabo⟩"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "diha sa imong mga kahayop"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "anaa sa kapatagan"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "sa mga ibabaw"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "sa mga kamelyo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa mga baka"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "ug sa mga karnero"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "peste"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:32.957290640Z",
+  "model": "glm-5.3"
+}

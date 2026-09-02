@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Ingon sa atong pagkadungog, mao usab kini sa atong pagkakita, sa ⟨ang⟩ dakbayan ni Yahweh Tsevaot, sa ⟨ang⟩ dakbayan sa atong Elohim — Elohim magatukod niini hangtod sa kahangturan. Selah.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "atong pagkadungog"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab kini"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "atong pagkakita"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ⟨ang⟩ dakbayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ⟨ang⟩ dakbayan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "magatukod niini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangturan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:57.524249968Z",
+  "model": "glm-5.3"
+}

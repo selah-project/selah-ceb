@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Raguza ⟨kamo⟩ ug ayaw pagpakasala; ingna ninyo sa inyong kasingkasing didto sa inyong higaanan ug paghilum kamo. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Raguza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "pagpakasala"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ingna ninyo"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sa inyong kasingkasing"
+    },
+    {
+      "surface": "על",
+      "gloss": "didto sa"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "inyong higaanan"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ug paghilum kamo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:29.029346122Z",
+  "model": "glm-5.3"
+}

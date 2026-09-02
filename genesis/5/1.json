@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kini ang libro sa kaliwatan ni Adam; sa adlaw nga gibuhat ni Elohim ⟨ang⟩ tawo, sa dagway sa Elohim gibuhat niya ⟨את⟩ kaniya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨ang⟩ tawo"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "sa dagway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:44.892359517Z",
+  "model": "glm-5.3"
+}

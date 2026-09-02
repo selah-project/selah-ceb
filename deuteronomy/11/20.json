@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug isulat nimo sila ⟨sila⟩ sa mga haligi sa pultahan sa imong balay ug sa imong mga ganghaan.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Ug isulat nimo sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga haligi sa pultahan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ug sa imong mga ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:52.420449936Z",
+  "model": "glm-5.3"
+}

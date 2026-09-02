@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Kay ang imong mga sulugoon nakagustohan ⟨את⟩ ang mga bato niini, ug ⟨את⟩ ang abog niini ilang kalooyan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "nakagustohan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ang imong mga sulugoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato niini"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ang mga bato niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang abog niini"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ang abog niini"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ilang kalooyan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:57.719569865Z",
+  "model": "glm-5.3"
+}

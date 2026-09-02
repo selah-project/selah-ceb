@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug gihalokan ni Yaakov si Rachel, ug gipatunaw niya ⟨את⟩ ang iyang tingog, ug naghilak siya.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "gihalokan ni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "si Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "gipatunaw niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang tingog"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ang iyang tingog"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "naghilak siya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:23.063209683Z",
+  "model": "glm-5.3"
+}

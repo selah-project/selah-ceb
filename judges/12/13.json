@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug human kaniya naghukom ⟨את⟩ sa Yisrael si Avdon nga anak ni Hillel, ang Piratonnon.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "naghukom"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "human kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "ang Piratonnon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:09:03.984615980Z",
+  "model": "glm-5.3"
+}

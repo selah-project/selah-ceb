@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Ang akong kalag ⟨nasulod⟩ sa taliwala sa mga leon; naghigda ako uban sa mga nagadilaab — ⟨mga⟩ anak sa tawo, nga ang ilang ngipon sibat ug mga pana, ug ang ilang dila ⟨mao ang⟩ mapintas nga espada.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "mga leon"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "naghigda ako"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "mga nagadilaab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang ilang ngipon"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sibat"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "ug mga pana"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ug ang ilang dila"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "mapintas"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:14.078119361Z",
+  "model": "glm-5.3"
+}

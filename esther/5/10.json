@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Apan gipugngan ni Haman ang iyang kaugalingon, ug miadto siya sa iyang balay; ug gipadala niya ug gitawag ⟨את⟩ ang iyang mga higala ug ⟨את⟩ si Zeresh nga iyang asawa.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "gipugngan ang iyang kaugalingon"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ug miadto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug gitawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga higala"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ang iyang mga higala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "si Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:41.141926044Z",
+  "model": "glm-5.3"
+}

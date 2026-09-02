@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Sugo-a ang imong kahayag ug ang imong katINUOD — sila magatultol kanako, magadala kanako ngadto sa ⟨imong⟩ balaang bukid ug ngadto sa imong mga puloy-anan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Sugo-a"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ang imong kahayag"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ug ang imong katINUOD"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "magatultol kanako"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "magadala kanako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "⟨imong⟩ balaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "sa imong mga puloy-anan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:18.103353190Z",
+  "model": "glm-5.3"
+}

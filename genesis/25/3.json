@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug si Yokshan natawan ⟨את⟩ si Sheva ug ⟨את⟩ si Dedan; ug ang mga anak ni Dedan ⟨mga⟩ Ashurim, ug Letushim, ug Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Ug si Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "si Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "si Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ni Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mga"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "ug Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ug Leummim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:43.787772394Z",
+  "model": "glm-5.3"
+}

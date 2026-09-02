@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Pagbuhat alang kanimo og saranggola kahoy sa goper; mga kinalarayan imong buhaton ⟨את⟩ ang arka, ug imong taptan kini ⟨את⟩ ⟨gikan⟩ sulod ug ⟨gikan⟩ gawas ug bitumen.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "og arka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "sa goper"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mga kinalarayan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang arka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ang arka"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ug imong taptan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨gikan⟩ sulod"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "ug ⟨gikan⟩ gawas"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "ug bitumen"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:00.903796834Z",
+  "model": "glm-5.3"
+}

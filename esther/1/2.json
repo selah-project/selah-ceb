@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "sa mga adlaw nga kadtoa, samtang naglingkod ang hari nga si Achashverosh sa trono sa iyang gingharian, nga anaa sa Shushan ⟨ang⟩ kuta —",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nga kadtoa"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "samtang naglingkod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "si Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sa iyang gingharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga anaa sa"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨ang⟩ kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:58.059571340Z",
+  "model": "glm-5.3"
+}

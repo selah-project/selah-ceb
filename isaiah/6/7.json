@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gihikap niya ang akong baba ug miingon: Tan-awa, kini nakahikap sa imong mga ngabil, ug napunya ang imong kadaotan, ug ang imong sala mapanalipdan ⟨na⟩.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "ug gihikap niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akong baba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nakahikap"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "imong mga ngabil"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ug napunga"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "imong kadaotan"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "ug imong sala"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "mapanalipdan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:33.503864673Z",
+  "model": "glm-5.3"
+}

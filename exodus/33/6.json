@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Busa gikuha sa mga anak ni Yisrael ⟨את⟩ ang ilang mga adornomento gikan sa bukid sa Chorev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "Busa gikuha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga adornomento"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mga adornomento"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gikan sa bukid"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chorev"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:06.571028035Z",
+  "model": "glm-5.3"
+}

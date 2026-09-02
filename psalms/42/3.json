@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Giuhawan ang akong kalag alang sa Elohim, alang sa El nga buhi — kanus-a ako moanhi ug makakita sa dagway ni Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Giuhawan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "alang sa Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "alang sa El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ako moanhi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ug makakita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa dagway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:28.672771675Z",
+  "model": "glm-5.3"
+}

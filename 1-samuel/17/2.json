@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Si Shaul ug ang mga tawo sa Yisrael gitipon, ug nagkampo sila sa walog ha-Elah, ug naghan-ay sila sa pakiggubat pag-atubang sa mga Pelishtey.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "gitipon"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo sila"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ha-Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "naghan-ay sila"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa pakiggubat"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "pag-atubang"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishtey"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:13.093407283Z",
+  "model": "glm-5.3"
+}

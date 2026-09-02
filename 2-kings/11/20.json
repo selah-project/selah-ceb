@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug naghinapos ang tibuok katawhan sa yuta, ug ang dakbahan nahimutad, ug ⟨את⟩ si Atalya gigamatay nila sa pinuti sa balay sa hari.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "naghinapos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ug ang dakbahan"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nahimutad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Atalya"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "si Atalya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "gigamatay nila"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa pinuti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:24.078411323Z",
+  "model": "glm-5.3"
+}

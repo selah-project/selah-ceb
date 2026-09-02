@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Nahitabo, sa pagkadungog ni Baasha, gipahunong niya ang pagpatayo ⟨sa⟩ Rama ug mipuyo siya sa Tirtza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sa pagkadungog"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "gipahunong niya"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ang pagpatayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug mipuyo siya"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "sa Tirtza"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:13.811337787Z",
+  "model": "glm-5.3"
+}

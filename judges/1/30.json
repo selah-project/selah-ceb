@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Si Zevulun wala magpagawas ⟨sa⟩ ⟨את⟩ ang mga pumoluyo sa Kitron ug ⟨sa⟩ ⟨את⟩ ang mga pumoluyo sa Nahalol, ug ang Kanaanhon nagpuyo sa taliwala niya, ug sila nahimong mga tribute.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Si Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "magpagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "sa Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ang mga pumoluyo"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "sa Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanhon"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa taliwala niya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug sila nahimo"
+    },
+    {
+      "surface": "למס",
+      "gloss": "nga mga tribute"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:11.313278673Z",
+  "model": "glm-5.3"
+}

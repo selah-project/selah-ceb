@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Malipayon ang tawo nga imong gintulonan, Yah, ug gitudloan gikan sa imong Tora",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "imong gintulonan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ug gikan sa imong Tora"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "gitudloan siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.727466869Z",
+  "model": "glm-5.3"
+}

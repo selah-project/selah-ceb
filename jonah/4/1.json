@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug kini dakong kadaot ang nahitabo kang Yonah, ug nasuko siya ⟨sa iyang kaugalingon⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "nahitabo nga kadaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "nasuko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sa iyang kaugalingon⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:37.537757684Z",
+  "model": "glm-5.3"
+}

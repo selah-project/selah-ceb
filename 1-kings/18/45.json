@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nahitabo, hangtod ⟨sa⟩ ingon niini ug hangtod ⟨sa⟩ ingon niini, ug ang langit ngitngitan ⟨sa⟩ mga panganod ug hangin, ug may dako nga ulan; ug nagsakay si Ahab ug miadto sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "ug ang langit"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "ngitngitan"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "mga panganod"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug hangin"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug may"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "nagsakay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug miadto"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "sa Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:31.158730584Z",
+  "model": "glm-5.3"
+}

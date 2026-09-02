@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Mahuyang ang tanang ⟨mga⟩ kamot, ug ingon sa tubig mohiwa ang tanang ⟨mga⟩ tuhod.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "mahuyang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tanang"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "mga tuhod"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "mohiwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T21:34:01.743566141Z",
+  "model": "glm-5.3"
+}

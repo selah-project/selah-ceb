@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Sa mga buntag ako magapapahunong sa tanang mga daotan sa yuta, sa pagputol gikan sa dakbayan ni Yahweh sa tanang mga mangbubuhat sa kadaotan.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "sa mga buntag"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ako magapapahunong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "sa pagputol"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "gikan sa dakbayan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga mangbubuhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:47.235996891Z",
+  "model": "glm-5.3"
+}

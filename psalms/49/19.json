@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Kay ang iyang nefesh iyang gibulahan samtang buhi pa; ug ⟨sultihan⟩ ka sa mga tawo kay nagpakaayo ka sa imong kaugalingon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iyang nefesh"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "samtang buhi pa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "gibulahan"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ug ⟨sultihan⟩ ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "nagpakaayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa imong kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:00.347655073Z",
+  "model": "glm-5.3"
+}

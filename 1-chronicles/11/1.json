@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagtigom ang tibuok Israel ngadto kang David sa Hevron, nga nag-ingon: Ania kami, imong bukog ug imong unod kami.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ug nagtigom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "sa Hevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "imong bukog"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ug imong unod"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:59.537195774Z",
+  "model": "glm-5.3"
+}

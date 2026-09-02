@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nahurot na ang akong kalag nga naghulat sa imong kaluwasan; sa imong pulong ako naglaom.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "nahurot na"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "sa imong kaluwasan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "sa imong pulong"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ako naglaom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:05.188487010Z",
+  "model": "glm-5.3"
+}

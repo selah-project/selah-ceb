@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 14:4",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug miingon ang babaye gikan sa Tekoa ngadto sa hari, ug natumba siya sa iyang nawong ngadto sa yuta ug miyalangoy, ug miingon: Luwasa, O hari.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babaye"
+    },
+    {
+      "surface": "התקעית",
+      "gloss": "gikan sa Tekoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ug natumba siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפיה",
+      "gloss": "iyang nawong"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ug miyalangoy"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "הושעה",
+      "gloss": "Luwasa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "O hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:40.019162533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ⟨sila⟩ nga mokaon sa unod sa akong katawhan, ug ilang gikuha ang ilang panit gikan kanila, gipunit nila ⟨את⟩ ang ilang mga bukog, ug gibuti-buti sila ingon sa ⟨pagbutang⟩ sa kalaha, ug ingon sa karne sulod sa dagkoong kolon.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ug ⟨sila⟩ nga"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sa unod"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "ug ang ilang panit"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "gikuha nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga bukog"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ang ilang mga bukog"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "gipunit nila"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ug gibuti-buti sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "sa kalaha"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "ug ingon sa karne"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sulod"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "sa dagkoong kolon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:51.732657554Z",
+  "model": "glm-5.3"
+}

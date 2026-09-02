@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Matumbahan ang usa ka libo sa imong kilid, ug napulo ka libo sa imong tuong kamot; ⟨apan⟩ kanimo dili kini moduol.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "matumbahan"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "sa imong kilid"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ang usa ka libo"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "ug napulo ka libo"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "sa imong tuong kamot"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "kini moduol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.010900848Z",
+  "model": "glm-5.3"
+}

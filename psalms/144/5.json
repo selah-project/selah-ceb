@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Yahweh, iduol ang imong mga langit ug ⟨ikaw⟩ manaog; hikapi ang mga bukid ug mouli sila og aso.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "iduol"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ang imong mga langit"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ug ⟨ikaw⟩ manaog"
+    },
+    {
+      "surface": "גע",
+      "gloss": "hikapi"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ug mouli sila og aso"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.641545828Z",
+  "model": "glm-5.3"
+}

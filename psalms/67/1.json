@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "Alang sa magdumala sa mga instrumentong de-kwerdas; usa ka mizmór, usa ka awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa magdumala"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sa mga instrumentong de-kwerdas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmór"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "usa ka awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.805148983Z",
+  "model": "glm-5.3"
+}

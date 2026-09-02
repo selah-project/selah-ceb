@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gitawag ni Eli ⟨את⟩ si Shemuel, ug miingon: Shemuel, akong anak. Ug miingon siya: Ania ako.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Gitawag ni Eli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨si Eli⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania ako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:03.134158386Z",
+  "model": "glm-5.3"
+}

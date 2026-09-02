@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 82,
+  "translation": "Tumindog ka, O Elohim, pagahukman ⟨ang⟩ yuta, kay ikaw ang mopanunod sa tanan nga mga nasud.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "pagahukman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ang mopanunod"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga nasud"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.836787757Z",
+  "model": "glm-5.3"
+}

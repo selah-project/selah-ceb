@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "UG nadungog ni Moshe ⟨את⟩ ang katawhan nga nagtuho, matag pamilya — ang matag tawo diha sa ganghaan sa iyang tolda; ug ang nasubo kaayo ang batasan ni Yahweh, ug sa mga mata ni Moshe kini daotan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nadungog ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nagtuho"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "matag pamilya niya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "diha sa ganghaan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sa iyang tolda"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ug nasubo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang batasan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ug sa mga mata ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:23.405208502Z",
+  "model": "glm-5.3"
+}

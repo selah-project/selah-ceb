@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Ang akong dili-pa-mabuhat nga porma nakita sa imong mga mata, ug sa imong libro silang tanan gisulat — ang mga adlaw nga gimoldahi ⟨sa pagkabuhi⟩, ug wala pay bisan usa kanila.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ang akong dili-pa-mabuhat nga porma"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "imong libro"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang tanan"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "gisulat"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "gimoldahi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala pay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bisan usa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.030961752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Apan alang niini gipatindog ko ikaw, aron ipakita kanimo ⟨את⟩ ang akong gahum, ug aron isulti ang akong Ngalan sa tibook nga yuta.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "alang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "gipatindog ko ikaw"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "aron"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ipakita kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong gahum"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akong gahum"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ug aron"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akong Ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibook"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:45.877566884Z",
+  "model": "glm-5.3"
+}

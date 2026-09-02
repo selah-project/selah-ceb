@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 82,
+  "translation": "Wala sila makaila ug wala sila makasabut; sa kangitngit sila naghimatong; manggurogay ⟨ang⟩ tanan nga mga pundasyon sa yuta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sila makaila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "sila makasabut"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "sila naghimatong"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "manggurogay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "mga pundasyon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.836235546Z",
+  "model": "glm-5.3"
+}

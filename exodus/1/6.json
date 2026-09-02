@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Namatay si Yosef, ug ang tanan niyang mga igsoon, ug ang tibuok ⟨nga⟩ henerasyon niana ⟨nga panahona⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "niyang mga igsoon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "niana"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:08.897104892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Nakita ni David nga naggawas si Shaul sa pagpangita ⟨את⟩ sa iyang kinabuhi; ug si David ⟨aadto⟩ sa kamingawan sa Zif, sa Khorshah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "naggawas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang kinabuhi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang kinabuhi"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "sa Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "sa Khorshah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:13.328470844Z",
+  "model": "glm-5.3"
+}

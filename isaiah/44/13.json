@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 44:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ang mamumuo sa kahoy nagbugtas ug linya, gikutlo niya ⟨kini⟩ uban sa panitik, gihimo niya ⟨kini⟩ uban sa mga sinuslag, ug uban sa kompas gikutlo niya ⟨kini⟩; ug gihimo niya ⟨kini⟩ nga ingon sa hulagway sa usa ka tawo, ingon sa kaanyag sa tawo, aron magpabilin sa ⟨balay⟩.",
+  "tokens": [
+    {
+      "surface": "חרש",
+      "gloss": "mamumuo"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "nagbugtas"
+    },
+    {
+      "surface": "קו",
+      "gloss": "linya"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "gikutlo niya kini"
+    },
+    {
+      "surface": "בשרד",
+      "gloss": "uban sa panitik"
+    },
+    {
+      "surface": "יעשהו",
+      "gloss": "gihimo niya kini"
+    },
+    {
+      "surface": "במקצעות",
+      "gloss": "uban sa mga sinuslag"
+    },
+    {
+      "surface": "ובמחוגה",
+      "gloss": "ug uban sa kompas"
+    },
+    {
+      "surface": "יתארהו",
+      "gloss": "gikutlo niya kini"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ug gihimo niya kini"
+    },
+    {
+      "surface": "כתבנית",
+      "gloss": "ingon sa hulagway"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "כתפארת",
+      "gloss": "ingon sa kaanyag"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aron magpabilin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:00.521269994Z",
+  "model": "glm-5.3"
+}

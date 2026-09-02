@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Kay wala sila magbati sa mga buhat ni Yahweh ni sa buhat sa iyang mga kamot — pagalaglagon niya sila ug dili na sila itukod pagbalik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nagbati (sa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iyang mga kamot"
+    },
+    {
+      "surface": "ייהרסם",
+      "gloss": "pagalaglagon niya sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "sila itukod pagbalik"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:35.458306135Z",
+  "model": "glm-5.3"
+}

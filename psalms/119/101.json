@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gikan sa tanan nga dalan sa kadaot gipugngan ko ang akong mga tiil, aron sa pagbantay ko sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Gikan sa tanan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "gipugngan ko"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong mga tiil"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "sa pagbantay ko"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:41.538536855Z",
+  "model": "glm-5.3"
+}

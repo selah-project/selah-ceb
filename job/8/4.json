@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kon nakasala ba ang imong mga anak ⟨kaniya⟩, ug gipahunong niya sila tungod sa ilang pagpasagad?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang imong mga anak"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nakasala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ug gipahunong niya sila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sa ilang pagpasagad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:57.537126858Z",
+  "model": "glm-5.3"
+}

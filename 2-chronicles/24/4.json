@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug nahitabo human niini, naa sa kasingkasing ni Yoash ang pagbag-o ⟨את⟩ sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ni Yoash"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ang pagbag-o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:42.415268693Z",
+  "model": "glm-5.3"
+}

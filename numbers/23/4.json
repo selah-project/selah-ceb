@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug moagi ang Elohim kang Bilam, ug miingon ⟨siya⟩ kaniya: ⟨את⟩ ang pito ka mga halaran gihan-ay ko, ug gisaka ko ang usa ka baka ug usa ka karnero sa ⟨matag⟩ halaran.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "ug moagi ang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pito ka mga halaran"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mga halaran"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "gihan-ay ko"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ug gisaka ko"
+    },
+    {
+      "surface": "פר",
+      "gloss": "usa ka baka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ug usa ka karnero"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:00.704526963Z",
+  "model": "glm-5.3"
+}

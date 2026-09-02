@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Dili ⟨kanamo⟩, Yahweh, dili ⟨kanamo⟩, kondili sa imong ngalan ihatag ang himaya, tungod sa imong hesed, tungod sa imong kamatuoran.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨kanamo⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨kanamo⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "imong kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:36.179223730Z",
+  "model": "glm-5.3"
+}

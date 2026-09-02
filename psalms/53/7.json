@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Sana nga magikan gikan sa Tsiyon ang kaluwasan sa Israel! Kon ibalik ni Elohim ang pagkabihag sa iyang katawhan, magakalipay si Yaakov, magmalipayon ang Israel.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Sana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "ang kaluwasan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Kon ibalik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sa iyang katawhan"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:32.613931215Z",
+  "model": "glm-5.3"
+}

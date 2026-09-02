@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ⟨את⟩ ang mga nagapanimahan sa mga atop sa atubangan sa panon sa langit, ug ⟨את⟩ ang mga nagapanimahan nga nanumpa kang Yahweh ug nanumpa usab kang Malkam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang mga nagapanimahan sa mga atop"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ang mga nagapanimahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "mga atop"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sa panon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nagapanimahan nga nanumpa"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "ang mga nagapanimahan"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "nga nanumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ug nanumpa usab"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "kang Malkam"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:57.514521350Z",
+  "model": "glm-5.3"
+}

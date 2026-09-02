@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Hinumdomi, Adonay, ang kaulawan sa imong mga sulugoon; gidala ko sa akong gakos ⟨ang kaulawan⟩ sa tanan nga daghang mga katawhan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ang kaulawan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "sa imong mga sulugoon"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "gidala ko"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sa akong gakos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:50.928112791Z",
+  "model": "glm-5.3"
+}

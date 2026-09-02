@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Ang akong pagpanaw imong giihap; ikaw, butanga ang akong mga luha sa imong botelya; dili ba ⟨ sila anaa ⟩ sa imong libro?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ang akong pagpanaw"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "imong giihap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "butanga"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "ang akong mga luha"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "sa imong botelya"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "sa imong libro"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:02.389114618Z",
+  "model": "glm-5.3"
+}

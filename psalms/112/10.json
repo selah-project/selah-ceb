@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Ang temad mamatikdi ug masuko; ang iyang ngipon pagatiktikon niya ug matunaw; ang gitinguha sa mga temad mapunaw.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "ang temad"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mamatikdi"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ug masuko"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ang iyang ngipon"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "pagatiktikon niya"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ug matunaw"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ang gitinguha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga temad"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mapunaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:53.946466492Z",
+  "model": "glm-5.3"
+}

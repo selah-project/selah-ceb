@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang mga hesed ni Yahweh — kay wala kami naguba, kay wala matapos ang iyang mga kaluoy.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ang mga hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "kami naguba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "matapos"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ang iyang mga kaluoy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:49:06.636663108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Butangi, Yahweh, ug bantay sa akong baba; bantayi ang pultahan sa akong mga ngabil.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Butangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ug bantay"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa akong baba"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ang"
+    },
+    {
+      "surface": "דל",
+      "gloss": "pultahan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sa akong mga ngabil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:25.135315744Z",
+  "model": "glm-5.3"
+}

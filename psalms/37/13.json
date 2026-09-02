@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Si Adonay mokatawa kaniya, kay nakita niya nga moabot ang iyang adlaw.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "mokatawa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ang iyang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.548263946Z",
+  "model": "glm-5.3"
+}

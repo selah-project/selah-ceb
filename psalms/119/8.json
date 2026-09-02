@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "⟨את⟩ Ang imong mga statuto atimanon ko; ayaw ako biyaa hangtod sa kinatibuk-an.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ang imong mga statuto"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imong mga statuto"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "atimanon ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "biyaa ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kinatibuk-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.629278763Z",
+  "model": "glm-5.3"
+}

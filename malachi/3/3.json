@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 3:3",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug molingkod ⟨siya⟩ ingon nga nagdadaginot ug magpahanaw ⟨sa⟩ plata, ug magpahanaw ⟨siya⟩ ⟨את⟩ sa mga anak ni Levi, ug magdadaginot ⟨את⟩ ⟨kanila⟩ ingon nga bulawan ug ingon nga plata, ug mahimong mga magtanyag alang kang Yahweh ug halad sa pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ug molingkod"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "nagdadaginot"
+    },
+    {
+      "surface": "ומטהר",
+      "gloss": "ug magpahanaw"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ug magpahanaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "וזקק",
+      "gloss": "ug magdadaginot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨kanila⟩"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "ingon nga bulawan"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "ug ingon nga plata"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "מגישי",
+      "gloss": "mga magtanyag"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "halad"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "sa pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:43.164902278Z",
+  "model": "glm-5.3"
+}

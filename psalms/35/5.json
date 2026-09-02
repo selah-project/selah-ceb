@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Himoon sila nga ⟨mga⟩ sama sa hambug atubangan sa hangin, ug ang mensaheiro ni Yahweh mopalayo ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Himoon sila"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "sama sa hambug"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan sa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ug ang mensaheiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "mopalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.285731822Z",
+  "model": "glm-5.3"
+}

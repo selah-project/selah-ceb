@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 37:38",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Apan ang mga manlapas pagagun-obon nga magkahiusa; ang kataposan sa mga dautan maputol.",
+  "tokens": [
+    {
+      "surface": "ופשעים",
+      "gloss": "Apan ang mga manlapas"
+    },
+    {
+      "surface": "נשמדו",
+      "gloss": "pagagun-obon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga magkahiusa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang kataposan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "maputol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:42.040237624Z",
+  "model": "glm-5.3"
+}

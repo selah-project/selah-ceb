@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang ilang tambok gisirhan ⟨na⟩; ang ilang baba nagsulti uban sa kahambugan.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ila tambok"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "gisirhan"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ila baba"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "uban sa kahambugan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:51.505479582Z",
+  "model": "glm-5.3"
+}

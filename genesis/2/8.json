@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gintanom ni Yahweh Elohim ang usa ka tanaman sa Eden, sa sidlakan, ug didto gibutang niya ⟨את⟩ ang tawo nga iyang gimol.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "ug gintanom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "ang tanaman"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "iyang gimol"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:17.019271090Z",
+  "model": "glm-5.3"
+}

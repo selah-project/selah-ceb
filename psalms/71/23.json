@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Magsinggit ⟨sa kalipay⟩ ang akong mga ngabil, kay magakanta ako kanimo, ug ang akong kalag, nga imong gipalit-pagawas.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "magsinggit"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akong mga ngabil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magakanta ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ug ang akong kalag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "imong gipalit-pagawas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:47.544840249Z",
+  "model": "glm-5.3"
+}

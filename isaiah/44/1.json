@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug karon, pamati, O Yaakov nga akong sulugoon, ug Yisrael, nga akong gipilian ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pamati"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akong sulugoon"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ug Yisrael"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akong gipilian"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:35.133037431Z",
+  "model": "glm-5.3"
+}

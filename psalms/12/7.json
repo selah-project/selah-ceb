@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang mga pulong ni Yahweh — mga pulong nga hinlo, ingon nga plata nga tinunaw sa sahing ⟨sa⟩ yuta, gimabad-badan pito ka higayon.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "nga hinlo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "nga tinunaw"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "sa sahing"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨sa⟩ yuta"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "gimabad-badan"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito ka higayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:12.665568079Z",
+  "model": "glm-5.3"
+}

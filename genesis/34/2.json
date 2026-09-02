@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug nakit-an ni Shekhem ⟨את⟩ ⟨siya⟩, anak ni Hamor ang Hiwita, prinsipe sa yuta; ug gikuha niya ⟨את⟩ ⟨siya⟩, ug gintugyan niya siya ⟨את⟩, ug gipaubos niya siya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ug nakit-an niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Dina)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "si Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ni Hamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Hiwita"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "prinsipe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Dina)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ug gintugyan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si Dina)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ug gipaubos niya siya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:36.867629610Z",
+  "model": "glm-5.3"
+}

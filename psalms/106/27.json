@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "ug sa pagpatibhang sa ilang kaliwat taliwala sa mga nasod, ug sa pagwatwag kanila sa mga yuta.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "ug sa pagpatibhang"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "sa ilang kaliwat"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "taliwala sa mga nasod"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "ug sa pagwatwag kanila"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:48.126960574Z",
+  "model": "glm-5.3"
+}

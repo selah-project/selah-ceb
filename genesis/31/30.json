@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug karon, sa pagpanaw nimo ⟨sa pagpanaw⟩ nagpanaw ka, kay nagpaningkamot ka pagpaningkamot sa balay sa imong amahan; ngano nga imong gikawat ⟨את⟩ ang akong mga elohim?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sa pagpanaw"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "nagpanaw ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "նכסף",
+      "gloss": "nagpaningkamot"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "ka pagpaningkamot"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "imong gikawat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang akong mga elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:38.511467167Z",
+  "model": "glm-5.3"
+}

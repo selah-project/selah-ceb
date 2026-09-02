@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug kini ang mga ngalan sa mga pangulo ni Esav sumala sa ilang mga banay, sa ilang mga dapit, uban sa ilang mga ngalan: pangulo Timna, pangulo Alva, pangulo Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini ang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "sa mga pangulo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "sa ilang mga dapit"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "uban sa ilang mga ngalan"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:58.663334156Z",
+  "model": "glm-5.3"
+}

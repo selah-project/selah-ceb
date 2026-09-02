@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug gidala ang sulat ngadto sa hari sa Yisrael, nga nagaingon: Ug karon, sa pag-abot niining sulata ngari kanimo, ania kini, gipadala ko kanimo ⟨את⟩ si Naaman nga akong sulugoon, ug imo siya tambalan sa iyang sanipala.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ug gidala"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang sulat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "niining sulata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngari kanimo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "gipadala ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Naaman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "si Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga akong sulugoon"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "ug imo siya tambalan"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "sa iyang sanipala"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:58.822132872Z",
+  "model": "glm-5.3"
+}

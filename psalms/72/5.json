@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Hadlokan ka nila ⟨uban⟩ sa adlaw, ug ⟨atubang⟩ sa bulan, henerasyon sa mga henerasyon.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Hadlokan ka nila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨uban⟩"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ug ⟨atubang⟩"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "sa mga henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:02.579077948Z",
+  "model": "glm-5.3"
+}

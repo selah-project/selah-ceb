@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Uban sa hamets dili kini inluto; ang ilang bahin ⟨kini⟩ gihatag ko ⟨את⟩ niini gikan sa akong mga kalayong halad; balaan sa mga balaan ⟨kini⟩, sama sa halad sa sala ug sa halad sa sala-tuo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "inluto"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "uban sa hamets"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ang ilang bahin"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "gikan sa akong mga kalayong halad"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa mga balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "sama sa halad sa sala"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "ug sa halad sa sala-tuo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:32.282007261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Mga tolda sa Edom ug ⟨mga⟩ Ishmaelnon, Moab ug ⟨mga⟩ Hagari —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "mga tolda"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "ug mga Ishmaelnon"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "ug mga Hagari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:12.751790503Z",
+  "model": "glm-5.3"
+}

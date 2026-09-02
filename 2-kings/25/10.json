@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ⟨את⟩ ang mga paril sa Yerushalayim sa palibot gipangguba sa tibuok kusog sa mga Kasdishiano ⟨nga⟩ kauban ni Rab Tabakhim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "mga paril sa Yerushalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mga paril"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "gipangguba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "mga Kasdishiano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "Tabakhim"
+    }
+  ],
+  "timestamp": "2026-09-02T00:58:03.618631908Z",
+  "model": "glm-5.3"
+}

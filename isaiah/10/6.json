@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Batok sa nasod nga dili mahinlo sa relihiyon pagapadalaon ko siya, ug batok sa katawhan sa akong kaligutgut pagasultihan ko siya, sa pagpanghilabot ug hinamtang ug pagpangawat ug biya, ug sa paghimo niini nga tapakan, sama sa lapok sa mga kadalanan.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "batok sa nasod"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "nga dili mahinlo sa relihiyon"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "pagapadalaon ko siya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug batok sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "sa akong kaligutgut"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "pagasultihan ko siya"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "sa pagpanghilabot"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ug hinamtang"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "ug sa pagpangawat"
+    },
+    {
+      "surface": "בז",
+      "gloss": "ug biya"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "ug sa paghimo niini"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "nga tapakan"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "sama sa lapok"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "sa mga kadalanan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:26.114238223Z",
+  "model": "glm-5.3"
+}

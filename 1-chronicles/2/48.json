@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang pingkoles ni Kalev, si Maakha, natawan ⟨את⟩ kang Shever ug ⟨את⟩ kang Tirkhanah.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "Ang pingkoles"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "si Maakha"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawan (nanganak)"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kang Shever"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Tirkhanah"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "kang Tirkhanah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:40.195794980Z",
+  "model": "glm-5.3"
+}

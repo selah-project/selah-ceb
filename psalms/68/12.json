@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Si Adonay naghatag og pulong; daghang panon ang mga babaying nagmantala sa maong balita.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Si Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "og pulong"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ang mga babaying nagmantala"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:10.853781104Z",
+  "model": "glm-5.3"
+}

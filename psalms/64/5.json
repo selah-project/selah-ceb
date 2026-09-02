@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Sa pagpana diha sa mga tagong dapit sa ⟨mga⟩ hingpit; sa kalit ilang siya panahon ug wala sila mahadlok.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "sa pagpana"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "diha sa mga tagong dapit"
+    },
+    {
+      "surface": "תם",
+      "gloss": "sa ⟨mga⟩ hingpit"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sa kalit"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ilang siya panahon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "sila mahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:48.288467157Z",
+  "model": "glm-5.3"
+}

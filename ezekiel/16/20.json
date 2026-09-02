@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gikuha nimo ⟨את⟩ ang imong mga anak nga lalaki ug ⟨את⟩ ang imong mga anak nga babaye, nga imong gianak ngari kanako, ug gisakripisyo nimo sila alang kanila aron ilang kaonon — gamay ra ba ang imong panaplag?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "ug gikuha nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga anak nga lalaki"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga anak nga babaye"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "mga anak nga babaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "imong gianak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "ug gisakripisyo nimo sila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "aron ilang kaonon"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "gamay ra ba"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "ang imong panaplag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:36:40.865923873Z",
+  "model": "glm-5.3"
+}

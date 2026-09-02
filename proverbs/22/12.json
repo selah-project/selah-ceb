@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang mga mata ni Yahweh nagabantay sa kahibalo, apan ⟨siya⟩ nagpangilad sa mga pulong sa tigtulo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ang mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sa kahibalo"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "apan nagpangilad"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "sa tigtulo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:28.630113029Z",
+  "model": "glm-5.3"
+}

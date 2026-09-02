@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang ruah ni Yahweh nagbisikog ⟨את⟩ kang Gid'on, ug naghunghog siya sa shofar, ug gitawag ang Aviezer sa iyang luyo.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ug ang ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "nagbisikog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Gid'on"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gid'on"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "ug naghunghog siya"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ug gitawag"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ang Aviezer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sa iyang luyo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:47.712599107Z",
+  "model": "glm-5.3"
+}

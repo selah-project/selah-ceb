@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug si David matinud-anong magmalinawon sa tanan niyang mga dalan, ug si Yahweh ⟨kaaaron⟩ uban kaniya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug si David nangin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "niyang mga dalan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "matinud-anong magmalinawon"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:57.721845905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug miingon ang hari: Matay gayod ikaw, Akhimelekh, ikaw ug ang tibuok balay sa imong amahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Matay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "gayod ikaw"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Akhimelekh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:55.478378247Z",
+  "model": "glm-5.3"
+}

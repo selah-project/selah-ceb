@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 70,
+  "translation": "Mobalik sila ingon sa balus sa ilang ulaw, ang mga nagaingon: He-ah, he-ah.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mobalik sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "balus"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "sa ilang ulaw"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ang mga nagaingon"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:00.102843742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gibuhat niya ang daotan sa mga mata ni Yahweh, ingon sa gibuhat ni Menashsheh nga iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat niya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashsheh"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:02.846142555Z",
+  "model": "glm-5.3"
+}

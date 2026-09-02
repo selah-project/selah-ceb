@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug si David ⟨sa⟩ ⟨natawhan⟩ didto sa kuta, ug ang garison sa mga Pilishtihon ⟨sa⟩ ⟨natawhan⟩ didto sa Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ug si David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa natawhan"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "didto sa kuta"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "ug ang garison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pilishtihon"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sa natawhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:12.648761268Z",
+  "model": "glm-5.3"
+}

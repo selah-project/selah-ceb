@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Pagdayegon siya ⟨ang⟩ langit ug ⟨ang⟩ yuta, ⟨ang⟩ mga dagat ug ang tanan nga naglihok diha kanila.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "pagdayegon siya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug yuta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "naglihok"
+    },
+    {
+      "surface": "בם",
+      "gloss": "diha kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:10.700013958Z",
+  "model": "glm-5.3"
+}

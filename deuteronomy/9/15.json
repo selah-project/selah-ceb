@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug milingkot ako, ug nanaog ako gikan sa bukid, ug ang bukid nagadagonog sa kalayo, ug ang duha ka tabla sa pakigsaad anaa sa akong duha ka kamot.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ug milingkot ako"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ug nanaog ako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ug ang bukid"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nagadagonog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ug ang duha ka"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sa pakigsaad"
+    },
+    {
+      "surface": "על",
+      "gloss": "anaa sa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "akong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:39.128511433Z",
+  "model": "glm-5.3"
+}

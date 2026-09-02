@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": " ug buhaton ni Shmuel ⟨את⟩ sa gisulti ni Yahweh, ug miabot siya sa Beit Lechem, ug nagkurog ang mga tigulang sa ⟨ang⟩ dakbayan sa pagtagbo kaniya, ug miingon ⟨siya⟩: Sa kalig-onon ba ang imong pag-abot?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug buhaton ni Shmuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shmuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa gisulti ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa gisulti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot siya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ug nagkurog"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "sa pagtagbo kaniya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "sa kalig-onon"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "imong pag-abot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:13.941923814Z",
+  "model": "glm-5.3"
+}

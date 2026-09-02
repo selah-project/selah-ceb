@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 3:20",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Apan sa pagkatinuod, ingon sa usa ka babayi nga nanlimbong sa iyang bana, mao usab ninyo nanlimbong kanako, balay ni Yisrael, matud pa ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Apan sa pagkatinuod"
+    },
+    {
+      "surface": "בגדה",
+      "gloss": "nanlimbong"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "usa ka babayi"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "sa iyang bana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "בגדתם",
+      "gloss": "ninyo nanlimbong"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matud pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:15:33.184180841Z",
+  "model": "glm-5.3"
+}

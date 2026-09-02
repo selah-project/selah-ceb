@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug miangadto si Amasa sa pagtawag ⟨את⟩ kang Yehudah, apan naglangan siya labaw sa gitudlong nga panahon nga gitagana kaniya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miangadto"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "si Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "sa pagtawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kang Yehudah"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "apan naglangan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "labaw sa"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "gitudlong nga panahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "gitagana kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:19.543683258Z",
+  "model": "glm-5.3"
+}

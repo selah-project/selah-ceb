@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gitoganlan ko kamo ⟨את⟩ niadtong panahona ⟨ang⟩ tanan ⟨ang⟩ mga butang nga inyong buhaton.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Ug gitoganlan ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "niadtong panahona"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nangaging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga butang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "inyong buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:52.304870372Z",
+  "model": "glm-5.3"
+}

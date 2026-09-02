@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Busa mibangon sila ug milayas sa paghabagat, ug gibīlin nila ⟨את⟩ ang ilang mga tolda ug ⟨את⟩ ang ilang mga kabawyo ug ⟨את⟩ ang ilang mga burdang — ang kampo ingon niini ⟨nga nagtindog⟩ — ug milayas sila alang sa ilang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "mibangon sila"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "milayas"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "sa paghabagat"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "gibilin nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga tolda"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "ilang mga tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ilang mga kabawyo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ilang mga kabawyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ilang mga burdang"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ilang mga burdang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nga nagtindog"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "milayas sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ilang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:10.673384316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nakita ni Elohim ⟨את⟩ ang tanan nga iyang gibuhat, ug ania kini, ⟨kini⟩ maayo kaayo. Ug nahitabo ang kahaponon, ug nahitabo ang buntag, adlaw nga ikaunom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga iyang gibuhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iyang gibuhat"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ang kahaponon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ang buntag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "nga ikaunom"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:51.212262037Z",
+  "model": "glm-5.3"
+}

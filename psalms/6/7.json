@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Nakapoy ako sa akong pag-uwong; tibuok gabii pagahimoon nako ⟨nga langoyon⟩ ang akong higdaanan; sa akong mga luha tunawon nako ang akong banig.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nakapoy ako"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "sa akong pag-uwong"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "pagahimoon nako nga langoyon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabii"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ang akong higdaanan"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "sa akong mga luha"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ang akong banig"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "tunawon nako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:00.235795718Z",
+  "model": "glm-5.3"
+}

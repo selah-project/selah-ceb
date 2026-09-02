@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kamo ⟨mga anak⟩, magpamayo kamo ug magkadaghan; magpanganak kamo nga daghan sa yuta, ug magkadaghan diha niini.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "magpamayo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ug magkadaghan"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "magpanganak kamo nga daghan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ug magkadaghan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "diha niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:46.912940119Z",
+  "model": "glm-5.3"
+}

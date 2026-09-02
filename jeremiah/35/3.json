@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Gikuha ko ⟨את⟩ si Yaazanyah nga anak ni Yirmeyahu nga anak ni Khavatsanyah, ug ⟨את⟩ ang iyang mga igsoon, ug ⟨את⟩ ang tanan niyang mga anak, ug ⟨את⟩ ang tibuok nga balay sa mga Rekhavnon.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Gikuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyah"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Khavatsanyah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang mga igsoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan niyang mga anak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "niyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok nga balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "mga Rekhavnon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:25:51.125828319Z",
+  "model": "glm-5.3"
+}

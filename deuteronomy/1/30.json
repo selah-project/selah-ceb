@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Si Yahweh nga inyong Elohim, ang nagauna ⟨sa⟩ atubang kaninyo, siya magakig-away alang kaninyo, sumala sa tanan nga iyang gihimo ⟨את⟩ kaninyo sa Mitsrayim atubang sa inyong mga mata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "nga inyong Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ang nagauna"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "atubang kaninyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "magakig-away"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iyang gihimo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "atubang sa inyong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:49.998851491Z",
+  "model": "glm-5.3"
+}

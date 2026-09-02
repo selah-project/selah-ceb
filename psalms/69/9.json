@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Nahimong langyaw ⟨ako⟩ sa akong mga igsoon, ug dayo sa mga anak sa akong inahan.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "langyaw"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimo"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "sa akong mga igsoon"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ug dayo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sa akong inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:09.781676508Z",
+  "model": "glm-5.3"
+}

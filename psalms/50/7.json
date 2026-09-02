@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Paminawa, akong katawhan, ug ako magasulti; O Yisrael, ug ako magapamatuod batok kanimo: si Elohim, ang imong Elohim, ako.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ug ako magasulti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ug ako magapamatuod"
+    },
+    {
+      "surface": "בך",
+      "gloss": "batok kanimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:58.268711659Z",
+  "model": "glm-5.3"
+}

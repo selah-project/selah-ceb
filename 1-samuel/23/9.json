@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug nahibalo si David nga si Shaul, sa tinago, naggahin kadaot batok kaniya; ug miingon siya kang Evyatar ang pari: Palapita ⟨diri⟩ ⟨ang⟩ eifod.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ug nahibalo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "sa tinago"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "naggahin kadaot"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Palapita"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ang eifod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:19.545584482Z",
+  "model": "glm-5.3"
+}

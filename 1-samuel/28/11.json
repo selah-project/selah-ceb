@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug miingon ang babaye: ⟨את⟩ kinsa ipataas ko kanimo? Ug miingon siya: ⟨את⟩ si Shemuel— ipataas kanako.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinsa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ipataas ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "ipataas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:01.354795106Z",
+  "model": "glm-5.3"
+}

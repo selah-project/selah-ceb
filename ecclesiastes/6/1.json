@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Adunay kadaotan nga akong nakita ubos sa adlaw, ug dako kini ⟨sa⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "akong nakita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ubos"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ug dako kini"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:11.322260830Z",
+  "model": "glm-5.3"
+}

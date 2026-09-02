@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang pundasyon ⟨mga⟩ bato nga bililho, mga bato nga dako, mga bato nga napulo ka siko, ug mga bato nga walo ka siko.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ug ang pundasyon"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "bililho"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dako"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ug mga bato"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:15.950024278Z",
+  "model": "glm-5.3"
+}

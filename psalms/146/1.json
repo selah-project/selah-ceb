@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Pagdayeg kamo kang Yah! Pagdayeg ka, akong kalag, ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Pagdayeg ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:57.182333147Z",
+  "model": "glm-5.3"
+}

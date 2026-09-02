@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug midagan siya ngadto keni Eli ug miingon: Ania kini ako, kay imo kong gitawag. Apan si Eli miingon: Wala ako magtawag ⟨sa⟩ imo; pagbalik ug higda. Ug mihatud siya ug nahigda.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "midagan siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto keni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania kini ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "imo... gitawag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ako magtawag"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pagbalik"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "higda"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mihatud siya"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nahigda"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:31.304428661Z",
+  "model": "glm-5.3"
+}

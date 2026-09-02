@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Si Mesha nga hari sa Moav mag-uuma sa mga karnero, ug nagabayad siya ngadto sa hari sa Yisrael og usa ka gatos ka libo ka mga kanding-karnero ug usa ka gatos ka libo ka mga lalaking karnero — balahiboadlaw.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Si Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mao"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "mag-uuma sa mga karnero"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ug nagabayad"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ka mga kanding-karnero"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ug usa ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ka mga lalaking karnero"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "balahiboadlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:32.977726140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Daghan ka adlaw ang gibuhat ni Yehoshua nga gubaton ⟨את⟩ tanan niining mga hariha.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Daghan ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan niining mga hariha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubaton"
+    }
+  ],
+  "timestamp": "2026-09-01T20:01:33.379899953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug kini ⟨mga⟩ anak ni Shoval: si Alvan, ug si Manakhath, ug si Eval, si Shefo, ug si Onam.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "si Alvan"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ug si Manakhath"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ug si Eval"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "si Shefo"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ug si Onam"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:45.058705061Z",
+  "model": "glm-5.3"
+}

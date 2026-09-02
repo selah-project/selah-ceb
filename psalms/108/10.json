@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Ang Moab ⟨ang⟩ kaldero sa akong pagpanghugas, ibutang ko ang akong sandalyas sa Edom, sa Peleset magasigay ako.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "kaldero"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "sa akong pagpanghugas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ibutang ko (isalang ko)"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ang akong sandalyas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "magasigay ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:05.344386188Z",
+  "model": "glm-5.3"
+}

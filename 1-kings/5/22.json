@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug gipadala ni Chiram ngadto kang Shelomoh, nga nag-ingon: Nadungog ko ⟨את⟩ ang imong gipadala kanako; buhaton nako ⟨את⟩ ang tanan nimong gitinguha sa mga kahoy nga sedro ug sa mga kahoy nga berosh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ni Chiram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Nadungog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong gipadala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "imong gipadala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "buhaton nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nimong gitinguha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "nimong gitinguha"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "sa mga kahoy"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "nga sedro"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "ug sa mga kahoy"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "nga berosh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:48.840423761Z",
+  "model": "glm-5.3"
+}

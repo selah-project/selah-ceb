@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Tungod kay, timaila nga gidala sa pagpanas sila sa akong katawhan sa pag-ingon: 'Kalinaw!' apan walay kalinaw; ug siya nagpatindog ug paril, ug ania kini, sila nagtapinib ⟨את⟩ niini ug tapol.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ug timaila nga tungod"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "gidala sa pagpanas sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pag-ingon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Kalinaw"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "apan walay"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinaw"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagpatindog"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "paril"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "nagtapinib sila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niini",
+      "marks": "ang paril nga gipapilibutan ug tapol"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ug tapol"
+    }
+  ],
+  "timestamp": "2026-09-01T21:35:29.017565115Z",
+  "model": "glm-5.3"
+}

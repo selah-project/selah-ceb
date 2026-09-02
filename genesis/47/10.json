@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Ug gipanalanginan ni Yaakov ⟨את⟩ si Paro, ug migawas siya gikan sa atubangan ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ug gipanalanginan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ug migawas"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:43.333820177Z",
+  "model": "glm-5.3"
+}

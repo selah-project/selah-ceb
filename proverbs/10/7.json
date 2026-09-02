@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang kahinumdom sa matarong ⟨alang sa⟩ panalangin, apan ang ngalan sa mga dautan mabulok.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "kahinumdom"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "apan ang ngalan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "mabulok"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:58.127831605Z",
+  "model": "glm-5.3"
+}

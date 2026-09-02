@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nagbug-os ang akong kalag sa pagpangandoy ngadto sa imong mga hudya sa tanan nga panahon.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Nagbug-os"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "sa pagpangandoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imong mga hudya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:25.328107740Z",
+  "model": "glm-5.3"
+}

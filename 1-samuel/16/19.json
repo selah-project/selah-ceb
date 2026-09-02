@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gipadala ni Shaul ug mga mensahe ngadto kang Yishai ug miingon: Padzaa kanako ⟨את⟩ si David nga imong anak nga anaa sa mga karnero.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala ni Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mga mensahe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "padzaa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "imong anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "anaa sa mga karnero"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:12.268222Z",
+  "model": "glm-5.3"
+}

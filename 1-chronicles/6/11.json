@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Si Elkanah ⟨ang amahan niini⟩; ang mga anak ni Elkanah: si Tsophay ang iyang anak, ug si Nakhath ang iyang anak.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Si Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨ang amahan niini⟩"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ni Elkanah"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "si Tsophay"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iyang anak"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "ug si Nakhath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:51.648693658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Katarungan, katarungan ang imong pangandoyon, aron mabuhi ka ug makapanunod ka ⟨את⟩ sa yuta nga gihatag ni Yahweh ⟨ang⟩ imong Elohim kanimo.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ang imong pangandoyon"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "mabuhi ka"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "ug makapanunod ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:02.607690943Z",
+  "model": "glm-5.3"
+}

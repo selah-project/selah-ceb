@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ang ⟨mga⟩ batan-ong leon nagkuriya ug naggutom, apan ang ⟨mga⟩ nangita kang Yahweh dili makulang ug bisan unsang maayo.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "mga batan-ong leon"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "nagkuriya"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "ug naggutom"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "apan ang nangita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "makulang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan unsa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:21.768486678Z",
+  "model": "glm-5.3"
+}

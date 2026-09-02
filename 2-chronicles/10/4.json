@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang imong amahan nagpabug-at ⟨את⟩ sa among pagpanakop; ug karon pagpahayon ka sa timbang nga pag-alagad sa imong amahan nga bug-at, ug sa iyang bug-at nga pagpanakop nga iyang gibutang kanamo, ug magaalagad kami kanimo.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ang imong amahan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nagpabug-at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa among pagpanakop"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "sa among pagpanakop"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pagpahayon ka"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nga bug-at"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ug sa iyang pagpanakop"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nga bug-at"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iya nga gibutang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ug magaalagad kami kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:44.027199664Z",
+  "model": "glm-5.3"
+}

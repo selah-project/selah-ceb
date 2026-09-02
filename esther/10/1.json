@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gipatuman sa hari nga si Achashverosh ⟨ang⟩ buis sa ⟨kalibotan⟩ ug sa ⟨mga⟩ puro sa dagat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "gipatuman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "si Achashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "buis"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨kalibotan⟩"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "ug sa ⟨mga⟩ puro"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:18.864703893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ang ruah ni Yahweh nagsulti pinaagi kanako, ug ang iyang pulong ⟨naa⟩ sa akong dila.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ang ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "piaagi kanako"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ug ang iyang pulong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "akong dila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:58.404076610Z",
+  "model": "glm-5.3"
+}

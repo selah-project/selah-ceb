@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Wala ba sila makaila — tanan nga mamumuno sa kadaot, nga mokaon sa akong katawhan ingon nga mokaon silag tinapay? Si Yahweh wala nila tawgi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sila makaila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nga mamumuno"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "nga mokaon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mokaon sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nila tawgi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:14.443780706Z",
+  "model": "glm-5.3"
+}

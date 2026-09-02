@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Maayo ang ubos nga espiritu kauban ⟨את⟩ ang mga kabos kay ang pagbahin ⟨את⟩ sa spoonod kauban ⟨את⟩ mga mapahitas-on.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "ubos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nga espiritu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kabos"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ang mga kabos"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "ang pagbahin"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sa spoonod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mapahitas-on"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "mga mapahitas-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:14.185254553Z",
+  "model": "glm-5.3"
+}

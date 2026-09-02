@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "⟨את⟩ kinsa ang itudlo sa kahibalo, ug ⟨את⟩ kinsa ang isabton sa mensahe? ⟨Kadtong⟩ gipagawas gikan sa gatas, gikuha gikan sa mga suso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinsa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ang itudlo"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "sa kahibalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kinsa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ang isabton"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "sa mensahe"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "gipagawas"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "gikan sa gatas"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "gikan sa mga suso"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:16.584366762Z",
+  "model": "glm-5.3"
+}

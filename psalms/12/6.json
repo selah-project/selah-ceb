@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Tungod sa pagpanglupad sa mga kabus, tungod sa pag-angkon sa mga mingaw — karon mobangon ako, moingon si Yahweh; isuksok ko siya sa kaluwasan, ipahinantan-aw ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "pagpanglupad"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mga kabus"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "pag-angkon"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "mga mingaw"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "mobangon ako"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "isuksok ko"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "sa kaluwasan"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "ipahinantan-aw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:12.665428804Z",
+  "model": "glm-5.3"
+}

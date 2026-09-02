@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Tan-awa sa mga nasud ug pagtan-awa, ug katingalahi pagkatingala, kay buhat ⟨ang⟩ nagabuhat sa inyong mga adlaw nga dili kamo motuo kon isulti ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga nasud"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ug pagtan-awa"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "ug katingalahi"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "pagkatingala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "sa inyong mga adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "kamo motuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "isulti"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:57.715790017Z",
+  "model": "glm-5.3"
+}

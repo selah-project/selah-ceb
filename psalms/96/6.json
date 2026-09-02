@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Kadungganan ug kahalangdon ⟨atubangan⟩ niya; kusog ug katahum ⟨anaa⟩ sa iyang santuaryo.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ug kahalangdon"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "⟨atubangan⟩ niya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "ug katahum"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "sa iyang santuaryo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:04.863648559Z",
+  "model": "glm-5.3"
+}

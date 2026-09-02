@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Kay ang bahin ni Yahweh mao ang iyang katawhan; si Yaakov ang pisi sa iyang panulundan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ang pisi"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sa iyang panulundan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:23.802813983Z",
+  "model": "glm-5.3"
+}

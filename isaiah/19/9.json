@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mangauoy ang mga mamumuo sa linso, ⟨ang⟩ sinuksok, ug ang mga mag-aanhi sa maputi nga lana.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "mangauoy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga mamumuo"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "sa linso"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "sinuksok"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "mga mag-aanhi"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "maputi nga lana"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:55.465464687Z",
+  "model": "glm-5.3"
+}

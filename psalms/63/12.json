@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Ug ang hari magmalipayon diha ni Elohim; magpasigarbo ang tanan nga nanumpa kaniya; kay masirad-an ang baba sa mga nangagsulti sa bakak.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "diha ni Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "magpasigarbo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "nga nanumpa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "masirad-an"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "sa mga nangagsulti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:15.792512432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ug ilang gipahamtang sa akong pagkaon ang lason, ug sa akong uhaw gipainom ako nila'g suka.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ug ilang gipahamtang"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "sa akong pagkaon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang lason"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "ug sa akong uhaw"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "gipainom ako nila"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "suka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:12.885797417Z",
+  "model": "glm-5.3"
+}

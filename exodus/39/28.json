@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug ⟨את⟩ ang turbante nga lino, ug ⟨את⟩ mga dayandayan sa ulohan nga lino, ug ⟨את⟩ mga salawal nga lino, linaw-og nga lino.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang turbante"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ang turbante"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga dayandayan sa ulohan"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "mga dayandayan"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "sa ulohan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga salawal"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "mga salawal"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "linaw-og"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:07.564040682Z",
+  "model": "glm-5.3"
+}

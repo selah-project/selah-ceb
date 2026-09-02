@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Apan ikaw, Yahweh, ⟨nagatungtong⟩ sa katas-an hangtud sa dayon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "apan ikaw"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa katas-an"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "hangtud sa dayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:01.139044167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gibuhat niya ang matarong ⟨sa⟩ mga mata ni Yahweh, sumala sa tanan nga gibuhat ni David nga iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat niya"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨sa⟩ mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:26.617661514Z",
+  "model": "glm-5.3"
+}

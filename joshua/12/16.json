@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "ang hari sa Makkedah, usa; ang hari sa Beit-El, usa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "sa Makkedah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:36.063166279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "May henerasyon nga gitunglo ⟨ang ilang⟩ amahan, ug ⟨את⟩ ang ilang inahan dili panalanginan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang ilang amahan"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "gitunglo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang inahan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang ilang inahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "panalanginan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:31.009872099Z",
+  "model": "glm-5.3"
+}

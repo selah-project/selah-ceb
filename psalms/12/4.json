@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Pamutlon ⟨untol⟩ ni Yahweh ang tanan ⟨nga⟩ hapsay nga mga ngipngip, ang dila nga nagsulti ug mga butang nga dako ⟨⟨kahadlok⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Pamutlon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mga ngipngip"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "hapsay"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ang dila"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "nga nagsulti"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mga butang nga dako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:46.780356956Z",
+  "model": "glm-5.3"
+}

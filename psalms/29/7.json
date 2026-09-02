@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagatigbas sa mga lapad sa kalayo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "nagatigbas"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "sa mga lapad"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:23.983381993Z",
+  "model": "glm-5.3"
+}

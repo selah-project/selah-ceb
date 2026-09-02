@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ang akong mga luha nahimong ⟨akong⟩ tinapay kanako adlaw ug gabii, samtang giingnan nila ako sa tibuok adlaw: Atoa ba ang imong Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Ang akong mga luha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug gabii"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "samtang giingnan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Atoa ba"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:28.672941753Z",
+  "model": "glm-5.3"
+}

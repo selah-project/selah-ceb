@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug nahitabo sa katapusan sa kaluhan-an ka tuig, diin nagtukod si Shelomoh ⟨את⟩ ang duha ka balay — ⟨את⟩ ang balay ni Yahweh ug ⟨את⟩ ang balay sa hari.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka balay"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ka balay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang balay sa hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:06.620443809Z",
+  "model": "glm-5.3"
+}

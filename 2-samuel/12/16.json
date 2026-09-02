@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gipangita ni David ⟨את⟩ ang Elohim alang sa bata; ug nagpuasa si David og puasa, ug misulod, nagpabilin sa gabii, ug naghigda sa yuta.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Ug gipangita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ug nagpuasa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "og puasa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "misulod"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "nagpabilin sa gabii"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "naghigda"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:56.005622568Z",
+  "model": "glm-5.3"
+}

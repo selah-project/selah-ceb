@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Labaw sa akong mga kaaway gipamaalam nako sa imong mga mando, kay ⟨kini⟩ ⟨anaa⟩ kanako sa kahangtora.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "gipamaalam nako"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ang imong mga mando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa kahangtora"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨anaa⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:05.151758629Z",
+  "model": "glm-5.3"
+}

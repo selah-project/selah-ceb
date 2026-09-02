@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Sa kalisud nimo gitawag ako, ug giluwas tika; tubagon tika sa tago nga dapit sa dagundong; sulayan tika sa mga tubig sa Meriva. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Sa kalisud"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "nimo gitawag"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "ug giluwas tika"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "tubagon tika"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago nga dapit"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "dagundong"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "sulayan tika"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:11.576661140Z",
+  "model": "glm-5.3"
+}

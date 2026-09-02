@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Miadto si Rehavam sa Shekhem, kay ngadto sa Shekhem miabot ang tibuok Israel sa paghimo kaniya nga hari.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sa Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sa Shekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "sa paghimo nga hari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (Rehavam)"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:49.653301273Z",
+  "model": "glm-5.3"
+}

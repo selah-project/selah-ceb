@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gitawag ni Elohim ang rakiya nga \"Shamayim\"; ug nahitabo ang kahaponon, ug nahitabo ang buntag — ikaduhang adlaw.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ug gitawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ang rakiya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Shamayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ang kahaponon"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ang buntag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikaduhang"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:55.468383213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug ang panimalay sa Israel nagngalan niini ⟨את⟩ Man; ug ⟨kini⟩ sama sa liso sa gad, puti; ug ang lami niini sama sa pinasing nga adunay dugos.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "nagngalan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang panimalay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Man (ang iyang ngalan)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "sama sa liso"
+    },
+    {
+      "surface": "גד",
+      "gloss": "sa gad (koliyander)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "puti"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ug ang lami niini"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "sama sa pinasing"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "nga adunay dugos"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:32.727461828Z",
+  "model": "glm-5.3"
+}

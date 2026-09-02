@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Ug miabot ang Yisrael sa Mitsrayim, ug si Yaakov mipuyo isip dayuhan sa yuta sa Kham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ug si Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mipuyo isip dayuhan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "sa Kham"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.183072548Z",
+  "model": "glm-5.3"
+}

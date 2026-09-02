@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ania karon, ako nagapukaw batok kanila sa ⟨את⟩ mga taga-Madai, nga plata dili nila hisgutan, ug sa bulawan dili nila lilion.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ania karon, ako"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "nagapukaw"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "batok kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga taga-Madai"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mga taga-Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "hisgutan nila"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ug sa bulawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "lilion nila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:46.130272787Z",
+  "model": "glm-5.3"
+}

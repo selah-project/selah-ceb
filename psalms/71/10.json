@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Kay nagaingon ang akong mga kaaway ⟨contra kanako⟩, ug ang nagabantay sa akong nefesh nag-uyon ⟨nga magtinabangay⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨contra kanako⟩"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "ug ang nagabantay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong nefesh"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nag-uyon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨nga magtinabangay⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:28.792321102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Nanabilin sa dakbayan ang kagun-ob, ug ang ganghaan gihampak ⟨sa⟩ kalaglagan.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "nanabilin"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ang kagun-ob"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "ug ang kalaglagan"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ang ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:35.290440759Z",
+  "model": "glm-5.3"
+}

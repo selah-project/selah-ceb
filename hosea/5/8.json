@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Hiyawi ninyo ang sungay sa Giv'ah, ang trumpeta sa Ramah; pagbantayi sa Beth-Aven: human kanimo, O Binyamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Hiyawi ninyo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ang sungay"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "sa Giv'ah"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "ang trumpeta"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "sa Ramah"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pagbantayi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beth-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "human kanimo"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "O Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:43.150982195Z",
+  "model": "glm-5.3"
+}

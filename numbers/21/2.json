@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nanumpa ang Yisrael og panumpa kang Yahweh ug miingon: Kon imong hatagon kining ⟨ang⟩ katawhan ⟨את⟩ ngadto sa akong kamot, iherem nako ⟨את⟩ ang ilang mga dakbayan.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "ug nanumpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "og panumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "hatagon"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "imong hatagon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining ⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ngadto sa akong kamot"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "iherem nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga dakbayan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ang ilang mga dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:25.092792276Z",
+  "model": "glm-5.3"
+}

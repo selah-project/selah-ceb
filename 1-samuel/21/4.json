@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug karon, unsa may anaa sa ubsan sa imong kamot? Ilimang tinapay ihatag sa akong kamot, o ang makaplagan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "may anaa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubsan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sa imong kamot"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "Ilimang"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "sa akong kamot"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ang makaplagan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:29.560512126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug kon kining tulo ka butang dili niya buhaton ⟨kaniya⟩, manggawas siya nga walay bayad, nga walay ⟨bisan⟩ plata.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo ka butang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "manggawas siya"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay bayad"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:48.894912622Z",
+  "model": "glm-5.3"
+}

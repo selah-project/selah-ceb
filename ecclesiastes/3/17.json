@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nakong giingon sa akong kasingkasing: si Elohim magahukom ⟨את⟩ ⟨sa⟩ matarong ug ⟨את⟩ ⟨sa⟩ daotan, kay adunay ⟨usa ka⟩ panahon alang sa tanan nga tinguha ug alang sa tanan nga buhat ⟨didto⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nakong giingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang matarong"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang daotan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tinguha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug alang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "nga buhat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨didto⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:05.734385084Z",
+  "model": "glm-5.3"
+}

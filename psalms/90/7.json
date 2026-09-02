@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Kay nawala na kami diha sa imong kasuko, ug sa imong kaligutgut nabalaka kami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nawala na kami"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "diha sa imong kasuko"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ug sa imong kaligutgut"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "nabalaka kami"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:21.711506333Z",
+  "model": "glm-5.3"
+}

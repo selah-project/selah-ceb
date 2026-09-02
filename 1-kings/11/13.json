@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Lamang ⟨ang⟩ tibuok gingharian dili ko pagpunoon; usa ka tribo ihatag ko sa imong anak, alang kang Dovid akong sulugoon, ug alang sa Yerushalayim nga akong gipili.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok gingharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "gingharian"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ko pagpunoon"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akong sulugoon"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akong gipili"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:03.249744331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Panalingkod ngari kanako ug kaloy-i ako, kay ako ⟨nag⟩inusara ug kabos.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "panalingkod ngari"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ug kaloy-i ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "nag-inusara"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ug kabos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:16.467543287Z",
+  "model": "glm-5.3"
+}

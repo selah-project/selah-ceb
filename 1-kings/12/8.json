@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Apan giabandonahan niya ⟨את⟩ tambag sa mga tigulang nga gitambag nila kaniya, ug nagpanabot siya ⟨את⟩ mga batan-on nga nagdako kauban ⟨את⟩ kaniya, nga nagbarug sa iyang atubang.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "giabandonahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tambag"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gitambag nila kaniya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nagpanabot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga batan-on"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kauban ⟨את⟩ kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nagbarug"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iyang atubang"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:26.504420683Z",
+  "model": "glm-5.3"
+}

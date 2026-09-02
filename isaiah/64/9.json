@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Ang imong mga balaang dakbayan nahimo nga kamingawan; ang Tsion kamingawan nahimo ⟨kini⟩; ang Yerushalayim ⟨nga⟩ kagun-oban.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imong mga balaan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nahimo nga"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ang Tsion"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nahimo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ang Yerushalayim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kagun-oban"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:49.144352618Z",
+  "model": "glm-5.3"
+}

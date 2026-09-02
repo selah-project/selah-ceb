@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Nagasulti ako ngadto kang Yahweh: Adonay, ikaw ⟨ang⟩; ⟨wala⟩ ako'y kaayohan gawas kanimo.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Nagasulti ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "kaayohan nako"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨wala⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:07.048253641Z",
+  "model": "glm-5.3"
+}

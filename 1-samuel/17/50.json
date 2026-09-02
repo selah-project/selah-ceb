@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug nagmalinawon si David kaniya nga Peleshtihanon pinaagi sa slingshot ug sa bato, ug gigisi niya ⟨את⟩ ang Peleshtihanon ug gipatay niya siya; ug espada walay ⟨⟨sa⟩⟩ kamot ni David.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nagmalinawon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Peleshtihanon"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "paagi sa slingshot"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "ug sa bato"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gigisi niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Peleshtihanon"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Peleshtihanon"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ug gipatay niya siya"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ug espada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:19.991415758Z",
+  "model": "glm-5.3"
+}

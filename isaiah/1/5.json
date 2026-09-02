@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ngano ⟨man⟩ pa kamo hampakon? Mga dangaton pa gayod kamo pagtalikod: ang tibuok ulo may sakit, ug ang tibuok kasingkasing may kahuya.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨man⟩"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "hampakon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "mga dangaton pa kamo"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "pagtalikod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "may sakit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "may kahuya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:15.485312526Z",
+  "model": "glm-5.3"
+}

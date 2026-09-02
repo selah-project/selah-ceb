@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "ug kon mangutana kamo: Unsa ang atong kan-onon sa ikapito nga tuig? Ania kini, dili kami mananom ug dili mi mamolo ⟨את⟩ sa among ani.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "mangutana kamo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ang atong kan-onon"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "sa ikapito"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ania kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "kami mananom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "mi mamolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa among ani"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "sa among ani"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:36.185967049Z",
+  "model": "glm-5.3"
+}

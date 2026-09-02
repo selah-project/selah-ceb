@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gikuha ni Ajaz ⟨ang⟩ plata ug ⟨ang⟩ bulawan nga makit-an sa balay ni Yahweh ug sa mga kamalig sa balay sa hari, ug gipadala niya kini ngadto sa hari sa Ashur isip sungkod.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha ni"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang plata"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang plata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga makit-an"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "ug sa mga kamalig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "isip sungkod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:06.130173668Z",
+  "model": "glm-5.3"
+}

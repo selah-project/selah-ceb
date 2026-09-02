@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Mitindog ang satanas batok sa Yisrael, ug gipukod niini ⟨את⟩ si David sa pag-ihap ⟨את⟩ sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "ang satanas"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "ug gipukod niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "sa pag-ihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:34.025503947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gipaako nako kamo ⟨את⟩, mga anak nga babae sa Yerushalayim: ngano nga pagabuksiron ninyo, ug ngano nga pagpukawon ninyo ⟨את⟩ ang gugma, hangtod nga mahimo niini?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Gipaako nako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babae"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "pagabuksiron ninyo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug ngano nga"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "pagpukawon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gugma"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ang gugma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nga mahimo niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:31.173000544Z",
+  "model": "glm-5.3"
+}

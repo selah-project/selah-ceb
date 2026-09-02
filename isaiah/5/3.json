@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug karon, mga pumoluyo sa Yerushalayim ug mga tawo sa Yehudah, paghukom kamo, palihog, taliwala kanako ug sa akong kaparasan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "paghukom kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "taliwala kanako"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "akong kaparasan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:46.132114544Z",
+  "model": "glm-5.3"
+}

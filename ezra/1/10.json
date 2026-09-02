@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Mga kopita nga bulawan tulo ka napulo, mga kopita nga salapi nga ikaduhang klase upat ka gatos ug napulo, ug uban pang mga sudlanan usa ka libo.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "mga kopita"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tulo ka napulo"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "mga kopita"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nga salapi"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "nga ikaduhang klase"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "ug napulo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "uban pang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "usa ka libo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:05.351806491Z",
+  "model": "glm-5.3"
+}

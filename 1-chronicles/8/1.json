@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug si Binyamin natawo ⟨את⟩ si Bela ang iyang panganay, si Ashbel ang ikaduha, ug si Aharakh ang ikatulo.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Ug si Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "si Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang iyang panganay"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "si Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "ug si Aharakh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:39.701276176Z",
+  "model": "glm-5.3"
+}

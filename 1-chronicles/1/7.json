@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang mga anak ni Yavan: Elishah, ug Tarshishah, Kitim, ug Rodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yavan"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "ug Tarshishah"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "ug Rodanim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:13.347709013Z",
+  "model": "glm-5.3"
+}

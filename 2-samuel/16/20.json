@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug miingon si Avshalom kang Akhitofel: Ihatag ⟨kaninyo⟩ ang tambag — unsa ang atong buhaton?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Akitofel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨kaninyo⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ang tambag"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ang atong buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:25.803132497Z",
+  "model": "glm-5.3"
+}

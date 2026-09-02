@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Busa si Sancherib, hariya sa Ashshur, mipaklara ug mialis, ug mibalik, ug mipuyo sa Ninweh.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mipaklara"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mialis"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mibalik"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hariya"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashshur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mipuyo"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "sa Ninweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:04:36.714423142Z",
+  "model": "glm-5.3"
+}

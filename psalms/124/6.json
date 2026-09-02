@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "Dalayegon si Yahweh, nga wala maghatag kanato ingon nga unod sa ilang mga ngipon.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dalayegon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "maghatag kanato"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ingon nga unod"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "sa ilang mga ngipon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:08.543294543Z",
+  "model": "glm-5.3"
+}

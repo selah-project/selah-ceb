@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Mitultol ⟨siya⟩ sa pangamuyo sa ginabiaybiay, ug wala niya pagbiyai og tagad ⟨את⟩ ang ilang pangamuyo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "mitultol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "pangamuyo"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "sa ginabiaybiay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "pagbiyai og tagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pangamuyo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ang ilang pangamuyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:12.243052328Z",
+  "model": "glm-5.3"
+}

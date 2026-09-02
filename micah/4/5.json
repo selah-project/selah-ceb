@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kay ang tanan ⟨nga⟩ mga katawhan magalakaw, ang matag usa sa ngalan sa iyang elohim, apan kita magalakaw sa ngalan ni Yahweh nga among Elohim hangtod sa kahangturan ug hangtod sa walay katapusan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "⟨nga⟩ mga katawhan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magalakaw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sa iyang elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "apan kita"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "magalakaw"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa walay katapusan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:53.005819823Z",
+  "model": "glm-5.3"
+}

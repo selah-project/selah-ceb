@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang karga-nga-mensahe mahitungod sa Damasek: Ania karon, gikuha ang Damasek ⟨nga dili na⟩ ⟨mao nga⟩ lungsod, ug mahimong tinumpo nga biniyaan ⟨nga nagkahulog⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "karga-nga-mensahe"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ang Damasek"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "gikuha (gitangtang)"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "gikan sa pagka-lungsod"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "tinumpo nga biniyaan"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "nagkahulog (guba)"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:40.925193405Z",
+  "model": "glm-5.3"
+}

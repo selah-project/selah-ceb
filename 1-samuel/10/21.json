@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gipaduol niya ⟨את⟩ ang tribo ni Binyamin sumala sa iyang mga pamilya, ug gikuha ang pamilya sa mga Matrite, ug gikuha si Shaul nga anak ni Kish; ug gipangita nila siya apan wala siya makit-an.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "gipaduol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tribo ni Binyamin"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tribo"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "sumala sa iyang mga pamilya"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "sa mga Matrite"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ni Kish"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "gipangita nila siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "makit-an"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:45.163251716Z",
+  "model": "glm-5.3"
+}

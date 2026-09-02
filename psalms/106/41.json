@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Gihatag niya sila sa kamot ⟨sa⟩ mga nasud, ug naghari ang mga nagadumili kanila sa ibabaw nila.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "Gihatag niya sila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa ibabaw nila"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ang mga nagadumili kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.884430717Z",
+  "model": "glm-5.3"
+}

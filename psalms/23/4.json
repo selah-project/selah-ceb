@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Bisan sa mga adlaw nga maglakaw ako sa walog sa landong sa kamatayon, dili ako mahadlok sa kadaot, kay ikaw ⟨naa⟩ uban kanako; ang imong sungkod ug ang imong tungkod — kini ang mopaluyo kanako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sa mga adlaw nga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "maglakaw ako"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sa landong sa kamatayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako mahadlok"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ang imong sungkod"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "ug ang imong tungkod"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ang mopaluyo kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:43.032323947Z",
+  "model": "glm-5.3"
+}

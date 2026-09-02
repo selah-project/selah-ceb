@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Mao kini ang giingon ni Yahweh: Pagpanaw paingon sa balay sa hari sa Yehudah, ug didto pag-ingon ⟨את⟩ sa pulong nga kini:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רד",
+      "gloss": "pagpanaw paingon sa ubos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ug pag-ingon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pulong nga kini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga kini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:06.277338034Z",
+  "model": "glm-5.3"
+}

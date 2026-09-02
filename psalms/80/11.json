@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Natabonan sa iyang landong ang mga bukid, ug ang iyang mga sanga ⟨mga⟩ sedro sa El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "natabonan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "sa iyang landong"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "ug ang iyang mga sanga"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "mga sedro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa El"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:51.015275542Z",
+  "model": "glm-5.3"
+}

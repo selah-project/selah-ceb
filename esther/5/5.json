@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug miingon ang hari: Dali-a ⟨את⟩ si Haman aron buhaton ⟨את⟩ ang gimbuhaton ni Ester. Ug miabot ang hari ug si Haman sa bidyawo nga gibuhat ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Dali-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aron buhaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gimbuhaton ni Ester"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang gimbuhaton"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Ug miabot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ug si Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "bidyawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:26.903100494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "ang bayani ug ang tawo sa gubat, ang maghuhukom ug ang manalagna, ang mangulmat ug ang tigulang —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ang bayani"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ang maghuhukom"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ug ang manalagna"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ug ang mangulmat"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ug ang tigulang"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:27.998906097Z",
+  "model": "glm-5.3"
+}

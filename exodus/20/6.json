@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug nagabuhat ug hesed (mahigugmaong kaloyag) ngadto sa minilyon, alang sa mga nagahigugma kanako ug ngadto sa mga nagatuman sa akong mga sugo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ug nagabuhat ug"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ngadto sa minilyon"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "alang sa mga nagahigugma kanako"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ug ngadto sa mga nagatuman"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sa akong mga sugo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:09.646225733Z",
+  "model": "glm-5.3"
+}

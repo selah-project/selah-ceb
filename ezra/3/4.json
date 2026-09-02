@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug gihimo nila ⟨את⟩ ang fiesta sa mga payag sumala sa gisulat, ug ⟨ang⟩ halad nga sinusunog adlaw-matag-adlaw sa ihap, sumala sa balaod, ang butang sa matag adlaw sa adlaw niini.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gihimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang fiesta sa mga payag"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ang fiesta"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "sa mga payag"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "sumala sa gisulat"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ug ang halad nga sinusunog"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "matag adlaw"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sa ihap"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sumala sa balaod"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa adlaw niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:44.980343320Z",
+  "model": "glm-5.3"
+}

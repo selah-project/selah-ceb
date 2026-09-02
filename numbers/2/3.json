@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 2:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang mga nagakampi sa sidlakan, tungod sa pagsidlak sa adlaw: ang bandila sa kampo ni Yehudah, sumala sa ilang mga panon; ug ang mangulo sa mga anak ni Yehudah mao si Nakhshon nga anak ni Aminadav.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "Ug ang mga nagakampi"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "tungod sa pagsidlak sa adlaw"
+    },
+    {
+      "surface": "דגל",
+      "gloss": "bandila"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "sumala sa ilang mga panon"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ug ang mangulo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:07.975296435Z",
+  "model": "glm-5.3"
+}

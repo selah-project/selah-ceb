@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "⟨את⟩ Ang ilang mga karnero ug ⟨את⟩ ang ilang mga baka ug ⟨את⟩ ang ilang mga iro, ug ⟨את⟩ ang tanan nga anaa sa dakbawan ug ⟨את⟩ ang tanan nga anaa sa kapatagan, ilang gikuha.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga karnero"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga baka"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga iro"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "mga iro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga anaa sa dakbawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "anaa sa dakbawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga anaa sa kapatagan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "anaa sa kapatagan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ilang gikuha"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:13.738775145Z",
+  "model": "glm-5.3"
+}

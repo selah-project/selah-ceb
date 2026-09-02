@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Nangtindog ang iyang mga sulugoon ug naghimo ug ⟨usa ka⟩ pagpanaghiusa ⟨aron pagpatay⟩, ug gislat nila si ⟨את⟩ Yoash sa Beth-Millo, ⟨ang⟩ adto nga molargas paingon sa Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "nangtindog"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iyang mga sulugoon"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "naghimo ug panaghiusa"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "pagpanaghiusa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "gislat nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beth"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "ang molargas paingon sa"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:46.068810104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "⟨את⟩Ako ba ang ilang ginpukalag sa kasuko? nagaingon si Yahweh; dili ba ⟨את⟩sila mismo, ngadto sa kahilawad sa ilang mga nawong?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩Ako",
+      "marks": "Ako"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "ginpukalag sa kasuko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩sila",
+      "marks": "sila mismo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kahilawad"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sa ilang mga nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T21:16:37.525941454Z",
+  "model": "glm-5.3"
+}

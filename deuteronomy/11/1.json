@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Busa higugmaa ninyo ⟨את⟩ si Yahweh nga inyong Elohim, ug bantayi ang iyang pagbantay, ug ang iyang mga estatuto, ug ang iyang mga pagtulon-an, ug ang iyang mga sugo, sa tanang mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "higugmaa ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga inyong Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ug bantayi"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ang iyang pagbantay"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ug ang iyang mga estatuto"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "ug ang iyang mga pagtulon-an"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ug ang iyang mga sugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:02.618274807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Gitan-aw ka sa mga tubig, Elohim; gitan-aw ka sa mga tubig, naglipoyot sila; bisan ang mga kalalawman nanimbong ⟨ug nagkurog⟩.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "gitan-aw ka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "gitan-aw ka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "naglipoyot sila"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "nanimbong"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ang mga kalalawman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:56.573656817Z",
+  "model": "glm-5.3"
+}

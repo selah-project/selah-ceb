@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang mga anak ni Keturah, angbilin ni Avraham: natawo niya ⟨את⟩ si Zimran, ug si Yokshan, ug si Medan, ug si Midyan, ug si Yishbak, ug si Shuakh. Ug ang mga anak ni Yokshan: Sheva ug Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ni Keturah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "angbilin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "si Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "ug si Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "ug si Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "ug si Midyan"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "ug si Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "ug si Shuakh"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "ni Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ug Dedan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:26.744295502Z",
+  "model": "glm-5.3"
+}

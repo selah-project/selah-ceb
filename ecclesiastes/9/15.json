@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Og nakaplagan didto ang usa ka tawo nga kabus apan maalamon, ug siya nagluwas ⟨את⟩ sa dakbayan pinaagi sa iyang kaalam; apan walay bisan usa ka tawo naghinumdom ⟨את⟩ sa niadtong tawo nga kabus.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "og nakaplagan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "kabus"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ug nagluwas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "sa iyang kaalam"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "apan ang tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "naghinumdom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa niadtong tawo nga kabus"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "nga kabus"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "niadtong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:04.181153190Z",
+  "model": "glm-5.3"
+}

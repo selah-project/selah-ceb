@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nagkulog si Yahweh ⟨sa⟩ kalangitan, ug ang Elyon naghulad sa iyang tingog — ⟨mga⟩ yapo ug ⟨mga⟩ bara sa kalayo.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Nagkulog"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨sa⟩ kalangitan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ug ang Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "naghulad"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sa iyang tingog"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "yapo"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "ug mga bara"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:41.242418133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Apan ako, ngadto kanimo, Yahweh, nagpanawag ako, ug sa buntis sa pagkabuntag moduol kanimo ang akong pag-ampo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nagpanawag ako"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ug sa buntis sa pagkabuntag"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pag-ampo"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "moduol kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:43.637284913Z",
+  "model": "glm-5.3"
+}

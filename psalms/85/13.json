@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Gayod si Yahweh magahatag ⟨sa⟩ maayo, ug ang among yuta magahatag ⟨sa⟩ iyang anhi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ug ang among yuta"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "iyang anhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:25.086862616Z",
+  "model": "glm-5.3"
+}

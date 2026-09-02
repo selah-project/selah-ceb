@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Wala ba ang tsori (balsamo) sa Gilad? Wala ba didto ug magtatambal? Ngano nga wala man motungha ang kaayohan sa anak nga babae sa akong katawhan?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "ang tsori"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "magtatambal"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "motungha"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "ang kaayohan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:16:45.278176390Z",
+  "model": "glm-5.3"
+}

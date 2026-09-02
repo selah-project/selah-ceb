@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang mapangisog nga tawo gyud nangita ug daotan, ug mapait nga mensaero ⟨ang⟩ ipadala batok kaniya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "gyud"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ang mapangisog nga tawo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "nangita ug"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ug mensaero"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "batok kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:16.007257121Z",
+  "model": "glm-5.3"
+}

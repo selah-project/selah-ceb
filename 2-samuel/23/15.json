@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug nangandoy si David ug miingon: Kinsa ang magpainum kanako ug tubig gikan sa atabay sa Beit-Lechem, nga didto sa ganghaan?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "Ug nangandoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ang magpainum kanako"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ug tubig"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "gikan sa atabay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "didto sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:12.648929389Z",
+  "model": "glm-5.3"
+}

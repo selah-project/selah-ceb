@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 9:34",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ⟨את⟩ among mga hari, among mga pangulo, among mga sacerdote, ug among mga katigulangan wala magbuhat sa imong Torah, ug wala mamati sa imong mga sugo ug sa imong mga testigo nga imong gipamatuod kanila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "among mga hari"
+    },
+    {
+      "surface": "מלכינו",
+      "gloss": "among mga hari"
+    },
+    {
+      "surface": "שרינו",
+      "gloss": "among mga pangulo"
+    },
+    {
+      "surface": "כהנינו",
+      "gloss": "among mga sacerdote"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "ug among mga katigulangan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "magbuhat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sa imong Torah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imong mga sugo"
+    },
+    {
+      "surface": "ולעדותיך",
+      "gloss": "ug sa imong mga testigo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העידת",
+      "gloss": "imong gipamatuod"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:02.905788406Z",
+  "model": "glm-5.3"
+}

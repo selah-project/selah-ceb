@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang balay nga akong gitukod dako ⟨kini⟩, kay dako ang among Elohim labaw sa tanang ⟨mga⟩ dios.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Ug ang balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang among Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "mga dios"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:40.590823348Z",
+  "model": "glm-5.3"
+}

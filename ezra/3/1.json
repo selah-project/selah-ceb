@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miabot ang ikapitong bulan, ug ang mga anak ni Yisrael ⟨mga anak⟩ anaa sa ⟨mga⟩ siyudad; ug natigum ang katawhan ingon sa usa ka tawo ngadto sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "sa ⟨mga⟩ siyudad"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ug natigum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ingon sa usa ka tawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:44.979745569Z",
+  "model": "glm-5.3"
+}

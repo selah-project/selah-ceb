@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Gipatindog mo ang among mga sala ⟨mga⟩ atubangan nimo, ang among mga natago diha sa kahayag sa imong panagway.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "gipatindog mo"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ang among mga sala"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "atubangan nimo"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ang among mga natago"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "diha sa kahayag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong panagway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:21.711614945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ⟨את⟩ Yatir ug ⟨את⟩ ang iyang mga sementada, ug ⟨את⟩ Eshtemoa ug ⟨את⟩ ang iyang mga sementada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:18.013462666Z",
+  "model": "glm-5.3"
+}

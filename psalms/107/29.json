@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Gipatindog niya ang bagyo ngadto sa kahilum, ug naghilum ⟨ang⟩ ilang mga balud.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ang bagyo"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "ngadto sa kahilum"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "ug naghilum"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ang ilang mga balud"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:58.164516417Z",
+  "model": "glm-5.3"
+}

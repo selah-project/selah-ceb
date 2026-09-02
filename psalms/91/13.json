@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Sa lion ug bitin nga kobra pagatunton nimo; ang batanong lion ug ang dragon pagatumbanon nimo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "lion"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ug bitin nga kobra"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "pagatunton nimo"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "pagatumbanon nimo"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "batanong lion"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ug dragon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:10.767705979Z",
+  "model": "glm-5.3"
+}

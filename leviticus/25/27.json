@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "ihap niya ⟨את⟩ ang mga tuig sukad sa iyang pagbaligya ug isuli niya ⟨את⟩ ang sobra ngadto sa tawo nga nagpalit kaniya, ug mobalik siya sa iyang pagpanag-iya.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "ihap niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tuig"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang mga tuig"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "sukad sa iyang pagbaligya"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ug isuli niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sobra"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "ang sobra"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ngadto sa tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "nagpalit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug mobalik siya"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "sa iyang pagpanag-iya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:41.755258186Z",
+  "model": "glm-5.3"
+}

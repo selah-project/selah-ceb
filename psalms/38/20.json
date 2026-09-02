@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug ang akong mga kaaway buhi ⟨ug⟩ kusgan, ug nadaghan ang mga nagadumot kanako nga walay katarong.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Ug ang akong mga kaaway"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kusgan"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ug nadaghan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ang mga nagadumot kanako"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga walay katarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:47.599965486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ang mga mangulo sa Yisrael ug ang hari nagpaubos sa ilang kaugalingon, ug miingon sila: Matarong si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "nagpaubos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang-mga-mangulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ug-ang-hari"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug-miingon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:12.451904790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug ang ilang kasingkasing wala matindog uban kaniya, ug wala sila matinuod sa iyang pakigsaad.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "Ug ang ilang kasingkasing"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "matindog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sila matinuod"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "sa iyang pakigsaad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:19.808641834Z",
+  "model": "glm-5.3"
+}

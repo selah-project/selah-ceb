@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "aron ⟨sa⟩ pagkahibalo sa kinaadman ug sa pagtulon-an, aron sa pagsabot sa mga pulong sa pag-sabut —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "aron sa pagkahibalo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kinaadman"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ug pagtulon-an"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "aron sa pagsabot"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "sa pag-sabut"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:37.297408906Z",
+  "model": "glm-5.3"
+}

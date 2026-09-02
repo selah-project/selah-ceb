@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug nahitabo tungod sa kalig-on sa iyang pagpanapuk, nga gihugawan niya ⟨את⟩ ang yuta, ug nakighilawas siya ⟨את⟩ sa bato ug ⟨את⟩ sa kahoy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "tungod sa kalig-on"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "sa iyang pagpanapuk"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "gihugawan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "nakighilawas siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bato"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa kahoy"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sa kahoy"
+    }
+  ],
+  "timestamp": "2026-09-01T21:14:07.129075167Z",
+  "model": "glm-5.3"
+}

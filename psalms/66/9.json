@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "⟨Siya⟩ nga nagbutang sa among kalag sa kinabuhi, ug wala magtugot nga mokatol ang among mga tiil.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "sa among kalag"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala magtugot"
+    },
+    {
+      "surface": "נתן",
+      "gloss": ""
+    },
+    {
+      "surface": "למוט",
+      "gloss": "nga mokatol"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ang among mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:12.314960345Z",
+  "model": "glm-5.3"
+}

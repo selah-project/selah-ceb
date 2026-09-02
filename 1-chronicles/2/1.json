@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kini ang mga anak ni Yisrael: Reuven, Shimon, Levi, ug Yehudah, Yissakhar, ug Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ug Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissakhar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "ug Zevulun"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:56.129292872Z",
+  "model": "glm-5.3"
+}

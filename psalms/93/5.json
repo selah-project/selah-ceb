@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 93,
+  "translation": "Ang imong mga pagsaksi gibakod ⟨nga⟩ labaw pa; sa imong balay ang pagkadiosnon ⟨nga⟩ angay, Yahweh, sa taas nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imong mga pagsaksi"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "gibakod"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "labaw pa"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "angay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ang pagkadiosnon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "sa taas nga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:38.931232857Z",
+  "model": "glm-5.3"
+}

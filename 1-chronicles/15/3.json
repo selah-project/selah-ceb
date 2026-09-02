@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug gitipon ni David ang tibuok Israel ngadto sa Yerushalayim aron ipataas ⟨את⟩ ang arka ni Yahweh ngadto sa iyang dapit, nga iyang giandam alang niini.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "gitipon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "aron ipataas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iyang dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "giandam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:00.081905887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Mga kamot nila apan wala makahikap; mga tiil nila apan wala makalakaw; wala sila mamumulong ⟨sa⟩ ilang tutunlan",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "mga kamot nila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "makahikap"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "mga tiil nila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "makalakaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mamumulong"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "sa ilang tutunlan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:37.160917352Z",
+  "model": "glm-5.3"
+}

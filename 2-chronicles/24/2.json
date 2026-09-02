@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gihimo ni Yoash ang matarong ⟨sa⟩ mga mata ni Yahweh tanan nga adlaw ni Yehoyada ⟨ang⟩ pari.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "si Yoash"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨sa⟩ mga mata ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw ni"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨ang⟩ pari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:42.415019689Z",
+  "model": "glm-5.3"
+}

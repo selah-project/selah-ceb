@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Ang mga bukid ug ⟨ang⟩ tanang mga bungtod, mga kahoy nga namunga ug ⟨ang⟩ tanang mga sedro:",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tanang"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mga bungtod"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "nga namunga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tanang"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "mga sedro"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:44.587577284Z",
+  "model": "glm-5.3"
+}

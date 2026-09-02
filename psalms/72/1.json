@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "⟨Alang kang⟩ Shelomo. Elohim, ang imong mga pagtulon-an ⟨ihatag⟩ sa hari, ug ang imong pagkamatarong sa anak sa hari.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "⟨Alang kang⟩ Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang imong mga pagtulon-an"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "תן",
+      "gloss": "⟨ihatag⟩"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ug ang imong pagkamatarong"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:10.903101593Z",
+  "model": "glm-5.3"
+}

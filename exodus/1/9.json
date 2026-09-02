@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon siya ngadto sa iyang katawhan: Tan-awa, ang katawhan sa mga anak ni Yisra'el nagkadaghan ug nagakusog na ⟨kaysa⟩ kanato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "רב",
+      "gloss": "nagkadaghan"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "ug nagakusog"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨kaysa⟩ kanato"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:25.892185182Z",
+  "model": "glm-5.3"
+}

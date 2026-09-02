@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Nagasulti ako ngadto kang Yahweh: El ako ⟨ikaw⟩; paminawa, Yahweh, ang tingog sa akong mga pangadyi.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Nagasulti ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "paminawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "sa akong mga pangadyi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.991091809Z",
+  "model": "glm-5.3"
+}

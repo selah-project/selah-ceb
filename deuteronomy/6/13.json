@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahweh nga imong Elohim ikaw mahadlok, ug ⟨את⟩ ⟨kaniya⟩ imong alagaron, ug sa iyang Ngalan ikaw manumpa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh nga imong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ikaw mahadlok"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ⟨kaniya⟩"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "imong alagaron"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ug sa iyang Ngalan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ikaw manumpa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:18.099312834Z",
+  "model": "glm-5.3"
+}

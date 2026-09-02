@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "Kay kanimo ⟨naa⟩ ang pagpasaylo, aron ikaw igatahod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ang pagpasaylo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ikaw igatahod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:51.396241974Z",
+  "model": "glm-5.3"
+}

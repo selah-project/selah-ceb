@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 82,
+  "translation": "Apan ingon sa tawo kamo mamatay, ug ingon sa usa sa mga prinsipe kamo mahulog.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "ingon sa tawo"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "kamo mamatay"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ug ingon sa usa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "sa mga prinsipe"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "kamo mahulog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.836655537Z",
+  "model": "glm-5.3"
+}

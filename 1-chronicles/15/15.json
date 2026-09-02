@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Gidala sa mga anak nga Levita ⟨את⟩ kahon sa Elohim, sumala sa gisugo ni Moshe, sumala sa pulong ni Yahweh, sa ilang abaga, ibabaw sa mga baras sa ibabaw niini.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "gidala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahon sa Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "sa ilang abaga"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "sa mga baras"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw niini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:47:22.166705329Z",
+  "model": "glm-5.3"
+}

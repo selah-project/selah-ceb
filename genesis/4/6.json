@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug miingon si Yahweh kang Kayin: Ngano nga nasuko ka, ug ngano nga nahulog ang imong nawong?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nasuko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ug ngano nga"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:17.967494081Z",
+  "model": "glm-5.3"
+}

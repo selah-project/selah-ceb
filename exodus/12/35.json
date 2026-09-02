@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ang mga anak ni Yisrael nagbuhat sumala sa pulong ni Moshe, ug nangayo sila gikan sa Mitsrayim ug mga sudlanan nga plata ug mga sudlanan nga bulawan ug mga bisti.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ug nangayo sila"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nga plata"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ug mga sudlanan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ug mga bisti"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:06.145345421Z",
+  "model": "glm-5.3"
+}

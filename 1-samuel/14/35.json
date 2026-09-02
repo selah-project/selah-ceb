@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug si Shaul nagtindog ug ⟨את⟩ altar kang Yahweh; uban niini siya nagsugod sa pagtindog ug altar kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "⟨usa ka⟩ altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "altar"
+    },
+    {
+      "surface": "החל",
+      "gloss": "siya nagsugod"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtindog"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:52.439217790Z",
+  "model": "glm-5.3"
+}

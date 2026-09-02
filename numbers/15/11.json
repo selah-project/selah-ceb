@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ingon niana buhaton alang sa baka ⟨ang⟩ usa, o alang sa carnero ⟨ang⟩ usa, o alang sa karnero sa mga karnero, o sa mga kanding.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Ingon niana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "alang sa baka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨ang⟩ usa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "alang sa carnero"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨ang⟩ usa"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "alang sa karnero"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "sa mga karnero"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "sa mga kanding"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:39.962778334Z",
+  "model": "glm-5.3"
+}

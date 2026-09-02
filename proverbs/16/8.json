@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Maayo ang gamay ⟨nga bahin⟩ uban sa pagkamatarong kay sa daghang abot nga walay hustisya.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ang gamay"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "uban sa pagkamatarong"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kay sa daghang"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "abot"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:09.936145560Z",
+  "model": "glm-5.3"
+}

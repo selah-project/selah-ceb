@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kay sa dili pa makaila ang bata sa pagtawag Amahan ko ug Inahan ko, dad-on ⟨את⟩ ang bahandi sa Damasek ug ⟨את⟩ ang satinak sa Shomeron atubang sa hari sa Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sa dili pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sa pagtawag"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Amahan ko"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ug Inahan ko"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dad-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bahandi sa Damasek"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ang bahandi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "sa Damasek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang satinak sa Shomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ang satinak"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:17.832135998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Milakaw si David ug ang tibuok Israel ngadto sa Yerushalayim — kini mao ang Yebus — ug didto ⟨mga⟩ Yebusnon, ang mga pumoluyo sa ⟨⟨ang⟩⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini mao ang"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yebus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusnon"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-02T01:07:20.022706435Z",
+  "model": "glm-5.3"
+}

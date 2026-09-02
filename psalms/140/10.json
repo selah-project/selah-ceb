@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "⟨Ang⟩ ulo sa mga naglibut kanako — ang kapintas sa ilang mga ngabil motabon ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "mga naglibut kanako"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kapintas"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ila mga ngabil"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "motabon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:57.034691739Z",
+  "model": "glm-5.3"
+}

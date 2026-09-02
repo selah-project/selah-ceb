@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Hinaot mawala sila ingon sa tubig nga molabay; itudlok niya ang iyang pana — hinaot matarong sila ingon nga naputol.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "mawala sila"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "molabay"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "itudlok"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "ang iyang pana"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "matarong sila \/ naputol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.429511093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Gilain ug gibiyai sa mga tawo, tawo sa mga kasakit ug pamilyar sa sakit; ug ingon sa usa nga nagtago sa dagway gikan kaniya, gilain, ug wala nato siya pag-ihap.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Gilain"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "ug gibiyai"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "sa mga kasakit"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "ug pamilyar"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "sa sakit"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "ug ingon sa usa nga nagtago"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa dagway"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "gilain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "nato siya pag-ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:47.995754420Z",
+  "model": "glm-5.3"
+}

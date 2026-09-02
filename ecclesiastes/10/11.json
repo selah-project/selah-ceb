@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kon mosimhot ang bitin nga walay panagmahal, walay kaayohan alang sa tag-iya sa dila.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "mosimhot"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ang bitin"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "panagmahal"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "kaayohan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "alang sa tag-iya"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "sa dila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:27.414107072Z",
+  "model": "glm-5.3"
+}

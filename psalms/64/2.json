@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Paminawa, Elohim, ang akong tingog sa akong pag-antos; gikan sa kahadlok sa manaway panipakon nimo ang akong kinabuhi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "sa akong pag-antos"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "gikan sa kahadlok"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sa manaway"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "panipakon nimo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:39.916836690Z",
+  "model": "glm-5.3"
+}

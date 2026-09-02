@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Nahibalo ako sa tanan nga mga langgam sa mga bukid, ug ang mga mananap sa kapatagon ⟨naa⟩ kauban ako.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "mga langgam"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ug ang mga mananap"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sa kapatagon"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kauban ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:58.804714133Z",
+  "model": "glm-5.3"
+}

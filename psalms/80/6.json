@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Gipakaon Nimo sila og tinapay nga mga luha, ug gipainum Nimo sila og mga luha ⟨sa kadaghan⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Gipakaon Nimo sila"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "nga mga luha"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ug gipainum Nimo sila"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "og mga luha"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "⟨sa kadaghan⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:07.323464246Z",
+  "model": "glm-5.3"
+}

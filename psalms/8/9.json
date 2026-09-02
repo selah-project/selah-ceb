@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ang mga langgam sa kalangitan ug ang mga isda sa dagat, ⟨ang mga⟩ molatas sa mga agianan sa mga dagat.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "mga langgam"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ug ang mga isda"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "molatas"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "sa mga agianan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sa mga dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:22.812343906Z",
+  "model": "glm-5.3"
+}

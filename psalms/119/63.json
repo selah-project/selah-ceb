@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Kaabay ako sa tanan nga nagakabalaka kanimo, ug sa nagatuman sa imong mga pamaagi.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "kaabay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "nagakabalaka kanimo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "ug sa nagatuman"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sa imong mga pamaagi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:45.368279109Z",
+  "model": "glm-5.3"
+}

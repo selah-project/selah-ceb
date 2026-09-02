@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gigahum ni David ⟨את⟩ si Hadadezer anak ni Rehov, hari sa Tsova, sa iyang pagpanaw aron pagpauli sa iyang kamot sa suba.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gigahum"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ni Rehov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "sa Tsova"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "sa iyang pagpanaw"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "aron pagpauli"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "sa suba"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:53.252617962Z",
+  "model": "glm-5.3"
+}

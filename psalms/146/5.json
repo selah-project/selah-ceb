@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Malipayon ⟨ang tawo⟩ nga ang iyang tabang mao ang El ni Yaakov, nga ang iyang paglaom anaa kang Yahweh, ang iyang Elohim.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "⟨ang tawo⟩ nga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "ang iyang tabang"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ang iyang paglaom"
+    },
+    {
+      "surface": "על",
+      "gloss": "anaa kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ang iyang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:24.323660218Z",
+  "model": "glm-5.3"
+}

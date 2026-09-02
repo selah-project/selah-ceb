@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Nangadto na sa ubos ang napulo ka mga igsoon ni Yosef aron makapalit og bugas gikan sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "nangadto na sa ubos"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mga igsoon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "aron makapalit"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bugas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:03.554297720Z",
+  "model": "glm-5.3"
+}

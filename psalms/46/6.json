@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "⟨Anaa⟩ si Elohim sa tunga niini — dili gayod kini makalog — motabang si Elohim ⟨kaniini⟩ sa pagpakita sa kabuntagon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sa tunga niini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "makalog"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "motabang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "sa pagpakita sa"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kabuntagon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:14.757239258Z",
+  "model": "glm-5.3"
+}

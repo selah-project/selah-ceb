@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gigisi niya ang tanang panganay sa ilang yuta, ang kinamugna sa tanan nilang kusog.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gigisi niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa ilang yuta"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang kinamugna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "nilang kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:09.938594871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gipapauli ni Moshe ang iyang ugangan ⟨את⟩; ug miadto siya ⟨sa iyang kaugalingong⟩ agianan ngadto sa iyang yuta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipapauli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ugangan"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ang iyang ugangan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug miadto siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iyang kaugalingong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iyang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:25.860412469Z",
+  "model": "glm-5.3"
+}

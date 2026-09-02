@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Kay magahukom si Yahweh alang sa iyang katawhan, ug mahinulsol ⟨siya⟩ alang sa iyang mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iang mga sulugoon"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "mahinulsol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:16.879739072Z",
+  "model": "glm-5.3"
+}

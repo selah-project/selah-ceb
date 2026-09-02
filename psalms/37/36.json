@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Apan miagi siya ug ania kini — wala na siya; ug gipangita ko siya apan wala makaplagan.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Apan miagi siya"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na siya"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "ug gipangita ko siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "makaplagan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:33.712063365Z",
+  "model": "glm-5.3"
+}

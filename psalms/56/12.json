@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Sa Elohim nagbutang ako ug pagtoo; dili ako mahadlok — unsa man ang mahimo sa tawo ⟨ kanako ⟩?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagbutang ako ug pagtoo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ako mahadlok"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa man"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang mahimo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kanako⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:02.389613327Z",
+  "model": "glm-5.3"
+}

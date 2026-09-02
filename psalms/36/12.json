@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ayaw tugoti nga moabot kanako ang tiil sa garbo, ug ang kamot sa mga dautan ayaw ako pagpalihok.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "tugoti nga moabot kanako"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ang tiil"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sa garbo"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ug ang kamot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "ako pagpalihok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.684244897Z",
+  "model": "glm-5.3"
+}

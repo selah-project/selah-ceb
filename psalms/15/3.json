@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Wala magtahas sa iyang dila, wala pagbuhat ug daotan ngadto sa iyang isigkatawo, ug wala modala ug kaulaw batok sa iyang paryente.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "magtahas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "iyang dila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ngadto sa iyang isigkatawo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ug daotan"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "ug kaulaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "modala"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "iyang paryente"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:20.943866281Z",
+  "model": "glm-5.3"
+}

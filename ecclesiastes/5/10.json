@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Sa pagdaghan ⟨sa⟩ mga maayong butang, nagadaghan usab ang mga mokaon niini; ug unsa may kapuslanan sa tag-iya niini kundi ang pagtan-aw sa iyang mga mata?",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "sa pagdaghan"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ang mga maayong butang"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nagadaghan"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "ang mga mokaon niini"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa may"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kapuslanan"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "sa tag-iya niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dili lang"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ang pagtan-aw"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sa iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:42.598706902Z",
+  "model": "glm-5.3"
+}

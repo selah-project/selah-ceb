@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ug magsakripisyo sila ug mga sakripisyo sa pagtumanod, ug isulti nila ang iyang mga buhat uban sa pagdayeg.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Ug magsakripisyo sila"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mga sakripisyo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sa pagtumanod"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ug isulti nila"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ang iyang mga buhat"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "uban sa pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:20.226581914Z",
+  "model": "glm-5.3"
+}

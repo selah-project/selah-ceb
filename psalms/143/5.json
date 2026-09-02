@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Gihinumdom nako ang mga adlaw sa karaan panahon; gihuna-hunaa nako ang tanan nimong buhat; sa buhat sa imong mga kamot nagapanimalay ako.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Gihinumdom nako"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa karaan panahon"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "gihuna-hunaa nako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "nimong buhat"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "sa buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sa imong mga kamot"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "nagapanimalay ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:41.816926490Z",
+  "model": "glm-5.3"
+}

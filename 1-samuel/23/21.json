@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug si Shaul miingon: Bulahan kamo ⟨sa⟩ Yahweh, kay nagkahadlok kamo alang kanako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "bulahan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "nagkahadlok kamo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "alang kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:45.372355326Z",
+  "model": "glm-5.3"
+}

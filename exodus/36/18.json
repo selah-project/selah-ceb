@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gihimo niya ang kalim-an ka mga kawit nga tumbaga aron sa paghipos sa ⟨את⟩ tolda aron mahimong usa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "mga kawit"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "kalim-an"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "aron sa paghipos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "להית",
+      "gloss": "aron mahimong"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:24.254973102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang among mga amahan ang nakasala, ug wala na sila; kami ⟨ang⟩ nag-antus sa ilang mga kasal-anan.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ang among mga amahan"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nakasala"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "wala na sila"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "sa ilang mga kasal-anan"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "nag-antus"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:25.517682480Z",
+  "model": "glm-5.3"
+}

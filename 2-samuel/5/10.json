@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug si David midako paingon sa pagkadako, ug si Yahweh, ang Elohim sa mga panon, ⟨naa⟩ uban kaniya.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ug midako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "paingon sa"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "pagkadako"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim sa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "mga panon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:47.013748962Z",
+  "model": "glm-5.3"
+}

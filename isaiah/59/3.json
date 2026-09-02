@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Kay ang inyong mga palad napanal ug dugo, ug ang inyong mga tudlo ⟨apan⟩ sa kasalanan; ang inyong mga ngabil nagsulti bakak, ang inyong dila nagahunahuna pagkadaut.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "ang inyong mga palad"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "napanal"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ug dugo"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "ug ang inyong mga tudlo"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "sa kasalanan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "ang inyong mga ngabil"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ang inyong dila"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "pagkadaut"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "nagahunahuna"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:40.655315170Z",
+  "model": "glm-5.3"
+}

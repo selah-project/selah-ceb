@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang ulan anaa ibabaw sa ⟨ang⟩ yuta katloan ug napulo ka adlaw ug katloan ug napulo ka gabii.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ang ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "katloan ug napulo ka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ug katloan ug napulo ka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:18.241925181Z",
+  "model": "glm-5.3"
+}

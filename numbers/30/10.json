@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug ang saad sa usa ka biyuda ug sa usa ka gibuhian — bisan unsa nga iyang gisapot sa iyang kalag, motindog batok kaniya.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Ug ang saad"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "sa usa ka biyuda"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "ug sa usa ka gibuhian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan unsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "iyang gisapot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "iyaang kalag"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "motindog"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:22.274695972Z",
+  "model": "glm-5.3"
+}

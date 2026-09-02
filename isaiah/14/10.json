@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Tanan sila motubag ug moingon kanimo: Ikaw usab nahuyang sama kanamo, ngadto kanimo nahisama ka.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tanan sila"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "motubag"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "nahuyang"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "sama kanamo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ngadto kanamo"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "nahisama ka"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:12.511345150Z",
+  "model": "glm-5.3"
+}

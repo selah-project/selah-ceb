@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Busa ingna: Ania karon, nagahatag ako kaniya ⟨את⟩ sa akong pakigsaad sa pakigdait.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ingna"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania karon ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong pakigsaad sa pakigdait"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akong pakigsaad"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pakigdait"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:34.498198579Z",
+  "model": "glm-5.3"
+}

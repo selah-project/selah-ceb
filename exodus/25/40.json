@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug tan-awa ug buhata sila sumala sa ilang panghulagway, nga imong gipakita diha sa bukid.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhata"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "sumala sa ilang panghulagway"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "gipakita kanimo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "diha sa bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:12.969863848Z",
+  "model": "glm-5.3"
+}

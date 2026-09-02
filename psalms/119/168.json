@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gipabantayan ko ang imong mga gusto ug ang imong mga pagsaksi, kay ang tanan nako nga mga dalan ⟨a⟩ atubangan nimo.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "gipabantayan ko"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imong mga gusto"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "ug imong mga pagsaksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nako nga mga dalan"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "atubangan nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:55.609661918Z",
+  "model": "glm-5.3"
+}

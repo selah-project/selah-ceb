@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Abigail natawo ⟨את⟩ si Amasa; ug ang amahan ni Amasa mao si Yeter nga Ishmaelita.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Ug si Abigail"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "si Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "ug ang amahan ni"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "si Yeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "nga Ishmaelita"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:54.285301852Z",
+  "model": "glm-5.3"
+}

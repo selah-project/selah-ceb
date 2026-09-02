@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Kinsa kaninyo mamati niini? Mosinati ug mamati ⟨sa mga butang⟩ sa ulahi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "mosinati"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug mamati"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "sa ulahi"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:52.867013449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ang imong gingharian usa ka gingharian sa tanang panahon, ug ang imong pagmando sa tagsa-tagsa nga henerasyon ug henerasyon.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "ang imong gingharian"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "gingharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "ug ang imong pagmando"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tagsa-tagsa nga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ug henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:07.501661510Z",
+  "model": "glm-5.3"
+}

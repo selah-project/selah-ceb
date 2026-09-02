@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ako naghigda ako ug natulog, nakabangon ako, kay si Yahweh nagtindog sa pagpalig-on kanako.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "naghigda ako"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ug natulog"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "nakabangon ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "nagtindog sa pagpalig-on kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:36.523797228Z",
+  "model": "glm-5.3"
+}

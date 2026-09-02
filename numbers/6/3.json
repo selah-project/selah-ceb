@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Gikan sa alak ug sa ilimnon nga makahubog magbihag siya ⟨sa kaugalingon⟩; suka sa alak ug suka sa makahubog nga ilimnon dili siya mou inom, ug bisan unsang tubig sa ubas dili siya moinom, ug ubas nga bag-ong putol ug uga nga ubas dili niya kan-on.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "Gikan sa alak"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ug sa ilimnon nga makahubog"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "magbihag siya ⟨sa kaugalingon⟩"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "suka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "sa alak"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "ug suka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sa makahubog nga ilimnon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "siya moinom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug bisan unsang"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "tubig sa"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ubas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "siya moinom"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "ug ubas"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "nga bag-ong putol"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "ug uga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "niya kan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:57.579655559Z",
+  "model": "glm-5.3"
+}

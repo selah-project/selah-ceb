@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Ang akong baba magasugilon sa imong kaangayan, tibuok adlaw sa imong kaluwasan, kay wala ako makahibalo sa pag-ihap niini.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ang akong baba"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "magasugilon"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sa imong kaangayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "sa imong kaluwasan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ako makahibalo"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "sa pag-ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:45.227618514Z",
+  "model": "glm-5.3"
+}

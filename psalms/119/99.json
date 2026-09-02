@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Labaw sa tanan akong mga magtutudlo ⟨ako⟩ nakasabot, kay ang imong mga pagsaksi mao ang akong pagpamalandong.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "akong mga magtutudlo"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "nakasabot ⟨ako⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ang imong mga pagsaksi"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "pagpamalandong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:06.139516202Z",
+  "model": "glm-5.3"
+}

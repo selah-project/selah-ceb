@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 37:22",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug himoon nako sila ⟨את⟩ nga usa ka nasod sa yuta, sa mga bukid sa Yisrael, ug usa ka hari ang mahimong hari alang kanila tanan, ug dili na sila mahimong duha ka mga nasod, ug dili na sila bahinon pag-usab ngadto sa duha ka mga gingharian pag-usab.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Ug himoon nako"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "nga usa ka nasod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug usa ka hari"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang mahimong"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "alang kanila tanan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "sila bahinon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "ngadto sa duha ka"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    }
+  ],
+  "timestamp": "2026-09-01T21:45:36.557411034Z",
+  "model": "glm-5.3"
+}

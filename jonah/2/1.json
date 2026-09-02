@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gipangandoy ni Yahweh ang usa ka dako nga isda aron lamunon ⟨את⟩ si Yonah; ug nahimong anaa si Yonah sa sulod sa tiyan sa isda tulog ka adlaw ug tulog ka gabii.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "gipangandoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "isda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "aron lamunon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimong anaa"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "sa sulod sa tiyan"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "sa isda"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulog ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ug tulog ka"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:11.018401630Z",
+  "model": "glm-5.3"
+}

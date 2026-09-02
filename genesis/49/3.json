@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Reuven, ikaw ang akong panganay, ang akong kusog ug ang sinugdanan sa akong gahum — ⟨ang⟩ labaw sa dungog ug labaw sa kusog.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "akong panganay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "akong kusog"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ug ang sinugdanan"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "sa akong gahum"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "labaw"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "sa dungog"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ug labaw"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sa kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:52.140211949Z",
+  "model": "glm-5.3"
+}

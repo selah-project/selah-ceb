@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Nangandoy si Yosef ug usa ka damgo, ug gisulti niya kini sa iyang mga igsoon, ug nadugangan pa sila sa pagkadumili kaniya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "nangandoy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "usa ka damgo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisulti niya"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "sa iyang mga igsoon"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "ug nadugangan pa sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "sa pagkadumili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:46.024798662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ikaw, bangon, lakaw ngadto sa imong balay; sa pagsulod sa imong mga tiil ngadto sa dakbayan, mamatay ang bata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "bangon"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ngadto sa imong balay"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "sa imong mga tiil"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ngadto sa dakbayan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:06.721086728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Paghimaya kang Yah; pagtagni sa Yahweh, kay ⟨siya⟩ maayo, kay ang iyang hesed ⟨molungtad⟩ hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "paghimaya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "pagtagni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.662481914Z",
+  "model": "glm-5.3"
+}

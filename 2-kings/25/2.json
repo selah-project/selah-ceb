@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug nahiapil ⟨ang dakbayan⟩ sa pagsulog hangtod sa ikadinakan ug usa ka tuig sa paghari ni Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "nahiapil"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "sa pagsulog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ikadinakan ug usa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa paghari"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:07.474585518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kay ang akong sayop ipahibalo ko, mabalaka ako tungod sa akong sala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ang akong sayop"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ipahibalo ko"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "mabalaka ako"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "tungod sa akong sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:47.599800996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug miingon ⟨siya⟩: Wala ako magbungkag sa Israel, kondili ikaw ug ang panimalay sa imong amahan, sa pagbiya ninyo ⟨את⟩ sa mga sugo ni Yahweh ug sa pagtuman ninyo sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ako magbungkag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kondili⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kondili⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug ang panimalay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "sa pagbiya ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga sugo ni Yahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sa mga sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ug sa pagtuman ninyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:48.464096528Z",
+  "model": "glm-5.3"
+}

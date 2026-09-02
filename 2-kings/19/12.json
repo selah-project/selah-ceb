@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Nagluwas ba ⟨את⟩ kanila ang mga elohim sa mga nasud nga gilaglag sa akong mga amahan — ang Gozan ug ⟨את⟩ ang Kharan, ug ang Retsef, ug ang mga anak sa Eden nga anaa sa Telassar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Nagluwas ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang mga elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sa mga nasud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "gilaglag"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "sa akong mga amahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Kharan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Kharan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ug ang Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "anaa sa Telassar"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:03.632087014Z",
+  "model": "glm-5.3"
+}

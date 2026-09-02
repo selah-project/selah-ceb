@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug nagpabilin sila nga naglingkod sulod sa tulo ka tuig nga walay gubat taliwala sa Aram ug taliwala sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "naglingkod sila"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:48.344781819Z",
+  "model": "glm-5.3"
+}

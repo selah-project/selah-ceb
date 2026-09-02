@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Sa panguna sa magdadagkop, alang sa sulugoon ni Yahweh, kang David, nga nagsulti kang Yahweh ⟨את⟩ ⟨ang⟩ mga pulong niini nga awit, sa adlaw nga giluwas ni Yahweh ⟨את⟩ siya gikan sa kamot sa tanan niyang mga kaaway ug gikan sa kamot ni Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa panguna sa magdadagkop"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "alang sa sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong niini nga awit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "sa awit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "giluwas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "nga mga kaaway niya"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ug gikan sa kamot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:37.080501039Z",
+  "model": "glm-5.3"
+}

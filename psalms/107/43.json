@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Kinsa ang maalam? Magbantay siya niini, ug magtandi sila sa mga hesed ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ang maalam"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ug magbantay siya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "ug magtandi sila"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "mga hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:46.616172482Z",
+  "model": "glm-5.3"
+}

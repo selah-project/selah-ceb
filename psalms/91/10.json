@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Dili moabot kanimo ang kadaotan, ug ang plaga dili moduol sa imong tolda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang kadaotan"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ug ang plaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "moduol"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa imong tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.508373235Z",
+  "model": "glm-5.3"
+}

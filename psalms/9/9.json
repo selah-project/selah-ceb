@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug siya magahukom sa kalibutan ⟨sa⟩ katarong, magatuki sa mga nasod ⟨sa⟩ matul-idong pagtamod.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa katarong"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magatuki"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sa matul-idong pagtamod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.111980553Z",
+  "model": "glm-5.3"
+}

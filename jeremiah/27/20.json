@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "nga wala kuhaa ni Nebukadnetsar nga hari sa Babilonya sa pagkadagat niya ⟨את⟩ kang Yekonyah nga anak ni Yehoyakim nga hari sa Yehudah gikan sa Yerushalayim ngadto sa Babilonya, ug ⟨את⟩ tanan nga mga manggaranon sa Yehudah ug sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonya"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "sa pagkadagat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yekonyah"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "gikan sa Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ngadto sa Babilonya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga mga manggaranon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "mga manggaranon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ug sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:23:50.465443174Z",
+  "model": "glm-5.3"
+}

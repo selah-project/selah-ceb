@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Magakalipay ako ug magatuwa kanimo; maggukit ako sa imong ngalan, O Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Magakalipay ako"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "ug magatuwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "maggukit ako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "O Elyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:09.770553060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "Ang atong kinabuhi nakalagtaw ingon sa langgam gikan sa panon sa mga mangisda; naputol ang panon, ug kita nakalagtaw na.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ang atong kinabuhi"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ingon sa langgam"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "nakalagtaw"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "gikan sa panon"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "sa mga mangisda"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ang panon"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "naputol"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ug kita"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "nakalagtaw na"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:08.543440524Z",
+  "model": "glm-5.3"
+}

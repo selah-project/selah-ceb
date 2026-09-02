@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nagapadayag si Yahweh sa mga mapainubsanon, nagapaubos sa mga daotan ngadto sa kataposan sa yuta.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "Nagapadayag"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sa mga mapainubsanon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "nagapaubos"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga daotan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ngadto sa kataposan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:30.507670579Z",
+  "model": "glm-5.3"
+}

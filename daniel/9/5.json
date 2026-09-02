@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nakasala kami, nakagihig kami, nakabuhat ug kadaotan kami, namugna kami, ug miwala ⟨kami⟩ gikan sa imong mga sugo ug gikan sa imong mga pagahukman.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nakasala kami"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "nakagihig kami"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "nakabuhat ug kadaotan kami"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "namugna kami"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "miwala ⟨kami⟩"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "gikan sa imong mga sugo"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ug gikan sa imong mga pagahukman"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:43.402149138Z",
+  "model": "glm-5.3"
+}

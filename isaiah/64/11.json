@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Tungod niini ba magabaton ka ikaw, Yahweh? Magatahimik ka ug pagpasakiton mo kami sa kaayo?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "Tungod niini ba"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini (kining mga butanga)"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "magabaton ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "magatahimik ka"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "ug pagpasakiton mo kami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:49.144782038Z",
+  "model": "glm-5.3"
+}

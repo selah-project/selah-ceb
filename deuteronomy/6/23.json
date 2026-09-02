@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ kami gikuha niya gikan didto, aron ⟨את⟩ kami iya nga dad-on sulod, sa paghatag ngadto kanamo ⟨את⟩ ⟨ang⟩ yuta nga iyang gpanumpa ngadto sa among mga amahan.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami (gikuha)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "gikuha gikan sa gawas"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "iya nga dad-on sulod"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami (dad-on sulod)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ngadto kanamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "iyang gipanumpa"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ngadto sa among mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:43.755608960Z",
+  "model": "glm-5.3"
+}

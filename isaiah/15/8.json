@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Kay nagsilibog ang singgit ⟨את⟩ ang utlanan sa Moab; hangtod sa Eglajim ang pagpanaw-aw niini, ug hangtod sa Be'er-Elim ang pagpanaw-aw niini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "nagsilibog"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "ang singgit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang utlanan sa Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ang utlanan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglajim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ang pagpanaw-aw niini"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Be'er-Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ang pagpanaw-aw niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:16.261446302Z",
+  "model": "glm-5.3"
+}

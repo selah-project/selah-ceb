@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ⟨nahitabo⟩ tungod kay ang mga mamumuno nagkahadlok kang ⟨את⟩ Elohim, nga ⟨siya⟩ naghimo alang kanila ug mga balay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨nahitabo⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "nagkahadlok"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ang mga mamumuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:42.995784239Z",
+  "model": "glm-5.3"
+}

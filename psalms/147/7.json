@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Pag-awit kamo kang Yahweh uban sa pagpasalamat; pag-zamer kamo sa atong Elohim uban sa kinor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Pag-awit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "uban sa pagpasalamat"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pag-zamer kamo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uban sa kinor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:30.507808038Z",
+  "model": "glm-5.3"
+}

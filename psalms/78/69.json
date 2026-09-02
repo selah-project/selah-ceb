@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gitukod niya ingon sa mga kahitas-an ang iyang santuwaryo, ingon sa yuta nga iyang gitukod ⟨kini⟩ hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ug gitukod niya"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "mga kahitas-an"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "ang iyang santuwaryo"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "ingon sa yuta"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "iya nga gitukod ⟨kini⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:26.209003803Z",
+  "model": "glm-5.3"
+}

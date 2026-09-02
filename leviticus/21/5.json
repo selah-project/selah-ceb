@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Dili sila maghimo ug kinahubasan ⟨sa⟩ ilang ulo, ug ang gilid sa ilang barbas dili nila pagahipason, ug sa ilang unod dili sila maghimo ug pagbinahin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "maghimo ug kinahubasan"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kinahubasan"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "sa ilang ulo"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ug ang gilid"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "sa ilang barbas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "pagahipason"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "ug sa ilang unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "magsuhop ug binahin"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "binahin"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:04.699666365Z",
+  "model": "glm-5.3"
+}

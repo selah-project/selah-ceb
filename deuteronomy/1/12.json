@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Unsaon man nako pagdala sa akong kaugalingon lamang ang inyong kagab-uon, ang inyong kabug-at, ug ang inyong mga away?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "unsaon man"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ako magdala"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sa akong kaugalingon lamang"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "inyong kagab-uon"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ug inyong kabug-at"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ug inyong mga away"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:12.582257712Z",
+  "model": "glm-5.3"
+}

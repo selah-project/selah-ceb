@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug magbantay kamo ⟨kamo⟩ ⟨את⟩ ang akong mga lagda ug ⟨את⟩ ang akong mga hukom, ug ayaw pagbuhat sa bisan usa sa niining mga kahugawan — ang lumad ug ang langyaw nga nagpuyo taliwala ninyo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ug magbantay kamo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga lagda"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ang akong mga lagda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga hukom"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akong mga hukom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa bisan usa sa tanan"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mga kahugawan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ang lumad"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ug ang langyaw"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nagpuyo nga langyaw"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "taliwala ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:04.106214230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang dalan sa bakak ihiway kanako, ug pinaagi sa imong Torà mahiyawan ako.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ihiway"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ug ang imong Torà"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mahiyawan ako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:01.550169655Z",
+  "model": "glm-5.3"
+}

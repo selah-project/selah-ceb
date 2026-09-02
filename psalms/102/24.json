@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Gipaubos niya ang akong gahum sa dalan, gipamubay niya ang akong mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "gipaubos"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ang akong gahum"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "gipamubay"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang akong mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:53.944696628Z",
+  "model": "glm-5.3"
+}

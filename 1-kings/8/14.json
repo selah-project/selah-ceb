@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gituyok sa hari ⟨את⟩ ang iyang nawong, ug iyang gipanalangin ⟨את⟩ ang tibuok katigayonan sa Israel, ug ang tibuok katigayonan sa Israel nagtindog.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ug gituyok"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iyang nawong"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug iyang gipanalangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok katigayonan sa Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katigayonan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katigayonan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagtindog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:00.348786377Z",
+  "model": "glm-5.3"
+}

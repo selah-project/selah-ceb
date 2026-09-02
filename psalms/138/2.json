@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Magatuho ako ngadto sa imong balaang templo, ug magasalamaton ako sa ⟨את⟩ imong ngalan, tungod sa imong hesed ug sa imong katinuod; kay gipadako nimo ang imong pulong sa ibabaw sa tanan nimong ngalan.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "magatuho ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imong balaan"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ug magasalamaton ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong ngalan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "imong katinuod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "gipadako nimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nimong ngalan"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:12.686728998Z",
+  "model": "glm-5.3"
+}

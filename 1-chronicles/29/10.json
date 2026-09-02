@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Gipanalanginan ni David si ⟨את⟩ Yahweh sa atubangan sa tibuok katilingban, ug si David miingon: Bulahan ⟨ikaw⟩, Yahweh, Elohim ni Yisrael, ang among Amahan, gikan sa kahangtud hangtod sa kahangtud.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ang among Amahan"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sa kahangtud"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtud"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:34.152281434Z",
+  "model": "glm-5.3"
+}

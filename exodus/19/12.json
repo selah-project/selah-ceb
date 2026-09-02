@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug pagautlonan mo ⟨את⟩ ⟨ang⟩ katawhan sa palibot, nga nagaingon: Magbantay kamo sa inyong kaugalingon sa pagsaka sa bukid o sa paghikap sa kinatumyan niini; bisan kinsa nga mohikap sa bukid — kamatayon gayod siya.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Ug pagautlonan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Magbantay kamo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyong kaugalingon"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "sa pagsaka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "o sa paghikap"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "sa kinatumyan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan kinsa nga"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "mohikap"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gayod siya mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:20.096600840Z",
+  "model": "glm-5.3"
+}

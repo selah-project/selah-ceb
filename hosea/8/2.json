@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ngari kanako sila mosigaw: 'Ang among Elohim! Nahibalo kami kanimo, Israel!'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Ngari kanako"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "mosigaw sila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim namo"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "nahibalo kami kanimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:01.087251391Z",
+  "model": "glm-5.3"
+}

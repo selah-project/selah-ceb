@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gidala niya sila ngadto sa utlanan sa iyang kasantosuhan, ngadto niini nga bukid nga gipalit sa iyang kamot nga tuo.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "gidala niya sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang kasantosuhan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "זה",
+      "gloss": "niini nga"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "gipalit"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sa iyang kamot nga tuo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:36.758823342Z",
+  "model": "glm-5.3"
+}

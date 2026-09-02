@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug namatugsok ako atubangan ni Yahweh ⟨את⟩ ang kapatan-an ka adlaw ug ⟨את⟩ ang kapatan-an ka gabii nga akong gipamatugsok, kay si Yahweh nagaingon sa paglaglag ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "ug namatugsok ako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kapatan-an ka adlaw"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan-an"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kapatan-an ka gabii"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan-an"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ka gabii"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "akong gipamatugsok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:15.147130397Z",
+  "model": "glm-5.3"
+}

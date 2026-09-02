@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug miingon si Shemuel: Ug ngano imong gipangutana ⟨ako⟩, samtang si Yahweh milayas na gikan kanimo ug nahimong imong kaaway?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Ug ngano"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "imong gipangutana"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "סר",
+      "gloss": "milayas"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "imong kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:10.804132300Z",
+  "model": "glm-5.3"
+}

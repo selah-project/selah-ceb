@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ipahiyom ang imong kaugalingon kang Yahweh, ug ihatag niya kanimo ang mga hangyo sa imong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Ug ipahiyom ang imong kaugalingon"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug ihatag niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ang mga hangyo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sa imong kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:14.559012831Z",
+  "model": "glm-5.3"
+}

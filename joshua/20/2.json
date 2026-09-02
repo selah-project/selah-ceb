@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Isulti mo sa mga anak ni Yisra'el, nga nagaingon: Ihatag ninyo alang sa inyong kaugalingon ⟨ang⟩ ⟨את⟩ ang mga dakbayan sa pagpanikway nga akong gisulti kaninyo pinaagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Ihatag ninyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aling sa inyong kaugalingon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dakbayan sa pagpanikway"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "sa pagpanikway"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "akong gisulti"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:22.852504932Z",
+  "model": "glm-5.3"
+}

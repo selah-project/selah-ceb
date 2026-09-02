@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ang imong sulugoon nga babaye adunay duha ka anak nga lalaki, ug nag-away silang duha sa uma, ug walay maglutaw kanila, ug gisutil sa usa ⟨את⟩ ang usa, ug gipatay niya ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "sa imong sulugoon nga babaye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "nag-away"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "silang duha"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "maglutaw"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "gisutil"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "gipatay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:16.600661055Z",
+  "model": "glm-5.3"
+}

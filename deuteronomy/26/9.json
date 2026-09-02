@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug gidala niya kita ngadto niining ⟨maong⟩ dapita, ug gihatag niya kanato ⟨את⟩ ⟨ang⟩ yuta nga ⟨maoy⟩ ni — yutang nagaawas sa gatas ug dugos.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "gidala niya kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kning maong"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag niya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga maoy ni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yutang"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "nagaawas"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sa gatas"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ug dugos"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:27.119064693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Siya manawag kanako: 'Akong Amahan ⟨ikaw⟩, akong El, ug bato sa akong kaluwasan.'",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "manawag kanako"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong Amahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "akong El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ug bato"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "sa akong kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:28.803361434Z",
+  "model": "glm-5.3"
+}

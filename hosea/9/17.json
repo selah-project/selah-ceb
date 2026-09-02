@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Papakyason sila sa akong Elohim, kay wala sila mamati kaniya, ug mahimong mga mapakahoyon sila taliwala sa ⟨mga⟩ mga nasod.",
+  "tokens": [
+    {
+      "surface": "ימאסם",
+      "gloss": "Papakyason sila"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa akong Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sila mamati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug mahimo sila"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "mga mapakahoyon"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "taliwala sa mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:13.287206334Z",
+  "model": "glm-5.3"
+}

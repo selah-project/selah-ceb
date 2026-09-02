@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug natawo kang Adah alang kang Esav ⟨את⟩ si Elifaz; ug si Bosmath natawo ⟨את⟩ si Reuel.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ug natawo"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "kang Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "alang kang Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elifaz"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaz"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ug si Bosmath"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Reuel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuel"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:58.997203029Z",
+  "model": "glm-5.3"
+}

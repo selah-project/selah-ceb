@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Padagaya ang ilang mga kasakitan — ang mga nagdali human sa laing ⟨dios⟩; dili ako magbubo sa ilang mga nasa gikan sa dugo, ni dili ako modala ⟨את⟩ sa ilang mga ngalan sa akong mga ngabil.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Padagaya"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ang ilang mga kasakitan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "laing"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "ang mga nagdali"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ako magbubo"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "sa ilang mga nasa"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "gikan sa dugo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ni dili"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ako modala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga ngalan"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "sa ilang mga ngalan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "akong mga ngabil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:07.048550842Z",
+  "model": "glm-5.3"
+}

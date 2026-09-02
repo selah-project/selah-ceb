@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Gikan sa anak nga baynte ka tuig patawos, ingon sa gisugo ni Yahweh ⟨את⟩ ni Moshe; ug ang mga anak ni Yisrael nga mga migawas gikan sa yuta sa Mitsrayim:",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "gikan sa anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "baynte"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "patawos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "nga mga migawas"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:30.028088377Z",
+  "model": "glm-5.3"
+}

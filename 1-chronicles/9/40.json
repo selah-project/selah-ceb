@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ang anak ni Yehonatan Meriv-Baal; ug si Meri-Baal natawo-an ⟨את⟩ ni Mikhah.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ug ang anak"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ni Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ug si Meri-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Mikhah"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ni Mikhah"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:44.580241756Z",
+  "model": "glm-5.3"
+}

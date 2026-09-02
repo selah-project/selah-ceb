@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Pinaagi niini nahibalo ako nga ikaw nagkalipay kanako, kay ang akong kaaway dili magasigasig ⟨sa pagkaaway⟩ batok kanako.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Pinaagi niini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ikaw nagkalipay"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "magasigasig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong kaaway"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:26.077861431Z",
+  "model": "glm-5.3"
+}

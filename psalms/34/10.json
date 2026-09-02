@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kahadloki ⟨את⟩ Yahweh, ⟨mga⟩ balaan niya; kay walay kakulangan ang ⟨mga⟩ nagakahadlok kaniya.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Kahadloki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "mga balaan niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "kakulangan"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ang mga nagakahadlok kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:21.768337065Z",
+  "model": "glm-5.3"
+}

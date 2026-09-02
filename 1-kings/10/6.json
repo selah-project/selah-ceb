@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miingon siya sa hari: Tinuod ⟨ang⟩ pulong nga akong nadungog sa akong yuta, mahitungod sa imong mga pulong ug sa imong kaalam.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug miingon siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Tinuod"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "akong nadungog"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "sa akong yuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "imong mga pulong"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "imong kaalam"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:51.213526808Z",
+  "model": "glm-5.3"
+}

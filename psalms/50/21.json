@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Kining ⟨mga butanga⟩ imong gibuhat ug naghilom ako; naghunahuna ka nga ako ⟨ang⟩ maningkamot sama kanimo; pagsawayon taka ug ihan-ay nako ⟨kini⟩ sa imong mga mata.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kining"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ug naghilom ako"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "naghunahuna ka"
+    },
+    {
+      "surface": "היות",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "sama kanimo"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "pagsawayon taka"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ug ihan-ay nako"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "sa imong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:06.261633631Z",
+  "model": "glm-5.3"
+}

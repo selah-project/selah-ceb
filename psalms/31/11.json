@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Kay nanghuman sa pag-antos ang akong kinabuhi, ug ang akong mga tuig sa pagbangotan; napatunga ang akong kusog tungod sa akong sala, ug ang akong mga buol nanghinay na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nanghuman"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "sa pag-antos"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akong kinabuhi"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ug ang akong mga tuig"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "sa pagbangotan"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "napatunga"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "tungod sa akong sala"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akong kusog"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ug ang akong mga buol"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "nanghinay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:22.897670606Z",
+  "model": "glm-5.3"
+}

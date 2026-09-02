@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "nga nanaghon: Atong manag-iyaon ⟨את⟩ ang mga pastorahan ni Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nanaghon"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "manag-iyaon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "atong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pastorahan"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mga pastorahan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:03.227337086Z",
+  "model": "glm-5.3"
+}

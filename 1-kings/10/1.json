@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang reyna sa Sheba nakadungog sa kadungganan ni Shelomoh ⟨tungod⟩ sa ngalan ni Yahweh, ug miari siya aron tultan-on siya ⟨sa⟩ mga tago nga pangutana.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "ug ang reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sa Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadungganan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "tungod sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ug miari siya"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "aron tultan-on siya"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "mga tago nga pangutana"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:53.741551094Z",
+  "model": "glm-5.3"
+}

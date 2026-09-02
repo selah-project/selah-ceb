@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mitungas si Yehudah, ug gihatag ni Yahweh ⟨את⟩ ang mga Kanaaninhon ug ang mga Perizinhon ngadto sa ilang kamot; ug gigukit nila sila sa Betsek — napulo ka libo ka lalaki.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ug mitungas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Kanaaninhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang mga Kanaaninhon"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ug ang mga Perizinhon"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ngadto sa ilang kamot"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ug gigukit nila sila"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Betsek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka lalaki"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:20.501507537Z",
+  "model": "glm-5.3"
+}

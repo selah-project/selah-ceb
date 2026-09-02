@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay sa tamboanan sa akong balay, pinaagi sa akong mga rehas nga bintana, ako nagtan-aw pagawas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "sa tamboanan"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "sa akong balay"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "pinaagi sa"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "akong mga rehas nga bintana"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "ako nagtan-aw pagawas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:16.484206267Z",
+  "model": "glm-5.3"
+}

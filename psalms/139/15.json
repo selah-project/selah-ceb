@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Wala makubli ang akong bukog gikan kanimo, sa diha nga ako gimbuhat sa tago, ug gihimol ako sa mga kinadlaw-ang bahin sa yuta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "makubli"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akong bukog"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa diha nga"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ako gimbuhat"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "gihimol ako"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "sa mga kinadlaw-ang bahin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.030768485Z",
+  "model": "glm-5.3"
+}

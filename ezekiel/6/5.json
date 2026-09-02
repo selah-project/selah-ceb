@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ibutang ko ⟨את⟩ ang mga bangkay sa mga anak sa Israel atubang sa ilang mga diosdios, ug isabwag ko ⟨את⟩ ang inyong mga bukog sa palibot sa inyong mga altar.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ibutang ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bangkay sa mga anak sa Israel"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "mga bangkay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ila nga mga diosdios"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ug isabwag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga bukog"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "inyong mga bukog"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "inyong mga altar"
+    }
+  ],
+  "timestamp": "2026-09-01T21:33:27.360490844Z",
+  "model": "glm-5.3"
+}

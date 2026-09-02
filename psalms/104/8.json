@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Nagsaka ang mga bukid, nangulod ang mga sangkad ngadto sa dapit nga imong gitindog alang kanila.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Nagsaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nangulod"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "ang mga sangkad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "imong gitindog"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:17.230669333Z",
+  "model": "glm-5.3"
+}

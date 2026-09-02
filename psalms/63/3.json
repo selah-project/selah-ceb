@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Busa sa balaan nga dapit nakita ko ikaw, aron makita ang imong gahum ug ang imong himaya.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan nga dapit"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "nakita ko ikaw"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron makita"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ang imong gahum"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "ug ang imong himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:49.500694796Z",
+  "model": "glm-5.3"
+}

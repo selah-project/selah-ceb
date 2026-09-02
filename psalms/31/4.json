@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Kay ikaw ⟨ang⟩ akong bato nga pangdulang ug akong kuta; ug alang sa imong ngalan, giyahi ako ug padalaha ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "akong bato nga pangdulang"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ug akong kuta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "giyahi ako"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ug padalaha ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:45.652100590Z",
+  "model": "glm-5.3"
+}

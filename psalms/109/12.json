@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Ayaw paghimo nga adunay magbunot kaniya ug hesed (kaayo), ni adunay magmaloloy-on sa iyang mga ilo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "paghimo nga mahitabo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "משך",
+      "gloss": "magbunot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni ayaw"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "paghimo nga mahitabo"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "magmaloloy-on"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "sa iyang mga ilo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:21.838254677Z",
+  "model": "glm-5.3"
+}

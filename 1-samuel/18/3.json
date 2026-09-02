@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nagbuhat si Yehonatan ug si David ug pakigsaad, tungod sa iyang gugma kang ⟨siya⟩ ⟨את⟩ ingon sa iyang kaugalingong kalag.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Nagbuhat ug pakigsaad"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "tungod sa iyang gugma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (si David)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "ingon sa iyang kaugalingong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:27.783409357Z",
+  "model": "glm-5.3"
+}

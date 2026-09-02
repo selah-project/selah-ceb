@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gikuha sa mga Filistihanon ⟨את⟩ aron ni Elohim, ug gidala nila kini gikan sa Even-ha-Ezer ngadto sa Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ug ang mga Filistihanon"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "gidala nila kini"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "gikan sa Even"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ngadto sa Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:44.140911122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kay ang hesed (kaluoy) ang akong gipangandoy ug dili ang hinabla nga halad, ug ang pag-ila kang Elohim labaw pa sa mga halad nga sinunog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ang hesed (kaluoy)"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ang akong gipangandoy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ang hinabla nga halad"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ug ang pag-ila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "labaw pa sa mga halad nga sinunog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:21.685618476Z",
+  "model": "glm-5.3"
+}

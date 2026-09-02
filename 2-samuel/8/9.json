@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nadungog ni Toi, hari sa Hamat, nga gihampak ni David ⟨את⟩ tibuok kusog ni Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibuok kusog ni Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:06.160805172Z",
+  "model": "glm-5.3"
+}

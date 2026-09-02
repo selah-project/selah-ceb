@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Kay mao kini ang giingon ni Yahweh: nga walay bayad kamo gibaligya, ug dili pinaagi sa kuarta kamo matubos.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay bayad"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "kamo gibaligya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "pinaagi sa kuarta"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "kamo matubos"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:44.724790127Z",
+  "model": "glm-5.3"
+}

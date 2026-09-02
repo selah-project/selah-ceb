@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Diha sa iyang kamot ⟨ang⟩ kalag sa tanan nga buhi, ug ⟨ang⟩ ginhawa sa tanan nga unod sa tawo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Diha sa kinsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug ginhawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nga unod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:44.479428406Z",
+  "model": "glm-5.3"
+}

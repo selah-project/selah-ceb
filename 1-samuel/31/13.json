@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Gikuha nila ⟨את⟩ ang ilang mga bukog ug gilubong sila sa ilalom sa ešel sa Yavesh, ug nagiini sila sa pito ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga bukog"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ang ilang mga bukog"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gilubong sila"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "sa ešel"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa Yavesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "nagiini sila"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sa pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:06.748354886Z",
+  "model": "glm-5.3"
+}

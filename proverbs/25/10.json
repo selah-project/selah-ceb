@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Nga bakit ang mamati magpahamak kanimo, ug ang imong daotan nga ngalan dili na mawala.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "nga bakit"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "magpahamak kanimo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ang mamati"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ug ang imong daotan nga ngalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "mawala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:32.531240853Z",
+  "model": "glm-5.3"
+}

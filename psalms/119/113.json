@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gidumtan ko ang mga sekop (mga tawong duha ang hunahuna), ug gihigugma ko ang imong tora.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "mga sekop (mga duha ang hunahuna)"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "gidumtan ko"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ug ang imong tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "gihigugma ko"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:10.842224329Z",
+  "model": "glm-5.3"
+}

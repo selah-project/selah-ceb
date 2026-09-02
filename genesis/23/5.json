@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug mitubag ang mga anak ni Khet ⟨את⟩ kang Avraham, nga nagaingon kaniya:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:20.065798547Z",
+  "model": "glm-5.3"
+}

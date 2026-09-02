@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Nakaplagan niya ⟨את⟩ siya sa yuta sa kamingawan, ug sa kawalay-sulod, sa pagpanol sa katingalahan: gilibotan niya siya, gipaabot sa pagsabut siya, gipanag-iya siya ingon sa iris sa iyang mata.",
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "nakaplagan niya siya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "ug sa kawalay-sulod"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "sa pagpanol"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "sa katingalahan"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "gilibotan niya siya"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "gipaabot sa pagsabut siya"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "gipanag-iya siya"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ingon sa iris"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "sa iyang mata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:23.803063337Z",
+  "model": "glm-5.3"
+}

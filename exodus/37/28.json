@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gibuhat niya ⟨את⟩ ang mga barna — kahoy sa akasya — ug gibutangan niya ug bulawan ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga barna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga barna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sa akasya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ug gibutangan niya ug bulawan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga barna)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:55.998386879Z",
+  "model": "glm-5.3"
+}

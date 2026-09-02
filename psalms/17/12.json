@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang panagway niya ingon sa lyon nga nangandoy sa pagdunggab, ug ingon sa batang lyon nga naglingkod sa mga tagoanan.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "panagway niya"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ingon sa lyon"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "nangandoy"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "sa pagdunggab"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "ug ingon sa batang lyon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa mga tagoanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:51.505737668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ihabwat nako ang pahalipay — ⟨i-stretch nako⟩ ibabaw sa Yerushalayim ⟨את⟩ ang pisi sa Shomron, ug ⟨את⟩ ang timbang sa balay ni Ahab; ug papason nako ⟨את⟩ ang Yerushalayim, ingon sa pagpapas sa usa ka plato — gipapas na ug gibaliktad ⟨siya⟩ sa iyang nawong.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "i-stretch nako"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pisi sa Shomron"
+    },
+    {
+      "surface": "קו",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang timbang sa balay ni Ahab"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "timbang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "ug papason nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "pagpapas sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang plato"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "plato"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "gipapas na"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "ug gibaliktad"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "iyang nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:49.833603768Z",
+  "model": "glm-5.3"
+}

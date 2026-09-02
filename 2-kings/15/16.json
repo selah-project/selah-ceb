@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 15:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Kadtong panahona gihampak ni Menachem ⟨את⟩ si Tiftsach ug ⟨את⟩ ang tanan nga anaa sulod niini ug ⟨את⟩ ang iyang mga utlanan gikan sa Tirtzah, kay wala sila magbukas kaniya, ug gihampak niya ⟨את⟩ ang tanan niini nga mga mabdos nga babayi ug gibaak niya sila.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Kadtong panahona"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menachem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tiftsach"
+    },
+    {
+      "surface": "תפסח",
+      "gloss": "Tiftsach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga anaa sulod niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "anaa sulod niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga utlanan"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ang iyang mga utlanan"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "gikan sa Tirtzah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "magbukas"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niini nga mga mabdos nga babayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ההרותיה",
+      "gloss": "mga mabdos nga babayi niini"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "gibaak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:59.088787464Z",
+  "model": "glm-5.3"
+}

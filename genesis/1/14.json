@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si Elohim: Magmay mga suga sa raqia sa ⟨mga⟩ langit, sa pagbulag taliwala sa adlaw ug taliwala sa gabi, ug sila mahimong mga timailhan ug mga panahon ug mga adlaw ug mga tuig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Magmay"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "mga suga"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sa raqia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa ⟨mga⟩ langit"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "sa pagbulag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gabi"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug sila mahimong"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "mga timailhan"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "ug mga panahon"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "ug mga adlaw"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ug mga tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:06.787818360Z",
+  "model": "glm-5.3"
+}

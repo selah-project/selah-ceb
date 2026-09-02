@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Elohim, patun-i ang akong pag-ampo, paminaw sa mga pulong sa akong baba.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "patun-i"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pag-ampo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "paminaw"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:12.590223931Z",
+  "model": "glm-5.3"
+}

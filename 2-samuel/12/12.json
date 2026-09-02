@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kay ikaw nagbuhat niini sa tago, apan ako buhaton ko ⟨את⟩ kining butanga atbang sa tibuok Israel ug atbang sa adlaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "buhaton ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining butanga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kining butanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ug atbang sa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:04.412330130Z",
+  "model": "glm-5.3"
+}

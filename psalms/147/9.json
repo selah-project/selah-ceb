@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nagahatag siya sa mananap sa iyang pagkaon, ug sa mga batan-ong uwak nga nagatawag.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "sa mananap"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "sa iyang pagkaon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uwak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "nagatawag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.161010381Z",
+  "model": "glm-5.3"
+}

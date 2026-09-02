@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Yahweh, gihigugma ko ang puloy-anan sa imong balay, ug ang dapit sa puloy-anan sa imong himaya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "gihigugma ko"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ang puloy-anan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ug ang dapit"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sa puloy-anan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sa imong himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:30.905063280Z",
+  "model": "glm-5.3"
+}

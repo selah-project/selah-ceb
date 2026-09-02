@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ang tibuok nga katawhan nakakita ⟨sa⟩ ⟨את⟩ ang mga tingog ug ⟨את⟩ ang mga sulo, ug ⟨את⟩ ang tingog sa shofar, ug ⟨את⟩ ang bukid nga napano ug aso; ug nakita sa katawhan ⟨kini⟩ ug nagkurog sila ug nagbarog sila halayo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ug ang tibuok nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tingog"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "ang mga tingog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga sulo"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "ang mga sulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tingog sa shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "nga napano ug aso"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "ug nagkurog sila"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ug nagbarog sila"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "halayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:06.274010750Z",
+  "model": "glm-5.3"
+}

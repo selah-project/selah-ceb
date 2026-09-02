@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mahitabo nga ang iyang mga pundasyon maguba ⟨nga⟩ pulbos, tanang mamumuo nga suholan malulot ⟨sa⟩ ilang kalag.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ug mahitabo"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ang iyang mga pundasyon"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "maguba nga pulbos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mamumuo"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "suholan"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "malulot"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:55.465732342Z",
+  "model": "glm-5.3"
+}

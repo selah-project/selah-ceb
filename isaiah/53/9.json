@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Gihatag ⟨niya⟩ ⟨את⟩ ang mga daotan ingon nga iyang lubnganan, ug ⟨את⟩ ang adunahan sa iyang kamatayon, bisan tuod walay kapintas siya nagbuhat ug walay paglimbong sa iyang baba.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gihatag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga daotan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga daotan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "iang lubnganan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang adunahan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ang adunahan"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "sa iyang kamatayon"
+    },
+    {
+      "surface": "על",
+      "gloss": "bisan tuod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kapintas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "siya nagbuhat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "paglimbong"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:58.389998806Z",
+  "model": "glm-5.3"
+}

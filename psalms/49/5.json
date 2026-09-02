@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ituyok nako ang akong igdulog ngadto sa mashal, buksan nako sa kinor ang akong ḥidah ⟨ἡ⟩.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ituyok nako"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ngadto sa mashal"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ang akong igdulog"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "buksan nako"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "sa kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ang akong ḥidah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:52.894088545Z",
+  "model": "glm-5.3"
+}

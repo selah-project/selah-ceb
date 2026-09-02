@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Kay ako nakahibalo nga dakong si Yahweh, ug ang atong Adonay ⟨molabaw⟩ sa tanan nga mga elohim ⟨mga diyos⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "ug ang atong Adonay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:23.153606374Z",
+  "model": "glm-5.3"
+}

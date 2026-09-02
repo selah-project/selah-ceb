@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 93,
+  "translation": "Nangitaas ang mga suba, Yahweh; nangitaas ang mga suba sa ilang tingog; nangitaas ang mga suba sa ilang mga balud nga mishingaw.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "nangitaas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nangitaas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sa ilang tingog"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nangitaas"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga suba"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "sa ilang mga balud nga mishingaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.776548415Z",
+  "model": "glm-5.3"
+}

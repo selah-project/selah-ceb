@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug nasuko ang nasud-anon nga dako ni Yahweh batok sa iyang katawhan, ug gingula niya ⟨את⟩ ang iyang kabilin.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "nasuko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang nasud-anon nga dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "batok sa iyang katawhan"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "gingula niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kabilin"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ang iyang kabilin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:13.459066702Z",
+  "model": "glm-5.3"
+}

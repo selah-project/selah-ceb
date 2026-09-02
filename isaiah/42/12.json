@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Maghatag sila ug himaya kang Yahweh, ug ang pagdayeg kaniya ipahibalo sa mga pulo.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "Maghatag sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ug ang pagdayeg kaniya"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "sa mga pulo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "ipahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:21.733723058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ang pagyabag sa batan-ong leon — sama niini ang kahasik sa hari; ang mopukaw sa iyang kasuko magasala batok sa iyang kaugalingong kinabuhi.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "pagyabag"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "sama sa batan-ong leon"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "kahasik sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "mopukaw sa iyang kasuko"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "magasala batok sa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kaugalingong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:55.868018947Z",
+  "model": "glm-5.3"
+}

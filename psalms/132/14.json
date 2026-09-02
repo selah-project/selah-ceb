@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Kini ⟨ang⟩ akong pahulay hangtod sa hangtod: dinhi magapuyo ako, kay gipangandoy ko kini.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "akong pahulay"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "פה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "magapuyo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "gipangandoy ko kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:55.221354198Z",
+  "model": "glm-5.3"
+}

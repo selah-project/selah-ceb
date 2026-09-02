@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Dili ⟨ang mga dagkog⟩ tawo ang maalam, ug dili ang mga tigulang makasabut sa paghukom.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ang mga dagkog tawo"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "ang maalam"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ug ang mga tigulang"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "makasabut"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T23:46:29.083078238Z",
+  "model": "glm-5.3"
+}

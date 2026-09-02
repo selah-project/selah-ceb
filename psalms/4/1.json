@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Alang sa magdumala sa mga instrumentong kord, usa ka mizmor ni Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa magdumala"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "sa mga instrumentong kord"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni Dawid"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:37.616213703Z",
+  "model": "glm-5.3"
+}

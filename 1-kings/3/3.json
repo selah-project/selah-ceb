@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gihigugma ni Shelomoh ⟨את⟩ si Yahweh sa paglakat sa mga batasan ni David nga iyang amahan; bisan pa, sa mga bama ⟨siya⟩ nagsakop ug nagpadungog sa insenso.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "Gihigugma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakat"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "sa mga batasan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "bisan pa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga bama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nagsakop"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "ug nagpadungog sa insenso"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:44.516193233Z",
+  "model": "glm-5.3"
+}

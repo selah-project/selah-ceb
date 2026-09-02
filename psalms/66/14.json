@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "nga giabli sa akong mga ngabil, ug gisulti sa akong baba sa akong kagul-anan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "giabli"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sa akong mga ngabil"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ug gisulti"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa akong baba"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kagul-anan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akoa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:29.224210690Z",
+  "model": "glm-5.3"
+}

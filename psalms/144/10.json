@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "⟨Siya⟩ nga nagahatag ug kaluwas sa mga hari, nga nagapagawas ⟨את⟩ kang David, iyang sulugoon, gikan sa daotan nga espada.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "kaluwas"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "nagapagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iyang sulugoon"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa espada"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:58.386420463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ako nagkalot ug nanginum ug tubig, ug ipahiyaw ko sa sawang sa akong mga tiil ang tanan nga mga suba sa Matsor.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "nagkalot ako"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ug nanginum ako"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "ug ipahiyaw ko"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "sa sawang"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "sa akong mga tiil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "mga suba"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sa Matsor"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:01.206278106Z",
+  "model": "glm-5.3"
+}

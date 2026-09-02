@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug gikan sa katunga sa mga anak ni Yisrael, nga gitunga ni Moshe gikan sa mga tawo nga nanggubat",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "ug gikan sa katunga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "gitunga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "nga nanggubat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:45.884639411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Magdayegdayeg kami sa imong kaluwasan, ug sa ngalan ni Elohim among itaas ⟨ang⟩ bandila; pagatumana ni Yahweh ⟨את⟩ ang tanan nimong mga pangaliya.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "magdayegdayeg kami"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "sa imong kaluwasan"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ug sa ngalan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "among itaas ang bandila"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "pagatumana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "nimong mga pangaliya"
+    }
+  ],
+  "timestamp": "2026-09-02T01:05:50.199640893Z",
+  "model": "glm-5.3"
+}

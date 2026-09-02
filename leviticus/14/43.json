@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug kon mobalik ang plaga ug moturok sa balay, human sa pagkuha niya ⟨את⟩ sa mga bato, ug human sa pagkiskis ⟨את⟩ sa balay, ug human sa pagtapt.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang plaga"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ug moturok"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "pagkuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "sa mga bato"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ug human sa"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "pagkiskis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ug human sa"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "pagtapt"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:56.464769655Z",
+  "model": "glm-5.3"
+}

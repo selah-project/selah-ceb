@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Yahweh nangingiladbolsa ngadto sa isda, ug gibuwa kini ⟨את⟩ kang Yonah ngadto sa mamala nga yuta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug nangingiladbolsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "ngadto sa isda"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ug gibuwa kini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "kang Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "mamala nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:45.348145625Z",
+  "model": "glm-5.3"
+}

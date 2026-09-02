@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Magasulat ako pagdawat kanimo sa kahangturan, kay gibuhat mo kini; ug magapaabut ako sa imong Ngalan, kay kini maayo, sa atubang sa imong mga piadoso.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "magasulat ako pagdawat kanimo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gbuhat mo"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ug magapaabut ako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong Ngalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sa imong mga piadoso"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.697009838Z",
+  "model": "glm-5.3"
+}

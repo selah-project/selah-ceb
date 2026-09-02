@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Yahweh, sa imong gahum magmalipayon ang hari, ug sa imong kaluwasan unsa kadako ang iyong kalipay!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "sa imong gahum"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ug sa imong kaluwasan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa kadako"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ang iyong kalipay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:32.072558588Z",
+  "model": "glm-5.3"
+}

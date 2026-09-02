@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Kay dili nimo biyaan ang akong nefesh ngadto sa Sheol; dili nimo hatagan ang imong hasid sa pagtan-aw sa shakhat (kanglunganan).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "nimo biyaan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ngadto sa Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nimo hatagan"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ang imong hasid"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sa shakhat (kanglunganan)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.645486225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Basin unya motangad siya ingon sa leyon sa akong nefesh, magguba ug walay magluwas.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "basin unya"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "motangad siya"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ingon sa leyon"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong nefesh"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "magguba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "magluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:42.714426581Z",
+  "model": "glm-5.3"
+}

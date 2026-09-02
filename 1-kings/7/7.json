@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang ugangan sa ⟨trono⟩, diin siya nagahukom didto, ang ugangan sa paghukom, gihimo niya; ug gibutangan kini ug sedro ⟨panapaw⟩ gikan sa salog ngadto sa salog.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ug ang ugangan"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "sa trono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nagahukom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ugangan"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "gibutangan ug ⟨panapaw⟩"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "gikan sa salog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "salog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:11.872126743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug pagasuk-an ko ang Mitsrayim batok sa Mitsrayim, ug manag-away sila — ang matag tawo sa iyang igsoon, ug ang tawo sa iyang isigkatawo; dakbayan batok sa dakbayan, gingharian batok sa gingharian.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "ug pagasuk-an ko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "batok sa Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ug manag-away sila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "batok sa dakbayan"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "gingharian"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "batok sa gingharian"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:44.246585933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Kay pinaagi kanimo modagan ako ⟨sa⟩ gagmayng kusog ⟨sa mga sundalo⟩, ug pinaagi sa akong Elohim molukso ako sa paril.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "pinaagi kanimo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "modagan ako"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "gagmayng kusog sa mga sundalo"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ug pinaagi sa akong Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "molukso ako"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sa paril"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:57.659165993Z",
+  "model": "glm-5.3"
+}

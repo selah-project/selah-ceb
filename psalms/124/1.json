@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "Awit sa mga pag-angat, ni David. Kon wala si Yahweh nga nagkanaa alang kanato — panultihon karon, palihog, ang Israel:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Kon wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nagkanaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanato"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "panultihon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karo, palihog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:14.587104411Z",
+  "model": "glm-5.3"
+}

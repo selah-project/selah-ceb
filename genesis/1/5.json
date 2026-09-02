@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gitawag ni Elohim ang kahayag nga Adlaw, ug ang kangitngit gitawag niyag Gabii. Ug nahitabo ang kagabhion ug nahitabo ang kaadlawon — adlaw nga usa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ug gitawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga Adlaw"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ug ang kangitngit"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nga Gabii"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo ang"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kagabhion"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo ang"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kaadlawon"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nga usa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:54.212212595Z",
+  "model": "glm-5.3"
+}

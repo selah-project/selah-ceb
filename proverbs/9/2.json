@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nagtanan siya sa iyang pagtanom ⟨karne⟩, naglahi siya sa iyang bino; ug gihan-ay niya ang iyang lamesa.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "nagtanan"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "sa iyang pagtanom ⟨karne⟩"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "naglahi"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "sa iyang bino"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ug"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "gihan-ay niya"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ang iyang lamesa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:42.431395088Z",
+  "model": "glm-5.3"
+}

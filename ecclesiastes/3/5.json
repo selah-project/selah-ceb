@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa paglabay ug ⟨את⟩ mga bato, ug panahon sa pagtigom ug ⟨את⟩ mga bato; panahon sa paghalok, ug panahon sa paghalin sa paghalok.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "sa paglabay"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "sa pagtigom"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "sa paghalok"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "sa paghalin"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "sa paghalok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.567321884Z",
+  "model": "glm-5.3"
+}

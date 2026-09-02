@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Hinumdomi ⟨את⟩ ang gibuhat ni Yahweh nga Elohim nimo kang Miryam, sa dalan, sa inyong paggikan sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gibuhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim nimo"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "kang Miryam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "sa inyong paggikan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:44.563737127Z",
+  "model": "glm-5.3"
+}

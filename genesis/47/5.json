@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Ug miingon si Paro kang Yosef, nga nagaingon: Ang imong amahan ug ang imong mga igsoon ngari na kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang imong amahan"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ug ang imong mga igsoon"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ngari na"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:20.102649328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Hangtud makapangita ako ug dapit alang kang Yahweh, mga puloy-anan alang sa Makugihon nga si Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "makapangita ako"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mga puloy-anan"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "alang sa Makugihon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:06.153391652Z",
+  "model": "glm-5.3"
+}

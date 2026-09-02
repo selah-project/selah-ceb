@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug magapadala ako ug kalayo sa Teman, ug molamoy kini sa mga kuta sa Botsrah.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "magapadala ako ug"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "sa Teman"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "molamoy kini"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "sa mga kuta"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sa Botsrah"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:08.358230308Z",
+  "model": "glm-5.3"
+}

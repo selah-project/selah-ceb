@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "⟨את⟩ Yerushalayim ug ⟨את⟩ ang mga dakbayan sa Yehudah, ug ⟨את⟩ ang mga hari niini, ⟨את⟩ ang mga manungalipod niini, sa paghatag ⟨את⟩ kanila sa pagkagunaw, sa pagkabining, sa pagyawyaw, ug sa pagtunglo, ingon sa adlaw nga karon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga dakbayan sa Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga hari niini"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "mga hari niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga manungalipod niini"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "mga manungalipod niini"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "sa pagkagunaw"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "sa pagkabining"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "sa pagyawyaw"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "ug sa pagtunglo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga karon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:22:53.663769800Z",
+  "model": "glm-5.3"
+}

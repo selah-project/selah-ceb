@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Nalipay si Yahweh alang sa ⟨iyang⟩ kaangayan, pagadak-on niya ang Torah ug pagatahimyon niya kini.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nalipay"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "kaangayan niya"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "pagadak-on niya"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ang Torah"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "ug pagatahimyon niya kini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:52.866562516Z",
+  "model": "glm-5.3"
+}

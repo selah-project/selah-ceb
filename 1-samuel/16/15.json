@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug ang mga sulugoon ni Shaul naggiya kaniya: Ania karon, ang daotan nga ruah sa Elohim nagadahom kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "naggiya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga sulugoon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(palihog)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "nagadahom kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:33.084647441Z",
+  "model": "glm-5.3"
+}

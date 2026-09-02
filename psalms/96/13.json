@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Atubangan ni Yahweh, kay miabut ⟨siya⟩, kay miabut ⟨siya⟩ sa paghukom sa yuta; siya magahukom sa kalibutan sa pagkamatarong, ug sa mga katawhan sa iyang pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabut"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabut"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa kalibutan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "ug sa mga katawhan"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "sa iyang pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:37.544085147Z",
+  "model": "glm-5.3"
+}

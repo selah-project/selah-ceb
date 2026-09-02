@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug mitubag ang hari sa Yisrael ug miingon: Sultihi siya: Ayaw pagpagarawa ang nagputong ⟨sa⟩ iyang belo ingon sa naghubad niini.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sultihi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "pagpagarawa"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "ang nagputong"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "ingon sa naghubad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:54.614419264Z",
+  "model": "glm-5.3"
+}

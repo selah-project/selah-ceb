@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mikiluk si Bat-Sheva ug manggisyonon ngadto sa hari; ug ang miingon ang hari: Unsa man ang imong panginahanglan?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "Ug mikiluk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ug manggisyonon"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto sa hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa man"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ang imong panginahanglan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:24.261725968Z",
+  "model": "glm-5.3"
+}

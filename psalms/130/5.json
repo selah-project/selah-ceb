@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "Naglaum ako kang Yahweh, naglaum ang akong kalag, ug sa iyang pulong nagpaabut ako.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "naglaum ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "naglaum"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "ug sa iyang pulong"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "nagpaabut ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.391908737Z",
+  "model": "glm-5.3"
+}

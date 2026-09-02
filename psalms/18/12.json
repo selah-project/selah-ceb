@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gibutang niya ang kangitngit ingon ⟨iyang⟩ tago-anan, palibot niya ang iyang tolda; kangitngit sa mga tubig, dagkong mga panganod sa kahitas-an.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Gibutang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "tago-anan niya"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "palibot niya"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "iyang tolda"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "dagkong mga panganod"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "sa kahitas-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:11.506575691Z",
+  "model": "glm-5.3"
+}

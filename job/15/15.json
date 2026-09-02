@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 15:15",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Labaw pa — gayod nga gidumtan ug gilapawa ang tawo, nga muinom sa kadautan ingon sa tubig!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Labaw pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gayod nga"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "gidumtan"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "ug gilapawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "muinom"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ingon sa tubig"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sa kadautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:39:19.220564645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nagpaduol ang mangagasunod sa daotang plano; gikan sa imong Torah sila nagkalayu.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "nagpaduol"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ang mangagasunod"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "sa daotang plano"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "gikan sa imong Torah"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "nagkalayu sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:51.545337242Z",
+  "model": "glm-5.3"
+}

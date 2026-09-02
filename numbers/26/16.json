@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Kang Ozni, ang pamilya sa mga Ozni; kang Eri, ang pamilya sa mga Eri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "kang Ozni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "sa mga Ozni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "kang Eri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "sa mga Eri"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:16.099578345Z",
+  "model": "glm-5.3"
+}

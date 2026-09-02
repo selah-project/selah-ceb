@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon siya: Usa ka gagmay nga hangyo ako ang nangayo ⟨gikan kanimo⟩, ayaw pagtangtang ⟨את⟩ sa akong panagway. Ug miingon ang hari kaniya: Pangiyahi, akong inahan, kay dili nako itangtang ⟨את⟩ ang imong panagway.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "hangyo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Usa ka"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "gagmay nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ang nangayo"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨gikan kanimo⟩ ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "pagtangtang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong panagway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "akong panagway"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "Pangiyahi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "akong inahan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nako itangtang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong panagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong panagway"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:53.466865356Z",
+  "model": "glm-5.3"
+}

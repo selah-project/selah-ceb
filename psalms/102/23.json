@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Sa pagtigum sa mga katawhan nga nagkahiusa, ug sa mga gingharian, sa pag-alagad ⟨את⟩ kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "sa pagtigum"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagkahiusa"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "ug sa mga gingharian"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:53.944592486Z",
+  "model": "glm-5.3"
+}

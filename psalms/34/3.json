@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Sa Yahweh magapahimaya ang akong kalag; madungat kini sa mga mapainubos ug magmalipayon sila.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Sa Yahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "magapahimaya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "madungat"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sa mga mapainubos"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ug magmalipayon sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:37.601773602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Adlaw ngadto sa adlaw nagabuhos sa pulong, ug gabii ngadto sa gabii nagapakita sa kahibalo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngadto sa adlaw"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "nagabuhos sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug gabii"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ngadto sa gabii"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "nagapakita"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sa kahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:35.719113227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kalagot kaninyo, mga magbalantay nga nagapahunong ug nagapabayaag ⟨את⟩ ang panon sa akong kabanalan, matod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kalagot kaninyo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mga magbalantay"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "nga nagapahunong"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "ug nagapabayaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ang panon"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "sa akong kabanalan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:31.802399068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Ug ikaw nagadumili sa disiplina, ug gisalikway nimo ang akong mga pulong sa luyo nimong ⟨ikaw⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "nagadumili"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplina"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "gisalikway nimo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang akong mga pulong"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sa luyo nimong ⟨ikaw⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.172860707Z",
+  "model": "glm-5.3"
+}

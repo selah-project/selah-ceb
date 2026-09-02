@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Magasugid ako ug pasalamat kang Yahweh sa tibuok kong kasingkasing; isaysay ko ang tanan nimong mga katingalahang buhat.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magasugid ako ug pasalamat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kong kasingkasing"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "isaysay ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "nimong mga katingalahang buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:09.770406520Z",
+  "model": "glm-5.3"
+}

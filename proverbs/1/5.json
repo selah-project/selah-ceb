@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Maminaw ang maalamong tawo ug modugang ug ⟨gikan sa⟩ pagtuon, ug ang masabutan makabaton sa ⟨maalamong⟩ mga tambag.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "mominaw"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamong tawo"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ug modugang ug"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pagtuon"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ug ang masabutan"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mga tambag"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "makabaton sa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:34.490645828Z",
+  "model": "glm-5.3"
+}

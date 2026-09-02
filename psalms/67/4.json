@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "Magdayeg kanimo ang mga katawhan, Elohim; magdayeg kanimo silang tanan nga mga katawhan.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Magdayeg kanimo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "magdayeg kanimo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sila nga tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.805690089Z",
+  "model": "glm-5.3"
+}

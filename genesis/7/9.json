@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Duha ka duha mingduol kang Noach ngadto sa ⟨ang⟩ arka, lalake ug babaye, ingon sa gisugo ni Elohim ⟨את⟩ Noach.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "באו",
+      "gloss": "mingduol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalake"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "ug babaye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:18.239591871Z",
+  "model": "glm-5.3"
+}

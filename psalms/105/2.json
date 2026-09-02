@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Pag-awit kamo kaniya, pagtugtog kamo kaniya, paghisgut kamo sa tanan niyang mga katingalahan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pagtugtog kamo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "paghisgut kamo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "iyang mga katingalahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.383635721Z",
+  "model": "glm-5.3"
+}

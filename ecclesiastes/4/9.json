@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Maayo ang duha kay sa usa lamang, kay adunay sila ug maayong balus sa ilang kahago.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kay sa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa lamang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "balus"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "sa ilang kahago"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.099427398Z",
+  "model": "glm-5.3"
+}

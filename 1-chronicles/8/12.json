@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang mga anak ni Elpaal: si Ever, ug si Misham, ug si Shamed — siya ang nagtukod ⟨את⟩ sa Ono ug ⟨את⟩ sa Lod ug ⟨ang⟩ mga baryo niini.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak ni"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "ug si Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "ug si Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ug ang mga baryo niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:11.072816265Z",
+  "model": "glm-5.3"
+}

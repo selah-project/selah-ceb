@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Mga anak ni Moshe: si Gershom ug si Eliezer.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "si Gershom"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ug si Eliezer"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:26.875341830Z",
+  "model": "glm-5.3"
+}

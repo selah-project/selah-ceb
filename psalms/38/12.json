@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ang akong mga hinigugma ug ang akong mga higala atbang sa akong plaga nagbarog ⟨halayo⟩, ug ang akong mga paryente sa layo nagbarog.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ang akong mga hinigugma"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ug ang akong mga higala"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "sa akong plaga"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ug ang akong mga paryente"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa layo"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nagbarog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:53.841317695Z",
+  "model": "glm-5.3"
+}

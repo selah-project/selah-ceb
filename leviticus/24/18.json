@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug ang mobunal ug nefesh sa mananap magabayad ⟨niini⟩: nefesh sa ilya sa nefesh.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Ug ang mobunal"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh (kinabuhi)"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sa mananap"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "magabayad niini"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilya sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:42.637629521Z",
+  "model": "glm-5.3"
+}

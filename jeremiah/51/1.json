@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Mao kini ang giingon ni Yahweh: Ania ako, nagapukaw batok sa Bavel ug sa mga pumoluyo sa Lev-Kamay (ang kasingkasing sa akong mga mitindog) usa ka hangin nga naglaglag.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania ako"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "nagapukaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Lev"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Kamay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "naglaglag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:41:42.650624828Z",
+  "model": "glm-5.3"
+}

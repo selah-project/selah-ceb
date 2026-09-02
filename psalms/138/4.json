@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Magasalamaton kanimo, Yahweh, tanang mga hari sa yuta, kay nakadungog sila sa mga pulong sa imong baba.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "magasalamaton kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakadungog sila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sa imong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:12.687000563Z",
+  "model": "glm-5.3"
+}

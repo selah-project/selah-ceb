@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug ang baba sa meziyl ⟨⟨את⟩⟩ sa taliwala niini, ingon sa baba sa tahra, adunay ngabil sa iyang baba palibot, aron dili mabung-it.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "ug ang baba"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "sa meziyl"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "sa taliwala niini"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ingon sa baba"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "sa tahra"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ngabil"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "mabung-it"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:32.266568933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Nagapangandoy apan wala may makuha ang kalag sa tapulan; apan ang kalag sa mga matikason mapuno ⟨ug kabusog⟩.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "nagapangandoy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "apan wala may makuha"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "sa tapulan"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "apan ang kalag"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "sa mga matikason"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "mapuno ug kabusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:48.287569516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Walay pulong ug walay mga Tinong pulong, nga walay madungog nga tingog nila.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga Tinong pulong"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "madungog"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "tingog nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:35.719242584Z",
+  "model": "glm-5.3"
+}

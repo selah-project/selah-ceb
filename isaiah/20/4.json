@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "mao usab ang magapahiton ang hari sa Ashur sa ⟨את⟩ mga bihag sa Mitsrayim ug sa ⟨את⟩ pagkabihag sa Kush, mga batan-on ug mga tigulang, nga hubad ug walay sapin sa tiil, nga hubaron ⟨ang⟩ ilang pigot — ang kahubad sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "ang magapahiton"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bihag sa Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "mga bihag"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pagkabihag sa Kush"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "sa Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "ug mga tigulang"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nga hubad"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "ug walay sapin sa tiil"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "nga hubaron"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ang ilang pigot"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahubad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:41.647965938Z",
+  "model": "glm-5.3"
+}

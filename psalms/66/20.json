@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Dayagon ang Elohim, nga wala magbalikad sa akong pag-ampo, ni ang iyang hesed gikan ⟨את⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayagon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "magbalikad"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sa akong pag-ampo"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ni ang iyang hesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "gikan ⟨את⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:13.723788433Z",
+  "model": "glm-5.3"
+}

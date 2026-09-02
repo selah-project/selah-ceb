@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang kabalaka sa kasingkasing sa tawo magapaubos niini, ug ang maayong pulong nagapalipay niini.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "kabalaka"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "magapaubos niini"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ug ang pulong"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "nagapalipay niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:23.533261369Z",
+  "model": "glm-5.3"
+}

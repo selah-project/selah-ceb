@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nakiggubat ang mga anak ni Yehudah batok sa Yerushalayim ug nadakpan nila ⟨את⟩ kini, ug gigunot nila kini sa baba sa espada, ug ⟨את⟩ ang dakbayan gipadala nila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "batok sa Yerushalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "nadakpan nila"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ kini"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "gigunot nila kini"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba sa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gipadala nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:21.937522671Z",
+  "model": "glm-5.3"
+}

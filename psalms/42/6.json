@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ngano nga nagasaka-ubos ka, akong nefesh, ug ngano nga nagakurog ka sulod ⟨sa⟩ ako? Naghulat ka kang Elohim, kay padunggan ko pa gihapon siya ⟨sa⟩ mga pagluwas sa iyang dagway.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "nagasaka-ubos ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong nefesh"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "ug nagakurog ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sulod sa ako"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "naghulat ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa gihapon"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "padunggan ko siya"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mga pagluwas"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa iyang dagway"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:16.529855165Z",
+  "model": "glm-5.3"
+}

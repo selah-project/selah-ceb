@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Gipalig-on ni Yahweh ⟨את⟩ ⟨ang⟩ gingharian sa iyang kamot, ug ang tibuok Yehudah naghatag ug mga regalo kang Yehoshafat, ug nakabaton siya ug kabahin sa bahandi ug dungog sa kadaghan.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "Gipalig-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ gingharian"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "⟨ang⟩ gingharian"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "naghatug"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mga regalo"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "kang Yehoshafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nakabaton siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bahandi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ug dungog"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadaghan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:54.029551041Z",
+  "model": "glm-5.3"
+}

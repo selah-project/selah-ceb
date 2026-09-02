@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ug ayaw pagkuha ⟨sa⟩ hingpit sa pulong sa kamatuoran gikan sa akong baba, kay sa imong mga hatol naglahutlay ako.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "pagkuha"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "gikan sa akong baba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "עד",
+      "gloss": "sa hingpit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨sa hingpit⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "sa imong mga hatol"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "naglahutlay ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:17.139550173Z",
+  "model": "glm-5.3"
+}

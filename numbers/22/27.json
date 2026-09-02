@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 22:27",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug nakita sa bunga ang ⟨את⟩ mensahe ni Yahweh, ug nagpatihulog siya ubos kang Bilam, ug nasigaan ang nasud-anay ni Bilam, ug gihampak niya ang ⟨את⟩ bunga sa latigo ⟨sa iyang tungkod⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "sa bunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mensahe ni Yahweh"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותרבץ",
+      "gloss": "ug nagpatihulog siya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ubos"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "kang Bilam"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ug nasigaan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang nasud-anay"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ni Bilam"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bunga"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "ang bunga"
+    },
+    {
+      "surface": "במקל",
+      "gloss": "sa tungkod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:52.016065496Z",
+  "model": "glm-5.3"
+}

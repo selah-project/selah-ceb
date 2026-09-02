@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Nagabuhat si Yahweh sa pagkamatarong ug mga hukom alang sa tanan nga mga gidaugdaugan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ug mga hukom"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "nga mga gidaugdaugan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:59.501095321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sa Bet-Shemesh ⟨mga tawo⟩ nanani alang sa ani sa trigo sa walog, ug gipahan-ang nila ⟨את⟩ ang ilang mga mata ug nakita nila ⟨את⟩ ang aron, ug nagmalipayon sila sa pagtan-aw.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ug sa Bet-Shemesh"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Bet-Shemesh"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "nanani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ug gipahan-ang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ang ilang mga mata"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ug nakita nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang aron"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ug nagmalipayon sila"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:41.957301001Z",
+  "model": "glm-5.3"
+}

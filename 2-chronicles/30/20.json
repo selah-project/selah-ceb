@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug gipatalinghug ni Yahweh si Yehizkiyahu, ug gipaugat niya ⟨את⟩ ang katawohan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ug gipatalinghug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "si Yehizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ug gipaugat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawohan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawohan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:58.578141500Z",
+  "model": "glm-5.3"
+}

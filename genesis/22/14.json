@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ginganlan ni Avraham ang ngalan sa maong dapit nga Yahweh-Yireh (si Yahweh nagatan-aw). Busa giingon hangtod karon: Sa bukid, si Yahweh magpakita.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ug ginganlan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang dapit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nagatan-aw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "busa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "magpakita"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:27.237092815Z",
+  "model": "glm-5.3"
+}

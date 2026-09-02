@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sumala sa ilang pagkadaghan, mao usab ang ilang pagkasala batok kanako; ang ilang himaya ilisan nako ngadto sa kaulawan.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "sumala sa ilang pagkadaghan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ang ilang pagkasala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang ilang himaya"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ngadto sa kaulawan"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ilisan nako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:34.990545130Z",
+  "model": "glm-5.3"
+}

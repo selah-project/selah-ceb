@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ako naglakat na sa dalan sa tibuok yuta; busa paglig-on ka ug pagpakita ka ⟨ingon⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakat na"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "paglig-on ka"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ug pagpakita ka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ingon tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:59.826443327Z",
+  "model": "glm-5.3"
+}

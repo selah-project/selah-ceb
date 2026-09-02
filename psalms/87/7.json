@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 87,
+  "translation": "Ug ang mga mag-aawit ingon sa mga mananayaw ⟨mga mumugna sa musika⟩: tanan nga akong mga tinubdan ⟨sa tubig⟩ ⟨naa⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "ug ang mga mag-aawit"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "ingon sa mga mananayaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "nga akong mga tinubdan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:55.765875090Z",
+  "model": "glm-5.3"
+}

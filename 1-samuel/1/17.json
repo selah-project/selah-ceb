@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Si Eli mitubag ug miingon: Lakaw sa pakigdait, ug hataga ikaw sa Elohim sa Israel ⟨את⟩ ang imong gipangayo nga imong gipakita kaniya.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Si Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sa pakigdait"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ug sa Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hataga ikaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong gipangayo"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "ang imong gipangayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "imong gipakita"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:31.437399422Z",
+  "model": "glm-5.3"
+}

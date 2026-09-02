@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Dili ka makakita ⟨את⟩ sa asno sa imong igsoon o sa iyang baka nga natumba sa dalan ug magtago ka kaniya — pagbangon, ibangon sila kauban niya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa asno"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asno"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "sa iyang baka"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "nga natumba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ug magtago ka"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "pagbangon"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ibangon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:24.196071041Z",
+  "model": "glm-5.3"
+}

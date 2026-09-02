@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Dili sila mopuyo sa yuta ni Yahweh, ug mobalik ang Efrayim ngadto sa Mitsrayim, ug sa Ashur magkaon sila ug ginadumli ⟨nga pagkaon⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sila mopuyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug mobalik"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ang Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ngadto sa Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ug sa Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ginadumli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sila magkaon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:26.586763428Z",
+  "model": "glm-5.3"
+}

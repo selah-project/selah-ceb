@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ⟨את⟩ Ayin ug ⟨את⟩ ang iyang mga sementada, ug ⟨את⟩ Yuta ug ⟨את⟩ ang iyang mga sementada, ⟨את⟩ Bet-Shemesh ug ⟨את⟩ ang iyang mga sementada — siyam ka dakbayan gikan ⟨את⟩ kining duha ka mga tribo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Ayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "siyam"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gikan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:18.013741077Z",
+  "model": "glm-5.3"
+}

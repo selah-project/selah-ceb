@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Mga anak ni Ladan: ⟨ang pangulo si⟩ Yechi'el, ug si Zetam, ug si Yo'el — tullo ka ⟨tawo⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ni Ladan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "si Yechi'el"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ug si Zetam"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ug si Yo'el"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tullo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:15.109397052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Sa pagbuhat sa ilang kanila ⟨sa⟩ paghatol nga nasulat — kini mao ang hadol alang sa tanan niyang mga hasid ⟨mga deboton⟩. Pagdayeg kamo ⟨sa⟩ Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "paghatol"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "nasulat"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hadol (himaya)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini mao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "niyang mga hasid"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:43.367224529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Si Avram ⟨nga⟩ bugayat kaayo sa kahayopan, sa pilak ug sa bulawan.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Si Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bugayat ⟨kadato⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "sa kahayopan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ug sa bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:30.411590748Z",
+  "model": "glm-5.3"
+}

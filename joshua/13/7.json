@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Karon busa bahina ⟨את⟩ ⟨ang⟩ yutang kini ingon nga panunod alang sa siyam ka mga tribo, ug alang sa katunga sa tribo sa Menasheh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "karon busa"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "bahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ yutang kini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yutang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ingon nga panunod"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "alang sa siyam ka"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug alang sa katunga"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "sa Menasheh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:59.577035163Z",
+  "model": "glm-5.3"
+}

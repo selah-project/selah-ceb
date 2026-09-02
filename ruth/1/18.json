@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nakita niya nga nagpanikad sila kaniya sa paglakaw ⟨את⟩ uban kaniya, ug mihunong na siya sa pagsulti kaniya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ug nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "nagpanikad sila kaniya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakaw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uban kaniya",
+      "marks": "uban kaniya"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ug mihunong na siya"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:02.293141948Z",
+  "model": "glm-5.3"
+}

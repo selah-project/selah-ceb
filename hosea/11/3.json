@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Apan ako, nagtudlo ako kang Efrayim sa paglakaw, gikuha ko sila sa ilang mga bukton, ug wala nila mahibalo nga ako ang nag-ayo kanila.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "nagtudlo ako sa paglakaw"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kang Efrayim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "gikuha ko sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "ila ng mga bukton"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nila mahibalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ako ang nag-ayo kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:00.630755374Z",
+  "model": "glm-5.3"
+}

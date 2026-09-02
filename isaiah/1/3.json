@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nahibalo ang baka sa iyang tag-iya, ug ang iring sa sabsaban sa iyang agalon; apan ang Yisrael wala makahibalo, ang akong katawhan wala makasabot.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Nahibalo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "sa iyang tag-iya"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ug ang iring"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "sa sabsaban"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sa iyang agalon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "makasabot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:26.886420716Z",
+  "model": "glm-5.3"
+}

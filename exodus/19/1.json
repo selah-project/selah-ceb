@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Sa ikatulong bulan, sa paggawas sa mga anak ni Yisrael gikan sa yuta sa Mitsrayim, sa maong adlaw nangadto sila sa kamingawan sa Sinay.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "sa ikatulong bulan"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatulong"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "sa paggawas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "maong"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nangadto sila"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "sa Sinay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:45.095436455Z",
+  "model": "glm-5.3"
+}

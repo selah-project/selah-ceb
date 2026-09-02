@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Nahitabo nga human natapos sa pagtabok sa tibuok nasod ⟨את⟩ sa Yarden, nagsulti si Yahweh kang Yehoshua nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitabo nga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nga human"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "natapos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "nasod"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:03.541359549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Gipahimong ingon sa sulti-sulti kami sa taliwala sa ⟨mga⟩ nasod, nga pag-uyog sa ulo sa taliwala sa ⟨mga⟩ katawhan.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "gipahimong kami"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ingon sa sulti-sulti"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa taliwala sa mga nasod"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "pag-uyog"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa taliwala sa mga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:42.997837789Z",
+  "model": "glm-5.3"
+}

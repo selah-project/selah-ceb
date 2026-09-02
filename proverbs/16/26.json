@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang ⟨kalag⟩ nga nagkakabuhi nag-antus ⟨alang sa iyang kaugalingon⟩, kay ang iyang baba nagpugos kaniya.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nagkakabuhi"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "nag-antus"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang sa iyang kaugalingon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "nagpugos"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "pı̂hu",
+      "gloss": "ang iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:18.324797218Z",
+  "model": "glm-5.3"
+}

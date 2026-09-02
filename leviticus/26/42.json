@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug mahinumdom ako sa akong pakigsaad ⟨את⟩ kang Yaakov, ug usab sa akong pakigsaad ⟨את⟩ kang Yitskhak, ug usab sa akong pakigsaad ⟨את⟩ kang Avraham ipahinumdom ko, ug ang yuta ipahinumdom ko.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ug mahinumdom ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong pakigsaad"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akong pakigsaad"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "kang Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong pakigsaad"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akong pakigsaad"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "kang Yitskhak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong pakigsaad"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "akong pakigsaad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "kang Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ipahinumdom ko"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ug ang yuta"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ipahinumdom ko"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:28.843768880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Si David ug tibuok balay ni Yisrael nagdala paingon sa ibabaw ⟨את⟩ aron ni Yahweh uban sa pagdayeg nga kusog ug sa tingog sa sungay sa karnero.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "nagdala paingon sa ibabaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "uban sa pagdayeg nga kusog"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ug sa tingog"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sungay sa karnero"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:34.256093286Z",
+  "model": "glm-5.3"
+}

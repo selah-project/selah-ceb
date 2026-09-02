@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ginadumtan nila ako, gilay-on nila ⟨ang ilang kaugalingon⟩ gikan kanako, ug sa akong atubangan wala nila pagluwam sa pagtupa ⟨sa ilang⟩ laway.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ginadumtan nila ako"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "gilay-on nila"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ug sa akong atubangan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "pagluwam"
+    },
+    {
+      "surface": "רק",
+      "gloss": "laway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:42:31.735775186Z",
+  "model": "glm-5.3"
+}

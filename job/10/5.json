@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Bangod ba ang imong mga adlaw sama sa mga adlaw ⟨sa⟩ tawo nga may kamatayon, ug ang imong mga tuig sama sa mga adlaw sa usa ka timan-an?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "bangod ba ang mga adlaw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tawo nga may kamatayon"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ang imong mga adlaw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ang imong mga tuig"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sama sa mga adlaw"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "usa ka timan-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:58.542874268Z",
+  "model": "glm-5.3"
+}

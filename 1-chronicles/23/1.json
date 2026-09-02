@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Si David nagtigulang ug napuno na sa adlaw, ug gipahari niya ⟨את⟩ si Shelomoh nga iyang anak sa ibabaw sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Si David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nagtigulang"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "napuno na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "gipahari niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:52.512183853Z",
+  "model": "glm-5.3"
+}

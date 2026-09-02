@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug miingon siya kanila: Dili, kondili ⟨sa⟩ pagtan-aw sa kahuyang sa yuta mianhi kamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon siya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "sa kahuyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mianhi kamo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:55.459187725Z",
+  "model": "glm-5.3"
+}

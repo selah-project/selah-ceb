@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug ibutang mo ⟨את⟩ ang kapporet (tabon sa sala) ibabaw sa aron sa pagsaksi, sa sulod sa labing balaan sa mga balaan.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ug ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang kapporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sa pagsaksi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa sulod sa balaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:01.273045474Z",
+  "model": "glm-5.3"
+}

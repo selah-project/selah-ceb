@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Kay dako hangtod sa mga langit ang imong hesed, ug hangtod sa mga panganod ang imong kamatuoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "dako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "mga panganod"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "imong kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:05.703071355Z",
+  "model": "glm-5.3"
+}

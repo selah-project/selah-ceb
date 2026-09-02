@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Sa ibabaw sa akong likod nangarado ang mga mag-uuma, gipataas nila ang ilang mga sudlay sa pag-arado:",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "akong likod"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "nangarado"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ang mga mag-uuma"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "gipataas nila"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "ang ilang mga sudlay sa pag-arado"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:40.280194997Z",
+  "model": "glm-5.3"
+}

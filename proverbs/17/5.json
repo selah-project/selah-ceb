@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang nagtawgyaw sa kabos nanginsulto sa Magbubuhat kaniya; ang nagkalipay sa katalagman dili molikay ⟨sa silot⟩.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "nagtawgyaw"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "nanginsulto"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "sa Magbubuhat kaniya"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nagkalipay"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "sa katalagman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "molikay ⟨sa silot⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:32.959337424Z",
+  "model": "glm-5.3"
+}

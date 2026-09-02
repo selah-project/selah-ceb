@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gisugdan ni Shelomoh ang pagtukod sa balay ni Yahweh sa Yerushalayim, sa bukid sa Moriyah, diin ⟨nagpakita⟩ siya kang David iyang amahan, sa dapit nga gipangandam ni David, sa giapanan ni Arnan nga Yebusihanhon.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "gisugdan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ang pagtukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "sa Moriyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gipangandam"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "sa giapanan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ni Arnan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "nga Yebusihanhon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:43.735604543Z",
+  "model": "glm-5.3"
+}

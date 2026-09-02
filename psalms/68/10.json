@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ulan sa mga boluntaryong gasa imong gisalog, O Elohim; sa imong kabilin nga nangahas imong ⟨kini⟩ gitukod.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "ulan"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "sa mga boluntaryong gasa"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "imong gisalog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "imong kabilin"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "nga nangahas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "imong gitukod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:10.853523508Z",
+  "model": "glm-5.3"
+}

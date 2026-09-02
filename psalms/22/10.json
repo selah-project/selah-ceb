@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kay ikaw ang naggula kanako gikan sa tiyan; nagpagtuo ako ⟨kanimo⟩ diha sa mga suso sa akong inahan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ang naggula"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "nagpagtuo ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha sa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mga suso"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "akong inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:06.123622330Z",
+  "model": "glm-5.3"
+}

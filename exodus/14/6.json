@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug gipangandam niya ⟨את⟩ ang iyang karo ug ⟨את⟩ ang iyang katawhan gidala niya uban kaniya.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "Ug gipangandam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang karo"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ang iyang karo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang katawhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gidala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:14.957961692Z",
+  "model": "glm-5.3"
+}

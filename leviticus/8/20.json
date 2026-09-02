@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨את⟩ ang karnero gigutol ngadto sa iyang mga piraso, ug gipaaso ni Moshe ⟨את⟩ ang ulo ug ⟨את⟩ ang mga piraso ug ⟨את⟩ ang tambok.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang karnero"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "gigutol ngadto sa mga piraso"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "sa iyang mga piraso"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "gipaaso"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga piraso"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ang mga piraso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ang tambok"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:10.670740155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang sinugdan sa kaalam mao ang kahadlok kang Yahweh, ug ang kahibalo sa mga balaan mao ang sinabtan.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Ang sinugdan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ang kahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ug ang kahibalo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa mga balaan"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "mao ang sinabtan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:52.344555599Z",
+  "model": "glm-5.3"
+}

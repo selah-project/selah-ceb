@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Sa luyo ni Yahweh, sa inyong Elohim, molakaw kamo, ug ⟨את⟩ siya kahadlukan ninyo, ug ⟨את⟩ sa iyang mga sugo magbantay kamo, ug sa iyang tingog mamati kamo, ug ⟨את⟩ siya alagaran ninyo, ug kaniya magadikit kamo.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Sa luyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "molakaw kamo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (gikahadlukan)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kahadlukan ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga sugo"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "sa iyang mga sugo"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "magbantay kamo"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "ug sa iyang tingog"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mamati kamo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (gialagaran)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "alagaran ninyo"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ug kaniya"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "magadikit kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:51.918244993Z",
+  "model": "glm-5.3"
+}

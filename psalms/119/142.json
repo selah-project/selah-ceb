@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang imong katarungan katarungan hangtod sa kahangturan, ug ang imong Torah kamatuoran.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ang imong katarungan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ug ang imong Torah"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:52.037857880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug nahitabo sa unang bulan, sa ikaduhang tuig, sa unang adlaw sa bulan, nga gitukod ang Mishkan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa unang"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:30.766991179Z",
+  "model": "glm-5.3"
+}

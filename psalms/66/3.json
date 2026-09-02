@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Ingna si Elohim: Unsang kahadlukan ang imong mga buhat! Pinaagi sa kadaghan sa imong kusog, molimbong ang imong mga kaaway kanimo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ingna"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsang"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kahadlukan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imong mga buhat"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "pinaagi sa kadaghan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imong kusog"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "molimbong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:26.442711249Z",
+  "model": "glm-5.3"
+}

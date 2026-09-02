@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug nahitabo sa paglabay sa adlaw nga miabot ang mga Peleshti sa paghubo ⟨את⟩ sa mga napatay, ug nakaplagan nila ⟨את⟩ si Shaul ug ⟨את⟩ ang iyang tulo ka mga anak nga nagkahulog sa bukid Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa paglabay sa adlaw"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "nga miabot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Peleshti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "sa paghubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga napatay"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "sa mga napatay"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ug nakaplagan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang tulo ka mga anak"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ang tulo ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "nga nagkahulog"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:00.316307594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Isulti mo sa mga anak ni Yisrael, ug ingna sila: Sa dihang mobaktas kamo sa ⟨את⟩ Yarden ngadto sa yuta sa Kenaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Isulti mo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ug ingna"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Sa dihang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mobaktas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:53.892761405Z",
+  "model": "glm-5.3"
+}

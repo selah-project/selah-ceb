@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Imong gipabalik ang tawhanong mortal ngadto sa panggukdanggukdon, ug imong gisulti: «Balik kamo, mga anak ni Adam.»",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "gipabalik"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tawhanong mortal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "panggukdanggukdon"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug imong gisulti"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Balik kamo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:11.686918103Z",
+  "model": "glm-5.3"
+}

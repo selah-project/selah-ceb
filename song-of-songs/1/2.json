@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ngaynga-i ako sa mga halok sa iyang baba, kay labaw sa bino ang imong mga gugma.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Ngaynga-i ako"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "sa mga halok"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "labaw"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ang imong mga gugma"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "sa bino"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:19.080624355Z",
+  "model": "glm-5.3"
+}

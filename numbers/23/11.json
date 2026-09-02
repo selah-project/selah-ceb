@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 23:11",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug miingon si Balak kang Bilam: Unsa ang imong gibuhat kanako? Gikuha ko ikaw aron tungloon ang akong mga kaaway, ug ania karon, imong gipanalangin sila gayod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "si Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang imong gibuhat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "aron tungloon"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "לקחתיך",
+      "gloss": "gikuha ko ikaw"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "imong gipanalangin"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gayod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:33.866510901Z",
+  "model": "glm-5.3"
+}

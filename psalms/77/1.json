@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Sa pangulo sa mga musikero, alang kang Yedutun, kang Asaf — usa ka mizmor ⟨(mga awit nga may nota)⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa pangulo sa mga musikero"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang kang"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kang Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:59.002514538Z",
+  "model": "glm-5.3"
+}

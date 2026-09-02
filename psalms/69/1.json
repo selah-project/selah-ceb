@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ngadto ⟨sa⟩ magdumala sa koral, ibabaw sa ⟨mga⟩ Shoshannim, usa ka salmo ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ngadto sa magdumala sa koral"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:37.657242314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug miingon si Avimelekh kang Avraham: Unsa may imong nakita, nga imong gibuhat ⟨את⟩ ang ⟨mao kining butanga⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "imong nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang butanga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "butanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:57.369077594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Matarong si Yahweh sa tanan niyang mga dalan, ug hesed ang iyang buhat sa tanan niyang mga gibuhat.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "niyang mga dalan"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ug hesed ang iyang buhat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "niyang mga gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.560580481Z",
+  "model": "glm-5.3"
+}

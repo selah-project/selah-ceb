@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Apan gilimbong nila siya sa ilang baba, ug sa ilang dila nangakakat sila kaniya.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "gilimbong nila siya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ilang baba"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "ug sa ilang dila"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "nangakakat sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:27.011803930Z",
+  "model": "glm-5.3"
+}

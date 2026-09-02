@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ginabantayanan ni Yahweh ang tanan niyang mga bukog; usa ⟨kanila⟩ dili gayod mabali.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ginabantayanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "niyang mga bukog"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "mabali"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:14.449642800Z",
+  "model": "glm-5.3"
+}

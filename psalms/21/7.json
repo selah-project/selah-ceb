@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay Imong gipahimutang siya nga mga panalangin hangtod sa dayon; gipalipay Nimo siya sa kalipay ⟨את⟩ sa Imong panagway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Imong gipahimutang siya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "nga mga panalangin"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa dayon"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "gipalipay Nimo siya"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "sa kalipay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Imong panagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Imong panagway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:23.886722030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miliso sila ug nisumakas sila ngadto sa kabukiran, ug nisulod sila hangtod sa walog sa Eshkol, ug gisusi nila ⟨את⟩ ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Ug miliso sila"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ug nisumakas sila"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ngadto sa kabukiran"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ug nisulod sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walog"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "ug gisusi nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang yuta)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:26.368273585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ayaw pagkahimong maalamon sa imong kaugalingong mga mata, kahadloki ⟨את⟩ si Yahweh ug talikdi ang kadaotan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "pagkahimong"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kahadloki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ug talikdi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ang kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:59.365818794Z",
+  "model": "glm-5.3"
+}

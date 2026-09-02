@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nahitabo, sa pagkadungog ni Ahab nga namatay si Nabot, nga mitindog si Ahab sa pagpanaug ngadto sa kaparasan ni Nabot ang taga-Yizreel, sa pagpanag-iya niini.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sa pagkadungog"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "si Nabot"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog si Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "si Ahab"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "sa pagpanaug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kaparasan"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ni Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "ang taga-Yizreel"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "sa pagpanag-iya niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:13.017328590Z",
+  "model": "glm-5.3"
+}

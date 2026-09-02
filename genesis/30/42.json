@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Apan sa pagluya sa panon, wala niya butangi ⟨sila⟩; ug nahitabo nga ang mga luya ⟨nahiangpan⟩ kang Lavan, ug ang mga lig-on kang Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "apan sa pagluya"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sa panon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "niya butangi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug nahitabo nga"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ang mga luya"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "kang Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ug ang mga lig-on"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kang Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:37.841014301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gisulti nila kang Mordekhay ⟨ang⟩ mga pulong ni Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "gisulti nila"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kang Mordekhay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ni Ester"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:03.336098581Z",
+  "model": "glm-5.3"
+}

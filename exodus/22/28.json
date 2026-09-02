@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang imong ani ug ang imong dagmay ayaw nimo pagluhangi; ang panganay sa imong mga anak ihatag mo kanako.",
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "imong ani"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "ug imong dagmay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "pagluhangi"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sa imong mga anak"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ihatag mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:59.821962019Z",
+  "model": "glm-5.3"
+}

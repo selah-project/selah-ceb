@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug mogawas ang saserdote ngadto sa gawas sa kampo, ug tan-awon sa saserdote, ug, ania karon, naayo na ang timaila sa sakit sa panit gikan sa nasakit:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "tan-awon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug, ania karon"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "naayo na"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ang timaila"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "sa sakit sa panit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "nasakit"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:27.851858127Z",
+  "model": "glm-5.3"
+}

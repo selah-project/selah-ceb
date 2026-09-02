@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Amahan sa mga ilo, ug maghuhukom sa mga balo — Elohim ⟨sa⟩ iyang balaang puloy-anan.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Amahan"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sa mga ilo"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ugh maghuhukom"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "sa mga balo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "sa iyang puloy-anan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:25.882666596Z",
+  "model": "glm-5.3"
+}

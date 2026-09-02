@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Kay ang imong hesed labaw pa sa kinabuhi, ang akong mga ngabil magadayeg kanimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "labaw pa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imong hesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akong mga ngabil"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "magadayeg kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:49.500799427Z",
+  "model": "glm-5.3"
+}

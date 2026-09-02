@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Hangtod sa kahangturan magatindog ako sa imong kaliwat, ug patukuron ko sa laing kaliwatan ngadto sa kaliwatan ang imong lingkoranan. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangturan"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "magatindog ako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sa imong kaliwat"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ug patukoron ko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa laing kaliwatan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ngadto sa kaliwatan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ang imong lingkoranan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.531824991Z",
+  "model": "glm-5.3"
+}

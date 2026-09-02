@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Sama sa anino nga nagkadaghang ako nianaglakat; gisamad ako sama sa tagaan (daganan nga balang).",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Sama sa anino"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "nga nagkadaghang"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ako nianaglakat"
+    },
+    {
+      "surface": "ננעرתי",
+      "gloss": "gisamad ako"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "sama sa tagaan (balang)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.383809436Z",
+  "model": "glm-5.3"
+}

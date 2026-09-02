@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "mga katingalahan sa yuta sa Kham, mga makahahadlok nga buhat ibabaw sa Dagat sa Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "sa Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mga makahahadlok nga buhat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sa Suf"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:18.283374926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kini ang mga anak ni Kham, sumala sa ilang mga banay, sumala sa ilang mga pinulongan, sa ilang mga yuta ug sa ilang mga nasod",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "sumala sa ilang mga pinulongan"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "sa ilang mga yuta"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "sa ilang mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:02.229264790Z",
+  "model": "glm-5.3"
+}

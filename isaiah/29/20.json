@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 29:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Kay pagaunang ang mapintas, ug pagaunang ang nagtaway, ug pagaputlon ang tanan nga nagbantay sa kadaotan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "pagaunang"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ang mapintas"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ug pagaunang"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ang nagtaway"
+    },
+    {
+      "surface": "ונכרתו",
+      "gloss": "ug pagaputlon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שקדי",
+      "gloss": "nga nagbantay"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:22.650595410Z",
+  "model": "glm-5.3"
+}

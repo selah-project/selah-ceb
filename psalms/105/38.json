@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nalipay ang Mitsrayim sa ilang paggawas, kay ang ilang kahadlok nahulog ibabaw kanila.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Nalipay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "sa ilang paggawas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ang ilang kahadlok"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ibabaw kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:00.456100874Z",
+  "model": "glm-5.3"
+}

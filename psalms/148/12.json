@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Mga batan-ong lalaki ug usab mga dalaga, mga tigulang kauban ang mga bata:",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mga batan-ong lalaki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "mga dalaga"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban ang"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga bata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:44.588066563Z",
+  "model": "glm-5.3"
+}

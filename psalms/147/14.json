@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "⟨Siya⟩ nga nagahimog kalig-onan sa imong utlanan, nagabusog kanimo sa taba sa trigo.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨Siya⟩ nga nagahimo"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sa imong utlanan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalig-onan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "taba"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "sa trigo"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "nagabusog kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.429836839Z",
+  "model": "glm-5.3"
+}

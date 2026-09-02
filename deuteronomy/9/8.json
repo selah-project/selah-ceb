@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug sa Choreb ninyong gipakasuko ⟨את⟩ si Yahweh, ug nasuko si Yahweh kaninyo aron laglagon ⟨את⟩ kamo.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Ug sa Choreb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ninyong gipakasuko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ug nasuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "aron laglagon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:20.528854448Z",
+  "model": "glm-5.3"
+}

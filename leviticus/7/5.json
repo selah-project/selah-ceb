@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ipasiga sa kohen sila ⟨את⟩ sa hawanan, isheh (halad sa kalayo) alang kang Yahweh; asham (halad sa sala) ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "ug ipasiga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga tambok nga bahin (gikan sa bersikulo 4)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa hawanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isheh (halad sa kalayo)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham (halad sa sala)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:23.452255742Z",
+  "model": "glm-5.3"
+}

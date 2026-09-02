@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug imong ihalad ⟨את⟩ ang toro atbang ni Yahweh, sa ganghaan sa tolda sa katigoman.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "imong ihalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang toro"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang toro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "katigoman"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:20.692669041Z",
+  "model": "glm-5.3"
+}

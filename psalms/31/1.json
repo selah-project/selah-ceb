@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Sa magdadagso ⟨sa» mga» himno⟩, usa ka balak ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdadagso"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "balak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:45.651611170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Kadaot ang gihuna-huna sa imong dila, sama sa tarom nga hasmin, magbubuhat ka sa paniktik.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Kadaot"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ang gihuna-huna"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "sa imong dila"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "sama sa hasmin"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "nga tarom"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "magbubuhat ka"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "sa paniktik"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:37.657903433Z",
+  "model": "glm-5.3"
+}

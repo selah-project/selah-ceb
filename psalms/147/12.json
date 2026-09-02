@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Idungog pagdungog, O Yerushalayim, kang Yahweh ⟨את⟩; pagdayeg, O Tsiyon, ang imong Elohim.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "idungog pagdungog"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "O Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "pagdayeg"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "O Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.161490580Z",
+  "model": "glm-5.3"
+}

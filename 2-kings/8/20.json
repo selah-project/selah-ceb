@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Sa iyang mga adlaw nangrebelyar ang Edom gikan sa ubos sa kamot ni Yehudah, ug nagpatukod sila ug hari ibabaw kanila.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "sa iyang mga adlaw"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "nangrebelyar"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "gikan sa ubos"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ug nagpatukod ug hari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ibabaw kanila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:00.758361470Z",
+  "model": "glm-5.3"
+}

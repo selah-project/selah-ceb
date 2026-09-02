@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug mokaon sila apan dili mabusog; nananglaway sila apan dili magpadaghan; kay gibiyai nila si Yahweh ⟨את⟩, sa pagbantay.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Ug mokaon sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "nananglaway sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "magpadaghan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "gibiyai nila"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:11.488001419Z",
+  "model": "glm-5.3"
+}

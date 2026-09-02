@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "Luwason sa panalangin kita ni Elohim, ug mahadlok Kaniya ⟨את⟩ ang tanan nga mga kinatumyan sa yuta.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Luwason sa panalangin kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ug mahadlok"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga kinatumyan sa yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mga kinatumyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:21.048058956Z",
+  "model": "glm-5.3"
+}

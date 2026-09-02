@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug igahipa ninyo ang ⟨alarma⟩, ug molarga ang mga kampo nga nagkampohan sa sidlakan.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "igahipa ninyo"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ang alarma"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "ug molarga"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ang mga kampo"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "nga nagkampohan"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sa sidlakan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:35:06.526199697Z",
+  "model": "glm-5.3"
+}

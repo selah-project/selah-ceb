@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug ang ilang mga pulong nindot ⟨sa⟩ mga mata ni Khamor ug ⟨sa⟩ mga mata ni Shekhem nga anak ni Khamor.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "nindot"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ang ilang mga pulong"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "⟨sa⟩ mga mata ni"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Khamor"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ug ⟨sa⟩ mga mata ni"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ni Khamor"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:38.963986430Z",
+  "model": "glm-5.3"
+}

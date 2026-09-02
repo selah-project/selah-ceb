@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug si David nagbuhat sumala sa gisugo sa Elohim kaniya, ug gigumba nila ⟨את⟩ ang kampo sa mga Pelishtey, gikan sa Givon hangtod sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gisugo kaniya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "gigumba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kampo"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishtey"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "gikan sa Givon"
+    },
+    {
+      "surface": "ויכו ועד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:45.273919487Z",
+  "model": "glm-5.3"
+}

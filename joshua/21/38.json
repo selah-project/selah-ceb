@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Gikan sa tribo ni Gad: ang dakbayan sa pagtago alang sa nakapatay — ⟨את⟩ Ramot sa Gilead uban ⟨את⟩ mga kapatagan niini, ug ⟨את⟩ Mahanayim uban ⟨את⟩ mga kapatagan niini.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Gikan sa tribo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dakbayan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "sa pagtago"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "alang sa nakapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot sa Gilead"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩",
+      "marks": "mga kapatagan niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Mahanayim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩",
+      "marks": "mga kapatagan niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:25.258501246Z",
+  "model": "glm-5.3"
+}

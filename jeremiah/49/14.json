@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Balita ang akong nadungog gikan kang Yahweh ⟨את⟩, ug usa ka sulogon gipadala sa taliwala sa mga nasud: Tigtigum kamo ug umol kaniya, ug bangon kamo sa gubat.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "balita"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ang akong nadungog"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "gikan kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ug usa ka sulogon"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa taliwala sa mga nasud"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "Tigtigum kamo"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ug umol"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ug bangon kamo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T21:31:03.069980761Z",
+  "model": "glm-5.3"
+}

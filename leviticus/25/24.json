@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug sa tibuok yuta sa inyong pagpanag-iya, pagtubos ang ihatag ninyo sa yuta.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ug sa tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "sa inyong pagpanag-iya"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "pagtubos"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ang ihatag ninyo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:48.240673142Z",
+  "model": "glm-5.3"
+}

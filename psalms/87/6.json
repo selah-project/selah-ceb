@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 87,
+  "translation": "Si Yahweh magaihap sa diha nga isulat ⟨niya⟩ ang mga katawhan: kini ⟨nga tawo⟩ natawo didto. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "magaihap"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "sa diha nga isulat"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:55.765722265Z",
+  "model": "glm-5.3"
+}

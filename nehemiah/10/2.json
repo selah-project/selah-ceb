@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug sa mga nagpirma ⟨sa selyo⟩: Nechemyah ang Tirshata, anak ni Chakalyah, ug Tsidkiyah.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "mga nagpirma sa selyo"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nechemyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "ang Tirshata ⟨gobernador⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ni Chakalyah"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "ug Tsidkiyah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:33.207684989Z",
+  "model": "glm-5.3"
+}

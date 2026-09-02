@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Si David nagdala sa sayaw ⟨sa⟩ tibuok kusog atubangan ni Yahweh, ug si David nagputos ug ephod nga lino.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "nagdala sa sayaw"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "nagputos"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ephod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "nga lino"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:34.255929704Z",
+  "model": "glm-5.3"
+}

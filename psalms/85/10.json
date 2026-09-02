@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Oo, duol ngadto sa mga nagakalagot kaniya ang iyang kaluwas, aron magpuyo ang himaya sa atong yuta.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "duol"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ngadto sa mga nagakalagot kaniya"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "iyang kaluwas"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "aron magpuyo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "sa atong yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:36.542549711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug igasapinan mo ⟨את⟩ kini og bulawan nga hinlo, ug buhaton mo alang niini ang korona nga bulawan sa palibot.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Ug igasapinan mo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang lamesa)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "og bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga hinlo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang niini"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ang korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:30.637050224Z",
+  "model": "glm-5.3"
+}

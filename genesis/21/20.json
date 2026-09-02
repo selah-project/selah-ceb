@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ⟨naa⟩ si Elohim uban ⟨את⟩ sa bata, ug nidako siya, ug nagpuyo siya sa kamingawan, ug nahimo siyang mamumusog sa pana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bata"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ugi nidako siya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ugi nagpuyo siya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ugi nahimo siya"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mamumusog"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sa pana"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:13.216292082Z",
+  "model": "glm-5.3"
+}

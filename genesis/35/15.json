@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug gitawag ni Yaakov ⟨את⟩ ang ngalan sa dapit diin didto nakigsulti ⟨את⟩ kaniya ang Elohim: Beit-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nakigsulti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:26.515464797Z",
+  "model": "glm-5.3"
+}

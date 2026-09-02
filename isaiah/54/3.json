@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Kay sa tuo ug sa wala ikaw mubuka, ug ang imong kaliwat manag-iya sa mga nasod, ug ang mga biniyaan nga dakbyan puy-anon nila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "sa tuo"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ug sa wala"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "ikaw mubuka"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ug ang imong kaliwat"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "manag-iya"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ug ang mga dakbayan"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "nga biniyaan"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "puy-anon nila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:30.816817031Z",
+  "model": "glm-5.3"
+}

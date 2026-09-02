@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Mapahi sila ug mobalik sa luyo, silang tanan nga nagadumot sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mapahi"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "ug mobalik sa luyo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "silang tanan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "nagadumot"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.245675049Z",
+  "model": "glm-5.3"
+}

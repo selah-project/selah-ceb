@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang mga anak ni Eli mga anak ni Belial ⟨mga⟩; wala sila makaila ⟨את⟩ kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ni Belial"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sila makaila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:12:46.654163335Z",
+  "model": "glm-5.3"
+}

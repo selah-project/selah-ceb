@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Basta ang mga ⟨bama⟩ wala magtangtang; ang katawhan gihapon naghalad ug nagsunog ug insenso sa mga ⟨bama⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "basta"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ang mga bama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "magtangtang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gihapon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "naghalad"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ug nagsunog ug insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga bama"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:47.299796057Z",
+  "model": "glm-5.3"
+}

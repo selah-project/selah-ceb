@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Nagdormir si Yotam kauban ⟨את⟩ sa iyang mga amahan, ug gilubong siya ⟨את⟩ sa ciudad ni David; ug si Akhaz nga iyang anak naghari sa iyang pulingkanan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Nagdormir"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga amahan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gilubong siya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sa ciudad ni David"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ciudad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang pulingkanan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:48:28.463497872Z",
+  "model": "glm-5.3"
+}

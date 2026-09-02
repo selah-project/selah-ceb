@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Hinuo, sa kasingkasing ninyo nagabuhat kamo ug kadaotan; sa yuta ang kabangis sa inyong mga kamot gitimbang ninyo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Hinuo,"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa kasingkasing ninyo"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ug kadaotan"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "nagabuhat kamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ang kabangis"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "sa inyong mga kamot"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "gitimbang ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:48.982807598Z",
+  "model": "glm-5.3"
+}

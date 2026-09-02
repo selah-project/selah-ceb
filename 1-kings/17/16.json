@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang kolon sa harina wala mahurot, ug ang sudlanan sa lana wala kulang, sumala sa pulong ni Yahweh nga giingon pinaagi sa kamot ni Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kolon"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ang harina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "wala mahurot"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "ug ang sudlanan"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "wala kulang"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa kamot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:06.797155195Z",
+  "model": "glm-5.3"
+}

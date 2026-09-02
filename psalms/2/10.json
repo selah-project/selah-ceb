@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug karon, mga hari, pagbuhat kamo ug kaalam; pagtuon kamo, mga maghuhukom sa ⟨mga⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "pagbuhat kamo ug kaalam"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "pagtuon kamo"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "mga maghuhukom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:09.893053019Z",
+  "model": "glm-5.3"
+}

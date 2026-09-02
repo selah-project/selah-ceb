@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ang goel sa dugo, siya mismo ang mopatay ⟨את⟩ ⟨sa⟩ mamumuno; sa iyang pagtugpo kaniya, siya mismo magapatay kaniya.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Ang goel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "mopatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mamumuno"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ang mamumuno"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "sa iyang pagtugpo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "magapatay kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:45.930094628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Moingon ako ngadto sa Eloah: Ayaw ako paghukman; ipahibalo kanako mahitungod sa unsa nga naglalis Ka sa akon.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "moingon ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "paghukman ako"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ipahibalo kanako"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "naglalis Ka sa akon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:46.216808789Z",
+  "model": "glm-5.3"
+}

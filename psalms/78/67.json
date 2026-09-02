@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gisalikway niya ang tolda ni Yosef, ug sa tribo ni Efrayim wala niya pilia.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ug gisalikway niya"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ug sa tribo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pilia"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:27.029265850Z",
+  "model": "glm-5.3"
+}

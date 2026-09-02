@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa paggisi, ug panahon sa pagdalahig; panahon sa paghilom, ug panahon sa pagsulti.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "sa paggisi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "sa pagdalahig"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "sa paghilom"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pagsulti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.567618245Z",
+  "model": "glm-5.3"
+}

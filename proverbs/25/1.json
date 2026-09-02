@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Kini usab mga mithi ni Shelomoh, nga gikopya sa mga tawo ni Khizkiyahu, hari sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "mga mithi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "gikopya"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo ni"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:57.854515426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Gipadala niya ang pagluwas ngadto sa iyang katawhan; gisugo niya ⟨ang⟩ iyang pakdiot hangtod sa kahangturan; balaan ug makahahadlok ang iyang Ngalan.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "pagluwas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ginpadala"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ngadto sa iyang katawhan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "iyang pakdiot"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ug makahahadlok"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:56.217656620Z",
+  "model": "glm-5.3"
+}

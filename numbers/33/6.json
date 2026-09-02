@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": " ug mituman sila gikan sa Sukkot, ug nagkamp sila sa Etam, nga anaa sa kinatumyan sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ug mituman sila"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "gikan sa Sukkot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ug nagkamp sila"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "sa Etam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "sa kinatumyan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:22.458425655Z",
+  "model": "glm-5.3"
+}

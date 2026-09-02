@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Nadungog sa mga pumoluyo sa Yavesh sa Gilad ⟨את⟩ ang gibuhat sa mga Pelishtihanon kang Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mahitungod niini"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sa mga pumoluyo"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gibuhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang gibuhat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishtihanon"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:30.596450285Z",
+  "model": "glm-5.3"
+}

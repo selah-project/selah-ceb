@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Pagsigiaw kamo kang Yahweh, tibook nga yuta; pagsabkad kamo, paglipay kamo, ug pagzemer kamo.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Pagsigiaw kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibook"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "pagsabkad kamo"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "paglipay kamo"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "pagzemer kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:13.985901883Z",
+  "model": "glm-5.3"
+}

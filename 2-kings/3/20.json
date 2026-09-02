@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nahitabo kini sa buntag, sa pag-alsa sa halad nga umagahon, ug ania kini — tubig nga nangabot gikan sa dalan sa Edom, ug napuno ang yuta ⟨את⟩ sa tubig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitabo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "sa pag-alsa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sa halad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "באים",
+      "gloss": "nga nangabot"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "gikan sa dalan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ug napuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:40.802332682Z",
+  "model": "glm-5.3"
+}

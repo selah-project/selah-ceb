@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ⟨את⟩ mga balay sa Yerushalayim giihap ninyo, ug giguba ninyo ang mga balay sa pagpalig-on sa paril.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga balay"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "giihap ninyo"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "giguba ninyo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ang mga balay"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "sa pagpalig-on"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "paril"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:34.262258542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ngadto sa imong kamot itugyan ko ang akong gininhawa; giluwas mo ⟨את⟩ ako, Yahweh, El sa kamatuoran.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "ngadto sa imong kamot"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "itugyan ko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akong gininhawa"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "giluwas mo"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sa kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:54.546408550Z",
+  "model": "glm-5.3"
+}

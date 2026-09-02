@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Busa gipaubos niya ang ilang kasingkasing pinaagi sa kapoy; napaakpan sila ug wala nay manabang.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Busa gipaubos niya"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "sa kapoy"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ilang kasingkasing"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "napaakpan sila"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala nay"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "manabang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.710333793Z",
+  "model": "glm-5.3"
+}

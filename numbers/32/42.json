@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug si Novakh milakat ug gidakop niya ⟨את⟩ ang Kenath ug ⟨את⟩ ang mga anak nga babayi niini, ug gitawag niya kininga Novakh, sumala sa iyang ngalan.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Ug si Novakh"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "milakat"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "gidakop niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kenath"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "ang Kenath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga anak nga babayi niini"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ang mga anak nga babayi niini"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novakh"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sumala sa iyang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:55.557462424Z",
+  "model": "glm-5.3"
+}

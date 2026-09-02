@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Human niadto giabli ni Iyob ⟨את⟩ ang iyang baba ug gilapa niya ⟨את⟩ ang iyang adlaw.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niadto"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "giabli"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang baba"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ang iyang baba"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ug gilapa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang adlaw"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ang iyang adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:51.637280895Z",
+  "model": "glm-5.3"
+}

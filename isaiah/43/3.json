@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Kay ako si Yahweh nga imong Elohim, ang Balaan sa Yisrael, ang imong Manluluwas; gihatag ko ang Mitsrayim ingon nga imong tubos, Kush ug Sva ⟨ingon nga ilis⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ang Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "imong Manluluwas"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag nako"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ingon imong tubos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ug Sva"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "⟨ingon nga ilis⟩ kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:24.378578816Z",
+  "model": "glm-5.3"
+}

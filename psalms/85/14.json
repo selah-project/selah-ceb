@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Ang katarungan magalakaw ⟨sa⟩ atubangan niya, ug magabutang ⟨sa⟩ dalan sa iyang mga tiil.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa atubangan niya"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "magalakaw"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug magabutang"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "iyang mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:25.087194529Z",
+  "model": "glm-5.3"
+}

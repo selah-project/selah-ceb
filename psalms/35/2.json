@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Kuhaa ang laming ug ang taming, ug tumbang sa akong tabang.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "laming"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "taming"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "tumbang"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "sa akong tabang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.116501135Z",
+  "model": "glm-5.3"
+}

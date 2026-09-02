@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ang daotan nagabantay sa matarong ug nangita sa pagpatay ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ug nangita"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "sa pagpatay kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:30.052089963Z",
+  "model": "glm-5.3"
+}

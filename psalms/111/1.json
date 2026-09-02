@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Pagdayeg kamo kang Yah! Magapasalamaton ako kang Yahweh sa tibuok kasingkasing, diha sa tinagoong ⟨pagtatagpo⟩ sa mga matarong ug sa kongregasyon.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Magapasalamaton ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "diha sa tinagoong pagtatagpo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ug sa kongregasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:30.224734483Z",
+  "model": "glm-5.3"
+}

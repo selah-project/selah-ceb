@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug mga ginadumtan sila mahimong alang kaninyo; sa ilang unod dili kamo mokaon, ug ⟨את⟩ sa ilang patay nga lawas dumtan ninyo.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Ug mga ginadumtan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "sa ilang unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mokaon kamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang patay nga lawas"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "patay nga lawas"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "dumtan ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:51.161687814Z",
+  "model": "glm-5.3"
+}

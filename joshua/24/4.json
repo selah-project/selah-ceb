@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gihatagan ko si Yitskhak ⟨את⟩ ni Yaakov ug ⟨את⟩ si Esav, ug gihatagan ko si Esav ⟨את⟩ sa bukid sa Seir aron sa pagpanag-iya ⟨את⟩ niini; ug si Yaakov ug ang iyang mga anak naubos ngadto sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "ug gihatagan ko"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "si Yitskhak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ug gihatagan ko"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bukid sa Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sa Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aron sa pagpanag-iya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ niini"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ug si Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "naubos"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ngadto sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:49.982521784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Duol si Yahweh sa tanan nga nagatawag kaniya, sa tanan nga nagatawag kaniya sa kamatuoran.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Duol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "nga nagatawag kaniya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "nagatawag kaniya"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "sa kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.560782339Z",
+  "model": "glm-5.3"
+}

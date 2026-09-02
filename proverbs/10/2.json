@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Wala⟨y⟩ makapatungang mga bahandi sa pagkadautan, apan ang pagkamatarong nagaluwas gikan sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "makapatungang"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "mga bahandi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa pagkadautan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "apan ang pagkamatarong"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "nagaluwas"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "gikan sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:48.338663060Z",
+  "model": "glm-5.3"
+}

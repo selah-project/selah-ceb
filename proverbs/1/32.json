@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay ang pagtalikod sa mga pulos mopalot kanila, ug ang kalinaw sa mga buang maglaglag kanila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "ang pagtalikod"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "sa mga pulos"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "mopalot kanila"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "ug ang kalinaw"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga buang"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "maglaglag kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:51.206917463Z",
+  "model": "glm-5.3"
+}

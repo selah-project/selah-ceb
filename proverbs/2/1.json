@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Akong anak, kon madawat nimo ⟨את⟩ ang akong mga pulong, ug ang akong mga sugo itago nimo ⟨את⟩ kanimo,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Akong anak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "madawat nimo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang akong mga pulong"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ug ang akong mga sugo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "itago nimo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo",
+      "marks": "kanimo (kanimo nga dapit sa pagtago)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:35.540773179Z",
+  "model": "glm-5.3"
+}

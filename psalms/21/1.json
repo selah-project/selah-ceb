@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Sa magdumala sa mga mag-aawit; usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdumala sa mga mag-aawit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:32.072343738Z",
+  "model": "glm-5.3"
+}

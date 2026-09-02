@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug gibunal ni Yonatan ⟨את⟩ ang garison sa mga Pelishti nga anaa sa Giv'a, ug nadungog sa mga Pelishti; ug si Shaul nagtunog sa shofar sa tibuok ⟨nga⟩ yuta, nga nag-ingon: Mga Hebreo, dumoga ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ug gibunal"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ni Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang garison"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "garison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "anaa sa Giv'a"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ug nadungog"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishti"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ug si Shaul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nagtunog"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "dumoga"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "mga Hebreo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:46.187487891Z",
+  "model": "glm-5.3"
+}

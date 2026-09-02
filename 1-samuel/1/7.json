@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ingon niana siya nagbuhat tuig matag tuig; sa matag pagsaka niya sa balay ni Yahweh, ingon niana siya gipalagot niini; busa siya nanaghoy ug wala mokaon.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ug ingon niana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "matag tuig"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sa matag"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "pagsaka niya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "gipalagot niini"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "ug nanaghoy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mokaon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:15.841928373Z",
+  "model": "glm-5.3"
+}

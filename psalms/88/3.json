@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Moabot ⟨kanimo⟩ ang akong pag-ampo; idukot ang imong dalunggan ngadto sa akong pagpanawag.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Moabot"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "kanimo (sa imong atubangan)"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pag-ampo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "idukot"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imong dalunggan"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ngadto sa akong pagpanawag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.448482924Z",
+  "model": "glm-5.3"
+}

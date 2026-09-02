@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Namatdan ang akong kusog ingon sa pinggan nga bino, ug ang akong dila naghigot sa akong apapangig; ug ngadto sa abo sa kamatayon imo akong gibutang.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Namatdan"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ingon sa pinggan nga bino"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akong kusog"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ug ang akong dila"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "naghigot"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "sa akong apapangig"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "ug ngadto sa abo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "imo akong gibutang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:18.814120900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Pag-awit kamo kang Elohim, pag-zamer kamo sa iyang ngalan, pag-butang kamo ug dalan ⟨alang⟩ niadtong nagsakay sa mga kamingawan; Yah ⟨ang⟩ iyang ngalan, ug magkalipay kamo sa iyang atubangan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pag-zamer kamo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa iyang ngalan"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "pag-butang kamo ug dalan"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "niadtong nagsakay"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "sa mga kamingawan"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "ug magkalipay kamo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa iyang atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:25.882453283Z",
+  "model": "glm-5.3"
+}

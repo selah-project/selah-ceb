@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Sa atbang niya magluhod ang mga taga-kamingawan, ug ang iyang mga kaaway abog ang ilang dilaan.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "sa atbang niya"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "magluhod"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "mga taga-kamingawan"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "ug ang iyang mga kaaway"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "abog"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ang ilang dilaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.833055456Z",
+  "model": "glm-5.3"
+}

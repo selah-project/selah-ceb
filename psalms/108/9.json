@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Kanako ang Gilad, kanako ang Menashsheh, ug ang Efrayim ⟨ang⟩ kabalaka sa akong ulo, ang Yehudah ⟨ang⟩ magbubuhat sa akong balaod.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ug ang Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kabalaka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sa akong ulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "magbubuhat sa akong balaod"
+    }
+  ],
+  "timestamp": "2026-09-02T01:07:11.473688120Z",
+  "model": "glm-5.3"
+}

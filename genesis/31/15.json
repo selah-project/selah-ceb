@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Wala ba kaniya kita giihap nga mga langyaw? Kay gibaligya niya kami, ug gikaon na usab hingpit ang ⟨את⟩ among salapi.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "nga mga langyaw"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "giihap kita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "gbaligya niya kami"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ug gikaon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "among salapi"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "among salapi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:30.048677296Z",
+  "model": "glm-5.3"
+}

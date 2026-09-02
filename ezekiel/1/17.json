@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 1:17",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sa ilang upat ka kiliran, sa ilang pagpadulong magpadulong ⟨sila⟩ sila; dili sila moliso sa ilang pagpadulong.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "upat ka"
+    },
+    {
+      "surface": "רבעיהן",
+      "gloss": "kilaran"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "sa ilang pagpadulong"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "magpadulong sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "moliso"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "sa ilang pagpadulong"
+    }
+  ],
+  "timestamp": "2026-09-01T21:32:49.904241067Z",
+  "model": "glm-5.3"
+}

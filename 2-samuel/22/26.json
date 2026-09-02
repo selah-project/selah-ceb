@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa may hinlo nga tawo magpakita ka ug hesed (maayong kabubut-on), sa may tibuok nga tawo magpakita ka ug pagkatibuok.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hinlo nga tawo"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "magpakita ka ug hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "tibuok nga tawo"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "pagkatibuok"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "magpakita ka ug pagkatibuok"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:37.088537330Z",
+  "model": "glm-5.3"
+}

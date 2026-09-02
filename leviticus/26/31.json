@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug buhaton ko nga ⟨את⟩ ang inyong mga dakbayan mahimong kamingaw, ug pagapalahiton ko ⟨את⟩ ang inyong mga santuaryo, ug dili ko mamatikig sa baho sa inyong mga halimuyak nga kahumot.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug buhaton ko nga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga dakbayan"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ang inyong mga dakbayan"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "mahimong kamingaw"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ug pagapalahiton ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga santuaryo"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "ang inyong mga santuaryo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "ko mamatikig"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "sa baho"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "sa inyong mga halimuyak nga kahumot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:28.676792999Z",
+  "model": "glm-5.3"
+}

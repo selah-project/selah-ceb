@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan milagi si Adoni-Bezek, ug gipangita nila kaniya ug gidakop siya, ug giputol nila ⟨את⟩ ang mga kamao sa iyang mga kamot ug sa iyang mga tiil.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "milagi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "gipangita nila"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "gidakop nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "giputol nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kamao"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "mga kamao"
+    },
+    {
+      "surface": "ידiyו",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "ug sa iyang mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:21.937139280Z",
+  "model": "glm-5.3"
+}

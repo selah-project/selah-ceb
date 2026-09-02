@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Luwasa ⟨kami⟩, Yahweh, kay napulo na ang matinud-anon, kay nawala na ang mga makaningud gikan sa mga anak sa tawo.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Luwasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "napulo na"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang matinud-anon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "nawala na"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ang mga makaningud"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gikan sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:46.780010793Z",
+  "model": "glm-5.3"
+}

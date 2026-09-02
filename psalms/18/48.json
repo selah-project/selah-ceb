@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Si El nga nagahatag kanako ug mga panimalos, ug nagapaubos ⟨siya⟩ sa mga katawhan ⟨sa⟩ ubos kanako.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Si El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "mga panimalos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug nagapaubos"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "sa ubos kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:27.133650625Z",
+  "model": "glm-5.3"
+}

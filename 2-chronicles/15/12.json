@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Misulod sila sa pakigsaad sa pagpangita ⟨את⟩ kang Yahweh, sa Elohim sa ilang mga katuohan, sa tibuok nilang kasingkasing ug sa tibuok nilang kalag.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Misulod sila"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "sa pakigsaad"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ilang mga katuohan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "nilang kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nilang kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:20.000091075Z",
+  "model": "glm-5.3"
+}

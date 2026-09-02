@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug kon mobunal ang usa ka tawo sa ⟨את⟩ iyang sulugoon o sa ⟨את⟩ iyang suluguong babaye gamit ug tungkod, ug mamatay siya ilalom sa iyang kamot — pagapanimaldos gayod.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "mobunal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang sulugoon"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iyang sulugoon"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang suluguong babaye"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "iyang suluguong babaye"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "gamit ug tungkod"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ug mamatay"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pagapanimaldos"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "animaldos gayod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:26.767624494Z",
+  "model": "glm-5.3"
+}

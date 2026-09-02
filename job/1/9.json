@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sa pagkatinuod mitubag ang ha-satan ⟨את⟩ Yahweh ug miingon: Ngano, hinoun ba nga nagakahadlok si Iyov sa Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ang ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "hinoun ba"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:03.501039491Z",
+  "model": "glm-5.3"
+}

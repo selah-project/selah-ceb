@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Sa pagposo sa iyang mga kapitan sumala sa iyang ⟨kaugalingon⟩, ug sa iyang mga kaggulang iyang gihimo nga maalam.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "sa pagposo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "iyang mga kapitan"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "sumala sa iyang kaugalingon"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "ug sa iyang mga kaggulang"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "iyang gihimo nga maalam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.182931736Z",
+  "model": "glm-5.3"
+}

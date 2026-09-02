@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug imong buhaton ⟨את⟩ niini: lana sa pagdihog, balaang butang, pahumot nga sinagol, buhat sa magbubuhat sa pahumot; lana sa pagdihog nga balaan kini mahimong.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug imong buhaton"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaang butang"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "pahumot"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "nga sinagol"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "sa magbubuhat sa pahumot"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:59.536589588Z",
+  "model": "glm-5.3"
+}

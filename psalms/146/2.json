@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Modayeg ako kang Yahweh sa akong pagkinabuhi; mohimo ako ug awit alang sa akong Elohim samtang nagakinabuhi pa ako.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Modayeg ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "sa akong pagkinabuhi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "mohimo ako ug awit"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "alang sa akong Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "samtang nagakinabuhi pa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:57.182532630Z",
+  "model": "glm-5.3"
+}

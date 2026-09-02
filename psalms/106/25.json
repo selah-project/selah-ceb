@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug nagreklamo sila sa ilang mga tolda, wala sila mamati sa tingog ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "nagreklamo sila"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "sa ilang mga tolda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sila mamati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:48.126552666Z",
+  "model": "glm-5.3"
+}

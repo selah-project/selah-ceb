@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pagdaliyon ko sa dalan sa ⟨mga⟩ sugo mo, kay imong gipalapad ang kasingkasing ko.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "sugo mo"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "magdaliyon ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "gipalapad"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kasingkasing ko"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:51.903284838Z",
+  "model": "glm-5.3"
+}

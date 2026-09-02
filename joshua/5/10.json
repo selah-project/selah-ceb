@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Nagcamp ang mga anak nga lalaki sa Israel sa Gilgal, ug gihimo nila ⟨את⟩ ang Pesach sa ikanapulog-upat nga adlaw sa bulan, sa paglubog sa adlaw, sa mga kapatagan sa Yerikho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "nagcamp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gihimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ikanapulog-upat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa paglubog sa adlaw"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "sa mga kapatagan"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "sa Yerikho"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:34.725240849Z",
+  "model": "glm-5.3"
+}

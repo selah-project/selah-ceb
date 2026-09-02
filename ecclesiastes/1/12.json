@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ako, si Kohelet, nahimong hari sa Israel, sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "si Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:13.921286882Z",
+  "model": "glm-5.3"
+}

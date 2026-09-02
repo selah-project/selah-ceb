@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Shelomoh nagaingon ⟨sa⟩ pagpatindog ug balay alang sa Ngalan ni Yahweh ug ug balay alang sa iyang gingharian.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagpatindog"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "alang sa Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug balay"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "alang sa iyang gingharian"
+    }
+  ],
+  "timestamp": "2026-09-01T23:18:43.381096521Z",
+  "model": "glm-5.3"
+}

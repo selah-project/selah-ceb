@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Diin ang pulong sa hari, adunay shlton ⟨gahom⟩; ug kinsa ang makasulti kaniya: Unsa ang imong buhaton?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "shlton ⟨gahom⟩"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makasulti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buhaton"
+    }
+  ],
+  "timestamp": "2026-09-02T00:50:19.132688188Z",
+  "model": "glm-5.3"
+}

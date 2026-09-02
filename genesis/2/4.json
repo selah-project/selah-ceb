@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kini ang mga kaliwat sa kalangitan ug sa yuta sa pagbuhat kanila, sa adlaw nga pagbuhat ni Yahweh Elohim sa yuta ug sa kalangitan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini ang"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "mga kaliwat (mga talaan)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ug sa yuta"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "sa pagbuhat pag-crey kanila"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nga pagbuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "ug sa kalangitan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:35.437945638Z",
+  "model": "glm-5.3"
+}

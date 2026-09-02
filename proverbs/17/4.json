@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang tawong daotan mamatnod ⟨sa⟩ mga ngabil sa kadaotan, ug ang bakakon magadungog ⟨sa⟩ dila nga makaguba.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "ang tawong daotan"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "mamatnod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaotan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ang bakakon"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "magadungog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "הות",
+      "gloss": "nga makaguba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:42.225777364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Sa adlaw sa inyong halad kan-on kini, ug sa sunod adlaw; ug ang matik mahangtod sa ikatulo ka adlaw sa kalayo sunogon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "sa inyong halad"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kan-on"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ug sa sunod adlaw"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "ug ang matik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatulo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sunogon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:22.870667876Z",
+  "model": "glm-5.3"
+}

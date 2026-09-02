@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Kay nakasina ako sa mga hambugonon, sa pagtan-aw ko sa kahusay sa mga dautan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "nakasina ako"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "sa mga hambugonon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kahusay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "sa pagtan-aw ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:08.618594865Z",
+  "model": "glm-5.3"
+}

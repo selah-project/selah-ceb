@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ingon usa ka amigo, ingon usa ka igsoon kanako, naglibot ako; ingon sa usa ka magbangiay sa inahan, nangitom ug nagpaubos ako.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ingon usa ka amigo"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "ingon usa ka igsoon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "naglibot ako"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "ingon sa usa ka magbangiay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa inahan"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nangitom"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "nagpaubos ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.687741122Z",
+  "model": "glm-5.3"
+}

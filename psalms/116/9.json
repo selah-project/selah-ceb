@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Maglakaw ako atubangan ni Yahweh, diha sa mga yuta sa ⟨mga⟩ buhi.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "maglakaw ako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "diha sa mga yuta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sa ⟨mga⟩ buhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:00.162596152Z",
+  "model": "glm-5.3"
+}

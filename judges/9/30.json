@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug nadungog ni Zevul, ang pangulo sa ⟨ang⟩ dakbayan, ⟨את⟩ ang mga pulong ni Gaal nga anak ni Eved, ug nadilaab ang iyang kasuko.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadungog"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ug nadilaab"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang iyang kasuko"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:47.408934092Z",
+  "model": "glm-5.3"
+}

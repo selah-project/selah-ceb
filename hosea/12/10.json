@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Apan ako ⟨mao⟩ si Yahweh nga imong Elohim gikan sa yuta sa Mitsrayim; pagapuyaron pa tikaw sa mga tolda, sama sa mga adlaw sa takdang fiesta.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gihapon pa"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "pagapuyaron tikaw"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "sa mga tolda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "sama sa mga adlaw sa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "takdang fiesta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:57.269845211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Busa pagakuron ko ang mga langit, ug kalogon ang yuta gikan sa iyang dapit, tungod sa kasuko ni Yahweh Tsevaot ug sa adlaw sa naghaling nga iyang kasilag.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "pagakuron ko"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "kalogon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "gikan sa iyang dapit"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ug sa adlaw"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "naghaling"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "iyang kasilag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:36.234341732Z",
+  "model": "glm-5.3"
+}

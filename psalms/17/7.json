@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ipakita ang imong hesed (kaloy) nga talagsaon, Ikaw nga nagaluwas sa mga nanalipod Kanimo pinaagi sa Imong kamot-tuo, gikan sa mga nagbatok kanila.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Ipakita nga talagsaon"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ang imong hesed (kaloy)"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "nagaluwas"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "sa mga nanalipod Kanimo"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "gikan sa mga nagbatok kanila"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "paagi sa Imong kamot-tuo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:59.176412265Z",
+  "model": "glm-5.3"
+}

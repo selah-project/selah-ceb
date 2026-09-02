@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa akong kagul-anan mangitad ako kang Yahweh, ug sa akong Elohim mangitad ako; ug nadunggan niya gikan sa iyang templo ang akong tingog, ug ang akong pagpanawag sa iyang mga dunggan.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "sa akong kagul-anan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mangitad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mangitad ako"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadunggan niya"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "gikan sa iyang templo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ug ang akong pagpanawag"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "sa iyang mga dunggan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:58.088756216Z",
+  "model": "glm-5.3"
+}

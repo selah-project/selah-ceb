@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Sa tanang panahon puti ang imong mga sinina, ug lana sa imong ulo ayaw pagpabus-aw.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Sa tanang"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨magpabilin⟩"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ang imong mga sinina"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "puti"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ug lana"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "imo nga ulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "pagpabus-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:32.960333417Z",
+  "model": "glm-5.3"
+}

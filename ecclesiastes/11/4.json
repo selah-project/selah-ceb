@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang nagabantay sa hangin dili magtanom, ug ang nangatan-aw sa mga panganod dili magani.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ang nagabantay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "magtanom"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ug ang nangatan-aw"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "sa mga panganod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "magani"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:22.054193784Z",
+  "model": "glm-5.3"
+}

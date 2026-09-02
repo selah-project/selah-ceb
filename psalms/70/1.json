@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 70,
+  "translation": "⟨Alang sa manguna sa koral⟩, ni David, ⟨aron sa pagpahinumdom⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨Alang sa manguna sa koral⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "⟨aron sa pagpahinumdom⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:03.601156517Z",
+  "model": "glm-5.3"
+}

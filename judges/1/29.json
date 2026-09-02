@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Si Efrayim wala magpagawas ⟨sa⟩ ⟨את⟩ ang Kanaanhon nga nagpuyo sa Gezer, ug ang Kanaanhon nagpuyo sa taliwala niya, sa Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Si Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "magpagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kanaanhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanhon"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nga nagpuyo"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "sa Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanhon"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa taliwala niya"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "sa Gezer"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:11.313025338Z",
+  "model": "glm-5.3"
+}

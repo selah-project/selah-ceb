@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Karon, kaalam ug kahibalo ihatag kanako, ug mogawas ako ug mosulod ako atubang niining katawhan; kay kinsa ang magasaway ⟨את⟩ niining imong katawhan nga daghan?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Karon"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ug kahibalo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ug mogawas ako"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ug mosulod ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "magasaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niining imong katawhan nga daghan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imong katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "nga daghan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:19:31.581292864Z",
+  "model": "glm-5.3"
+}

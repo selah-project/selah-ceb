@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Ang mga buhat sa pagkadaut nagpabaskog pa kanako; ang among mga paglapas — ikaw ang motabon niini.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ang mga buhat"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "sa pagkadaut"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "nagpabaskog pa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang among mga paglapas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ang motabon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:50.031513154Z",
+  "model": "glm-5.3"
+}

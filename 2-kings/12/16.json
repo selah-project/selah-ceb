@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug wala nila pag-isipon ⟨את⟩ ang mga tawo nga ilang gihatagan ⟨את⟩ ang salapi sa ilang kamot, aron sa paghatag sa mga naghimo sa trabaho; kay sa matinud-anon sila nagabuhat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "pag-isipon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo (האנשים)"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "gihatagan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salapi (הכסף)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang salapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ilang kamot"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aron sa paghatag"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa mga naghimo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "sa trabaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "sa matinud-anon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagabuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:05.563583280Z",
+  "model": "glm-5.3"
+}

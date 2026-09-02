@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Apan kamo, ⟨ang⟩ mga naghigot sa Yahweh, sa inyong Elohim — ⟨mga⟩ buhi kamo tanan karon adlawa.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Apan kamo"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "mga naghigot"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "sa Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "kamo tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon adlawa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:56.542086055Z",
+  "model": "glm-5.3"
+}

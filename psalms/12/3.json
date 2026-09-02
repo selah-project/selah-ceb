@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kawalng-sulat sabton igstoryahan sa matag usa ⟨את⟩ ang iyang isigkatawo, ngipngip nga hapsay, ⟨ug⟩ sa kasingkasing ug sa laing kasingkasing igstoryahan nila.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Kawalng-sulat"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sabton igstoryahan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa matag usa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang isigkatawo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ang iyang isigkatawo"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ngipngip"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "nga hapsay"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ug sa laing kasingkasing"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "igstoryahan nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:46.780217052Z",
+  "model": "glm-5.3"
+}

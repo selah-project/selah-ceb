@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Gikan sa Tsiyon, ⟨ang⟩ hingpit nga kaanyag, ang Elohim migwadghad.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Gikan sa Tsiyon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "kaanyag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "migwadghad"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:28.823108090Z",
+  "model": "glm-5.3"
+}

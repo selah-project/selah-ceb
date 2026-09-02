@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Pagpasalamat kamo kang Elohim sa ⟨mga⟩ elohim, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pagpasalamat kamo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kang Elohim sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨mga⟩ elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:51.374520905Z",
+  "model": "glm-5.3"
+}

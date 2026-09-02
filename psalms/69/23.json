@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Himoon nga silo ang ilang lamesa atubangan nila, ug ang ilang kahusay himoon nga lit-ag.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "himoon \/ mahimo"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ang ilang lamesa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "atubangan nila"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "nga silo"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ug ang ilang kahusay"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "nga lit-ag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:12.885921536Z",
+  "model": "glm-5.3"
+}

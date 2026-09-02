@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Sa magdumala sa mga tugtog, usa ka mizmor ni Asaf, usa ka awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdumala sa mga tugtog"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "sa mga instrumento sa kuwerdas"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "usa ka awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:27.787655236Z",
+  "model": "glm-5.3"
+}

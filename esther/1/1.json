@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nahitabo sa mga adlaw ni Achashverosh — siya mao ang Achashverosh nga naghari gikan sa Hodu hangtod sa Kush, kapito ug kawhaan ug usa ka gatos ka lalawigan —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ni Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "gikan sa Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kapito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ug kawhaan"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "ug usa ka gatos"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "ka lalawigan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:58.059345385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Si Moshe naglungtad isip magpapastol ⟨את⟩ sa kawan ni Yitro, iyang ugangan, pari sa Midyan; ug gidala niya ⟨את⟩ ang kawan sa luyo sa kamingawan, ug miabot sa bukid sa Elohim, ngadto sa Khorev.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Si Moshe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "naglungtad"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "isip magpapastol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "iyang ugangan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pari"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sa Midyan"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "ug gidala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kawan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang kawan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Khorev"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:52.710245631Z",
+  "model": "glm-5.3"
+}

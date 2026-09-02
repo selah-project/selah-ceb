@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Anak sa tulo ka napulo ug tuig nga panuigon si David sa paghari niya;napatulo ug napulo ka tuig ang iyang paghari.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak sa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tulo ka napulo ug tuig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa paghari niya"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "napatulo ug napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:30.139357478Z",
+  "model": "glm-5.3"
+}

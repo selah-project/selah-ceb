@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Ako nagaingon sa akong ⟨pagkadali⟩: ang tanan nga tawo ⟨mga bakakon⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "sa akong pagkadali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "⟨mga bakakon⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:51.207617110Z",
+  "model": "glm-5.3"
+}

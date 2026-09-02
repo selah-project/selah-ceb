@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug gidala niya ⟨את⟩ ang mga balaang butang sa iyang amahan ug ang iyang gibalaan ngadto sa balay ni Yahweh: salapi, ug bulawan, ug mga sudlanan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ug gidala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga balaang butang sa iyang amahan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ang mga balaang butang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "ug ang iyang gibalaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ug bulawan"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "ug mga sudlanan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:40.574363181Z",
+  "model": "glm-5.3"
+}

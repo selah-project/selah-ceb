@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ang iyang tagda — tagda nga kanunay — gihatag ⟨את⟩ kaniya gikan sa hari, sumala sa adlaw sa matag adlaw sa tanang adlaw sa iyang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "Ug ang iyang tagda"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "tagda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga kanunay"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gikan sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa matag adlaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "sa iyang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:25.756641467Z",
+  "model": "glm-5.3"
+}

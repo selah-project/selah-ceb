@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Kini moingon: Kang Yahweh ⟨ako⟩, ug kini motawag sa ngalan ni Yaakov, ug kini mosulat iyang kamot: Kang Yahweh, ug sa ngalan sa Israel iyang hatagan ug ngalan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "motawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "mosulat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang kamot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ug sa ngalan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "iyang hatagan ug ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:42.924560454Z",
+  "model": "glm-5.3"
+}

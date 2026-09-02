@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 16:19",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug ang nahabilin sa mga buhat ni Acaz nga iyang gibuhat, wala ba kini mapangisulat sa libro sa mga crónica sa mga hari sa Yehuda?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ang nahabilin"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga buhat"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ni Acaz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iyang gibuhat"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "mapangisulat"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga crónica"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:54.261160814Z",
+  "model": "glm-5.3"
+}

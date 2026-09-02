@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Apan ako ⟨ mga ⟩ sama sa usa ka lunhag nga olibo sa balay ni Elohim; nagasalig ako sa hesed ni Elohim, hangtod sa kahangturan ug hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "sama sa olibo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "lunhag"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagasalig ako"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "sa hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:02.749776027Z",
+  "model": "glm-5.3"
+}

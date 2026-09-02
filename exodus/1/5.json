@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nahitabo nga ang tanan nga kalag nga migula sa hawak ni Yaakov pitu ka napulo ka ⟨kalag⟩; ug si Yosef didto na ⟨sa⟩ Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "nga migula"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitu ka napulo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ug si Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "didto na"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:43.211934238Z",
+  "model": "glm-5.3"
+}

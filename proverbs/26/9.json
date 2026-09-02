@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Isip loruko nga nisaka sa kamot sa hubog, mao usab ang mashal (siling) sa baba sa mga kesil (buang).",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "loruko"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nisaka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sa hubog"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "mao usab ang mashal (siling)"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga kesil (buang)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:55.390414611Z",
+  "model": "glm-5.3"
+}

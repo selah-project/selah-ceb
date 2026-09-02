@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 29:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug kuhaon nimo gikan sa karniro ang tambok ug ang ikog, ug ⟨את⟩ ang tambok nga nagtabon sa ⟨את⟩ sulod nga mga tinai, ug ⟨את⟩ ang lobo sa atay, ug ⟨את⟩ ang duha ka riminyon, ug ⟨את⟩ ang tambok nga anaa sa ibabaw nila, ug ⟨את⟩ ang paa sa tuo, kay karniro sa pagpahiangay kini.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ug kuhaon nimo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "karniro"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "והאליה",
+      "gloss": "ug ang ikog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "nga nagtabon sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sulod nga mga tinai"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sulod nga mga tinai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang lobo sa atay"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ang lobo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sa atay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka riminyon"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "riminyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok nga anaa sa ibabaw nila"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "anaa sa ibabaw nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang paa sa tuo"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ang paa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "sa tuo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karniro"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "sa pagpahiangay (pagtadlok)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:43.226105905Z",
+  "model": "glm-5.3"
+}

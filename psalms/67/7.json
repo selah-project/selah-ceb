@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "Ang yuta naghatag sa iyang ani; luwason sa panalangin kita ni Elohim, ang atong Elohim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Ang yuta"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sa iyang ani"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "luwason sa panalangin kita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:21.047927713Z",
+  "model": "glm-5.3"
+}

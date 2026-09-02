@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 100,
+  "translation": "alagaran ninyo ⟨את⟩ si Yahweh uban sa kalipay, pagsulod kamo sa atubangan niya uban sa pag-awit.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "alagaran ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "uban sa kalipay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "pagsulod kamo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa atubangan niya"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "uban sa pag-awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:19.481148150Z",
+  "model": "glm-5.3"
+}

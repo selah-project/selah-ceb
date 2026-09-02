@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Si Adonay diha ⟨sa⟩ imong too nga kamot; magbungkag siya ug mga hari sa adlaw sa iyang kasuko.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Si Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha ⟨sa⟩"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong too nga kamot"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "magbungkag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sa iyang kasuko"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:09.850693658Z",
+  "model": "glm-5.3"
+}

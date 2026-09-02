@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Gidapig niya sila ⟨את⟩ ngadto sa pagbalay-bilanggoon sulod sa tulo ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "gidapig niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "pagbalay-bilanggoon"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:12.416627663Z",
+  "model": "glm-5.3"
+}

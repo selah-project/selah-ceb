@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ako usab magabuhat sa akong nasuko nga bation; ang akong mata dili moluoy, ug dili ako magmaloloy-on; ug bisan motawag sila sa akong mga dungog sa usa ka dakong tingog, dili ako mamati ⟨את⟩ ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug ako usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "magabuhat"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "sa nasuko nga bation"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "moluoy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "ako magmaloloy-on"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "ug motawag sila"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa akong mga dungog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ako mamati"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:41:55.253753101Z",
+  "model": "glm-5.3"
+}

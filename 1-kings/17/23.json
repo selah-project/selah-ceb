@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gikuha ni Eliyahu ⟨את⟩ ang bata, ug gipakanaog niya siya gikan sa aleliya ngadto sa balay, ug gihatag niya siya sa iyang inahan, ug miingon si Eliyahu: Tan-awa, buhi ang imong anak.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha niya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "ug gipakanaog niya siya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "aleliya"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ngadto sa balay"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ug gihatag niya siya"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "sa iyang inahan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ang imong anak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:35.282672700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Anak sa baynte ug duha ka tuig si Amon sa paghari niya, ug duha ka tuig siya naghari sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "baynte"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ug duha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "si Amon"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa paghari niya"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ug duha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:05.014289947Z",
+  "model": "glm-5.3"
+}

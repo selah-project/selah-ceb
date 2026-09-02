@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ang kadaot gihuna-huna ⟨niya⟩ sa iyang higdaanan; nagbarog ⟨siya⟩ sa usa ka dalan nga dili ⟨maayo⟩; ang daotan wala ⟨siya⟩ pagbau-on.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "gihuna-huna"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "iyang higdaanan"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "pagbau-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:53.554745283Z",
+  "model": "glm-5.3"
+}

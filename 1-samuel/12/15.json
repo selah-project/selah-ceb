@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Apan kon dili kamo mamati sa tingog ni Yahweh ug mosukol kamo sa baba ni Yahweh, unya ang kamot ni Yahweh ⟨magaabot⟩ batok kaninyo ug batok sa inyong mga katigulangan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Apan kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamo mamati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ug mosukol kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa baba ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ווהיתה",
+      "gloss": "unya ⟨magaabot⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "batok kaninyo"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "ug batok sa inyong mga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:11.517095318Z",
+  "model": "glm-5.3"
+}

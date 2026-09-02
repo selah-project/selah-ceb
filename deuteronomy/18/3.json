@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug kini ang mahimong katungod sa mga saserdote gikan sa ⟨את⟩ ang katawhan, gikan sa ⟨את⟩ mga naghahalad sa halad — kon baka kon karnero — ug ihatag sa saserdote ang abaga ug ang duha ka apapanggit ug ang tiyan.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ang mahimong"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katungod"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan sa ⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan sa ⟨את⟩",
+      "marks": "mga naghahalad"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mga naghahalad"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "sa halad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ang abaga"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "ug ang duha ka apapanggit"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ug ang tiyan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:17.716162871Z",
+  "model": "glm-5.3"
+}

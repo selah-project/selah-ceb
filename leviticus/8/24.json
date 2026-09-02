@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 8:24",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug giduol niya ⟨את⟩ ang mga anak ni Aharon; ug gibutang ni Moshe sa dugo sa kinatumyan sa ilang mga dunggan nga tuo, ug sa kumag sa ilang mga kamot nga tuo, ug sa kumag sa ilang mga tiil nga tuo; ug gisabwag ni Moshe ⟨את⟩ ang dugo sa halaran palibot.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ug giduol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תנוך",
+      "gloss": "kinatumyan"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "sa ilang mga dunggan"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nga tuo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kumag"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sa ilang mga kamot"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nga tuo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kumag"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "sa ilang mga tiil"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nga tuo"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ug gisabwag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:34.076709923Z",
+  "model": "glm-5.3"
+}

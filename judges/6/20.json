@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang sugo sa Elohim miingon kaniya: Kuhaa ⟨את⟩ ang karne ug ⟨את⟩ ang mga tinapay nga walay lebadura, ug ibutang kini sa kining bato, ug ⟨את⟩ ang sabaw ibuhos. Ug siya nagbuhat ingon niini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang karne"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang karne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga tinapay nga walay lebadura"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ang mga tinapay nga walay lebadura"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "ug ibutang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "kining"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang sabaw"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "ang sabaw"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "ibuhos"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ug nagbuhat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:51.932791458Z",
+  "model": "glm-5.3"
+}

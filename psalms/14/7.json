@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kinsa magahatag gikan sa Tsiyon ⟨sa⟩ kaluwasan sa Israel? Sa pagbalik ni Yahweh sa pagkabihag sa iyang katawhan, magakalipay si Yaakov, magmalipayon ang Israel.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "kaluwasan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:57.848990436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Wala nila paglaglagaon ⟨את⟩ ang mga katawhan, nga among giingnan ni Yahweh sila ⟨nga laglagon⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "paglaglagaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga katawhan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingnan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.644914973Z",
+  "model": "glm-5.3"
+}

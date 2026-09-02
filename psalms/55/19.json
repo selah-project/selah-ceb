@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Nagbawi siya sa kalinaw sa akong kalag gikan sa akong mga duol, kay daghan kanila ang ⟨naa⟩ uban kanako.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Nagbawi siya"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sa kalinaw"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "gikan sa akong mga duol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "daghan kanila"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "uban kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:24.568378737Z",
+  "model": "glm-5.3"
+}

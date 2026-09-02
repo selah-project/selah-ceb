@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Kasinatian nga makapasakit ang tokad sa nagabiya sa dalan; ang magadumili sa pasidaan mamatay.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "tokad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "makapasakit"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "sa nagabiya"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ang magadumili"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "sa pasidaan"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:15.132642081Z",
+  "model": "glm-5.3"
+}

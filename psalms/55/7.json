@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Ug nako ingon: Kinsa ang mohatod ⟨kanako⟩ ug pako sama sa salampati? Molupad ako ug mopahulay ako.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ug nako ingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mohatod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "pako"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "sama sa salampati"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "molupad ako"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "ug mopahulay ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:08.665803886Z",
+  "model": "glm-5.3"
+}

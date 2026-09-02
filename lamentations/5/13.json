@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang mga batan-ong lalaki nagdala sa gilingan, ug ang mga batan-on natumba ⟨sa⟩ kahoy.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mga batan-ong lalaki"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "gilingan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "ug ang mga batan-on"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "⟨sa⟩ kahoy"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "natumba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:20.204402080Z",
+  "model": "glm-5.3"
+}

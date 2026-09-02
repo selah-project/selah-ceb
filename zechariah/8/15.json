@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "mao usab kini ako nakabalik sa akong gitanom sa niining mga adlawa — pagbuhat ug maayog butang ⟨את⟩ Yerushalayim ug ⟨את⟩ balay ni Yehudah; ayaw kamo pagkahadlok.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "mao usab kini"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ako nakabalik"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "sa akong gitanom"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa niining mga adlawa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "(niining mga adlawa)"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "sa pagbuhat ug maayog butang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "balay ni Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo pagkahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:44.489809299Z",
+  "model": "glm-5.3"
+}

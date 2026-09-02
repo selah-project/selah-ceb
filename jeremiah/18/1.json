@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang pulong nga miabot kang Yirmeyahu gikan kang ⟨את⟩ Yahweh, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan kang ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:13.959271072Z",
+  "model": "glm-5.3"
+}

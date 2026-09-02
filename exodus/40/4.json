@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug idad-an nimo ⟨את⟩ ang lamesa ug ihisgut nimo ⟨את⟩ ang iyang kahikayan; ug idad-an nimo ⟨את⟩ ang kandelerohan ug pasud-ohon nimo ⟨את⟩ ang mga ilaw niini.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "idad-an nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "ihisgut nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kahikayan"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "ang iyang kahikayan"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "idad-an nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kandelerohan"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ang kandelerohan"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "pasud-ohon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ilaw niini"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ang mga ilaw niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:27.009624908Z",
+  "model": "glm-5.3"
+}

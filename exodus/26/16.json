@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Napulo ka amang ang gitas-on sa tabla, ug usa ka amang ug katunga sa amang ang gilapdon sa usa ka tabla.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Napulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka amang"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang gitas-on"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sa tabla"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug usa ka amang"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug katunga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sa amang"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gilapdon"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "sa tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sa usa ka tabla"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:28.589870275Z",
+  "model": "glm-5.3"
+}

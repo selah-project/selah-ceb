@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "⟨את⟩ ang tolda sa panagsabot, ug ⟨את⟩ ang arka sa pagsaksi, ug ⟨את⟩ ang takip-arka nga anaa sa ibabaw niini, ug ⟨את⟩ ang tanan nga mga kagamitan sa tolda",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda sa panagsabot"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa panagsabot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang arka sa pagsaksi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang arka"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "sa pagsaksi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang takip-arka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang takip-arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "anaa sa ibabaw niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:22.594720922Z",
+  "model": "glm-5.3"
+}

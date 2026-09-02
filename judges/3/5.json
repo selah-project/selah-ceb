@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang mga anak ni Yisrael nagpuyo sa tunga ⟨sa⟩ mga Kanaaney, mga Khetey, ug mga Emorey, ug mga Perizey, ug mga Khivey, ug mga Yevusey.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "⟨sa⟩ mga Kanaaney"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "mga Khetey"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ug mga Emorey"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ug mga Perizey"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ug mga Khivey"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ug mga Yevusey"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:32.729574551Z",
+  "model": "glm-5.3"
+}

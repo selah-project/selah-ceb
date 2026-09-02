@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ang akong mga adlaw mas paspas pa kay sa ⟨paghabol⟩; natapos sila nga wala na ⟨may⟩ paglaom.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ang akong mga adlaw"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mas paslap pa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kay sa"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "paghabol"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "natapos sila"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "nga wala na"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "paglaom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:34.907257726Z",
+  "model": "glm-5.3"
+}

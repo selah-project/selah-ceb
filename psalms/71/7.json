@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Ingon usa ka tigmo ako ngadto sa daghan, apan ikaw ang akong dadallon ⟨nga⟩ kusog.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "ingon usa ka tigmo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ako ngadto"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "sa daghan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "apan ikaw"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ang akong dadallon"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:13.317357523Z",
+  "model": "glm-5.3"
+}

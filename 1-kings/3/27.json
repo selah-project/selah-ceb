@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug mitubag ang hari ug miingon: Ihatag ngadto kaniya ⟨את⟩ ang bata nga buhi, ug ayaw pagpatya siya — ⟨siya⟩ ang iyang inahan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ug mitubag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata nga buhi"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ug pagpatya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang iyang inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:48.105060023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": " apan human niadto mipaibalik sila ug gipabalik nila ⟨את⟩ ang mga ulipon ug ⟨את⟩ ang mga sulug-iring nga ilang gipagawas nga hingtalagsaon, ug gipailalom nila sila pagkaulipon ug pagka-sulug-iring.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "apan human niadto mipaibalik sila"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niadto"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug gipabalik nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ulipon"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ang mga ulipon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga sulug-iring"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ang mga sulug-iring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ilang gipagawas"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "nga hingtalagsaon"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "ug gipailalom nila sila"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "pagkaulipon"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "ug pagka-sulug-iring"
+    }
+  ],
+  "timestamp": "2026-09-01T21:25:40.161920107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kay pinaagi sa nasuko nga nawong ni Yahweh nahitabo kini sa Yerushalayim ug sa Yehudah, hangtod nga gisalibayat niya sila ⟨את⟩ gikan sa iyang atubangan; ug namatungyaw si Tsidkiyahu batok sa hari sa Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "על",
+      "gloss": "paagi sa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nasuko nga nawong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "ug sa Yehudah"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "gisalibayat niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (Yerushalayim ug Yehudah)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang atubangan"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ug namatungyaw"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "batok sa hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:14.092943005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Ug nakoing ko: Ako, ang kangitngit magadolot kanako, apan ang gabi mahimong kahayag ⟨taliwala⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ug nakoing ko"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "magadolot kanako"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "apan ang gabi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mahimong kahayag"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "⟨taliwala⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:59.825072888Z",
+  "model": "glm-5.3"
+}

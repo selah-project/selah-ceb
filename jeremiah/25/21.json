@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "si ⟨את⟩ Edom, ug si ⟨את⟩ Moav, ug si ⟨את⟩ mga anak ni Amon;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug si ⟨את⟩",
+      "marks": "si Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug si ⟨את⟩",
+      "marks": "mga anak ni Amon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:49.266378823Z",
+  "model": "glm-5.3"
+}

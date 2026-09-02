@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nahitabo sa katapusan sa kapat-umpulong ka adlaw, nga si Noach midabot ⟨את⟩ sa bintana sa arka nga iyang gihimo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapat-umpulong"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ug midabot"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bintana"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sa arka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iyang gihimo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:47.128165685Z",
+  "model": "glm-5.3"
+}

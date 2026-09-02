@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Maglabang ako ⟨palihug⟩ ug tan-awa ko ⟨את⟩ ang yuta nga maayo, nga sa tabok sa Yarden, ang bukid nga maayo kini, ug ang Lebanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "maglabang ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨palihug⟩"
+    },
+    {
+      "surface": "ויאמר... ואראה",
+      "gloss": "ug tan-awa ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sa tabok sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "ug ang Lebanon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:36.309523531Z",
+  "model": "glm-5.3"
+}

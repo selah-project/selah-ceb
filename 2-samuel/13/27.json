@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug gipugos ni Avshalom siya, ug gipadala niya ⟨את⟩ kauban niya ⟨את⟩ si Amnon ug ⟨את⟩ tanan nga mga anak sa hari.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "gipugos"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kauban niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga anak sa hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:54.473576104Z",
+  "model": "glm-5.3"
+}

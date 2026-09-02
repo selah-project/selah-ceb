@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Itago mo sila sa tagong dapit sa imong panagway, gikan sa mga panabang sa tawo; ikubli mo sila sa usa ka payag gikan sa panaglalis sa mga dila.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "itagago mo sila"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagong dapit"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong panagway"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "gikan sa mga panabang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "ikubli mo sila"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sa usa ka payag"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "gikan sa panaglalis"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "sa mga dila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:32.723782891Z",
+  "model": "glm-5.3"
+}

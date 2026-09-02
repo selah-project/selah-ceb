@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 3:3",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "⟨Ang⟩ lima ka mga sarne sa Plishtim, ug ang tibuok nga Kenaanhon, ug ang Sidonnhon, ug ang Hiwhon nga nagpuyo sa bukid sa Levanon, gikan sa bukid Baal-Khermon hangtod sa pag-sulod sa Khamat.",
+  "tokens": [
+    {
+      "surface": "חמשת",
+      "gloss": "lima ka"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "mga sarne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa Plishtim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanhon"
+    },
+    {
+      "surface": "והצידני",
+      "gloss": "ug ang Sidonnhon"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ug ang Hiwhon"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "sa Levanon"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gikan sa bukid"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Khermon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pag-sulod"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa Khamat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:36.484027399Z",
+  "model": "glm-5.3"
+}

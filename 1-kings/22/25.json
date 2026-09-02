@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 22:25",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Si Mikhayahu miingon: Tan-awa, imong makita sa adlaw nga kadtoa, sa pag sulodmo sa sulod nga lawak aron magtago.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "si Mikhayahu"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Tan-awa, ikaw"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga kadtoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa pag"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "sulodmo"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "sulod nga lawak"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "sa lawak sa sulod"
+    },
+    {
+      "surface": "להחבה",
+      "gloss": "aron magtago"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:26.930427052Z",
+  "model": "glm-5.3"
+}

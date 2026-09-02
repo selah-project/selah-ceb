@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "ug ⟨את⟩ ang menorah sa kahayag, ug ⟨את⟩ ang mga kagamitan niini, ug ⟨את⟩ ang mga suga niini, ug ⟨את⟩ ang lana sa kahayag;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang menorah"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "ang menorah"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sa kahayag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kagamitan niini"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ang mga kagamitan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga suga niini"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ang mga suga niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sa kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:38.997345339Z",
+  "model": "glm-5.3"
+}

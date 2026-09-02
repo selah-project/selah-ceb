@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug gihapon sa ingon niini imong gibukas ang imong mga mata, ug ⟨את⟩ ako imong gidala sa pagtulod uban kanimo?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ug gihapon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "imong gibukas"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ang imong mga mata"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "imong gidala"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa pagtulod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:46.478775717Z",
+  "model": "glm-5.3"
+}

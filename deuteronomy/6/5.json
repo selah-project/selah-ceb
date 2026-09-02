@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug higugmaon nimo ⟨את⟩ si Yahweh nga Elohim mo sa tibuok nimong kasingkasing, ug sa tibuok nimong nefesh, ug sa tibuok nimong kusog.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Ug higugmaon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim mo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nimong kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nimong nefesh"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "nimong kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:25.246816690Z",
+  "model": "glm-5.3"
+}

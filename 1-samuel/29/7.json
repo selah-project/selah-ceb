@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Karon pagbalik ug lakaw sa kalinaw, ug ayaw pagbuhat ug daotan sa mga mata sa mga seren sa mga Pilistinhon.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Karon"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "pagbalik"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ug lakaw"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sa kalinaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ug daotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sa mga seren"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pilistinhon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:23.714463316Z",
+  "model": "glm-5.3"
+}

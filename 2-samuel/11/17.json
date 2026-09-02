@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ang mga tawo sa ⟨ang⟩ dakbayan nanggawas ug nakig-away kang ⟨את⟩ Yoav, ug natumba gikan sa ⟨ang⟩ katawhan, gikan sa mga sulugoon ni David, ug namatay usab si Uriya ang Hetehanon.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "nanggawas"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "nakig-away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ug natumba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "gikan sa mga sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ang Hetehanon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:58.707975195Z",
+  "model": "glm-5.3"
+}

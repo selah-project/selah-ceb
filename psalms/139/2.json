@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Ikaw nakaila sa akong paglingkod ug sa akong pagtindog; nasabtan Mo ang akong hunahuna gikan sa halayo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "sa akong paglingkod"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "ug sa akong pagtindog"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "nasabtan Mo"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "ang akong hunahuna"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "gikan sa halayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:07.773467846Z",
+  "model": "glm-5.3"
+}

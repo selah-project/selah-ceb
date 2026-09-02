@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Ingon nga ang amahan nagmaloloy-on sa ⟨mga⟩ anak, mao man si Yahweh nagmaloloy-on sa mga nagakahadlok kaniya.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Ingon nga nagmaloloy-on"
+    },
+    {
+      "surface": "אב",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "⟨mga⟩ anak"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "nagmaloloy-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nagakahadlok kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:04.851508027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug mao kini ang gisulti ni Shimei samtang nagatumar siya: 'Gawas, gawas, ikaw nga tawo sa mga dugo ug tawo sa Belial!'",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "ug mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang gisulti"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ni Shimei"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "samtang nagatumar siya"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Gawas"
+    },
+    {
+      "surface": "צא",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ikaw nga tawo"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug tawo"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "sa Belial"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:31.848668709Z",
+  "model": "glm-5.3"
+}

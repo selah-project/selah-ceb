@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Tungod niini magasugata ako ug pasalamat kanimo sa taliwala sa mga nasod, Yahweh, ug ngadto sa imong Ngalan magaantig ako ug pagdayeg.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magasugata ako ug pasalamat kanimo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa taliwala sa mga nasod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "ug ngadto sa imong Ngalan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magaantig ako ug pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:50.301496996Z",
+  "model": "glm-5.3"
+}

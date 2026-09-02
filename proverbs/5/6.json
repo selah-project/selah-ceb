@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang dalan sa kinabuhi, ⟨aron⟩ dili ⟨siya⟩ magpadungo ⟨niini⟩; nagkurog ang iyang mga agianan — dili ⟨ikaw⟩ makaila ⟨niini⟩.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "magpadungo"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "nagkurog"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "ang iyang mga agianan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "makaila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:52.920933889Z",
+  "model": "glm-5.3"
+}

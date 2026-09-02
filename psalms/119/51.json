@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang mga mapahitas-on nagpamakak sa ako pag-ubos, apan gikan sa imong Torah wala ako mihikay.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Ang mga mapahitas-on"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "nagpamakak sa ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "pag-ubos"
+    },
+    {
+      "surface": "מאד",
+      "gloss": ""
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "gikan sa imong Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "ako mihikay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:32.703373097Z",
+  "model": "glm-5.3"
+}

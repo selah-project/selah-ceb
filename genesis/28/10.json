@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Namalhin si Yaakov gikan sa Beer-Sheva, ug miadto siya padulong sa Kharan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "namalhin\/nanggula"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "gikan sa Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "miadto siya"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "padulong sa Kharan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:40.220969685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang kabalakyason kalipay sa tigulngon sa kasingkasing, apan ang tawo sa pagsabut nagatul-id sa iyang paglakat.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "kabalakyason"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "tigulngon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "apan ang tawo"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "sa pagsabut"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "nagatul-id"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "sa iyang paglakat"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:28.000874251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug isulat sa kohen ⟨את⟩ kining mga sumpaa sa libro, ug papason ⟨ngadto sa⟩ mga tubig nga mapait.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Ug isulat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining mga sumpaa"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "kining mga sumpaa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa libro"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ug papason"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ngadto sa⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "nga mapait"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:52.794143253Z",
+  "model": "glm-5.3"
+}

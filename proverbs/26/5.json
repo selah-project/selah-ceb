@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Tubaga ang kahang sumala sa iyang kaohaan, aron dili siya mahimong maalam ⟨sa⟩ iyang kaugalingong mga mata.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Tubaga"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ang kahang"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "sumala sa iyang kaohaan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang kaugalingong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:07.712281421Z",
+  "model": "glm-5.3"
+}

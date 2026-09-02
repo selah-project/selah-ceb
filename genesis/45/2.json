@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug gipagawas niya ⟨את⟩ ang iyang tingog sa paghilak, ug nadungog kini sa ⟨mga taga⟩ Mitsrayim, ug nadungog sa balay ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gipagawas niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang tingog"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ang iyang tingog"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "sa paghilak"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ug nadungog kini sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga taga Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadungog sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:02.862823745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug si Moshe nangulo ngadto sa Elohim: Kinsa ba ako, nga moadto ako ngadto kang Paro, ug nga mokuha ako ⟨את⟩ sa mga anak ni Yisrael gikan sa Mitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug nangulo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "moadto ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "mokuha ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:55.802758456Z",
+  "model": "glm-5.3"
+}

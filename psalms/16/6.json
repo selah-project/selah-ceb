@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang mga pisi-ukab nahunong kanako sa mga matahom nga dapit; oo, ang kabilin nga nahiabut kanako maayo kaayo.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "mga pisi-ukab"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahunong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "sa mga matahom nga dapit"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ang kabilin"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "maayo kaayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nahiabut kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.201143374Z",
+  "model": "glm-5.3"
+}

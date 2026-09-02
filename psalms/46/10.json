@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Nagapahunong ⟨siya⟩ sa mga gubat hangtod sa kinatumyan sa yuta: nagabali ⟨siya⟩ sa pana, nagaputol sa bangkaw, ang mga karetela isunog ⟨niya⟩ sa kalayo.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Nagapahunong"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "sa mga gubat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sa pana"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "nagabali"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "nagaputol"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sa bangkaw"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "ang mga karetela"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "isunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:00.526896451Z",
+  "model": "glm-5.3"
+}

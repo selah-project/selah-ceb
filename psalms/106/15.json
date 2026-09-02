@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gihatagan niya sila sa ilang gipangayo, apan gipadala niya ang paniwang ⟨ngadto⟩ sa ilang kalag.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatagan niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "sa ilang gipangayo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "apan gipadala niya"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ang paniwang"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "sa ilang kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:26.671002250Z",
+  "model": "glm-5.3"
+}

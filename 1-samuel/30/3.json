@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Miabot si David ug ang iyang mga tawo sa ⟨ang⟩ dakbayan, ug ania kini nga nasunog sa kalayo; ug ang ilang mga asawa ug ang ilang mga anak nga lalaki ug ang ilang mga anak nga babaye nakuha nga mga bihag.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Miabot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ug ang iyang mga tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ dakbayan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "nga nasunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ug ang ilang mga asawa"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ug ang ilang mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "ug ang ilang mga anak nga babaye"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "nakuha nga mga bihag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:03.131271128Z",
+  "model": "glm-5.3"
+}

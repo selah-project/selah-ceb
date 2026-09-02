@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nagsulti ang mensahero ni Yahweh kang Eliyahu: Naugsad ⟨את⟩ uban kaniya, ayaw pagkahadlok kaniya. Ug mitindog siya ug nayugsad ⟨את⟩ uban kaniya ngadto sa hari.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ug nagsulti"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Naugsad"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "uban kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pagkahadlok"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Ug mitindog siya"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ug nayugsad"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "uban kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:47.931062208Z",
+  "model": "glm-5.3"
+}

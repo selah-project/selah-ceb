@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug si Mikhael, ug si Yishpa, ug si Yokha — mga anak ni Berya.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "ug si Mikhael"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ug si Yishpa"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ug si Yokha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ni Berya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:51.957389178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Didto sila nagkulba ug usa ka kahadlok, kay ⟨ang⟩ Elohim ⟨aa⟩ sa nasud sa mga matarong.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "nagkulba"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa nasud"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:57.848547115Z",
+  "model": "glm-5.3"
+}

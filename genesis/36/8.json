@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug mipuyo si Esav sa bukid sa Seir — si Esav mao ⟨ang⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ug mipuyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sa Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ang Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:29.299166181Z",
+  "model": "glm-5.3"
+}

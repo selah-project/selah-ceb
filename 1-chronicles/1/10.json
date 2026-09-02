@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Kush nataohan kang ⟨את⟩ Nimrod; siya mao ang nagsugod sa pagkahimong gamhanan sa yuta.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ug si Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nataohan kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mao ang"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nagsugod"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sa pagkahimong"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:15.235703219Z",
+  "model": "glm-5.3"
+}

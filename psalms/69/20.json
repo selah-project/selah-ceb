@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "⟨Ikaw⟩ nasayod sa akong kaulawan ug sa akong kahilawom ug sa akong kaulaw; atbang kanimo ang tanan kong mga manglilig-on.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "⟨Ikaw⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nasayod"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "akong kaulawan"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "ug sa akong kahilawom"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ug sa akong kaulaw"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "atbang kanimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "kong mga manglilig-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:28.582041203Z",
+  "model": "glm-5.3"
+}

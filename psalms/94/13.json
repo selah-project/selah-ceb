@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Sa paghatag kaniya ug kahusay gikan sa mga adlaw sa kadautan, hangtod nga magkalot ⟨ang⟩ atbang ⟨sa⟩ dautan ug lungag",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "sa paghatag ug kahusay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "gikan sa mga adlaw"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sa kadautan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "magkalolungag"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lungag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:25.681283708Z",
+  "model": "glm-5.3"
+}

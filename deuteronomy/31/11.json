@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 31:11",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "sa pag-anhi sa tanan nga Yisrael sa pagtan-aw sa ⟨את⟩ nawong ni Yahweh nga imong Elohim, diha sa dapit nga iyang pilion, magbasa ka ⟨את⟩ niining Toraha atubangan sa tanan nga Yisrael, sa ilang mga dalunggan.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "sa pag-anhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nawong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "diha sa dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "iyang pilion"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "magbasa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niining Toraha"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "sa ilang mga dalunggan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:17.898092384Z",
+  "model": "glm-5.3"
+}

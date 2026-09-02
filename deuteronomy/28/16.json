@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Gidamgo ikaw sa ⟨siyudad⟩, ug gidamgo ikaw sa ⟨kapatagan⟩.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "gidamgo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ⟨siyudad⟩"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ug gidamgo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa ⟨kapatagan⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:28.255211356Z",
+  "model": "glm-5.3"
+}

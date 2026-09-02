@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "⟨את⟩ Ang imong plata dili nimo ihatag kaniya sa neshek ⟨(sa patubo)⟩, ug sa marbit ⟨(sa dugang nga tubo)⟩ dili nimo ihatag ang imong pagkaon.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong plata"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ang imong plata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nimo ihatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "sa neshek (patubo)"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "ug sa marbit (dugang nga tubo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nimo ihatag"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "ang imong pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:24.950992442Z",
+  "model": "glm-5.3"
+}

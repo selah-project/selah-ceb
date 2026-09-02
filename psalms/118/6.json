@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 118,
+  "translation": "Si Yahweh ⟨⟨kanako⟩⟩ — dili ako mahadlok; unsa ang mahimo sa tawo kanako?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨alang kanako⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mahadlok ako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:58.918642133Z",
+  "model": "glm-5.3"
+}

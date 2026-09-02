@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 2:9",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon siya sa mga lalaki: Nasayod ako nga gihatag ni Yahweh kaninyo ⟨את⟩ ⟨ang⟩ yuta, ug nga nahulog ang inyong katalagad kanamo, ug nga natunaw ang tanan nga pumoluyo sa ⟨ang⟩ yuta tungod kaninyo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga lalaki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nasayod ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "אימתכם",
+      "gloss": "inyong katalagad"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pumoluyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "tungod kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:36.011168215Z",
+  "model": "glm-5.3"
+}

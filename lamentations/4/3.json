@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Bisan ang mga babaeng chakal nagbutang sa ilang mga suso, nagpasuso sa ilang mga anak; apan ang anak nga babaye sa akong katawhan nahimong ⟨walay kalooy⟩, sama sa mga ostrich sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisang"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "mga babaeng chakal"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "שד",
+      "gloss": "mga suso"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "nagpasuso"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "sa ilang mga anak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "nahimong walay kalooy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sama"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "mga ostrich"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:04.226636858Z",
+  "model": "glm-5.3"
+}

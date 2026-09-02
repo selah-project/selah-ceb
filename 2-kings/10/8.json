@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miabot ang mensahero, ug gipahibalo niya kaniya, nga nag-ingon: Gidala na nila ang mga ulo sa mga anak sa hari. Ug siya miingon: Ibutang ninyo sila ⟨את⟩ nga duha ka tambis sa atubangan sa ganghaan hangtod sa buntag.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ug miabot"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ug gipahibalo niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "Gidala na nila"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ang mga ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug siya miingon"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Ibutang ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga ulo)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "ka tambis (tindug)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa buntag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:44.846049014Z",
+  "model": "glm-5.3"
+}

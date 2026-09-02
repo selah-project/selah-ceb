@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ang sod ni Yahweh ⟨alang⟩ sa mga nagakahadlok kaniya, ug ang iyang pakto aron ipahibalo kanila.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "ang sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "alang sa mga nagakahadlok kaniya"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "ug ang iyang pakto"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "aron ipahibalo kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:16.467303641Z",
+  "model": "glm-5.3"
+}

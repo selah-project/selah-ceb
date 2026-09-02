@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Sa paglukop sa akong kalag ⟨את⟩ nga si Yahweh nahinumdom ako, ug mingtod kanimo ang akong pag-ampo, ngadto sa ⟨ang⟩ imong balaang palasyo.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "sa paglukop"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "nahinumdom ako"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ug mingtod"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pag-ampo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "palayo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imong balaan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:44:30.942996780Z",
+  "model": "glm-5.3"
+}

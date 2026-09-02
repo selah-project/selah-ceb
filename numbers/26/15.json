@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Mga anak ni Gad sumala sa ilang mga pamilya: kang Tsefon, ang pamilya sa mga Tsefoni; kang Khagi, ang pamilya sa mga Khagi; kang Shuni, ang pamilya sa mga Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga pamilya"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kang Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "sa mga Tsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "kang Khagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "sa mga Khagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kang Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang pamilya"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "sa mga Shuni"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:16.099445915Z",
+  "model": "glm-5.3"
+}

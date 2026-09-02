@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug motubag sila ug muingon: Ang among mga kamot wala mubuhis ⟨את⟩ kini nga dugo, ug ang among mga mata wala makakita.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "Ug motubag sila"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ug muingon"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Ang among mga kamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "mubuhis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kini nga dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ug ang among mga mata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakakita"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:08.819488704Z",
+  "model": "glm-5.3"
+}

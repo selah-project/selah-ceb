@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Paghatag ug pagtagad ngadto kang El sa mga langit, kay ngadto sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "paghatag ug pagtagad"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ngadto kang El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngadto sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:41.570470892Z",
+  "model": "glm-5.3"
+}

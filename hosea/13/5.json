@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ako nakaila kanimo sa kangitngit ⟨sa kahawiran⟩, sa yutang hait nga sukaranan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "nakaila kanimo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yutang"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "hait nga sukaranan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:15.654340405Z",
+  "model": "glm-5.3"
+}

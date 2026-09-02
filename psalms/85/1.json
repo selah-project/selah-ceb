@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Sa magtutukod sa musika, alang sa mga anak ni Korach, usa ka mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magtutukod sa musika"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.960390401Z",
+  "model": "glm-5.3"
+}

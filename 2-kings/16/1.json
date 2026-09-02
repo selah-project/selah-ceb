@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Sa ika-pito nga puoy kag maysingko (17) ka tuig kang Pekaj nga anak ni Remaljahu, naghari si Ajaz nga anak ni Jotam, hari sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sa ... ka tuig"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "maysingko (sa puoy)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "kang Pekaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "ni Remaljahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Ajaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ni Jotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:52.301812839Z",
+  "model": "glm-5.3"
+}

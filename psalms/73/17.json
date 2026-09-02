@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Hangtod nga ako moanhi ngadto sa mga santwaryo ni El, ako makasabut sa ilang kataposan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod nga"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ako moanhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "mga santwaryo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ako makasabut"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "sa ilang kataposan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:11.086915133Z",
+  "model": "glm-5.3"
+}

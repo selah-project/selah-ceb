@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Pag-awit kaniya ug bag-ong awit; pagtinarong sa pagtutog uban sa tingog sa dayeg.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Pag-awit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "pagtinarong sa"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "pagtutog"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "uban sa tingog sa dayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.847308535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug gipabalik niya ⟨את⟩ tanan ⟨ang⟩ kabtangan, ug usab ⟨את⟩ si Lot nga iyang igsoon ug ang iyang kabtangan gipabalik niya, ug usab ⟨את⟩ ang mga babaye ug ⟨את⟩ ang mga tawo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "gipabalik niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga kabtangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "kabtangan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang igsoon"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "ang iyang kabtangan"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "gipabalik niya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga babaye"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:37:44.009915637Z",
+  "model": "glm-5.3"
+}

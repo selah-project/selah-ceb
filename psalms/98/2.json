@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Gipahibalo ni Yahweh ang iyang kaluwas; atubang sa mga mata sa ⟨mga⟩ nasud gipadayag niya ang iyang pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "Gipahibalo niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "iyang kaluwas"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "atubang sa mga mata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sa ⟨mga⟩ nasud"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "gipadayag niya"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "iyang pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:13.985627943Z",
+  "model": "glm-5.3"
+}

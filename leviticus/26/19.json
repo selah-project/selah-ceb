@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug pungsun nako ⟨את⟩ ang kagahum sa inyong kusog, ug itan-aw nako ⟨את⟩ ang inyong langit sama sa puthaw, ug ⟨את⟩ ang inyong yuta sama sa tumbaga.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Ug pungsun nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kagahum sa inyong kusog"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ang kagahum"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "sa inyong kusog"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ug itan-aw nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong langit"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "ang inyong langit"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "sama sa puthaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang inyong yuta"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ang inyong yuta"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "sama sa tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:19.385164523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kon lain ⟨nga babae⟩ ang kuhaon niya ⟨kaniya⟩, ang iyang pagkaon, ang iyang bisti, ug ang iyang onah (katungod ingon asawa) dili niya pakunhoran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "lain"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "iyang pagkaon"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "iyang bisti"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "ug iyang onah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "pakunhoran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:48.894777747Z",
+  "model": "glm-5.3"
+}

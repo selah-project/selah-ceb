@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gikuha ni Noemi ⟨את⟩ ang bata ug gipahigda siya sa iyang dapit-higdaanan sa dughan, ug nahimo siya nga iyang nanay-nanay.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "gikuha ni"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ug gipahigda siya"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sa iyang dughan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug nahimo siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "nga nanay-nanay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:42.991290258Z",
+  "model": "glm-5.3"
+}

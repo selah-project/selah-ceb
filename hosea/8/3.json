@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gisalikway ni Israel ang maayo; magatuki-tuki kaniya ang kaaway.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "gisalikway"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "magatuki-tuki kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:01.087350923Z",
+  "model": "glm-5.3"
+}

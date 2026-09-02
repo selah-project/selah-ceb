@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nakigbahin si Terakh pitumpung tuig, ug natawo niya ⟨את⟩ si Avram, ⟨את⟩ si Nahor, ug ⟨את⟩ si Haran.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nakigbahin"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terakh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpung"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:14.289334841Z",
+  "model": "glm-5.3"
+}

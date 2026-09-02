@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug sila miingon: Hatagon gayod namo. Ug giladlad nila ⟨את⟩ ang bisti ug gitambog nila dida ang matag tawo sa singsing sa iyang panunaw.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "miingon sila"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "hatagon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "giladlad nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bisti"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "ang bisti"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "gitambog nila"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "sa iyang panunaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:40.888795763Z",
+  "model": "glm-5.3"
+}

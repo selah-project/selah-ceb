@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang ilang mga giihap sumala sa ilang mga pamilya, sumala sa balay sa ilang mga amahan, duha ka libo ug unom ka gatos ug kawhaan ug tulo ka napulo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ug ang ilang"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "mga giihap"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sumala sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duha ka libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug kawhaan ug tulo ka napulo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:44.205264667Z",
+  "model": "glm-5.3"
+}

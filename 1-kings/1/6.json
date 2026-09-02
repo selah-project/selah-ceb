@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang iyang amahan wala gayod siya pagsiloti sukad sa iyang mga adlaw, nga mag-ingon: Ngano nga ingon kini imong gibuhat? Ug siya usab matahum kaayo ang dagway; ug ⟨את⟩ siya gipakatawo sa iyang inahan human ni Avshalom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug wala gayod"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "siya pagsiloti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ang iyang amahan"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "suad sa iyang mga adlaw"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga mag-ingon"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "nga ingon kini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ug siya usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ang dagway"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (gipakatawo)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gipakatawo sa iyang inahan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human ni"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:24.661179382Z",
+  "model": "glm-5.3"
+}

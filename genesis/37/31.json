@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gikuha nila ⟨את⟩ ang tunika ni Yosef, ug nag-ihaw sila ug lalaking kanding sa mga kanding, ug gilubog nila ⟨את⟩ ang tunika sa dugo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ug gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tunika ni Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ang tunika"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ug nag-ihaw sila"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "lalaking kanding"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sa mga kanding"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ug gilubog nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tunika"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ang tunika"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:20.826278101Z",
+  "model": "glm-5.3"
+}

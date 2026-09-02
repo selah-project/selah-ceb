@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug nahitabo nga ang katawhan sa yuta nagpahuyang sa mga kamot sa katawhan sa Yehudah, ug gigukad sila sa ⟨pagtukod⟩ ⟨ug⟩ nagpahadlok sila kanila sa pagtukod.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nagpahuyang"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "nagpahadlok"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sa pagtukod"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtukod"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:19.997252408Z",
+  "model": "glm-5.3"
+}

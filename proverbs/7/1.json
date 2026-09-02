@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Akong anak, bantayi ang akong mga pulong, ug ang akong mga sugo itago ⟨את⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Akong anak"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bantayi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang akong mga pulong"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ug ang akong mga sugo"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "itago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo",
+      "marks": "kanimo (ang naghuptan sa mga sugo)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:41.415590292Z",
+  "model": "glm-5.3"
+}

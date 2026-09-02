@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug itudlo nimo kini ⟨sa⟩ hinuon ngadto sa imong mga anak, ug hisgutan nimo kini kadiha sa imong paglingkod diha sa imong balay, ug sa imong pagpanaw sa dalan, ug sa imong paghigda, ug sa imong pagtindog.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "itudlo nimo kini ⟨sa⟩ hinuon ngadto"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sa imong mga anak"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ug hisgutan nimo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "sa imong paglingkod"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "diha sa imong balay"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "ug sa imong pagpanaw"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "ug sa imong paghigda"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ug sa imong pagtindog"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:15.000508327Z",
+  "model": "glm-5.3"
+}

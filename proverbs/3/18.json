@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kahoy sa kinabuhi siya alang sa mga naghakot ⟨kaniya⟩, ug ang mga nagsuportar kaniya ⟨mga⟩ malipayon.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "alang sa mga naghakot"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨kaniya⟩"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "ug ang mga nagsuportar kaniya"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "malipayon (meushar)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:25.428492234Z",
+  "model": "glm-5.3"
+}

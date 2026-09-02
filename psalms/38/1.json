@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Usa ka mizmor ni David, alang sa pagpahinumdom.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "alang sa pagpahinumdom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:49.795151217Z",
+  "model": "glm-5.3"
+}

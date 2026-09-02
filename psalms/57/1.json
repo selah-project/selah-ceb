@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Sa panguna sa magdadagwat; Ayaw pagguba; michtam (tulunghati) ni David, sa iyang pagkadagan gikan sa atubangan ni Shaul, sa langub.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa panguna sa magdadagwat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pagguba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michtam (tulunghati)"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "sa iyang pagkadagan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "sa langub"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:49.336197778Z",
+  "model": "glm-5.3"
+}

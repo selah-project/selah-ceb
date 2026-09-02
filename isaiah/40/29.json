@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Nagahatag siya ug kusog ngadto sa ⟨nasulayan⟩ nga ⟨makapoy⟩, ug sa ⟨mga⟩ wala may kusog iyang padaghanon sa ⟨gihabog nga kusog⟩.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "nagahatog"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "ngadto sa makapoy"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "ug sa wala may"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "gihabog nga kusog"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "iyang padaghanon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:49.592183490Z",
+  "model": "glm-5.3"
+}

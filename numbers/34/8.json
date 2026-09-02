@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Gikan sa Bukid sa Hor pagmarkahi ninyo ang pag sulod sa Khamat, ug ang mga paggawas sa utlanan ⟨mangadto⟩ sa Tsedad.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Gikan sa Bukid sa Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang Bukid"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "pagmarkahi ninyo"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ang pagsulod sa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamat"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug ang mga paggawas"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "sa utlanan"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "sa utlanan"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "sa Tsedad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:25.398094287Z",
+  "model": "glm-5.3"
+}

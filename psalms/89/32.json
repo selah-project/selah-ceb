@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kon ang akong mga statuto ila nga gipahamub-an, ug ang akong mga sugo dila ilang bantayan —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ang akong mga statuto"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ila nga gipahamub-an"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ug ang akong mga sugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ila pang bantayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.000927094Z",
+  "model": "glm-5.3"
+}

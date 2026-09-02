@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 4:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Tsilah usab natawo ⟨את⟩ si Tuval-Kayin, ang mamanday sa tanan ka himan sa tumbaga ug puthaw; ug ang igsoon nga babae ni Tuval-Kayin ⟨mao⟩ si Naamah.",
+  "tokens": [
+    {
+      "surface": "וצלה",
+      "gloss": "Ug si Tsilah"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tuval-Kayin"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "si Tuval"
+    },
+    {
+      "surface": "קין",
+      "gloss": "-Kayin"
+    },
+    {
+      "surface": "לטש",
+      "gloss": "ang mamanday"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ka himan sa mananahi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sa tumbaga"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "ug puthaw"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ug ang igsoon nga babae"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "ni Tuval"
+    },
+    {
+      "surface": "קין",
+      "gloss": "-Kayin"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "si Naamah"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:43.895534105Z",
+  "model": "glm-5.3"
+}

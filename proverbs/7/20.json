@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Gikuha niya ang bugkos nga salapi sa iyang kamot, sa adlaw sa tongtongan mobalik siya sa iyang balay.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ang bugkos"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "nga salapi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw sa"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "tongtongan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mobalik siya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sa iyang balay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:24.163541619Z",
+  "model": "glm-5.3"
+}

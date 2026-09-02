@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 17:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gibuhat ni Yehoshua ang sumala sa gisulti ni Moshe kaniya, sa pagpakig-away batok sa Amalek; ug si Moshe, si Aharon, ug si Hur mitungas sa tumoy sa bungtod.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gbuhat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ang sumada sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sa pagpakig-away"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "batok sa Amalek"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ug si Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ug si Hur"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mitungas"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tumoy"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "bungtod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:47.171346125Z",
+  "model": "glm-5.3"
+}

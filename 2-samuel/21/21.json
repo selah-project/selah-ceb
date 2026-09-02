@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gibastad niya ⟨את⟩ ang Israel; gipatay siya ni Yehonatan nga anak ni Shim'i, igsoon ni David.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "gibastad niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "gipatay siya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:33:34.719161299Z",
+  "model": "glm-5.3"
+}

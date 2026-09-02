@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Padulong gihapon ikaw nga nagataas ka sa imong kaugalingon batok sa akong katawhan, aron dili sila pagpapahawa.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "padulong gihapon ikaw"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "nagataas sa kaugalingon"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "batok sa akong katawhan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "sila pagpapahawa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:42.059975994Z",
+  "model": "glm-5.3"
+}

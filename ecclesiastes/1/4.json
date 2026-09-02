@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Usa ka henerasyon nga molakaw, ug usa ka henerasyon nga moabut, apan ang yuta ⟨molungtad⟩ hangtod sa kahangturan — nagatindog.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "usa ka henerasyon"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nga molakaw"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ug usa ka henerasyon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nga moabut"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "apan ang yuta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagatindog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:39.291409684Z",
+  "model": "glm-5.3"
+}

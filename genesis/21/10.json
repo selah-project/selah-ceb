@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug siya naggiingon kang Avraham: Palakwa ang sulugngan nga kini ug ⟨את⟩ ang iyang anak, kay dili manapanaw ang anak sa sulugngan nga kini kauban sa akong anak, kauban ni Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug naggiingon siya"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kang Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Palakwa"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ang sulugngan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang anak"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang iyang anak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "manapanaw"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sa sulugngan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa akong anak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:53.872676787Z",
+  "model": "glm-5.3"
+}

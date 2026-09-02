@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Apan si Yahweh wala kaninyo paghatag ug kasingkasing aron sa pagkahibalo, ug mga mata aron sa pagtan-aw, ug mga igduduha aron sa pagdungog, hangtod sa karon nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aron sa pagkahibalo"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ug mga mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron sa pagtan-aw"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ug mga igduduha"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "aron sa pagdungog"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "karon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:34.029607741Z",
+  "model": "glm-5.3"
+}

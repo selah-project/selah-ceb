@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kuhaa ⟨את⟩ ang mga Levita gikan sa taliwala sa mga anak ni Yisrael, ug himoa nga mahinlo ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Levita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "gikan sa taliwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ug himoa nga mahinlo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:41.287542758Z",
+  "model": "glm-5.3"
+}

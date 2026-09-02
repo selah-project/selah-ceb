@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Sa pagkatinuod mitubag si Iyob ⟨את⟩ kang Yahweh ug miingon:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mitubag"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:00.041171665Z",
+  "model": "glm-5.3"
+}

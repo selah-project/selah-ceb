@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Pinaagi sa habagat nga hangin gipANGPANG mo ⟨את⟩ ang mga sakayan sa Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "pinaagi sa hangin"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "habagat nga (sidlakan)"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "gipANGPANG mo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ang mga sakayan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "sa Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:09.439973883Z",
+  "model": "glm-5.3"
+}

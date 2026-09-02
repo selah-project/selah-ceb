@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang Rav Shaker miuli, ug nakit-an niya ⟨את⟩ ang hari sa Ashur nakiggubat batok sa Livna, kay nabatian niya nga mipahawa na gikan sa Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "miuli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shaker"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "nakit-an niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari sa Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nabatian niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "mipahawa na"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "gikan sa Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:24.580873116Z",
+  "model": "glm-5.3"
+}

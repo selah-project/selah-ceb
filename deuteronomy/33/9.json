@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ang nagsulti sa iyang amahan ug sa iyang inahan: Wala ako makakita kaniya; ug ⟨את⟩ sa iyang mga igsoon wala ⟨siya⟩ makaila, ug ⟨את⟩ sa iyang mga anak wala ⟨siya⟩ mahibalo; kay gipatuman nila ang imong pulong ug ang imong pakigsaad bantay-an nila.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ang nagsulti"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ug sa iyang inahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ako makakita kaniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang mga igsoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "gipatuman nila"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imong pulong"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ug ang imong pakigsaad"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bantay-an nila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:26.739377703Z",
+  "model": "glm-5.3"
+}

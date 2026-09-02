@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Nagatulo ang mga sibsiban sa kamingawan, ug ang mga bungtod magapulos ug ⟨kalipay⟩.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "nagatulo"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "mga sibsiban"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ug kalipay"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "mga bungtod"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "magapulos ug"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:00.090073236Z",
+  "model": "glm-5.3"
+}

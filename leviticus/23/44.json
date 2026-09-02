@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gisulti ni Moshe ⟨את⟩ ang mga taknang tudloan ni Yahweh ngadto sa mga anak nga lalaki sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ug gisulti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga taknang tudloan ni Yahweh"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "mga taknang tudloan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:45.316999754Z",
+  "model": "glm-5.3"
+}

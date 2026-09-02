@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Dili ba kini susihon ni Elohim? Kay siya nasayod sa mga tinago sa kasingkasing.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "susihon"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nasayod"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sa mga tinago"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:38.923059534Z",
+  "model": "glm-5.3"
+}

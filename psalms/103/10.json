@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Wala ⟨siya⟩ buhat batok kanato sumala sa atong mga sala, ni gintubos ⟨siya⟩ kanato sumala sa atong mga kasilag.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "sumala sa atong mga sala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "batok kanato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "sumala sa atong mga kasilag"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "gintubos"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanato"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:52.224881221Z",
+  "model": "glm-5.3"
+}

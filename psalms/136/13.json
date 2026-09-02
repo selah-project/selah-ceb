@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Sa nagputol sa Dagat sa Suph ngadto sa mga piraso, kay hangtod sa kahangtan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "sa nagputol"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Dagat"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sa Suph"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ngadto sa mga piraso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:53.119448243Z",
+  "model": "glm-5.3"
+}

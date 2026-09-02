@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Ihatag ngadto kanamo ang tabang batok sa kagul-an; ug pangitaas ⟨ang⟩ walay kapuslan ⟨ang⟩ kaluwas sa tawo.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ngadto kanamo"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ang tabang"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "batok sa kagul-an"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ug pangitaas"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "kaluwas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:57.076683675Z",
+  "model": "glm-5.3"
+}

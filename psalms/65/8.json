@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Nagpahunong sa kagahub sa mga dagat, sa kagahub sa ilang mga balud, ug sa kagubot sa mga nasod.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "nagpahunong"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kagahub"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kagahub"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ilang mga balud"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ug kagubot"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:59.994023596Z",
+  "model": "glm-5.3"
+}

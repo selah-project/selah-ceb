@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug moingon ka kang Paro: Mao kini ang giingon ni Yahweh: ⟨⟨ang⟩⟩ akong anak nga panganay ⟨⟨si⟩⟩ Israel:",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ug moingon ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "nga panganay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:43.399166248Z",
+  "model": "glm-5.3"
+}

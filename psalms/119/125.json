@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Imong sulugoon ako — paghatag ug pag-sabot kanako, aron mahibalo-an ko ang imong mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "paghatag ug pag-sabot kanako"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "aron mahibalo-an ko"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imong mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:51.224000726Z",
+  "model": "glm-5.3"
+}

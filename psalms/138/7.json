@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Bisan maglakaw ako sa taliwala sa kalisud, pagabuhion mo ako; batok sa kasuko sa akong mga kaaway ipadala mo ang imong kamot, ug ang imong too nga kamot magaluwas kanako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "maglakaw ako"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala sa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kalisud"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "pagabuhion mo ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kasuko"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ipadala mo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ug magaluwas kanako"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang imong too nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:29.216394684Z",
+  "model": "glm-5.3"
+}

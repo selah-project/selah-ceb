@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug pagahunon mo ⟨את⟩ ang balay ni Ahab nga imong agalon, ug magapanimaldos ako sa dugo sa akong mga sulugoon nga mga manalagna ug sa dugo sa tanan nga mga sulugoon ni Yahweh, gikan sa kamot ni Izebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "pagahunon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nga imong agalon"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "magapanimaldos ako"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sa akong mga sulugoon"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nga mga manalagna"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ug sa dugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ni Izebel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:21.603603614Z",
+  "model": "glm-5.3"
+}

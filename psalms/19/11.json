@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang mga pia dili kaayo mahal kaysa bulawan ug kaysa daghang pinong nga bulawan, ug labi pang tam-is kaysa dugos ug kaysa talbos sa dugos.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "mga pia"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kaysa bulawan"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ug kaysa pinong nga bulawan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "ug labi pang tam-is"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kaysa dugos"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ug kaysa talbos"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "sa dugos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:47.706640213Z",
+  "model": "glm-5.3"
+}

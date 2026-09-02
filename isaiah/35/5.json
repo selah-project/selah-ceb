@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Sa nianang panahona mabuksan ang mga mata sa ⟨mga⟩ buta, ug mabukhad ang mga dalunggan sa ⟨mga⟩ bungol.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa nianang panahona"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "mabuksan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "mga buta"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ug ang mga dalunggan"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mga bungol"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "mabukhad"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:41.655510503Z",
+  "model": "glm-5.3"
+}

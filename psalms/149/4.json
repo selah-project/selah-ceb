@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Kay nahimuot si Yahweh sa iyang katawhan; iyang dayeganon ⟨ang⟩ mga mapainubsanon uban sa kaluwasan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "nahimuot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "sa iyang katawhan"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "iya nga dayeganon"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ang mga mapainubsanon"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "uban sa kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.863437542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Yahweh, ayaw ako pasultion sa imong kasuko, ni ako silotan sa imong kupot.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "sa imong kasuko"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "ako pasultion"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ni ayaw"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "sa imong kupot"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "ako silotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:00.684902598Z",
+  "model": "glm-5.3"
+}

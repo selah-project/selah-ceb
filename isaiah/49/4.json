@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Apan ako nakamulong: Sa kawalay-pulos nagkaguol ako, sa kawalay-sulod ug sa kalinaw ang akong gikutos gikonsumo; apan sa pagkamatuod ang akong pagtulon-an ⟨את⟩ kang Yahweh, ug ang akong gibuhat ⟨את⟩ sa akong Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nakamulong"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Sa kawalay-pulos"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "nagkaguol ako"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "sa kawalay-sulod"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ug sa kalinaw"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ang akong gikutos"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "gikonsumo"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "apan sa pagkamatuod"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akong pagtulon-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ug ang akong gibuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa akong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:49.286675623Z",
+  "model": "glm-5.3"
+}

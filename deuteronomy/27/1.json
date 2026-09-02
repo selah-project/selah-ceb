@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug mihatag si Moshe ug ang mga katanungan sa Yisrael ug sugo ⟨את⟩ sa katawhan, nga nag-ingon: Bantayi ⟨את⟩ ang tibuok nga sugo nga akong gisugo ⟨את⟩ ⟨kaninyo⟩ karon nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mihatag ug sugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ug ang mga katanungan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Bantayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga sugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "nga sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kaninyo⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karong adlawa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:42.320782391Z",
+  "model": "glm-5.3"
+}

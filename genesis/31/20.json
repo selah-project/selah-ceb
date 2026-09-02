@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug gikawat ni Yaakov ⟨את⟩ ang kasingkasing ni Lavan nga Arameanhon — nga wala niya pahibaloa nga siya naglagmit.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "gikawat"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasingkasing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ni Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Arameanhon"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "niya pahibaloa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "naglagmit"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:56.168235836Z",
+  "model": "glm-5.3"
+}

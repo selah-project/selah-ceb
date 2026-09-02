@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Ug wala moingon ang mga molabay: 'Panalangin ni Yahweh ⟨kaninyo⟩; gipanalanginan namo ⟨את⟩ inyo sa ngalan ni Yahweh.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ang mga molabay"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "gipanalanginan namo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyo (kamo)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.246288726Z",
+  "model": "glm-5.3"
+}

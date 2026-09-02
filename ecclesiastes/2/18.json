@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gisuklan ko usab ⟨את⟩ ang tibuok sa akong kalisod-lambo nga gikapoy ko sa pagpaningkamot ubos sa adlaw, kay biyaan nako kini ⟨ngadto⟩ sa tawo nga mahimong human nako.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "gisuklan ko usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok sa akong kalisod-lambo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "sa akong kalisod-lambo"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "nga ako"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "gikapoy sa pagpaningkamot"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "kay biyaan nako kini"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "⟨ngadto⟩ sa tawo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "nga mahimong"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human nako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:12.524755037Z",
+  "model": "glm-5.3"
+}

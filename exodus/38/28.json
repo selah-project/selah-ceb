@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug ⟨את⟩ ang usa ka libo ug pito ka gatos ug kapitoan ug lima gihimo nga mga kawit alang sa mga haligi, ug gipanakip ang ilang mga ulo, ug gihigot ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa ka libo ug pito ka gatos ug kapitoan ug lima"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ang usa ka libo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ug pito"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ug lima"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ug kapitoan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "nga mga kawit"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "alang sa mga haligi"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "ug gipanakip"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ang ilang mga ulo"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "ug gihigot"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga haligi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:35.429738848Z",
+  "model": "glm-5.3"
+}

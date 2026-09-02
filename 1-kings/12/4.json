@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang imong amahan nagpabug-at ⟨את⟩ sa among gigamos, ug ikaw karon pagpagaana ang pag-alagad nga bug-at sa imong amahan, ug ang paghunong sa iyang bug-at nga gigamos nga iyang gipapatong kanamo, ug mag-alagad kami kanimo.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Ang imong amahan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nagpabug-at"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa among gigamos"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "sa among gigamos"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pagpagaana"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ang pag-alagad"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nga bug-at"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ug gikan sa iyang"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gipapatong"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "ug mag-alagad kami kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:49.654196502Z",
+  "model": "glm-5.3"
+}

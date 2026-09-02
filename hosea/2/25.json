@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug itanom Ko siya alang Kanako sa yuta, ug kalooyan Ko ⟨את⟩ ang dili-gikaluoyan, ug ingnon Ko ang dili-ako-nga-katawhan: Katawhan Ko ikaw, ug siya magasulti: Elohim Ko ikaw.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ug itanom Ko siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang Kanako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ug kalooyan Ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dili-gikaluoyan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "gikaluoyan"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ug ingnon Ko"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "ang dili"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ako-nga-katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Katawhan Ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "magasulti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim Ko"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:42.983251407Z",
+  "model": "glm-5.3"
+}

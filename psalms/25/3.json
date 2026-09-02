@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Bisan ang tanan nga nagapaabut kanimo dili ⟨mapaulaw⟩; mapaulaw ang mga tigkagulipat ⟨nga walay hinungdan⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "nagapaabut kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mapaulaw"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mapaulaw"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ang mga tigkagulipat"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga walay hinungdan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.092014386Z",
+  "model": "glm-5.3"
+}

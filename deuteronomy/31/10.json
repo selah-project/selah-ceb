@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug nagsugo si Moshe ⟨את⟩ kanila nga nagaingon: Sa katapusan sa pito ka tuig, sa taknang gitakda, sa tuig sa pagpahulay, sa fiesta sa mga Sukkot —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ug nagsugo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "sa katapusan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "sa taknang gitakda"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tuig sa"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "pagpahulay"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "sa fiesta"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "mga Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:17.897913016Z",
+  "model": "glm-5.3"
+}

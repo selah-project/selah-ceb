@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Ayaw ninyo pag-angat sa kahitas-an ⟨ang⟩ inyong mga sungay; ayaw pagsulti uban ⟨ang⟩ Lig-on nga Liog.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw ninyo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "pag-angat"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa kahitas-an"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "inyong mga sungay"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ayaw pagsulti"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "uban ang Lig-on nga Liog"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "garboso"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:42.635733052Z",
+  "model": "glm-5.3"
+}

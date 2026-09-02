@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Palig-ona ninyo ang hinuyang nga mga kamot, ug ang mga tuhod nga nagatuyang palig-ona.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "palig-ona ninyo"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "mga kamot"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "hinuyang"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "ug mga tuhod"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "nagatuyang"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "palig-ona"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:01.765739614Z",
+  "model": "glm-5.3"
+}

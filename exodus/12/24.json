@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug atong bantayan ninyo ⟨את⟩ kining pulonga ingon nga tulun-tulon alang kanimo ug alang sa imong mga anak hangtod sa kahangtura.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ug bantayan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining pulonga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kining pulonga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ingon nga tulun-tulon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "ug alang sa imong mga anak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtura"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:46.432506788Z",
+  "model": "glm-5.3"
+}

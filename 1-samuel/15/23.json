@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Kay ang pag-alsa ingon sa sala sa pangkutana, ug ang kabalintunaan sa mga terapim ang pagkuti. Tungod kay gisalikway nimo ⟨את⟩ ang pulong ni Yahweh, gisalikway usab niya ikaw — ⟨nga dili na⟩ ikaw hari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "pangkutana"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "pag-alsa"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ug kabalintunaan"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ug mga terapim"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "pagkuti"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "gisalikway nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "gisalikway usab niya ikaw"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "⟨nga dili na⟩ hari"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:24.046643940Z",
+  "model": "glm-5.3"
+}

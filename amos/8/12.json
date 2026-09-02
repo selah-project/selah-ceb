@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug mangislay sila gikan sa dagat ngadto sa dagat, ug gikan sa amihanan ngadto sa sidlakan; magdagan-dagan sila sa pagpangita ⟨את⟩ sa pulong ni Yahweh, apan dili nila kini makaplagan.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "Ug mangislay sila"
+    },
+    {
+      "surface": "מים",
+      "gloss": "gikan sa dagat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "ug gikan sa amihanan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sidlakan"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "magdagan-dagan sila"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pulong ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "nila kini makaplagan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:34.941121623Z",
+  "model": "glm-5.3"
+}

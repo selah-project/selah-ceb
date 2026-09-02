@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ihatag ninyo ang kusog ngadto kang Elohim; ibabaw ni Yisra'el ang iyang pagkadakula, ug ang iyang kusog anaa sa mga panganod.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ang kusog"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngadto kang Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ang iyang pagkadakula"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ug ang iyang kusog"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "sa mga panganod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.897812761Z",
+  "model": "glm-5.3"
+}

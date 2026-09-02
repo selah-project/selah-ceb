@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Siya magatukod alang kanako ug balay, ug ipatindog ko ⟨את⟩ ang iyang trono hangtod sa kahangtura.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "magatukod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ug balay"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ug ipatindog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang trono"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ang iyang trono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtura"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:07.191557722Z",
+  "model": "glm-5.3"
+}

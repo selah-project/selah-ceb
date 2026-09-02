@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang akong bahin ⟨ang⟩ Yahweh; nako ingon nga magatuman ako sa imong mga pulong.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "ang akong bahin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nako ingon"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa magatuman ako"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sa imong mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:25.429036514Z",
+  "model": "glm-5.3"
+}

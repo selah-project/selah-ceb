@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug si Akhituv nagmga ⟨את⟩ Tsadok, ug si Tsadok nagmga ⟨את⟩ Shallum;",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ug si Akhituv"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "si Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ug si Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "si Shallum"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:12.940818778Z",
+  "model": "glm-5.3"
+}

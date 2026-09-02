@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": " kondi sa Torá ni Yahweh ang iyang kalipay, ug sa iyang Torá magahunahunaon niya adlaw ug gabii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨kundi⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kundi⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa Torá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ang iyang kalipay"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ug sa iyang Torá"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "magahunahunaon niya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:58.581085452Z",
+  "model": "glm-5.3"
+}

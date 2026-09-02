@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gihipos niya ⟨את⟩ ang lima ka mga kurtina, usa ngadto sa usa; ug ang lima ka mga kurtina gihipos niya, usa ngadto sa usa.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ug gihipos niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lima ka mga kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima ka"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ug ang lima ka"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "gihipos"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:02.424196680Z",
+  "model": "glm-5.3"
+}

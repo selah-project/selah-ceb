@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ayaw pagpahiya tungod kanako ang mga nagapaabut kanimo, o Adonay, Yahweh Tsevaot; ayaw pagpahawa-aw tungod kanako ang mga nagapangita kanimo, Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "pagpahiya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tungod kanako"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ang mga nagapaabut kanimo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "pagpahawa-aw"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tungod kanako"
+    },
+    {
+      "surface": "mבקשיך",
+      "gloss": "ang mga nagapangita kanimo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:18.677436988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Gipagawas niya sila gikan sa kangitngit ug sa landong sa kamatayon, ug ang ilang mga higot iyang gigisi.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "gipagawas niya sila"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "gikan sa kangitngit"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "ug sa landong sa kamatayon"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "ug ang ilang mga higot"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "iyang gigisi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:43.927511181Z",
+  "model": "glm-5.3"
+}

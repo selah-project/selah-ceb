@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang matag tawo — ang iyang inahan ug ang iyang amahan — pagatahuron ninyo, ug ⟨את⟩ ang akong mga adlaw sa pagpahulay atimanon ninyo; ako si Yahweh ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ug iyang amahan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "pagatahuron ninyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga adlaw sa pagpahulay"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ang akong mga adlaw sa pagpahulay"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "atimanon ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:39.969933821Z",
+  "model": "glm-5.3"
+}

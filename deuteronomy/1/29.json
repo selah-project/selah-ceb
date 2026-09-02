@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nagsulti ako kaninyo: Dili kamo mangurog ug dili kamo mahadlok kanila.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ug nagsulti ako"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "kamo mangurog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "kamo mahadlok"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:49.998632171Z",
+  "model": "glm-5.3"
+}

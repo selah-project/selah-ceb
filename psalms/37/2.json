@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Kay sama sa balilihon, pagdali maputol sila, ug sama sa lunhaw nga sagbot mamalan sila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sama sa balilihon"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "pagdali"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "maputol sila"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ug sama sa"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "lunhaw nga sagbot"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "mamalan sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:14.558766690Z",
+  "model": "glm-5.3"
+}

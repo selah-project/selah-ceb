@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Shabbat nga pagpahulay kini alang kaninyo, ug pagalutoson ninyo ⟨את⟩ ang inyong mga kalag — balaod nga dayon.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "nga pagpahulay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ug pagalutoson ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga kalag"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ang inyong mga kalag"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:32.568095266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug maghimo ka ug duha ka singsing nga bulawan, ug ibutang nimo ⟨את⟩ sila sa duha ka kataposan sa choshen, sa iyang ngabil nga dapit, nga anaa sa kilid sa ephod paingon sa sulod.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug maghimo ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ug ibutang nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kataposan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sa choshen"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "iyang ngabil (gilid)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sa ephod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "paingon sa sulod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:46.978870425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Sama kanila mahimong ⟨mga tawo⟩ ang mga naghimo kanila — ang tanan nga nagasalig kanila",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "sama kanila"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ang mga naghimo kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:37.161030086Z",
+  "model": "glm-5.3"
+}

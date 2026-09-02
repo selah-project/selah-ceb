@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kay ang imong mga pana naglubog kanako, ug ang imong kamot nagbugkos ⟨kanako⟩ gikan sa itaas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ang imong mga pana"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "naglubog"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ug nagbugkos gikan sa itaas"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨kanako⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:49.795524620Z",
+  "model": "glm-5.3"
+}

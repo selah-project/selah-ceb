@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gitawag ni Yishay si Avinadav ug giagi niya kini sa atubangan ni Shemuel; ug miingnon siya: Bisan kini wala pilion ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "si Yishay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "si Avinadav"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ug giagi niya kini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingnon siya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "pilion"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:27.538370753Z",
+  "model": "glm-5.3"
+}

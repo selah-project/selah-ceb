@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Wala sila motalikod sa ilang gitinguha; ang pagkaon ⟨pa⟩ anaa sa ilang baba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "motalikod sila"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "sa ilang gitinguha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨pa⟩"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ang ilang pagkaon"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ilang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:34.863122729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Sa adlaw sa akong kalisod tawgon taka, kay ikaw magatubag kanako.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "sa akong kalisod"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "tawgon taka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "magatubag kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:42.912294481Z",
+  "model": "glm-5.3"
+}

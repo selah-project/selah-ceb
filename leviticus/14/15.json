@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug mokuha ang sacerdote sa log sa lana, ug ibuhos sa palad sa sacerdote nga wala.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ug mokuha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang sacerdote"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "sa log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ug ibuhos"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palad"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "nga wala"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:46.927824226Z",
+  "model": "glm-5.3"
+}

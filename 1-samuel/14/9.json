@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kon mao kini ang ilang ingon kanamo: 'Hilum kamo hangtod nga makaabot kami kaninyo,' nan magbarog kami sa atong dapit ug dili kami mosaka ngadto kanila.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "angling ingon"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "Hilum kamo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "makaabot kami"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "ug magbarog kami"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "sa atong dapit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "kamosaka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ngadto kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:29.249050777Z",
+  "model": "glm-5.3"
+}

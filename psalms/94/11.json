@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Yahweh nasayod sa ⟨mga⟩ hunahuna sa tawo, nga sila ⟨mga⟩ kaawaaw",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nasayod"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mga hunahuna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mga kaawaaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.727330528Z",
+  "model": "glm-5.3"
+}

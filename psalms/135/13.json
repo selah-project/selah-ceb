@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Yahweh, ang imong ngalan ⟨hangtod sa kahangturan⟩, Yahweh, ang imong pahinumdom ⟨nga⟩ tingali sa Sukod ngadto sa sukod.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ang imong pahinumdom"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa sukod nga tingali"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngadto sa sukod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:16.879510672Z",
+  "model": "glm-5.3"
+}

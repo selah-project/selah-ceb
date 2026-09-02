@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 61,
+  "translation": "Kay ikaw, O Elohim, nakadungog sa akong mga saad; imong gihatag ⟨ang⟩ manununod sa mga nagakahadlok sa imong ngalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "sa akong mga saad"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "imong gihatag"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "manununod"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "sa mga nagakahadlok"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.798583072Z",
+  "model": "glm-5.3"
+}

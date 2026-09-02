@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay ang balay ni Israel ug ang balay ni Yehudah nanglimbong ug nagpakinabuot kaayo kanako, nagasinggit si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "nagpakinabuot kaayo"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "nanglimbong ug"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug ang balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagasinggit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:15:07.276035665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 23:32",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gibuhat niya ang kadaotan sa mga mata ni Yahweh, sumala sa tanan nga gibuhat sa iyang mga katigulangan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat niya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kadaotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sa iyang mga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:54.577244488Z",
+  "model": "glm-5.3"
+}

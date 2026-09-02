@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si Yahweh ngadto kang Satan: \"Taga asa ka nga miabot?\" Ug mitubag si Satan ⟨את⟩ si Yahweh ug miingon: \"Gikan sa pagpanaog-anaod sa tibuok yuta ug sa pagpanaog-anaod niini.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "si Satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "taga asa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ka nga miabot"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "ug mitubag"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "si Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "gikan sa pagpanaog-anaod"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa tibuok yuta"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "ug sa pagpanaog-anaod"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:51.576109808Z",
+  "model": "glm-5.3"
+}

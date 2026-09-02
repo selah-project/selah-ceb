@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug dad-on sa saserdote ⟨kini⟩ ngadto sa halaran, ug buakon niya ⟨את⟩ ang ulo niini, ug pasona niya ⟨kini⟩ sa halaran; ug ilison ang dugo niini sa bongbong sa halaran.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "ug dad-on"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "ug buakon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo niini"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ang ulo niini"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ug pasona niya"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "ug ilison"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang dugo niini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "bongbong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:49.473436163Z",
+  "model": "glm-5.3"
+}

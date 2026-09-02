@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug putlon ni Yahweh nga imong Elohim ⟨את⟩ ang panit sa imong kasingkasing ug ⟨את⟩ ang panit sa kasingkasing sa imong kaliwat, aron mahigugma ka kang Yahweh nga imong Elohim sa tanan nimong kasingkasing ug sa tanan nimong kalag, aron mabuhi ka.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "ug putlon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panit sa imong kasingkasing"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "imong kasingkasing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang panit sa kasingkasing sa imong kaliwat"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sa imong kaliwat"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "aron mahigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh nga imong Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "nimong kasingkasing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nimong kalag"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "mabuhi ka"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:21.520671704Z",
+  "model": "glm-5.3"
+}

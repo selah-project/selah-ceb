@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Yovel kini, ang kalim-an nga tuig mahimo ⟨alang⟩ kaninyo; ayaw magtanum ug ayaw anihaon ⟨את⟩ ang iyang mga natanum nga kaugalingon, ug ayaw pul-on ⟨את⟩ ang iyang mga ubas nga wala untaton.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "ang kalim-an"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "magtanum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "anihaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga natanum nga kaugalingon"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "mga natanum nga kaugalingon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "pul-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga ubas nga wala untaton"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "mga ubas nga wala untaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:29.214797615Z",
+  "model": "glm-5.3"
+}

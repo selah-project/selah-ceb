@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug bahina ninyo ⟨את⟩ kini ngadto sa pito ka bahin: si Yehudah magbarug sa iyang utlanan sa habagatan, ug ang balay ni Yosef magbarug sa ilang utlanan sa amihanan.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "ug bahina ninyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang yuta)"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ngadto sa pito ka"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "magbarug"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "iyang utlanan"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "sa habagatan"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug ang balay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "magbarug"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ilang utlanan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa amihanan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:32.625442629Z",
+  "model": "glm-5.3"
+}

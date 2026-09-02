@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gikuha niya sila, ug gipapasa niya sila ⟨את⟩ ang suba, ug gipapasa niya ⟨את⟩ ang tanan nga iyang giatiman.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "ug gikuha niya sila"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "ug gipapasa niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang suba"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ang suba"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ug gipapasa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga iyang giatiman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iang giatiman"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:52.085954019Z",
+  "model": "glm-5.3"
+}

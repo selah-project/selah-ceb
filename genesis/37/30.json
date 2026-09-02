@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug mibalik siya ngadto sa iyang mga igsoon, ug miingon: Wala na ang bata; ug ako, asa man ako ⟨mo⟩?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mibalik siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya nga mga igsoon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "asa man"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨mo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:20.826065068Z",
+  "model": "glm-5.3"
+}

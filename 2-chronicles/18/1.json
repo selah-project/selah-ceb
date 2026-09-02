@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": " ug nahimo si Yehoshafat nga adunahan ug himaya sa kadaghanan, ug nakighiusa siya pinaagi sa kasal ⟨kang⟩ Ahab.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimo"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "kang Yehoshafat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "kadato"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ug himaya"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadaghanan"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "ug nakighiusa pinaagi sa kasal"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kang Ahab"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:18.359136435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gipatawag ni Shemuël ⟨את⟩ ⟨ang⟩ katawhan ngadto kang Yahweh ⟨sa⟩ Mitspah.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Gipatawag ni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "⟨sa⟩ Mitspah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:43.356846195Z",
+  "model": "glm-5.3"
+}

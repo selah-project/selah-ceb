@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug mahulog ang mga napatay taliwala ninyo, ug mahibaloan ninyo nga ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "ug mahulog"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "mga napatay"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "taliwala ninyo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ug mahibaloan ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:33:27.360865643Z",
+  "model": "glm-5.3"
+}

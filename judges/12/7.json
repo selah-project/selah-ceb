@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gihukman ni Yiftakh ⟨את⟩ ang Israel unom ka tuig; ug namatay si Yiftakh nga taga-Gilad, ug gilubong siya sa mga dakbayan sa Gilad.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Gihukman"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiftakh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "si Yiftakh"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "nga taga-Gilad"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ug gilubong siya"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga dakbayan"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "sa Gilad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:10:08.338953295Z",
+  "model": "glm-5.3"
+}

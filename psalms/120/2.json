@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Yahweh, luwasa ang akong kalag gikan sa mga ngawong bakak, gikan sa dila nga malimbongon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "luwasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "gikan sa mga ngawong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "gikan sa dila"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nga malimbongon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:23.519070139Z",
+  "model": "glm-5.3"
+}

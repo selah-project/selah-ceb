@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 141:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Bantayi ako gikan sa mga kamot sa panangkap nga ilang gitakda alang kanako, ug gikan sa mga silot sa mga mamumuo sa kadaot.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Bantayi ako"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gikan sa mga kamot"
+    },
+    {
+      "surface": "פח",
+      "gloss": "panangkap"
+    },
+    {
+      "surface": "יקשו",
+      "gloss": "nga ilang gitakda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "ומקשות",
+      "gloss": "ug gikan sa mga silot"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "sa mga mamumuo"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:50.906034610Z",
+  "model": "glm-5.3"
+}

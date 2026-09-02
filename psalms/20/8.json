@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ang uban — sa mga karwasa, ug ang uban — sa mga kabayo; apan kami — sa ngalan ni Yahweh nga among Elohim magahinumdom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ang uban"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "sa mga karwasa"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ug ang uban"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa mga kabayo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "apan kami"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "magahinumdom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:38.921319028Z",
+  "model": "glm-5.3"
+}

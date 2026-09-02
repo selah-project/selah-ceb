@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gikuha ni Moshe ⟨את⟩ ang iyang asawa ug ⟨את⟩ ang iyang mga anak, ug gipasakay niya sila sa asno, ug mibalik siya ngadto sa yuta sa Mitsrayim; ug gikuha ni Moshe ⟨את⟩ ang tungkod sa Elohim sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "gipasakay niya sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "asno"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mibalik"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tungkod"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:10.750197879Z",
+  "model": "glm-5.3"
+}

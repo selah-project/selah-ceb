@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gipartisyon ni David sila ngadto sa mga dibisyon alang sa mga anak ni Levi: kang Gershon, Kehat, ug Merari.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "gipartisyon ni David sila"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "mga dibisyon"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "kang Gershon"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "si Kehat"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ug si Merari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:15.109118921Z",
+  "model": "glm-5.3"
+}

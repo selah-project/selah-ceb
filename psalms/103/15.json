@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Ang tawo — ingon sa sagbot ang iyang mga adlaw; ingon sa bulak sa kapatagan, mao man siya mamulak.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Ang tawo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ingon sa sagbot"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iyang mga adlaw"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "ingon sa bulak"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao man"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mamulak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:04.851874794Z",
+  "model": "glm-5.3"
+}

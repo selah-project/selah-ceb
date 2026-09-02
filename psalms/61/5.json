@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 61,
+  "translation": "Magapuyo ako sa imong tolda hangtod sa mga panahon ⟨sa kalangitan⟩, magapanimbahin ako sa tagong dapit sa imong mga pako. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "magapuyo ako"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa imong tolda"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "hangtod sa mga panahon"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "magapanimbahin ako"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagong dapit"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa imong mga pako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.798348665Z",
+  "model": "glm-5.3"
+}

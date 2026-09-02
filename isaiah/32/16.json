@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug molungtad sa kamingaw ang katarungan, ug ang kaangayan molingkod ⟨sa⟩ karmel.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Ug molungtad"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "katarungan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kaangayan"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "sa karmel"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "molingkod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:07.040549880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Mobalik ang mga dautan ngadto sa Sheol, ⟨ug⟩ ⟨ang⟩ tanang mga nasud nga nakalimot ⟨kang⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "ngadto sa Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "nga nakalimot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:03.154536082Z",
+  "model": "glm-5.3"
+}

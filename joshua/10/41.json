@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gipamatuod ni Yehoshua ang paglaglag gikan sa Kadesh-Barnea hangtod sa Azzah, ug ⟨את⟩ ang tibuok yuta sa Goshen hangtod sa Givon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "gilaglag niya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "gikan sa Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "-Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tibuok yuta sa Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "sa Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:44.747742769Z",
+  "model": "glm-5.3"
+}

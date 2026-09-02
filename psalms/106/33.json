@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Kay gipakapait nila ⟨את⟩ ang iyang espiritu, ug nangisultang padaliay siya sa iyang mga ngabil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "gipakapait nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang espiritu"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang iyang espiritu"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "ug nangisultang padaliay"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "sa iyang mga ngabil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.644687900Z",
+  "model": "glm-5.3"
+}

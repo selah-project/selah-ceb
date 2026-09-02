@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Dayegon si Yahweh, ang Elohim ni Yisrael, gikan sa kahangtud ngadto sa kahangtud; ug moingon ang tanan nga ⟨mga⟩ tawo: Amin. Pagdayeg kamo kang Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayegon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kahangtud"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kahangtud"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga mga tawo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.182430403Z",
+  "model": "glm-5.3"
+}

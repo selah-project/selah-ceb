@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ako ⟨ang⟩ Yahweh, ang imong Elohim, nga naggula kanimo gikan sa yuta sa Mitsrayim, gikan sa balay sa pagkaulipon.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "naggula kanimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sa pagkaulipon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:59.337069807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 23:18",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kay kinsa ang nagbarug sa sod ni Yahweh ug nakakita ug nakadungog ⟨את⟩ sa iyang pulong? Kinsa ang nagpatingog sa akong pulong ug nakadungog?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagbarug"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sa sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakakita"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang pulong"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa iyang pulong"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "nagpatingog"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa akong pulong"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug nakadungog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:22:27.241248733Z",
+  "model": "glm-5.3"
+}

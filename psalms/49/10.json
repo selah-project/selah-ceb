@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ug ⟨mabuhi⟩ pa siya hangtod sa kahangturan, dili niya makita ang ⟨silot sa⟩ kuwang.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ug mabuhi pa siya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ang kuwang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:59.451034477Z",
+  "model": "glm-5.3"
+}

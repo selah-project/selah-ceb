@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Ang ilang mga sapot dili mahimong bisti, ug dili sila makatabon sa ilang mga buhat; ang ilang mga buhat ⟨mga⟩ buhat sa kadautan, ug buhat sa biolensya anaa sa ilang mga palad.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "ang ilang mga sapot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "bisti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "makatabon"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "sa ilang mga buhat"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ang ilang mga buhat"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mga buhat"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadautan"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ug buhat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sa biolensya"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "sa ilang mga palad"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:31.080410768Z",
+  "model": "glm-5.3"
+}

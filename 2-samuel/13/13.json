@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 13:13",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug ako — asa ⟨ba⟩ ako magadala sa ⟨את⟩ akong kaulawan? Ug ikaw mahimong ingon sa usa sa mga nabalamat sa Yisrael. Ug karon, sulti ⟨palihog⟩ ngadto sa hari, kay dili siya magpugong kanako gikan kanimo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ug ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "ako magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong kaulawan"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "akong kaulawan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ingon sa usa"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "sa mga nabalamat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sulti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨palihog⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימנעני",
+      "gloss": "siya magpugong kanako"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:32.103374738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gibutang nila diha kanila ang mga pulong sa iyang mga timailhan, ug mga katingalahan sa yuta sa Kham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "gibutang nila"
+    },
+    {
+      "surface": "בם",
+      "gloss": "diha kanila"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "sa iyang mga timailhan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ug mga katingalahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "sa Kham"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:13.242218050Z",
+  "model": "glm-5.3"
+}

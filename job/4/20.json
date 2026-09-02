@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gikan sa buntag hangtod sa gabii pagagilon sila ⟨sa walay pagbantay⟩; hangtod sa kahangtay mapunaw sila.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "Gikan sa buntag"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "hangtod sa gabii"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "pagagilon sila"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sa walay"
+    },
+    {
+      "surface": "משים",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangtay"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mapunaw sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:49.475617873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug mitingog ang hari, ug naghimo sila ug usa ka kahon, ug gibutang nila kini sa ganghaan sa balay ni Yahweh, sa gawas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mitingog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug naghimo sila"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ug gibutang nila kini"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "sa gawas"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:28.711847087Z",
+  "model": "glm-5.3"
+}

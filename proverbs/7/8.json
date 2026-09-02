@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Naglabang sa karsada duol sa iyang eskinina, ug padulong sa dalan sa iyang balay nagpanaog siya sa mga lakang.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "naglabang"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sa karsada"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "duol sa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "eskinina niya"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ug ang dalan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "nagpanaog siya sa mga lakang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:16.484462536Z",
+  "model": "glm-5.3"
+}

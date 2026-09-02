@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Busa gipakunhod niya sa kawalay-sulod ang ilang mga adlaw, ug ang ilang mga tuig sa kahadlok.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "gipakunhod niya"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "sa kawalay-sulod"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ang ilang mga adlaw"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ug ang ilang mga tuig"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "sa kahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:27.011320867Z",
+  "model": "glm-5.3"
+}

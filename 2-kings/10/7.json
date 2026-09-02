@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nahitabo, sa pag-abot sa sulat kanila, nga gikuha nila ⟨את⟩ ang mga anak sa hari, ug gintay-i nila ang pitumpung ka tawo, ug gibutang nila ⟨את⟩ ang ilang mga ulo sa sulod sa mga basket, ug gipadala ngadto kaniya sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "sa sulat"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ug gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sa hari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "ug gintay-i nila"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pitumpung"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ug gibutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga ulo"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ang ilang mga ulo"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "sa sulod sa mga basket"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "sa Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:44.845877680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Maayo ang pagsaulod sa pagpasalamat kang Yahweh, ug ang pag-awit sa pagdayeg sa imong ngalan, El Elyon ⟨ang Labaw nga Tanan⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ang pagsaulod sa pagpasalamat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "ug ang pag-awit sa pagdayeg"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:30.355642538Z",
+  "model": "glm-5.3"
+}

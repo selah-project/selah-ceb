@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sa adlaw nga ikakawhaan ug upat, sa ikanom nga bulan, sa ikaduhang tuig ni Daryavesh ⟨ang⟩ hari.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nga ikakawhaan"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ug upat"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "sa ikanom"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "sa ikaduhang"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "ni Daryavesh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:22.660775524Z",
+  "model": "glm-5.3"
+}

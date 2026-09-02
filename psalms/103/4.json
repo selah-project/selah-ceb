@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Kadtong nagabawi sa imong kinabuhi gikan sa kadaotan, kadtong nagakoronar kanimo ug hesed (mahigugmaong kalolooy) ug kalolooy.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Kadtong nagabawi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "gikan sa kadaotan"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "imong kinabuhi"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "kadtong nagakoronar kanimo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "ug kalolooy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:13.117208058Z",
+  "model": "glm-5.3"
+}

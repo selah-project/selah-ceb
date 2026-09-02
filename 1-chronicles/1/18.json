@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Arpakshad natawo ⟨את⟩ si Shelakh, ug si Shelakh natawo ⟨את⟩ si Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ug si Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "si Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ug si Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "si Ever"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:32.283795460Z",
+  "model": "glm-5.3"
+}

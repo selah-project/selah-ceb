@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gipakamayori siya ⟨nga⟩ gamay lang gayod ⟨sa⟩ Elohim, ug himaya ug kahalanggan imong gikoronahan siya.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "Gipakamayori siya"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gamay lang gayod"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "⟨sa⟩ Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ug himaya"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ug kahalanggan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "imong gikoronahan siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:34.549795061Z",
+  "model": "glm-5.3"
+}

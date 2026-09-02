@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh naghikoy sa kamingaw; naghikoy si Yahweh sa kamingaw sa Kadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "naghikoy"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "naghikoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:23.983497800Z",
+  "model": "glm-5.3"
+}

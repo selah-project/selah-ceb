@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kon ang iyang mga anak mobiya sa akong Torah, ug sa akong mga pagtadol dili sila molakaw —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "mobiya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sa akong Torah"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ug sa akong mga pagtadol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "sila molakaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.000772034Z",
+  "model": "glm-5.3"
+}

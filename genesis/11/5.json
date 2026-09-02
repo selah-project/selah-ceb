@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nanawog si Yahweh sa pagtan-aw ⟨את⟩ ⟨sa⟩ dakbayan ug ⟨את⟩ ⟨sa⟩ torre nga gitukod sa mga anak ⟨sa⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nanawog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang torre"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ang torre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:29.782272577Z",
+  "model": "glm-5.3"
+}

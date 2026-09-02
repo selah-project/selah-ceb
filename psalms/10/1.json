@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ngano nga, Yahweh, nagatindog ka sa halayo, nagatago ka sa mga panahon sa kalisod?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ngano nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "nagatindog ka"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "sa halayo"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "nagatago ka"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "sa mga panahon"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sa kalisod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:19.460032921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug magbantay kamo ⟨את⟩ sa pagbantay sa balaang butang ug ⟨את⟩ sa pagbantay sa halaran, aron dili na pag-usab adunay kasuko ⟨sa⟩ mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ug magbantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagbantay sa balaang butang"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaang butang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa pagbantay sa halaran"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aron dili na"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kasuko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:38:47.126625480Z",
+  "model": "glm-5.3"
+}

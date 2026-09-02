@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kini nga imong tag-as nga pagkatawo nagkahisama sa tamara, ug ang imong mga suso sa mga cluster sa ubas.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "imong tag-as nga pagkatawo"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "nagkahisama"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "sa tamara"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "ug ang imong mga suso"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "sa mga cluster"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:25.428237820Z",
+  "model": "glm-5.3"
+}

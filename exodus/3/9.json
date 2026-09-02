@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug karon, ania kini: ang pagpanawgit sa mga anak ni Yisrael moabot kanako, ug nakita usab nako ⟨את⟩ ang pagpugos nga ang mga Mitsri nagapugos ⟨את⟩ kanila.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ang pagpanawgit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "באה",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagpugos"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ang pagpugos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang mga Mitsri"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "nagapugos"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:55.802354112Z",
+  "model": "glm-5.3"
+}

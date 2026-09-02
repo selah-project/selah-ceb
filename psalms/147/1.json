@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Pagdayeg kamo kang Yah, kay maayo ang pag-awit sa atong Elohim, kay malipayon ⟨kini⟩, ang pagdayeg matahum ⟨nga bait⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ang pag-awit"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "matahum ⟨nga bait⟩"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ang pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:14.535863791Z",
+  "model": "glm-5.3"
+}

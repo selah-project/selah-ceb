@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug buhaton ko kanimo ⟨ang⟩ ⟨את⟩ nga wala ko pa ⟨kabuhat⟩, ug ⟨ang⟩ ⟨את⟩ nga dili na nako buhaton ang sama niini pag-usab, tungod sa tanan nimong mga kahalangdon.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "ug buhaton ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga wala ko pa kabuhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kabuhat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nga dili na nako buhaton"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "buhaton ko"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sama niini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "יען",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "mga kahalangdon nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:33:55.158786923Z",
+  "model": "glm-5.3"
+}

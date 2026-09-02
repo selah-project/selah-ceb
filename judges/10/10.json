@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nangaliyo ang mga anak ni Yisrael kang Yahweh nga nag-ingon: Nagpakasala kami kanimo, kay gibiyaan man namon ⟨את⟩ ang among Elohim ug gialagad namon ⟨את⟩ ang mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Ug nangaliyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Nagpakasala kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "gibiyaan man namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang among Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang among Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ug gialagad namon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ang mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-01T20:10:14.279077585Z",
+  "model": "glm-5.3"
+}

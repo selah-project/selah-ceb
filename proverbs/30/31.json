@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ang zarzir ⟨sa⟩ hawak, ug ang tayish, ug ang hari — walay mobangon ⟨batok⟩ kaniya.",
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "zarzir"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "או",
+      "gloss": "ug"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "tayish"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "walay mobangon"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:51.120467010Z",
+  "model": "glm-5.3"
+}

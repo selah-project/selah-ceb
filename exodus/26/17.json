@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Duha ka yad alang sa usa ka tabla, magkasulid ⟨ang usa⟩ ngadto sa ⟨iyang⟩ igsoon; mao kini ang buhaton mo alang sa tanang tabla sa tabernakulo.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "yad"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "alang sa usa ka tabla"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨ang usa⟩"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "magkasulid"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "igsoon niini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buhaton mo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanang"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:57.990082960Z",
+  "model": "glm-5.3"
+}

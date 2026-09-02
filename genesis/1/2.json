@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ⟨ang⟩ yuta ⟨was⟩ tohu ug bohu, ug kangitngit ⟨was⟩ ibabaw sa nawong sa tehom, ug ang ruah ni Elohim naglupad-lupad ibabaw sa nawong sa ⟨mga⟩ tubig.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ug ⟨ang⟩ yuta"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨was⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ug bohu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ug kangitngit"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong sa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug ang ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "naglupad-lupad"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨mga⟩ tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:54.210496244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gipagawas niya ang mga sulog gikan sa bato, ug gipaubos niya ang mga tubig sama sa mga suba.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ug gipagawas niya"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "ang mga sulog"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "gikan sa bato"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ug gipaubos niya"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "sama sa mga suba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:03.847395127Z",
+  "model": "glm-5.3"
+}

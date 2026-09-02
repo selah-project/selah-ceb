@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Nahilum ako, wala ako magbukakas sa akong baba; kay ikaw ⟨ang⟩ nagbuhat niini.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nahilum ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "magbukakas ako"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akong baba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nagbuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:54.703699854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Kay gikawat gayod ako gikan sa yuta sa mga Ebreo, ug dinhi usab wala ako makabuhat ug bisan unsa kay gibutang nila ⟨את⟩⟨ako⟩ sa boro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "gikawat"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "gayod ako gikawat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "sa mga Ebreo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "פה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ako makabuhat"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ug bisan unsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "gibutang nila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "sa boro"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:21.939238372Z",
+  "model": "glm-5.3"
+}

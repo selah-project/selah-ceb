@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 26:37",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug madasmag ang usag usa sa iyang igsoon, ingon sa atubangan sa espada, apan walay nangudol; ug walay pagbarog alang kaninyo sa atubangan sa inyong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "madasmag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usag usa"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "כמפני",
+      "gloss": "ingon sa atubangan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "apan nagdako ug pagpangudol"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "angkan"
+    },
+    {
+      "surface": "תקומה",
+      "gloss": "pagbarog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sa inyong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:15.833188047Z",
+  "model": "glm-5.3"
+}

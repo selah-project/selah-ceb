@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 18:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kagilapa sa anak nga babae sa asawa sa imong amahan, nga kaliwat sa imong amahan — igsoon nga babae nimo ⟨siya⟩ — ang iyang kagilapa ayaw nimo ⟨paghubaron⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kagilapa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "igsoon nga babae nimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paghubaron"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "iyang kagilapa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:30.195506508Z",
+  "model": "glm-5.3"
+}

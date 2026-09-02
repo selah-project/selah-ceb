@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug giinput niya ⟨את⟩ ang mga baras sa mga singsing sa mga kilid sa halaran, aron dad-on ⟨את⟩ kini pinaagi nila; ginhimo niya ⟨את⟩ kini nga guwang, ⟨gikan sa⟩ mga tabla.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "giinput niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baras"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga baras"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "sa mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mga kilid"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "aron dad-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paagi nila"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "guwang"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mga tabla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ginhimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:41.371867905Z",
+  "model": "glm-5.3"
+}

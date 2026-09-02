@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gihatag mo kanako ang lungga sa imong kaluwas, ug ang imong too nga kamot nagsuporta kanako, ug ang imong kauban nakadako ako.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "Ug gihatag mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang lungga"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "sa imong kaluwas"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ug ang imong too nga kamot"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "nagsuporta kanako"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "ug ang imong kauban"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "nakadako ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:07.297051164Z",
+  "model": "glm-5.3"
+}

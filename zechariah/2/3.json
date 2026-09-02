@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gipakita ni Yahweh kanako ang upat ka mga panday.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ug gipakita kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mga panday"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:29.560392601Z",
+  "model": "glm-5.3"
+}

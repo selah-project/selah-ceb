@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 1:7",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gipanganak ang pangalan sa ilang mga ngalan ang pangulo sa mga saris: ug gipanganak kang Daniyel ang Beltshatsar, ug kang Khananyah ang Shadrakh, ug kang Misha'el ang Meshakh, ug kang Azaryah ang Avded-Nego.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sa mga saris"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "לדניאל",
+      "gloss": "kang Daniyel"
+    },
+    {
+      "surface": "בלטשאצר",
+      "gloss": "Beltshatsar"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "ug kang Khananyah"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "ולמישאל",
+      "gloss": "ug kang Misha'el"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakh"
+    },
+    {
+      "surface": "ולעזריה",
+      "gloss": "ug kang Azaryah"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Avded"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:24.900133563Z",
+  "model": "glm-5.3"
+}

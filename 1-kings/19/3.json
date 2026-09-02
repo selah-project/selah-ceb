@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug nakita niya ⟨kini⟩, ug mitindog siya ug milakaw padulong sa iyang kalag ⟨kinabuhi⟩, ug miabot sa Beer-Sheba nga sakop sa Yehuda, ug gipahulay niya ⟨את⟩ ang iyang sulogoon didto.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kalag"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sakop sa Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "gipahulay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang sulogoon"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "iyang sulogoon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:56.602694239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Tumindog ka, kay kanimo ang butang, ug kami uban kanimo; paglig-on ka ug buhata.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ug kami"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uban kanimo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "paglig-on ka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhata"
+    }
+  ],
+  "timestamp": "2026-09-01T23:03:10.242314010Z",
+  "model": "glm-5.3"
+}

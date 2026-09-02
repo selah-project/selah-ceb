@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Sa ilang kadaotan naglipay sila sa hari, ug sa ilang mga bakak — ang mga pangulo.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "sa ilang kadaotan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "naglipay sila"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "ug sa ilang mga bakak"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga pangulo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:11.403923290Z",
+  "model": "glm-5.3"
+}

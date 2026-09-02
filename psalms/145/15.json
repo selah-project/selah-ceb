@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ang mga mata sa tanan nanghinaut ngadto Kanimo, ug Ikaw nagahatag kanila ⟨את⟩ ang ilang pagkaon sa takna nga husto.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto Kanimo"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "nanghinaut"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug Ikaw"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pagkaon"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ang ilang pagkaon"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa takna nga husto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.305942167Z",
+  "model": "glm-5.3"
+}

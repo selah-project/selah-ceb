@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug nakita ni Yahweh nga gidumtan si Leah, ug gibuksan niya ⟨את⟩ iyang tagoangkan, apan si Rachel mga baog.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "gidumtan"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "si Leah"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "gbuksan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang tagoangkan"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "tagoangkan"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "apan si Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mga baog"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:07.912676410Z",
+  "model": "glm-5.3"
+}

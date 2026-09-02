@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Bantayi ang akong kalag ug luwasa ako; ayaw pagtugota nga mahiubos ako, kay kanimo ako nangiloy.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Bantayi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw pagtugota"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "mahiubos ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nangiloy ako"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:05.279792332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Nagabantay Yahweh sa mga yano ⟨⟨⟩⟩; gipaubos ako, ug siya naghimo sa kaluwas alang kanako.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "sa mga yano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "gipaubos ako"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ug alang kanako"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "naghimo sa kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:14.228573621Z",
+  "model": "glm-5.3"
+}

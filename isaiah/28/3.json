@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "⟨Sa⟩ mga tiil pagkatapakon ang korona sa kahambugan, mga hubog sa Efrayim.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "⟨sa⟩ mga tiil"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "pagkatapakon"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "kahambugan"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "mga hubog"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:40.034617143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Pinaagi sa pagdungog sa igdulungog nakadungog ako kanimo, apan karon ang akong mata nakakita kanimo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "pinaagi sa pagdungog"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "igdulungog"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nakadungog ako kanimo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "apan karon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "nakakita kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:03.885017348Z",
+  "model": "glm-5.3"
+}

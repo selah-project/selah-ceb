@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang mga anak ni Yehoyakim: si Yekhonyah ⟨ang iyang anak⟩, si Tsidkiyahu ⟨ang iyang anak⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "si Yekhonyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨ang iyang anak⟩"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨ang iyang anak⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:16.393105151Z",
+  "model": "glm-5.3"
+}

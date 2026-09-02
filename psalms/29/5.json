@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagabuak sa mga sedro; Oo, gibuak ni Yahweh ⟨את⟩ ang mga sedro sa Levanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "nagabuak"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ang mga sedro"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "gibuak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sedro sa Levanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ang mga sedro"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "sa Levanon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:23.983044701Z",
+  "model": "glm-5.3"
+}

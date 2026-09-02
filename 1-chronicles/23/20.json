@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Mga anak ni Uzziel: si Mikha ⟨ang⟩ pangulo, ug si Yishiyah ang ikaduhang.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzziel"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨ang⟩ pangulo"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ug si Yishiyah"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduhang"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:30.175482288Z",
+  "model": "glm-5.3"
+}

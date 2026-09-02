@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Umauli kamo, tan-awa ang mga buhat ni Yahweh, nga nagbutang ⟨sa⟩ mga kagun-ob sa yuta.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umauli kamo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga kagun-ob"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:00.526476739Z",
+  "model": "glm-5.3"
+}

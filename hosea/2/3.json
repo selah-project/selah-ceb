@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ingna ang inyong mga igsoon: Akong katawhan, ug ang inyong mga igsoon nga babaye: Gikaloy-an.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Ingna"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "ang inyong mga igsoon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Akong katawhan"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ug ang inyong mga igsoon nga babaye"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Gikaloy-an"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:58.757742601Z",
+  "model": "glm-5.3"
+}

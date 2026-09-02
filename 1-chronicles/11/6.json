@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 11:6",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug si David miingon: \"Ang tanan nga mopatay sa Yebusite ⟨una⟩ mahimong pangulo ug kapitan.\" Ug si Yoab, anak ni Tseruyah, mao ang ⟨nanguna⟩, ug nahimong pangulo ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "nga mopatay"
+    },
+    {
+      "surface": "יבוסי",
+      "gloss": "sa Yebusite"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "⟨una⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "ולשר",
+      "gloss": "ug kapitan"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "Ug mianhi"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "mao ang nanguna"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ni Tseruyah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "pangulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:26.091012454Z",
+  "model": "glm-5.3"
+}

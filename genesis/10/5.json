@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gikan niini nagbahin ang mga isla sa mga nasod ⟨sa⟩ ilang mga yuta, matag tawo sumala sa iyang pinulongan, sumala sa ilang mga banay, ⟨sa⟩ ilang mga nasod.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Gikan niini"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "nagbahin"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ang mga isla"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "⟨sa⟩ ilang mga yuta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "sumala sa iyang pinulongan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "⟨sa⟩ ilang mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:07.034163293Z",
+  "model": "glm-5.3"
+}

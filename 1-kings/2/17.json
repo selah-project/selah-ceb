@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon siya: Panulti kuno kang Shelomoh ⟨ang hari⟩, kay dili niya itangtang ⟨את⟩ ang imong panagway, ug ihatag niya kanako si Avishag nga Shunamita nga ⟨mahimong⟩ asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Panulti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kang Shelomoh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨ang hari⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "itangtang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong panagway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong panagway"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "si Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "nga Shunamita"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga ⟨mahimong⟩ asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:53.466330468Z",
+  "model": "glm-5.3"
+}

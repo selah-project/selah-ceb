@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug pangutan-on sa hari ang babaye, ug gisulti niya kaniya. Ug gihatagan siya sa hari ug usa ka saris, nga nag-ingon: Iuli ⟨את⟩ ang tanan nga iya, ug ⟨את⟩ ang tanan nga abot sa uma, gikan sa adlaw nga biyaan niya ⟨את⟩ ang yuta hangtod karon.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "ug pangutan-on"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ang babaye"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "ug gisulti niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatagan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "iuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga abot sa uma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "abot"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "gikan sa adlaw"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "nga biyaan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:27.410068364Z",
+  "model": "glm-5.3"
+}

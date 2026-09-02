@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Apan ako sa kanunay maglaom, ug magadugang ako ⟨sa pagdayeg⟩ sa tanan nimong pagdayeg.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "maglaom"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "ug magadugang ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nimong pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:45.227505432Z",
+  "model": "glm-5.3"
+}

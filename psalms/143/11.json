@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Tungod sa imong Ngalan, Yahweh, pabuhi ⟨pagbinhi⟩ ako; sa imong pagkamatarong paggawasa ⟨gikan sa kagul-anan⟩ ang akong nefesh.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Tungod sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "pabuhi ako"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imong pagkamatarong"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "paggawasa"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "gikan sa kagul-anan (kagut-ot)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:23.570901178Z",
+  "model": "glm-5.3"
+}

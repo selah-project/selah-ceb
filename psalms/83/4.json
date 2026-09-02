@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Batok sa imong katawhan nagpaningkamot sila ug tinago nga pagpanaghisgot, ug nagpanaghisgot sila batok sa imong mga gitagoan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imong katawhan"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "nagpaningkamot sila ug tinago"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "pagpanaghisgot"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "ug nagpanaghisgot sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "imong mga gitagoan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:04.433696925Z",
+  "model": "glm-5.3"
+}

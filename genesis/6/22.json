@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gibuhat ni Noach sumala sa tanan nga gisugo ni Elohim ⟨את⟩ kaniya, mao kini ang iyang gibuhat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat ni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya (si Noach)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang iyang gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:07.360221346Z",
+  "model": "glm-5.3"
+}

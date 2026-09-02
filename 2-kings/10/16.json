@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miingon siya: Umari ka ⟨את⟩ kanako, ug tan-awa ang akong kahingkow alang kang Yahweh. Ug gipalunday nila ⟨את⟩ siya sa iyang karwasa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "umari ka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanako"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ang akong kahingkow"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "ug gipalunday nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Yehonadab"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "sa iyang karwasa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:53.988260205Z",
+  "model": "glm-5.3"
+}

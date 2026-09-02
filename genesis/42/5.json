@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": " ug ang mga anak ni Yisrael miadto sa pagpalit ⟨sa⟩ taliwala sa mga miabot, kay ⟨naa⟩ ang kagutom sa yuta sa Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ug miadto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sa pagpalit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "sa mga miabot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ang kagutom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:08.486973966Z",
+  "model": "glm-5.3"
+}

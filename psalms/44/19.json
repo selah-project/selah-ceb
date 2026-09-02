@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Wala natong gipahimutang ang atong kasingkasing sa luyo, ni wala mihisgot ang atong mga lakang gikan sa imong dalan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "gipahimutang sa luyo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ang atong kasingkasing"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "ni wala mihisgot"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "ang atong mga lakang"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "imong dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:44.651684363Z",
+  "model": "glm-5.3"
+}

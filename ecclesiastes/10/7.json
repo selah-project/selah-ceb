@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Nakita nako ang mga sulug-on nga nagsakay sa mga kabayo, ug ang mga prinsipe nga naglakaw ingon mga sulug-on sa ibabaw sa yuta.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ang mga sulug-on"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "mga kabayo"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ug ang mga prinsipe"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nga naglakaw"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ingon mga sulug-on"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:28.306158373Z",
+  "model": "glm-5.3"
+}

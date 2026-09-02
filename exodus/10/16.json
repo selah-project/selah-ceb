@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug madali nga gitawag ni Paro si Moshe ug si Aharon, ug miingon: Nakasala ako ngadto kang Yahweh, sa inyong Elohim, ug ngadto kaninyo.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "madali nga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "ug si Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakasala ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sa inyong Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ug ngadto kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:56.310612648Z",
+  "model": "glm-5.3"
+}

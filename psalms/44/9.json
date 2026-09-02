@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Sa Elohim nagdayeg kami sa tibuok adlaw, ug sa imong ngalan magpasalamaton kami sa dayon. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Sa Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "nagdayeg kami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ug sa imong ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa dayon"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "magpasalamaton kami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:44.442954131Z",
+  "model": "glm-5.3"
+}

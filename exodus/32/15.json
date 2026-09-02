@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 32:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug milingi si Moshe ug mikunsad gikan sa bukid, ug ang duha ka lapida sa pagsaksi anaa sa iyang kamot — mga lapida nga nakasulat sa ilang duha ka kilid, gikan dinhi ug gikan didto, sila nakasulat.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ug milingi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ug mikunsad"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ug ang duha ka"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lapida"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sa pagsaksi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "mga lapida"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "משני",
+      "gloss": "sa ilang duha ka"
+    },
+    {
+      "surface": "עבריהם",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan dinhi"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ug gikan didto"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כתבים",
+      "gloss": "nakasulat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:12.446247090Z",
+  "model": "glm-5.3"
+}

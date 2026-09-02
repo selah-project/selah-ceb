@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Mibangon si Avraham sayo sa buntag ngadto sa dapit diin siya nanindog dida atubang ⟨את⟩ sa panagway ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "mibangon sayo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nanindog"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa panagway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa panagway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:44.232472734Z",
+  "model": "glm-5.3"
+}

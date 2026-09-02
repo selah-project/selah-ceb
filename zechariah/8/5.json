@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang mga kadalanan sa ⟨ang⟩ siyudad pagapun-on sa mga batang lalaki ug mga batang babaye, nga nagdula sa mga kadalanan niini.",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "Ug ang mga kadalanan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "pagapun-on"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "mga batang lalaki"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "ug mga batang babaye"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "nga nagdula"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "sa mga kadalanan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:45.392917137Z",
+  "model": "glm-5.3"
+}

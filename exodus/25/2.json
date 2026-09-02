@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Isulti mo sa mga anak ni Yisrael, ug mokuha sila alang kanako og terumah ⟨nga tanyag⟩; gikan sa ⟨את⟩ tanan nga tawo nga iyang kasingkasing nagapahimuslan kaniya sa pagtanyag, kuhaa ninyo ⟨את⟩ ang akong terumah.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ug mokuha sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan sa ⟨את⟩",
+      "marks": "tanan nga tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "nagapahimuslan sa pagtanyag"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaa ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong terumah"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "ang akong terumah"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:42.076213529Z",
+  "model": "glm-5.3"
+}

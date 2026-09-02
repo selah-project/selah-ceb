@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug si David miingon: Buhi si Yahweh; gani si Yahweh ang mosimhot kaniya, o moabot ang iyang adlaw ug mamatay ⟨siya⟩, o sa gubat molugsong siya ug malaglag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Buhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ang mosimhot kaniya"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ang iyang adlaw"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ug mamatay"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "molugsong"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ug malaglag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:06.720600776Z",
+  "model": "glm-5.3"
+}

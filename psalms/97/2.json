@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Panganod ug kangitngit ⟨ang⟩ palibot niya; pagkamatarong ug hustisya ⟨ang⟩ pundasyon sa iyang trono.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "panganod"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ug kangitngit"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "palibot niya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug hustisya"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pundasyon"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sa iyang trono"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:05.840472470Z",
+  "model": "glm-5.3"
+}

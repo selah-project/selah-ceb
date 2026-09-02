@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Gikuha ni Moshe ⟨את⟩ ang mga karwahe ug ⟨את⟩ ang mga baka, ug gihatag niya kini ⟨את⟩ ngadto sa mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gikuha ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga karwahe"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ang mga karwahe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga baka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ang mga baka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatad niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ngadto sa mga Levita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:39.740770722Z",
+  "model": "glm-5.3"
+}

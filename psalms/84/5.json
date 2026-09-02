@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 84,
+  "translation": "Maayo ang kahimtang sa mga nanagpuyo sa imong balay, sa gihapon gitahuran ka nila. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Maayo ang kahimtang"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sa mga nanagpuyo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa gihapon"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "gitahuran ka nila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:27.930857193Z",
+  "model": "glm-5.3"
+}

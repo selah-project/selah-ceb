@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Ug nagpagula ⟨niya⟩ kang Yisrael gikan sa taliwala nila, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ug nagpagula"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "gikan sa taliwala nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:44.826742594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 28:18",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Sa mga korales ug sa gabish dili {{ma}}hisgutan ⟨kini⟩, ug ang bili sa kinaadman labaw pa sa mga perlas.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "Sa mga korales"
+    },
+    {
+      "surface": "וגביש",
+      "gloss": "ug sa gabish"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mahisgutan"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ug ang bili"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sa kinaadman"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "sa mga perlas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:57.915716406Z",
+  "model": "glm-5.3"
+}

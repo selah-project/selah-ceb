@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ra ⟨nga⟩ sa yuta sa Goshen, diin ⟨ang⟩ mga anak ni Yisrael ⟨⟨anaa⟩⟩, walay yelo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨anaa⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "yelo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:30.073868070Z",
+  "model": "glm-5.3"
+}

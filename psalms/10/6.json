@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Nagiingon siya sa iyang kasingkasing: Dili ako mahisala, sukad sa kaliwatan hangtod sa kaliwatan, ⟨kay⟩ dili ⟨ako mahitabo⟩ sa kadaot.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nagiingon"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "mahisala"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "suwad sa kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "hangtod sa kaliwatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:08.891582751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang naggukod sa matag usa ka mata maghatag ug kaguol, ug ang ulol sa mga ngabil matumba.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "naggukod"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "kaguol"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ug ang ulol"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "matumba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:36.597238144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Ngano nga nagpasigarbo ka sa kadautan, O gamhanan? ⟨Ang⟩ hesed ni El ⟨naa⟩ sa tibuok adlaw.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ngano nga"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "nagpasigarbo ka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kadautan"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "O gamhanan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:37.657756545Z",
+  "model": "glm-5.3"
+}

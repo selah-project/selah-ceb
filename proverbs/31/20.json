@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Iyang gipatigayon ang iyang palad ngadto sa kabus, ug iyang gipadala ang iyang mga kamot ngadto sa nagkinahanglan.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "ang iyang palad"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "gipatigayon niya"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ngadto sa kabus"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ug ang iyang mga kamot"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "gipadala niya"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ngadto sa nagkinahanglan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:22.410525265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Paminawa ang pulong ni Yahweh, mga mangulo sa Sedom; papaha ang mga dalunggan sa Torah sa atong Elohim, katawhan sa Amorah.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "mga mangulo"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "sa Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "papaha ang mga dalunggan"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "sa Amorah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:43.011841240Z",
+  "model": "glm-5.3"
+}

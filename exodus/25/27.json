@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Atbang sa borders ang mga singsing magapabilin, ⟨ingon⟩ mga dapit alang sa mga payong-pagbitin, sa pagbitin ⟨את⟩ ang lamesa.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ang borders"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "magapabilin"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ang mga singsing"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "mga dapit"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "sa mga payong"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagbitin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:44.453657337Z",
+  "model": "glm-5.3"
+}

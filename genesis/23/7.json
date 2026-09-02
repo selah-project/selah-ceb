@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug mitindog si Avraham ug mipakuyog sa katawhan sa yuta, ngadto sa mga anak ni Khet.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mipakuyog"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngadto sa mga anak"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:20.066328826Z",
+  "model": "glm-5.3"
+}

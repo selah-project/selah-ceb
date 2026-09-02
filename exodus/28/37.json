@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug ibutang nimo kini ⟨את⟩ sa habel nga tekhelet, ug kini anha ⟨sa⟩ turban, atbang sa nawong sa turban kini ⟨mahimong⟩.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ug ibutang nimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang plato nga bulawan)"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "habel"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug kini anha"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turban"
+    },
+    {
+      "surface": "אל",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "מול",
+      "gloss": "sa atbang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "sa turban"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini mahimong"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:47.193342037Z",
+  "model": "glm-5.3"
+}

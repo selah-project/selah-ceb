@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gipadaba sa hari ngadto kang Ester ⟨את⟩ ang bulawanong setro, ug mitindog si Ester ug nagbarog sa atubangan sa hari.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "ug gipadaba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kang Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulawanong setro"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "setro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bulawanong"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ug nagbarog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:52.494169968Z",
+  "model": "glm-5.3"
+}

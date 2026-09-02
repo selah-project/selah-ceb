@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang Emorihan nagsukol ⟨את⟩ sa mga anak ni Dan ngadto sa kabukiran, kay wala nila tugotan ⟨siya⟩ nga manultol ngadto sa walog.",
+  "tokens": [
+    {
+      "surface": "וילחצו",
+      "gloss": "nagsukol"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emorihan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga anak ni Dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ni Dan"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "ngadto sa kabukiran"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nila tugotan"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "nga manultol"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ngadto sa walog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:52.334718491Z",
+  "model": "glm-5.3"
+}

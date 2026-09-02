@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Elohim, ⟨ikaw⟩ nakahibalo sa akong kahambuganon; ug ang akong mga sala gikan kanimo wala ⟨maltago⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "sa akong kahambuganon"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ug ang akong mga sala"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "maltago"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:30.894777884Z",
+  "model": "glm-5.3"
+}

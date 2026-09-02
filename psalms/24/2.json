@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kay ⟨siya⟩ ang nagtukod niini ibabaw sa mga dagat, ug nagpatindog niini ibabaw sa mga suba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "nagtukod niini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug ibabaw sa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga suba"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "nagpatindog niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.052605673Z",
+  "model": "glm-5.3"
+}

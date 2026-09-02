@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang pagkaon ni Shelomoh alang sa usa ka adlaw: katloan ka kor sa fine nga harina ug lunganon ka kor sa harina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "alang sa usa ka adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan ka"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fine nga harina"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ug lunganon ka"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "harina"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:18.570671781Z",
+  "model": "glm-5.3"
+}

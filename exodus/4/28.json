@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gisulti ni Moshe kang Aharon ⟨את⟩ tanan nga mga pulong ni Yahweh nga iyang gipadala, ug ⟨את⟩ tanan nga mga timailhan nga iyang gisugo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "gisulti niya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "kang Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gipadala niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga timailhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "mga timailhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "gisugo niya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:12.272622708Z",
+  "model": "glm-5.3"
+}

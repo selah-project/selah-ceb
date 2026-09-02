@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Aron makalahi taliwala sa dili mahinlo ug sa mahinlo, ug taliwala sa binuhat nga mahimong kaonon ug sa binuhat nga dili ⟨mahimong⟩ kaonon.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "Aron makalahi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "sa dili mahinlo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "sa mahinlo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sa binuhat"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "nga mahimong kaonon"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "sa binuhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kaonon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:42.142170946Z",
+  "model": "glm-5.3"
+}

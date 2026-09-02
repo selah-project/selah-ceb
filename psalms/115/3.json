@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Apan ang atong Elohim ⟨naa⟩ sa langit, ang tanan nga iyang gikahoylahoy gibuhat niya ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "apan ang atong Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gikahoylahoy niya"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:36.179608867Z",
+  "model": "glm-5.3"
+}

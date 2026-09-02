@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug dad-on ko ⟨את⟩ kamo ngadto sa yuta nga akong gipatimbong ⟨את⟩ ang akong kamot sa paghatod ⟨את⟩ niini kang Avraham, kang Yitskhak, ug kang Yaakov, ug ihatag ko ⟨את⟩ kini kaninyo isip manununod nga yuta; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "Ug dad-on ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "akong gipatimbong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "akong kamot"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatod"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ niini",
+      "marks": "niini (ang yuta)"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kang Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kang Yitskhak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ug kang Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihatag ko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang yuta)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "manununod nga yuta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:52.681159372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Magpanalangin ⟨kaniya⟩ si Yahweh sa mga nangahadlok kaniya — ang gagmay nga mga tawo uban sa dako nga mga tawo.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "magpanalangin"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ang mga nangahadlok kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ang gagmay nga mga tawo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "dako nga mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:59.396246032Z",
+  "model": "glm-5.3"
+}

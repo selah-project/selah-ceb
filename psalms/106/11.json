@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Uu, nagtabon ang tubig sa ilang mga kagawas — walay bisan usa kanila ang nahibilin.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "nagtabon"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "sa ilang mga kagawas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bisan usa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nahibilin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:24.747684406Z",
+  "model": "glm-5.3"
+}

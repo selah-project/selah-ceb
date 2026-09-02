@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nag-ihap ⟨siya⟩ sa gidaghanon sa mga bitoon; ngadto kanila tanan mga ngalan gitawag ⟨niya⟩.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Nag-ihap"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "gidaghanon"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "sa mga bitoon"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ngadto kanila tanan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "gitawag ⟨niya⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:14.536472439Z",
+  "model": "glm-5.3"
+}

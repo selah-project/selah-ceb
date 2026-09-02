@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Gipangutana ni Shaul si Yahweh, apan wala tuba si Yahweh kaniya — pinaagi sa mga damgo, pinaagi sa Urim, ni pinaagi sa mga propeta.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Gipangutana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "tuba kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "sa mga damgo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "—"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "sa Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "sa mga propeta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:25.360289520Z",
+  "model": "glm-5.3"
+}

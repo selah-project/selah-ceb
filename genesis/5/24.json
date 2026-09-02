@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Naglakaw si Khanokh kauban ⟨את⟩ si Elohim, ug wala na siya, kay gikuha ni Elohim ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "si Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ug wala na siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T00:37:43.656754817Z",
+  "model": "glm-5.3"
+}

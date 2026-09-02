@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Sa pagpanumbaling sa imong hesed (gugma nga matinud-anon) sa kabuntagon, ug sa imong pagkamatinud-anon sa mga gabii,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "sa pagpanumbaling"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kabuntagon"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed (gugma nga matinud-anon)"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ug sa imong pagkamatinud-anon"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:57.248534002Z",
+  "model": "glm-5.3"
+}

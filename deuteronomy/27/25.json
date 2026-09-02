@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Tunglo ang magkuha ug suhol aron patyon ang kalag — dugo nga inosente; ug moingon ang tibook nga katawhan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tunglo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "magkuha ug"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suhol"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "aron patyon"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ang kalag"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nga inosente"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:01.460738377Z",
+  "model": "glm-5.3"
+}

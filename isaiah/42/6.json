@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ako si Yahweh, gitawag tika sa pagkamatarong, ug gakaputan ko ang imong kamot, ug bantayan tika, ug ihatag tika ⟨ingon nga⟩ pakigsaad sa katawhan, ⟨ingon nga⟩ kahayag sa mga nasod.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gitawag tika"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "ug gakaputan ko"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "ug bantayan tika"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ug ihatag tika"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "⟨ingon nga⟩ pakigsaad"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "⟨ingon nga⟩ kahayag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sa mga nasod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:24.960600752Z",
+  "model": "glm-5.3"
+}

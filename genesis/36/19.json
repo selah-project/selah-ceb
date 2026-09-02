@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Kini ang mga anak ni Esav, ug kini ang ilang mga pangulo; siya mao ⟨ang⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kini ang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini ang"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "ilang mga pangulo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mao"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:13.143043288Z",
+  "model": "glm-5.3"
+}

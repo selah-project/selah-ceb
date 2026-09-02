@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kaluoy sa nagasulti sa daotan 'maayo', ug sa maayo 'daotan'; nagabutang sa kangitngit ingon nga kahayag, ug sa kahayag ingon nga kangitngit; nagabutang sa mapait ingon nga matam-is, ug sa matam-is ingon nga mapait!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kaluoy sa"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "nagasulti"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "'maayo'"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ug sa maayo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "'daotan'"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nagabutang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ingon nga kahayag"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ug sa kahayag"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ingon nga kangitngit"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nagabutang"
+    },
+    {
+      "surface": "מר",
+      "gloss": "sa mapait"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ingon nga matam-is"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ug sa matam-is"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ingon nga mapait"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:19.662972217Z",
+  "model": "glm-5.3"
+}

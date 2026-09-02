@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kay unsa ang sobra ⟨naa⟩ sa maalamon kay sa hungaw? unsa ang naa sa kabos, nga nakahibalo molakaw atubangan sa mga buhi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ang sobra"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "sa maalamon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kay sa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hungaw"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "molakaw"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sa mga buhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:13.446170960Z",
+  "model": "glm-5.3"
+}

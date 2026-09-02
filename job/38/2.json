@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kinsa ⟨kini⟩ nga nagpadulum sa tambag ⟨pinaagi sa⟩ mga pulong nga walay kahibalo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "nagpadulum"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "⟨pinaagi sa⟩ mga pulong"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:15.752493170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay nagdahom sa maayo ang nagpuyo sa Marot; kay mikunsad ang kadautan gikan sa ⟨את⟩ Yahweh ngadto sa ganghaan sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nagdahom"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sa maayo"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ang nagpuyo"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "sa Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "mikunsad"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kadautan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan sa ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ngadto sa ganghaan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:27.422530938Z",
+  "model": "glm-5.3"
+}

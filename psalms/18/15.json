@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gipadala niya ang iyang mga pana ug gipatibukag sila; ug daghang mga kidlat ug gipakalagot sila.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ug gipadala niya"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ang iyang mga pana"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "ug gipatibukag sila"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "ug mga kidlat"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "ug gipakalagot sila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:43.181617720Z",
+  "model": "glm-5.3"
+}

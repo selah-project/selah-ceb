@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gikan sa lalaki hangtod sa babayi papahawa-on ninyo ⟨sila⟩; ngadto sa gawas sa kampo papahawa-on ninyo sila, aron dili nila mahugawan ⟨את⟩ ilang mga kampo, diin ako nagapuyo diha taliwala nila.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Gikan sa lalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "babayi"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "papahawa-on ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "papahawa-on ninyo sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "mahugawan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga kampo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ilang mga kampo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "diha taliwala nila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:17.299899221Z",
+  "model": "glm-5.3"
+}

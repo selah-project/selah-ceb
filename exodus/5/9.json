@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Magpabug-at ⟨ang⟩ trabaho sa mga tawo, ug buhaton nila kini, ug ayaw nila pagtagad sa mga pulong nga bakak.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "magpabug-at"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "trabaho"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug buhaton nila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "pagtagad"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:07.158511269Z",
+  "model": "glm-5.3"
+}

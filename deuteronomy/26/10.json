@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug karon, ania karon, gipanguna ko ⟨את⟩ ang unang bunga sa yutang imong gihatag kanako, Yahweh; ug ibutang mo kini atubang ni Yahweh nga imong Elohim, ug magpailalom ka atubang ni Yahweh nga imong Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "gipanguna ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang unang bunga"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang unang bunga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "sa bunga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "imong gihatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "ug ibutang mo kini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "ug magpailalom ka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:27.119279752Z",
+  "model": "glm-5.3"
+}

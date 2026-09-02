@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Pagkuhaa kining libro sa Torah ug butangi ⟨את⟩ kini sa kilid sa kahon sa berit ni Yahweh Elohim ninyo, ug ⟨kini⟩ mahimong ⟨sulti⟩ didto batok kaninyo ingong saksi hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "pagkuhaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining libro sa Torah"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ug butangi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "sa kilid sa kahon"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "sa kilid"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kahon"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa berit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בך",
+      "gloss": "batok kaninyo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:55.845097531Z",
+  "model": "glm-5.3"
+}

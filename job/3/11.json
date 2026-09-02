@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ngano nga wala ako mamatay gikan sa tagoangkan? Gikan sa tiyan man ako nga nagula, ug mangamatay na lang ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gikan sa tagoangkan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ako mamatay"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ako nga nagula"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ug mangamatay na lang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:34.214491527Z",
+  "model": "glm-5.3"
+}

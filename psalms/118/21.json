@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 118,
+  "translation": "Pahimangnoon ako Kanimo, kay imong gisimbako ako, ug ikaw nahimong kaluwasan alang kanako.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Pahimangnoon ako Kanimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "imong gisimbako ako"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug ikaw nahimong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "angkanako"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:07.560439555Z",
+  "model": "glm-5.3"
+}

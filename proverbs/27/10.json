@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 27:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ang imong abot-abot ug ang abot-abot sa imong amahan ayaw biyai, ug sa balay sa imong igsoon ayaw panaogi sa adlaw sa imong katalagman; maayo ang silingan nga duol kay sa igsoon nga layo.",
+  "tokens": [
+    {
+      "surface": "רעך",
+      "gloss": "ang imong abot-abot"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "ug ang abot-abot"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "biyai"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug sa balay"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "panaogi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אידך",
+      "gloss": "sa imong katalagman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ang silingan"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "nga duol"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "kay sa igsoon"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "nga layo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:20.399860739Z",
+  "model": "glm-5.3"
+}

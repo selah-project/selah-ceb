@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Hinaot nga ang imong kamot mohimutang sa tawo sa imong tuo, sa anak sa tawo nga imong gipalig-on alang sa imong kaugalingon.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Hinaot nga mohimutang"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong tuo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "gipalig-on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang sa imong kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:11.200337997Z",
+  "model": "glm-5.3"
+}

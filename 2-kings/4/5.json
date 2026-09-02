@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Miangat siya gikan ⟨את⟩ kaniya, ug gisiradhan niya ang pultahan alang kaniya ug alang sa iyang mga anak; sila nagadala ngadto kaniya ug siya nagabuhos.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Miangat siya"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "gikan ⟨את⟩ kaniya"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "gisiradhan niya"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ang pultahan"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "nagadala"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "nagabuhos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:42.144661075Z",
+  "model": "glm-5.3"
+}

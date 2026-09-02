@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Gihatag nimo sa mga naghadlok kanimo ang bandila aron itaas kini tungod sa kamatuoran. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "gihatag nimo"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "sa mga naghadlok kanimo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "bandila"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "aron itaas"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:10.214659555Z",
+  "model": "glm-5.3"
+}

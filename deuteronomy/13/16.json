@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Pamatya gayod nimo ⟨את⟩ ang mga pumoluyo nianang dakbayan pinaagi sa baba sa espada; himoa kining hingmatian ug ⟨את⟩ ang tanan nga anaa niini, bisan ⟨את⟩ ang iyang mga hayop, pinaagi sa baba sa espada.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Pamatya"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "gayod nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pumoluyo nianang dakbayan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba sa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "himoa kining hingmatian"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang dakbayan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga anaa niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "anaa niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang mga hayop"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "iyang mga hayop"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba sa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:52.670237536Z",
+  "model": "glm-5.3"
+}

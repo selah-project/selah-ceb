@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Apan si Aakhaz miingon: Dili ako mangutana, ug dili ako mosulay ⟨את⟩ kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Aakhaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ako mangutana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ako mosulay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:50.312194662Z",
+  "model": "glm-5.3"
+}

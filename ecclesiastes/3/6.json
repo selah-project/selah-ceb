@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa pagpangita, ug panahon sa pagpahinabo ⟨את⟩ ⟨sa gipangita⟩; panahon sa pagbantay, ug panahon sa paglabay ⟨את⟩ ⟨sa gibantayan⟩.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "sa pagpahinabo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "sa paglabay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.567509283Z",
+  "model": "glm-5.3"
+}

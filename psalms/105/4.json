@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Pangitaa ninyo si Yahweh ug ang iyang kusog; pangitaa ninyo ang iyang nawong nga walay hunong.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "pangitaa ninyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ug ang iyang kusog"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "pangitaa ninyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang nawong"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay hunong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.383925307Z",
+  "model": "glm-5.3"
+}

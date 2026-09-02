@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "«Panggisi ta ⟨את⟩ ang ilang mga hugot, ug itumbo ta gikan kanamo ang ilang mga pisi.»",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Panggisi ta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga hugot"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ang ilang mga hugot"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ug itumbo ta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kanamo"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ang ilang mga pisi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.441484958Z",
+  "model": "glm-5.3"
+}

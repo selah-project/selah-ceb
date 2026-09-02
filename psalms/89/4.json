@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Nagputol ako ug pakigsaad alang sa akong pinili; nanumpa ako kang David, nga akong sulugoon.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Nagputol ako"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ug pakigsaad"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "alang sa akong pinili"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nanumpa ako"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "nga akong sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:13.841707037Z",
+  "model": "glm-5.3"
+}

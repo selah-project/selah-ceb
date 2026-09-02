@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Ug magpahinumdom ako sa tanan Nimo nga buhat, ug mahisulat sa akong hunahuna ang imong mga buhat nga katingalahan.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ug magpahinumdom ako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Nimo nga buhat"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "ug ang imong mga buhat nga katingalahan"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mahisulat sa akong hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.654504021Z",
+  "model": "glm-5.3"
+}

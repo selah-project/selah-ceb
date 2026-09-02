@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Molakaw kita ngadto sa iyang mga puloy-anan, mosimba kita atubangan sa tungtong sa iyang mga tiil.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Molakaw kita"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ngadto sa iyang mga puloy-anan"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "mosimba kita"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "atubangan sa tungtong"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sa iyang mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:06.153775182Z",
+  "model": "glm-5.3"
+}

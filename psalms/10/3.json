@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kay ang dautan nagdayeg bahin sa kabulong sa iyang kalag, ug ang tigpanikas nagpanalangin ⟨sa iyang kaugalingon⟩; gibalewala niya si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "nagdayeg"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang dautan"
+    },
+    {
+      "surface": "על",
+      "gloss": "bahin sa"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "kabulong"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kalag"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ug ang tigpanikas"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nagpanalangin"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "gibalewala niya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:19.460377478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug mitindog si Shemuël ug misaka gikan sa Gilgal padulong sa Giv'at Binyamin; ug gimihira ni Shaul ⟨את⟩ ang katawhan nga nakapuyo uban kaniya, mga unom ka gatos ka tawo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "padulong sa Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ug gimihira"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "nga nakapuyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "mga unom ka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:19.241044326Z",
+  "model": "glm-5.3"
+}

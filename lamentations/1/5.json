@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 1:5",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nahimo nga ulo ⟨ang⟩ iyang mga mangautom, nagpahulay ang iyang mga kaaway; kay gipasakit ni Yahweh ⟨siya⟩ tungod sa kadaghan sa iyang mga paglapas; ang iyang mga gagmayng anak nangadto pagkabihag atubang sa mangautom.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "nahimo"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ang iyang mga mangautom"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "nga ulo"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ang iyang mga kaaway"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "nagpahulay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "gipasakit"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "פשעיה",
+      "gloss": "sa iyang mga paglapas"
+    },
+    {
+      "surface": "עולליה",
+      "gloss": "ang iyang mga gagmayng anak"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nangadto"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sa mangautom"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:37.481785125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gibuhat ni Ahab nga anak ni Omri ang kadaotan sa atubangan ni Yahweh, labaw sa tanan ⟨nga miadto⟩ sa wala pa kaniya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat ni"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak ni"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kadaotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubangan [sa mga mata]"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "sa wala pa kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:00.201926918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang gikasilag sa iyang mga mata ⟨siya nga⟩ gipakyas, apan ⟨את⟩ ang mga nagakahadlok kang Yahweh iyang gatahwag; nanumpa nga mag-antos ug kadaotan ug dili mobalhin.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "ang gikasilag"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "gipakyas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga nagakahadlok kang Yahweh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ang mga nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "gatahwag"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nanumpa"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "nga mag-antos ug kadaotan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "mobalhin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:20.944186460Z",
+  "model": "glm-5.3"
+}

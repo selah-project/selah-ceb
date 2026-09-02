@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Walay igsoon nga matubos sa pagtubos ⟨sa⟩ tawo; dili niya mahatag sa Elohim ang iyang kapara.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "sa pagtubos"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "matubos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mahatag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ang iyang kapara"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:52.894777168Z",
+  "model": "glm-5.3"
+}

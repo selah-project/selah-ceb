@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "nga diha niini nang-insulto ang imong mga kaaway, Yahweh, nga nang-insulto sila sa mga tinamnan sa tiil sa imong Mesiyas.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga diha niini"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "nang-insulto"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ang imong mga kaaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "nang-insulto sila"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "sa mga tinamnan sa tiil"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sa imong Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:50.928244663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Kay ingon sa asawa nga biyaan ug nagsubo sa espiritu, gitawag ka ni Yahweh; ug ingon sa asawa sa pagkatanod nga gisalikway — nag-ingon ang imong Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "ingon sa asawa"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "nga biyaan"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "ug nagsubo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa espiritu"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "gitawag ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ug ingon sa asawa"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "sa pagkatanod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "gisalikway"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:02.118663458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ako — gipataas ko kamo gikan sa yuta sa Mitsrayim, ug gilakaw ko kamo sa kamingawan kapatan kag tuig, aron sa pagpanag-iya ⟨את⟩ sa yuta sa Emori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "gipataas ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "voאולך",
+      "gloss": "ug gilakaw ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aron sa pagpanag-iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta sa Emori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sa Emori"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:11.490218323Z",
+  "model": "glm-5.3"
+}

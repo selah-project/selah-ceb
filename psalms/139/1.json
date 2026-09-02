@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Alang sa manunod; ni David; usa ka mizmor. Yahweh, gisuhid Mo ako ug nakaila ⟨ka⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "alang sa manunod"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "gisuhid Mo ako"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ug nakaila ⟨ka⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:07.773216397Z",
+  "model": "glm-5.3"
+}

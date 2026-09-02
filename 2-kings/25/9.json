@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug gisunog niya ⟨את⟩ ang balay ni Yahweh ug ⟨את⟩ ang balay sa hari, ug ⟨את⟩ tanang mga balay sa Yerushalayim, ug ⟨את⟩ ang tagsa-tagsa ka dako nga balay gisunog niya sa kalayo.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "gisunog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang balay sa hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanang mga balay sa Yerushalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tagsa-tagsa ka dako nga balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tagsa-tagsa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gisunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:24.448662450Z",
+  "model": "glm-5.3"
+}

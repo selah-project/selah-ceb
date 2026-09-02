@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 87,
+  "translation": "Magahinumdom ako sa Rahav ug sa Bavel sa taliwala sa mga nakaila kanako: ania karon, ang Peleshet ug ang Tsor, kauban ang Kush — dinhi sila natawo.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "magahinumdom ako"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "ug sa Bavel"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "sa taliwala sa mga nakaila kanako"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "ang Peleshet"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ug ang Tsor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban ang"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "dinhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:08.508455525Z",
+  "model": "glm-5.3"
+}

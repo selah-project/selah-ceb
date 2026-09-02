@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Bangon ka, O Yahweh, luwasa ako, O akong Elohim, kay imong gigamos ⟨את⟩ ang tanan nga akong mga kaaway sa apapangig, ang mga ngipon sa mga dautan imong gibali.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Bangon ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "imong gigamos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga akong mga kaaway"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "nga akong mga kaaway"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "sa apapangig"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ang mga ngipon"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "imong gibali"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:36.524122018Z",
+  "model": "glm-5.3"
+}

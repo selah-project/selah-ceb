@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kining kabus nga tawo nagtinguha, ug si Yahweh nakadungog kaniya, ug gikan sa tanan niyang mga kagulipatan giluwas siya.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kining"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kabus nga tawo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nagtinguha"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakadungog kaniya"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ug gikan sa tanan"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "niyang mga kagulipatan"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "giluwas siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:11.090860051Z",
+  "model": "glm-5.3"
+}

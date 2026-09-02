@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug kabaw-a ninyo nga gipalahi ni Yahweh ⟨ang⟩ matinud-anon alang kaniya; madungog ni Yahweh sa akong pagtawag kaniya.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Ug kabaw-a ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "gipalahi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang matinud-anon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "madungog"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "sa akong pagtawag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:37.616678536Z",
+  "model": "glm-5.3"
+}

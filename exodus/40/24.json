@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gipahimutang niya ⟨את⟩ ang menorah sulod sa tolda sa pagtagbo, atbang sa lamesa, sa kilid sa tabernakulo padong sa habagatan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ug gipahimutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang menorah"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ang menorah"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sulod sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sa lamesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa tabernakulo"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "padong sa habagatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:58.927727125Z",
+  "model": "glm-5.3"
+}

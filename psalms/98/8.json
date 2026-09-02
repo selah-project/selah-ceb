@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Magpalakpak sa ilang mga kamot ang mga sapa; mag-awit sa usa ka tingog ang mga bukid.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ang mga sapa"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "magpalakpak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sa ilang mga kamot"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sa usa ka tingog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mag-awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:02.556830142Z",
+  "model": "glm-5.3"
+}

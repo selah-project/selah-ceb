@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Usa ka torah ⟨ang⟩ mahimo alang sa natawo sa yuta, ug alang sa lumangpapa nga nagpuyo diha taliwala ninyo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "alang sa natawo sa yuta"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ug alang sa lumangpapa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "nga nagpuyo"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "diha taliwala ninyo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:29.051865796Z",
+  "model": "glm-5.3"
+}

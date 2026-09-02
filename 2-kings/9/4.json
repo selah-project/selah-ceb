@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Busa ang batang lalaki, ang batang lalaki nga propeta, milakaw padulong sa Ramot-Gilad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batang lalaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batang lalaki"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nga propeta"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:44.613514466Z",
+  "model": "glm-5.3"
+}

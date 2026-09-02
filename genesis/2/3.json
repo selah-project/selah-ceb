@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gipanalanginan ni Elohim ⟨את⟩ ang ikapitong adlaw, ug gibalaan niya ⟨את⟩ ⟨kini⟩, kay niini siya mipahulay gikan sa tanan niyang buhat nga gibuhat ni Elohim sa paghimo ⟨niana⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Ug gipanalanginan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikapitong adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ug gibalaan niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kini⟩",
+      "marks": "gibalaan niya kini (ang adlaw)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mipahulay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "niyang buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "gibuhat pag-crey"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:35.436741335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Pangitahe kanako ug ihatag ko sa imo ang mga nasod ingon nga imong kabilin, ug ingon nga imong pagpanag-iya ang mga kinatumyan sa yuta.”",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Pangitahe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ug ihatag ko"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "imong kabilin"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "imong pagpanag-iya"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ang mga kinatumyan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:19.639634427Z",
+  "model": "glm-5.3"
+}

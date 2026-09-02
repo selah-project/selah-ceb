@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug giwapak niya kini ⟨את⟩ atbang kanako, ug kini nakasulat sa atbang ug sa luyo; ug nakasulat niini ang mga panaguhol, ug pagbagutbot, ug kamingaw.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "ug giwapak niya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang balumbon)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang kanako"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa atbang"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ug sa luyo"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "ug nakasulat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "mga panaguhol"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ug pagbagutbot"
+    },
+    {
+      "surface": "והי",
+      "gloss": "ug kamingaw"
+    }
+  ],
+  "timestamp": "2026-09-01T21:32:58.862299798Z",
+  "model": "glm-5.3"
+}

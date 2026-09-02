@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Nahitabo sa ika-kawhaan ug tulog ka tuig sa paghari ni Yehoash, wala gipaayo sa mga saserdote ⟨את⟩ ang guba sa balay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitabo"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ika-kawhaan"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ug tulog"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa paghari"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ni Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "gipaayo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang guba sa balay"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ang guba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:25.741291463Z",
+  "model": "glm-5.3"
+}

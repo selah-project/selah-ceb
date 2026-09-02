@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "ang hari sa Livnah, usa; ang hari sa Adullam, usa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "sa Livnah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "sa Adullam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:36.063026934Z",
+  "model": "glm-5.3"
+}

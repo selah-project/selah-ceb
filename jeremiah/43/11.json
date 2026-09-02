@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ug moanhi siya ug motimbira ⟨את⟩ sa yuta sa Mitsrayim: ang gitakda sa kamatayon — sa kamatayon, ug ang gitakda sa pagkabihag — sa pagkabihag, ug ang gitakda sa espada — sa espada.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Ug moanhi siya"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ug motimbira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta sa Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang gitakda"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug ang gitakda"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug ang gitakda"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T21:29:04.286412566Z",
+  "model": "glm-5.3"
+}

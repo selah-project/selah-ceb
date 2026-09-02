@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Usa ka dayo dili nimo pugson, ug kamo, nakaila kamo ⟨את⟩ sa kinabuhi sa dayo, kay mga dayo kamo sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "usa ka dayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "nimo pugson"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ug kamo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nakaila kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kinabuhi sa dayo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "sa dayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga dayo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:02.947212161Z",
+  "model": "glm-5.3"
+}

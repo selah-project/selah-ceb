@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang nagmalipayon nga kasingkasing nagamaayo sa lawas ⟨ingon nga tambal⟩, apan ang gipanalagsa nga espiritu nagapaalan sa mga bukog.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nagmalipayon"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "nagamaayo"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "tambal"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "apan ang espiritu"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "gipanalagsa"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "nagapaalan"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "mga bukog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:17.883393761Z",
+  "model": "glm-5.3"
+}

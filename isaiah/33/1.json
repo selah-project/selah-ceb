@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Kalagot kanimo nga manggugulig, ug wala ka gikugihan; nga tigtukmod, ug wala sila motukmod kanimo! Sa imong pagtapos sa paggulig, ikaw paggulihon; sa imong pagtapos sa pagtukmod, motukmod sila kanimo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kalagot"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "manggugulig"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "gikugihan"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "ug tigtukmod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "motukmod sila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "sa imong pagtapos"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "manggugulig"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "paggulihon ikaw"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "sa imong pagtapos sa pagtukmod"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "sa pagtukmod"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "motukmod sila"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:04:11.558948770Z",
+  "model": "glm-5.3"
+}

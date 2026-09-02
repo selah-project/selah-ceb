@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Itaas ninyo ⟨את⟩ ang ulo sa tibuok katilingban sa mga anak ni Yisrael sumala sa ilang mga banay, sumala sa balay sa ilang mga amahan, sa ihap sa mga ngalan — tanang lalaki, matag usa sa iyang ulo:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "itaas ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sumala sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sa ihap"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sa mga ngalan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "matag usa sa iyang ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:12.333438181Z",
+  "model": "glm-5.3"
+}

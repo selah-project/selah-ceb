@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Sa pangulo sa koral, alang sa mga anak ni Korach, usa ka maschil ⟨tulunong nga awit⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa pangulo sa koral"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maschil ⟨tulunong nga awit⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:36.993171262Z",
+  "model": "glm-5.3"
+}

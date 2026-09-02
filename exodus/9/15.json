@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kay karon ⟨unta⟩ gipadala na nako ⟨את⟩ ang akong kamot, ug gihampak na unta ⟨את⟩ ikaw ug ⟨את⟩ ang imong katawhan sa dakong peste, ug napapas na unta ikaw gikan sa yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "gipadala na nako ⟨unta⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kamot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong kamot"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "ug gihampak na unta"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ ikaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang imong katawhan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imong katawhan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa dakong peste"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "ug napapas na unta ikaw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:45.877391568Z",
+  "model": "glm-5.3"
+}

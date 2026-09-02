@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miadto si Natan sa iyang balay. Ug gisakit ni Yahweh ⟨את⟩ ang bata nga gianak sa asawa ni Uriya kang David, ug nasakiton kini ⟨kaayo⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ug miadto"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "Ug gisakit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gianak"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sa asawa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ug nasakiton kini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:56.005455145Z",
+  "model": "glm-5.3"
+}

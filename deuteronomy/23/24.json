@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 23:24",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ang gawas sa imong mga ngabil bantayan pag-ayo ug buhaton nimo, sumala sa imong gipanumpa kang Yahweh nga imong Elohim — usa ka boluntaryong tanyag, nga imong gisulti sa imong baba.",
+  "tokens": [
+    {
+      "surface": "מוצא",
+      "gloss": "ang gawas"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "sa imong mga ngabil"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "bantayan pag-ayo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton nimo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "imong gipanumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "boluntaryong tanyag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "imong gisulti"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "sa imong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:41.661987832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Aron mahimo sila nga mga sulugon niya, ug masayran nila ang akong pag-alagad ug ang pag-alagad sa mga gingharian sa mga kayutaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nga-mga-sulugon"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ug-masayran"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ang-akong-pag-alagad"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "ug-ang-pag-alagad"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "sa-mga-gingharian"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "sa-mga-kayutaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:12.452248507Z",
+  "model": "glm-5.3"
+}

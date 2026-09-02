@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ⟨ang⟩ lalaki nga moligtok ⟨את⟩ sa iyang igsoon nga babaye sa amahan (ilaga) — ang kahubaran sa iyang igsoon sa amahan iyang gisangkad; ang ilang sala ilang madala; nga walay kaliwat sila mamatay.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "moligtok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang ilaga"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "iyang ilaga"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahubaran"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "sa iyang igsoon sa amahan"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "gisangkad"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ang ilang sala"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ilang madala"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "nga walay kaliwat"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sila mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:11.525977002Z",
+  "model": "glm-5.3"
+}

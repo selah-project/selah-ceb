@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sa magdudumala, uban sa mga instrumentong may higot, sumala sa ikawalong ⟨tono⟩, usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdudumala"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "uban sa mga instrumentong may higot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ikawalong ⟨tono⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:00.684654570Z",
+  "model": "glm-5.3"
+}

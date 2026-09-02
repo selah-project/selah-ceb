@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug si Yahweh magalingkod ⟨sa⟩ kahangturan; iyang gipatindog ⟨ang⟩ iyang trono alang sa paghukom.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "magalingkod"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "alang sa paghukom"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "iyang trono"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:54.897350663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Tan-awa, nag-antus siya ⟨ug⟩ nagdala ⟨sa⟩ kadautan, ug nangabuhi ⟨siya sa⟩ kagawasan, ug natawo ang bakak.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "nag-antus \/ nagdala sa tiyan"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadautan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ug nangabuhi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kagawasan"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ug natawo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ang bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.966501632Z",
+  "model": "glm-5.3"
+}

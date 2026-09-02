@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Matag adlaw bendisyonan ta ikaw, ug dayegon ta ang imong ngalan hangtod sa kahangturan ug hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa matag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "bendisyonan ta ikaw"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ug dayegon ta"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.519762052Z",
+  "model": "glm-5.3"
+}

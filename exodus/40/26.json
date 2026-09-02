@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gibutang niya ⟨את⟩ ang halaran sa bulawan sa tolda sa pagtigom, atubang sa tabon.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran sa bulawan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtigom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "sa tabon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:55.696518363Z",
+  "model": "glm-5.3"
+}

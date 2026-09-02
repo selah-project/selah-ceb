@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug miingon si Moshe: Kaona karon ⟨nga adlaw⟩, kay ang adlaw karon ⟨usa ka⟩ shabbat alang kang Yahweh; karon ⟨nga adlaw⟩ dili ninyo kini makit-an sa kapatagan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "Kaona kini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon ⟨nga adlaw⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨usa ka⟩ shabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ang adlaw karon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon ⟨nga adlaw⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "ninyo kini makit-an"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:08.479909474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug pagpahimangnohan ko alang kanako ug mga saksi nga matinud-anon: ⟨את⟩ si Uriyah nga pari, ug ⟨את⟩ si Zekharyahu nga anak ni Yevarekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "Ug pagpahimangnohan ko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mga saksi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "nga matinud-anon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriyah nga pari"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Zekharyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "si Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "ni Yevarekhyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:17.831806668Z",
+  "model": "glm-5.3"
+}

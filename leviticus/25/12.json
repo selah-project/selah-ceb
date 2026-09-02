@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Kay yovel kini, balaan kini mahimo ⟨alang⟩ kaninyo; gikan sa uma mokaon kamo ⟨את⟩ ang iyang abot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mokaon kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang abot"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "iyang abot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:29.214975725Z",
+  "model": "glm-5.3"
+}

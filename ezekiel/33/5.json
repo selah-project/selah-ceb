@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "⟨את⟩ ang tingog sa shofar nadungog niya apan wala siya magpahimatngon — ang iyang dugo ⟨anaa⟩ kaniya; apan ⟨siya nga⟩ nagpahimatngon, ang iyang kalag maluwas.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog sa shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "sa shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadungog niya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "magpahimatngon"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iyang dugo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨anaa⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "apan ⟨siya nga⟩"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nagpahimatngon"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iyang kalag"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "maluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T21:43:55.326621493Z",
+  "model": "glm-5.3"
+}

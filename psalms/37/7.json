@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Hilum alang kang Yahweh, ug ⟨maghulat nga mapainubsanon⟩ alang kaniya; ayaw pagpahasibo tungod niadtong nagpatunhay sa iyang dalan, ni sa tawo nga nagabuhat sa mga daotang plano.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Hilum"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "⟨maghulat nga mapainubsanon⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "pagpahasibo"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "niadtong nagpatunhay"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa iyang dalan"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ni sa tawo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "mga daotang plano"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:38.716970535Z",
+  "model": "glm-5.3"
+}

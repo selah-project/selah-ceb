@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ayaw pagkalimti sa tingog sa imong mga kaaway, ang kagubot sa imong mga nagbangon nga batok kanimo ⟨nga⟩ mosaka nga padayon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimti"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "sa imong mga kaaway"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ang kagubot"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "sa imong mga nagbangon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga padayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:22.861967058Z",
+  "model": "glm-5.3"
+}

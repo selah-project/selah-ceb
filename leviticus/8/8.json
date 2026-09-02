@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gibutang niya kaniya ⟨את⟩ ang khoshen, ug gibutang niya ngadto sa khoshen ⟨את⟩ ang Urim ug ⟨את⟩ ang Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang khoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang khoshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khoshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ang Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ang Tumim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:11.824874857Z",
+  "model": "glm-5.3"
+}

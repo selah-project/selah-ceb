@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Gitangkas nimo ang tibuok imong kaakig; gibalik nimo ang imong kaakig gikan sa kangitngit ⟨sa imong nawong⟩.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "gitangkas nimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "imong kaakig"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "gibalik nimo"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "gikan sa kangitngit"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sa imong nasudlon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.960874651Z",
+  "model": "glm-5.3"
+}

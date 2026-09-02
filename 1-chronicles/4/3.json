@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug kini ⟨mga anak⟩ sa amahan sa Eytam: Yizreel, ug Yishma, ug Yidbash; ug ang ngalan sa ilahang igsoon nga babaye ⟨mao⟩ si Hatslelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "sa amahan"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "sa Eytam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ug Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ug Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ilahang igsoon nga babaye"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatslelponi"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:46.759705981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "ug gikuha ko ⟨את⟩ kamo gikan sa kamot sa ⟨ang⟩ Mitsrayim ug gikan sa kamot sa tanan ninyong mga manglupig, ug gipapahawa ko ⟨את⟩ sila gikan sa atubangan ninyo, ug gihatag ko kaninyo ⟨את⟩ ang ilang yuta.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "ug gikuha ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ug gikan sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "ninyong mga manglupig"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ug gipapahawa ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga manglupig)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "gikan sa atubangan ninyo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ug gihatag ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang yuta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ilang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:35.343922563Z",
+  "model": "glm-5.3"
+}

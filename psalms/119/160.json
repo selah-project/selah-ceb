@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang kinatibuk-án sa imong pulong ⟨mao ang⟩ kamatuoran, ug ngadto sa kahangturan ang tanan ⟨nga⟩ balaod sa imong pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ang kinatibuk-án"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sa imong pulong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ug ngadto sa kahangturan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sa imong pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:53.640854307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Mora, ug aloe, ug kasja — ang tanan ⟨mga⟩ bisti mo; gikan sa mga palasyo sa garing sa ngipon, gipalipay ka sa mga instrumento nga may hubi.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "ug aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kasja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "bisti mo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "mga palasyo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "garing sa ngipon"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mga instrumento nga may hubi"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "gipalipay ka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:48.849722342Z",
+  "model": "glm-5.3"
+}

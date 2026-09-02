@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ang panagway ni Yahweh ⟨atbang⟩ sa mga mamumugos sa daotan, aron paglaglag gikan sa yuta sa ilang pahinumdom.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ang panagway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "sa mga mamumugos"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "aron paglaglag"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "sa ilang pahinumdom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:24.688154352Z",
+  "model": "glm-5.3"
+}

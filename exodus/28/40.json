@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 28:40",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug alang sa mga anak ni Aharon buhaton nimo ang mga kutonet, ug buhaton nimo alang kanila ang mga abnet, ug mga migbaot buhaton nimo alang kanila, alang sa dungog ug alang sa kaanyag.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ug alang sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buhaton nimo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mga kutonet"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton nimo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "אבנטים",
+      "gloss": "mga abnet"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "ug mga migbaot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buhaton nimo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "alang sa dungog"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ug alang sa kaanyag"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:29.633479914Z",
+  "model": "glm-5.3"
+}

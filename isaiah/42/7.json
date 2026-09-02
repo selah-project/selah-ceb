@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "sa pagbukas sa mga mata sa mga buta, sa pagpagula sa binilanggo gikan sa piyansa, gikan sa selda ang mga nanaglingkod kang kadulom.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "sa pagbukas"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "sa mga buta"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "sa pagpagula"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "gikan sa piyansa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "sa binilanggo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "selda"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ang mga nanaglingkod"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kang kadulom"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:24.960766569Z",
+  "model": "glm-5.3"
+}

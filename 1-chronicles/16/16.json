@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "nga iyang giputol ⟨את⟩ kang Avraham, ug ang iyang panumpa kang Yitskhak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "giputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ug ang iyang panumpa"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kang Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:11.501109996Z",
+  "model": "glm-5.3"
+}

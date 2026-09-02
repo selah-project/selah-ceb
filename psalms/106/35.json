@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug nagsagol sila sa tunga sa mga nasud, ug nangatuon sila sa ilang mga buhat.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "Ug nagsagol sila"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga nasud"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "ug nangatuon sila"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "sa ilang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.645058928Z",
+  "model": "glm-5.3"
+}

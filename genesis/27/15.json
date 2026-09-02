@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug si Rivkah mikuha ⟨את⟩ sa mga bestida ni Esav nga iyang sulug nga magulang, ang ginakatungdan nga mga bestida nga anaa uban niya ⟨את⟩ sa balay, ug gisul-ob niya ⟨את⟩ kang Yaakov nga iyang sulug nga manghod.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "mikuha"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bestida ni Esav"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bestida"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iyang sulug"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "magulang"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "ginakatungdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uban niya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "gisul-ob niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iyang sulug"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "manghod"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:25.100440577Z",
+  "model": "glm-5.3"
+}

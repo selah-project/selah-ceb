@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 37:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ania karon, ako pagahat-on sa iyang sulod ug ⟨את⟩ ug usa ka ruah, ug madungog niya ang balita, ug mobalik siya ngadto sa iyang yuta, ug pagapahulayon nako siya pinaagi sa espada sa iyang kaugalingong yuta.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ania karon, ako"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "pagahat-on"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa iyang sulod"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ug madungog niya"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ang balita"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug mobalik siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "iyang yuta"
+    },
+    {
+      "surface": "והפלתיו",
+      "gloss": "pagapahulayon nako siya"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "pinaagi sa espada"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "sa iyang kaugalingong yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:31.398544191Z",
+  "model": "glm-5.3"
+}

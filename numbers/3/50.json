@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gikan ⟨את⟩ sa mga panganay sa mga anak ni Yisrael gikuha niya ⟨את⟩ ang salapi — usa ka libo ug tulo ka gatos ug kansenteyntay-siyam ka shekel, sumala sa balaan nga shekel.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gikan sa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mga panganay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salapi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang salapi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ug kan-ananay"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ug usa ka libo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sumala sa shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaan nga santuaryo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:52.105158563Z",
+  "model": "glm-5.3"
+}

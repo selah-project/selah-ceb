@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "ug ang yuta motubag ⟨את⟩ ⟨sa⟩ trigo, ug ⟨את⟩ ⟨sa⟩ bag-ong bino, ug ⟨את⟩ ⟨sa⟩ lana, ug sila motubag ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ug ang yuta"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "motubag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trigo"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "ug ⟨את⟩",
+      "marks": "bag-ong bino"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "bag-ong bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "lana"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "lana"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "motubag sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:39.074024998Z",
+  "model": "glm-5.3"
+}

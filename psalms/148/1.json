@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Pagdayegahin ninyo si Yah! Pagdayegahin ninyo ⟨את⟩ si Yahweh gikan sa ⟨mga⟩ langit, pagdayegahin ninyo siya sa mga katas-anan.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayegahin ninyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayegahin ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahin ninyo siya"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sa mga katas-anan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.025250551Z",
+  "model": "glm-5.3"
+}

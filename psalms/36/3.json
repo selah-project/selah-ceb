@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Kay gipahapsay niya ⟨ang iyang kaugalingon⟩ sa iyang kaugalingong mga mata, aron sa pagpangita sa iyang sala sa pagdumili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "gipahapsay niya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨ang iyang kaugalingon⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang kaugalingong mga mata"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "aron sa pagpangita"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sa iyang sala"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sa pagdumili"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:49.898700039Z",
+  "model": "glm-5.3"
+}

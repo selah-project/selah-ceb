@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Tungod sa tingtugnaw ang tapulan dili mag-arado; sa anihiya mangayo siya ug walay mahatag.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "tungod sa tingtugnaw"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ang tapulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "mag-arado"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "mangayo"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa anihiya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay mahatag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:55.868397518Z",
+  "model": "glm-5.3"
+}

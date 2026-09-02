@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Paggison ako sa agianan sa ⟨mga⟩ imong mga mitsvá, kay diha kanako nakapahamot kini.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Paggison ako"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "sa agianan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "sa imong mga mitsvá"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "diha kanako"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nakapahamot kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.335752627Z",
+  "model": "glm-5.3"
+}

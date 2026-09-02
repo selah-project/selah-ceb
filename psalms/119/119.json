@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mga latak ⟨sa puthaw⟩ ang tanan nga mga dautan sa yuta — gipahunong mo sila; busa gihigugma ko ang imong mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "Mga latak"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "gipahunong mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "nga mga dautan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "gihigugma ko"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imong mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:12.677060527Z",
+  "model": "glm-5.3"
+}

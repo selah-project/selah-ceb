@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 123,
+  "translation": "Labaw kaayo ang pagsapo ⟨sa⟩ among kalag sa pagtawag nga way kaluoy sa mga nagpahulay, sa pagtamay sa mga garbosong.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Labaw kaayo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ang pagsapo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "among kalag"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "sa pagtawag nga way kaluoy"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "sa mga nagpahulay"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "sa pagtamay"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "sa mga garbosong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:32.535820764Z",
+  "model": "glm-5.3"
+}

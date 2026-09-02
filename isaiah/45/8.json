@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 45:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Magpatakod kamo, mga langit, gikan sa itaas, ug mga pangpang sa langit magtul-id sa tsedek; magabri ang yuta ug mamunga sa pagluwas, ug pagkamatarong magtubo uban niini — ako si Yahweh, nagmugna niini.",
+  "tokens": [
+    {
+      "surface": "הרעיפו",
+      "gloss": "Magpatakod kamo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "gikan sa itaas"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "mga pangpang sa langit"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "magtul-id sa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "magabri"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ויפרו",
+      "gloss": "ug mamunga sa"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "pagluwas"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ug pagkamatarong"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "magtubo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "uban niini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "nagmugna niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:41.225641874Z",
+  "model": "glm-5.3"
+}

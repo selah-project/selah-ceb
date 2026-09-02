@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Usa ka butang ang akong gipangayo gikan kang Yahweh ⟨את⟩ — ⟨את⟩ kini ako pangitaon: nga magpuyo ako sa balay ni Yahweh sa tanan nga adlaw sa akong kinabuhi, sa pagtan-aw sa kaanyag ni Yahweh ug sa pagbisita sa iyang templo.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Usa ka butang"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "akong gipangayo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan kang ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ kini",
+      "marks": "ako pangitaon"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ako pangitaon"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nga magpuyo ako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "akong kinabuhi"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "sa kaanyag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ug sa pagbisita"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "sa iyang templo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:57.720386413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kon mag-ingon sila: Umari ka ⟨את⟩ kanamo, magganting kita og dugo, magtago kita alang sa walay sala nga walay hinungdan —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mag-ingon sila"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Umari ka"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kanamo",
+      "marks": "kanamo"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "magganting kita"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "og dugo"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "magtago kita"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "alang sa walay sala"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay hinungdan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:33.001116811Z",
+  "model": "glm-5.3"
+}

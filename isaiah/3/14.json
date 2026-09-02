@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Si Yahweh moabot sa paghukom uban sa ⟨mga⟩ tigulang sa iyang katawhan ug sa iyang ⟨mga⟩ mangungulo: kamo ang nangaon sa kaparasan; ang gikuha gikan sa kabos anaa ⟨sa⟩ inyong ⟨mga⟩ balay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "tigulang"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "iyang mga mangungulo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "nangaon"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "kaparasan"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "gikuha pinaagi sa pagpamintas"
+    },
+    {
+      "surface": "העני",
+      "gloss": "kabos"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "inyong mga balay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:06.112156462Z",
+  "model": "glm-5.3"
+}

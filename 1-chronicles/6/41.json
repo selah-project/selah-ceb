@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ ang kapatagan sang ⟨ang⟩ siyudad ug ⟨את⟩ ang mga nataran niini gihatag nila kang Kalev nga anak ni Yefunneh.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang kapatagan sang siyudad"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sang siyudad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ang mga nataran niini"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kang Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefunneh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:21.433422779Z",
+  "model": "glm-5.3"
+}

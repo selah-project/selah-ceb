@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Ang lobo ug ang nating karnero magasagaw sa tingub, ug ang leyon magakaon sa dagami ingon sa baka, ug sa bitin abo ang iyang pagkaon. Dili na sila magadaot ug dili magalaglag sa tibouk sa akong balaang bukid, matod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "ang lobo"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "ug ang nating karnero"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "magasagaw"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "sa tingub"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "ug ang leyon"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "ingon sa baka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "magakaon"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "dagami"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "ug ang bitin"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ang iyang pagkaon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili na"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "magadaot"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "magalaglag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibouk"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akong balaang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:58:12.746145648Z",
+  "model": "glm-5.3"
+}

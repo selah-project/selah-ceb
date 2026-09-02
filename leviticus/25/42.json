@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Kay akong mga sulugoon sila, nga gikuha nako ⟨את⟩ sila gikan sa yuta sa Mitsrayim; dili sila ibaligya sa baligya sa usa ka sulugoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akong mga sulugoon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "gikuha nako"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "sila ibaligya"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "sa baligya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sa usa ka sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:19.195391706Z",
+  "model": "glm-5.3"
+}

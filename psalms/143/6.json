@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Gipatigbabaw ko ang akong mga kamot ngadto kanimo; ang akong kalag sama sa kapoy nga yuta alang kanimo. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "Gipatigbabaw ko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong mga kamot"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "sama sa yuta"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "kapoy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:01.485388564Z",
+  "model": "glm-5.3"
+}

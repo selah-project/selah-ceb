@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug karon, ang akong amahan nagbutang sa inyong ibabaw og usa ka bug-at nga atipan, ug ako magdugang sa inyong atipan; ang akong amhan nagdisiplina ⟨את⟩ kaninyo pinaagi sa mga latigo, ug ako pinaagi sa mga alacrán.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akong amahan"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nagbutang og karga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa inyong ibabaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "atipan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "inyong atipan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akong amahan"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nagdisiplina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "ang paglatigo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "sa mga latigo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "sa mga alacrán"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:22.313446813Z",
+  "model": "glm-5.3"
+}

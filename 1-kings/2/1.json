@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nagdool na ang mga adlaw ni David sa pagkamatay, ug gitambagan niya ⟨את⟩ si Shelomoh nga iyang anak, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "Nagdool na"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa pagkamatay"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ug gitambagan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:59.826236371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Ihatag ngadto kang Yahweh, mga pamilya sa mga katawhan; ihatag ngadto kang Yahweh kadungganan ug kusog.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mga pamilya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kadungganan"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ug kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:04.863787904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "⟨Ang⟩ katawhan nga nagapalagot ⟨את⟩ kanako sa akong atubangan nga walay hunong, nagahalad sa mga tanaman ug nagasingbit sa ibabaw sa mga laryo.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "nga nagapalagot"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ kanako",
+      "marks": "kanako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay hunong"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nagahalad"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "sa mga tanaman"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ug nagasingbit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "mga laryo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:13:48.948924951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon ug ⟨את⟩ ang iyang mga migrah, ⟨את⟩ Gat-Rimon ug ⟨את⟩ ang iyang mga migrah — upat ka dakbayan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:13.948770015Z",
+  "model": "glm-5.3"
+}

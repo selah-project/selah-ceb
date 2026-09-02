@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gihugawan niya ⟨את⟩ ang Tofet nga anaa sa walog sa mga anak ni Hinnom, aron walay makapaagi ang usa ka tawo sa iyang anak ⟨את⟩ ug sa iyang anak nga babaye ⟨את⟩ sa kalayo alang kang Molekh.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Ug gihugawan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ang Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ni Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aron walay"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "makapaagi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa iyang anak nga babaye"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iyang anak nga babaye"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "alang kang Molekh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:01.653494842Z",
+  "model": "glm-5.3"
+}

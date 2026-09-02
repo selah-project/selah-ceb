@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gibutang niya ⟨siya⟩ nga agalon sa iyang panimalay, ug nga mosohol sa tibuok niyang kabtangan.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "agalon"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "sa iyang panimalay"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ug nga mosohol"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "iyang kabtangan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.182708924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kining bulana ang ⟨mahimong⟩ ulo sa mga bulan alang kaninyo; kini ang una alang kaninyo sa mga bulan ⟨sa⟩ tuig.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Kining bulana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sa mga bulan"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "una"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "sa mga bulan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "sa tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:35.059029106Z",
+  "model": "glm-5.3"
+}

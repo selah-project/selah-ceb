@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Yahweh, Elohim nako, nangaliyo ako ngadto kanimo, ug imong gipauli ako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nako"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nangaliyo ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ug imong gipauli ako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:00.026926148Z",
+  "model": "glm-5.3"
+}

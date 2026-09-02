@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug si Noakh nagmata gikan sa iyang bino, ug nahibalo siya ⟨את⟩ sa gibuhat sa iyang anak nga gagmayng anak.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "nagmata"
+    },
+    {
+      "surface": "נח",
+      "gloss": "si Noakh"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "gikan sa iyang bino"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ug nahibalo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa gibuhat sa iyang anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa gibuhat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nga gagmayng anak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:35.105646362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Gihuyop mo ang imong gininhawa, gilubog sila sa dagat; nalubog sila ingon sa tingga sa mga gamhanang tubig.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "gihuyop mo"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ang imong gininhawa"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "gilubog sila sa dagat"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "nalubog sila"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "ingon sa tingga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "gamhanang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:33.413503413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kadtong nangaon sa ⟨mga⟩ lamian napakyas ⟨sa⟩ mga kalsada; kadtong nagdala ug ⟨mga⟩ balahibo sa tunok gilutos ang mga baha.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "kadtong nangaon sa lamian"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "sa mga lamian"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "napakyas"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "sa mga kalsada"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "kadtong gisuportahan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "tunok (ula sa kolor)"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "gilutos"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "mga baha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:49:39.866651531Z",
+  "model": "glm-5.3"
+}

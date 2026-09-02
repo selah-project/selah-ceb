@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ben-Deker, sa Makats, ug sa Shaalvim, ug sa Beth-Shemesh, ug sa Elon-Beth-Khanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "sa Makats"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "ug sa Shaalvim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ug sa Beth-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ug sa Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Khanan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:54.465247926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 119:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nagtulo sa kasubo ang akong nefesh; padunga ako sumala sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "דלפה",
+      "gloss": "nagtulo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "מתוגה",
+      "gloss": "sa kasubo"
+    },
+    {
+      "surface": "קימני",
+      "gloss": "padunga ako"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sumala sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.894542940Z",
+  "model": "glm-5.3"
+}

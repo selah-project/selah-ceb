@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Mahitungod sa katawa nakong nak: ⟨kini kay⟩ buang; ug mahitungod sa kalipay: Unsa kini ang buhaton niini?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "mahitungod sa katawa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nakong nak"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "buang"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ug mahitungod sa kalipay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang buhaton niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:59.633753668Z",
+  "model": "glm-5.3"
+}

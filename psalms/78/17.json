@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug nagdugang pa sila sa pagpakasala kaniya, sa pagrebelde batok sa Elyon sa ⟨tinuyo nga yuta⟩.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "ug nagdugang pa sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "sa pagpakasala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "sa pagrebelde"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "sa ⟨tinuyo nga yuta⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:54.390607398Z",
+  "model": "glm-5.3"
+}

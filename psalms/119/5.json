@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Unsaon ta kaha nga matinud-anon ⟨ang⟩ akong mga dalan sa pagbantay sa imong mga statuto.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Unsaon ta kaha nga"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang akong mga dalan"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga statuto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.628574006Z",
+  "model": "glm-5.3"
+}

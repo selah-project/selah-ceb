@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gipapahawa niya ⟨את⟩ si Yehoyakhin ngadto sa Bavel, ug ⟨את⟩ ang inahan sa hari, ug ⟨את⟩ ang mga asawa sa hari, ug ⟨את⟩ ang iyang mga eunuko, ug ⟨את⟩ ang mga kusganon sa yuta — kini gidala niya nga biya gikan sa Yerushalayim ngadto sa Bavel.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "ug gipapahawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehoyakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ngadto sa Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang inahan sa hari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inahan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga asawa sa hari"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "mga asawa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga eunuko"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "iyang mga eunuko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kusganon sa yuta"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "mga kusganon"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "gidala"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "nga biya"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "gikan sa Yerushalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ngadto sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:53.254864690Z",
+  "model": "glm-5.3"
+}

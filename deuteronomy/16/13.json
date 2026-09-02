@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang fiesta sa mga Sukot imong buhaton alang kanimo, pito ka adlaw, sa imong pagtipon gikan sa imong giikanan ug gikan sa imong lagton sa ubas.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "Ang fiesta"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "sa mga Sukot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "sa imong pagtipun"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "gikan sa imong giikanan"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "ug gikan sa imong lagton sa ubas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:09.251155539Z",
+  "model": "glm-5.3"
+}

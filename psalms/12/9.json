@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Nalibotan ⟨kini⟩ ang mga dautan nga naglakat-lakat, kung ang kaulaw gitas-on sa taliwala sa mga anak ni tawo.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "nalibotan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "naglakat-lakat"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ang kaulaw"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:25.147790028Z",
+  "model": "glm-5.3"
+}

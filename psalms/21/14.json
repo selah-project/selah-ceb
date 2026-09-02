@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Yahweh, timaila ka sa imong kusog; maghikanta kami ug magdayeg sa imong kagahum.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "timaila ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "sa imong kusog"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "maghikanta kami"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "ug magdayeg"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "imong kagahum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:41.611232270Z",
+  "model": "glm-5.3"
+}

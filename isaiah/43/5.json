@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ayaw kahadlok, kay kanimo ⟨את⟩ ako; gikan sa sidlakan dad-on nako ⟨ang⟩ imong kaliwat, ug gikan sa kasadpan tigomon ⟨ikaw⟩ taka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "gikan sa sidlakan"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "dad-on nako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imong kaliwat"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ug gikan sa kasadpan"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "tigomon taka"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:27.627222628Z",
+  "model": "glm-5.3"
+}

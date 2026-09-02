@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gikuha ni Moshe ug ni Aharon ⟨את⟩ kadtong mga tawhana nga gipakita sa ilang mga ngalan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gikuha ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug ni Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadtong mga tawhana"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawhana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kadtong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "gipakita"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "sa ilang mga ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:09.879534177Z",
+  "model": "glm-5.3"
+}

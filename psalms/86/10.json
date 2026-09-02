@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Kay ikaw ⟨∅⟩ dako ug nagabuhat ug mga katingalahan, ikaw nga Elohim lamang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug nagabuhat"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "lamang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.180186374Z",
+  "model": "glm-5.3"
+}

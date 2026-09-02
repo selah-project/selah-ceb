@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gibangutan ni David ⟨את⟩ ang kining bangutang kaniya kang Shaul ug kang Yehonatan nga iyang anak.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ug gibangutan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kining bangutang"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ang bangutang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kining"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaniya kang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:24.914179891Z",
+  "model": "glm-5.3"
+}

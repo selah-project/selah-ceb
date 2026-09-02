@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "dili ako maghatag ug tugnaw sa akong mga mata, kahapon sa akong mga kurog sa mata,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "dili (kon)"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tugnaw"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa akong mga mata"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "sa akong mga kurog sa mata"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "kahapon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:02.905591574Z",
+  "model": "glm-5.3"
+}

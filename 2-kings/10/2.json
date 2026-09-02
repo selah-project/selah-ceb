@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug karon, sa pag-abot niining sulata ngadto kaninyo — ug ⟨את⟩ ang mga anak sa inyong agalon anaa uban kaninyo, ug ⟨את⟩ ang mga karo ug ang mga kabayo, ug ⟨את⟩ ang lungsod nga kuta ug ang mga armas —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang sulat"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ngadto kaninyo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ uban kaninyo",
+      "marks": "ang mga anak sa inyong agalon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "sa inyong agalon"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ uban kaninyo",
+      "marks": "ang mga karo ug ang mga kabayo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "mga karo"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "ug mga kabayo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ug lungsod"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "nga kuta"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "ug mga armas"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:31.274303381Z",
+  "model": "glm-5.3"
+}

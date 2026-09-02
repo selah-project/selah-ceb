@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Ang akong mga saad kang Yahweh tumanon ko, karon sa atubangan sa tanan niyang mga tawo.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ang akong mga saad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "tumanon ko"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niyang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:56.615908105Z",
+  "model": "glm-5.3"
+}

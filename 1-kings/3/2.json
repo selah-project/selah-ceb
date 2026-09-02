@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Bisan pa, ⟨ang⟩ katawhan nagsakop sa mga bama, kay wala pa matukod ang balay alang sa Ngalan ni Yahweh hangtod sa mga adlaw ngaadtowa.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Bisan pa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "nagsakop"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga bama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "matukod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "alang sa Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ngaadtowa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:44.516052002Z",
+  "model": "glm-5.3"
+}

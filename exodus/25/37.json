@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug imong ⟨gibuhat⟩ ⟨את⟩ ang iyang pito ka mga lamparahan, ug ⟨padungaton⟩ ⟨את⟩ ang iyang mga lamparahan, ug molanay kini sa atbang sa iyang nawong.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang pito ka mga lamparahan"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "iyang mga lamparahan"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "padungaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga lamparahan"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "iyang mga lamparahan"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "molanay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "iyang nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:12.969432820Z",
+  "model": "glm-5.3"
+}

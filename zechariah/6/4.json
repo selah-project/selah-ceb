@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ako mitubag ug ako nagsulti ngadto sa anghel nga nagsulti kanako: Unsa kini, akong Adonay?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "mitubag ako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nagsulti ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anghel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagsulti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akong Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:21.177901229Z",
+  "model": "glm-5.3"
+}

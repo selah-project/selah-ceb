@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ug gidala niya ako ngadto sa ⟨templo⟩, ug gisukod niya ⟨את⟩ ang mga haligi — unom ka siko ang gilapdon gikan sa dinhi, ug unom ka siko ang gilapdon gikan sa dinha — ang gilapdon sa ⟨pulong-dihot⟩.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "gidala niya ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨templo⟩"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ug gisukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga haligi"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gilapdon"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "gikan sa dinhi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gilapdon"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "gikan sa dinha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gilapdon"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa ⟨pulong-dihot⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T21:47:01.884611424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug himoon mo ang duha ka kerubin nga bulawan; hinulma sa martilyo ang pagbuhat mo kanila ⟨את⟩, gikan sa duha ka tumoy sa ⟨⟨ang⟩⟩ kaporohan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug himoon mo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "mga kerubin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "hinulma sa martilyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ang pagbuhat mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila (ang duha ka kerubin)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "gikan sa duha"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tumoy"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang kaporohan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:50.757420681Z",
+  "model": "glm-5.3"
+}

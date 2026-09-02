@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ang katinuod ug ang kaigsoonan magbantay kanako, kay kanimo ako naghulat.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "katinuod"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "kaigsoonan"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "magbantay kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "kanimo ako naghulat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:56.784509288Z",
+  "model": "glm-5.3"
+}

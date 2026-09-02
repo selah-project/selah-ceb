@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug magpangahad ⟨siya⟩, apan ⟨את⟩ ang sika dili niya pangahadon; ug isira sa kohen ⟨את⟩ ang sika ⟨sa⟩ pito ka adlaw, pag-usab.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "magpangahad siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang sika"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang sika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "niya pangahadon"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ug isira"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sika"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ang sika"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "pag-usab"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:32.401233456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa adlaw nga hitsura, igulti ngadto sa Yerushalayim: Ayaw kahadlok; Tsiyon, ayaw pagpahuya sa imong mga kamot.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga hitsura"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "igulti"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ngadto sa Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "pagpahuya"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sa imong mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:32.866489870Z",
+  "model": "glm-5.3"
+}

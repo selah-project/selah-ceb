@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Apan kon mobalik ang tinagbuhat nga buhi ug matapon ngadto sa puti, moanha siya ngadto sa kohen.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "apan kon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(kon)"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ang tinagbuhat"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ug matapon"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ngadto sa puti"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "moanha siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:57.596287449Z",
+  "model": "glm-5.3"
+}

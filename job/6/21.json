@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kay karon ⟨kamo⟩ wala na; nakakita kamo og katalagman, ug nanghadlok kamo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamo ⟨wala na⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nakakita kamo"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "katalagman"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "ug nanghadlok kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:25.251333766Z",
+  "model": "glm-5.3"
+}

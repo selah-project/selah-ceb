@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kung paglutoson gayod ninyo ⟨siya⟩ ⟨את⟩ — kay sa pagtilaw gayod nga motilaw siya kanako, magadungog gayod ako sa iyang pagtilaw.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kung"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "paglutoson"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "gayod ninyo paglutoson"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "pagtilaw"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "gayod nga motilaw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "magadungog"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "gayod ako madungog"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "iyang pagtilaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:46.591290315Z",
+  "model": "glm-5.3"
+}

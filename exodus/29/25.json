@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 29:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug kuhaa sila ⟨gikan sa ilang mga kamot⟩, ug pahimuslon sa hawaanan ang mga butang ibabaw sa halad-nga-sinunog, alang sa humot nga kahalipay atubang ni Yahweh — halad sa kalayo kini alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ug kuhaa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga butang gikan sa ilang mga kamot)"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ilang mga kamot"
+    },
+    {
+      "surface": "והקטרת",
+      "gloss": "ug pahimuslon sa hawaanan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ang hawaanan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang halad-nga-sinunog"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "alang sa humot"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "nga kahalipay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad sa kalayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:56.879427174Z",
+  "model": "glm-5.3"
+}

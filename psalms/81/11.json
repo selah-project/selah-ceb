@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Ako mao si Yahweh nga imong Elohim, nga nagpatindog kanimo gikan sa yuta sa Mitsrayim: padak-a ang imong baba ug aku pun-oni kini.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "nga nagpatindog kanimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "padak-a"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang imong baba"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ug aku pun-oni kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:48.230821833Z",
+  "model": "glm-5.3"
+}

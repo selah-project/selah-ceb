@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nanguna ang akong mga mata sa ⟨mga⟩ bantay sa gabii, sa pagpamalandong sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "nanguna"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "⟨mga⟩ bantay sa gabii"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "sa pagpamalandong"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:50.528362082Z",
+  "model": "glm-5.3"
+}

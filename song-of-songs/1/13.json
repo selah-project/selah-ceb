@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang bugkos sa mor akong hinigugma ⟨sa⟩ akoa; taliwala sa akong mga suso magpabilin ⟨siya⟩ sa gabii.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "bugkos"
+    },
+    {
+      "surface": "המר",
+      "gloss": "sa mor"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "akong hinigugma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sa⟩ akoa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "akong mga suso"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "magpabilin sa gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:02.057506906Z",
+  "model": "glm-5.3"
+}

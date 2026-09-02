@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 10:24",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug si Shemuel miingon sa tibuok katawhan: «Nakita ba ninyo siya nga gipili ni Yahweh, kay walay kapareha niya sa tibuok katawhan?» Ug misinggit ang tibuok katawhan ug miingon: «Mabuhi ang hari!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "nakita ba ninyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "siya nga"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "gipili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "kapareha niya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "misinggit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "mabuhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:45.163830399Z",
+  "model": "glm-5.3"
+}

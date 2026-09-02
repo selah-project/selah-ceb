@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Nga nagaingon: Gibiyaan na siya ni Elohim; lumbia ug dakpon siya, kay wala nay manluluwas.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "gibiyaan na siya"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "lumbia"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "ug dakpon siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala nay"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "manluluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:28.792431601Z",
+  "model": "glm-5.3"
+}

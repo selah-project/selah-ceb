@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug napabilin pa sa mga anak ni Yisrael nga wala pa magbahin ⟨sa⟩ ⟨את⟩ sa ilang panunod, pito ka banay.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "ug napabilin pa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "magbahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang panunod"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ilang panunod"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "banay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:02:26.982408515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug milakaw ang mga anak ni Yisrael ug gigbuhat nila; ingon sa gisugo ni Yahweh ⟨את⟩ kang Moshe ug kang Aharon, mao kini ang ilang gibuhat.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ug milakaw"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gibuhat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:15.259996222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gisimba nila ⟨את⟩ ilang mga dios-dios, ug nahimong moadang kini ngadto kanila.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Ug gisimba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga dios-dios"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ilang mga dios-dios"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "moadang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.645161324Z",
+  "model": "glm-5.3"
+}

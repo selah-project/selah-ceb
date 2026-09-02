@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug gigam-an niya ⟨את⟩ si Israel ug pakyason, ug si Yehonatan, anak ni Shimea, igsoon ni David, ang miyaong mopatay kaniya.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "gigam-an ug pakyason"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ang miyaong mopatay kaniya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "ni Shimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:30.185620202Z",
+  "model": "glm-5.3"
+}

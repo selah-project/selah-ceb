@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gidakop ni David ⟨את⟩ ang kuta sa Tsiyon — kini ⟨ang⟩ maoy ⟨ang⟩ dakbayan ni David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "gidakop ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kuta sa Tsiyon"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ang kuta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:20.614748230Z",
+  "model": "glm-5.3"
+}

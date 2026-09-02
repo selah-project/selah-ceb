@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Mata ba sa unod ang naa Kanimo? Ba mangitaaw Ka ingon sa pagtan-aw sa tawo?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "mata ba"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "sa unod"
+    },
+    {
+      "surface": "לך",
+      "gloss": "naa Kanimo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ingon sa pagtan-aw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sa tawo (mortal)"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "mangitaaw Ka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:46.217136650Z",
+  "model": "glm-5.3"
+}

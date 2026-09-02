@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug matipon ⟨ang⟩ inyong sawan, ingon sa pagtipon sa mga balang; sama sa pagsulhong sa mga balang, modali-dali sila magdagan sa ibabaw niini.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "ug matipon"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "inyong sawan"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "pagtipon"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "mga balang"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "sama sa pagsulhong"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "mga balang"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "modali-dali magdagan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa ibabaw niini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:34.664967855Z",
+  "model": "glm-5.3"
+}

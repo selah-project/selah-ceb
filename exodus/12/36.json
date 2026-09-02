@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug si Yahweh naghatod ⟨את⟩ sa grasya sa katawhan sa atubangan sa mga mata sa Mitsrayim, ug gipahulam nila kini kanila; ug sila nanulis ⟨את⟩ sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa grasya"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubangan sa mga mata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "ug gipahulam nila kini kanila"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "ug sila nanulis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:06.145472892Z",
+  "model": "glm-5.3"
+}

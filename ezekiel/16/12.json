@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Gibutang ko ang singsing sa imong ilong, ug ang mga hikaw sa imong mga dunggan, ug ang korona sa kaanyag sa imong ulo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "gibutang ko"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "ang singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "imong ilong"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "ang mga hikaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "imong mga dunggan"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "ang korona"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sa kaanyag"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "imong ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:36:30.603873911Z",
+  "model": "glm-5.3"
+}

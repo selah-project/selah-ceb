@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Ang naghimo sa kalangitan ug sa yuta, ⟨את⟩ sa dagat ug ⟨את⟩ sa tanan nga anaa sulod niini — ang nagbantay sa kamatuoran hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ang naghimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug sa yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan nga anaa sulod niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בם",
+      "gloss": "anaa sulod niini"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ang nagbantay"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:24.324098857Z",
+  "model": "glm-5.3"
+}

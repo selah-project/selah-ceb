@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "Kanta sa mga pag-angat. Gikan sa mga kalaluman gitawag ko ikaw, Yahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Kanta"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angat"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Gikan sa mga kalaluman"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "gitawag ko ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:51.395444320Z",
+  "model": "glm-5.3"
+}

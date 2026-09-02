@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Pahulgaon sila ⟨ug⟩ mga nagadangol nga baga; sa kalayo pagahunong ⟨sila⟩, ngadto sa mga lungag — dili na sila mobangon.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "pahulgaon"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "mga nagadangol nga baga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "pagahunong"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "sa mga lungag"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "mobangon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:57.034809152Z",
+  "model": "glm-5.3"
+}

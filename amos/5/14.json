@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 5:14",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Pangitaa ang maayo ug dili ang daotan, aron mabuhi kamo; ug mahimo kini — si Yahweh, Elohim sa mga panon, ⟨mahimong⟩ uban ⟨את⟩ ninyo, ingon sa inyong gisulti.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Pangitaa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "mabuhi kamo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug mahimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "mga panon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninyo",
+      "marks": "ninyo (kauban)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "inyong gisulti"
+    }
+  ],
+  "timestamp": "2026-09-01T21:54:33.129258745Z",
+  "model": "glm-5.3"
+}

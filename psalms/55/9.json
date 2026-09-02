@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Magdali ako sa paglangyaw ⟨alang kanako⟩, gikan sa hangin nga nagdali, gikan sa unos.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "magdali ako"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "paglangyaw"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "gikan sa hangin"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "nagdali"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "gikan sa unos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:18.075017049Z",
+  "model": "glm-5.3"
+}

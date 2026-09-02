@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Usa ka alawiton sa pag-agsa. Hinumdomi, Yahweh, alang kang David ⟨את⟩ ang tanan niyang pag-antos.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "alawiton"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa pag-agsa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "alang kang David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niyang pag-antos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "niyang pag-antos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:02.905126812Z",
+  "model": "glm-5.3"
+}

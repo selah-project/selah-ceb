@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ⟨siya⟩ miingon: Sa ugma. Ug ⟨siya⟩ miingon: Sumala sa imong pulong — aron makaila ikaw nga walay ⟨sama⟩ kang Yahweh, ang atong Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Sa ugma"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sumala sa imong pulong"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "makaila ikaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay ⟨sama⟩"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:20.786940061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ⟨את⟩ sa mga Pathrusim, ug ⟨את⟩ sa mga Kasluchim, diin gikan kanila migula ang mga Pelishteh, ug ⟨את⟩ sa mga Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "mga Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "mga Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "migula"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "mga Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.111212354Z",
+  "model": "glm-5.3"
+}

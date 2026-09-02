@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Balaan ang Yisrael kang Yahweh, ang unang bunga sa iyang ani; ang tanan nga mokaon niini magkasalipod, kadaotan moabot kanila, giingon ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ang unang bunga"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sa iyang ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "nga mokaon niini"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magkasalipod"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:13:35.384829006Z",
+  "model": "glm-5.3"
+}

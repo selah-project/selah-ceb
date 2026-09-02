@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug ang mga anak ni Israel nanguli gikan sa pagsunod nga mainit human sa mga Peleshtiano, ug gipanghasi nila ⟨את⟩ ang ilang mga kampo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nanguli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "pagsunod nga mainit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshtiano"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "gipanghasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga kampo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "mga kampo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:42.356796466Z",
+  "model": "glm-5.3"
+}

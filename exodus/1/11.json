@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gipahimutang nila ibabaw niya ang mga mangulo sa mga bugkos sa pagpanarbaho, aron paglutos kaniya pinaagi sa ilang mga karga; ug gitukod niya ang mga lungsod sa mga kamalig alang kang Paro, ⟨את⟩ ang Pitom ug ⟨את⟩ ang Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Gipahimutang nila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ibabaw niya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga mangulo"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "sa mga bugkos sa pagpanarbaho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "paglutos kaniya"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "piraagi sa ilang mga karga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ug gitukod niya"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ang mga lungsod"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "sa mga kamalig"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "alang kang Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "ang Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "ang Raamses"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:26.876944646Z",
+  "model": "glm-5.3"
+}

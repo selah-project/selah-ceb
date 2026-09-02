@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug nagsulti si Yahweh kang Menasheh ug sa iyang katawhan, apan wala sila mamati.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ug nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "sila mamati"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:13.192878776Z",
+  "model": "glm-5.3"
+}

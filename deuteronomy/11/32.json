@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug magbantay kamo sa pagbuhat ⟨את⟩ sa tanan nga mga estatuto ug ⟨את⟩ sa mga paghukom nga akong gipangunahan kaninyo karon nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ug magbantay kamo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga estatuto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mga estatuto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga paghukom"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mga paghukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gipangunahan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karong adlawa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:52.593846124Z",
+  "model": "glm-5.3"
+}

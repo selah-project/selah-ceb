@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug si Mikayahu miingon: Buhì si Yahweh — kay ⟨את⟩ ang isulti sa akong Elohim, siya ang akong sultihon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "si Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhì"
+    },
+    {
+      "surface": "יוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang isulti sa akong Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa akong Elohim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (ang gisulti)"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ang akong sultihon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:36.239446991Z",
+  "model": "glm-5.3"
+}

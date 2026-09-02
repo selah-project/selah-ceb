@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 1:9",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug human niana nanaw ang mga anak ni Yehudah sa pagpakig-away batok sa ⟨mga⟩ Kanaaninhon, nga nagpuyo sa bukid, ug sa Negev, ug sa kapatagan.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ug human niana"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nanaw"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "sa pagpakig-away"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "batok sa Kanaaninhon"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nga nagpuyo sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "והנגב",
+      "gloss": "ug ang Negev"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ug ang kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:52.869019157Z",
+  "model": "glm-5.3"
+}

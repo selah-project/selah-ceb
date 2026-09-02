@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kon may makit-an nga makaplagan sa iyang kamot ang nakawat nga buhi — baka, buriko, o karnero — duha ⟨ka pilo⟩ iyang bayaran.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "may makit-an"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "ang nakawat"
+    },
+    {
+      "surface": "משור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "buriko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "o"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "iyang bayaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:40.088926387Z",
+  "model": "glm-5.3"
+}

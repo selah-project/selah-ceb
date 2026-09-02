@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Paningali ako, ug kaloy-i ako; ihatag ang imong kusog ngadto sa imong sulugoon, ug luwasa ang anak sa imong sulugang babaye.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Paningali"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ug kaloy-i ako"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ang imong kusog"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ngadto sa imong sulugoon"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ug luwasa"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ang anak"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sa imong sulugang babaye"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:23.093549208Z",
+  "model": "glm-5.3"
+}

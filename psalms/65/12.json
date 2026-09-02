@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Gikoronahan nimo ang tuig sa imong kaayohan, ug ang imong mga agianan nagatulo ug taba ⟨kalabwan⟩.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "gikoronahan nimo"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ang tuig"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "sa imong kaayohan"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "ug ang imong mga agianan"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "nagatulo ug"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "taba (kalabwan)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:30.304166744Z",
+  "model": "glm-5.3"
+}

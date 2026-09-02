@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kay mamati ang hari sa pagluwas ⟨את⟩ sa iyang sulugbayan gikan sa kamot sa tawhana nga nagtinguha sa paglaglag ⟨את⟩ kanako ug ⟨את⟩ sa akong anak nga magkauban, gikan sa manunanod nga bahin ni Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "sa pagluwas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang sulugbayan"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "iyang sulugbayan"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawhana"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nga magkauban"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "gikan sa manununod nga bahin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:22.465634459Z",
+  "model": "glm-5.3"
+}

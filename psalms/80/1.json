@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Ngadto sa magdumala ⟨sa kanta⟩, sumala sa «Shoshannim-Eduth», pagsaksi alang kang Asaf, usa ka mizmor ⟨psalmo⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ngadto sa magdumala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth (pagsaksi)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kang Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:15.726375035Z",
+  "model": "glm-5.3"
+}

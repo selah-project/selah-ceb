@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Dili siya mosalag ug dili siya mabali, hangtod nga siya magbutang sa yuta ug pagatungdanan; ug sa iyang tora ang mga kapupud-an magapaabut.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "siya mosalag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "siya mabali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "siya magbutang"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ug pagatungdanan"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "ug sa iyang tora"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ang mga kapupud-an"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "magapaabut"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:25.228905429Z",
+  "model": "glm-5.3"
+}

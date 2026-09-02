@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Usa ka awit, usa ka mizmor, alang sa mga anak ni Korach.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Usa ka awit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:29.750066623Z",
+  "model": "glm-5.3"
+}

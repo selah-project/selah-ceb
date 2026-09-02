@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nga nahulog ang kalayo ni Yahweh, ug mikaon ⟨sa⟩ ⟨את⟩ ⟨mga⟩ halad nga sinunog, ug ⟨sa⟩ ⟨את⟩ ⟨mga⟩ kahoy, ug ⟨sa⟩ ⟨את⟩ ⟨mga⟩ bato, ug ⟨sa⟩ ⟨את⟩ ⟨mga⟩ abuhok, ug ginalid-an ⟨ang⟩ tubig nga anaa sa kanal.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mikaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨mga⟩ halad nga sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨mga⟩ halad nga sinunog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨sa⟩ ⟨את⟩",
+      "marks": "⟨mga⟩ kahoy"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "⟨mga⟩ kahoy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨sa⟩ ⟨את⟩",
+      "marks": "⟨mga⟩ bato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "⟨mga⟩ bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨sa⟩ ⟨את⟩",
+      "marks": "⟨mga⟩ abuhok"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "⟨mga⟩ abuhok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ug ⟨ang⟩"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga anaa"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "sa kanal"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "ginalid-an"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:42.310106774Z",
+  "model": "glm-5.3"
+}

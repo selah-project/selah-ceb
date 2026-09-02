@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug mitanyag ang hari ⟨את⟩ sa iyang nawong, ug miadyin siya ⟨את⟩ sa tibuok katilingban sa Israel, ug ang tibuok katilingban sa Israel nagtindog ⟨magpaila⟩.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mitanyag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa iyang nawong"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug miadyin siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tibuok katilingban"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "nagtindog"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:56.698857747Z",
+  "model": "glm-5.3"
+}

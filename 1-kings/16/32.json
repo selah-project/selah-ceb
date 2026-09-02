@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug nagtindog siya ug altar alang kang Baal sa balay ni Baal, nga iyang gipatindog sa Shomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ug nagtindog siya ug"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "alang kang Baal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay ni"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iyaang gipatindog"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:00.202237667Z",
+  "model": "glm-5.3"
+}

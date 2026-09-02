@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang nahitabo na kaniadto — kana ⟨na⟩ kini; ug ang paabuton — kaniadto na kini nahitabo; ug gipangita sa ⟨ha⟩Elohim ⟨את⟩ ang gipangitas.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ang"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nahitabo na"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kaniadto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug ang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "paabuton"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kaniadto"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ug Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "gipangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gipangitas"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ang gipangitas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:53.605054557Z",
+  "model": "glm-5.3"
+}

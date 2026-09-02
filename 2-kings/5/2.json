@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 5:2",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang mga taga-Aram nanggawas sa mga panon sa mangungusog ug nadakip nila gikan sa yuta sa Yisrael ang usa ka gagmayng dalaga; ug siya nag-alagad ⟨atubangan⟩ sa asawa ni Naaman.",
+  "tokens": [
+    {
+      "surface": "וארם",
+      "gloss": "Ug ang mga taga-Aram"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nanggawas"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "sa mga panon sa mangungusog"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nadakip nila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "gagmay"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug siya nagkahimood"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sa asawa"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "ni Naaman"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:03.985504439Z",
+  "model": "glm-5.3"
+}

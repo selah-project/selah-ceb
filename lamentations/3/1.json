@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ako ang lalaki nga nakakita sa pag-agiit sa tunga sa puthot sa iyang kaakgulan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pag-agiit"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sa tunga sa puthot"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "iyang kaakgulan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:57.786127382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gipapahawa si Kajin gikan sa atubangan ni Yahweh ug nagpuyo siya sa yuta sa Nod, sidlakan sa Eden.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gipapahawa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "si Kajin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo siya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "sa Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "sidlakan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Eden"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:36.302612491Z",
+  "model": "glm-5.3"
+}

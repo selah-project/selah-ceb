@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ayaw pangandoy sa iyang mga lami, kay kini maoy pagkaon sa bakak.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "pangandoy"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "sa iyang mga lami"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kay kini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:46.154069024Z",
+  "model": "glm-5.3"
+}

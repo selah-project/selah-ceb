@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang himaya sa mga maalam mapanunodsod nila, apan ang mga buang sa pagpatungas nagadala sa kaulawan.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalam"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "mapanunodsod nila"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "apan ang mga buang"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "sa pagpatungas"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "kaulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:01.774626046Z",
+  "model": "glm-5.3"
+}

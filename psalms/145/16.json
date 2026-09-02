@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Nagabukas Ikaw ⟨את⟩ imong kamot, ug nagapasibu sa tanan nga buhi ⟨sa ilang gusto⟩.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "nagabukas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong kamot"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imong kamot"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "ug nagapasibu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "sa ilang gusto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.306091500Z",
+  "model": "glm-5.3"
+}

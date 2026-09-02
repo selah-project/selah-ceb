@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug ang Mitsrayim — kawang ug walay sulod ang ilang tabang; busa gitawag ko kini: Rahab nga Nagpahulay Lang.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ug ang Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kawang"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "ug walay sulod"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "ang ilang tabang"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gitawag ko"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nga mao kini"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Nagpahulay Lang"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:58.419852653Z",
+  "model": "glm-5.3"
+}

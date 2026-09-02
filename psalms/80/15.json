@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Elohim sa ⟨mga panon⟩, umulipod ⟨na⟩; tan-awa gikan sa kalangitan ug pagtan-awa, ug bisitahi ⟨את⟩ kining ugas.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "sa ⟨mga panon⟩"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "umulipod"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa kalangitan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ug pagtan-awa"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ug bisitahi"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ugas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kining"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:37.868378038Z",
+  "model": "glm-5.3"
+}

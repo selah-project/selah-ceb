@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 1:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mokanaog-alsa kining tawhana gikan sa iyang dakbayan, adlaw gikan sa adlaw ⟨matag tuig⟩, sa pagsimba ug sa paghalad ngadto kang Yahweh Tsevaot sa Shilo; ug didto ang duha ka anak ni Eli, sila Hofni ug Pinehas, mga pari kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ועלה",
+      "gloss": "ug mokanaog-alsa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kining tawhana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מעירו",
+      "gloss": "gikan sa iyang dakbayan"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "adlaw gikan sa"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "sa pagsimba"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "ug sa paghalad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "sa Shilo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Hofni"
+    },
+    {
+      "surface": "ופנחס",
+      "gloss": "ug Pinehas"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:42.836319283Z",
+  "model": "glm-5.3"
+}

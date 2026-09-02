@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug giingon niya ngadto sa Yehudah nga pangitaa nila ⟨את⟩ si Yahweh, ang Elohim sa ilang mga katsila, ug buhaton ang Torá ug ang mando.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "giingon niya"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ngadto sa Yehudah"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "nga pangitaa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "sa ilang mga katsila"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ug buhaton"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ang Torá"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "ug ang mando"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:23.895481823Z",
+  "model": "glm-5.3"
+}

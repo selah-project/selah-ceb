@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug ang mga anak ni Reuven nagtukod ⟨את⟩ sa Kheshbon ug ⟨את⟩ sa Elale ug ⟨את⟩ sa Kiryataim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ni Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Kheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "sa Kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "sa Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "sa Kiryataim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:53.809245587Z",
+  "model": "glm-5.3"
+}

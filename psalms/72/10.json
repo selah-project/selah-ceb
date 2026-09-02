@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Ang mga hari sa Tarshish ug sa mga pulo magbalik ug tributo; ang mga hari sa Sheba ug Seba magdala ug mga gasa.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "sa Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "ug sa mga pulo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tributo"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sa Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ug sa Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "mga gasa"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "magdala (magduol)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.833375356Z",
+  "model": "glm-5.3"
+}

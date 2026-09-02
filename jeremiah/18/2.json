@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Tumindog ka ug manaog sa balay sa magbubulak; ug didto ipapabati ko sa imo ⟨את⟩ ang akong mga pulong.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ug manaog"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "sa magbubulak"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ipapabati ko sa imo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang akong mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:13.959531113Z",
+  "model": "glm-5.3"
+}

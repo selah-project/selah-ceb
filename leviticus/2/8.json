@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug dad-on nimo ⟨את⟩ ang mincha nga buhaton gikan sa mga butanga ngadto kang Yahweh, ug idukot kini ngadto sa pari, ug paadton kini ngadto sa halaran.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ug dad-on nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "gikan sa mga butanga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ug idukot kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "pari"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ug paadton kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.509871232Z",
+  "model": "glm-5.3"
+}

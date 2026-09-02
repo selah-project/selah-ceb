@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 142,
+  "translation": "Sa paglukob sa akong espiritu ⟨sulod⟩ kanako, ug ikaw nakaila sa akong agianan; sa dalan nga ⟨kini⟩ akong gilakatan nagtago sila ug lit-ag alang kanako.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Sa paglukob"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "sa akong espiritu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "sa akong agianan"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "akong gilakatan"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "nagtago sila"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ug lit-ag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:14.892775977Z",
+  "model": "glm-5.3"
+}

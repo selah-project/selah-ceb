@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Tungod kang David, ang imong sulugoon, ayaw pagbalikad ⟨sa⟩ dagway sa imong Mesiyas.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "tungod kan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "pagbalikad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨sa⟩ dagway"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sa imong Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:47.350274118Z",
+  "model": "glm-5.3"
+}

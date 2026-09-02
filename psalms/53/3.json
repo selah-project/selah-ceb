@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Gitan-aw ni Elohim gikan sa mga langit ⟨sa⟩ mga anak ni Adam, aron makita kon adunay matinud-anong nasabtan, nga naningkamot ⟨את⟩ pagpangita sa Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Si Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "gikan sa mga langit"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "gitan-aw \/ milantaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam (sa tawo)"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron makita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kon adunay"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "matinud-anong nasabtan"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "naningkamot pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:13.593054859Z",
+  "model": "glm-5.3"
+}

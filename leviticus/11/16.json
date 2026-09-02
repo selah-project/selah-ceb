@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ⟨את⟩ ang anak nga babae sa ya'anah, ug ⟨את⟩ ang tahmas, ug ⟨את⟩ ang shachaf, ug ⟨את⟩ ang netts sumala sa iyang matang;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang anak nga babae sa ya'anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak nga babae"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "sa ya'anah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ang tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ang shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang netts"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ang netts"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sumala sa iyang matang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:57.779661108Z",
+  "model": "glm-5.3"
+}

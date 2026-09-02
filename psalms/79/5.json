@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Hangtod kanus-a, Yahweh? Magkaligot ka ⟨hangtod sa kahangturan⟩? Modaop ba ingon sa kalayo ang imong pangilog?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Magkaligot ka"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨hangtod sa kahangturan⟩"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "Modaop ba"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ang imong pangilog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:10.947173973Z",
+  "model": "glm-5.3"
+}

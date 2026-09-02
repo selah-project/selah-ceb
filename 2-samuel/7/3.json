@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Si Natan nagsulti ngadto sa hari: Buhata ang tanan ⟨nga⟩ anaa sa imong kasingkasing — lakaw, buhata, kay si Yahweh ⟨anan-a⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa imong kasingkasing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨anan-a⟩ kanimo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:12.850374091Z",
+  "model": "glm-5.3"
+}

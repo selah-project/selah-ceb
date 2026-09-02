@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Sa baba sa ulitawo may latigo sa kahambugan, apan ang mga ngabil sa mga maalam magbantay kanila.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "Sa baba"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sa ulitawo"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "may latigo"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sa kahambugan"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "apan ang mga ngabil"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalam"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "magbantay kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:46.062801625Z",
+  "model": "glm-5.3"
+}

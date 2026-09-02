@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nahitabo kini, sa pagkamatay ni Achav, nga ang hari sa Moav nag-alsa batok sa hari sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitabo kini"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "sa pagkamatay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Achav"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "nag-alsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moav"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "batok sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:37.154218347Z",
+  "model": "glm-5.3"
+}

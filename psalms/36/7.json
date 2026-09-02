@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ang imong pagkamatarong ⟨sama⟩ sa mga bukid ni El; ang imong mga pagtulon-an ⟨sama sa⟩ dakong kalalawiran; ang tawo ug ang mga hayop imong luwason, Yahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "imong pagkamatarong"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "sama sa mga bukid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "imong mga pagtulon-an"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kalalawiran"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "ug ang mga hayop"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "imong luwason"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:53.555135868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mimiti ang akong unod gikan sa imong kahadlok, ug nakahadlok ako sa imong mga pagtilaw.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Mimiti"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "gikan sa imong kahadlok"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ug sa imong mga pagtilaw"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "nakahadlok ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:12.677193027Z",
+  "model": "glm-5.3"
+}

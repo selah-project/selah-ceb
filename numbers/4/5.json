@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug mosulod si Aharon ug ang iyang mga anak sa diha nga molarga ang kampo, ug ilang paubson ⟨את⟩ ang tabil sa kurtina, ug tabonon nila niini ⟨את⟩ ang kahon sa pagsaksi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ug mosulod"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "sa diha nga molarga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ang kampo"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "ug ilang paubson"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabil"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ang tabil"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sa kurtina"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ug tabonon nila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahon sa pagsaksi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sa pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:49.272095180Z",
+  "model": "glm-5.3"
+}

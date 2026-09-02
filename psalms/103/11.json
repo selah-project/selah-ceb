@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Kay ingon sa kahitas-on sa kalangitan igawas sa ⟨mga⟩ yuta, ingon niana nakusog ang iyang hesed (maloloy-on nga gugma) sa mga nagakalahad kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ingon sa kahitas-on"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "על",
+      "gloss": "igawas sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨mga⟩ yuta"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "nakusog"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nagakalahad kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:52.225034675Z",
+  "model": "glm-5.3"
+}

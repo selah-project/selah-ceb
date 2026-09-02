@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Elohim, bag-ong awit ako magakanta alang kanimo, didto sa napulo ka-kuwerdas nga nebel ako magatugtog alang kanimo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ako magakanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "didto sa nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "napulo ka-kuwerdas"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ako magatugtog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:58.386181656Z",
+  "model": "glm-5.3"
+}

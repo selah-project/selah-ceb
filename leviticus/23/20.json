@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug iyaliyas sa sacerdote sila ⟨את⟩ uban sa tinapay sa mga unang bunga — usa ka aliyas atubang ni Yahweh — uban sa duha ka naling; balaan sila alang kang Yahweh, alang sa sacerdote.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Ug iyaliyas"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang duha ka naling)"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "sa mga unang bunga"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "usa ka aliyas"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "naling"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "alang sa sacerdote"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:01.668178880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Si Asael, igsoon ni Yoav, lakip sa tulo ka napulo; si Elkana nga anak ni Dodo, taga-Bet-Lekhem.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Si Asael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "sa tulo ka napulo"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "si Elkana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ni Dodo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taga-Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:03.749247671Z",
+  "model": "glm-5.3"
+}

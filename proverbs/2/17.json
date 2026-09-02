@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nagbiya sa kauban sa iyang pagkatin-edyer ug nakalimot sa ⟨⟨את⟩⟩ sa pakigsaad sa iyang Elohim.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "nagbiya"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "iyang pagkatin-edyer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "pakigsaad"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "iyang Elohim"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "nakalimot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:11.704243531Z",
+  "model": "glm-5.3"
+}

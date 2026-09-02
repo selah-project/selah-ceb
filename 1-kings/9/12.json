@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug migula si Khiram gikan sa Tsor aron tan-awon ⟨את⟩ ang mga dakbayan nga gihatag ni Shelomoh kaniya, apan wala sila matarong sa iyang mga mata.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ug migula"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "si Khiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "gikan sa Tsor"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron tan-awon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dakbayan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga dakbayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "sa iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:06.620833904Z",
+  "model": "glm-5.3"
+}

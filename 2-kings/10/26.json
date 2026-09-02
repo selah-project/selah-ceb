@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gikuha nila paggawas ⟨את⟩ ang mga haliging memoryal sa balay ni Baal, ug gisunog nila kini.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ug gikuha nila paggawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga haliging memoryal sa balay ni Baal"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ang mga haliging memoryal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ug gisunog nila kini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:15.344377286Z",
+  "model": "glm-5.3"
+}

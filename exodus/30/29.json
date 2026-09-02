@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug imong balaanon ⟨את⟩ sila, ug sila mahimong balaan nga balaan; ang tanan nga maghikap kanila mahimong balaan.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "ug imong balaanon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga butang nga gibalaan)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug sila mahimong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "nga balaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nga maghikap"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "mahimong balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:28.515925317Z",
+  "model": "glm-5.3"
+}

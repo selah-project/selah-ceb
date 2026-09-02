@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug ngadto sa Bavel dad-on niya ⟨את⟩ si Tsidkiyahu, ug didto siya magpabilin hangtod sa akong pagbisita ⟨את⟩ kaniya, giingon ni Yahweh; kay bisan makig-away kamo sa ⟨ang⟩ mga Kasdayo, dili kamo molampos.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Ug ngadto sa Bavel"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "dad-on niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "siya magpabilin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "akong pagbisita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "⟨את⟩ — butang sa pagbisita ni Yahweh"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay bisan"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "makig-away kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sa"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "⟨ang⟩ mga Kasdayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "kamo molampos"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:37.953594626Z",
+  "model": "glm-5.3"
+}

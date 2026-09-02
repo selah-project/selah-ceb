@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Silasila nakakita sa mga buhat ni Yahweh, ug sa iyang mga katingalahan sa kalaluman.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Silasila"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "sa mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ug sa iyang mga katingalahan"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "sa kalaluman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:20.226810454Z",
+  "model": "glm-5.3"
+}

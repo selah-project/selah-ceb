@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Si Yahweh nagasuporta ⟨sa⟩ tanan nga nagatumba, ug nagatindog pag-usab sa tanan nga nakayuko.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "nagasuporta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "nga nagatumba"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ug nagatindog pag-usab"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "nga nakayuko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.305777537Z",
+  "model": "glm-5.3"
+}

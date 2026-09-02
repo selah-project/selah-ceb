@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Ang akong mata nakatan-aw sa akong mga kaaway; ang akong mga dalgan nakadungog sa mga daotan — sa mga nagtindog batok kanako.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "nakatan-aw"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "sa mga nagtindog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ang akong mga dalgan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:01.139594493Z",
+  "model": "glm-5.3"
+}

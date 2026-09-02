@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Busa gihatag ni Yahweh nga atong Elohim sa atong kamot usab ⟨את⟩ si Og, hari sa Bashan, ug ⟨את⟩ ang tanan niyang katawhan; ug gihatag namo siya sa pagtapak hangtod nga walay gibilin kaniya nga salin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga atong Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "sa atong kamot"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "si Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan niyang katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niyang katawhan"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "gihatag namo siya sa pagtapak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "gibilin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "salin"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:24.035733386Z",
+  "model": "glm-5.3"
+}

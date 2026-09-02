@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug miingon siya: Biyai siya; ayaw ⟨pat⟩ paghilabuti bisan kinsa sa iyang mga bukog. Ug giluwas ang iyang mga bukog ⟨את⟩ uban sa mga bukog sa manalagna nga miabut gikan sa Shomron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "biyai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan kinsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "paghilabuti"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "iyang mga bukog"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "giluwas"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "iyang mga bukog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bukog sa manalagna"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga bukog"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "manalagna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabut"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "gikan sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:10.351378738Z",
+  "model": "glm-5.3"
+}

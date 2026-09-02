@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug giilha niya sila sa Bezek, ug ang mga anak nga lalake sa Yisrel ⟨mga⟩ tulo ka gatos ka libo, ug ang mga tawo sa Yehuda tulo ka napulo ka libo.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Ug giilha niya sila"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "sa Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak nga lalake"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrel"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang mga tawo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tulo ka napulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:32.536702730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay samtang sila ingon sa mga tunok nga nagasab-ong, ug samtang hubog na sila sa ilang ilimnon, pagakaonon sila ingon sa uhai nga uga kaayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "mga tunok"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "nagasab-ong"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "sa ilang ilimnon"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "hubog na"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "pagakaonon sila"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ingon sa uhai"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:43.734713690Z",
+  "model": "glm-5.3"
+}

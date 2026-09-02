@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Busa si Iyyov mitindog, ug gikapisan niya ⟨את⟩ ang iyang bisti, ug gagison niya ⟨את⟩ ang iyang ulo, ug nahulog siya sa yuta ug misimba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "gikapisan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang bisti"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "iyang bisti"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "gagison niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ulo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iyang ulo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ug nahulog"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ug misimba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:12.078388172Z",
+  "model": "glm-5.3"
+}

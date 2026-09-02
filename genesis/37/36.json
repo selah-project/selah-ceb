@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ang mga Midyananhon nagtigum-pagbaligya ⟨את⟩ kaniya ngadto sa Mitsrayim, kang Potifar, sakop ni Paro, mangulo sa mga magtutagak.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "Ug ang mga Midyananhon"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "nagbaligya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "kang Potifar"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "sakop"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mangulo sa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "mga magtutagak"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:21.238317963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Gipanggukod niya sila, milabay siya sa kalinaw; ⟨usa ka⟩ dalan sa iyang mga tiil dili niya sulongan.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Gipanggukod niya sila"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "milabay siya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sa kalinaw"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "sa iyang mga tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sulongan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:27.296619632Z",
+  "model": "glm-5.3"
+}

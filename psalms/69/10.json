@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Kay ang kahibalo sa imong balay nangaon ⟨sa⟩ ako, ug ang mga panamastamas sa mga nang-insulto kanimo nahulog kanako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ang kahibalo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "nangaon sa ako"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "ug ang mga panamastamas"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "sa mga nang-insulto kanimo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:09.781875991Z",
+  "model": "glm-5.3"
+}

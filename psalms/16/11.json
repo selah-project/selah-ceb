@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ipahibalo nimo kanako ang dalan sa kinabuhi; kapunod sa mga kalipay ⟨uban⟩ sa imong panagway, mga kaayuhon sa imong tuo nga kamot sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Ipahibalo nimo kanako"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kapunod"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "sa mga kalipay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ uban sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong panagway"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "mga kaayuhon"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sa imong tuo nga kamot"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.645663497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug miabot siya ug gisugilon niya sa tawo sa Elohim; ug miingon siya: Lakaw, ibaligya ⟨את⟩ ang lana, ug bayadi ⟨את⟩ ang imong mga utang, ug ikaw ug ang imong mga anak mabuhi sa salin.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ug miabot siya"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "gisugilon niya"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "ibaligya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ug bayadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga utang"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "ang imong mga utang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "ang imong mga anak"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "mabuhi"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "sa salin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:42.145102717Z",
+  "model": "glm-5.3"
+}

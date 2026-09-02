@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug miingon si Yehudah kang Onan: Sulod ngadto sa asawa sa imong igsoon, ug himoa ang katungdanan sa igsoon sa bana ⟨את⟩ kaniya, ug banhawon ang binhi alang sa imong igsoon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "kang Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Sulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa sa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imong igsoon"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "ug himoa ang katungdanan sa igsoon sa bana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "ug banhawon"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "alang sa imong igsoon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:18.989779613Z",
+  "model": "glm-5.3"
+}

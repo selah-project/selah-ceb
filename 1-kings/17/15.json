@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": " ug moadto siya ug gibuhat niya sumala sa pulong ni Eliyahu; ug mikaon siya, siya ug siya, ug ang iyang balay, ⟨mga⟩ adlaw.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ug moadto siya"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ug mikaon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya (siya)"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ug siya (siya babaye)"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "ug ang iyang balay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:06.796917017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gibuhat ni Elohim ⟨את⟩ ang rakiya, ug gibulag niini ang tubig nga anaa sa ubos sa rakiya gikan sa tubig nga anaa sa ibabaw sa rakiya; ug nahitabo kini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang rakiya"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ang rakiya"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ug gibulag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ang"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "anaa sa ubos"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sa rakiya"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "anaa sa ibabaw"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "sa rakiya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:55.467722670Z",
+  "model": "glm-5.3"
+}

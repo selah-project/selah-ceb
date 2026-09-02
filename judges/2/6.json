@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gipapauli ni Yehoshua ⟨את⟩ ang katawhan, ug mialis ang mga anak ni Yisrael, matag tawo ngadto sa iyang panulondon, aron panawon ⟨את⟩ ang yuta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipapauli ni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug mialis ang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ngadto sa iyang panulondon"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aron panawon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:49.184185614Z",
+  "model": "glm-5.3"
+}

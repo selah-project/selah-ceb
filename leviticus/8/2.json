@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Pagkuha ⟨את⟩ kang Aharon ug ⟨את⟩ sa iyang mga anak kauban ⟨את⟩niya, ug ⟨את⟩ sa mga bisti, ug ⟨את⟩ sa lana sa pagdihog, ug ⟨את⟩ sa baka alang sa sala-nga halad, ug ⟨את⟩ sa duha ka karnero, ug ⟨את⟩ sa basket sa mga tinapay nga walay lebadura;",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Pagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kauban ⟨את⟩niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa mga bisti"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "sa mga bisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa lana sa pagdihog"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa baka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "alang sa sala-nga halad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa duha ka karnero"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sa duha ka"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa basket"
+    },
+    {
+      "surface": "סל",
+      "gloss": "sa basket"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "sa mga tinapay nga walay lebadura"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:14.075363746Z",
+  "model": "glm-5.3"
+}

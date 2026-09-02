@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gihatag niya ang ilang mga ulan ⟨ingon⟩ nga yelo, ug kalayo nga may mga laad sa ilang yuta.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Gihatag niya"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ang ilang mga ulan"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "nga yelo"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "nga may mga laad"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "sa ilang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.878355717Z",
+  "model": "glm-5.3"
+}

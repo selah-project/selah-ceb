@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ang saserdote nga nagpakasala ⟨niini⟩ mokaon niini; sa balaang dapit kan-on kini, sa nataran sa tolda sa pagtagbo.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "Ang saserdote"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "nga nagpakasala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "mokaon niini"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kan-on"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "sa nataran"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:21.660314959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Tan-awa, gibunalan niya ang bato ug nag-agas ang tubig, ug mga sapa misulog; makahimo ba siya paghatag ug pan usab, mag-andam ba siya ug unod alang sa iyang katawhan?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gibunalan niya"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang bato"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "ug nag-agas"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ug mga sapa"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "misulog"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "usab ba"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ug pan"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makahimo ba siya"
+    },
+    {
+      "surface": "תת",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "mag-andam"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ug unod"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "alang sa iyang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:54.391302935Z",
+  "model": "glm-5.3"
+}

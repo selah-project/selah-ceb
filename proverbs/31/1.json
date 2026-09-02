@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Mga pulong ni Lemuel, hari — usa ka messa ⟨nga⟩ gitudlo sa iyang inahan kaniya.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mga pulong"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ni Lemuel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "משא",
+      "gloss": "usa ka messa (dal-on)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "gitudlo\/tinawo niya kaniya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:32.459781889Z",
+  "model": "glm-5.3"
+}

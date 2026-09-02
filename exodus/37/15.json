@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gihimo niya ⟨את⟩ ang mga baras ⟨gikan sa⟩ kahoy sa shitim, ug giputos niya kini ⟨את⟩ ug bulawan, sa pagdala ⟨את⟩ sa lamesa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baras"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga baras"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy sa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ug giputos niya kini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ug bulawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:45.642470251Z",
+  "model": "glm-5.3"
+}

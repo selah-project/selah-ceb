@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kanila nga nagahulat sa kamatayon bisan wala kini, ug nagkalot sa ⟨kini⟩ labaw pa sa tinagong mga bahandi.",
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "nagahulat"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa kamatayon"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "bisan wala kini"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "nagkalot sa kini"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "labaw pa sa tinagong mga bahandi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:49.817634921Z",
+  "model": "glm-5.3"
+}

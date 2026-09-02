@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug ang hari nga si David nakadungog ⟨את⟩ tanan ⟨sa⟩ mga pulong kining ⟨mga⟩, ug nasuko siya pag-ayo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ug ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "nga si David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨sa⟩ mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining ⟨mga⟩"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ug nasuko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pag-ayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:34.841474645Z",
+  "model": "glm-5.3"
+}

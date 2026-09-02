@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ang nagapasala sa mga matarong ngadto sa daotan nga dalan, sa iyang kaugalingong gikanan ⟨siya⟩ mahulog; apan ang mga hingpit managmaya sa maayong butang.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "nagapasala"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "sa iyang kaugalingong gikanan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "mahulog"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "apan ang mga hingpit"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "managmaya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa maayong butang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:27.840609534Z",
+  "model": "glm-5.3"
+}

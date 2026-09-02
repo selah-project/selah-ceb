@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gikuha niya ⟨את⟩ ang tanang tambok nga anaa sa ibabaw sa tinai, ug ⟨את⟩ ang yoteret sa atay, ug ⟨את⟩ ang duha ka kidney, ug ⟨את⟩ ang ilang tambok; ug gipaaso ni Moshe ang hagalad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanang tambok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "naa sa ibabaw sa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "tinai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang yoteret sa atay"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "yoteret"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sa atay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka kidney"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang tambok"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ang ilang tambok"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ug gipaaso ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ang hagalad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:13.654518713Z",
+  "model": "glm-5.3"
+}

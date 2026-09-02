@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 9:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ania karon, magapaulan ako ⟨nga⟩ yelo nga bug-at kaayo ⟨sa⟩ ingon niini nga takna ugahon, ingon nga wala pa kadto mahitabo sa tibuok Mitsrayim sukad sa adlaw nga gitukod kini hangtod karon.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ania karon ako"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "magapaulan"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ingon niini nga takna"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ugahon"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "yelo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "sama niini"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "למן",
+      "gloss": "sukad sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הוסדה",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:42.060232961Z",
+  "model": "glm-5.3"
+}

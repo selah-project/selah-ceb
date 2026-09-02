@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Giputos sa hangin ⟨את⟩ siya ⟨sa⟩ iyang mga pako, ug mahilawon sila tungod sa ilang mga halad.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "giputos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hangin"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "sa iyang mga pako"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ug mahilawon sila"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "sa ilang mga halad"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:00.694416033Z",
+  "model": "glm-5.3"
+}

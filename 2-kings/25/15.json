@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ⟨את⟩ ang mga pang-alaso, ug ⟨את⟩ ang mga mang-isip nga bulawan, bulawan, ug nga plata, plata, gikuha sa punoan sa mga manlutho.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pang-alaso"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "mga pang-alaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga mang-isip"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mga mang-isip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "punoan"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mga manlutho"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:31.097559268Z",
+  "model": "glm-5.3"
+}

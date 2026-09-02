@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Ug gipadaghan pag-ayo niya ⟨את⟩ ang iyang katawhan, ug gipalig-on niya sila labaw sa ilang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "ug gipadaghan pag-ayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang katawhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pag-ayo"
+    },
+    {
+      "surface": "ועצמהו",
+      "gloss": "ug gipalig-on niya sila"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "labaw sa ilang mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.183200927Z",
+  "model": "glm-5.3"
+}

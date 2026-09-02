@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Ania karon, gisunayan ko ikaw apan dili ingon sa salapi; gipilian ko ikaw diha sa kalayo nga kalisud.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "gisunayan ko ikaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ingon sa salapi"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "gipilian ko ikaw"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kalisud"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:00.504258676Z",
+  "model": "glm-5.3"
+}

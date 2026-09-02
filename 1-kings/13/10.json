@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug miadto siya sa laing dalan, ug wala siya mobalik sa dalan nga iyang gisulod ngadto sa Beit-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ug miadto siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "laing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "siya mobalik"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gisulod"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:27.037630776Z",
+  "model": "glm-5.3"
+}

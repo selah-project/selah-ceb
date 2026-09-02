@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ayaw ako paghatag sa gana sa akong mga kaaway, kay nagbangon batok kanako ang mga saksi nga bakak, ug miginhawa sila ⟨sa⟩ pagpahamok.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "paghatag kanako"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa gana"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nagbangon"
+    },
+    {
+      "surface": "בי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mga saksi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga bakak"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ug miginhawa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "sa pagpahamok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:20.898704993Z",
+  "model": "glm-5.3"
+}

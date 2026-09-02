@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨את⟩ Khelkat kauban ang iyang mga latian, ug ⟨את⟩ Rekhov kauban ang iyang mga latian — upat ka mga dakbayan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khelkat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Khelkat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga latian"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga latian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Rekhov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rekhov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga latian"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga latian"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:39.793971569Z",
+  "model": "glm-5.3"
+}

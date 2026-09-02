@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang usok sa kaparan nga bulak akong hinigugma ⟨sa⟩ akoa, diha sa mga kaparasan sa En-Gedi.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "usok"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "sa kaparan nga bulak"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "akong hinigugma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sa⟩ akoa"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "diha sa mga kapararan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sa En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:02.057714002Z",
+  "model": "glm-5.3"
+}

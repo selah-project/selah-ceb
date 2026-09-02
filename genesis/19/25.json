@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Gipalibang niya ⟨את⟩ ang mga dakbayan kini, ug ⟨את⟩ tibook ang kapatagan, ug ⟨את⟩ tanan nga pumoluyo sa ⟨mga⟩ dakbayan, ug mga tanum sa yuta.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "ug gipalibang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dakbayan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga dakbayan"
+    },
+    {
+      "surface": "האל",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tibook ang kapatagan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibook"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga pumoluyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "nga pumoluyo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "sa mga dakbayan"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ug mga tanum"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:44.231965785Z",
+  "model": "glm-5.3"
+}

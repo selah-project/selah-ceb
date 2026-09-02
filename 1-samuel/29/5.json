@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Dili ba kini si David, kang kinsa nagtubag sila kaniya sa mga sayaw, nga nagaingon: Si Shaul nakasimsonog sa iyang mga libo, ug si David sa iyang mga napulo ka libo?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kang kinsa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "nagtubag sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "sa mga sayaw"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nakasimsonog"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "sa iyang mga libo"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "sa iyang mga napulo ka libo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:23.714018881Z",
+  "model": "glm-5.3"
+}

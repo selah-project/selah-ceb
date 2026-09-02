@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Kang kinsa nga magkahiusa namtik nato ang kaayo sa panaghisgot, sa balay ni Elohim naglakaw kami kauban sa panon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kang kinsa nga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "namtik nato ang kaayo"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "panaghisgot"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "naglakaw kami"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "kauban sa panon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:42.900079713Z",
+  "model": "glm-5.3"
+}

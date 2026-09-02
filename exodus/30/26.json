@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug idihog nimo niini ⟨את⟩ ang tolda sa pagkatigom, ug ⟨את⟩ ang kaban sa pagsaksi.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ug idihog nimo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tolda sa pagkatigom"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagkatigom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaban sa pagsaksi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "kaban"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sa pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:59.536824833Z",
+  "model": "glm-5.3"
+}

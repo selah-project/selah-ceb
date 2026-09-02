@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nahitabo sa buntag nga nagsulat si David ug sulat ngadto kang Yoav, ug gipadala pinaagi sa kamot ni Uriah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "nagsulat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sulat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa kamot"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:12.327104931Z",
+  "model": "glm-5.3"
+}

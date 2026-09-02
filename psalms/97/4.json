@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Nagpahayag ug kahayag ang iyang mga kilat sa kalibotan; nakita sa yuta ug nurog kini.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "nagpahayag ug kahayag"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "ang iyang mga kilat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa kalibotan"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ug nurog kini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:05.840767784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Kami nagsulog-sulog sa habagatan sa Kereti, ug sa nahisakop sa Yehudah, ug sa habagatan ni Kalev; ug ang Tsiklag among gisunog sa kalayo.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "nagsulog-sulog"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "habagatan"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "sa Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "habagatan"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "gisunog namo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:41.395491029Z",
+  "model": "glm-5.3"
+}

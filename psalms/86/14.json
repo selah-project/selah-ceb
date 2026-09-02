@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Elohim, ang mga mapahitas-on mitindog batok kanako, ug ang panag-atan sa mga mapintas nangita ⟨sa⟩ akong kalag, ug wala nila ikabutang ikaw ⟨Yahweh⟩ sa atubang nila.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mga mapahitas-on"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "ug ang panag-atan"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "mga mapintas"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nangita"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "ikabutang ikaw"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "sa atubang nila"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:15.138100292Z",
+  "model": "glm-5.3"
+}

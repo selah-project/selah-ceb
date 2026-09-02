@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Akong ginaduydog, ug anak sa akong duyduganan: ang akong nadungog gikan kang ⟨את⟩ Yahweh Tsevaot, Elohim ni Yisrael, akong gipahibalo kaninyo.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Akong ginaduydog"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ug anak"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "sa akong duyduganan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ang akong nadungog"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan kang ⟨את⟩",
+      "marks": "Yahweh Tsevaot, Elohim ni Yisrael"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "akong gipahibalo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:50.043750004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Pagdali, tubga ako, Yahweh; nagkawala na ang akong gininhawa — ayaw pagtago sa imong dagway gikan kanako, basin ⟨mahimong⟩ pareha ako sa mga nanawong ngadto sa hawan ⟨sa yuta⟩.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Pagdali"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubga ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "nagkawala na"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akong gininhawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pagtago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong dagway"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "basin pareha ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "mga nanawong"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hawan ⟨sa yuta⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:41.817313443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Mga igugol sila apan wala makadungog; nasalà, walay gininhawa sa ilang baba.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "mga igugol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "makadungog"
+    },
+    {
+      "surface": "אף",
+      "gloss": "salà"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨adunay⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gininhawa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ilang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:18.685768743Z",
+  "model": "glm-5.3"
+}

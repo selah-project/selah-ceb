@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Nagbuhat si Yehoshua ⟨alang kaniya⟩ og mga pinuting kutsilyo nga bato, ug gintuli niya ⟨את⟩ ang mga anak nga lalaki sa Israel sa Giv'at HaAralot (bungtod sa mga panit sa atip).",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨alang kaniya⟩"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga kutsilyo"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "nga bato (pinuting bato)"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ug gintuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak nga lalaki sa Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giv'at (bungtod)"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "HaAralot (sa mga panit sa atip)"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:25.346902463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang mga huna-huna sa mga matarong ⟨mao ang⟩ hustisya; apan ang mga tambag sa mga daotan ⟨mao ang⟩ pangilad.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "mga huna-huna"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "mga tambag"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "pangilad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:15.832695426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Moabot sa imong atubangan ang pagpaguol sa bilanggo; sumala sa kadako sa imong brazo, ⟨luwasa⟩ ang mga anak sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Moabot"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ang pagpaguol"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "sa bilanggo"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "sumala sa kadako"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "sa imong brazo"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "⟨luwasa⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:50.534055006Z",
+  "model": "glm-5.3"
+}

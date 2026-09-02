@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Miabot ang hari ug si Haman sa pag-inom uban kang Ester ⟨ang⟩ reyna.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ug si Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "kang Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨ang⟩ reyna"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:50.293597755Z",
+  "model": "glm-5.3"
+}

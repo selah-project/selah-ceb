@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "⟨ang⟩ napulo ka mga anak ni Haman, anak ni Hamedata, ang kaaway sa mga Judeohanon, gigamatay nila; apan sa bahandi wala nila ipadala ⟨את⟩ ang ilang kamot.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ni Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sa mga Judeohanon"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "gigamatay nila"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "apan sa bahandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang kamot"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ang ilang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:15.057937913Z",
+  "model": "glm-5.3"
+}

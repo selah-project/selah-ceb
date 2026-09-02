@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ihatag ko ang ⟨את⟩ nga kahugawan ⟨sa⟩ kining ⟨duha ka⟩ katawhan sa atubangan sa mga taga-Mitsrayim, ug mahitabo ⟨kini⟩ nga kon kamo molarga, dili kimo molarga nga walay dalan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahugawan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "kahugawan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubangan [sa mga mata]"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "taga-Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahitabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga kon"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "kamo molarga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "kimo molarga"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "nga walay dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:39.743358308Z",
+  "model": "glm-5.3"
+}

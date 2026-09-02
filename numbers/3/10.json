@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ⟨את⟩ si Aharon ug ⟨את⟩ ang iyang mga anak imong itudlo, ug magabantay sila sa ⟨את⟩ ilang pagkapari; ug ang layo nga moduol pagapatyon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "imong itudlo"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ug magabantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang pagkapari"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ilang pagkapari"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ug ang layo (dili pari)"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "nga moduol"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:27.576768194Z",
+  "model": "glm-5.3"
+}

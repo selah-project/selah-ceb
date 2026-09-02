@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug akong itud ang akong nawong ⟨את⟩ batok sa ⟨tawo⟩ nga ⟨toa⟩ ug sa iyang pamilya, ug paputlon nako siya ⟨את⟩ ug ⟨את⟩ ang tanan nga nagapakiglawig human kaniya, sa pagpakiglawig kang haMolekh, gikan sa taliwala sa ilang katawhan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ug akong itud"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong nawong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akong nawong"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "batok sa tawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga toa"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ug sa iyang pamilya"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ug paputlon nako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ug",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "nga nagapakiglawig"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "human kaniya"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "sa pagpakiglawig"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "haMolekh"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "gikan sa taliwala"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "sa ilang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:43.152783977Z",
+  "model": "glm-5.3"
+}

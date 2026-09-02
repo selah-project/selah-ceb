@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Pagasumbongon gayod niya kamo, kung sa tago kamo modawat ug mga panagway.",
+  "tokens": [
+    {
+      "surface": "הוכיח",
+      "gloss": "pagasumbong"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "sumbongon niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tago"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "mga panagway"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "modawat kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:16.133050419Z",
+  "model": "glm-5.3"
+}

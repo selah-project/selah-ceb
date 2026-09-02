@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": " ug moanha ako ngadto sa halaran sa Elohim, ngadto sa El nga kalipay sa akong pagkalipay, ug magasalamat ako kanimo uban sa kinor, Elohim, Elohim ko.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "ug moanha ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "sa akong pagkalipay"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ug magasalamat ako kanimo"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uban sa kinor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:18.103504828Z",
+  "model": "glm-5.3"
+}

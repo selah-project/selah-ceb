@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Mao nga si El magaguba ⟨kanimo⟩ hangtod sa kahangturan, kukuhaon ⟨ka⟩ ug gukdon ka gikan sa ⟨imong⟩ tolda, ug ang imong gamot gikan sa yuta sa mga buhi. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mao nga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "magaguba kanimo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "kukuhaon ka"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "ug gukdon ka"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "gikan sa tolda"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "ug ang imong gamot"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa mga buhi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.712485301Z",
+  "model": "glm-5.3"
+}

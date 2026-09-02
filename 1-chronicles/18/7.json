@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gikuha ni David ⟨את⟩ ang mga bukaw nga bulawan nga anaa sa mga sulugoon ni Hadadezer, ug gidala niya kini ngadto sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bukaw nga bulawan"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "mga bukaw"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "gidala niya kini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:37.347949089Z",
+  "model": "glm-5.3"
+}

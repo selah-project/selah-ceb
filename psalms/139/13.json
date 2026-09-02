@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Kay ikaw ang naglikha sa akong ⟨mga kidney⟩; gitakpan mo ako ⟨sa⟩ tiyan sa akong inahan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "naglikha"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "⟨mga kidney⟩"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "gitakpan mo ako"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "⟨sa⟩ tiyan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "akong inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.030420926Z",
+  "model": "glm-5.3"
+}

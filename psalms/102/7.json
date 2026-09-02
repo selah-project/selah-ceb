@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Giingon ako nga parehas sa pelikano sa kamingawan, nahimo ako ingon sa kuyawa sa mga kagunukan.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "giingon ako nga parehas"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "sa pelikano"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimo ako"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "ingon sa kuyawa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sa mga kagunukan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:48.260376423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 24:25",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug sa pagpanaw nila gikan kaniya — kay sa daghang mga sakit gilibot nila ⟨את⟩ siya — naghiusa batok kaniya ang iyang mga sulogon tungod sa dugo sa mga anak ni Yehoyada ang kohaninhon, ug gipatay nila siya sa iyang higdaanan ug namatay siya; ug gilubong nila siya sa dakbayan ni David, apan wala nila siya lubnga sa mga lubnganan sa mga hari.",
+  "tokens": [
+    {
+      "surface": "ובלכתם",
+      "gloss": "ug sa pagpanaw nila"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "gilibot nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "במחליים",
+      "gloss": "sa daghang mga sakit"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "התקשרו",
+      "gloss": "naghiusa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iyang mga sulogon"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "tungod sa dugo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohaninhon"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "ug gipatay nila siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "iyang higdaanan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay siya"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ug gilubong nila siya"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "קברהו",
+      "gloss": "nila siya lubnga"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "sa mga lubnganan"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "sa mga hari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:26.129573501Z",
+  "model": "glm-5.3"
+}

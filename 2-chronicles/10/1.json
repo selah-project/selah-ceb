@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Milakaw si Rehavam ngadto sa Shekhem, kay ngadto sa Shekhem miabot ang tibuok Israel sa paghimo kaniya nga hari.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "ngadto sa Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "sa paghimo nga hari"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya (Rehavam)"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:44.026581796Z",
+  "model": "glm-5.3"
+}

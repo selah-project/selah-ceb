@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Gipangita ni David, siya ug upat ka gatos ka lalaki, apan mitindog ang duha ka gatos ka lalaki nga nakapoy nga dili na makatabok ⟨את⟩ sa sapa sa Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "gipangita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ug upat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka lalaki"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "apan mitindog"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ang duha ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka lalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "nakapoy"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "sa pagtabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa sapa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "sa Besor"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:13.000550463Z",
+  "model": "glm-5.3"
+}

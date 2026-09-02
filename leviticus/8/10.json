@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gikuha ni Moshe ang lana sa pagdihog ug gidihogan niya ⟨את⟩ ang puloy-anan ug ⟨את⟩ ang tanan nga anaa niini, ug gipagbalaan niya ⟨את⟩ kining ⟨mga butanga⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lana sa pagdihog"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "ug gidihogan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang puloy-anan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang puloy-anan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "anaa niini"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ug gipagbalaan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kining ⟨mga butanga⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:24.745032842Z",
+  "model": "glm-5.3"
+}

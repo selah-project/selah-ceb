@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": " Ug ang mga Shupam ug ang mga Khupam, mga anak ni Ir; ang mga Khushim, mga anak ni Akher.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "Ug ang mga Shupam"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ug ang mga Khupam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ang mga Khushim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Akher"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:30.040246031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug ang ruah ni Yahweh mibiya kang Shaul, ug gidahom siya sa usa ka daotan nga ruah ⟨gikan kay⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ug ang ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "mibiya\/mitagalpo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gikan kang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "gidahom siya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ gikan kay",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:33.084521506Z",
+  "model": "glm-5.3"
+}

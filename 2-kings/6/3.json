@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug miingon ang usa: Malooy ka palihog ug lakaw ⟨את⟩ kauban sa imong mga sulugoon. Ug miingon siya: Ako, moadto ako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "malooy ka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ug lakaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kauban sa imong mga sulugoon"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulugoon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "moadto ako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:53.379491182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 4:35",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug mibalik siya ug milakaw ⟨sa⟩ balay, kausa ngadto dinhi ug kausa ngadto ngadto, ug misaka siya ug nagdoko sa ibabaw niya, ug ang bata nagbahinbahin hangtod sa pito ka higayon, ug ang bata nag-abli ⟨את⟩ ang iyang mga mata.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mibalik siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kausa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngadto dinhi"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ug kausa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngadto ngadto"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "misaka siya"
+    },
+    {
+      "surface": "ויגהר",
+      "gloss": "nagdoko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw niya"
+    },
+    {
+      "surface": "ויזורר",
+      "gloss": "nagbahinbahin"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "nag-abli"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:52.514927994Z",
+  "model": "glm-5.3"
+}

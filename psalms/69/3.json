@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Nalubog ako sa lawom nga lapok, ug walay tinindungan; nisulod ako sa mga kalaluman sa tubig, ug ang baha midalus kanako.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "nalubog ako"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "lawom nga lapok"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "tinindungan"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nisulod ako"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "sa mga kalaluman sa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ug ang baha"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "midalus kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:37.657609850Z",
+  "model": "glm-5.3"
+}

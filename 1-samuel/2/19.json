@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang iyang inahan naghimo alang kaniya og usa ka gagmayng bisti, ug gidad-a kini kaniya tagsa-tagsa ka tuig, sa iyang pagsakay kaupod ⟨את⟩ sa iyang bana aron sa paghalad ⟨את⟩ sa halad sa adlawng tinakda.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "Ug ang bisti"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "gagmayng"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang iyang inahan"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "ug gidad-a sa pag-alsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "tagsa-tagsa ka"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "sa iyang pagsakay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang bana"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "sa iyang bana"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "aron sa paghalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ang halad"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sa adlawng tinakda"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:41.716283620Z",
+  "model": "glm-5.3"
+}

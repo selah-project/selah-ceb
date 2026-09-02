@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gikan sa tribo ni Asher: ⟨את⟩ Mishal kauban ang iyang mga latian, ⟨את⟩ Avdon kauban ang iyang mga latian,",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ug gikan sa tribo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga latian"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga latian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga latian"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga latian"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:39.793827335Z",
+  "model": "glm-5.3"
+}

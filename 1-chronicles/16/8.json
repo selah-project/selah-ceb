@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 16:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Paghatag ug pagtubod salamat kang Yahweh, tumawag sa iyang Ngalan, pagpahibalo sa mga nasod bahin sa iyang mga buhat.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Paghatag ug pagtubod salamat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "tumawag"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sa iyang Ngalan"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "pagpahibalo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "עלילתיו",
+      "gloss": "bahin sa iyang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:00.361511559Z",
+  "model": "glm-5.3"
+}

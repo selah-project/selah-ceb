@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Ang iyang mga anak nga lalaki ug ang mga anak nga lalaki sa iyang mga anak nga lalaki ⟨kauban niya⟩, ang iyang mga anak nga babaye ug ang mga anak nga babaye sa iyang mga anak nga lalaki, ug ang tanan niyang kaliwat — kining tanan gidala niya ⟨kauban niya⟩ ngadto sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak nga lalaki"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak nga lalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak nga lalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kauban niya⟩",
+      "marks": "preposition H854 'uban'"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ang iyang mga anak nga babaye"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ug ang mga anak nga babaye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak nga lalaki"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "niyang kaliwat"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "gidala niya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kauban niya⟩",
+      "marks": "preposition H854 'uban'"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ngadto sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:47.653593974Z",
+  "model": "glm-5.3"
+}

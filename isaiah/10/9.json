@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Dili ba ang Kalno sama sa Karkemish? Dili ba ang Hamat sama sa Arpad? Dili ba ang Shomeron sama sa Damasek?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "sama sa Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ang Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "sama sa Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ang Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dini"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "sama sa Damasek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ang Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:18.759134671Z",
+  "model": "glm-5.3"
+}

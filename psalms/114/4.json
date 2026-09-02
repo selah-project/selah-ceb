@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 114,
+  "translation": "Ang mga bukid nagsayaw sama sa mga kanding nga lalaki, ang mga bungtod sama sa mga nating karnero",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Ang mga bukid"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "nagsayaw"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "sama sa mga kanding nga lalaki"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ang mga bungtod"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "sama sa mga nating"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "karnero"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:32.661082417Z",
+  "model": "glm-5.3"
+}

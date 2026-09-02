@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Si Ajimaats — ⟨sa⟩ Naftali; siya usab nagkuha ⟨את⟩ kang Basemat nga anak ni Shelomoh ⟨ingon nga asawa⟩.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Si Ajimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "sa Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "kang Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨ingon nga asawa⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:59.467024965Z",
+  "model": "glm-5.3"
+}

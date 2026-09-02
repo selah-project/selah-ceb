@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kay kanimo, Yahweh, naghulat ako; ikaw ang mosimba, Adonay Elohim ko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "naghulat ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ang mosimba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:48.405352851Z",
+  "model": "glm-5.3"
+}

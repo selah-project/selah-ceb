@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug namatay si Sarah sa Kiryat-Arba, kini mao ang Khevron, sa yuta sa Kenaan; ug miabot si Avraham sa pagbangutan kang Sarah ug sa paghibulong kaniya.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "ug namatay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "sa Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini mao"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ang Khevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "sa pagbangutan"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kang Sarah"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "ug sa paghibulong kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:18.381523930Z",
+  "model": "glm-5.3"
+}

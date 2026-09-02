@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang mga taga-Beerot mikalagi padulong sa Gittayim, ug nahimo sila didto nga mga pumoluyo hangtod sa kining adlawa.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "mikalagi"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "ang mga taga-Beerot"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "padulong sa Gittayim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug nahimo sila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "nga mga pumoluyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kining adlawa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:25.601328003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Si Yahweh nagabukas sa mga mata sa mga buta, si Yahweh nagatindog sa mga napuyo, si Yahweh nasigmahig mahal sa mga matarong.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "nagabukas sa mga mata"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "sa mga buta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "sa mga napuyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nasigmahig mahal"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sa mga matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:24.324561874Z",
+  "model": "glm-5.3"
+}

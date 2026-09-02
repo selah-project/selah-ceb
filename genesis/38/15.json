@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug nakita siya ni Yehudah, ug gipakahulogan siya niya nga babayi nga nagpahalay, kay gitakpan niya ang iyang nawong.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "ug nakita siya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "ug gipakahulogan siya"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "nga babayi nga nagpahalay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "gitakpan niya"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "ang iyang nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:18.701904747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug siya misulti kanila: Unsa man ang dagway sa ⟨ang⟩ tawo nga mitungas sa pagtagad kaninyo ug misulti kaninyo ⟨את⟩ niining mga pulonga?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ug siya misulti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa man"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang dagway"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mitungas"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "sa pagtagad kaninyo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug misulti"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niining mga pulonga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining mga"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:20.321002243Z",
+  "model": "glm-5.3"
+}

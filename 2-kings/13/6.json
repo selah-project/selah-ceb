@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Bisan pa niana, wala sila mobiya gikan sa mga sala sa balay ni Yarovam, nga iyang gipakasalaan ⟨את⟩ ang Israel; sa mga sala nga kini sila nagsulog, ug ang Ashera nagbarog usab sa Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bisan pa niana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "sila mobiya"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "gikan sa mga sala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "iya nga gipakasalaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa mga sala nga kini"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sila nagsulog"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ang Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:04.149140180Z",
+  "model": "glm-5.3"
+}

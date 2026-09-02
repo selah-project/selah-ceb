@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug si Human nag-ingon sa hari: ⟨Sa⟩ tawo nga gibakhopan sa hari sa pagtadong iya —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug nag-ingon"
+    },
+    {
+      "surface": "המן",
+      "gloss": "si Human"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "gibakhopan"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "sa pagtadong iya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:27.082513084Z",
+  "model": "glm-5.3"
+}

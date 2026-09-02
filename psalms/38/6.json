@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Mibaho ug naglaway na ang akong mga samad, tungod sa akong kahambuganon ⟨nga pagkabuang⟩.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Mibaho"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "naglaway na"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "ang akong mga samad"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "akong kahambuganon ⟨nga pagkabuang⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:43.903598294Z",
+  "model": "glm-5.3"
+}

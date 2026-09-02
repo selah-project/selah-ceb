@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Hinloi ako, Elohim, kay ang tawo gusto ako hinluon ⟨את⟩ ⟨ako⟩; tibuok nga adlaw nagpanag-away siya ug gipugos ako.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Hinloi ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "gusto ako hinluon"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nagpanag-away"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "gipugos ako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:25.775702270Z",
+  "model": "glm-5.3"
+}

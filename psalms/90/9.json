@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Kay ang tanan namong mga adlaw milyas diha sa imong nasuko ⟨sa imong kaakig⟩; natapos namo ang among mga tuig ingon sa usa ka paghinuktok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "namong mga adlaw"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "milyas"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "sa imong kaakig"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "natapos namo"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "among mga tuig"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "usa ka paghinuktok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:51.853373274Z",
+  "model": "glm-5.3"
+}

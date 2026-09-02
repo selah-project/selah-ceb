@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ayaw ako pagbira kauban ang mga dautan, ni kauban ang mga mamumuo sa kadaotan, nga nagsulti sa kalinaw sa ilang isigkatawo apan kadaot ang anaa sa ilang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ako pagbira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban ang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ni kauban ang"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga mamumuo sa"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga nagsulti sa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinaw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "ilang isigkatawo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "apan kadaot"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sa ilang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:56.784409624Z",
+  "model": "glm-5.3"
+}

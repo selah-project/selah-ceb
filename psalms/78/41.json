@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug nagbalik sila ug gisulay nila si El, ug ang Balaan sa Israel gitak-an nila.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Ug nagbalik sila"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ug gisulay nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ug ang Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "gitak-an nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:28.842407045Z",
+  "model": "glm-5.3"
+}

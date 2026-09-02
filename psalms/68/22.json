@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Sa pagkatinuod, si Elohim magdasmol sa ulo sa iyang mga kaaway, ang buhok nga kapatangan sa nagapatungha diha sa iyang mga sala.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sa pagkatinuod"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "magdasmol"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sa iyang mga kaaway"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kapatangan (sa ulo)"
+    },
+    {
+      "surface": "שער",
+      "gloss": "buhok"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nagapatungha"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "diha sa iyang mga sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:09.574562493Z",
+  "model": "glm-5.3"
+}

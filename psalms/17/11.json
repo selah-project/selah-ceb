@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang among mga lakang karon ilang gipalibot; ang ilang mga mata gipahimutang ⟨aron⟩ ipatumba ⟨kami⟩ ngadto sa yuta.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "among mga lakang"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "gipalibot ako"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ila mga mata"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "gipahimutang"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "aron ipatumba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:51.505612571Z",
+  "model": "glm-5.3"
+}

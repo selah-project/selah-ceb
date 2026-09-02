@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang Aram gikan sa sidlakan ug ang mga Filistinhon gikan sa kasadpan, ug gikaon nila ⟨את⟩ ang Israel sa tibuok nga baba. Sa tanan niini wala mobalik ang iyang kaligutgut, ug ang iyang kamot naunat pa gihapon.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Ang Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "gikan sa sidlakan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ug ang mga Filistinhon"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "gikan sa kasadpan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ug gikaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "פה",
+      "gloss": "nga baba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang iyang kaligutgut"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ug bisan pa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "naunat pa gihapon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:21.966663288Z",
+  "model": "glm-5.3"
+}

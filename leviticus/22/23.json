@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang baka o ang karnero nga sobra o kulang ⟨sa bahin⟩, isip boluntaryong tanyag mahimo nimo ⟨את⟩ kini; apan alang sa panaad dili ⟨kini⟩ madawat.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Ug ang baka"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "o ang karnero"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "nga sobra"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "o kulang"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "isip boluntaryong tanyag"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mahimo nimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini — ang baka o karnero nga sobra o kulang"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "apan alang sa panaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "madawat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:53.608592112Z",
+  "model": "glm-5.3"
+}

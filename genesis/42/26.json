@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug gisakyan nila ⟨את⟩ ang ilang humay sa ibabaw sa ilang mga ungoy, ug nangadto sila gikan didto.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "gisakyan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang humay"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ang ilang humay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ilang mga ungoy"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug nangadto sila"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:30.033625096Z",
+  "model": "glm-5.3"
+}

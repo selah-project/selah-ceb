@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Busa ang katawhan migula ug nanawag ⟨את⟩ sa kampo sa Aram, ug ⟨nahitabo nga⟩ ang usa ka seah sa pinino nga harina ⟨nagkabiling⟩ sa usa ka shekel, ug duha ka seah sa sebada sa usa ka shekel, sumala sa pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "migula"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ug nanawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kampo sa Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug ⟨nahitabo nga⟩"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "usa ka seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pinino nga harina"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa usa ka shekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "ug duha ka seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "sebada"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sa usa ka shekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:57.506053333Z",
+  "model": "glm-5.3"
+}

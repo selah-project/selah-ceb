@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Sa naghampak sa mga dagkong hari, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "sa naghampak"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dagkong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:43.351056225Z",
+  "model": "glm-5.3"
+}

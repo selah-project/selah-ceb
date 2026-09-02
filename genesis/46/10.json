@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Ug ang mga anak ni Shim'on: Yemu'el, ug Yamin, ug Ohad, ug Yakhin, ug Tsokhar, ug Shaul nga anak sa ⟨feminino nga⟩ Kenaanit.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak ni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemu'el"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ug Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "ug Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ug Yakhin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "ug Tsokhar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ug Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "sa Kenaanit nga babaye"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:10.198816355Z",
+  "model": "glm-5.3"
+}

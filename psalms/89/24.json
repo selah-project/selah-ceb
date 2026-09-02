@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Panggupon ko ang iyang mga kaaway sa atbang sa iyang nawong; ug ang mga nagadumili kaniya pagbatihagon ko.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "panggupon ko"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa atbang sa iyang nawong"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ang iyang mga kaaway"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ug ang mga nagadumili kaniya"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "pagbatihagon ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:22.362336241Z",
+  "model": "glm-5.3"
+}

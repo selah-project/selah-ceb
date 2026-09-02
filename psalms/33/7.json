@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Nagtigum ⟨siya⟩ ingon usa ka nid sa mga tubig sa dagat; nagahatag sa mga tipiganan sa mga kadaluman.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "nagtigum"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "ingon usa ka nid"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "sa mga tipiganan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mga kadaluman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:17.748103582Z",
+  "model": "glm-5.3"
+}

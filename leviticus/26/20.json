@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug mawalay pulos ang inyong kusog, ug ang inyong yuta dili magahatag ⟨את⟩ sa iyang ani, ug ang kahoy sa ⟨yuta⟩ dili magahatag sa iyang bunga.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "Ug mawalay pulos"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "sa walay kapuslanan"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ang inyong kusog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ang inyong yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang ani"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sa iyang ani"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ug ang kahoy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sa iyang bunga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:19.385292832Z",
+  "model": "glm-5.3"
+}

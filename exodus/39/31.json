@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug gibuhat nila niini ang higot nga tikilet (asul), aron sa pagbutang niini sa turban gikan sa ibabaw, sumala sa gisugo ni Yahweh ⟨את⟩ ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ug gipos\/gybutang nila"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "higot"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tikilet"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aron sa pagbutang"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ang turban"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:19.487943789Z",
+  "model": "glm-5.3"
+}

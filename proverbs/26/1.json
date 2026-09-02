@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ingon nga snow sa ting-init, ug ingon nga ulan sa ting-ani, ingon niana dili angay ang himaya alang sa kailhanan sa ulaw.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "Ingon nga snow"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa ting-init"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "ug ingon nga ulan"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa ting-ani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "angay"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "alang sa kailhanan sa ulaw"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:11.494121956Z",
+  "model": "glm-5.3"
+}

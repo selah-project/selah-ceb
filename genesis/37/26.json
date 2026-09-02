@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug si Yehudah nakaingon sa iyang mga kaigsoonan: Unsa may atong makuha kon pagapatyon nato ⟨את⟩ ang atong igsoon ug tagoon nato ⟨את⟩ ang iyang dugo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nakaingon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang mga kaigsoonan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "makuha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "pagapatyon nato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang atong igsoon"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ang atong igsoon"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "tagoon nato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang dugo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iyang dugo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:03.991549840Z",
+  "model": "glm-5.3"
+}

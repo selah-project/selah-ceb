@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Walay ingon nimo sa taliwala sa mga elohim, Adonay, ug walay ingon sa imong mga buhat.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Walay"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ingo nimo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa taliwala sa mga elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ingo sa imong mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:42.912407703Z",
+  "model": "glm-5.3"
+}

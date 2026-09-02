@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 2:7",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ngadto sa mga katsila ⟨sa⟩ mga bukid nangadto ako; ⟨ang⟩ yuta uban sa iyang mga barahan nagsira kanako hangtod sa kahangturan; apan imong gipataas ang akong kinabuhi gikan sa kangguba, kang Yahweh nga akong Elohim.",
+  "tokens": [
+    {
+      "surface": "לקצבי",
+      "gloss": "ngadto sa mga katsila"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "nangadto ako"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ yuta"
+    },
+    {
+      "surface": "ברחיה",
+      "gloss": "ubit sa iyang mga barahan"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "apan imong gipataas"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "gikan sa kangguba"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akong kinabuhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T00:44:31.716956917Z",
+  "model": "glm-5.3"
+}

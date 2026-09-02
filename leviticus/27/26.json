@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Apan ang panganay sa hayop, nga gipanganay alang kang Yahweh, dili maipahinungod ni bisan hain ka tawo ⟨את⟩ kini; kung baka kong karnero, kang Yahweh ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "gipanganay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "sa hayop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "maipahinungod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ni bisan hain ka tawo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang panganay)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kong"
+    },
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:27.429479655Z",
+  "model": "glm-5.3"
+}

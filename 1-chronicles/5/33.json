@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Si Merajoth nagkanako ⟨את⟩ kang Amarjah, ug si Amarjah nagkanako ⟨את⟩ kang Akituv;",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ug si Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Akituv"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akituv"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:27.123119287Z",
+  "model": "glm-5.3"
+}

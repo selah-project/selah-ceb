@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug himoon nimo ⟨את⟩ ang mga baras gikan sa kahoy nga shitim, ug tabunan nimo sila ⟨את⟩ og bulawan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug himoon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baras"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga baras"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy sa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "ug tabunan nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga baras)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:43.407280887Z",
+  "model": "glm-5.3"
+}

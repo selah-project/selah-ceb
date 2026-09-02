@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug gipadala niya ⟨את⟩ si Elyakim nga ⟨ἀng⟩ nangatunga sa balay, ug si Shevna ang eskriba, ug ⟨את⟩ ang mga tigulang sa mga saserdote, nga natabonan ug mga sako, ngadto kang Yeshayahu ang propeta, anak ni Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ug gipadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "si Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "nangatunga sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "ug si Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang eskriba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tigulang sa mga saserdote"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga tigulang"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "nga natabonan"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ug mga sako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:45.032131390Z",
+  "model": "glm-5.3"
+}

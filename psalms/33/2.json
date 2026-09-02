@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Pagdayeg kang Yahweh uban sa kinor; uban sa nebel nga napulo ka higot, pagzamar ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pagdayeg"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uban sa kinor"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "uban sa nebel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "nga napulo ka higot"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "pagzamar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kaniya⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.847184277Z",
+  "model": "glm-5.3"
+}

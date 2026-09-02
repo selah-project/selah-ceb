@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Kay ang tanan niyang mga pagtulon-an anaa sa ⟨akong⟩ atubangan, ug ang iyang mga balaod wala nako isalikway gikan kanako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "niyang mga pagtulon-an"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "sa atubangan ko"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ug ang iyang mga balaod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "isalikway nako"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gikan kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.027107956Z",
+  "model": "glm-5.3"
+}

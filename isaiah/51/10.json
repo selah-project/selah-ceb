@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Wala ba ⟨ikaw⟩ mao ang nagpauga sa dagat, sa mga tubig sa dako nga kalaliman; ang nagbutang sa mga kinalaliman sa dagat nga dalan aron malabtan sa mga ginbawi?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "היא",
+      "gloss": "mao"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "ang nagpauga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "מי",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "sa kalaliman"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ang nagbutang"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "sa mga kinalaliman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nga dalan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "aron malabtan"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "sa mga ginbawi"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:34.971717074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Pakadtoa pagabiya-i ang inahan ⟨את⟩, ug ⟨ang⟩ mga anak ⟨את⟩ kuhaa alang nimo, aron maayo alang nimo ug magdugay ka ug mga adlaw.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "pagbiya-i"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "kinahanglan pagbiya-i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inahan"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ang inahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang nimo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang nimo"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ug magdugay ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:10.527230437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ang mga dautan nag-abli sa espada ug nagbatak sa ilang pana aron pagtumba sa kabos ug sa kawad-on, aron pag-abatt sa mga matarong sa dalan.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "nag-abli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ug nagbatak"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "sa ilang pana"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "aron pagtumba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug sa kawad-on"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "aron pag-abatt"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.548496118Z",
+  "model": "glm-5.3"
+}

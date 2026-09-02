@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Miingon si Eliyahu ngadto sa tibuok katawhan: Duol kamo kanako. Ug miduol ang tibuok katawhan kaniya; ug giayo niya ⟨את⟩ ang halaran ni Yahweh nga giguba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "si Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngadto sa tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "duol kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "ug miduol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ug giayo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "nga giguba"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:09.212248736Z",
+  "model": "glm-5.3"
+}

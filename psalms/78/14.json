@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gitudlo niya sila pinaagi sa panganod sa adlaw, ug tibuok gabii pinaagi sa kahayag sa kalayo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ug gitudlo niya sila"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "pinaagi sa panganod"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tibuok"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "gabii"
+    },
+    {
+      "surface": "באור",
+      "gloss": "pinaagi sa kahayag"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:03.847161418Z",
+  "model": "glm-5.3"
+}

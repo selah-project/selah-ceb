@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug sila nag-ingon: Tawga nato ang ulitawo, ug pangutan-a nato ⟨את⟩ ang iyang baba.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nag-ingon sila"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "tawga nato"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ang ulitawo"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "pangutan-a nato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang baba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ang iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:57.100260557Z",
+  "model": "glm-5.3"
+}

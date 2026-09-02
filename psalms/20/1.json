@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Sa pangulo sa mga musikero; usa ka salmo ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa pangulo sa mga musikero"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:26.494310138Z",
+  "model": "glm-5.3"
+}

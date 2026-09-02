@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nga ang ilang mga dalan lit-ok, ug nagatuyok-tuyok sa ilang mga agianan;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "ang ilang mga dalan"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "lit-ok"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "nagatuyok-tuyok"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "sa ilang mga agianan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:57.192332800Z",
+  "model": "glm-5.3"
+}

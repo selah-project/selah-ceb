@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Siya ang nagtukod ⟨את⟩ sa pultahan sa balay ni Yahweh, ang nagtungtong, ug sa paril sa Ophel nagtukod siya nga daghan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Siya ang"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pultahan sa balay ni Yahweh"
+    },
+    {
+      "surface": "שער",
+      "gloss": "pultahan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ang nagtungtong"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ug sa paril"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "sa Ophel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "nga daghan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:15.074731364Z",
+  "model": "glm-5.3"
+}

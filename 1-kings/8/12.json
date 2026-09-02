@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Unya miingon si Shelomoh: Nag-ingon si Yahweh nga molangyaw ⟨siya⟩ sa makapal nga kangitngit.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Unya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "molangyaw"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "sa makapal nga kangitngit"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:37.232480871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang tawo nagtawag sa ngalan sa iyang asawa nga Khava, kay siya mao ang inahan sa tanan nga may kinabuhi.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "wiki": "",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa iyang asawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Khava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "mao ang"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga may kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:54.886174935Z",
+  "model": "glm-5.3"
+}

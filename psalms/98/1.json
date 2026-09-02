@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Usa ka mizmor. Pag-awit kamo kang Yahweh og bag-ong awit, kay naghimo siya og ⟨mga⟩ katingalahang buhat; ang iyang kamot nga too ug ang iyang balaang braso naghatud kaniya og kaluwas.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Pag-awit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-ong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "katingalahang buhat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo siya"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "naghatud og kaluwas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iyang kamot nga too"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ug balaang braso"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:13.985430415Z",
+  "model": "glm-5.3"
+}

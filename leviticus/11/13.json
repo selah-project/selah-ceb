@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ⟨ang⟩ kining mga langgam abominasyonon ninyo gikan sa ⟨mga⟩ langgam; dili sila kan-on: abominasyon sila: ⟨את⟩ ang agila, ug ⟨את⟩ ang peres, ug ⟨את⟩ ang azniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kining mga langgam"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kining mga langgam"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "abominasyonon ninyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨mga⟩ langgam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sila kan-on"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "abominasyon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang agila"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ang agila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ang peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang azniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ang azniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:57.779219954Z",
+  "model": "glm-5.3"
+}

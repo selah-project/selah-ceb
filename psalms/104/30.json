@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Ipadala niya ang iyang gininhawa, mamugna sila; ug iyang bag-ohon ang panagway sa yuta.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Ipadala niya"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ang iyang gininhawa"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "mamugna sila"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ug iyang bag-ohon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang panagway"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:59.959689345Z",
+  "model": "glm-5.3"
+}

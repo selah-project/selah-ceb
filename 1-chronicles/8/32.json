@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug si Miklot natawo si ⟨את⟩ Shimah; ug sila usab, atbang sa ilang mga igsoon, nagpuyo sa Yerushalayim kauban ang ilang mga igsoon.",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "ug si Miklot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimah"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "Shimah"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "sa ilang mga igsoon"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ang ilang mga igsoon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:46.911729636Z",
+  "model": "glm-5.3"
+}

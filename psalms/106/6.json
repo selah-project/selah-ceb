@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Nakasala kami uban sa among mga amahan, nakapaniway kami, nagbuhat kami ug pagkadautan.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nakasala kami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "among mga amahan"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "nakapaniway kami"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "nagbuhat kami ug pagkadautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.424415195Z",
+  "model": "glm-5.3"
+}

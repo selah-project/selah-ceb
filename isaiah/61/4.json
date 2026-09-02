@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 61,
+  "translation": "Ug magtindog sila pag-usab sa mga kadautan sa katingadhan, ang mga kamingaw sa unang panahon itukod pag-usab, ug ang mga dakbayan nga lagyo nga kamingaw sa henerasyon ngadto sa henerasyon pagasuilonan.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "magtindog sila pag-usab"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga kadautan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa katingadhan"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "mga kamingaw"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "sa unang panahon"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "itukod pag-usab"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "ug pagasuilonan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "nga lagyo"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "kamingaw"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ngadto sa henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:43.633082623Z",
+  "model": "glm-5.3"
+}

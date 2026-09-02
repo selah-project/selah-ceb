@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay diha sa landong sa kaalam ⟨ang⟩ landong sa salapi; apan ang kalamboan sa kahibalo mao nga ang kaalam nagahatag ug kinabuhi sa mga tag-iya niini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "diha sa landong"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "⟨ang⟩ landong"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sa salapi"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "apan ang kalamboan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "sa kahibalo"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "nagahatag ug kinabuhi"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "sa mga tag-iya niini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:47:04.536163639Z",
+  "model": "glm-5.3"
+}

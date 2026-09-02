@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug nagkuha pa si David og mga asawa sa Yerushalayim, ug natawo pa kang David og mga anak nga lalaki ug mga anak nga babaye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ug nagkuha pa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "og mga asawa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo pa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ug mga anak nga babaye"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:04.170674305Z",
+  "model": "glm-5.3"
+}

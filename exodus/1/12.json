@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan kusog kaayo nila paglutos ⟨את⟩ kaniya, ug sa mao gihapon nga kadaghan siya nakapadaghan ug nakatibulaag; ug nasuko sila tungod sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Apan kusog kaayo nila paglutos"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "paglutos nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya (ang Yisrael)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa mao gihapon nga kadaghan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "nakapadaghan"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ug sa mao gihapon"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "nakatibulaag"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "nasuko sila"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:26.877086575Z",
+  "model": "glm-5.3"
+}

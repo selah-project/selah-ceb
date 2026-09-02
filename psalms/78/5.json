@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gipatindog niya ang ⟨ang⟩ pagpamatuod sa kang Yaakov, ug gibutang ang torah sa Yisrael, nga iyang gisugo ⟨את⟩ sa among mga amahan, aron ipahibalo nila ⟨kini⟩ sa ilang mga anak.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "pagpamatuod"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa kang Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ug torah"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa among mga amahan"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "sa among mga amahan"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "aron ipahibalo nila"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ilang mga anak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:08.512285928Z",
+  "model": "glm-5.3"
+}

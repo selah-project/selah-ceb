@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": " ug pagapanimbúong padayon ang iyang mga anak, ug mangayo sila, ug pangitaon nila ⟨ang pan⟩ gikan sa ilang mga kagibangkan.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ug pagapanimbúong"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "padayon sila magpanimbúo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ug mangayo sila"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ug pangitaon nila"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "gikan sa ilang mga kagibangkan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:21.837981785Z",
+  "model": "glm-5.3"
+}

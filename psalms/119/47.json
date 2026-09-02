@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ug magkalipay ako sa imong mga sugo, nga akong gihigugma.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "Ug magkalipay ako"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "sa imong mga sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "akong gihigugma"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:43.455782610Z",
+  "model": "glm-5.3"
+}

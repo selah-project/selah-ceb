@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Nagkagubot ang mga kanasoran, nalog ang mga gingharian — naghatag ⟨siya⟩ ug tingog, natunaw ang yuta.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "Nagkagubot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga kanasoran"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "nalog"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ang mga gingharian"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "ug tingog"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:14.757371688Z",
+  "model": "glm-5.3"
+}

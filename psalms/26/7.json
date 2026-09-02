@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Sa pagpasig-uli sa tingog sa pagpasalamat, ug sa pagsaysay sa tanan nimong katingalahang mga buhat.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpasig-uli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sa pagpasalamat"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "ug sa pagsaysay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "nimong katingalahang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:30.904913457Z",
+  "model": "glm-5.3"
+}

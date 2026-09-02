@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Yahweh magabantay kaniya ug magapabilin siyang buhi; ⟨magmalipayon⟩ siya sa yuta, ug ayaw ⟨kamo⟩ paghatag kaniya sa gana sa iyang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "magabantay kaniya"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "ug magapabilin siyang buhi"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "⟨magmalipayon⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "paghatag kaniya"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sa gana"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "iya nga mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:09.713725468Z",
+  "model": "glm-5.3"
+}

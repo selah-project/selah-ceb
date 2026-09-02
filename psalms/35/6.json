@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Himoon ang ilang dalan nga kangitngit ug malislis ⟨kaayo⟩, ug ang mensaheiro ni Yahweh naningkitsa ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Himoon"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ang ilang dalan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "ug malislis"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ug ang mensaheiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "naningkitsa kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.285952190Z",
+  "model": "glm-5.3"
+}

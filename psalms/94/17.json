@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Kon wala ang tabang ni Yahweh ⟨alang kanako⟩, sa diyutay pa nagpuyo na sa kahilom ang akong nefesh.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "kon wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "ang tabang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨alang kanako⟩"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "sa diyutay pa"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "nagpuyo na"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sa kahilom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:08.279274191Z",
+  "model": "glm-5.3"
+}

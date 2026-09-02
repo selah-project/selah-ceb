@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Maayong pagkadawat ⟨ang⟩ mga tibuok sa dalan, ⟨ang⟩ mga nagalakaw sa Torah ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Maayong pagkadawat"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "mga tibuok"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "⟨ang⟩ mga nagalakaw"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.980592606Z",
+  "model": "glm-5.3"
+}

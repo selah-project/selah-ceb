@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "kon ang iyang hawak wala magpanalangin kanako, ug wala mainit gikan sa balahibo sa akong mga karnero;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "magpanalangin kanako"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "ang iyang hawak"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "ug gikan sa balahibo"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "sa akong mga karnero"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "wala mainit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:00.840767126Z",
+  "model": "glm-5.3"
+}

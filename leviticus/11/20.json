@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang tanan nga nagsaay nga may pakpak nga naglakaw sa upat ka tiil — sheqets ⟨kini⟩ alang kaninyo",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "nagsaay"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "nga langgam nga may pakpak"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat ka tiil"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheqets"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:29.066257366Z",
+  "model": "glm-5.3"
+}

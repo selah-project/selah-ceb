@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug isulat mo sa mga bato ⟨את⟩ ang tanan nga mga pulong sa kini nga Torah, ⟨nga⟩ tin-aw nga kaayo.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "ug isulat mo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga pulong"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "sa kini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "tin-aw"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "nga kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:15.279703802Z",
+  "model": "glm-5.3"
+}

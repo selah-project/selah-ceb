@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Molatag siya sa tinaguan, ingon sa leon sa iyang lungag; molatag siya aron dakpon ang timawa; idakop niya ang timawa sa iyang pag-igo, sa iyang pukot.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "molatag siya"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "sa tinaguan"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ingon sa leon"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sa iyang lungag"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "molatag siya"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "aron dakpon"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang timawa"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "idakop niya"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang timawa"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "sa iyang pag-igo"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "sa iyang pukot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:37.708425943Z",
+  "model": "glm-5.3"
+}

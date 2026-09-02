@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Gikuha ko ang iyang abaga gikan sa pinugsanay; ang iyang mga kamot nagpas gikan sa basket.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Gikuha ko"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "gikan sa pinugsanay"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ang iyang abaga"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ang iyang mga kamot"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "gikan sa basket"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "nagpas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:11.576537371Z",
+  "model": "glm-5.3"
+}

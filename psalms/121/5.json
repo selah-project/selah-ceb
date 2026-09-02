@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Si Yahweh ⟨ang⟩ nagabantay kanimo, si Yahweh ⟨ang⟩ imong landong sa imong too nga kamot.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "nagabantay kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "imong landong"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong too"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.298617672Z",
+  "model": "glm-5.3"
+}

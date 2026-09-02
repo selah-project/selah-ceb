@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug sa mga anak ni Aharon gihatag nila ⟨את⟩ ang mga siyudad sa pagpanikas ⟨את⟩ ang Hevron ug ⟨את⟩ ang Livna uban sa ⟨את⟩ mga nataran niini, ug ⟨את⟩ ang Yattir ug ⟨את⟩ ang Eshtemoa uban sa ⟨את⟩ mga nataran niini.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ug sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga siyudad sa pagpanikas"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ang mga siyudad"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "sa pagpanikas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ang Hevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ang Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang mga nataran niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Yattir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ang Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "ang Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang mga nataran niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:21.433684985Z",
+  "model": "glm-5.3"
+}

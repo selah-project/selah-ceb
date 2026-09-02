@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kay ania karon, ako magapadala kaninyo ug mga bitin, mga tsetpon, nga walay lacha alang kanila, ug sila magapaak ⟨את⟩ kaninyo, matod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ania karon, ako"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "magapadala"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "mga bitin"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "mga tsetpon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "lacha"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "ug sila magapaak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:17:40.603116088Z",
+  "model": "glm-5.3"
+}

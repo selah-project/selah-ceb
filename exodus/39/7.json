@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug gibutang niya ⟨את⟩ ⟨ang mga bato⟩ sa mga abaga sa aefod — mga bato sa paghandum alang sa mga anak ni Yisrael — ingon sa gisugo ni Yahweh ⟨את⟩ ni Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨ang mga bato⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mga abaga"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sa aefod"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mga bato sa"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "paghandum"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:38.475925372Z",
+  "model": "glm-5.3"
+}

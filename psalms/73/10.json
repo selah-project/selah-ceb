@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Busa mobalik ngadto dinhi ang iyang katawhan, ug ang tubig sa puno nga kopa ilang makuha.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ngadto dinhi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug ang tubig"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "sa puno nga kopa"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ilang makuha"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ilang⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:12.181555237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Kinsa ang mituo sa among nadungog? Ug ang bukton ni Yahweh, kang kinsa kini napatay-day?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "mituo"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "sa among nadungog"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Ug ang bukton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "napaday-day"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:47.995347631Z",
+  "model": "glm-5.3"
+}

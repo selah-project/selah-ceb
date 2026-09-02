@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Nagsulti si Elohim sa iyang pagkabalaan: Magmalipayon ako, bahinon nako ang Shekhem, ug sukadon nako ang walog sa Sukkot.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa iyang pagkabalaan"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "magmalipayon ako"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "bahinon nako"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ang Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ang walog"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "sa Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "sukadon nako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:10.214918618Z",
+  "model": "glm-5.3"
+}

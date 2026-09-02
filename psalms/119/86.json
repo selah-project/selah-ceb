@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Tanang mga sugo mo ⟨mga⟩ matinud-anon; nga adunay bakak gipanglatigo nila ako — tabangi ako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tanang"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mga sugo mo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "⟨mga⟩ matinud-anon"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga adunay bakak"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "gipanglatigo nila ako"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "tabangi ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.118350968Z",
+  "model": "glm-5.3"
+}

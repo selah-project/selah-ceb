@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Panahon na ⟨nga⟩ buhaton ni Yahweh ⟨kini⟩ — gipakawala nila ang imong Torà.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Panahon na"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "gipakawala nila"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang imong Torà"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:00.992584518Z",
+  "model": "glm-5.3"
+}

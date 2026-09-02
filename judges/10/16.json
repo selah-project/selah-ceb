@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gikuha nila ⟨את⟩ ang mga elohim sa gikan sa ilang taliwala ug gialagdan nila ⟨את⟩ si Yahweh, ug napikot ang iyang kalag sa pag-antos sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga elohim sa gikan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "sa gikan"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "sa ilang taliwala"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "gialagdan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "napikot"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang iyang kalag"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "sa pag-antos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:07:54.724511360Z",
+  "model": "glm-5.3"
+}

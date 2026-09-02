@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": " ug pangandoyon nila ang mga kapatagan ug kuhaon pinaagi sa pagpanghasi, ug ang mga balay, ug dad-on nila kini; ug isipyon nila ang tawo ug ang iyang panimalay, ang tawo ug ang iyang panulondon.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "ug pangandoyon nila"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "ang mga kapatagan"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "ug kuhaon pinaagi sa pagpanghasi"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ug ang mga balay"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "ug dad-on nila"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "ug isipyon nila"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ug ang iyang panimalay"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ug ang iyang panulondon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:26.930585864Z",
+  "model": "glm-5.3"
+}

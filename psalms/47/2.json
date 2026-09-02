@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Kamo tanan nga mga katawhan, sipyoka ang inyong mga kamot; pagtulongtulongon kamo ngadto kang Elohim sa tingog sa pag-awit nga may kalipay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "nga mga katawhan"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "sipyoka"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ang mga kamot"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "pagtulongtulongon kamo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngadto kang Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sa pag-awit nga may kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:16.730737675Z",
+  "model": "glm-5.3"
+}

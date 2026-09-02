@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Nagkalot siya ug banga, ug giluna kini, ug natumba siya ngadto sa latian nga iyang gibuhat.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "banga"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "nagkalot"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ug giluna kini"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ug natumba siya"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ngadto sa latian"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "nga iyang gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.966626519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Bisan unsong lalaki sa mga sacerdote makakaon ⟨niini⟩ ⟨את⟩; balaang balaan kini.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bisan unsong"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "sa mga sacerdote"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "makakaon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang balaang halad)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaang"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:02.352329532Z",
+  "model": "glm-5.3"
+}

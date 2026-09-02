@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Pagdayegon nila ang iyang ngalan pinaagi sa sayaw; uban sa tamborin ug kinor pagtugtog ug pag-awit sila kaniya.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "pagdayegon nila"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "paagi sa sayaw"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "uban sa tamborin"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ug kinor"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "pagtugtog ug pag-awit sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.863324739Z",
+  "model": "glm-5.3"
+}

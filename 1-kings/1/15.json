@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Busa misulod si Bat-Sheba ngadto sa hari, sa sulod nga kwarto; ug ang hari tigulang na kaayo; ug si Avishag nga taga-Shunem nag-alagad ⟨את⟩ sa hari.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Busa misulod"
+    },
+    {
+      "surface": "בת",
+      "gloss": "si Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "sa sulod nga kwarto"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang na"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ug si Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "nga taga-Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:24.261618753Z",
+  "model": "glm-5.3"
+}

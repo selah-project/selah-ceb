@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Bantayi ako, Yahweh, gikan sa mga kamot sa daotan; gikan sa tawo nga mapintas pagbantay kanako — sila nga nagpaninguha sa pagpalagas sa akong mga lakang.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Bantayi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gikan sa mga kamot"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "nga mapintas"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "pagbantay kanako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "nagpaninguha"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "sa pagpalagas"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "sa akong mga lakang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.990662668Z",
+  "model": "glm-5.3"
+}

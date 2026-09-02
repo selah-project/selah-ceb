@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Gikan sa imong pagsaway nagpanaw sila; gikan sa tingog sa imong dagundong nagdali sila pagpanaw.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Gikan sa"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "imong pagsaway"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "nagpanaw sila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog sa"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "imong dagundong"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "nagdali sila pagpanaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:17.230537811Z",
+  "model": "glm-5.3"
+}

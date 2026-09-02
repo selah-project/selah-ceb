@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Kabalakit-an ang moingon sa amahan, Unsa imong gianak? Ug sa babaye, Unsa imong gipanganak?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kabalakit-an"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang moingon"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "sa amahan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "imong gianak"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "Ug sa babaye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "imong gipanganak"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:59.876780304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 142,
+  "translation": "Ang akong tingog ngadto kang Yahweh magasinghaw ⟨ako⟩; ang akong tingog ngadto kang Yahweh magpangadyo ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ang akong tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "magasinghaw"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "magpangadyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:14.892524248Z",
+  "model": "glm-5.3"
+}

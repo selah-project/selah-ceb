@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Kay nasayod kamo ⟨את⟩ sa mga butang nga among gipuy-an sa yuta sa Mitsrayim, ug ⟨את⟩ sa mga butang nga among giagi tunga-tunga sa mga nasud nga inyong giagian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "nasayod kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga butang nga among gipuy-an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "among gipuy-an"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga butang nga among giagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "among giagi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tunga-tunga sa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ang mga nasud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "inyong giagian"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:58.263340360Z",
+  "model": "glm-5.3"
+}

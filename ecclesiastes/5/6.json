@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay sa pagkadaghan sa mga damgo ug mga kaemptihan ug mga pulong nga daghan — ⟨kinaadman⟩ kahadlok ⟨kang⟩ ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa pagkadaghan"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mga damgo"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ug mga kaemptihan"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ug mga pulong"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nga daghan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kinaadman⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:09.152154126Z",
+  "model": "glm-5.3"
+}

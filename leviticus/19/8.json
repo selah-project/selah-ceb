@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang mokaon niini magdala sa iyang kaugalingong kasal-anan, kay ⟨את⟩ ang balaan nga butang ni Yahweh iyang gilapastangan; ug pagapapason kana nga nefesh gikan sa iyang katawhan.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "ug ang mokaon niini"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "iyang kasal-anan"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balaan nga butang"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan nga butang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "gilapastangan"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "pagapapason"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "gikan sa iyang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:22.871006425Z",
+  "model": "glm-5.3"
+}

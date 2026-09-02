@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Dili magkuha ang tawo ⟨את⟩ ang asawa sa iyang amahan, ug dili niya isubad ang killing sa iyang amahan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "magkuha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang asawa sa iyang amahan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ang asawa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "isubad"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ang killing"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:36.545335311Z",
+  "model": "glm-5.3"
+}

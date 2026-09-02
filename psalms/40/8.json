@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Unya nako ingnan: Ania kako, miabut ako; sa ligid sa basahon nakasulat ⟨mahitungod⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Unya"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nako ingnan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania kako"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "miabut ako"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "sa ligid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sa basahon"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:32.173984143Z",
+  "model": "glm-5.3"
+}

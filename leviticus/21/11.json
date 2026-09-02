@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug sa tanan nga mga kalag nga minatay dili siya mosulod ⟨o moduol⟩; alang sa iyang amahan ug alang sa iyang inahan dili siya mahugawan.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ug sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "mga kalag"
+    },
+    {
+      "surface": "מת",
+      "gloss": "minatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "alang sa iyang amahan"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "ug alang sa iyang inahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mahugawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:04.246768902Z",
+  "model": "glm-5.3"
+}

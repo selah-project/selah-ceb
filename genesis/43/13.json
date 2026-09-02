@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ug ⟨את⟩ inyong mga igsoon kuhaa, ug bangon, ug balika ngadto sa tawhana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga igsoon"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong mga igsoon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "bangon"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "balika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawhana"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:23.172873216Z",
+  "model": "glm-5.3"
+}

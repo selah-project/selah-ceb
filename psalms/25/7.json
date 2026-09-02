@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ang mga sala sa akong pagkatanod ug ang akong mga paglapas ayaw paghinumdom; sumala sa imong hesed hinumdomi ako ⟨ikaw⟩, alang sa imong kaayo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "Ang mga sala"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "sa akong pagkatanod"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "ug ang akong mga paglapas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "paghinumdom"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sumala sa imong hesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hinumdomi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "imong kaayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:17.423549958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Nagiatubang ang pagkaputol sa sungay sa Moav, ug ang iyang bukton nabali, nagaingon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "naputol"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sungay"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ug ang iyang bukton"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:30:11.406471226Z",
+  "model": "glm-5.3"
+}

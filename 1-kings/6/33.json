@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug mao usab kini ang iyang gibuhat alang sa pultahan sa templo: mga posteng kahoy nga lana-oliba, ⟨gikan sa⟩ ikaupat nga bahin ⟨sa bongbong⟩.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "ug mao usab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "alang sa pultahan"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga poste"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy nga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana-oliba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ikaupat nga bahin"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "ikaupat nga bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:46.850477031Z",
+  "model": "glm-5.3"
+}

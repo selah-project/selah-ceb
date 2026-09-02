@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug si Yahweh nagsulti kang Moshe: Usa ka pangulo sa usa ka adlaw, usa ka pangulo sa usa ka adlaw, magahatid sila ⟨את⟩ sa ilang qorban alang sa pagdedyikar sa ⟨altarness⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "usa ka pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa usa ka adlaw"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "usa ka pangulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa usa ka adlaw"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "magahatid sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ila qorban"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "sa ilang qorban"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "alang sa pagdedyikar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeach"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:12.929964400Z",
+  "model": "glm-5.3"
+}

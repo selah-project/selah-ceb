@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Si David midmah: Unsa may akong gibuhat karon? Dili ba ⟨kini⟩ usa ka pulong?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "midmah"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Si David"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akong gibuhat"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "usa ka pulong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:38.178456338Z",
+  "model": "glm-5.3"
+}

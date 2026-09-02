@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Yahweh, Elohim sa akong kaluwasan, sa adlaw nagpanawag ako, sa gabii ⟨diha⟩ sa imong atubangan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "akong kaluwasan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "nagpanawag ako"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "sa imong atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.448367257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug mangawagtang ang tibuok balay ni Ahab, ug paputlon ko kang Ahab ang nagaihi sa bongbong, ug ang gipos ug ang gibilin sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "mangawagtang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "paputlon ko"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "kang Ahab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "ang nagaihi"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "sa bongbong"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "ang gipos"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ang gibilin"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:21.603750502Z",
+  "model": "glm-5.3"
+}

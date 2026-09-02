@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si Elohim: \"Magmay-adlaw nga lawas ⟨ang⟩ rakiya sa tunga sa mga tubig, ug magbulag kini taliwala sa tubig ug sa tubig.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Magmay-adlaw nga lawas"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug magmay-adlaw nga lawas"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "magbulag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "למים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:55.466937100Z",
+  "model": "glm-5.3"
+}

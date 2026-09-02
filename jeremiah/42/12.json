@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug maghatag ako kaninyo ug mga kalooy, ug kalooyan niya ⟨את⟩ kamo, ug ipauli niya ⟨את⟩ kamo ngadto sa inyong yuta.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ug maghatag ako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "ug mga kalooy"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ug kalooyan niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ug ipauli niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "inyong yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:29:52.208938327Z",
+  "model": "glm-5.3"
+}

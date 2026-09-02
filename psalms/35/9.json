@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ang akong kalag magakalipay kang Yahweh, magmalipayon sa iyang kaluwasan.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ug ang akong kalag"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "sa iyang kaluwasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:24.436977400Z",
+  "model": "glm-5.3"
+}

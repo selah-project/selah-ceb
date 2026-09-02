@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Boaz natawo ⟨את⟩ ni Oved, ug si Oved natawo ⟨את⟩ ni Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ug si Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ug si Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:39.525146924Z",
+  "model": "glm-5.3"
+}

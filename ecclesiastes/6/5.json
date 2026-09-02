@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Bisan pa gani ang adlaw wala niini makakita ug wala usab niini mahibalo; dugang nga kapahuway ⟨naa⟩ kini kay sa ⟨ngadto⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan pa gani"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala usab"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kapahuway"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kay sa ngadto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:13.445669738Z",
+  "model": "glm-5.3"
+}

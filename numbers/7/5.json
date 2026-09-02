@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kuhaa ⟨gikan kanila⟩ ⟨את⟩ ⟨ang⟩ pag-alagad sa Tolda sa Tigum, ug ihatag nimo kini ⟨את⟩ ngadto sa mga Levita, matag tawo sumala sa iyang pag-alagad.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Kuhaa"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨gikan kanila⟩ ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "aron magamit"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pag-alagad"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "pag-alagad"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tigum"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ug ihatag nimo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ngadto sa mga Levita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "iyang pag-alagad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:39.740522556Z",
+  "model": "glm-5.3"
+}

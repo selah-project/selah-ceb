@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gipahimutang ni Yahweh ⟨ang⟩ pulong sa baba ni Bilam, ug nag-ingon: Balingkan ang Balak, ug sa ingon niini imong sultihan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "gipahimutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug nag-ingon"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Balingkan ang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ug sa ingon niini"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "imong sultihan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:56.551528776Z",
+  "model": "glm-5.3"
+}

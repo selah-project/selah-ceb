@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug sa balay sa pag-inom dili ka mosulod sa paglingkod ⟨את⟩ uban kanila sa pagkaon ug sa pag-inom.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Ug sa balay"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "sa pag-inom (pista)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ka mosulod"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa paglingkod"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "uban kanila"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ug sa pag-inom"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:03.909567624Z",
+  "model": "glm-5.3"
+}

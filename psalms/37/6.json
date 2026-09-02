@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ipagawas Niya ingon sa kahayag ang imong pagkamatarong, ug ang imong pagtulon-an ingon sa udto-ting-adlaw.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Ug ipagawas Niya"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "ingon sa kahayag"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ang imong pagkamatarong"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ug ang imong pagtulon-an"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ingon sa udto-ting-adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.748990519Z",
+  "model": "glm-5.3"
+}

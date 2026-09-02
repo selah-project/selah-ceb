@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang nagapakompak sa iyang tungkod nagadumot sa iyang anak, apan ang nagahigugma kaniya nagahatag kaniya ug disiplina sa sayo pa.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "nagapakompak"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "sa iyang tungkod"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nagadumot"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa iyang anak"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "apan ang nagahigugma"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "nagahatag … sa sayo pa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplina"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:21.282173336Z",
+  "model": "glm-5.3"
+}

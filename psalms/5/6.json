@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Dili makatindog ⟨ang mga⟩ manghambug imbahaw sa atubangan sa imong mga mata; gikadlaw nimo ang tanan nga mga mamumuo sa kawalay-tinood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "makatindog"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "⟨ang mga⟩ manghambug imbahaw"
+    },
+    {
+      "surface": "l\/2962",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "gikadlaw nimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nga mga mamumuo"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kawalay-tinood"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:59.076381096Z",
+  "model": "glm-5.3"
+}

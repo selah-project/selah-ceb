@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Ayaw ipahuyo ang akong kasingkasing ngadto sa daotan nga butang, sa pagbuhat ug daotang mga buhat uban sa kadaotan; ⟨את⟩ ⟨ang⟩ mga tawo nga mga mamumugos sa kahawan; ug ayaw ako mopakaon sa ilang mga kaayohan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ipahuyo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngadto sa butang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ug daotan nga mga buhat"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "uban sa kadaotan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ mga tawo"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nga mga mamumugos"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kahawan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ako mopakaon"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "sa ilang mga kaayohan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:25.135496019Z",
+  "model": "glm-5.3"
+}

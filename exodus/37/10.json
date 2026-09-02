@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gibuhat niya ⟨את⟩ ang lamesa gikan sa kahoy nga shittim — duha ka siko ang gitas-on niini, ug usa ka siko ang gilapdon niini, ug usa ka siko ug katunga ang gitas-on niini nga patindog.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy nga"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duha ka siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang gitas-on niini"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug usa ka siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang gilapdon niini"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug usa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug katunga"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang gitas-on niini nga patindog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:40.676624972Z",
+  "model": "glm-5.3"
+}

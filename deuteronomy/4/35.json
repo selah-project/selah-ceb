@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ikaw ang gipakita ⟨kaniya⟩ aron mahibal-an nga si Yahweh ⟨siya⟩ ang Elohim, walay lain pa gawas kaniya.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gipakita"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aron mahibal-an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lain pa"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "gawas kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:46.920021528Z",
+  "model": "glm-5.3"
+}

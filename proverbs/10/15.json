@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang kabtangan sa adunahan ⟨ang⟩ iyang kusog nga dakbayan; ang pagkapunaw sa mga timawa mao ang ilang kakabos.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "kabtangan"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "sa adunahan"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "pagkapunaw"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "mga timawa"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "kakabos"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:45.410813086Z",
+  "model": "glm-5.3"
+}

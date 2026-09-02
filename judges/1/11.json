@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mibalhin gikan didto si Yehudah batok sa mga pumoluyo sa Devir — ug ang ngalan sa Devir sauna mao ang Kiryat-Sefer.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ug mibalhin si"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo sa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan sa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "sauna"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:52.869485456Z",
+  "model": "glm-5.3"
+}

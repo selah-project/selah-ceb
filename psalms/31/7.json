@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Gidumtan ko ang mga nagatipig sa mga bakak nga kawalay-bili, apan ako ngadto kang Yahweh nagtuo ko.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "gidumtan ko"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ang mga nagatipig"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "sa mga kawalay-bili"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagtuo ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:54.546520655Z",
+  "model": "glm-5.3"
+}

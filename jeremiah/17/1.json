@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang sala ni Yehudah nakasulat sa panitik sa puthaw, sa kuko sa shamir, ukit ⟨sa⟩ tabla sa ilang kasingkasing, ug sa mga sungay sa inyong mga altar.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "nakasulat"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "sa panitik"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "puthaw"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "sa kuko"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "shamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "ukit"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ilang kasingkasing"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "ug sa mga sungay"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "sa inyong mga altar"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:58.351984884Z",
+  "model": "glm-5.3"
+}

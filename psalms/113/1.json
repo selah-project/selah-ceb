@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 113,
+  "translation": "Pagdayeg kamo kang Yah! Pagdayeg kamo, mga sulugoon ni Yahweh; pagdayeg ninyo ⟨את⟩ ⟨ang⟩ ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan ni Yahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.544625326Z",
+  "model": "glm-5.3"
+}

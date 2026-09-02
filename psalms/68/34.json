@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ngadto kang ⟨siya nga naglunang⟩ sa mga langit sa mga langit sa kadayon; ania kini, magahatag ⟨siya⟩ sa iyang tingog — tingog sa kusog.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "ngadto kang ⟨siya nga naglunang⟩"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sa kadayon (sa sinugdan)"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "sa iyang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sa kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.897653579Z",
+  "model": "glm-5.3"
+}

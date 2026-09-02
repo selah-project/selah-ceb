@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Makig-uban ba kanimo ang trono sa kadaot, ang nagbundol sa kagubot batok sa balaod?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "makig-uban ba kanimo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ang trono"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ang nagbundol"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sa kagubot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "חק",
+      "gloss": "balaod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:08.279764937Z",
+  "model": "glm-5.3"
+}

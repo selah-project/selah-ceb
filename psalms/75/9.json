@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Kay may kopo sa kamot ni Yahweh, ug ang bino nagbukal-bukal ⟨nga⟩ puno sa sinagol, ug gibuhin niya gikan niini; apan ang mga labay niini, Hisgutan kini ug inomon sa tanang mga dautan sa yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ug ang bino"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "nagbukal-bukal"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "puno"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sa sinagol"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ug gibuhin"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan niini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apan"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ang mga labay niini"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "Hisgutan"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "inomon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:06.745475097Z",
+  "model": "glm-5.3"
+}

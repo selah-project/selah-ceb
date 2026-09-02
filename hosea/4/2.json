@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Panumpa ug bakak ug pagpatay ug pagpangawat ug pagpanapang — mikaylap sila, ug dugo sa dugo nagahikap.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Panumpa"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "ug bakak"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ug pagpatay"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ug pagpangawat"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ug pagpanapang"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "mikaylap sila"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ug dugo"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "nagahikap"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:54.261845319Z",
+  "model": "glm-5.3"
+}

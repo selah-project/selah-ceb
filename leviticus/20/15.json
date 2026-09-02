@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ang tawo nga maghatag sa iyang pagtigya ⟨sa⟩ mananap — kamatayon gayod siya, ug ⟨את⟩ ⟨ang⟩ mananap pagatamong ninyo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sa iyang pagtigya"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "⟨sa⟩ mananap"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "gayod siya pagakamatyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ mananap"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "⟨ang⟩ mananap"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "pagatamong ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:14.426011687Z",
+  "model": "glm-5.3"
+}

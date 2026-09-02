@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gihimo niya ⟨את⟩ ang balay sa mga kahitas-an, ug gihimo niya mga saserdote gikan sa mga extremidad sa katawhan, nga wala sila maging gikan sa mga anak ni Levi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sa mga kahitas-an"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "במות",
+      "gloss": "sa mga kahitas-an"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "gikan sa mga extremidad"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "maging"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gikan sa mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:39.218288518Z",
+  "model": "glm-5.3"
+}

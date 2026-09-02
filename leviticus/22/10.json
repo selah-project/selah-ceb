@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang tanan nga tagagawas dili mokaon sa balaan nga butang; ang pangtapok sa sacerdote ug ang sinusweldo dili mokaon sa balaan nga butang.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ug ang tanan"
+    },
+    {
+      "surface": "זר",
+      "gloss": "tagagawas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa balaan nga butang"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "ang pangtapok"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sa sacerdote"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ug ang sinusweldo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa balaan nga butang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:34.230084300Z",
+  "model": "glm-5.3"
+}

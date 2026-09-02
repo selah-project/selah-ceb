@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ni David. Lantawí sa pagtulis si Yahweh ⟨את⟩ ako mga nagatulis kanako; pagpakig-away ⟨את⟩ ako mga nakig-away kanako.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "lantawí sa pagtulis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ako mga nagatulis kanako"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ako mga nagatulis kanako"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagpakig-away"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ako mga nakig-away kanako"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ako mga nakig-away kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.116291314Z",
+  "model": "glm-5.3"
+}

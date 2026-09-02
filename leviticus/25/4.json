@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Apan sa ikapito nga tuig magaalabton ang shabbat — usa ka shabbat-shabbaton alang sa yuta, usa ka shabbat alang kang Yahweh: ang imonguma dili nimo itanum, ug ang imong kaparasan dili nimo pul-an.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Apan sa ... tuig"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shalom-shabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "usa ka shabbat-shabbaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "magaalabton"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "alang sa yuta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "usa ka shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ang imong uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "itanum"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "ug ang imong kaparasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "pul-an"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:35.622084477Z",
+  "model": "glm-5.3"
+}

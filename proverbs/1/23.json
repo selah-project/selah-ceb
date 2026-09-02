@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Balik kamo sa akong pagbadlong; ania kini, ibubo ko kaninyo ang akong gininhawa, ipahibalo ko ang akong mga pulong ⟨את⟩ kaninyo.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Balik kamo"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "sa akong pagbadlong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ibubo ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akong gininhawa"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ipahibalo ko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang akong mga pulong"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:46.647595090Z",
+  "model": "glm-5.3"
+}

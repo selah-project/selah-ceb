@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kon makita nimo ang bordiye sa nagadumot kanimo nga nagatigbas ilalom sa iyang kargahan, ug mohunong ka sa pagbiya niini — biyai gayod ⟨ka⟩ uban kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makita nimo"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bordiye"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "sa nagadumot kanimo"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "nagatigdas"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom sa"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "iyang kargahan"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "ug mohunong ka"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "sa pagbiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "biyai gayod"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "⟨ka⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:19.553645301Z",
+  "model": "glm-5.3"
+}

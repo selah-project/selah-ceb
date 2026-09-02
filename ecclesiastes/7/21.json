@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Usab, sa tanan nga mga pulong nga igen-ingon, ayaw ihatag ang imong kasingkasing, aron dili ka makadungog ⟨את⟩ sa imong sulugoon nga nagatunglo kanimo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Usab"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "igen-ingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "imong kasingkasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "makadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong sulugoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "nagatunglo kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:33.422912380Z",
+  "model": "glm-5.3"
+}

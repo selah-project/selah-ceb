@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Nakigbukog siya sa mensahero ug nakaadaog; naghilak siya ug nagpangabaos kaniya; sa Bet-El siya gikaplag niya, ug didto nagyulti siya uban kanamo.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "nakigbukog siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "nakaadaog"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "naghilak"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "nagpangabaos"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "gikaplag niya siya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "nagyulti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "uban kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:57.117349682Z",
+  "model": "glm-5.3"
+}

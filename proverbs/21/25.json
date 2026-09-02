@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang kasingkasing nga pangandoy sa tapolan magapatay kaniya, kay ang iyang mga kamot naglisdang sa pagbuhat.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "pangandoy"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "tapolan"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "magapatay kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "naglisdang"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "iya nga mga kamot"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:39.824429108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Gimiingon si Lot ngadto kanila ⟨sa⟩ ganghaan, ug gitakob ang pultahan human kaniya.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gimiingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ug ang pultahan"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "gitakob"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "human kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:02.534516883Z",
+  "model": "glm-5.3"
+}

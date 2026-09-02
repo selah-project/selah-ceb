@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Kay dili gikan sa sidlakan, ni gikan sa kasadpan, ni gikan sa kamingaw sa mga bukid ⟨moagi ang pag-angat⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "gikan sa sidlakan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ni gikan sa kasadpan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni dili"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "gikan sa kamingaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:42.635865971Z",
+  "model": "glm-5.3"
+}

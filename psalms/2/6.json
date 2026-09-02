@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "“Apan ako, ako ang nagbutang sa akong hari sa ibabaw sa Tsiyon, akong balaang bukid.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ako ang nagbutang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sa akong hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "akong balaang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:19.639354898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug dihogan nimo sila ingon nga imong gidihogan ⟨את⟩ ang ilang amahan, ug magapari sila alang kanako; ug ang ilang pagdihog mahimong pagkapari nga dayon hangtod sa kahangturan ngadto sa ilang mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "dihogan nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "gidihogan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang amahan"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ilang amahan"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "magapari sila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "להית",
+      "gloss": "aron mahimong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ilang pagdihog"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "pagkapari"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon hangtod sa kahangturan"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ngadto sa ilang mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:25.959386526Z",
+  "model": "glm-5.3"
+}

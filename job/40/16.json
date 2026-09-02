@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Tan-awa karon, ang iyang kusog anaa ⟨sa⟩ iyang mga hawak, ug ang iyang gahum anaa ⟨sa⟩ mga kalamnan sa iyang tiyan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "iyang kusog"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "sa iyang mga hawak"
+    },
+    {
+      "surface": "ואנו",
+      "gloss": "ug iyang gahum"
+    },
+    {
+      "surface": "בשרירי",
+      "gloss": "sa mga kalamnan"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "tiyan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:44:52.179598434Z",
+  "model": "glm-5.3"
+}

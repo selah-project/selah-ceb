@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Paminawa, akong katawhan, ug ako magapamatuod kanimo: O Israel, kung ikaw mamati kanako;",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ug ako magapamatuod"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ikaw mamati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:48.230445497Z",
+  "model": "glm-5.3"
+}

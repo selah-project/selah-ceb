@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug mahimong kastilyo si Yahweh alang sa ginadakop, kastilyo sa mga panahon sa kagul-an.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug mahimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kastilyo"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "alang sa ginadakop"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "kastilyo"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "sa mga panahon"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sa kagul-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.112211747Z",
+  "model": "glm-5.3"
+}

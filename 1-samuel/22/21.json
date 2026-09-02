@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Gipahibalo ni Evjathar ⟨את⟩ kang David nga gipatay ni Shaul ang mga saserdote ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Gipahibalo"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ni Evjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gipatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:02.315011654Z",
+  "model": "glm-5.3"
+}

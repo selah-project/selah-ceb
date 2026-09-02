@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang mga pana sa mga kusganon naguba, ug ang mga natumba nagpulos og kusog.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "ang mga pana"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "sa mga kusganon"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "naguba"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "ug ang mga natumba"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "nagpulos og"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:17.526095176Z",
+  "model": "glm-5.3"
+}

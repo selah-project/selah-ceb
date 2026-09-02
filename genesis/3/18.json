@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug mga tunok ug mga tinikong tanom muburot kini alang kanimo, ug mokaon ka ⟨את⟩ sa mga tanom sa kapatagan.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "ug mga tunok"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ug mga tinikong tanom"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "muburot"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ug mokaon ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga tanom"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "mga tanom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:54.885223129Z",
+  "model": "glm-5.3"
+}

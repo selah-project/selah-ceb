@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug giabandonar niya ⟨את⟩ ang tambag sa mga tigulang nga gitambagan nila kaniya, ug nakigtambag siya ⟨את⟩ sa mga batan-on nga nagdako ⟨uban⟩ kaniya, nga mga nagbarog atubang niya.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Ug giabandonar niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambag sa mga tigulang"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ang tambag"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "gitambagan nila siya"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ug nakigtambag siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga batan-on"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ (uban) kaniya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mga nagbarog"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "atubang niya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:04.590036799Z",
+  "model": "glm-5.3"
+}

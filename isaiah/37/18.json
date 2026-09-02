@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Matuod gayod, Yahweh, nga ang mga hari sa Ashur nagpahilayo ⟨את⟩ tanang mga nasod ug ⟨את⟩ ang ilang yuta.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Matuod gayod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "nagpahilayo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanang mga nasod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang yuta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ilang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:25.048465335Z",
+  "model": "glm-5.3"
+}

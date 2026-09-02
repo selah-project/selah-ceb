@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Apan giluoyan sila sa akong mata sa paglaglag kanila, ug wala nako himoon ⟨את⟩ sila nga hingpit nga pagkunhod sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "apan giluoyan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mata"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "sa paglaglag kanila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nako himoon"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nga hingpit nga pagkunhod"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:38:51.993190543Z",
+  "model": "glm-5.3"
+}

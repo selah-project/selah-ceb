@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Ug dalaygon ang ngalan sa iyang himaya hangtod sa kahangturan, ug pun-on ⟨ang iyang himaya⟩ ⟨את⟩ tibuok nga yuta — Amin ug Amin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Ug dalaygon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sa iyang himaya"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ug pun-on"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang iyang himaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibuok nga yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok nga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ug Amin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:55.859935876Z",
+  "model": "glm-5.3"
+}

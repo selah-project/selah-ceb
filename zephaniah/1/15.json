@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Adlaw sa kakugnan ⟨ang⟩ adlaw ⟨kana⟩: adlaw sa kalisud ug sa kaigbat, adlaw sa kagun-ob ug sa paggun-ob, adlaw sa kangitngit ug sa kadudlum-an, adlaw sa panganod ug sa dagum nga kangitngit.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "kakugnan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ang⟩ adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨kana⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kalisud"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "ug sa kaigbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "kagun-ob"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "ug sa paggun-ob"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ug sa kadudlum-an"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "panganod"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ug sa dagum nga kangitngit"
+    }
+  ],
+  "timestamp": "2026-09-02T00:44:33.555423577Z",
+  "model": "glm-5.3"
+}

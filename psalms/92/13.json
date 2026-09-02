@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Ang matarong ingon sa tamar mamumukadkung, ingon sa sedro sa Lebanon motubo ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "ingo sa tamār"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "mamumukadkung"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "ingo sa sedro"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "sa Lebanon"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "motubo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:05.005449228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kinabuhi iyang gipangayo Kanimo, gihatag Nimo Kaniya — gitas-on sa mga adlaw, dayon ug hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "gipangayo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gihatag Nimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Kaniya"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "gitas-on"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:23.886398079Z",
+  "model": "glm-5.3"
+}

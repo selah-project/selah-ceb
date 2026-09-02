@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug kang Makhir gihatag ko ⟨את⟩ ang Gilead.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Ug kang Makhir"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ang Gilead"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:10.844647779Z",
+  "model": "glm-5.3"
+}

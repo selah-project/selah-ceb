@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon ang hari kanila: Damgo ang akong gipanukmo, ug nagkagubot ang akong ginhawa sa pagkahibalo ⟨את⟩ ⟨sa⟩ damgo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Damgo"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ang akong gipanukmo"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ug nagkagubot"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akong ginhawa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pagkahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "damgo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "damgo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:55:40.662517456Z",
+  "model": "glm-5.3"
+}

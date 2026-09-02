@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 2:8",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon si Boaz kang Rut: Wala ka ba makadungog, akong anak nga babayi? Ayaw pag-adto sa pagpamuslos sa laing uma, ug ayaw usab paglabang gikan dinhi; ug sa maong paagi magadikit ka uban sa akong mga batan-ong babayi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "si Boaz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ka makadungog"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "akong anak nga babayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "pag-adto"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "sa pagpamuslos"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "laing"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעבורי",
+      "gloss": "paglabang"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan dinhi"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ug sa maong paagi"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "magadikit ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "נערתי",
+      "gloss": "akong mga batan-ong babayi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:31.893598250Z",
+  "model": "glm-5.3"
+}

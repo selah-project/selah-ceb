@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ayaw pagkahisama sa kabayo o sa palingkuron, nga walay pagtagad; saulgihan ug lente — ang iyang panulbok — aron mapugngan ⟨kini⟩ sa pagduol kanimo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "pagkahisama"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "sa kabayo"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "sa palingkuron"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "pagtagad"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "saulgihan"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "ug lente"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ang iyang panulbok"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "aron mapugngan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "pagduol"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:12.852187576Z",
+  "model": "glm-5.3"
+}

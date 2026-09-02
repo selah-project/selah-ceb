@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Gipahari sa hari sa Bavel si ⟨את⟩ Matanyah, iyang uyo, sa iyang pulongan, ug giusab niya ⟨את⟩ ang iyang ngalan ngadto sa Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "gipahari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanyah"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanyah"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "iyang uyo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang pulongan"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ug giusab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:14.092356009Z",
+  "model": "glm-5.3"
+}

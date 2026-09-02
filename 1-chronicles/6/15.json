@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "si Shima nga iyang anak, si Khagiyah nga iyang anak, si Asayah nga iyang anak.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "si Shima"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "si Khagiyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "si Asayah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:15.330493733Z",
+  "model": "glm-5.3"
+}

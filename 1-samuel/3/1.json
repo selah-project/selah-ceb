@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang bata nga si Shemuel nag-alagad ⟨את⟩ kang Yahweh sa atubangan ni Eli, ug ang pulong ni Yahweh mahal ⟨kini⟩ sa mga adlaw nga niana — walay panan-aw nga nagbuka.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ug ang bata"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ug ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mahal kini"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "mahal"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nga niana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "panan-aw"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "nagbuka"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:48.405495338Z",
+  "model": "glm-5.3"
+}

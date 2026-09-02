@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gipatunga nila ⟨את⟩ ang aron ni Yahweh, ug ⟨את⟩ ang tolda sa pagtigom, ug ⟨את⟩ tanan nga mga kagamitan sa balaan nga anaa sa tolda; ug gipatunga sa mga sacerdote ug sa mga Levihanon sila.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ug gipatunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tolda sa pagtigom"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtigom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga mga kagamitan sa balaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nga mga kagamitan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "anaa sa tolda"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ug gipatunga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mga sacerdote ug mga Levihanon (isip magdala, dili butang)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga sacerdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ug sa mga Levihanon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:12.862423115Z",
+  "model": "glm-5.3"
+}

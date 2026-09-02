@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nagpanaw si Avraham, nagpadayon sa pagpanaw padulong sa Negev.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nagpanaw"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagpadayon sa paglakat"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "ug nagpanaw"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "padulong sa Negev"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:37.161808497Z",
+  "model": "glm-5.3"
+}

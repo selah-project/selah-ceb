@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay si Ezra gipangandam ang iyang kasingkasing sa pagpangita ⟨את⟩ sa Torah ni Yahweh, ug sa pagbuhat ⟨niini⟩, ug sa pagtudlo sa Israel og balaod ug kahukuman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "si Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gipangandam"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ang iyang kasingkasing"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Torah ni Yahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "ug sa pagbuhat"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ug sa pagtudlo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug kahukuman"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:52.921602235Z",
+  "model": "glm-5.3"
+}

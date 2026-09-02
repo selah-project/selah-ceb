@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Anak sa usa ka tuig si Shaul sa paghari niya, ug duha ka tuig siya naghari ibabaw sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "usa ka tuig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa paghari niya"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ug duha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:46.187045270Z",
+  "model": "glm-5.3"
+}

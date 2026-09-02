@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Upanong gamay kini sa mga mata ni Yahweh, ug iyang ihatag ⟨את⟩ ang Moab ngadto sa inyong kamot.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "upanong gamay"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug iyang ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ngadto sa inyong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:40.801956277Z",
+  "model": "glm-5.3"
+}

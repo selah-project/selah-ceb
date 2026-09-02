@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay may sugo ang hari alang kanila, ug may takdang suporta alang sa mga mag-aawit, nga butang sa matag adlaw sa adlaw niini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "takdang suporta"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "mga mag-aawit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matag adlaw"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sa adlaw niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:07:26.404441084Z",
+  "model": "glm-5.3"
+}

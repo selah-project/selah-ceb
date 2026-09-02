@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug gitawag ni Yahweh si Shemuel, ug siya miingon: Ania ako.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ug gitawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug siya miingon"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania ako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:48.406003545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug midugang siya sa pag-anak ⟨את⟩ sa iyang igsoon nga si Hevel. Ug si Hevel nangaserdote sa mga karnero, apan si Qayin manguma sa yuta.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "ug midugang siya"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sa pag-anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "si Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "si Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nagaserdote sa mga karnero"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "apan si Qayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "manguma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nagatrabaho"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:35.876452599Z",
+  "model": "glm-5.3"
+}

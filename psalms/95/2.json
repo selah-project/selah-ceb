@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Mag-atubang kita sa iyang panagway uban sa pagpasalamat, uban sa mga himno mosiaw kita kaniya.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Mag-atubang kita"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sa iyang panagway"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "uban sa pagpasalamat"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "uban sa mga himno"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "mosiaw kita"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.654460785Z",
+  "model": "glm-5.3"
+}

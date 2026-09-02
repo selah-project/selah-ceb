@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Sama sa aso nga giduso palayo, sa ingon niana isulong ⟨kamo sila⟩ palayo; sama sa pagtunaw sa kandila-kahoy sa atubangan sa kalayo, mawad-an ang mga dautan gikan sa atubangan ni Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "sama sa giduso palayo"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "aso"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "isulong ⟨kamo sila⟩ palayo"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "sama sa pagtunaw"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "kandila-kahoy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan sa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "mawad-an"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:53.682096052Z",
+  "model": "glm-5.3"
+}

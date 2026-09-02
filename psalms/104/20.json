@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Imong gipahimutang ang kangitngit ug nahimong gabii; diha molunud ang tanan nga mga mananap sa lasang.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "imong gipahimutang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gabii"
+    },
+    {
+      "surface": "בו",
+      "gloss": "diha"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "molunud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "mga mananap"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sa lasang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:28.375857920Z",
+  "model": "glm-5.3"
+}

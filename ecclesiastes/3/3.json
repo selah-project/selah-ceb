@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa pagpatay ug panahon sa pag-ayo; panahon sa pagguba ug panahon sa pagtukod.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "sa pag-ayo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "sa pagguba"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sa pagtukod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:49.250510768Z",
+  "model": "glm-5.3"
+}

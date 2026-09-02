@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Ang sala sa ilang baba, ang pulong sa ilang mga ngabil — pagdakpon sila sa ilang kaugalgon, ug tungod sa panumpa-bakit ug sa bakak ilang isulti ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "sa ilang baba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "sa ilang mga ngabil"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "pagdakpon sila"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "sa ilang kaugalgon"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ug sa panumpa-bakit"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "ug sa bakak"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ilang isulti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:09.052378470Z",
+  "model": "glm-5.3"
+}

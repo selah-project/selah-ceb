@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Uban sa awit wala sila moinum og bino; mapait ang irong alak sa mga moinum niini.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "uban sa awit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "moinum"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "irong alak"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "sa mga moinum niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:35.289972154Z",
+  "model": "glm-5.3"
+}

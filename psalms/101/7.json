@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Dili magpuyo sa tunga sa akong balay ang magbubuhat sa paglimbatad; ang magsulti sa mga bakak dili magbarug atubang sa akong mga mata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "magpuyo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "akong balay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang magbubuhat"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "paglimbatad"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang magsulti"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "mga bakak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "magbarug"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:47.235847628Z",
+  "model": "glm-5.3"
+}

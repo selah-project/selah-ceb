@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Mga sinunog nga halad gikan sa mga tambok nga hayop isaka ko kanimo, uban ang insenso sa mga carnero; magabut ako og mga baka uban sa mga kanding nga lalaki. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "mga sinunog nga halad"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "gikan sa mga tambok nga hayop"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "isaka ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "sa mga carnero"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "magabut ako og"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mga kanding nga lalaki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:29.224351921Z",
+  "model": "glm-5.3"
+}

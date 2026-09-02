@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 52:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Talikda kamo, talikda kamo, guwa kamo gikan didto, ang hugaw ayaw ninyo hikapa, guwa kamo gikan sa taliwala niini, maghinlo kamo, kamo nga magdala sa mga kagamitan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "סונו",
+      "gloss": "talikda kamo"
+    },
+    {
+      "surface": "סונו",
+      "gloss": "talikda kamo"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "guwa kamo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hugaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ninyo hikapa"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "guwa kamo"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "gikan sa taliwala niini"
+    },
+    {
+      "surface": "הברו",
+      "gloss": "maghinlo kamo"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kamo nga magdala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga kagamitan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:40.754224001Z",
+  "model": "glm-5.3"
+}

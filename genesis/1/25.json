@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gihimo ni Elohim ⟨את⟩ ang binuhing hayop sa yuta sumala sa iyang matang, ug ⟨את⟩ ang kahayopan sumala sa iyang matang, ug ⟨את⟩ ang tanan nga managalasad sa yutaa sumala sa iyang matang; ug nakita ni Elohim nga maayo kini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang binuhing hayop sa yuta"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ang binuhing hayop"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sumala sa iyang matang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahayopan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang kahayopan"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sumala sa iyang matang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga managalasad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "managalasad"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yutaa"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sumala sa iyang matang"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:53.565484554Z",
+  "model": "glm-5.3"
+}

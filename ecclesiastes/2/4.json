@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gidako nako ang akong mga buhat: nagtindog ako alang sa akong kaugalingon ug mga balay, nagtanom ako alang sa akong kaugalingon ug mga kaparrasan.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "gidako nako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang akong mga buhat"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nagtindog ako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang sa akong kaugalingon"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ug mga balay"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "nagtanom ako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang sa akong kaugalingon"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "ug mga kaparrasan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:59.634115546Z",
+  "model": "glm-5.3"
+}

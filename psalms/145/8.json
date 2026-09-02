@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Bugan-on ug maluluy-on si Yahweh, hinay ⟨sa pagkasuko⟩ ug dako ang hesed.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Bugan-on"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "ug maluluy-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hinay"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sa pagkasuko"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ug dako"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:19.977486665Z",
+  "model": "glm-5.3"
+}

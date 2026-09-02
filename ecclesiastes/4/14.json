@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kay gikan sa balay sa mga binilanggo ⟨siya⟩ migawas aron paghari; kay bisan sa iyang gingharian natawo ⟨siya⟩ nga kabus.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "sa mga binilanggo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "migawas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aron paghari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "sa iyang gingharian"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "רש",
+      "gloss": "nga kabus"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:53.498479677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay walay ⟨pulong nga⟩ tinuod diha sa ilang baba; ang ilang sulodranan ⟨mga⟩ kadaot; usa ka lubnganan nga abli ang ilang tutunlan; sa ilang dila nagapahumok sila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "diha sa ilang baba"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "tinuod"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ang ilang sulodranan"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mga kadaot"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lubnganan"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "nga abli"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "ang ilang tutunlan"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "sa ilang dila"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "nagapahumok sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.719980309Z",
+  "model": "glm-5.3"
+}

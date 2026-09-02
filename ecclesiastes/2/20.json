@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gipaliko ko ang akong kasingkasing ngadto sa pagbiya sa paglaom ⟨את⟩ sa akong kasingkasing, tungod sa tanan nga kalisod-lambo nga akong gikapoyan ubos sa adlaw.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Gipaliko ko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ngadto sa pagbiya sa paglaom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong kasingkasing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "kalisod-lambo"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "nga akong gikapoyan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:12.525079476Z",
+  "model": "glm-5.3"
+}

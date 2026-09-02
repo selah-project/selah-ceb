@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang iyang anak nga babaye mao si Sheera, ug nagtindog siya ⟨pagpatindog⟩ ⟨את⟩ sa Bet-Khoron ⟨ang⟩ ubos ug ⟨את⟩ ⟨ang⟩ taas, ug ⟨את⟩ si Utsen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "ang iyang anak nga babaye"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "si Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "nagtindog siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Bet-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ang ubos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang taas"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ang taas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Utsen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "si Utsen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:53.286284906Z",
+  "model": "glm-5.3"
+}

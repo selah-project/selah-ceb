@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug aron ikaw makasulti sa mga dalgan sa imong anak ug sa anak sa imong anak mahitungod ni ⟨את⟩ sa akong gihimo sa Mitsrayim ug ⟨את⟩ sa akong mga timailhan nga akong gibuhat taliwala nila, aron makaila kamo nga ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Ug aron"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ikaw makasulti"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga dalgan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ug sa anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni (ang akong gihimo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa akong gihimo"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "gihimo (sa akong gihimo)"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang akong mga timailhan"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "ang akong mga timailhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "akong gibuhat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "taliwala nila"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "aron makaila kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:12.761510628Z",
+  "model": "glm-5.3"
+}

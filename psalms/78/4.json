@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Dili namo kini itago sa ilang mga anak; sa henerasyon nga moabot among isaysay ang mga pagdayeg kang Yahweh, ug ang iyang kusog ug ang iyang mga katingalahang buhat nga iyang gibuhat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "itago"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "sa ilang mga anak"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "nga moabot"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "among isaysay"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ang mga pagdayeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "ug ang iyang kusog"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ug ang iyang mga katingalahang buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya nga gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:09.024475729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug wala makahimo ang mga saserdote sa pagbarug sa pag-alagad tungod sa panganod, kay napuno ang himaya ni Yahweh ⟨את⟩ sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "sa pagbarug"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "panganod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:37.232353260Z",
+  "model": "glm-5.3"
+}

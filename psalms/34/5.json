@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Gipangita ko si Yahweh, ug gitubag niya ako, ug giluwas niya ako gikan sa tanan nga akong mga kabalaka.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Gipangita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ug gitubag niya ako"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ug gikan sa tanan"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "akong mga kabalaka"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "giluwas niya ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:11.090426929Z",
+  "model": "glm-5.3"
+}

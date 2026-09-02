@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nakita sa usa ka tawo, ug gisangit niya kang Yoav, ug miingon siya: Ania karon, nakita nako ⟨את⟩ si Avshalom nga nagbitay sa ela.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "gisangit"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "kang Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "nagbitay"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "sa ela"
+    }
+  ],
+  "timestamp": "2026-09-01T20:33:27.961073778Z",
+  "model": "glm-5.3"
+}

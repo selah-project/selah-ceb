@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang hari miingon kaniya: Unsa may nahitabo kanimo? Ug siya miingon: Kining babayiha miingon kanako: Ihatag ⟨את⟩ ang imong anak ug atong kaona karon nga adlaw, ug ⟨את⟩ ang akong anak atong kaon ugma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Ug siya miingon"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babayi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ang imong anak"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "ug atong kaona"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karong adlawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang akong anak"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "atong kaon"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ugma"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:13.915832558Z",
+  "model": "glm-5.3"
+}

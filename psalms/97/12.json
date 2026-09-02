@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Magmalipayon kamo, mga matarong, kang Yahweh, ug magpasalamat kamo sa paghandum sa iyang pagkabalaan.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Magmalipayon kamo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ug magpasalamat kamo"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sa paghandum"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang pagkabalaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:48.683823041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miadto ako ngadto sa Yerushalayim, ug nadidto ako ⟨mga⟩ adlaw nga tulo ka ⟨mga⟩ adlaw.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "miadto ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "nadidto ako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:15.226141894Z",
+  "model": "glm-5.3"
+}

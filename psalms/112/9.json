@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Nagwagtang ⟨siya⟩ og gihatag ngadto sa mga kabos; ang iyang pagkamatarong nagbarog hangtod sa kahangtan; ang iyang sungay itaas-on uban sa himaya.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "nagwagtang"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatay"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ngadto sa mga kabos"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ang iyang pagkamatarong"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa kahangtan"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ang iyang sungay"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "itaas-on"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "uban sa himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:53.946184101Z",
+  "model": "glm-5.3"
+}

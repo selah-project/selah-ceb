@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Nangaliyaliy sila ug si Yahweh nakadungog, ug gikan sa tanan nilang mga kagul-anan giluwas sila.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "nangaliyaliy sila"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ug gikan sa tanan"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "nilang mga kagul-anan"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "giluwas sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:24.688399236Z",
+  "model": "glm-5.3"
+}

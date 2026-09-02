@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Giatipon sa mga Pelishtey ⟨את⟩ ilang mga kampo alang sa gubat, ug natipon sila sa Sokoh, nga sakop sa Yehudah, ug nagkampo sila taliwala sa Sokoh ug sa Azeqah, sa Epeh-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "giatipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishtey"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga kampo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ilang mga kampo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "alang sa gubat"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "natipon sila"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "sakop sa Yehudah"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo sila"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "sa Epeh"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-Damim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:13.093156883Z",
+  "model": "glm-5.3"
+}

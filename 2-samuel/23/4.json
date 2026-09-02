@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug ingon sa kahayag sa buntag — mosilhig ang adlaw — buntag nga walay panganod; gikan sa danaw, gikan sa ulan, mga lukot nga sagbot gikan sa yuta.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "Ug ingon sa kahayag"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "mosilhig"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "buntag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "panganod"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "gikan sa danaw"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "gikan sa ulan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "mga lukot nga sagbot"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:58.404376393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug imong ibutang ⟨את⟩ sila nga duha ka han-ay, unom kada han-ay, ibabaw sa hinlo nga lamesa, atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ug imong ibutang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "silaw (ang mga tinapay)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ka han-ay"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "kada han-ay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "lamesa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "hinlo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:52.341556110Z",
+  "model": "glm-5.3"
+}

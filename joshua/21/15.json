@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ⟨את⟩ Kholon ug ⟨את⟩ ang iyang mga sementada, ug ⟨את⟩ Devir ug ⟨את⟩ ang iyang mga sementada.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Kholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:18.013579591Z",
+  "model": "glm-5.3"
+}

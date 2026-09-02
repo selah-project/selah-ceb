@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Sa paglabay sa bagyo, wala na ang dautan; apan ang matarong ⟨mao ang⟩ walay kataposang pundasyon.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "sa paglabay"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "bagyo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang dautan"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "apan ang matarong"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "pundasyon"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "walay kataposan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:54.800350075Z",
+  "model": "glm-5.3"
+}

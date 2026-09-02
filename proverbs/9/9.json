@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ihatag sa maalam, ug magamaalam pa siya ⟨og⟩ usab; ipahibalo sa matarong, ug madugangan siya og pag-asa.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "sa maalam"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "ug magamaalam pa siya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "usab pa"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ipahibalo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ug madugangan siya og"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pag-asa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:52.344325733Z",
+  "model": "glm-5.3"
+}

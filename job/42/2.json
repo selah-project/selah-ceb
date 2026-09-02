@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Nasayod ako nga tanan ikaw makahimo, ug walay tuyo nga mapugngan gikan kanimo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Nasayod ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ikaw makahimo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "mapugngan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "tuyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:00.041387213Z",
+  "model": "glm-5.3"
+}

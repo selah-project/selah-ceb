@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gipaubos ang tawo, ug gipakubus ang lalaki, ug ang mga mata sa mga mapahitas-on pagaubson ⟨usab⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "gipaubos"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ug gipakubus"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ug ang mga mata"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "sa mga mapahitas-on"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "pagaubson"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:28.005957528Z",
+  "model": "glm-5.3"
+}

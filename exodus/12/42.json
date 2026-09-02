@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gabi-i kini sa pagbantay alang kang Yahweh, sa paggula nila gikan sa yuta sa Mitsrayim; kini mao ang gabi-i nga kana alang kang Yahweh, pagbantay alang sa tanan nga mga anak ni Yisrael sa ilang mga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "gabi-i"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "sa paggula nila"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ang gabi-i"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga kana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "pagbantay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa ilang mga kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:43.061598381Z",
+  "model": "glm-5.3"
+}

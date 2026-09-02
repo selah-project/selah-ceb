@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Umari kamo, pamatii, ug isulti ko ⟨kaninyo⟩ sa tanan nga mga nahadlok ⟨kang⟩ Elohim: unsa ang iyang gibuhat sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umari kamo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ug isulti ko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "mga nahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨kang⟩ Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang iyang gibuhat"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:29.224490637Z",
+  "model": "glm-5.3"
+}

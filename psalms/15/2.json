@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "⟨Siya nga⟩ naglakaw nga walay sayop, ug nagabuhat sa kamatarong, ug nagsulti sa kamatuoran sa iyang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga walay sayop"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ug nagabuhat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa kamatarong"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "sa iyang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:20.943685516Z",
+  "model": "glm-5.3"
+}

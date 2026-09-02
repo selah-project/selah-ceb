@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa dalan sa imong mga pagsaksi nalipay ako, ingon sa paglatas sa tibouk nga bahandi.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "sa imong mga pagsaksi"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "nalipay ako"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "ingon sa paglatas sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibouk nga"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bahandi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:24.879720470Z",
+  "model": "glm-5.3"
+}

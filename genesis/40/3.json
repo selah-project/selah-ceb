@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gibutang niya sila ⟨את⟩ sa pagbantay, sa balay sa pangulo sa mga manlalagot, ngadto sa balay sa bilanggoan, ⟨sa⟩ dapit diin si Yosef gigapos didto.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gibutang niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "silas sa pagbantay"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sa pangulo"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "sa mga manlalagot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "sa bilanggoan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "⟨sa⟩ dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "gigapos"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:24.548405730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 2:6",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang tora sa kamatuoran naa sa iyang baba, ug kadaotan wala makaplagan sa iyang mga ngabi; sa kalinaw ug sa katul-id naglakaw siya ⟨את⟩ uban kanako, ug daghan ang iya nga gipabalik gikan sa kadaotan.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "ang tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naa"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "ug kadaotan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "sa iyang mga ngabi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sa kalinaw"
+    },
+    {
+      "surface": "ובמישור",
+      "gloss": "ug sa katul-id"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakaw siya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ uban kanako",
+      "marks": "siya"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "ug daghan"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ang iya nga gipabalik"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "gikan sa kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:33.732646282Z",
+  "model": "glm-5.3"
+}

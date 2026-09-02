@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ako magatubag kanimo sa mga pulong, ug ⟨את⟩ ang imong mga higala nga uban kanimo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "magatubag kanimo"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga higala"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ang imong mga higala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nga uban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:40.606265822Z",
+  "model": "glm-5.3"
+}

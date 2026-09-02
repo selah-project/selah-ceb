@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Nga nanumpa ⟨siya⟩ kang Yahweh, nagtanyag sa Makagagahum nga si Yaakov:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nanumpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nagtanyag"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "sa Makagagahum"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:02.905346411Z",
+  "model": "glm-5.3"
+}

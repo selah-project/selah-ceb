@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Mahiya ka, Tsidon, kay nagaingon ang dagat, ang kusog sa dagat: Wala ako magsakit sa pag-anak ug wala ako manganak, ug wala ako nagpadako sa mga batan-on, wala ako nagpatindog sa mga ulitao.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "mahiya ka"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ang kusog"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "ako magsakit sa pag-anak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ako manganak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ako nagpadako"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "sa mga batan-on"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "ako nagpatindog"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "sa mga ulitao"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:16.181806760Z",
+  "model": "glm-5.3"
+}

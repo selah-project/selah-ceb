@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Tan-awa, nadungog namon kini sa Efratah, nakaplagan namon kini sa mga kapatagan sa kagulangan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "nadungog namon kini"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "sa Efratah"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "nakaplagan namon kini"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "sa mga kapatagan"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sa kagulangan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:06.153639749Z",
+  "model": "glm-5.3"
+}

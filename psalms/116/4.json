@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Ug sa Ngalan ni Yahweh motawag ako: Ah, Yahweh, luwasa ang akong kalag.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Ug sa Ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "motawag ako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "luwasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.659909159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Gikuha ni Yahweh Elohim ⟨את⟩ ang tawo ug gipapahulay siya sa tanaman sa Eden aron sa pag-atiman niini ug sa pagbantay niini.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gikuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ug gipapahulay siya"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "sa Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "aron sa pag-atiman niini"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "ug sa pagbantay niini"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:15.562872695Z",
+  "model": "glm-5.3"
+}

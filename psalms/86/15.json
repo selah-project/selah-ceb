@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Apan ikaw, Adonay, El nga maluluy-on ug grasioso, hinay nga moduko sa kasuko, ug daghan ang hesed ug katino-o.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apan ikaw"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "maluluy-on"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ug grasioso"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hinay nga moduko"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ug daghan ang"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ug katino-o"
+    }
+  ],
+  "timestamp": "2026-09-02T01:17:44.118027701Z",
+  "model": "glm-5.3"
+}

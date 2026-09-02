@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Tanang mga sapa nagadagay ngadto sa dagat, ug ang dagat dili mapuno; ngadto sa dapit diin ang mga sapa nagadagay, didto sila mobalik sa pag-adto pag-usab.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagadagay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ug ang dagat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "dili"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mapuno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "diin ang mga sapa"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nagadagay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa pag-adto pag-usab"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:02.144457178Z",
+  "model": "glm-5.3"
+}

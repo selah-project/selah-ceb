@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug ipahibalo kanamo ni Yahweh nga Elohim nimo ⟨את⟩ ang dalan nga among lakawon niini, ug ⟨את⟩ ang butang nga among buhaton.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ug ipahibalo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga Elohim nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "among lakawon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang butang"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "among buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T21:28:10.472075148Z",
+  "model": "glm-5.3"
+}

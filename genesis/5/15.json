@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Nagkinabuhi si Mahalalel napulo'g lima ka tuig ug unom ka napulo ka tuig, ug natawo ⟨siya⟩ ⟨את⟩ kang Yered.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Nagkinabuhi"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "si Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima ka tuig"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ug unom ka napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kang Yered"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:35.171412950Z",
+  "model": "glm-5.3"
+}

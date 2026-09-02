@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Mata! Nganong natulog ka man, Adonay? Bangon! Ayaw kami pagbiya hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Mata"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nganong"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "natulog ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Bangon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "pagbiya"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:38.923393124Z",
+  "model": "glm-5.3"
+}

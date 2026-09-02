@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug miingon ang mga tawo ni David kaniya: Ania kami dinhi sa Yehudah nga nahadlok ⟨nga⟩, ug unsa pa karon kon moadto kami sa Keilah ngadto sa mga pormasyon sa mga Pelishtehanon?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "פה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "nga nahadlok"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ug unsa pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "karon kon"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "moadto kami"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mga pormasyon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishtehanon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:39.766724304Z",
+  "model": "glm-5.3"
+}

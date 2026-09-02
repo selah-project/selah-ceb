@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "ug sa pag-ukit sa bato aron ⟨sa⟩ pagbutang, ug sa pag-ukit sa kahoy aron buhaton sa tanang buhat",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "ug sa pag-ukit"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "aron pagbutang"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "ug sa pag-ukit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aron buhaton"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:22.594215507Z",
+  "model": "glm-5.3"
+}

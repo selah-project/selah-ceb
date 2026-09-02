@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Idad-on sila uban sa kalipay ug kadako; mosulod sila sa palasyo sa hari.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "idad-on sila"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "uban sa kalipay"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "ug kadako"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "mosulod sila"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa palasyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:18.759137909Z",
+  "model": "glm-5.3"
+}

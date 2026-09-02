@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Si Yahweh ⟨ang⟩ akong bahin nga gipatimbang ug ang akong kopa; ikaw ang nagatagiyog sa akong palad.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bahin nga gipatimbang"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "akong bahin"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ug ang akong kopa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "nagatagiyog"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "akong palad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.200841354Z",
+  "model": "glm-5.3"
+}

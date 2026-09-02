@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "sa maong panahon nga buhi pa sila mitunol kanato, sa pagkasilab sa ilang nasudlon batok kanamo,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "sa maong panahon"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "nga buhi pa"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "mitunol kanato"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "sa pagkasilab"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "sa ilang nasudlon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "batok kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:14.587511689Z",
+  "model": "glm-5.3"
+}

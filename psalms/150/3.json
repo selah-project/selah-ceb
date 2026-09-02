@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 150,
+  "translation": "Pagdayegahamu siya sa tingog sa shofar; pagdayegahamu siya sa nebel ug sa kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "sa tingog sa panhaw"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "sa nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ug sa kinor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:51.427623724Z",
+  "model": "glm-5.3"
+}

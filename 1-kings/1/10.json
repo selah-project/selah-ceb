@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan ⟨את⟩ si Natan ang manalagna, ug si Benayahu, ug ⟨את⟩ ang mga kusganon, ug ⟨את⟩ si Shlomoh nga iyang igsoon, wala niya gitawag.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "apan ⟨את⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang manalagna"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ug si Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kusganon"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ang mga kusganon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Shlomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shlomoh"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang igsoon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "niya gitawag"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:34.264846933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Si Yahweh magahatag ug kusog sa iyang katawhan; si Yahweh magapanalangin ⟨את⟩ sa iyang katawhan sa kalinaw.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa iyang katawhan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "magapanalangin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang katawhan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "iyang katawhan"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "sa kalinaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:10.673488645Z",
+  "model": "glm-5.3"
+}

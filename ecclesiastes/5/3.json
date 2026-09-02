@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kung magtanyag ka og saad ngadto kang Elohim, ayaw paglanguy sa pagbayad niini, kay walay kalasang sa mga buang; ang gisaad mo ⟨את⟩ bayadi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kung"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "magtanyag ka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "og saad"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngadto kang Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "paglanguy"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "sa pagbayad niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kalasang"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "sa mga buang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gisaad mo (אשר תדר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "gisaad mo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "bayadi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:21.248082289Z",
+  "model": "glm-5.3"
+}

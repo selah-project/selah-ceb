@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ihawon niya ⟨את⟩ ang anak sa baka atubang ni Yahweh; ug ang mga anak ni Aharon, ang mga saserdote, magadala ⟨את⟩ sa dugo, ug isaboy nila ⟨את⟩ ang dugo sa ibabaw sa halaran palibot, nga ⟨naa⟩ sa ganghaan sa tolda sa panagtagbo.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ihawon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak sa baka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "isaboy nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dugo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "panagtagbo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.540098920Z",
+  "model": "glm-5.3"
+}

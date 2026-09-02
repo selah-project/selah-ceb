@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug mga bato sa shoham, ug mga bato sa pagbutang ⟨alang sa pag-ihap sa gems⟩, alang sa eifod ug alang sa khoshen.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ug mga bato sa"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ug mga bato sa"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "pagbutang"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "alang sa eifod"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ug alang sa khoshen"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:00.376050316Z",
+  "model": "glm-5.3"
+}

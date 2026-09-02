@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gisimba nila ang mga gibawog nga diosdios, nga giingon ni Yahweh kanila: Ayaw pagbuhat ⟨את⟩ niining butanga.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "ug gisimba nila"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "ang mga gibawog nga diosdios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niining butanga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:34.862641730Z",
+  "model": "glm-5.3"
+}

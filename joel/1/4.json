@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang sobra sa gazam gikaon sa arbeh, ug ang sobra sa arbeh gikaon sa yeleq, ug ang sobra sa yeleq gikaon sa khasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "ang sobra"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "sa gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "gikaon"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "sa arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ug ang sobra"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "sa arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "gikaon"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "sa yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ug ang sobra"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "sa yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "gikaon"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "sa khasil"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:32.247936506Z",
+  "model": "glm-5.3"
+}

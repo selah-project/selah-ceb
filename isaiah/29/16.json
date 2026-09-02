@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang inyong pagpahisala! Ba ang magbubuhat sa kolon isipon nga sama sa kolon? Kay moingon ang gibuhat sa nagbuhat niini: Wala siya maggibuhat kanako; ug moingon ang giporma sa nagporma niini: Wala siya makasabut?",
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "Ang inyong pagpahisala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "sama sa kolon"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "ang magbubuhat sa kolon"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "isipon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ang gibuhat"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "sa nagbuhat niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "gibuhat niya ako"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ug ang giporma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "sa nagporma niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "nakasabut"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:59.250218295Z",
+  "model": "glm-5.3"
+}

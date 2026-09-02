@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Apan wala sila mamati, kondi sumala sa ilang unang naandan mao kini ang ilang gibuhat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sila mamati"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kondi"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "sumala sa ilang naandan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "unang"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kini sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagabuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:28.352425461Z",
+  "model": "glm-5.3"
+}

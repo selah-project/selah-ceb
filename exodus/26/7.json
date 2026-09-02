@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug buhaton nimo ang mga kurtina sa balahibo sa kambing alang sa tolda ibabaw sa tabernakulo; napulo ug usa ka mga kurtina buhaton nimo ⟨ang mga⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton nimo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ang mga kurtina"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sa kambing"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "alang sa tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakulo"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "napulo ug usa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(napulo)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buhaton nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "napulo ug usa ka mga kurtina"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:36.365861428Z",
+  "model": "glm-5.3"
+}

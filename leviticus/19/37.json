@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug magbantay kamo ⟨את⟩ sa tanan nga akong mga chuqot ug ⟨את⟩ sa tanan nga akong mga mishpat, ug buhaton ninyo ⟨את⟩ sila; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "ug magbantay kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga akong mga chuqot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "akong mga chuqot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga akong mga mishpat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "akong mga mishpat"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ug buhaton ninyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:52.614626705Z",
+  "model": "glm-5.3"
+}

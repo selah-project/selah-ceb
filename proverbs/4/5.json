@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Palit-a ⟨ang⟩ kinaadman, palit-a ⟨ang⟩ pagsabut; ayaw pagkalimot ug ayaw pagbiya sa mga pulong sa akong baba.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Palit-a"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kinaadman"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "palit-a"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "pagsabut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "pagkalimot"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תט",
+      "gloss": "pagbiya"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:20.919462611Z",
+  "model": "glm-5.3"
+}

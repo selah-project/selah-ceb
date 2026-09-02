@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "ug magahatay ako ug ulan sa inyong dapit sa takna nga husto, ug ang yuta magahatag sa iyang ani, ug ang kahoy sa kapatagan magahatag sa iyang bunga;",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug magahatay ako"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "ulan sa inyong dapit"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "sa takna nga husto"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ug magahatag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sa iyang ani"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ug ang kahoy"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sa iyang bunga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:52.526468651Z",
+  "model": "glm-5.3"
+}

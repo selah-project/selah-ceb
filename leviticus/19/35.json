@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Dili kamo magbuhat ug kadaot sa paghukom, sa pagsukod sa gitas-on, sa timbang, ug sa sukod sa likido.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "kamo magbuhat"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ug kadaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "sa pagsukod sa gitas-on"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "sa timbang"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ug sa sukod sa likido"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:10.217070082Z",
+  "model": "glm-5.3"
+}

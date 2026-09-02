@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "UG si Shmuel wala pa makaila ⟨kay⟩ ⟨wala⟩ pa siya makaila kang Yahweh, ug wala pa gipadayag kaniya ang pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ug si Shmuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ug wala pa"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "gipadayag"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:57.536484955Z",
+  "model": "glm-5.3"
+}

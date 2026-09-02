@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gitukod niya ⟨את⟩ ang Beit Horon nga itaas ug ⟨את⟩ ang Beit Horon nga ubos, mga dakbayan sa kabalikolan, nga mga paril, mga pultahan ug mga barahan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ug gitukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit Horon nga itaas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nga itaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Beit Horon nga ubos"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "nga ubos"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan sa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kabalikolan"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mga paril"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ug mga barahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:29.578349682Z",
+  "model": "glm-5.3"
+}

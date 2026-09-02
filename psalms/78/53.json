@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gipangunahan niya sila sa kahimsog ug wala sila mahadlok, ug ang dagat nagtabon ⟨את⟩ sa ilang mga kaaway.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "gipangunahan niya sila"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa kahimsog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "sila mahadlok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga kaaway"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "sa ilang mga kaaway"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nagtabon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ang dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:36.758574407Z",
+  "model": "glm-5.3"
+}

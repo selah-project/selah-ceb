@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ngadto sa usa ka babaye sa pagbubuag sa iyang dili-pulong dili ka moduol aron ipadayag ang iyang kahubasan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "usa ka babaye"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "sa pagbubuag"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "iyang dili-pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "moduol"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "aron ipadayag"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "iyang kahubasan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:54.418364013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Magasulat sa pagdayeg kanimo, Yahweh, ang tanan ⟨nga⟩ imong mga buhat, ug ang imong mga hasidon magapanalangin kanimo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Magasulat sa pagdayeg kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imong mga buhat"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ug ang imong mga hasidon"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "magapanalangin kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.703700146Z",
+  "model": "glm-5.3"
+}

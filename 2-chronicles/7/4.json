@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang hari ug ang tibuok nga katawhan nagsakripisyo ug sakripisyo atubang ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nagsakripisyo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakripisyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:23.210605366Z",
+  "model": "glm-5.3"
+}

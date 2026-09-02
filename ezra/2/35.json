@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang mga anak ni Senaah, tuló ka libo ug unom ka gatos ug katloan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Senaah"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tuló"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug katloan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:06.406393637Z",
+  "model": "glm-5.3"
+}

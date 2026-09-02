@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug si Azaryah nagmga ⟨את⟩ Serayah, ug si Serayah nagmga ⟨את⟩ Yehotsadak;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ug si Azaryah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Serayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "si Serayah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ug si Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "si Yehotsadak"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:12.941075885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Nisaka ka sa kahasangdanan, nadala nimo ang pagkabihag ⟨sa⟩ mga bihag, nadawat nimo ang mga regalo ⟨gikan⟩ sa tawo, ug bisan ang mga mangisangkon, aron magpuyo si Yah, ang Elohim.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "nisaka ka"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "sa kahasangdanan"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "nadala nimo ang pagkabihag"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "mga bihag"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "nadawat nimo"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "mga regalo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ug bisan ang"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "mga mangisangkon"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "aron magpuyo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:20.766030026Z",
+  "model": "glm-5.3"
+}

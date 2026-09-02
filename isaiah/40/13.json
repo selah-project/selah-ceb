@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Kinsa ang nagsukod sa ⟨את⟩ sa espiritu ni Yahweh, ug kinsa nga tawo ang nagtambag kaniya nga nagpasabut kaniya man sa iyang tambag?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "nagsukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "espiritu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug tawo"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "iyang tambag"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "nagpasabut kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:42.415722538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Sa pagdesinyo mga desinyo, sa pagbuhat sa bulawan, ug sa plata, ug sa tanso.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "Sa pagdesinyo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mga desinyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ug sa plata"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ug sa tanso"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:24.379665350Z",
+  "model": "glm-5.3"
+}

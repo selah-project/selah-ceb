@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 6:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug miingon ang usa sa iyang mga sulugoon: Dili, akong agalon nga hari, kondili si Elisha, ang propeta nga anaa sa Israel, nagsulti sa hari sa Israel ⟨את⟩ ang mga pulong nga imong gisulti sa sulod sa imong kwarto sa paghigda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "sa iyang mga sulugoon"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akong agalon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "imong gisulti"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "sa kwarto"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "sa imong paghigda"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:38.431159756Z",
+  "model": "glm-5.3"
+}

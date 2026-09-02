@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Gibaligya mo ang imong katawhan nga wala ⟨ka⟩ng bayad, ug wala ka pagdako ug ganansiya gikan sa ilang presyo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ibaligya mo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ang imong katawhan"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bayad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "pagdako ug ganansiya"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "gikan sa ilang presyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:42.997450277Z",
+  "model": "glm-5.3"
+}

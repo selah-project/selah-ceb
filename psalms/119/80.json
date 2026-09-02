@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Maangay ang akong kasingkasing sa imong mga gidili-on, aron dili ako mahilawon.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maangay"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kompleto\/hingpit"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "sa imong mga gidili-on"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ako mahilawon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:20.699661630Z",
+  "model": "glm-5.3"
+}

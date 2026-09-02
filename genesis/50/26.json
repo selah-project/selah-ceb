@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Namatay si Yosef, nga anak sa usa ka gatus ug napulo ka tuig, ug gihinlotan siya ug balahas ⟨את⟩, ug gibutang siya sa usa ka kahon sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Namatay"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatus"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ug napulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "gihinlotan ug balahas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si Yosef)"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sa kahon"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:28.177816423Z",
+  "model": "glm-5.3"
+}

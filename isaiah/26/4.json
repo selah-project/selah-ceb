@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Pagtoo kamo kang Yahweh hangtod sa hangtod; kay kang Yah, Yahweh, bato sa mga kalahatan.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Pagtoo kamo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "sa mga kalahatan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:52.459014099Z",
+  "model": "glm-5.3"
+}

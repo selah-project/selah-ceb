@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gikan kang Khushim natawan niya si ⟨את⟩ Avituv ug si ⟨את⟩ Elpaal.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "ug gikan kang Khushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avituv"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug si ⟨את⟩",
+      "marks": "si Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:11.072666583Z",
+  "model": "glm-5.3"
+}

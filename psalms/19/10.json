@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang pagkahadlok kang Yahweh hingputlian, nagatindog hangtod sa kahangturan; ang mga mishpat ni Yahweh ⟨mga⟩ kamatuoran, matarong sila tanan nga mitagbo.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "pagkahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "hingputlian"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "nagatindog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mga mishpat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tanan nga mitagbo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:47.706511345Z",
+  "model": "glm-5.3"
+}

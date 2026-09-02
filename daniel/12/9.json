@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miingon ⟨siya⟩: Lakaw, Daniyel, kay gisirado ug gipos ang mga pulong hangtod sa panahon sa katapusan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniyel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "gisirado"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "ug gipos"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "katapusan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:20.563035326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 4:22",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gitawag niya ang iyang bana, ug miingon: Palihog padalahi ako ug usa sa mga batan-ong sulugoon ug usa sa mga iringan, ug modagan ako ngadto sa tawo ni Elohim ug mobalik ako.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "iyang bana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "padalahi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mga batan-ong sulugoon"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ug usa"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "mga iringan"
+    },
+    {
+      "surface": "וארוצה",
+      "gloss": "modagan ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "ug mobalik ako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:25.226009899Z",
+  "model": "glm-5.3"
+}

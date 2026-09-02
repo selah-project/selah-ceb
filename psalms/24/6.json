@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kini ang henerasyon sa mga nangita kaniya, sa mga nangita sa imong nawong — si Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "sa mga nangita kaniya"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "sa mga nangita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong nawong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.162867888Z",
+  "model": "glm-5.3"
+}

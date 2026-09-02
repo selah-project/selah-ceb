@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Kay kinsa ang Eloah gawas kang Yahweh? Ug kinsa ang bato gawas sa atong Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "gawas kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gawas sa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "atong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:57.659479398Z",
+  "model": "glm-5.3"
+}

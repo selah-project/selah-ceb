@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "Ug siya magabawi ⟨את⟩ ⟨sa⟩ Israel gikan sa tanan niyang mga sala.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "magabawi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "niyang mga sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.392366445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "⟨Kining⟩ kahibalo ⟨nga⟩ katingalahahan kini ⟨gikan⟩ kanako; gipatas kini, dili ako makaabot niini.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "katingalahahan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "gipatas kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "makaabot ako"
+    },
+    {
+      "surface": "לה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:04.629495351Z",
+  "model": "glm-5.3"
+}

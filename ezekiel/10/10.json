@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang ilang hitsura ⟨may⟩ usa ka dagway alang sa ilang upat, ingon sa mahitabo ang ligid sa tunga sa ligid.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "ug ang ilang hitsura"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "dagway"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "alang sa ilang upat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ang ligid"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "sa ligid"
+    }
+  ],
+  "timestamp": "2026-09-01T21:34:57.389368603Z",
+  "model": "glm-5.3"
+}

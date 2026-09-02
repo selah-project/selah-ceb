@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Alang sa magdumala sa mga musiko. Usa ka mizmor ni David, usa ka awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang sa magdumala sa mga musiko"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:50.031080660Z",
+  "model": "glm-5.3"
+}

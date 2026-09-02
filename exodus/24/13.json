@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug mitindog si Moshe, ug si Yehoshua nga iyang alalay, ug misaka si Moshe ngadto sa bukid sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ug si Yehoshua"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "iyang alalay"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:24.031281365Z",
+  "model": "glm-5.3"
+}

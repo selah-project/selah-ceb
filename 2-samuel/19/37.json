@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Sa gamay nga bahin molabok ang imong sulugoon ⟨את⟩ sa Yarden uban ⟨את⟩ sa hari; ug nganong mobayad kanako ang hari og ingon niini nga balus?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "sa gamay nga bahin"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "molabok"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ug nganong"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "mobayad kanako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "nga balus"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ingon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:33:46.820922788Z",
+  "model": "glm-5.3"
+}

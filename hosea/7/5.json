@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Sa adlaw sa atong hari nagsakit ang mga principe sa kainit sa bino; giladlad niya ang iyang kamot ⟨את⟩ kauban ang mga nagtawgay.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "sa atong hari"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nagsakit"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ang mga principe"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa kainit"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "sa bino"
+    },
+    {
+      "surface": "משך",
+      "gloss": "giladlad"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga nagtawgay"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "kauban ang mga nagtawgay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:22.211093544Z",
+  "model": "glm-5.3"
+}

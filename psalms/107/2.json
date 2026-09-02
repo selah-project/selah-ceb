@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ingong sa mga gitubos ni Yahweh ⟨kini⟩ — kadtong gitubos niya gikan sa kamot sa kaaway,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ingong sa \/ mag-ingon"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "mga gitubos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "gitubos niya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sa kaaway"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:01.335643712Z",
+  "model": "glm-5.3"
+}

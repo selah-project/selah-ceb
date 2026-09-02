@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug mibangon ugaga si David — siya ug ang iyang mga tawo — sa pagpanaw sa buntag, sa pagbalik ngadto sa yuta sa mga Filistihan; ug ang mga Filistihan nikaubaw ngadto sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "mibangon ugaga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ug ang iyang mga tawo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa pagpanaw"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "sa pagbalik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Filistihan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ug ang mga Filistihan"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "nikaubaw"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "sa Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:08.428506667Z",
+  "model": "glm-5.3"
+}

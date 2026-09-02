@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Kay ⟨ang⟩ tawo — bisan hain nga tawo — nga magtunglo sa ⟨את⟩ iyang amahan ug sa ⟨את⟩ iyang inahan, kamatayon gayod ⟨siya⟩; iyang amahan ug iyang inahan giwala niya: diha ⟨kaniya⟩ ang iyang dugo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan hain nga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "magtunglo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang amahan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang inahan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kamatayon gayod"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ug iyang inahan"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "giwala"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ang iyang dugo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "diha kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:44.793935786Z",
+  "model": "glm-5.3"
+}

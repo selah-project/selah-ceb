@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug milugsong si Yahweh ⟨sa⟩ panganod, ug nagbarog uban kaniya didto, ug nagtawag ⟨sa⟩ ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "milugsong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "⟨sa⟩ panganod"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨sa⟩ ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:05.175599559Z",
+  "model": "glm-5.3"
+}

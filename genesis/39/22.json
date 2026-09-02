@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug gihatag sa pangulo sa balay sa bilanggoan ⟨sa kamot⟩ ni Yosef ⟨את⟩ ang tanang mga bilanggo nga anaa sa balay sa bilanggoan; ug ⟨את⟩ ang tanang buhaton didto — siya mao ang nagabuhat niini.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "sa bilanggoan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanang mga bilanggo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "mga bilanggo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "sa bilanggoan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanang buhaton didto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mao ang"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:39.330662557Z",
+  "model": "glm-5.3"
+}

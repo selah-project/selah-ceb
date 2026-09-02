@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 5:7",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang iyang mga igsoon sumala sa ilang mga pamilya, sa pagtala sa ilang mga tinalanikan: ⟨ang⟩ pangulo mao si Yeiel ug si Zekharyahu.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ug ang iyang mga igsoon"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "sumala sa ilang mga pamilya"
+    },
+    {
+      "surface": "בהתיחש",
+      "gloss": "sa pagtala sa angkan"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "sa ilang mga tinalanikan"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "יעיאל",
+      "gloss": "Yeiel"
+    },
+    {
+      "surface": "וזכריהו",
+      "gloss": "ug si Zekharyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:15.534015571Z",
+  "model": "glm-5.3"
+}

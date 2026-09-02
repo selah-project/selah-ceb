@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay ⟨mga⟩ korona sa kaloob sila alang sa imong ulo, ug mga kuwintas alang sa imong tutunlan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "korona"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sa kaloob"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "alang sa imong ulo"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "ug mga kuwintas"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "alang sa imong tutunlan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:33.000703176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang natibil gikan sa mincha ⟨alang kang⟩ Aharon ug alang sa iyang mga anak ⟨ang⟩ balaan sa mga balaan, gikan sa mga paghalad nga kalayo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Ug ang natibil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "alang kang Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ug alang sa iyang mga anak"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa mga balaan"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "gikan sa mga paghalad nga kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:35.378707890Z",
+  "model": "glm-5.3"
+}

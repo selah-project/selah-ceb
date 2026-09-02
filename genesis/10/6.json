@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang mga anak ni Kham: Kush, ug Mitsrayim, ug Put, ug Kenaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ni Kham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ug Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ug Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ug Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:07.034477884Z",
+  "model": "glm-5.3"
+}

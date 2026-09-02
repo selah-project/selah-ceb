@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 6:9",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug kon mamatay ang usa ka patay duol kaniya sa kalit — kalit nga kalit — ug mahugawan ang ulo sa iyang pagkabulag, ug ipahamtang niya ang pagputol sa iyang ulo sa adlaw sa iyang paghinlo, sa ikapito nga adlaw igputol niya kini.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "מת",
+      "gloss": "usa ka patay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "duol kaniya"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "sa kalit"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "kalit nga kalit"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ug mahugawan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sa iyang pagkabulag"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "ug ipahamtang niya ang pagputol"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sa iyang ulo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "sa iyang paghinlo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sa ikapito"
+    },
+    {
+      "surface": "יגלחנו",
+      "gloss": "igputol niya kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:14.970091812Z",
+  "model": "glm-5.3"
+}

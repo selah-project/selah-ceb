@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Ug ⟨sa⟩ ugas nga gitanom sa imong too nga kamot, ⟨sa⟩ anak nga imong gipalig-on alang ⟨kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ug ⟨sa⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "gitanom"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong too nga kamot"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "imong gipalig-on"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang ⟨kanimo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:37.868611188Z",
+  "model": "glm-5.3"
+}

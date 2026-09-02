@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug natulog si Azaryahu uban sa iyang mga amahan, ug gilubong nila ⟨את⟩ siya uban sa iyang mga amahan sa dakbayan ni David; ug naghari si Yotam nga iyang anak puli niya.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "ug natulog"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga amahan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ug gilubong nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "si Azaryahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga amahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ug naghari"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "puli niya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:24.750413371Z",
+  "model": "glm-5.3"
+}

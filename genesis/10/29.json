@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ⟨את⟩ si Ofir, ug ⟨את⟩ si Khavilah, ug ⟨את⟩ si Yovav; kining tanan ⟨mga⟩ anak ni Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Ofir"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "si Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Khavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "si Khavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "si Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kining tanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ni Yoktan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:00.222529729Z",
+  "model": "glm-5.3"
+}

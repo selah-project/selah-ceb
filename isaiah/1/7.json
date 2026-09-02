@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang inyong yuta kagubaan, ang inyong mga dakbaco masunog sa kalayo; ang inyong yuta sa atbang ninyo gikaon sa mga langyaw ⟨את⟩ ⟨kini⟩ ug ⟨kini⟩ kagubaan, ingon sa pagbaliktad sa mga langyaw.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "ang inyong yuta"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kagubaan"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ang inyong mga dakbaco"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "masunog"
+    },
+    {
+      "surface": "אש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ang inyong yuta"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "sa atbang ninyo"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "sa mga langyaw"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "gikaon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ug ⟨kini⟩ kagubaan"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "ingon sa pagbaliktad"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "sa mga langyaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:15.485743902Z",
+  "model": "glm-5.3"
+}

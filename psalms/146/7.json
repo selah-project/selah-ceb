@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Nagahimo ug hustisya alang sa mga gin-lutho, nagahatag ug pan sa mga gigutom — si Yahweh nagpagawas sa mga binilanggo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nagahimo ug"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "alang sa mga gin-lutho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag ug"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "sa mga gigutom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "nagpagawas"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "sa mga binilanggo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:24.324356733Z",
+  "model": "glm-5.3"
+}

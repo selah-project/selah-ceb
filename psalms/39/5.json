@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Pahibaloa ako, Yahweh, sa akong kataposan, ug sa sukod sa akong mga adlaw — unsa ⟨kini⟩; aron masayod ako unsa ka madamlag ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Pahibaloa ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "sa akong kataposan"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ug sa sukod"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "sa akong mga adlaw"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsà"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "aron masayod ako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsà ka"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "madamlag"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:27.012957778Z",
+  "model": "glm-5.3"
+}

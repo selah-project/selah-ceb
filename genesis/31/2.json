@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug nakita ni Yaakov ⟨את⟩ ang dagway ni Lavan, ug tan-awa, wala na kini uban kaniya sama kagahapon ug sa adlaw sa una.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dagway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "dagway"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala na kini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "sama kagahapon"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ug sa adlaw sa una"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:51.170112487Z",
+  "model": "glm-5.3"
+}

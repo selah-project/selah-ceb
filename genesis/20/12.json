@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug sa pagkatinuod igsoon ko usab siya ⟨nga⟩ anak sa akong amahan ⟨siya⟩, apan dili anak sa akong inahan, ug nahimo siya nga akong asawa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ug usab"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "igsoon ko"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "akong inahan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug nahimo siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nga ako"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "nga akong asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:09.304459700Z",
+  "model": "glm-5.3"
+}

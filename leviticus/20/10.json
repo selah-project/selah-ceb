@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ⟨ang⟩ tawo nga manukiya sa ⟨את⟩ asawa ⟨sa⟩ usa ka tawo — nga manukiya sa ⟨את⟩ asawa sa iyang isigkatawo — kamatayon gayod ⟨sila⟩: ang lalaking manukiya ug ang babayeng manukiya.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "manukiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "manukiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asawa sa iyang isigkatawo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kamatayon gayod"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ang lalaking manukiya"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "ug ang babayeng manukiya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:44.794144769Z",
+  "model": "glm-5.3"
+}

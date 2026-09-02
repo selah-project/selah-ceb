@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Dungog ngadto sa tawo ang pagpahunong gikan sa panaglalis, apan ang tanan bogo magsamok ⟨sa panaglalis⟩.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "dungog"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ngadto sa tawo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang pagpahunong"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "gikan sa panaglalis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "apan ang tanan"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "bogo"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "magsamok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:55.868215287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Sa pagsulti ni Efrayim, kalahadlawan ⟨ang nagpatungha⟩; siya gibanhaw ⟨nga siya⟩ anaa sa Israel, apan nakasala siya diha sa Baal ug namatay.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "kalahadlawan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gibanhaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "apan nakasala"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "diha sa Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:33.088013641Z",
+  "model": "glm-5.3"
+}

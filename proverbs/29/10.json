@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang mga tawo sa dugo nagadumili sa hingpit, apan ang matarong mangita sa iyang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "nagadumili"
+    },
+    {
+      "surface": "תם",
+      "gloss": "sa hingpit"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "apan ang matarong"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "mangita"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:13.142944211Z",
+  "model": "glm-5.3"
+}

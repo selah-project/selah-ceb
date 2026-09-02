@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Sa maong adlaw ipatindog ko ⟨את⟩ ang payag ni David nga natumba, ug isasarhan ko ⟨את⟩ ang mga gikabhi niini, ug ang mga gibungkag niini ipatindog ko, ug itindog ko kini ingon sa mga adlaw sa karaan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa maong adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ipatindog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang payag ni David"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "payag"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "nga natumba"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ug isasarhan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga gikabhi niini"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "mga gikabhi niini"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "ug ang mga gibungkag niini"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ipatindog ko"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ug itindog ko kini"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ingon sa mga adlaw"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa karaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:21.989496055Z",
+  "model": "glm-5.3"
+}

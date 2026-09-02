@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang buhat sa matarong ⟨alang sa⟩ kinabuhi; ang abot sa dautan ⟨alang sa⟩ sala.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "⟨alang sa⟩ kinabuhi"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "abot"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "⟨alang sa⟩ sala"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:54.709628295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Sa pagahukman kaniya, mogula siya isip sadang, ug ang iyang pag-ampo mahimong sala.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "sa pagahukman kaniya"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogula siya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "isip sadang"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ug ang iyang pag-ampo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:22.951588017Z",
+  "model": "glm-5.3"
+}

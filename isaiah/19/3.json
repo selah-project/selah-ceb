@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mab-ang ang gininhawa sa Mitsrayim sulod niini, ug ang panabut niini pamon-on ko, ug mangita sila ngadto sa mga diyos-diyos, ngadto sa mga manganhiya, ngadto sa mga mangitag espirito, ug ngadto sa mga salamangkero.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ug mab-ang"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang gininhawa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sulod niini"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "ug ang panabut niini"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "pamon-on ko"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ug mangita sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "mga diyos-diyos"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "mga manganhiya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "mga mangitag espirito"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "mga salamangkero"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:44.246754335Z",
+  "model": "glm-5.3"
+}

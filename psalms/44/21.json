@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Kon nakalimtan namo ang ngalan ni Elohim, ug gipatigbabaw namo ang among mga palad sa usa ka El nga dayo,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "nakalimtan namo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "angan ngalan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ni Elohim namo"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ug gipatigbabaw namo"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "angan mga palad namo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa usa ka El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "nga dayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:38.922713442Z",
+  "model": "glm-5.3"
+}

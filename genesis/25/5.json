@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Gihatagan ni Avraham si Yitskhak ⟨את⟩ sa tanan nga anaa kaniya.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gihatagan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "si Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:14.573723180Z",
+  "model": "glm-5.3"
+}

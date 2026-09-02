@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Hangtod sa kahangturan ba nga pagbiyaan ni Adonay ⟨⟨kami⟩⟩? Ug dili ba siya maggusto na gayod ⟨pa⟩?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "Hangtod sa kahangturon ba"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "nga pagbiyaan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Ug dili ba"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "maggusto na gayod"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "sa pag-uyon"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:29.388004166Z",
+  "model": "glm-5.3"
+}

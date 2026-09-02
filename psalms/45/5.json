@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug sa imong kadunggahan — lambo ikaw, mularga alang sa pulong sa kamatuoran ug sa pagpaubos nga pagkamatarong; ug ang imong too nga kamot magtudlo kanimo ug makahahadlok nga mga butang.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "ug sa imong kadunggahan"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "lambo ikaw"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "mularga"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "kamatuoran"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "ug sa pagpaubos"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "ug ang imong too nga kamot magtudlo kanimo"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "makahahadlok nga mga butang"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imo nga too nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:41.174843268Z",
+  "model": "glm-5.3"
+}

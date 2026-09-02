@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Magdala ⟨ang⟩ mga bukid sa shalom alang sa ⟨mga⟩ tawo, ug ang mga bungtod pinaagi sa tsedakah.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "alang sa tawo"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ug ang mga bungtod"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "pinaagi sa tsedakah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:07.111348527Z",
+  "model": "glm-5.3"
+}

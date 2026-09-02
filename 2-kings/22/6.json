@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa mga panday sa kahoy, ug sa mga mason, ug sa mga mugna sa paril, ug sa pagpalit og kahoy ug mga bato nga gintukod, sa pagpalig-on ⟨את⟩ sa balay.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "sa mga panday sa kahoy"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "ug sa mga mason"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "ug sa mga mugna sa paril"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ug sa pagpalit"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ug mga bato"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "nga gintukod (gikan sa quarry)"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "sa pagpalig-on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:23.112801815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "⟨את⟩ ang tanan nga uwak sumala sa iyang matang;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga uwak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "uwak"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sumala sa iyang matang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:57.779532520Z",
+  "model": "glm-5.3"
+}

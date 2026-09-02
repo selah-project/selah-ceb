@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kay ang mga anak ni Atalyahu, daotan nga babaye, nagbungkag sa ⟨את⟩ balay sa Elohim; ug bisan ang tanan nga balaan nga butang sa balay ni Yahweh gihimo nila alang sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "ni Atalyahu"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "daotan nga babaye"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "nagbungkag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug bisan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "balaan nga butang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gihimo nila"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "alang sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:28.711673168Z",
+  "model": "glm-5.3"
+}

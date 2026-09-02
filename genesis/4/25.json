@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": " ug nahibalo si Adam pag-usab ⟨את⟩ sa iyang asawa, ug natawo ang usa ka anak nga lalaki, ug gitawag niya ⟨את⟩ sa iyang ngalan nga Shet, kay gipahimutang sa Elohim alang kanako ang laing binhi ingon kapuli ni Hevel, kay gipatay siya ni Kayin.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ug nahibalo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "si Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ug natawo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שת",
+      "gloss": "gipahimutang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "laing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ingon kapuli"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ni Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "gipatay siya"
+    },
+    {
+      "surface": "קין",
+      "gloss": "ni Kayin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:54.990522522Z",
+  "model": "glm-5.3"
+}

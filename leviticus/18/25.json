@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nahugawan ang yuta, ug gisilotan ko ang iyang kasal-anan ibabaw niini, ug gisuka sa yuta ⟨את⟩ ang iyang mga pumoluyo.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ug nahugawan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ug gisilotan ko"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ang iyang kasal-anan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ibabaw niini"
+    },
+    {
+      "surface": "ותקיא",
+      "gloss": "ug gisuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga pumoluyo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ang iyang mga pumoluyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:04.105949440Z",
+  "model": "glm-5.3"
+}

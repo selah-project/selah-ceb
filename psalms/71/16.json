@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Modto ako sa gahum ni Adonay Yahweh; mahinumduman ko ang imong kaangayan — ikaw lamang.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Modto ako"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "sa gahum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "mahinumduman ko"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ang imong kaangayan"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ikaw lamang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:45.227734880Z",
+  "model": "glm-5.3"
+}

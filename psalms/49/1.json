@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Sa magtatago sa koral, alang sa mga anak ni Korach, usa ka mizmor ⟨gikan sa mga anak ni Korach⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magtatago sa koral"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:25.310225121Z",
+  "model": "glm-5.3"
+}

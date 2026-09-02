@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "ngadto sa mga nagatipig sa iyang pakigsaad, ug ngadto sa mga nagadumdum sa iyang mga mandato sa pagtuman ⟨kanila⟩",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "ngadto sa mga nagatipig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sa iyang pakigsaad"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "ug ngadto sa mga nagadumdum"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "sa iyang mga mandato"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "sa pagtuman ⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:01.654308127Z",
+  "model": "glm-5.3"
+}

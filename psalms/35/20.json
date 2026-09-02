@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Kay ang gikalainlan dili ⟨gikasingkasing⟩ pagkahiusahay sila magstorya; ug batok sa mga mapahulayon sa yuta ang mga pulong nga pangilad sila magbinatyag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pagkahiusahay"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "magstorya sila"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug batok sa"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "mga mapahulayon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "pangilad"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "magbinatyag sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:52.861778930Z",
+  "model": "glm-5.3"
+}

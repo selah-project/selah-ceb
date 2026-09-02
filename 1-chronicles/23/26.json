@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug usab sa mga Leví wala na ⟨na⟩ ang pagdala ⟨את⟩ sa Tolda ug ⟨את⟩ sa tanan nga mga kagamitan niini alang sa pag-alagad niini.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug usab sa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "mga Leví"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ang pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Tolda"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa Tolda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa tanan nga mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan niini"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "alang sa pag-alagad niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:31.857726013Z",
+  "model": "glm-5.3"
+}

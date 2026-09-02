@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang tanan nga mga adlaw ni Khanokh ⟨mga⟩ kalim-an ug unom ka tuig ug tulo ka gatos ka tuig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug ang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ni Khanokh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "kalim-an"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ug unom"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:51.750012127Z",
+  "model": "glm-5.3"
+}

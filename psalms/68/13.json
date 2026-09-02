@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ang mga hari sa mga panon milayas gayod ug milayas, ug ang nagpabilin ⟨sa⟩ balay magbahin sa nahulma.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "mga panon"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "milayas"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ug milayas"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ug ang nagpabilin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "magbahin"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sa nahulma"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:35.018834640Z",
+  "model": "glm-5.3"
+}

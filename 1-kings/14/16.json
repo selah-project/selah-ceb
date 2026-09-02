@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ihatag niya ⟨את⟩ ang Yisrael tungod sa mga sala ni Yeravam, nga iyang gibuhat nga sala, ug nga iyang gipasalaan ⟨את⟩ ang Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug ihatag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ni Yeravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "iyang gibuhat nga sala"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "iyang gipasalaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:33.565529630Z",
+  "model": "glm-5.3"
+}

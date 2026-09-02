@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 6:19",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang Debir sa tunga sa balay, sa pinaka-sulod, gipangandam niya aron sa pagbutang didto ⟨את⟩ sa arca sa pakigsaad ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ודביר",
+      "gloss": "ug ang Debir"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa tunga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "sa pinaka-sulod"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gipangandam niya"
+    },
+    {
+      "surface": "לתתן",
+      "gloss": "aron sa pagbutang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa arca sa pakigsaad ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:44.590486076Z",
+  "model": "glm-5.3"
+}

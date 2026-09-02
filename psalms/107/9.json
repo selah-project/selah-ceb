@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Kay gipabusog niya ang kalag nga giuhaw, ug ang kalag nga gigutom gipun-o niya ug ⟨mga⟩ maayong butang.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "gipabusog niya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "nga giuhaw"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ug ang kalag"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "nga gigutom"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gipun-o niya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong butang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.709671712Z",
+  "model": "glm-5.3"
+}

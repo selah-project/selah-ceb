@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": " ug magatagad ka sa ⟨את⟩ mga sugo ni Yahweh nga imong Elohim, sa paglakaw sa iyang mga dalan ug sa pagkalahad kaniya.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "ug magatagad ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sugo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa paglakaw"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa iyang mga dalan"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ug sa pagkalahad"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:57.803724064Z",
+  "model": "glm-5.3"
+}

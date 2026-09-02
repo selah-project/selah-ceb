@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Hangtod kanus-a ibutang ko ang mga tambag sa akong kalag, kasubo sa akong kasingkasing adlaw-adlaw? Hangtod kanus-a mataas ang akong kaaway sa ibabaw kanako?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ibutang ko"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ang mga tambag"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "kasubo"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw-adlaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong kaaway"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.140721723Z",
+  "model": "glm-5.3"
+}

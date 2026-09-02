@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug magapaduol ang kohen sa atbang ni Yahweh, ug buhaton niya ⟨את⟩ ang iyang chatat ug ⟨את⟩ ang iyang olah.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Ug magapaduol"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atbang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhaton niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang chatat"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ang iyang chatat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang olah"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ang iyang olah"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:56.009070348Z",
+  "model": "glm-5.3"
+}

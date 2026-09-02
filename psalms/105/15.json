@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Ayaw paghikap sa akong mga Mesiyas, ug sa akong mga propeta ayaw paghimo ug daotan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "paghikap"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "sa akong mga Mesiyas"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ug sa akong mga propeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "paghimo ug daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.225193857Z",
+  "model": "glm-5.3"
+}

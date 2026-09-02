@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "ug ikaw mamati sa ⟨mga⟩ langit ug buhaton mo ug magahumon ka ⟨sa⟩ ⟨את⟩ imong mga sulogoon: pagpaila sa daotan nga daotan, sa paghatag sa iyang dalan sa ibabaw sa iyang ulo, ug sa pagpaila sa matarong nga matarong, sa paghatag kaniya sumala sa iyang pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa ⟨mga⟩ langit"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton mo"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "ug magahumon ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong mga sulogoon"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulogoon"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "sa pagpaila sa daotan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nga daotan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa iyang dalan"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "sa ibabaw sa iyang ulo"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "ug sa pagpaila sa matarong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nga matarong"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "sa paghatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "sumala sa iyang pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:00.635556544Z",
+  "model": "glm-5.3"
+}

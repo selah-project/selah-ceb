@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Si Atalya, inahan ni Ahazyahu, nakita nga patay na ang iyang anak, ug mitindog siya ug naglaglag ⟨את⟩ sa tibuok kaliwat sa gingharian.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Si Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "inahan"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ni Ahazyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ang iyang anak"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "mitindog siya"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "naglaglag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tibuok kaliwat sa gingharian"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "sa gingharian"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:43.271118059Z",
+  "model": "glm-5.3"
+}

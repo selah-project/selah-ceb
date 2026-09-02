@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Kabalakyanon ako ug moribundo na gikan sa akong pagkatin-edyer; gisabtan ko ang imong kabalaka ⟨ug⟩ nahiuyang ako.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "kabalakyanon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "ug moribundo na"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "gikan sa akong pagkatin-edyer"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "gisabtan ko"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ang imong kabalaka"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "nahiuyang ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:43.637535594Z",
+  "model": "glm-5.3"
+}

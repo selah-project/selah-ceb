@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ihimo ko si ⟨את⟩ Yerushalayim nga mga timbangan, puloy-anan sa mga ayam-subsob, ug ang mga dakbayan sa Yehudah igahimo kong kamingaw nga walay pumoluyo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihimo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "nga mga timbangan"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "puloy-anan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sa mga ayam-subsob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dakbayan sa Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "igahimo ko"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kamingaw"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "pumoluyo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:17:09.685993367Z",
+  "model": "glm-5.3"
+}

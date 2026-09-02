@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang nagabantay sa iyang baba ug sa iyang dila nagabantay sa iyang kalag gikan sa mga kagul-anan.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ang nagabantay"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "iyang baba"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ug iyang dila"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "gikan sa mga kagul-anan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:19.415987460Z",
+  "model": "glm-5.3"
+}

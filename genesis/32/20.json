@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gitugyan usab niya ⟨את⟩ ang ikaduha, usab ⟨את⟩ ang ikatulo, usab ⟨את⟩ tanan nga nagsunod sa mga kawan, nga nag-ingon: Sama niining pulonga imong sultihan si Esav, sa diha nga makit-an ninyo ⟨את⟩ siya.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ug gitugyan niya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikaduha"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ikatulo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ang ikatulo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "nga nagsunod"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa luyo sa"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "mga kawan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sama sa pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "imong sultihan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "sa diha nga makit-an ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:48.155779273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Tumindig ako nga mag-abli alang sa akong hinigugma, ug ang akong mga kamot nagtulo ug mor, ug ang akong mga tudlo mor nga modagayday, ibabaw sa mga gisi sa kandado.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "Tumindig ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "nga mag-abli"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "alang sa akong hinigugma"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "ug ang akong mga kamot"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nagtulo"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mor"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "ug ang akong mga tudlo"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mor"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nga modagayday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "mga gisi"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "sa kandado"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:49.878766201Z",
+  "model": "glm-5.3"
+}

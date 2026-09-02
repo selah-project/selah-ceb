@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang dayo dili nimo pagdauta, ug dili nimo pagluthoa ⟨kini⟩, kay mga dayo kamo kaniadto sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Ug ang dayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "nimo pagdauta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "nimo pagluthoa kini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "mga dayo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "kamo kaniadto"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:34.088038626Z",
+  "model": "glm-5.3"
+}

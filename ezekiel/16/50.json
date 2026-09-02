@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug nagkahataas sila ug nagbuhat sila ug ginawa nga makasilaw ⟨atbang⟩ nako, ug gikuha ko sila ⟨את⟩ ingon sa akong nakita.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "Ug nagkahataas sila"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "ug nagbuhat sila"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ginawa nga makasilaw"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang nako"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "ug gikuha ko"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "akong nakita"
+    }
+  ],
+  "timestamp": "2026-09-01T21:36:45.627377198Z",
+  "model": "glm-5.3"
+}

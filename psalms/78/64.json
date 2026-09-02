@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ang iyang mga pari nahulog sa espada, ug ang iyang mga balo wala maghilak.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ang iyang mga pari"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ug ang iyang mga balo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "maghilak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:22.706610634Z",
+  "model": "glm-5.3"
+}

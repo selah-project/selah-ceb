@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Yahweh nagsalibay ug dako nga hangin ngadto sa dagat, ug naay dako nga bagyo sa dagat, ug ang sakayan gimahunong ⟨siya⟩ nga mga-piarra.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "nagsalibay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "dako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug naay"
+    },
+    {
+      "surface": "סער",
+      "gloss": "bagyo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ug ang sakayan"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "gimahunong"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "nga mga-piarra"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:16.590431432Z",
+  "model": "glm-5.3"
+}

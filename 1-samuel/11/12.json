@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug miingon ang katawhan ngadto kang Shemuel: Kinsa ang nagaingon nga magahari si Shaul kanato? Ihatag ninyo ang mga tawo aron patyon namo sila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ang nagaingon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "magahari"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kanato"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Ihatag ninyo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "patyon namo sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:39.611456473Z",
+  "model": "glm-5.3"
+}

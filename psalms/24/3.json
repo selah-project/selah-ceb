@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kinsa ang mosaka sa bukid ni Yahweh, ug kinsa ang mobarog sa ⟨iyang⟩ balaang dapit?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "mobarog"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.052747812Z",
+  "model": "glm-5.3"
+}

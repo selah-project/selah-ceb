@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Elohim magahukom — matarong ⟨siya⟩; ug El nga nagakasuko sa tagsa-tagsa nga adlaw.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong ⟨siya⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nga nagakasuko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tagsa-tagsa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.960697258Z",
+  "model": "glm-5.3"
+}

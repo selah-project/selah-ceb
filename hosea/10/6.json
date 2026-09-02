@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kini usab ⟨את⟩ madad-ang ngadto sa Ashur, ingon nga regalo sa hari nga si Yarev; matahum ug kahiladman ang mahitabo kang Efrayim, ug mapahiya ang Israel tungod sa iyang kaugalingong tambag.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "madad-ang ngadto sa Ashur (ang guya)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ngadto sa Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "madad-ang"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "regalo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "kahiladman"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "ובוש",
+      "gloss": "mapahiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "tungod sa iyang kaugalingong tambag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:19.835063686Z",
+  "model": "glm-5.3"
+}

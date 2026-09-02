@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug misaka si David ug ang iyang mga tawo, ug nanglusob sila sa mga Geshurinhon, ug sa mga Gerzinhon, ug sa mga Amalekhinhon; kay sila maoy mga tagpuyo sa yuta gikan sa sinugdan, sa imong pag-anhi ngadto sa Shur hangtod sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ug misaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ug ang iyang mga tawo"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ug nanglusob sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "mga Geshurinhon"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "ug sa mga Gerzinhon"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "ug sa mga Amalekhinhon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "maoy mga tagpuyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sa sinugdan"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "sa imong pag-anhi"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "ngadto sa Shur"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:39.898546259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Ikaw mobangon, kaluoyon ang Tsiyon, kay ⟨panahon na⟩ nga kalooyan ⟨kini⟩; kay miabot na ang gintakdang panahon.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "kaluoyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ang Tsiyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "nga kalooyan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabot na"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ang gintakdang panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:57.719441556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug miingon siya: Niini nga takna, sumala sa panahon sa kinabuhi, ikaw magakumkom ug usa ka anak nga lalaki. Ug siya miingon: Dili, akong Adonay, lalaki sa Elohim, ayaw pagbakak sa imong sulugoon nga babae.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "niini nga takna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "sumala sa panahon"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "magakumkom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug siya miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "akong Adonay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "pagbakak"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "sa imong sulugoon nga babae"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:11.410850927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gipili ni Moshe ⟨את⟩ mga tawo sa kusog gikan sa tibuok Israel, ug gihimo niya sila nga mga pangulo sa ibabaw sa ⟨ang⟩ katawhan: mga sarang libo, mga sarang gatos, mga sarang kalim-an, ug mga sarang napulo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "Gipili"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (mga pangulo)"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga sarang"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga sarang"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga sarang"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "kalim-an"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ug mga sarang"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "napulo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:50.325378140Z",
+  "model": "glm-5.3"
+}

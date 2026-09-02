@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Gipakataas ni Yahweh ⟨את⟩ ang mga kaaway ni Retsin batok kaniya, ug ⟨את⟩ ang iyang mga-away gipahiusa niya.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "gipakataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kaaway ni Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ang mga kaaway"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ni Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga-away"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ang iyang mga-away"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "gipahiusa niya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:21.966486085Z",
+  "model": "glm-5.3"
+}

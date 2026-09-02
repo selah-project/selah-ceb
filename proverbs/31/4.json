@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Dili alang sa mga hari, Lemuel, dili alang sa mga hari ang pag-inom sa bino, ni alang sa mga pangulo ang ⟨pangandoy⟩ sa ilim nga makahubog.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "alang sa mga hari"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "alang sa mga hari"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ang pag-inom"
+    },
+    {
+      "surface": "יין",
+      "gloss": "sa bino"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ni alang sa mga pangulo"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨pangandoy⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sa ilim nga makahubog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:32.460358687Z",
+  "model": "glm-5.3"
+}

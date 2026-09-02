@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Adlaw sa pahulay, bug-os nga pahulay ⟨kini⟩ alang kaninyo, ug paslawon ninyo ⟨את⟩ ang inyong mga kalag; sa ika-siyam sa bulan sa pagkasalop, gikan sa pagkasalop hangtod sa pagkasalop magpahulay kamo sa inyong adlaw sa pahulay.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "adlaw sa pahulay"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "bug-os nga pahulay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ug paslawon ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga kalag"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "inyong mga kalag"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "sa ika-siyam"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa bulan"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa pagkasalop"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "gikan sa pagkasalop"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "pagkasalop"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "magpahulay kamo"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "sa inyong adlaw sa pahulay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:18.284667200Z",
+  "model": "glm-5.3"
+}

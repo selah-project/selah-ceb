@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kagilapa sa anak nga babae sa imong anak o sa anak nga babae sa imong anak nga babae — ang ilang kagilapa ayaw nimo ⟨paghubaron⟩, kay imong kagilapa ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kagilapa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "sa imong anak nga babae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paghubaron"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ilang kagilapa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "imong kagilapa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:30.195380644Z",
+  "model": "glm-5.3"
+}

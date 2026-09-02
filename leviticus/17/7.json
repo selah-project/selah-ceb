@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug dili na sila maggasa ⟨את⟩ sa ilang mga sakripisyo alang sa ilang mga seirim nga gisundon nila pagkahuman sa pagpanapak; batas nga dayon kini alang kanila sa tanan nilang kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "maggasa sila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sakripisyo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "mga sakripisyo"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "alang sa ilang mga seirim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "nagpanapak"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "gisundon nila"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "batas"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa tanan nilang kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:32.918128443Z",
+  "model": "glm-5.3"
+}

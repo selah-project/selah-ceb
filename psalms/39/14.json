@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Bawi-a ⟨ang imong pagtan-aw⟩ kanako, aron mabug-aton ako sa kahayahay ⟨sa wala pa⟩ ako molarga ug wala na ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Bawi-a ang imong pagtan-aw"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "aron mabug-aton ako sa kahayahay"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ako molarga"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ug wala na ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:31.839171709Z",
+  "model": "glm-5.3"
+}

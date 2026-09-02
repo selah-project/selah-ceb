@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug gibuksan nako ⟨את⟩ ang akong baba, ug gipa-kaon niya ako ⟨את⟩ kining baligya.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Ug gibuksan nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong baba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ug gipa-kaon niya ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining baligya"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "kining baligya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:34:08.494563993Z",
+  "model": "glm-5.3"
+}

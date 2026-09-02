@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Apan wala magtumag sa ⟨את⟩ si Yosef ang pangulo sa mga manghazi, ug nalimtan niya siya.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Apan wala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "magtumag sa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "sa mga manghazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "ug nalimtan niya siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:11.520552448Z",
+  "model": "glm-5.3"
+}

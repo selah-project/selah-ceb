@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Pag-awit kamo kang Yahweh, kay nagbuhat siya ug ⟨mga⟩ butang nga himayaon; kini ⟨nga⟩ nahibaw-an sa tibuok kalibotan.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pag-awit kamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "mga butang nga himayaon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagbuhat siya"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "nahibaw-an"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kalibotan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:58.843823663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug ⟨את⟩ ang inyong manghod nga igsoon dad-on ninyo ngari kanako, ug mapamatud-an ang inyong mga pulong, ug dili kamo mamatay. Ug gibuhat nila kana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang inyong manghod nga igsoon"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong igsoon"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "manghod"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "dad-on ninyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "ug mapamatud-an"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "inyong mga pulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "kamo mamatay"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gibuhat nila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:12.417232189Z",
+  "model": "glm-5.3"
+}

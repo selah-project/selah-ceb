@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Itindog ka ni Yahweh alang kaniya nga ⟨mga⟩ balaan nga katawhan, ingon sa iyang gipanumpa kanimo, kon magbantay ka ⟨את⟩ sa mga sugo ni Yahweh nga Elohim mo ug molakaw ka sa iyang mga dalan.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "itindog ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gipanumpa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "magbantay ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga sugo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim mo"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "ug molakaw ka"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa iyang mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:21.565124723Z",
+  "model": "glm-5.3"
+}

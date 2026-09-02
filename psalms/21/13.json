@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay ihimo nimo sila nga ⟨את⟩ ⟨ang ilang⟩ abaga ⟨magbalikod⟩, sa mga pisi sa imong busog imong itudlok ⟨⟨ang mga pana⟩⟩ batok sa ilang mga nawong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "ihimo nimo sila"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "abaga"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "sa mga pisi sa imong busog"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "imong itudlok"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ilang mga nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:41.610956443Z",
+  "model": "glm-5.3"
+}

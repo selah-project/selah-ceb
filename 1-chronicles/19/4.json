@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Busa gikuha ni Khanun ang ⟨את⟩ mga sulugoon ni David, ug gipahid niya ang ilang barba, ug gigputol ang ⟨את⟩ ilang mga bisti tungatunga, hangtod sa ilang mga pig-ot, ug gipapauli niya sila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "ni Khanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga sulugoon ni David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "gipahid ang ilang barba"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "gigputol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga bisti"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ilang mga bisti"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "tungatunga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "ilang mga pig-ot"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "gipapauli sila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:08.407971893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug si Yahweh — ⟨siya⟩ ang naglakaw ⟨sa atubangan⟩ nimo; ⟨siya⟩ anaa uban kanimo; dili ka niya pagpahuyangon ug dili ka niya pagabiyaon; ayaw pagkahadlok ug ayaw pagkadako ang kabalaka.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ang naglakaw"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa atubangan nimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uban kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "ka niya pagpahuyangon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "ka niya pagabiyaon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "pagkahadlok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pagkadako ang kabalaka"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:05.904613923Z",
+  "model": "glm-5.3"
+}

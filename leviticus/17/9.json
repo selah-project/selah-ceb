@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "ug sa ganghaan sa tolda sa pagtigom dili niya kini dad-on sa paghimo niini ⟨את⟩ kang Yahweh, ug mapaputol kana nga tawo gikan sa iyang katawhan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pagtigom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "niya kini dad-on"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo niini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "ug mapaputol"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "gikan sa iyang katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:31.315585053Z",
+  "model": "glm-5.3"
+}

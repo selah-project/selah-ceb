@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang mga kurtina sa nataran, ⟨את⟩ ang mga haligi niini ug ⟨את⟩ ang mga tiil-tiil niini, ug ⟨את⟩ ang tabon sa ganghaan sa nataran",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kurtina sa nataran"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ang mga kurtina"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa nataran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga haligi"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "ang mga haligi niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga tiil-tiil niini"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ang mga tiil-tiil niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tabon sa ganghaan sa nataran"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang tabon"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sa nataran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:21.304997736Z",
+  "model": "glm-5.3"
+}

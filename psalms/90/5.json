@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Gisapaw mo sila ingon sa baha; mahimong tulog sila; sa buntag sama sa sagbot nga motuhop.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "gisapaw mo sila"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tulog"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sama sa sagbot"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "motuhop"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:21.711184477Z",
+  "model": "glm-5.3"
+}

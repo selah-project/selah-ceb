@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang tanan nga mga pultahan ug ang mga haligi sa kilid nagabarog nga kwadrado, ⟨sa⟩ bintana; ug atbang sa bintana pasi-ang bintana, kaduha ug usa ka higayon (sa tulo ka laray).",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "ug ang mga haligi sa kilid"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "kwadrado"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "ug atbang"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pasi-ang"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "bintana"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mga higayon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:11.871657860Z",
+  "model": "glm-5.3"
+}

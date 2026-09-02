@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Nagkampo ang mensaheiro ni Yahweh sa palibot niadtong mga nagakahadlok kaniya, ug giluwas niya sila.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "Nagkampo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang mensaheiro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "niadtong mga nagakahadlok kaniya"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ug giluwas niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:11.091016160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang hari sa Shimron-Meron, usa; ang hari sa Akshaf, usa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shimron"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "sa Akshaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:38.536988624Z",
+  "model": "glm-5.3"
+}

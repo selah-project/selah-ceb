@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 16:9",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "⟨Ba} gamay ba kini alang kaninyo, nga gibulag kamo ni Elohim sa Israel gikan sa katilingban sa Israel, aron pagduol kaninyo ngadto kaniya, sa pag-alagad ⟨את⟩ sa pag-alagad sa tolda ni Yahweh, ug sa pagtindog atubang sa katilingban sa pag-alagad kanila?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "gamay ba"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "gibulag"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מעדת",
+      "gloss": "gikan sa katilingban"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "aron pagduol"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pag-alagad sa tolda ni Yahweh"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "ug sa pagtindog"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang sa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "לשרתם",
+      "gloss": "sa pag-alagad kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:38:11.586697002Z",
+  "model": "glm-5.3"
+}

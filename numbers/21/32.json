@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gipadala ni Moshe ⟨mga tigpaniid⟩ sa pagpangita ⟨את⟩ Ya'azer, ug gikuha nila ang mga baryo niini, ug giapan ⟨ang⟩ Emori ⟨את⟩ — ang mga Emori nga didto.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "mga tigpaniid sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ya'azer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Ya'azer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ug gikuha nila"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ang mga baryo niini"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ug giapan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:38.081081764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug karon, Yahweh, kuhaa ⟨את⟩ ang akong kalag gikan kanako, kay maayo ang akong kamatayon kaysa sa akong kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨palihug⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kalag"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ang akong kamatayon"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kaysa sa akong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:13.152122538Z",
+  "model": "glm-5.3"
+}

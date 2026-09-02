@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Nagahatag ⟨siya⟩ ug pagkaon sa tanan nga unod, kay ngadto sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngadto sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:41.570116907Z",
+  "model": "glm-5.3"
+}

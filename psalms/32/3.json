@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Kay nagtahimik ako, naguya ang akong mga tul-an, pinaagi sa akong pagpanaghoy tibuok adlaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "nagtahimik ako"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "naguya"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ang akong mga tul-an"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "sa akong pagpanaghoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:56.184757040Z",
+  "model": "glm-5.3"
+}

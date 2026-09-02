@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ako nakita ⟨את⟩ ang tanan nga kabalakyran ug ⟨את⟩ ang tanan nga kalampusan sa buhat, kay kini pagkahadlok ug pagpanghilabot sa usa ka tawo batok sa iyang isigkatawo; kini usab hele ug pagpaningkamot nga wala dad-a sa hangin.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ug ako nakita"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga kabalakyran"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kabalakyran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga kalampusan sa buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "kalampusan"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "sa buhat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "pagkahadlok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "batok sa iyang isigkatawo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ug pagpaningkamot nga wala dad-a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hangin"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:01.836849246Z",
+  "model": "glm-5.3"
+}

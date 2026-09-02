@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 14:29",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ayaw pag-uyo, Peleshet, ⟨kalibutan⟩ kanimo nga tanan, kay naputol na ang tungkod sa nagbunal kanimo; kay gikan sa gamot sa bitin mogula ang manghas, ug ang iyang bunga ⟨mao ang⟩ saraph (makahilong bitin) nga naglupadlayat.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "pag-uyo"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "kalibutan kanimo nga tanan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "naputol na"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tungkod"
+    },
+    {
+      "surface": "מכך",
+      "gloss": "sa nagbunal kanimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "gikan sa gamot"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bitin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "צפע",
+      "gloss": "manghas"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "ug ang iyang bunga"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "saraph (makahilong bitin)"
+    },
+    {
+      "surface": "מעופף",
+      "gloss": "naglupadlayat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:47.046448304Z",
+  "model": "glm-5.3"
+}

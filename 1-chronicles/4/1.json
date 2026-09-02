@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Mga anak ni Yehudah: Perets, Khetsron, ug Kharmi, ug Khur, ug Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Khetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ug Kharmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ug Khur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ug Shoval"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:46.759246039Z",
+  "model": "glm-5.3"
+}

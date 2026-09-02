@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gitangtang ko ⟨את⟩ ⟨ang⟩ tulo ka mga magtatabi sulod sa usa ka bulan, ug ang akong nefesh nagkugi na kanila, ug ang ilang nefesh usab nagkaduot kanako.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "gitangtang ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ tulo ka mga magtatabi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mga magtatabi"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "sulod sa usa ka bulan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "nagkugi na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang ilang nefesh"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "nagkaduot"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:11.971965714Z",
+  "model": "glm-5.3"
+}

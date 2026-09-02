@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kinsa kini nga nagatan-aw ⟨sama⟩ sa kaadlawan, matahum sama sa bulan, maliwanag sama sa adlaw, makahahadlok sama sa mga panon nga may bandila?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "nagatan-aw"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sama"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kaadlawan"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "sama sa bulan"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "maliwanag"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "sama sa adlaw"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "makahahadlok"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "sama sa mga panon nga may bandila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:08.000638438Z",
+  "model": "glm-5.3"
+}

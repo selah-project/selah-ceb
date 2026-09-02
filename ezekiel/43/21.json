@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Kuhaon nimo ⟨את⟩ ang baka sa handog sa sala, ug sunogon kini sa gintudlo nga dapit sa balay, gawas sa santuaryo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "kuhaon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka sa handog sa sala"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sa handog sa sala"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "ug sunogon"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "sa gintudlo nga dapit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "sa santuaryo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:47:32.552268422Z",
+  "model": "glm-5.3"
+}

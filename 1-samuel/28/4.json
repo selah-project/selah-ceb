@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug gitipon ang mga Pelishteo ug mingpit ug nagkampo sila sa Shunem; ug gitipon ni Shaul ⟨את⟩ tibuok Yisrael ug nagkampo sila sa Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "gitipon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishteo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ug mingpit"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo sila"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "sa Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "gitipon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tibuok Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagkampo sila"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "sa Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:50.284289244Z",
+  "model": "glm-5.3"
+}

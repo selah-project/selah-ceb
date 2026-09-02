@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug gitawag niya ⟨את⟩ ang iyang ngalan nga Yosef, nga nagaingon: Magdugang pa si Yahweh kanako ug laing anak.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "magdugang pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ug laing"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:29.401907593Z",
+  "model": "glm-5.3"
+}

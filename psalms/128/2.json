@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 128,
+  "translation": "Ang bunga sa imong kamot nga kabalikuran imong kan-on; maayong pagkaadlaw ikaw, ug maayo ⟨kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "ang kabalikuran \/ bunga sa kabalikuran"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "sa imong kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "imong kan-on"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "maayong pagkaadlaw ikaw"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ug maayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kanimo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:40.811980586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug ⟨ang⟩ usa ka tuko ingnon nimo ⟨את⟩ ang nahanaw nga tuko: ug si Aharon uban sa iyang mga anak magasalipong sa ilang mga kamot ⟨את⟩ sa ibabaw sa ulo sa tuko.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang nahanaw nga tuko"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ang tuko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa \/ nahanaw"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ingnon nimo"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "magasalipong"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ilang mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sa tuko"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:08.321472912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Luwasa ako, O Elohim, kay minglabot na ang tubig hangtod sa ⟨akong⟩ nefesh.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Luwasa ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "minglabot na"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:37.657461913Z",
+  "model": "glm-5.3"
+}

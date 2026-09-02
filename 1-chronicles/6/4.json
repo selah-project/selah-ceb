@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 6:4",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ang mga anak ni Merari: Machli ug Mushi. Ug kini ⟨mao⟩ ang mga banay sa Levi sumala sa ilang mga amahan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ang mga anak"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ni Merari"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Machli"
+    },
+    {
+      "surface": "ומשי",
+      "gloss": "ug Mushi"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ang mga banay"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "sa Levi"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "sumala sa ilang mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:43.063923073Z",
+  "model": "glm-5.3"
+}

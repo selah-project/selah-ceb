@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Pagtulon-an ni Asaf. Paminawa, akong katawhan, sa akong tora; i-duol ninyo ang inyong mga igdulog ngadto sa mga pulong sa akong baba.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Pagtulon-an"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "sa akong tora"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "i-duol ninyo"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ang inyong mga igdulog"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ngadto sa mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:09.023881539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nagabuhat ug dakong mga butang hangtod nga walay sukli, ug mga katingalahan hangtod nga walay ihap.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Nagabuhat"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "dakong mga butang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "sukli"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "ug mga katingalahan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:28.681986256Z",
+  "model": "glm-5.3"
+}

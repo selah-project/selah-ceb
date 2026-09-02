@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang mga nagakita kanimo magatutok kanimo, kanimo magapamalandong sila ⟨ug magasulti⟩: Kini ba ang tawo nga nagpaguol sa yuta, nga nagpalinyo sa mga gingharian?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Ang mga nagakita kanimo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "magatutok"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "magapamalandong sila"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Kini ba ang"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "nagpaguol sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "nagpalinyo sa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:11.417493268Z",
+  "model": "glm-5.3"
+}

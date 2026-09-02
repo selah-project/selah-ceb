@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ⟨את⟩ ang iyang asham iyang dad-on ngadto kang Yahweh: usa ka carnero nga tukmaikan gikan sa mga carnero, sumala sa imong bili, alang sa asham, ngadto sa sacerdote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang asham"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ang iyang asham"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "iyang dad-on"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "usa ka carnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nga tukmaikan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "sa mga carnero"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "sumala sa imong bili"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "alang sa asham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa sacerdote"
+    }
+  ],
+  "timestamp": "2026-09-01T19:21:58.788968184Z",
+  "model": "glm-5.3"
+}

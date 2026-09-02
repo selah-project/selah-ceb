@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang Toráh ni Yahweh hingpit, nagapabalik sa kalag; ang pagsaksi ni Yahweh kasaligan, nagahimo sa yantot og maalam.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Ang Toráh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "nagapabalik"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "sa kalag"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ang pagsaksi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "kasaligan"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "nagahimo sa yantot og maalam"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "yantot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:49.290224536Z",
+  "model": "glm-5.3"
+}

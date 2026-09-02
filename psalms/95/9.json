@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Diin ang inyong mga amahan nagtilaw kanako, nagpamatok kanako, bisan nakita nila ang akong buhat.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "nagtilaw kanako"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ang inyong mga amahan"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "nagpamatok kanako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakita nila"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ang akong buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:54.088048386Z",
+  "model": "glm-5.3"
+}

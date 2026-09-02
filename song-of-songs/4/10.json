@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Unsa ka nindot ang imong gugma, akong igsoon nga babaye, akong nobya; unsa ka maayo ang imong gugma kaysa bino, ug ang baho sa imong mga lana labaw sa tanan nga pahumot.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "unsa ka"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "nindot"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ang imong gugma"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "akong igsoon nga babaye"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "akong nobya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa ka"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ang imong gugma"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kaysa bino"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ug ang baho"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "sa imong mga lana"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw sa tanan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "nga pahumot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:46:29.224185194Z",
+  "model": "glm-5.3"
+}

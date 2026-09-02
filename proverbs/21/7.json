@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang pagpanggahum sa mga dautan moguyod ⟨kanila⟩; kay nagdumili sila sa pagbuhat sa hustisya.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "pagpanggahum"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "moguyod kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nagdumili sila"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:27.968541311Z",
+  "model": "glm-5.3"
+}

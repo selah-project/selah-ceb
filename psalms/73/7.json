@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Gikan sa tambok migawas ang ilang mata, gilapas nila ang mga hulagway sa kasingkasing.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "migawas"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "gikan sa tambok"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ang ilang mata"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gilapas nila"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "mga hulagway"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:21.222006129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug pagkahuman natawan siya ug anak nga babaye, ug gitawag niya ⟨את⟩ ⟨ang⟩ iyang ngalan nga Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ug pagkahuman"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawan siya ug anak"
+    },
+    {
+      "surface": "בת",
+      "gloss": "nga babaye"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang ngalan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:29.401402110Z",
+  "model": "glm-5.3"
+}

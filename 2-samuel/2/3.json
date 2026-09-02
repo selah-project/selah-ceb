@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang iyang mga tawo nga ⟨mga⟩ kauban niya gipasaka ni David, matag tawo uban ang iyang panimalay; ug mipuyo sila sa mga dakbayan sa Khebron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "ug ang iyang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "gipasaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "uban ang iyang panimalay"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug mipuyo sila"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga dakbayan"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "sa Khebron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:04.176418520Z",
+  "model": "glm-5.3"
+}

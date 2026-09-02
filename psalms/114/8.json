@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 114,
+  "translation": "⟨Siya nga⟩ nagbalik-ihap sa bato ngadto sa linaw sa tubig, sa flint ngadto sa tinubdan sa tubig.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "⟨Siya nga⟩ nagbalik-ihap"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ngadto sa linaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "sa flint"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ngadto sa tinubdan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:25.294961303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang imong baba maghatod kanimo ug silot, ug dili ako; ug ang imong mga ngabil motubag batok kanimo.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "maghatod kanimo ug silot"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang imong baba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ug ang imong mga ngabil"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "motubag"
+    },
+    {
+      "surface": "בך",
+      "gloss": "batok kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:54.125506436Z",
+  "model": "glm-5.3"
+}

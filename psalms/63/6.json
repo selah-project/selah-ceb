@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Ingon sa tambok ug sa sagbot ⟨nga mahimongbang kaayo⟩ mabusog ang akong kalag, ug ang akong ngaba mosanggit sa pagdayeg.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "Ingon sa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tambok"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "ug sa sagbot"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "ug ang akong ngaba"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "sa pagdayeg"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "mosanggit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:52.595264153Z",
+  "model": "glm-5.3"
+}

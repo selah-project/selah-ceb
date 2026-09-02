@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ang duha ka bahin kaninyo, tanan nga mogula sa adlaw sa Sabad, magbantay usab ⟨את⟩ sa pagbantay sa balay ni Yahweh duol sa hari.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ug ang duha ka bahin"
+    },
+    {
+      "surface": "הידות",
+      "gloss": ""
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "nga mogula"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa adlaw sa Sabad"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "magbantay usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagbantay"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "duol"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:23.520534565Z",
+  "model": "glm-5.3"
+}

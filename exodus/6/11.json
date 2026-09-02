@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sulod, isulti kang Paro, hari sa Mitsrayim, nga magpagawas siya ⟨את⟩ sa mga anak ni Yisrael gikan sa iyang yuta.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Sulod"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nga magpagawas siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "gikan sa iyang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:41.970763995Z",
+  "model": "glm-5.3"
+}

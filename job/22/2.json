@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Makamatngon ba ang tawo kang El, o makamatngon ba ang maalam kaniya?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "kang El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "makamatngon ba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "o"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "makamatngon ba"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ang maalam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:03.060947947Z",
+  "model": "glm-5.3"
+}

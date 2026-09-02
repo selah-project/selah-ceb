@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": " ug nituo ang katawhan, ug nadungog nila nga gibsita ni Yahweh ⟨את⟩ ang mga anak ni Yisrael ug nga nakita niya ⟨את⟩ ang ilang pag-antos, ug mipahiyom sila ug miyango",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "nituo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ug nadungog nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "gibsita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pag-antos"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ang ilang pag-antos"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "mipahiyom sila"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ug miyango"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:16.546844346Z",
+  "model": "glm-5.3"
+}

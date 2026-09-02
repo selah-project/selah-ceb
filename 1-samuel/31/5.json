@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug nakita sa nagsulong sa iyang mga sanggagong {kilid} nga patay na si Shaul, busa nahulog usab siya sa iyang espada ug namatay uban kaniya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagsulong sa mga sanggagong"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iyang mga sanggagong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "patay na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "iyang espada"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:00.315609335Z",
+  "model": "glm-5.3"
+}

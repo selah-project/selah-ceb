@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug naggiingon ko: Paminawa kamo ⟨karon⟩, mga ulo ni Yaakov, ug mga mangulo sa balay ni Yisrael: dili ba kaninyo ang pagkahibalo ⟨sa⟩ ⟨את⟩ ang hustisya?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ug naggiingon ko"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Paminawa kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨karon⟩"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga ulo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "ug mga mangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ang pagkahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hustisya"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ang hustisya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:51.732231976Z",
+  "model": "glm-5.3"
+}

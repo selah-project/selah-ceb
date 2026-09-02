@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pagbuhat ka sa imong sulugoon sumala sa imong hesed (dako nga kaluoy), ug tudloi ako sa imong mga lagda.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "pagbuhat ka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sumala sa imong hesed"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "ug sa imong mga lagda"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tudloi ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:18.372636430Z",
+  "model": "glm-5.3"
+}

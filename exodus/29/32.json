@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug mangaon si Aharon ug ang iyang mga anak ⟨את⟩ ang unod sa carnero ug ⟨את⟩ ang tinapay nga anaa sa basket, atbang sa ganghaan sa tolda sa pagtagbo.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Ug mangaon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug ang iyang mga anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang unod sa carnero"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sa carnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tinapay"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "sa basket"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "atbang sa ganghaan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:22.957175810Z",
+  "model": "glm-5.3"
+}

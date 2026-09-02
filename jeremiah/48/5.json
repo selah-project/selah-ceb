@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 48:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Kay sa pag-angat sa Luhith ⟨sa pag-angat⟩ may paghilak, kay sa pagpaubos sa Khoronayim ang mga kaaway nakadungog sa panawag sa kaburok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "sa pag-angat"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "sa Luhith"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "⟨sa pag-angat⟩ may paghilak"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "paghilak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "sa pagpaubos"
+    },
+    {
+      "surface": "חורנים",
+      "gloss": "sa Khoronayim"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "panawag"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kaburok"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakadungog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:29:41.262734359Z",
+  "model": "glm-5.3"
+}

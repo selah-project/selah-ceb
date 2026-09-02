@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ngadto sa babaye miingon ⟨siya⟩: Padaghanon ko pag-ayo ang imong kasakit ug ang imong pagmabdos; sa kasakit imong anaklan ang mga anak; ug ngadto sa imong bana ang imong pagtinguha, ug siya magahari kanimo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ngadto sa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "babaye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Padaghanon ko pag-ayo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "padaghanon"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "imong kasakit"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "ug ang imong pagmabdos"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "sa kasakit"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "imong anaklan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "imong bana"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "imong pagtinguha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "magahari"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:47.494216883Z",
+  "model": "glm-5.3"
+}

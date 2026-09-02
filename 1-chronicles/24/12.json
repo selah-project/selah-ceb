@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ang ikanapulo ug usa kang Elyashiv, ang ikanapulo ug duha kang Yakim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "kang Elyashiv"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ug usa ⟨sa napulo⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "kang Yakim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ug duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:11.773487283Z",
+  "model": "glm-5.3"
+}

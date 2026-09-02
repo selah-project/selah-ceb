@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug nahimong ⟨hari⟩ sa Yeshurun ⟨ang usa⟩, sa pagtigum sa mga pangulo sa katawhan, naghiusa ang mga tribo sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimo"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "sa Yeshurun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "sa pagtigum"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "naghiusa"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:50.632338268Z",
+  "model": "glm-5.3"
+}

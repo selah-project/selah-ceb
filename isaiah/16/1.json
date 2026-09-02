@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Pagpadala kamo ug karnero sa magmamando sa ⟨ang⟩ yuta, gikan sa Sela padulong sa kamingawan, ngadto sa bukid sa anak nga babaye sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "pagpadala kamo"
+    },
+    {
+      "surface": "כר",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "משל",
+      "gloss": "magmamando"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:30.116115428Z",
+  "model": "glm-5.3"
+}

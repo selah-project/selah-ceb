@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Sa kamatuoran, Yahweh, ang mga hari sa Ashur nagpahinonang ⟨את⟩ ⟨ang⟩ mga nasud ug ⟨את⟩ ang ilang yuta.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "sa kamatuoran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "nagpahinonang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ mga nasud"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang yuta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ilang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:58.183837142Z",
+  "model": "glm-5.3"
+}

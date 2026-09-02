@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Bisan pa, ang salapi nga gihatag ⟨את⟩ sa ilang kamot dili na pangasayalon kanila, kay sa matinud-anon sila nagabuhat.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "bisan pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "pangasayalon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ang salapi"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "nga gihatag"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ilang kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa matinud-anon"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "nagabuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:23.112953034Z",
+  "model": "glm-5.3"
+}

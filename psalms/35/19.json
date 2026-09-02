@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ayaw pagtugota nga magakalipay ngari kanako ang akong mga kaaway nga bakak ⟨nga⟩ walay hinungdan; ang nagadumili kanako nga walay hinungdan magapikit ⟨sa mata⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw pagtugota"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ang nagadumili kanako"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay hinungdan"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "magapikit"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:52.861635534Z",
+  "model": "glm-5.3"
+}

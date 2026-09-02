@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Dako ⟨ang⟩ Yahweh ug kaayo nga daygon, sa dakbayan sa atong Elohim, ⟨ang⟩ bungtod sa iyang kasantohan.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ug kaayo nga daygon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bungtod"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang kasantohan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:29.750309621Z",
+  "model": "glm-5.3"
+}

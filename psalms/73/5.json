@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Sa kalisud sa mga tawo wala sila, ug kauban sa mga tawo dili sila mabantog.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "sa kalisud"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "wala sila"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug kauban sa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "mabantog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:21.221441974Z",
+  "model": "glm-5.3"
+}

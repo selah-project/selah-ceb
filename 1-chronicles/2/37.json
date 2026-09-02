@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Zabad natawo ⟨את⟩ si Efral, ug si Efral natawo ⟨את⟩ si Oved.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Ug si Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Efral"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "si Efral"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ug si Efral"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Oved"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "si Oved"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:31.306445322Z",
+  "model": "glm-5.3"
+}

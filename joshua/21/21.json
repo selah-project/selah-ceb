@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Gihatag nila ⟨את⟩ ang dakbayan sa kasilag-an alang sa mamatay-tao, ⟨ang⟩ Shekhem ug ⟨את⟩ ang iyang mga migrah sa bukid sa Efrayim, ug ⟨את⟩ Gezer ug ⟨את⟩ ang iyang mga migrah.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbayan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "kasilag-an"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sa mamatay-tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "iyang mga migrah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:13.948299595Z",
+  "model": "glm-5.3"
+}

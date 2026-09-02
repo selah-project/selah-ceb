@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "⟨Mga⟩ mata ni Yahweh ⟨nga nanan-aw⟩ ngadto sa mga matarong, ug ang iyang mga dalunggan ngadto sa ilang pagpanawag-abli.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ug ang iyang mga dalunggan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ilang pagpanawag-abli"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:28.174376017Z",
+  "model": "glm-5.3"
+}

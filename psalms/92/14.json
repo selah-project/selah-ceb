@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "GitAnom ⟨silang⟩ nahimutang sa balay ni Yahweh, sa mga nataranan sa atong Elohim mamumukadkung ⟨sila⟩.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "nahimutang"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga nataranan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "sa atong Elohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "mamumukadkung"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:05.005643472Z",
+  "model": "glm-5.3"
+}

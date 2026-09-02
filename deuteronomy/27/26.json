@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Tunglo ang dili magpatindog ⟨את⟩ sa mga pulong ⟨sa⟩ Torah kini aron buhaton ⟨את⟩ ⟨kini⟩; ug moingon ang tibook nga katawhan: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tunglo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "magpatindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "⟨sa⟩ Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aron buhaton"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨kini⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:01.461020839Z",
+  "model": "glm-5.3"
+}

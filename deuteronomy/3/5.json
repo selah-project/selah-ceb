@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang tanan niining mga dakbong kuta ⟨mga⟩ paril nga taas, mga pultahan ug bara — gawas sa mga dakbongan sa mga lungsod nga wala kuta, kadaghanan kaayo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbong kuta"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "paril"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "nga taas"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ug bara"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "gawas sa"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "mga dakbongan sa"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "mga lungsod nga wala kuta"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kadaghanan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:07.259249740Z",
+  "model": "glm-5.3"
+}

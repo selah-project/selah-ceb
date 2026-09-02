@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kini ⟨ang⟩ mga mananap nga mahimo ninyong kan-on: ang baka, ang nating karnero sa mga karnero, ug ang nating kambing sa mga kambing.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang mga mananap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mahimo ninyong kan-on"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ang nating"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "sa mga karnero"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ug ang nating"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sa mga kambing"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:24.156871953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ang espiritu ni El ang naghimo ⟨kanako⟩, ug ang gininhawa ni Shadday nagabuhi ⟨kanako⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ang espiritu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "ang naghimo kanako"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "ug ang gininhawa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ni Shadday"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "nagabuhi kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:14.868427588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug sa inyong pag-ani ⟨את⟩ sa ani sa inyong yuta, ayaw nimo tukron ang kinatumyan sa imong uma sa imong pag-ani, ug ang natagak sa imong ani ayaw nimo tigtison; alang sa kabos ug alang sa langyaw bisita biya-i nimo kini ⟨את⟩ sila; ako si Yahweh ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "ug sa inyong pag-ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "sa inyong yuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "tukron"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kinatumyan"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sa imong uma"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "sa imong pag-ani"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ug ang natagak"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sa imong ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "tigtison"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "alang sa kabos"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ug alang sa langyaw bisita"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "biya-i nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "kini (ang kinatumyan ug ang natagak)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:16.789300427Z",
+  "model": "glm-5.3"
+}

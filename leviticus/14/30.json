@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug magabut siya ⟨את⟩ ⟨sa⟩ usa ka turtledove o gikan sa mga anak sa salampati, sumala sa makab-ot sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ug magabut siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usa ka turtledove o anak sa salampati"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "mga turtledove"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "sa salampati"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "makab-ot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:29.494408008Z",
+  "model": "glm-5.3"
+}

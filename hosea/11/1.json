@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay bata pa si Yisrael, ug gihigugma ko siya, ug gikan sa Mitsrayim gitawag ko ang akong anak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נער",
+      "gloss": "bata pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ug gihigugma ko siya"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ug gikan sa Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gitawag ko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ang akong anak"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:00.630380854Z",
+  "model": "glm-5.3"
+}

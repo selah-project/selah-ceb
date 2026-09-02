@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Pagpanalangin kamo kang Yahweh, mga mensahero niya, kusgan nga mga manlilintawag sa gahum, mga manan-aw sa iyang pulong, sa pagpatalinghog sa tingog sa iyang pulong.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Pagpanalangin kamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mga mensahero niya"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "mga manlilintawag"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa gahum"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mga manan-aw"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa iyang pulong"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpatalinghog"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sa iyang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:04.044470960Z",
+  "model": "glm-5.3"
+}

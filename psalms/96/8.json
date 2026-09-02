@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Ihatag ngadto kang Yahweh ang kadungganan sa iyang ngalan; magdala ug mga halad ug umaulod sa iyang mga nataran.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kadungganan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sa iyang ngalan"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ug mga halad"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ug umaulod"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "sa iyang mga nataran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:04.863924246Z",
+  "model": "glm-5.3"
+}

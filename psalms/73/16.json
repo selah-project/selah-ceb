@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Ug ako naghuna-huna sa pagkahibalo niini — kini usa ka kapoyon nga trabaho ⟨sa⟩ ⟨akong⟩ mga mata.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ug ako naghuna-huna"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pagkahibalo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "usa ka kapoyon nga trabaho"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa akong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.768490994Z",
+  "model": "glm-5.3"
+}

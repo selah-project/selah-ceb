@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ang mga anak ni Yoshiyahu: ⟨ang》 primiro⟩ si Yohanan, ⟨ang》 ikaduha⟩ si Yehoyakim, ⟨ang》 ikatulo⟩ si Tsidkiyahu, ⟨ang》 ikaupat⟩ si Shallum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨ang》 primero⟩"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "si Yohanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨ang》 ikaduha⟩"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "si Yehoyakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "⟨ang》 ikatulo⟩"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "si Tsidkiyahu"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "⟨ang》 ikaupat⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "si Shallum"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:16.392963431Z",
+  "model": "glm-5.3"
+}

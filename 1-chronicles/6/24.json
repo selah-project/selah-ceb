@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang iyang igsoon nga si Asaf, nga nagtindog sa iyang too — si Asaf anak ni Berekya, anak ni Shimea",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "Ug ang iyang igsoon"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iyang too"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berekya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:02.607152879Z",
+  "model": "glm-5.3"
+}

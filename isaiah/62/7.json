@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "ug ayaw ninyo paghatag ug kahilum KANIYA, hangtod nga siya magatukod, ug hangtod nga siya magabutang ⟨את⟩ kang Yerushalayim nga mga pagdayeg sa yuta.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninyo paghatag"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kahilum"
+    },
+    {
+      "surface": "לו",
+      "gloss": "KANIYA"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "magatukod siya"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod nga"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "magabutang siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "mga pagdayeg"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:16.078654401Z",
+  "model": "glm-5.3"
+}

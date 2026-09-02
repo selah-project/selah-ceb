@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kheshbon uban ⟨את⟩ mga kapatagan niini, ⟨את⟩ Yaazer uban ⟨את⟩ mga kapatagan niini — ang tanan nga mga dakbayan upat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Kheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩",
+      "marks": "mga kapatagan niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩",
+      "marks": "mga kapatagan niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga kapatagan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:25.258664967Z",
+  "model": "glm-5.3"
+}

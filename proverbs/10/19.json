@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Sa kadaghan sa mga pulong dili mohunong ang pashá, ug ang nagatago ⟨sa⟩ iyang mga ngabil maalam.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "sa kadaghan sa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "mohunong"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "pashá (paglapas)"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ug ang nagatago sa"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "iyang mga ngabil"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maalam"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:44.899493306Z",
+  "model": "glm-5.3"
+}

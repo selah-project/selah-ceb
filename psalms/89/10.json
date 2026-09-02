@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ikaw ang nagahari sa kahasod sa dagat; sa pagbanhaw sa mga balud niini, ikaw ang nagapahunong ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ang nagahari"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "sa kahasod"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "sa pagbanhaw"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "sa mga balud niini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "ang nagapahunong ⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:04.696815609Z",
+  "model": "glm-5.3"
+}

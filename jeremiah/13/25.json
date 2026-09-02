@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Kini ang imong kapalaran, ang bahin nga gisukod kanimo gikan ⟨את⟩ kanako, giingon ni Yahweh, tungod kay nakalimot ka ⟨את⟩ kanako ug nagpasalig ka sa bakak.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "ang imong kapalaran"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ang bahin"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "nga gisukod kanimo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "gikan ⟨את⟩ kanako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "nakalimot ka"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ug nagpasalig ka"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T21:18:43.026678775Z",
+  "model": "glm-5.3"
+}

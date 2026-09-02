@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sa Gat ayaw isulti; ayaw paghilak; sa Bet-le-Afra sa abug ako nagligid.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "sa Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "hilaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "paghilak"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abug"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ako nagligid"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:27.422138397Z",
+  "model": "glm-5.3"
+}

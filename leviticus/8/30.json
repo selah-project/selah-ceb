@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gikuha ni Moshe sa lana sa pagdihog ug sa dugo nga ⟨naa⟩ sa halaran, ug gibisbison ⟨niini⟩ si Aharon, ang iyang mga bisti, ang iyang mga anak, ug ang mga bisti sa iyang mga anak uban kaniya ⟨את⟩; ug gipagahin niya ⟨את⟩ si Aharon ⟨את⟩ ang iyang mga bisti, ⟨את⟩ ang iyang mga anak, ug ⟨את⟩ ang mga bisti sa iyang mga anak uban kaniya ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gikuha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "ug gibisbison"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iyang mga bisti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bisti sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban kaniya"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ug gipagahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga bisti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ang iyang mga bisti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bisti"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:39.538908950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Dili ba ikaw ang mobalik ug pagabuhion kami, aron ang imong katawhan magmalipayon kanimo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ang mobalik"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "pagabuhion kami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "aron ang imong katawhan"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:45.669266096Z",
+  "model": "glm-5.3"
+}

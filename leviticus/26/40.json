@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug moangkon sila sa ⟨את⟩ ilang kasal-anan ug ⟨את⟩ sa kasal-anan sa ilang mga amahan, sa ilang pagpahilos diin nagpahilos sila kanako, ug usab sa ila nga naglakaw kauban ako sa pagbatok-batok.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "Ug moangkon sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang kasal-anan"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ilang kasal-anan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa kasal-anan sa ilang mga amahan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasal-anan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "sa ilang pagpahilos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "nagpahilos sila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa ila nga"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kauban ako"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "sa pagbatok-batok"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:15.833716091Z",
+  "model": "glm-5.3"
+}

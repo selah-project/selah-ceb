@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Yahweh, Elohim sa mga panon, kinsa ang sama kanimo? Kusgan nga Yah, ⟨ug⟩ ang imong pagkamatinud-anon ⟨naglibut⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "mga panon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang sama kanimo"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "Kusgan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ug ang imong pagkamatinud-anon"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "⟨naglibut⟩ kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:04.696405607Z",
+  "model": "glm-5.3"
+}

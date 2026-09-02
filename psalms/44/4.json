@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Kay dili pinaagi sa ilang espada nga napanunod nila ang yuta, ug dili ang ilang bukton ang nagluwas kanila; kondili ang imong too nga kamot, ug ang imong bukton, ug ang kahayag sa imong nawong — kay ikaw ang nagpahamtong kanila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "pinaagi sa ilang espada"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "nga napanunod nila"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "ug ang ilang bukton"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "ang nagluwas"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili… kay"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang imong too nga kamot"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "ug ang imong bukton"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ug ang kahayag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong nawong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "ikaw ang nagpahamtong kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:36.993676746Z",
+  "model": "glm-5.3"
+}

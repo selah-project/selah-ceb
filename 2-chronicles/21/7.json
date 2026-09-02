@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": " apan wala mosugot si Yahweh nga laglagon ang ⟨את⟩ balay ni David, alang sa tipan nga iyang gikaptan uban kang David, ug sumama sa iyang gisulti nga iyang hatag ngadto kaniya ug sa iyang mga anak ug kaligoanan — tanan nga adlaw.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mosugot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "nga laglagon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balay ni David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "tipan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gikaptan"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "uban kang David"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "ug sumama sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "nga hatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "sugà ug kaligoanan"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ug sa iyang mga anak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:19.320161185Z",
+  "model": "glm-5.3"
+}

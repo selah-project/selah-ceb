@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug tan-awon sa kohen, ug ania karon, naglapad na ang mispachat sa panit, ug ipahayag nga dili hinlo siya sa kohen — tsaraat kini.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "naglapad na"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "ang mispachat"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "sa panit"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ug ipahayag nga dili hinlo siya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa kohen"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:10.362075782Z",
+  "model": "glm-5.3"
+}

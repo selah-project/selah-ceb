@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Kay dili sa akong pana ako nagasalig, ug ang akong pinuti dili makaluwas kanako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "sa akong pana"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ako nagasalig"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ug ang akong pinuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "makaluwas kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:22.370467182Z",
+  "model": "glm-5.3"
+}

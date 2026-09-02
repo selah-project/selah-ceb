@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Usab, kon maghigda ang duha, init alang kanila; apan sa usa lamang — unsaon pag-init?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Usab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "init"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "apan sa usa lamang"
+    },
+    {
+      "surface": "איך",
+      "gloss": "unsaon"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "pag-init"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.099808274Z",
+  "model": "glm-5.3"
+}

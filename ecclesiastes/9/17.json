@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang mga pulong sa mga maalamon paminawon sa kahilum, labaw sa singgit sa magbubuhat ⟨⟨sa tawo⟩⟩ nga nagadumala sa taliwala sa mga buang.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalamon"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "sa kahilum"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "paminawon"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "labaw sa singgit"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "sa nagadumala"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "sa taliwala sa mga buang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:09.475044307Z",
+  "model": "glm-5.3"
+}

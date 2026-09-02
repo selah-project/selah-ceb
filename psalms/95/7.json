@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Kay siya ang atong Elohim, ug kita ang katawhan sa iyang sabsaban, ug ang karnero sa iyang kamot. Karon, kung makadungog kamo sa iyang tingog —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ug kita"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "sa iyang sabsaban"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ug ang karnero"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Karon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "sa iyang tingog"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "makadungog kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:28.320448795Z",
+  "model": "glm-5.3"
+}

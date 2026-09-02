@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Tan-awa ang akong kabalakyutan ug luwasa ako, kay ang imong Torah wala ako makalimtan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ang akong kabalakyutan"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ug luwasa ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ang imong Torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ako makalimtan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:54.350533799Z",
+  "model": "glm-5.3"
+}

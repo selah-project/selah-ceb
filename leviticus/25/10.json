@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ipagbalaan ninyo ⟨את⟩ ang kalim-an nga tuig, ug magpanawag kamo ug deror (kagawas) sa yuta ngadto sa tanang nagpuyo niini; yovel kini mahimo ⟨alang⟩ kaninyo, ug mobalik kamo, matag tawo ngadto sa iyang panag-iya, ug matag tawo mobalik ngadto sa iyang banay.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "ipagbalaan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kalim-an nga tuig"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "ang kalim-an"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "magpanawag kamo"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "deror (kagawas)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngadto sa tanang"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "nagpuyo niini"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "ug mobalik kamo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "iyang panag-iya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug matag tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "iyang banay"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "mobalik"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:29.214608120Z",
+  "model": "glm-5.3"
+}

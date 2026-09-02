@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ug tukion ko sa sungkod ang ilang pagpakigbisog, ug sa mga hampak ang ilang sala.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "ug tukion ko"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "sa sungkod"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ang ilang pagpakigbisog"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "ug sa mga hampak"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ang ilang sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.996758841Z",
+  "model": "glm-5.3"
+}

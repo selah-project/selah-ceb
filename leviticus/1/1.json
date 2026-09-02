@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gingtawag ni Yahweh si Moshe, ug nagsulti siya kaniya gikan sa tolda sa pagtagbo, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gingtawag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "gikan sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:58.686454371Z",
+  "model": "glm-5.3"
+}

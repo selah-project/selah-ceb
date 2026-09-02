@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Apan ang unod uban sa iyang nefesh — ang iyang dugo — dili ninyo kan-on.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "uban sa iyang nefesh"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ang iyang dugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ninyo kan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:51.333144505Z",
+  "model": "glm-5.3"
+}

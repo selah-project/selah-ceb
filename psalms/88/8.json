@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Nagbugkos kanako ang imong kaligutgut, ug sa tanan nimong mga balud gipakyaw mo ⟨את⟩ ako. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "nagbugkos \/ nagpahigda"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "imong kaligutgut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "nimong mga balud"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "gipakyaw mo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:03.323585235Z",
+  "model": "glm-5.3"
+}

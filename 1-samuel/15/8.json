@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug gidakop niya ⟨את⟩ si Agag, hari sa Amalek, nga buhi, ug ⟨את⟩ ang tibuok nga katawhan gipahinongdan niya sa paglaglag sa ngaba sa espada.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "gidakop niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "si Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "sa Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "gipahinongdan sa paglaglag"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa ngaba"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:25.024658659Z",
+  "model": "glm-5.3"
+}

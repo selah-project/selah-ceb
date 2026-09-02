@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pakan-a ako, Yahweh, sa dalan sa ⟨mga⟩ imong mga chiq, ug atipanon ko kini hangtod sa kataposan.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Pakan-a ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga chiq"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "ug atipanon ko kini"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hangtod sa kataposan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.335405697Z",
+  "model": "glm-5.3"
+}

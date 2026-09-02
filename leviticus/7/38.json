@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 7:38",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "nga gisugo ni Yahweh ⟨kang⟩ Moshe sa bukid sa Sinai, sa adlaw nga iyang pagsugo ⟨את⟩ sa mga anak ni Yisrael sa paghalad ⟨את⟩ sa ilang mga korban ngadto kang Yahweh, sa kamingawan sa Sinai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צותו",
+      "gloss": "nga iyang pagsugo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "sa paghalad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga korban nila"
+    },
+    {
+      "surface": "קרבניהם",
+      "gloss": "sa ilang mga korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-01T19:21:59.032114148Z",
+  "model": "glm-5.3"
+}

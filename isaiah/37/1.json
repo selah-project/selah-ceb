@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Nahitabo, sa pagdungog ni Haring Khizkiyahu, iyang gitaphaw ⟨את⟩ ang iyang mga bisti, ug nagtabon siya ug sako, ug misulod siya sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sa pagdungog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "si Haring"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "gitaphaw niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga bisti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ang iyang mga bisti"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "nagtabon siya"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ug sako"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "misulod siya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:51.658642301Z",
+  "model": "glm-5.3"
+}

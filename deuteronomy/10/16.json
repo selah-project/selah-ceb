@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Busa italip ug kamo ⟨את⟩ ang panit sa inyong mga kasingkasing, ug ang inyong mga liog ayaw na ninyo pagpatig-a pa.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "italip ug kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panit sa inyong mga kasingkasing"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "panit"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sa inyong mga kasingkasing"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ug ang inyong mga liog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "pagpatig-a"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:54.640374480Z",
+  "model": "glm-5.3"
+}

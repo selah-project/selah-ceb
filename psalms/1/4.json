@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Dili ingon niana ang mga dautan, kondi ingon sa uhai nga gipadpad sa hangin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨kundi⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨kundi⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ingon sa uhai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "gipadpad"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hangin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:58.581361908Z",
+  "model": "glm-5.3"
+}

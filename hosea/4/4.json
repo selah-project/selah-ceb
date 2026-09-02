@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Bisan pa, ang tawo ayaw pagpakiglalis, ug ayaw pagtamod sa tawo, kay ang imong katawhan ⟨sama⟩ sa mga nagapakiglalis sa pari.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Bisan pa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "pagpakiglalis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "pagtamod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ang imong katawhan"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "sa mga nagapakiglalis"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sa pari"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:54.262221794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nagabubo siya ⟨sa⟩ yelo ingon nga mga pidaso ⟨sa⟩ tinapay; atbang sa iyang tugnaw — kinsa ang makatindog?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "nagabubo siya"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "iyang yelo"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "mga pidaso ⟨sa⟩ tinapay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "iyang tugnaw"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ang makatindog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.478236631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Kay ikaw ang akong paglaom, Adonay Yahweh, ang akong pagsalig sukad pa sa akong pagkabatan-on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ang akong paglaom"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ang akong pagsalig"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sukad pa sa akong pagkabatan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:13.316973713Z",
+  "model": "glm-5.3"
+}

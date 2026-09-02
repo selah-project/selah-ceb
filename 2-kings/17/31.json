@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug ang mga Avvi naghimo ⟨את⟩ ni Nibkhaz ug ⟨את⟩ ni Tartak, ug ang mga Sefarvi nagsunog ⟨את⟩ sa ilang mga anak sa kalayo alang kang Adrammelekh ug Anammelekh, mga dijos sa Sefarvayim.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ug ang mga Avvi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "Nibkhaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Tartak"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "Tartak"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "ug ang mga Sefarvi"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "nagsunog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga anak"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "sa ilang mga anak"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "alang kang Adrammelekh"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "ug Anammelekh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mga dijos"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "sa Sefarvayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:05.116685945Z",
+  "model": "glm-5.3"
+}

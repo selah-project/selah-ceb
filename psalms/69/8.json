@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Kay tungod kanimo giduso nako ang pakigdaot; gisulop sa kaulawan ang akong nawong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "tungod kanimo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "giduso nako"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ang pakigdaot"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "gisulop"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "sa kaulawan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akong nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:18.677559291Z",
+  "model": "glm-5.3"
+}

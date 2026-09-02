@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Bantayi ang matinud-anon, ug tan-awa ang matarong, kay ang kataposan sa tawo ⟨maoy⟩ kalinaw.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Bantayi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ang matinud-anon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang kataposan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kalinaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:42.040063215Z",
+  "model": "glm-5.3"
+}

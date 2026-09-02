@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ayaw pagpaihaw kanako ug sulog sa mga tubig, ug ayaw pagtulon kanako sa kalaluman, ug ayaw pagpondo sa ibabaw kanako sa atbang sa baba sa atabay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "pagpaihaw kanako ug sulog"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "sulog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "pagtulon kanako"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "sa kalaluman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "pagpondo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw kanako"
+    },
+    {
+      "surface": "באר",
+      "gloss": "atabay"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sa baba niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:17.336450687Z",
+  "model": "glm-5.3"
+}

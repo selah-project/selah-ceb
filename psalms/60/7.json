@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Aron maluwas ang imong mga hinigugma; luwasa uban sa imong kamot nga too, ug tubga kami.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "imong mga hinigugma"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "luwasa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong kamot nga too"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "ug tubga kami"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:10.214772777Z",
+  "model": "glm-5.3"
+}

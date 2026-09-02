@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagtindog siya ug mga halaran sa balay ni Yahweh, diin giingon ni Yahweh: Sa Yerushalayim akong ibutang ⟨את⟩ ang akong ngalan.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "Ug nagtindog siya"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mga halaran"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Sa Yerushalayim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "akong ibutang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong ngalan"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ang akong ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:07.196411198Z",
+  "model": "glm-5.3"
+}

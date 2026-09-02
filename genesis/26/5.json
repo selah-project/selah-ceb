@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Tungod kay nagtuman si Avraham sa akong tingog, ug nagbantay siya sa akong pagbantayon, sa akong mga mando, sa akong mga balaod, ug sa akong mga torah ⟨(kasugoan)⟩.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagtuman sa tingog"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "sa akong tingog"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ug nagbantay"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "sa akong pagbantayon"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "sa akong mga mando"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "sa akong mga balaod"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ug sa akong mga torah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:56.170521413Z",
+  "model": "glm-5.3"
+}

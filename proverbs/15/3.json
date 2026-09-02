@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Sa tanan nga dapit ⟨adunay⟩ ang mga mata ni Yahweh, nga nagatan-aw sa mga daotan ug sa mga maayohan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "nagatan-aw"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "ug mga maayohan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:35.158757365Z",
+  "model": "glm-5.3"
+}

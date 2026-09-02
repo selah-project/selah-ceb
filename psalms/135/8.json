@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Naghampak siya sa mga panganay sa Mitsrayim, gikan sa tawo hangtod sa mananap.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "naghampak"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "sa mga panganay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "gikan sa tawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sa mananap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:23.154363377Z",
+  "model": "glm-5.3"
+}

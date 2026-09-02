@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug buhaton nila ⟨את⟩ ang eifod: bulawan, bughaw, ug purpura, sinulid nga eskarlata, ug hinabalhog nga lino — buhat sa hanas nga magbubuhat ⟨burdador⟩.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "ug buhaton nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang eifod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ang eifod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "bughaw"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ug purpura"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sa ugang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "eskarlata"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug lino nga fino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "hinabalhog"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hanas nga magbubuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:10.074604115Z",
+  "model": "glm-5.3"
+}

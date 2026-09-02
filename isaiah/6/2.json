@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ang mga Serafim nagbarug sa ibabaw kaniya; unom ka pako ang matag usa — unom ka pako ang matag usa — sa duha gitakpan niya ang iyang nawong, sa duha gitakpan niya ang iyang tiil, ug sa duha siya naglupad.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "mga Serafim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nagbarug"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ka pako"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ka pako"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "gitakpan niya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iyang nawong"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ug sa duha"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "gitakpan niya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ang iyang tiil"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "ug sa duha"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "naglupad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:40.258721004Z",
+  "model": "glm-5.3"
+}

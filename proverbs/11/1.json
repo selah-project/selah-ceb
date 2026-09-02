@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang mga timbangan sa panglimadot kay gaanaw ⟨kang⟩ Yahweh, apan ang hinimlay nga bato-matod iyang kahimuot.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "mga timbangan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "panglimadot"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kayaanaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "apan ang bato-matod"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hinimlay"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "iyang kahimuot"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:03.154278737Z",
+  "model": "glm-5.3"
+}

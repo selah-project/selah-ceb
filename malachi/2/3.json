@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ania ako magbadlong alang kaninyo ⟨sa⟩ ⟨את⟩ ang binhi, ug ikyaw ko ang abô ibabaw sa inyong mga nawong — abô sa inyong mga fiesta — ug kini magdad- ⟨את⟩ kaninyo ngadto kaniya.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ania ako"
+    },
+    {
+      "surface": "גער",
+      "gloss": "magbadlong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang binhi"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ang binhi"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ug ikyaw ko"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "abô"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "inyong mga nawong"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "abô"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "inyong mga fiesta"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ug magdad-"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:34.741557449Z",
+  "model": "glm-5.3"
+}

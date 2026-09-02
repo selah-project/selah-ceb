@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Nangadto sila ug nangalagad sa lain nga mga diyos, ug nanimsim sila sa ilang atubangan — mga diyos nga wala nila mahibaloan, ug nga wala ⟨giapod⟩ kanila;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "nangadto sila"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nangalagad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "lain"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "nanimsim sila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang atubangan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "nila mahibaloan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "giapod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:32.725303817Z",
+  "model": "glm-5.3"
+}

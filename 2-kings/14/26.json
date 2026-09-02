@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Kay nakita ni Yahweh ⟨את⟩ ang kalisud sa Israel — mapait kaayo ug grabe; ug walay ⟨na⟩ gipiusan ug walay gibilin, ug walay manabang alang sa Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalisud"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kalisud"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "mapait"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo ug grabe"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "gipiusan"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "gibilin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "manabang"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "alang sa Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:42.634052925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Gigutom ug giuhaw sila, ang ilang kalag sulod nila naluya.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Gigutom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "giuhaw"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang ilang kalag"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sulod nila"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "naluya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:43.999830030Z",
+  "model": "glm-5.3"
+}

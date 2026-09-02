@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Kay nakahinumdom siya sa ⟨את⟩ iyang balaan nga pulong, ⟨sa⟩ ⟨את⟩ Avraham nga iyang sulugoon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nakahinumdom siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang balaan nga pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "iyang sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:03.172704388Z",
+  "model": "glm-5.3"
+}

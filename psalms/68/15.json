@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Sa pagwaswas ni Shadday sa mga hari didto, nagniebe ⟨sama sa⟩ sa Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "sa pagwaswas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "nagniebe"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "sa Tsalmon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:35.019346759Z",
+  "model": "glm-5.3"
+}

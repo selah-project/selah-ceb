@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug magminyo kamo kanamo ⟨את⟩: ang inyong mga anak nga babaye ihatag ninyo kanamo, ug ⟨את⟩ ang among mga anak nga babaye kuhaon ninyo alang sa inyohang kaugalingon.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "magminyo kamo"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga anak nga babaye"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ang inyong mga anak nga babaye"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang among mga anak nga babaye"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ang among mga anak nga babaye"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaon ninyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang sa inyohang kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:05.552281141Z",
+  "model": "glm-5.3"
+}

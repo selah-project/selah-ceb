@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug adunay gubat tali kang Rehavoam ug kang Yarovoam tanan ⟨nga⟩ adlaw.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ug gubat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tali kang"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavoam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovoam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:10.344849306Z",
+  "model": "glm-5.3"
+}

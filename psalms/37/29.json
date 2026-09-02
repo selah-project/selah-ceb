@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ang mga matarong managmayoriya sa yuta ug managpuyo sa walay katapusan ⟨kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "managmayoriya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "ug managpuyo"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨kaniya⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:30.051506110Z",
+  "model": "glm-5.3"
+}

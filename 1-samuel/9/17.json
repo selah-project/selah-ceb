@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug nakita ni Shemuel ⟨את⟩ si Shaul, ug si Yahweh mitubag kaniya: Ania kini ang tawo nga akong gisulti kanimo; kini ang magadumala sa akong katawhan.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ug si Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "mitubag kaniya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania kini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "akong gisulti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ang magadumala"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "sa akong katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:27.949560963Z",
+  "model": "glm-5.3"
+}

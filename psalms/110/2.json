@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Ang sungkod sa imong kusog ipadala ni Yahweh gikan sa Tsiyon: pagdumala ka sa taliwala sa imong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "sungkod"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "imong kusog"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ipadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "pagdumala"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "imong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:27.609313045Z",
+  "model": "glm-5.3"
+}

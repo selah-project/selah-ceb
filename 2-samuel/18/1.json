@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gisusi ni David ⟨את⟩ ⟨ang⟩ katawhan nga ⟨את⟩ ⟨naa⟩ uban kaniya, ug gibutang niya sila sa ilang ibabaw mga kapitan sa minilyon ug mga kapitan sa gatos.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "gisusi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naa⟩ uban kaniya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ilang ibabaw"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "minilyon"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ug mga kapitan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:33:09.675208940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Apan ang Elohim magabukod sa akong kalag gikan sa kamot sa Sheol, kay ⟨siya⟩ modawat kanako. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "magabukod"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "modawat kanako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:28.556199766Z",
+  "model": "glm-5.3"
+}

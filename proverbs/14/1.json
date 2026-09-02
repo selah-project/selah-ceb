@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang babaeng maalam magtukod ⟨את⟩ sa iyang balay, apan ang boba sa iyang mga kamot maglaglag niini.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "babae"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "magtukod"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "sa iyang balay"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "apan ang boba"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "maglaglag niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:46.062406220Z",
+  "model": "glm-5.3"
+}

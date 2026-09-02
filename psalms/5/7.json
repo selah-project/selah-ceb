@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Pagalagson nimo ang mga nagsulti ug bakak; ang tawo sa mga dugo ug sa pangilad gikalay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "pagalagson nimo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga nagsulti"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ug bakak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "sa mga dugo"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ug sa pangilad"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "gikalay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:59.076541814Z",
+  "model": "glm-5.3"
+}

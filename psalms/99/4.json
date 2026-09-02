@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Ug ang kusog sa hari — sa hustisya ⟨siya⟩ nagahigugma; ⟨ikaw⟩ nagtukod sa katul-id; hustisya ug pagkamatarong sa Yakob ⟨ikaw ang⟩ nagbuhat.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Ug ang kusog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa hustisya"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "⟨siya⟩ nagahigugma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sa katul-id"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ug pagkamatarong"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "sa Yakob"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw ang⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nagbuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:09.876047012Z",
+  "model": "glm-5.3"
+}

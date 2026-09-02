@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Yerushalayim, ⟨ang⟩ gitukod ⟨ingon⟩ usa ka dakbayan nga hiusa alang kaniya, nagkahiusa.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "gitukod"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "ingon usa ka dakbayan"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "hiusa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "יידו",
+      "gloss": "nagkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:03.562317050Z",
+  "model": "glm-5.3"
+}

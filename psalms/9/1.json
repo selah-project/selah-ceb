@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Sa magdumala ⟨sa musika⟩, sumala sa Almuth Laben, usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdumala ⟨sa musika⟩"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sumala sa Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-02T01:07:08.108591620Z",
+  "model": "glm-5.3"
+}

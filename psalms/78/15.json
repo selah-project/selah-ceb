@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gibahin niya ang mga bato sa kamingawan, ug gipainum sila ingon sa kadagatan nga daghan.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "gibahin"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ang mga bato"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ug gipainum"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "ingon sa kadagatan"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "nga daghan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:03.847270449Z",
+  "model": "glm-5.3"
+}

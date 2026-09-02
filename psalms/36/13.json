@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Didto nahulog ang ⟨mga⟩ maningkamot sa kadaot; gipadayag sila ⟨ug pagkahugno⟩ ug wala na makabangon.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Didto"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nahulog"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "maningkamot"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "gipadayag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala na"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "maka-"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:04.575196084Z",
+  "model": "glm-5.3"
+}

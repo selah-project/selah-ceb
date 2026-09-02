@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Ug sa pagkahapon mobalik sila, magahuad sila sama sa iro, ug magtuyok-tuyok sila sa palibot sa dakbayan.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ug mobalik sila"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sa pagkahapon"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "magahuad sila"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sama sa iro"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ug magtuyok-tuyok sila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "sa palibot sa dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:09.052727496Z",
+  "model": "glm-5.3"
+}

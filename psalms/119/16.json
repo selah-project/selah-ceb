@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa imong mga balaod makapahimuot ako, dili ko kalimtan ang imong pulong.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "sa imong mga balaod"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "makapahimuot ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ko kalimtan"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:24.880017180Z",
+  "model": "glm-5.3"
+}

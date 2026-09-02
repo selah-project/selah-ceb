@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "si Elam ang ikalima, si Yehohanan ang ikan-unom, si Elyehoenai ang ikapito.",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "si Elam"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ang ikalima"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "si Yehohanan"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ang ikan-unom"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "si Elyehoenai"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ang ikapito"
+    }
+  ],
+  "timestamp": "2026-09-01T23:18:04.241536678Z",
+  "model": "glm-5.3"
+}

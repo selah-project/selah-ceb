@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Usab, gipaubos nimo ang hasa sa iyang espada, ug wala nimo siya patindogon sa gubat.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Usab"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "gipaubos nimo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang hasa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sa iyang espada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala nimo"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "siya patindogon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.997389401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Gipalapad ang mga kagutum sa akong kasingkasing; gikan sa akong mga kalisod paggawata ako.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "mga kagutum"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "nipalapad"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "gikan sa akong mga kalisod"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "paggawata ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:05.279275253Z",
+  "model": "glm-5.3"
+}

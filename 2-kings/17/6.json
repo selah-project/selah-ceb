@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Sa ika-siyam nga tuig ni Hoshea, gigakpot sa hari sa Ashur ⟨את⟩ ang Shomron, ug gipahibalo niya ⟨את⟩ ang Israel ngadto sa Ashur, ug gipapuyo niya ⟨את⟩ sila sa Khalakh, ug sa Khavor, suba sa Gozan, ug sa mga dakbayan sa mga Midi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sa ... tuig"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ika-siyam"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ni Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "gigakpot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Shomron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ang Shomron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ug gipahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ngadto sa Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug gipapuyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "sa Khalakh"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "ug sa Khavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "sa Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "ug sa mga dakbayan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sa mga Midi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:02.412916933Z",
+  "model": "glm-5.3"
+}

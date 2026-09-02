@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kon magpahulam ka sa imong isigkatawo ug bisan unsang hulam, ayaw pag-sulod sa iyang balay sa pagkuha sa iyang prenda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "magpahulam ka"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "sa imong isigkatawo"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "hulam"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "bisan unsang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "pag-sulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "sa pagkuha"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "sa iyang prenda"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:44.563993816Z",
+  "model": "glm-5.3"
+}

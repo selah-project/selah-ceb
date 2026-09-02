@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miabot ang pulong ni Yahweh kang Yonah, anak ni Amitay, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug miabot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ni Amitay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:38.936979195Z",
+  "model": "glm-5.3"
+}

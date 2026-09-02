@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Apan si Elohim ⟨ang⟩ akong hari gikan sa sinugdanan, nagabuhat sa mga kaluwasan sa taliwala sa ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Apan si Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akong hari"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "gikan sa sinugdanan"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "sa mga kaluwasan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa ⟨ang⟩ yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:25.777047387Z",
+  "model": "glm-5.3"
+}

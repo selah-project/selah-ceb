@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Usa ka mizmor, usa ka awit, alang sa adlaw sa Shabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "alang sa adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa Shabbat"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:29.436867775Z",
+  "model": "glm-5.3"
+}

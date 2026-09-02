@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Dayon gipapauli ni Yehoshua ⟨את⟩ ang katawhan, matag usa ngadto sa iyang manununod nga bahin.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipapauli"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ngadto sa iyang manununod nga bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:23.353774641Z",
+  "model": "glm-5.3"
+}

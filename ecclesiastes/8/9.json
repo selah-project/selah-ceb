@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "⟨את⟩ ang tanan niini nakita nako, ug gihatag nako ⟨את⟩ ang akong kasingkasing sa tanang buhat nga gibuhat ubos sa adlaw: panahon nga nagdominar ang tawo sa tawo nga makadaot kaniya.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita nako"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "ug gihatag nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kasingkasing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "nagdominar"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "nga makadaot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:48.672938918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Sa wala pa ⟨niya⟩ buhata ⟨ang⟩ yuta ug ⟨ang⟩ mga nawong ⟨sa kalibotan⟩, ug ⟨ang⟩ ibabaw sa abog sa kalibotan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "ug ang mga nawong ⟨sa kalibotan⟩"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ug ang ibabaw"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "sa abog"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa kalibotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:34.043629088Z",
+  "model": "glm-5.3"
+}

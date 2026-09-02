@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Ako magapahibalo sa imong pagkamatarong, ug ⟨את⟩ sa imong mga buhat, ug dili kini makatabang kanimo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "magapahibalo"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "sa imong pagkamatarong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong mga buhat"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sa imong mga buhat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "makatabang kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:44.653652897Z",
+  "model": "glm-5.3"
+}

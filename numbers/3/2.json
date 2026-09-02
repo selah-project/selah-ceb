@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug kini ang mga ngalan sa mga anak ni Aharon: ang panganay nga si Nadav, ug Avihud, Elazar, ug Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini ang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ang panganay"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "si Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ug Avihud"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ug Itamar"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:03.871601412Z",
+  "model": "glm-5.3"
+}

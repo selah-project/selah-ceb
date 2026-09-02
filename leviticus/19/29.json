@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ayaw paghugaw ⟨את⟩ sa imong anak nga babaye aron sa pagpalaino kaniya, aron dili makighinigugma ang yuta ug mapuno ang yuta sa daotang plano.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "paghugaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong anak nga babaye"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "imong anak nga babaye"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "aron sa pagpalaino kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "makighinigugma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ug mapuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "daotang plano"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:01.859519823Z",
+  "model": "glm-5.3"
+}

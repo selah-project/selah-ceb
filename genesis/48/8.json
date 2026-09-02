@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Ug nakita ni Yisrael ⟨את⟩ ang mga anak ni Yosef, ug miingon: Kinsa kini nga mga ⟨kini⟩?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini nga mga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:14.152703212Z",
+  "model": "glm-5.3"
+}

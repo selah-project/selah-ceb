@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Gihatag nila ⟨kanila⟩ ⟨את⟩ Kiryat-Arba, nga amahan ni Anak — kini mao ang Khevron — sa kabukiran ni Yehudah, ug ⟨את⟩ ang mga migara niini nga naglibot niini.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan ni"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini mao ang"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga migara niini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mga migara niini"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "naglibot niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:13.818662184Z",
+  "model": "glm-5.3"
+}

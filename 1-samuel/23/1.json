@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Gisugiran si David ⟨את⟩: «Ania karon, ang mga Pelishtiy nakig-away batok sa Qeila, ug mga magpangguhol sila sa mga giingnan sa trigo.»",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "gisugiran"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ang mga Pelishtiy"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "nakig-away"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "batok sa Qeila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "mga magpangguhol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga giingnan sa trigo"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "ang mga giingnan sa trigo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:34.030401003Z",
+  "model": "glm-5.3"
+}

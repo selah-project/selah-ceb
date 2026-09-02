@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Yahweh, Elohim Tsevaot, pagbalika kami; pagpasanag sa imong panagway ug maluwas kami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "pagbalika kami"
+    },
+    {
+      "surface": "האר",
+      "gloss": "pagpasanag"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong panagway"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ug maluwas kami"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:11.200587351Z",
+  "model": "glm-5.3"
+}

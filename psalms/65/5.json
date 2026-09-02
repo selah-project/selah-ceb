@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Malipayon ang tawo nga imong gipilingan ug imong giduol ⟨kanimo⟩, aron magpuyo siya sa imong mga nataran: mabusbog kami sa kaayo sa imong balay, sa balaan nga templo nimo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "imong gipilingan"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ug imong giduol"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "magpuyo siya"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "imong mga nataran"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "mabusbog kami"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa kaayo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sa imong balay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "templo nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:59.993421583Z",
+  "model": "glm-5.3"
+}

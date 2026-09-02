@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Tanang mga dakbayan nga inyong ihatag sa mga Levita — kapatan ug walo ka dakbayan — ⟨את⟩ kini ug ⟨את⟩ ang ilang mga natad.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tanang"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "inyong ihatag"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levita"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan ug"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "walo ka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang mga dakbayan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang mga natad"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ang ilang mga natad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:01.275132723Z",
+  "model": "glm-5.3"
+}

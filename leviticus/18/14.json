@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kahubasan sa igsoon nga lalake sa imong amahan dili nimo ilantad; ngadto sa iyang asawa dili ka magduol; imong igsoon nga babaye sa amahan ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubasan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon nga lalake"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "nimo ilantad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ka magduol"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "imong igsoon nga babaye sa amahan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:34.264630756Z",
+  "model": "glm-5.3"
+}

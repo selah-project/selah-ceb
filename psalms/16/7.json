@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Modayeg ako kang ⟨את⟩ Yahweh nga naghatag kanako ug tambag; bisan sa mga gabii, ang akong mga abaga sa sulod nagatudlo kanako.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Modayeg ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "naghatag kanako ug tambag"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "sa mga gabii"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "nagatudlo kanako"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ang akong mga abaga sa sulod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.201296409Z",
+  "model": "glm-5.3"
+}

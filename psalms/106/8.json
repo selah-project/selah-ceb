@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Apan giluwas sila niya alang sa iyang ngalan, aron ipahibalo ⟨את⟩ ang iyang kusog.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "apan giluwas sila niya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "aron ipahibalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kusog"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "iyang kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.424712045Z",
+  "model": "glm-5.3"
+}

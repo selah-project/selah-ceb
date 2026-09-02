@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang gikahinlanlan sa iyang kasingkasing gihatag mo kaniya, ug ang pangabay sa iyang mga ngabil wala nimo pagbat-i. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ang gikahinlanlan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "gihatag mo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ug ang pangabay"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "sa iyang mga ngabil"
+    },
+    {
+      "surface": "בל",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "nimo pagbat-i"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:32.072683405Z",
+  "model": "glm-5.3"
+}

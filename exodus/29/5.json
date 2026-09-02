@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug kuhaon mo ⟨את⟩ ang mga bisti, ug isul-ob mo kang Aharon ⟨את⟩ ang kutonet, ug ⟨את⟩ ang manto sa eifod, ug ⟨את⟩ ang eifod, ug ⟨את⟩ ang khoshen, ug ihigot mo siya sa hinabol nga higot sa eifod.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ug kuhaon mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bisti"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ug isul-ob mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kutonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ang kutonet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang manto sa eifod"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "manto"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sa eifod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang eifod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ang eifod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang khoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ang khoshen"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "ug ihigot mo siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "sa hinabol nga higot"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "sa eifod"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:42.879724373Z",
+  "model": "glm-5.3"
+}

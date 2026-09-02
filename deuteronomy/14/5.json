@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "ang usa, ug ang gazela, ug ang roe nga usa, ug ang ihalas nga kambing, ug ang dishon, ug ang ihalas nga baka, ug ang zamer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ug ang gazela"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ug ang roe nga usa"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ug ang ihalas nga kambing"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ug ang dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ug ang ihalas nga baka"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ug ang zamer"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:36.221478428Z",
+  "model": "glm-5.3"
+}

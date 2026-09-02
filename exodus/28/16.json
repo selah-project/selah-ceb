@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Kwadrado kini ⟨nga⟩ gitiklo; usa ka dangaw ang gitas-on niini, ug usa ka dangaw ang gilapdon niini.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Kwadrado"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini ⟨nga⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "gitiklo"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "usa ka dangaw"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang gitas-on niini"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ug usa ka dangaw"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang gilapdon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:20.292278654Z",
+  "model": "glm-5.3"
+}

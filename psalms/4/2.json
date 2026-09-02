@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sa akong pagtawag tubga ako, Elohim sa akong pagkamatarong; sa kalisud gipalapad mo ako; kaluy-i ako, ug dungoga ang akong pangadyi.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Sa akong pagtawag"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubga ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "sa akong pagkamatarong"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa kalisud"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "gipalapad mo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaluy-i ako"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ug dungoga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pangadyi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:37.616432674Z",
+  "model": "glm-5.3"
+}

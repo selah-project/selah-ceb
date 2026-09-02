@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Gihimo niya ang mga baras sa kahoy nga shitim ug gibulawan niya ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Gihimo niya"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "mga baras"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ug gibulawan niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga baras)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:53.470046794Z",
+  "model": "glm-5.3"
+}

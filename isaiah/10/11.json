@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Dili ba, sama sa akong gibuhat sa Shomeron ug sa iyang mga inutil nga diyosdios, mao usab kana ang akong buhaton sa Yerushalayim ug sa iyang mga hulad?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sama sa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "akong gibuhat"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "ug sa iyang mga inutil nga diyosdios"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab kana"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "akong buhaton"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "ug sa iyang mga hulad"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:18.759447516Z",
+  "model": "glm-5.3"
+}

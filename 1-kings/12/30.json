@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nahimo kini nga butang ⟨nga⟩ sala; ug ang katawhan nagkadto atubangan sa usa ⟨ka anak nga baka⟩ hangtod sa Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kini nga butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "nga sala"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug nagkadto"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan sa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "sa usa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:45.927602832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Dili alang sa imong mga sakripisyo ako magasaway kanimo; ug ang imong mga sinunog nga halad ⟨mga⟩ kanunay atubang kanako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "imong mga sakripisyo"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ako magasaway kanimo"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ug ang imong mga sinunog nga halad"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "atubang kanako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanunay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:58.268836127Z",
+  "model": "glm-5.3"
+}

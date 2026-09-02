@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Kinsa ang magdala kanako ngadto sa ⟨pinuyusang⟩ dakbayan sa kuta? Kinsa ang magtultol kanako hangtod sa Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "magdala kanako"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "magtultol kanako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:05.287007901Z",
+  "model": "glm-5.3"
+}

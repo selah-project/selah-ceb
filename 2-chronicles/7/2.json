@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang mga saserdote wala makasulod ngadto sa balay ni Yahweh, kay napuno sa himaya ni Yahweh ⟨את⟩ ang balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "makasulod"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:23.210283161Z",
+  "model": "glm-5.3"
+}

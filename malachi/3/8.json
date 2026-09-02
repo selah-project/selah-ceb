@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Magapanikad ba ang tawo sa Elohim? Apan kamo nagapanikad Kanako ⟨את⟩. Apan nagaingon kamo: Sa unsa man kami nakapanikad Kanimo? Sa ikapulo ug sa ihapng handog.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Magapanikad ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Apan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "nagapanikad"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Kanako"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "Apan nagaingon kamo"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Sa unsa man"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "kami nakapanikad Kanimo"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "Sa ikapulo"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "ug sa ihapng handog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:12.224580961Z",
+  "model": "glm-5.3"
+}

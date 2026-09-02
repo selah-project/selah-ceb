@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Akong anak, kon nag-igot ikaw sa imong kauban, nag-butang ikaw sa imong mga palad alang sa langyaw,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Akong anak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "nag-igot ikaw"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "sa imong kauban"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "nag-butang ikaw"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "sa langyaw"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "sa imong mga palad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:38.084166446Z",
+  "model": "glm-5.3"
+}

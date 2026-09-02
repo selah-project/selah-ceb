@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gipadala niya ⟨את⟩ ang mga batan-on nga anak ni Yisrael, ug gipasaka nila ang mga sinunog nga halad ug naghinabla sila ug mga hinabla nga kapin sa kalinaw ⟨kang Yahweh⟩ — mga anak sa baka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga batan-on nga anak ni Yisrael"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ug gipasaka nila"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "mga sinunog nga halad"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ug naghinabla sila"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mga hinabla"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "kapin sa kalinaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mga anak sa baka"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:55.198271883Z",
+  "model": "glm-5.3"
+}

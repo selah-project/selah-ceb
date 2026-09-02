@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ang tawo nga si Moshe mapainubsanon kaayo, labaw pa kay sa bisan hain nga tawo ⟨nga anaa⟩ sa ibabaw sa nawong sa yuta.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "nga si Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "mapainubsanon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "labaw pa kay sa bisan hain"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:37:09.917468074Z",
+  "model": "glm-5.3"
+}

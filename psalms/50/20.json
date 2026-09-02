@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Naglingkod ka nagtabi batok sa imong igsoon, ug sa anak sa imong inahan nagahatag ka ug panudlong nga dautan.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "naglingkod ka"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "sa imong igsoon"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "nagtabi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "sa anak"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sa imong inahan"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nagahatag ka"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "panudlong nga dautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.173516502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug sa paghari ni Achashverosh, sa sinugdanan sa iyang paghari, nagsulat sila ug usa ka pangakusar batok sa mga pumoluyo sa Yehudah ug sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Ug sa paghari ni"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "sa sinugdanan"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sa iyang paghari"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nagsulat sila"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "usa ka pangakusar"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sa mga pumoluyo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ug Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:49.998482442Z",
+  "model": "glm-5.3"
+}

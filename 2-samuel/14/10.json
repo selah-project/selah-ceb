@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug miingon ang hari: Ang nagsulti ⟨ug bisan unsa⟩ kanimo, dalha siya ngari kanako, ug dili na siya magdugang paghikap kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ang nagsulti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "ug dalha siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "paghikap"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:13.303357575Z",
+  "model": "glm-5.3"
+}

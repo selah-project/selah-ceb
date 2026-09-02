@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang bahandi dili makapuslan sa adlaw sa kasuko, ug ang pagkamatarung makaluwas gikan sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "makapuslan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ang bahandi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ug ang pagkamatarung"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "makaluwas"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "gikan sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:37.862016691Z",
+  "model": "glm-5.3"
+}

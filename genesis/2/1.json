@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Natapos na ⟨ang⟩ kalangitan ug ⟨ang⟩ yuta ug ang tanan nilang panon.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "Natapos na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kalangitan"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ug yuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "nilang panon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:35.433815234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Mga anak sa tawo, hangtod kanus-a ang akong himaya ⟨mahimong⟩ pagkadawat-kaulawan? Gugmaon ninyo ang kawalay-sulod, pangitaon ninyo ang bakak. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ang akong himaya"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "pagkadawat-kaulawan"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Gugmaon ninyo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ang kawalay-sulod"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "pangitaon ninyo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ang bakak"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:37.616564476Z",
+  "model": "glm-5.3"
+}

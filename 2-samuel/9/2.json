@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug sa balay ni Shaul adunay usa ka sulogoon nga ginganlang Tsiba; ug gitawag sila kaniya ngadto kang David, ug ang hari miingon kaniya: Ikaw ba ⟨ba⟩ si Tsiba? Ug siya miingon: ⟨Ako⟩ ang imong sulogoon.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ug sa balay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sulogoon"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ug ang iyang ngalan"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "gitawag sila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ikaw ba"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulogoon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:52.970261086Z",
+  "model": "glm-5.3"
+}

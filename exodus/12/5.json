@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang karnero ⟨magiging⟩ himoong putli, lalaki, anak sa usa ka tuig, alang kaninyo; gikan sa ⟨mga⟩ karnero o gikan sa ⟨mga⟩ kambing kuhaon ninyo ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "putli"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨magiging⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ug gikan sa"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "mga kambing"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "kuhaon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:25.605371068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug si Kush natakan si Nimrod ⟨את⟩; siya mao ang nagsugod sa pagkahimong gamhanan didto sa yuta.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ug si Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natakan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "si Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mao ang"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nagsugod"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "sa pagkahimong"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "didto sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:07.034881460Z",
+  "model": "glm-5.3"
+}

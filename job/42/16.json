@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug nag-inguhat si Iyov human niini usa ka gatos ug kap-atan ka tuig, ug nakita niya ⟨את⟩ ang iyang mga anak ug ⟨את⟩ ang mga anak sa iyang mga anak, upat ka kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ug nag-inguhat"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "si Iyov"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human niini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatos"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ug kap-atan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak sa iyang mga anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "upat"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "ka kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:00.375970969Z",
+  "model": "glm-5.3"
+}

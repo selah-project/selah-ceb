@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miabot ako sa pagpahibalo kanimo ⟨את⟩ ⟨sa⟩ mahitabo sa imong katawhan sa ulahi nga mga adlaw, kay panagway pa kini alang sa mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "ug miabot ako"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "sa pagpahibalo kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mahitabo sa imong katawhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨sa⟩ mahitabo"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "sa imong katawhan"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa ulahi nga"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "panagway"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "alang sa mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:19.926879431Z",
+  "model": "glm-5.3"
+}

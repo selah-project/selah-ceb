@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Kinsa ang nakasayod sa kusog sa imong nasuko ⟨panit sa nawong⟩? Ug sumala sa imong pagkahadlok, ⟨mao usab⟩ ang imong kaakig.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakasayod"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sa imong nasuko"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ug sumala sa imong pagkahadlok"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ang imong kaakig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:51.853794732Z",
+  "model": "glm-5.3"
+}

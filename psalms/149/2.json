@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Magakalipay ang Yisrael sa ⟨iyang⟩ Magbubuhat ⟨kaniya⟩; ang mga anak sa Tsiyon magalingo-ayo sa ilang hari.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "magakalipay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "sa Magbubuhat niya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "magalingo-ayo"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "sa ilang hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.863208304Z",
+  "model": "glm-5.3"
+}

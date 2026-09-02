@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gikan sa tribo ni Gad ⟨את⟩ si Ramoth sa Gilead uban ang iyang mga migres, ug ⟨את⟩ si Makhana'im uban ang iyang mga migres.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ug gikan sa tribo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Ramoth sa Gilead"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "si Ramoth"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migres"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga migres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Makhana'im"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "si Makhana'im"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga migres"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga migres"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:59.146185404Z",
+  "model": "glm-5.3"
+}

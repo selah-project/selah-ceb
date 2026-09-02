@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug kuaton sa mga tigulang sa ⟨ang⟩ dakbayana ⟨את⟩ ang tawo, ug sila mosilot ⟨את⟩ kaniya.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Ug kuaton"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ug sila mosilot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:40.929745936Z",
+  "model": "glm-5.3"
+}

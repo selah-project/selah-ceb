@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Sa dagat ang imong dalan, ug ang imong mga agianan sa daghang mga tubig; ug ang imong mga tirok sa tiil dili mailhi.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang imong dalan"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ug ang imong mga agianan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa daghang mga tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ug ang imong mga tirok sa tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "mailhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:56.574187027Z",
+  "model": "glm-5.3"
+}

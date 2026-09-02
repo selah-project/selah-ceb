@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Ang tawo sa kahawud ⟨gipareho⟩; ang iyang mga adlaw ingon sa landong nga moagi.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "sa kahawud"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "gipareho"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iyang mga adlaw"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ingon sa landong"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "nga moagi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:32.992640875Z",
+  "model": "glm-5.3"
+}

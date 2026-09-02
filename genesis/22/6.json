@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug gikuha ni Avraham ⟨את⟩ ang mga kahoy sa halad nga sinunog, ug gibutang kini kang Yitskhak iyang anak; ug gikuha niya sa iyang kamot ⟨את⟩ ang kalayo ug ⟨את⟩ ang kutsilyo; ug milakaw silang duha nga magkahiusa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kahoy sa halad nga sinunog"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa halad nga sinunog"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kalayo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kutsilyo"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ang kutsilyo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "milakaw"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "silang duha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:00.126941785Z",
+  "model": "glm-5.3"
+}

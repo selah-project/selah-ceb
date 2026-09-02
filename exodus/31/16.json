@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": " ug magabantay ang mga anak ni Yisrael ⟨את⟩ sa Shabbat, sa pagbuhat ⟨את⟩ sa Shabbat sa ilang mga kaliwatan — usa ka pakigsaad nga dayon.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "ug magabantay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa Shabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Shabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa Shabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "sa ilang mga kaliwatan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nga dayon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:11.758037880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang iyang mga kadautan makapanakop kaniya ⟨ang⟩ ⟨את⟩ dautan, ug sa mga higot sa iyang sala siya mapahold.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "ang iyang mga kadautan"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "makapanakop kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dautan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ang dautan"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ug sa mga higot"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sa iyang sala"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "mapahold"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:55.741656168Z",
+  "model": "glm-5.3"
+}

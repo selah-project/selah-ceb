@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Gipanalanginan siya ni Yehoshua, ug gihatag niya ⟨את⟩ ang Chebron kang Kalev nga anak ni Yefune ingon nga panag-iya ⟨nga katungdanan sa yuta⟩.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "gipanalanginan siya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ang Chebron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kang Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ni Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ingon nga panag-iya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:43.455131886Z",
+  "model": "glm-5.3"
+}

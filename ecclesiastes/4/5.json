@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang buang nagakupot ⟨את⟩ sa iyang mga kamot ug mokaon ⟨את⟩ sa iyang kaugalingong unod.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ang buang"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "nagakupot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga kamot"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ug mokaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang kaugalingong unod"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sa iyang kaugalingong unod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:25.250287421Z",
+  "model": "glm-5.3"
+}

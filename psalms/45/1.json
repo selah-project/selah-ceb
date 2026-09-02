@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Sa magdumala sa kanta, ibabaw sa ⟨mga⟩ Shoshannim, alang sa mga anak ni Korach, usa ka maskil, usa ka awit sa mga hinigugma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdumala sa kanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "⟨mga⟩ Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "usa ka maskil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "usa ka awit"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "sa mga hinigugma"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:14.446568924Z",
+  "model": "glm-5.3"
+}

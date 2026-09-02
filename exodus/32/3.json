@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gitangtang sa tibuok katawhan ⟨את⟩ ang mga hikaw nga bulawan nga anaa sa ilang mga iguggot, ug gidala ngadto kang Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "gitangtang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga hikaw nga bulawan"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "mga hikaw"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "sa ilang mga iguggot"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "gidala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:44.809631176Z",
+  "model": "glm-5.3"
+}

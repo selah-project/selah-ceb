@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Nga naghabol sila ingon sa sundang sa ilang dila, nag-andam sila sa ilang palaso — usa ka mapait nga pulong.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "naghabol sila"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ingon sa sundang"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "sa ilang dila"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nag-andam sila"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "sa ilang palaso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "usa ka pulong"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mapait"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:39.917112516Z",
+  "model": "glm-5.3"
+}

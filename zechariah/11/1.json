@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Pag-abli, Lebanon, sa imong mga pultahan, ug mokaon ang kalayo sa imong mga sedro.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Pag-abli"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "imong mga pultahan"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ug mokaon"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "sa imong mga sedro"
+    }
+  ],
+  "timestamp": "2026-09-01T22:01:20.054455314Z",
+  "model": "glm-5.3"
+}

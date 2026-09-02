@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ug makatubag ako sa akong nag-insulto ⟨sa⟩ usa ka pulong, kay nagpasalig ako sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ug makatubag ako"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "sa akong nag-insulto"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "usa ka pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagpasalig ako"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:17.139419628Z",
+  "model": "glm-5.3"
+}

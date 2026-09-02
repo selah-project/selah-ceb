@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ingon sa pagkadungog mahitungod sa Mitsrayim, naguol sila; ingon usab niana sa pagkadungog mahitungod sa Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pagkadungog"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "mahitungod sa Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "naguol sila"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ingon usab niana sa pagkadungog"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mahitungod sa Tsor"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:12.148172337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Kay wala niya mahinumdoman ang pagbuhat ug hesed (maawayon nga kaayo), kondini gipanglamoy niya ang tawo nga dinukha ug ang kawaws, ug ang natapos sa kasingkasing, aron pagpatay.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mahinumdoman"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ang pagbuhat"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (maawayon nga kaayo)"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "kondini gipanglamoy niya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nga dinukha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug ang kawaws"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "ug ang natapos"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "aron pagpatay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:38.746079Z",
+  "model": "glm-5.3"
+}

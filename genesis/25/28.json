@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": " Ug gihigugma ni Yitskhak ⟨את⟩ si Esav kay adunay pangayam sa iyang baba; apan si Rivkah naghigugma ⟨את⟩ kang Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "ug gihigugma"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ni Yitskhak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "si Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "adunay pangayam"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "ug si Rivkah"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "naghigugma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kang Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:40.310231084Z",
+  "model": "glm-5.3"
+}

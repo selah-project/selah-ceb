@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ang langit ⟨alang sa⟩ kahitas-on, ug ang yuta ⟨alang sa⟩ kalaliman, ug ang kasingkasing sa mga hari — walay masukiti.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Ang langit"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "⟨alang sa⟩ kahitas-on"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug ang yuta"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "⟨alang sa⟩ kalaliman"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ug ang kasingkasing"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "masukiti"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:56.510965462Z",
+  "model": "glm-5.3"
+}

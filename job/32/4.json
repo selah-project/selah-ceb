@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Si Elihu naghulat kang Iyob ⟨את⟩ sa mga pulong, kay sila mga tigulang na kaniya sa adlaw.",
+  "tokens": [
+    {
+      "surface": "ויליהו",
+      "gloss": "Si Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "naghulat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:12.138551383Z",
+  "model": "glm-5.3"
+}

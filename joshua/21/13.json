@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug sa mga anak ni Aharon ⟨ang⟩ pari gihatagan sila og ⟨את⟩ ⟨ang⟩ dakbayan sa kalingkawasan sa mamamatay-tawo, ⟨ang⟩ Khevron ug ⟨את⟩ ang iyang mga sementada, ug ⟨את⟩ Livna ug ⟨את⟩ ang iyang mga sementada.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ug sa mga anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihatagan sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbayan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "sa kalingkawasan"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "sa mamamatay-tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sementada"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang mga sementada"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:18.013226513Z",
+  "model": "glm-5.3"
+}

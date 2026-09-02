@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Pagdayegahin ninyo siya, tanan ⟨nga⟩ mga mensahero niya; pagdayegahin ninyo siya, tanan ⟨nga⟩ iyang panon sa mga sundalo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "mga mensahero niya"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "iyang panon sa mga sundalo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.025522466Z",
+  "model": "glm-5.3"
+}

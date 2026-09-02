@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "bisan didto ang imong kamot magdala kanako, ug ang imong too magkupot kanako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "magdala kanako"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ug magkupot kanako"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang imong too"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:45.455643943Z",
+  "model": "glm-5.3"
+}

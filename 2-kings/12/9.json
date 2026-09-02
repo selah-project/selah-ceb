@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug mitugot ang mga saserdote sa dili na pagkuha ug salapi gikan sa ⟨את⟩ ang katawhan, ug sa dili na pag-ayo sa ⟨את⟩ mga guba sa balay.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "ug mitugot"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sa dili na"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "pagkuha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "וילבלתי",
+      "gloss": "ug sa dili na"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "pag-ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga guba sa balay"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mga guba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:55.538915257Z",
+  "model": "glm-5.3"
+}

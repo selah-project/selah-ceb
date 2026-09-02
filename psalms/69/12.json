@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ug gihimo kini nga bisti sa sako ang akong saput, ug nahimo akong panultihon sa ilang tunga.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ug gihimo kini"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ang akong saput"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sa sako"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ug nahimo ako"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang tunga"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "nga panultihon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:09.782132191Z",
+  "model": "glm-5.3"
+}

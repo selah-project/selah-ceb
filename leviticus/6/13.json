@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kini ang karban ni Aharon ug sa iyang mga anak, nga ilahalad kang Yahweh sa adlaw sa pagdihog ⟨את⟩ ⟨kaniya⟩: napulo ka bahin sa usa ka epa nga hinlata nga harina, ingon mincha nga padayon, katunga niini sa kaagahon ug katunga niini sa kasimon.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "karban"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ug sa iyang mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ilahalad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨kaniya⟩",
+      "marks": "object marker + suffix – naghisgot sa Aharon, ang gidihogan"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "napulo ka bahin"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "sa usa ka epa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "hinlata nga harina"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "padayon"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "katunga niini"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa kaagahon"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "ug katunga niini"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "sa kasimon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:34.450512782Z",
+  "model": "glm-5.3"
+}

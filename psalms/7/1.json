@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Shigayon ni David, nga iyang gikanta kang Yahweh, mahitungod sa mga pulong ni Kush ⟨ang⟩ Benjaminita.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שר",
+      "gloss": "gikanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ni Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨ang⟩ anak"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benjaminita"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:42.714048497Z",
+  "model": "glm-5.3"
+}

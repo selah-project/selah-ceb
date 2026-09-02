@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Pahinumdomon ko ang imong ngalan sa matag henerasyon ug henerasyon; busa magasalmaton ikaw sa mga katawhan sa gikanhamtiway ug sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "pahinumdomon ko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ang imong ngalan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa matag"
+    },
+    {
+      "surface": "דר",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug henerasyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "busa ⟨tungod niini⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨tungod niini⟩"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "magasalmaton ikaw"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "sa gikanhamtiway"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:43.467690824Z",
+  "model": "glm-5.3"
+}

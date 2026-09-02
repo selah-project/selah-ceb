@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kay karon sila mag-ingon: Walay hari kanamo, kay wala kami mangihog kang ⟨את⟩ Yahweh; ug ang hari — unsa may buhaton niya kanamo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sila mag-ingon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "naminhog kami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "may buhaton niya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:40.206820520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 7:9",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": " Ug giihap sila sumala sa ilang mga tinalaman, mga pangulo sa balay sa ilang mga amahan, mga gamhanan nga tawo sa kusog, kawhaan ka libo ug duha ka gatos.",
+  "tokens": [
+    {
+      "surface": "והתיחשם",
+      "gloss": "ug giihap sila sumala sa tinalaman"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "sumala sa ilang mga tinalaman"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "mga gamhanan nga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ug duha ka gatos"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:30.039585418Z",
+  "model": "glm-5.3"
+}

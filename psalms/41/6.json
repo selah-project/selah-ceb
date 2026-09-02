@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ang akong mga kaaway nagaingon ug kadaot ⟨mahitungod⟩ ⟨kanako⟩: Kanus-a siya mamatay ug ang iyang ngalan mangawagtang?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mahitungod kanako⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "siya mamatay"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ug mangawagtang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:10.240162721Z",
+  "model": "glm-5.3"
+}

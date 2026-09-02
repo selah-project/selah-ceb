@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug nagsina ang mga anak sulod sa iyang tiyan, ug siya nagaingon: Kon mao kini, ngano man nga ako ⟨mao kini⟩? Ug miadto siya sa pagpangutana ⟨את⟩ kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "nagsina"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "sulod sa iyang tiyan"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano man"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "miadto siya"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "sa pagpangutana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:09.979989227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Si Efrayim — sama sa langgam molupad ang ilang himaya: wala nay pagkatawo, ug wala nay tagoangkan, ug wala nay pagbadang.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Si Efrayim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "sama sa langgam"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "molupad"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ang ilang himaya"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "wala nay pagkatawo"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "ug wala nay tagoangkan"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "ug wala nay pagbadang"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:34.099399832Z",
+  "model": "glm-5.3"
+}

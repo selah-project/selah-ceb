@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 128,
+  "translation": "Ug makita nimo ang mga anak sa imong mga anak. Kagawasan ⟨mahimong⟩ sa Yisrael!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ug makita nimo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "sa imong mga anak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Kagawasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mahimong⟩ sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:34.595696281Z",
+  "model": "glm-5.3"
+}

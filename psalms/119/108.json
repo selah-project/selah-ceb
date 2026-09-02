@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang mga boluntaryong tanyag sa ákung baba, paluya-a ⟨karon⟩, Yahweh, ug ang imong mga pagtulon-an tudloi kanako.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "mga boluntaryong tanyag"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa ákung baba"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "paluya-a"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨karon⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ang imong mga pagtulon-an"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tudloi kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:37.944181259Z",
+  "model": "glm-5.3"
+}

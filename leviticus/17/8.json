@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug ingnun nimo sila: Bisan kinsa nga tawo gikan sa balay ni Yisrael ug gikan sa tagbisita nga nagpuyo sa taliwala nila, nga nagatukod ⟨sa⟩ olah o sa sakripisyo —",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "ug ngadto kanila"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ingnun nimo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisansabanang tawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ug gikan sa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "tagbisita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa taliwala nila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "nagatukod"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sakripisyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:32.918265902Z",
+  "model": "glm-5.3"
+}

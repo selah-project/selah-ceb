@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kang Dawid, sa iyang pagbag-o ⟨את⟩ sa iyang pamatasan atubang ni Avimelekh, ug gipapahawa siya niini ug miadto siya.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Kang Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "sa iyang pagbag-o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang pamatasan"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "sa iyang pamatasan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ug gipapahawa siya"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug miadto siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:37.601407533Z",
+  "model": "glm-5.3"
+}

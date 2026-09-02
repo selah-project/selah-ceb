@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Pakawas-on pag-awas ang yuta, ug pangilion pag-ilog kini, kay si Yahweh maoy nagsulti ⟨sa⟩ ⟨את⟩ nga maong pulong.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Pakawas-on"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "pag-awas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ug pangilion"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "pag-ilog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maong pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "maong"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:37.147339927Z",
+  "model": "glm-5.3"
+}

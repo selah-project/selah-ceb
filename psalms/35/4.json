@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Pakaulawa ug pakaulaw pag-usab ang mga naningkwelo sa akong kalag; pagpahilakbit sila pagbalik, ug pagkahadlok ang mga nagtinud-an sa kadaot kanako.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Pakaulawa"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "pakaulaw pag-usab"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ang mga naningkwelo sa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "pagpahilakbit sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "pagbalik"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "pagkahadlok"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ang mga nagtinud-an sa"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "kadaot kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:51.116768859Z",
+  "model": "glm-5.3"
+}

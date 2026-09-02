@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug nagahukom si Shemuel ⟨את⟩ sa Yisra'el sa tanang adlaw sa iyang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ug nagahukom"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sa iyang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:19.976873523Z",
+  "model": "glm-5.3"
+}

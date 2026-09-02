@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gipahinono ang mga saserdote ug ang mga Levita, ug gipahinono nila ⟨את⟩ ang katawhan, ug ⟨את⟩ ang mga ganghaan, ug ⟨את⟩ ang kuta.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "Gipahinono"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ug ang mga Levita"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "gipahinono nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ganghaan"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ang mga ganghaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kuta"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ang kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:07:20.148757511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kulang ba ako ug mga buang, nga gidala ninyo ⟨את⟩ kini aron magbuang-buang sa akong atubangan? Mosulod ba kini sa akong balay?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "Kulang"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "mga buang"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "gidala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "aron magbuang-buang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa akong atubangan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "akong balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:15.128724168Z",
+  "model": "glm-5.3"
+}

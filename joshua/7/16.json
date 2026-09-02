@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Busa si Yehoshua mitindog sayo sa buntag ug giduol niya ⟨את⟩ ang Yisrael sumala sa mga tribo niini, ug nadakpan ang tribo ni Yehudah.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "mitindog sayo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "giduol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "sumala sa mga tribo niini"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ug nadakpan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:38.918780372Z",
+  "model": "glm-5.3"
+}

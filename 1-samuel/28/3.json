@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug si Shemuel namatay, ug gikamatyon siya sa tibuok Yisrael, ug gilubong siya sa Ramah, sa iyang kaugalingong dakbayan. Ug si Shaul nagwagtang sa mga obot ug ⟨את⟩ sa mga yidoni gikan sa yuta.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ug si Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "gikamatyon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "ug gilubong siya"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "sa Ramah"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "sa iyang dakbayan"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Ug si Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nagwagtang"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "sa mga obot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa mga yidoni"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "sa mga yidoni"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "gikan sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:50.284151226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kinsa ang wala makahibalo diha sa tibuok niini, nga ang kamot ni Yahweh mao ang nagbuhat niini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "diha sa tibuok"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "mao ang nagbuhat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:44.479204198Z",
+  "model": "glm-5.3"
+}

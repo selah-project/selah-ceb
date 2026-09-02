@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug ang tanan nga mga tigulang sa ⟨mao nga⟩ siyudad, ang mga duol sa ⟨pagkadunot⟩ sa nipatay, maghuhugas sila ⟨את⟩ sa ilang mga kamot ibabaw sa baka nga naugdan ang liog sa walog.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ug ang tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa siyudad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "mao nga"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "ang mga duol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "nipatay"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "maghuhugas sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga kamot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "sa ilang mga kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "baka"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "naugdan ang liog"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa walog"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:40.599547314Z",
+  "model": "glm-5.3"
+}

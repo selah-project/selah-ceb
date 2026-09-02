@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug pagakuhaon ko ⟨את⟩kamo gikan sa taliwala niini, ug ihatod nako ⟨את⟩kamo ngadto sa kamot sa mga taga-lain, ug buhaton nako diha kaninyo ang mga paghukom.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ug pagakuhaon ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "gikan sa taliwala niini"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihatod nako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "sa mga taga-lain"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "ug buhaton nako"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "diha kaninyo"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ang mga paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T21:35:08.009361429Z",
+  "model": "glm-5.3"
+}

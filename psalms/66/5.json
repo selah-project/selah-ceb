@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Umari kamo ug tan-awa ang mga buhat ni Elohim, makahahadlok ⟨siya⟩ sa iyang pagbuhat ngadto sa mga anak ni Adam.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umari kamo"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ug tan-awa"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "makahahadlok"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "sa iyang pagbuhat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:44.828063668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug siya naggiingon kaniya: Ako kini. Lakaw, isulti sa imong gagongbanig: Ania karon si Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naggiingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "sa imong gagongbanig"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:20.872715905Z",
+  "model": "glm-5.3"
+}

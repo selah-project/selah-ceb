@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Yehunahon ako sa matarong — hesed kini — ug tudloan ako niya; lana sa ulo kini: ayaw pagbalibad, akong ulo, kay ang akong pag-ampo magpadayon gihapon taliwala sa ilang mga kadaot.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "yehunahon ako"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ug tudloan ako niya"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יני",
+      "gloss": "pagbalibad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akong ulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "magpadayon gihapon"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ug ang akong pag-ampo"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "taliwala sa ilang mga kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:36.183996130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Akong katawhan, unsa ang akong gihimo kanimo? Ug sa unsa ako nakapkapoy kanimo? Isulti ⟨kini⟩ batok kanako.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Akong katawhan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ang akong gihimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ug sa unsa"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ako nakapkapoy kanimo"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "batok kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:32.612237126Z",
+  "model": "glm-5.3"
+}

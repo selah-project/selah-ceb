@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Apan sa kahoy sa pag-ila sa maayong ug daotan, dili ka mokaon ⟨gikan⟩ niini; kay sa adlaw nga imong mokaon niini, mamatay gayod ikaw.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "apan sa kahoy"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "sa pag-ila"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ug daotan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ka mokaon"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "imong mokaon"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "gayod ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:19.367259873Z",
+  "model": "glm-5.3"
+}

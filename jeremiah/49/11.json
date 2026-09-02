@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Bilin ang imong mga ilo, ako ang magabuhi kanila, ug ang imong mga balo kanako mosalig.",
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "bilin"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "ang imong mga ilo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "magabuhi kanila"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "ug ang imong mga balo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "mosalig"
+    }
+  ],
+  "timestamp": "2026-09-01T21:30:33.499322727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug naghimo sila ug duha ka setting sa bulawan ug duha ka singsing sa bulawan, ug nagbutang sila ⟨את⟩ sa duha ka singsing sa duha ka kinatumyan sa habay.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ug naghimo sila"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "setting"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ug duha"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "singsing"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ug nagbutang sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa duha ka singsing"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ka mga singsing"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ka mga kinatumyan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sa habay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:36.531036527Z",
+  "model": "glm-5.3"
+}

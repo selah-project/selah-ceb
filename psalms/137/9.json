@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Malipayon ⟨siya⟩ nga modakop ug modaslag ⟨sa⟩ ⟨את⟩ ang imong mga suso ngadto sa bato.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "nga modakop"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ug modaslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga suso"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ang imong mga suso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:39.595656096Z",
+  "model": "glm-5.3"
+}

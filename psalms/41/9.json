@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ang pulong sa Belial gipula batok kaniya; ug karon nga nakahigda na siya, dili na siya mobangon pag-usab.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "sa Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "gipula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug karon nga"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nakahigda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili na"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "mobangon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:17.167614808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Nga wala makapunô sa palad sa man-anhi, ni sa gakus sa mamulong ug dagkung.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "makapunô"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "sa palad"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "sa man-anhi"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ni sa gakus"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "sa mamulong ug dagkung"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.246135202Z",
+  "model": "glm-5.3"
+}

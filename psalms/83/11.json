@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Gipunaw sila sa ⟨En⟩-Dor, nahimong abono sila alang sa yuta.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Gipunaw sila"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "sa ⟨En⟩"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "abono"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "alang sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:55.010310305Z",
+  "model": "glm-5.3"
+}

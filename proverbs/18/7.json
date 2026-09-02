@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang baba sa tanga mao ⟨ang⟩ iyang kalaglakan, ug ang iyang mga ngabil mao ⟨ang⟩ panil sa iyang kalag.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tanga"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "kalaglakan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ug ang iyang mga ngabil"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "panil"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:44.699394042Z",
+  "model": "glm-5.3"
+}

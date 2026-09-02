@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gihan-ay niya ⟨את⟩ ang kahoy, ug giibabaw niya ⟨את⟩ ang baka, ug gibutang niya kini ibabaw sa kahoy.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "gihan-ay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahoy"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ang kahoy"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "giibabaw niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ang baka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ang kahoy"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:44.851601338Z",
+  "model": "glm-5.3"
+}

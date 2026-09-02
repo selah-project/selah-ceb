@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kahubasan sa usa ka babaye ug sa iyang anak nga babaye dili nimo ipadayag; ⟨את⟩ anak nga babaye sa iyang anak nga lalake ug ⟨את⟩ anak nga babaye sa iyang anak nga babaye dili nimo kuhaon aron ipadayag ang iyang kahubasan; igdugo nga babaye sila kanhi — kahoyangan kini.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kahubasan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "babaye"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "ug sa iyang anak nga babaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ipayag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak nga babaye sa iyang anak nga lalake"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "sa iyang anak nga lalake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "anak nga babaye sa iyang anak nga babaye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "sa iyang anak nga babaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "aron ipadayag"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "iyang kahubasan"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "igdugo nga babaye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sila kanhi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "kahoyangan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:54.417763258Z",
+  "model": "glm-5.3"
+}

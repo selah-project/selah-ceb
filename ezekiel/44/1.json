@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Gipahimutad niya ako ⟨את⟩ pinaagi sa dalan sa ganghaan sa santuaryo sa gawas, nga nagapañong sa sidlakan, ug kini sirado.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Gipahimutad niya ako"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "pinaagi sa dalan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "santuaryo"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "sa gawas"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "nagapañong"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "sidlakan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "sirado"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:20.042699962Z",
+  "model": "glm-5.3"
+}

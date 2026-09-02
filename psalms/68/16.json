@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Bukid ni Elohim ⟨ang⟩ bukid sa Bashan, bukid nga daghan ang mga tumoy ⟨ang⟩ bukid sa Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "nga daghan ang mga tumoy"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "sa Bashan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:35.019469411Z",
+  "model": "glm-5.3"
+}

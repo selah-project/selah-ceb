@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug nahitabo, sa pagkakita ni Zimri nga nadakop na ⟨ang⟩ siyudad, misulod siya sa armonan sa balay sa hari, ug gisunog niya ibabaw kaniya ⟨את⟩ ang balay sa hari sa kalayo, ug namatay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "sa pagkakita"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ni Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nadakop na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ siyudad"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "misulod siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "armonan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ug gisunog niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ibabaw kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sa hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:27.013968638Z",
+  "model": "glm-5.3"
+}

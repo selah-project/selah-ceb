@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gipamaayo ni Elohim ⟨ang mga butang⟩ alang sa mga mangabulong, ug dumadaghan ang katawhan ug nangin gamhanan kaayo.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ug gipamaayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "alang sa mga mangabulong"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "ug dumadaghan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "ug nangin gamhanan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:25.827632925Z",
+  "model": "glm-5.3"
+}

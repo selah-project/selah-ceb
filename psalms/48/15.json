@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Kay kini mao ⟨ang⟩ Elohim, ang atong Elohim, hangtod sa kahangtura ug sa dayon; siya magtultol kanato hangtod sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mao ⟨ang⟩ Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ang atong Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hangtod sa kahangtura"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug sa dayon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יְנַהֲגֵנוּ",
+      "gloss": "magtultol kanato"
+    },
+    {
+      "surface": "על",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:55.558813493Z",
+  "model": "glm-5.3"
+}

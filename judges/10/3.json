@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug mitindog pagkahuman niya si Yair ang Giladhnon, ug ⟨siya⟩ nagdalag hustisya ⟨את⟩ sa Israel baynte-duha ka tuig.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagkahuman niya"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "ang Giladhnon"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "nagdalag hustisya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "baynte"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:49.273364005Z",
+  "model": "glm-5.3"
+}

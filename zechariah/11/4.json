@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Mao kini ang giingon ni Yahweh nga akong Elohim: Pastora ang ⟨את⟩ panon nga ⟨gipa⟩patay.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga akong Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Pastora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "panon"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "nga gipatay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:01:20.055080445Z",
+  "model": "glm-5.3"
+}

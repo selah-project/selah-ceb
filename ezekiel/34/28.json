@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 34:28",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug wala na sila mahimong {{sinangkapan}} sa ⟨mga⟩ nasod, ug dili na sila kan-on sa mga mananap sa yuta, ug molangyo sila nga lig-on, ug walay magpahadlok.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "בז",
+      "gloss": "{{sinangkapan}}"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "sa ⟨mga⟩ nasod"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "ug mga mananap sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "kan-on sila"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug molangyo sila"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nga lig-on"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "magpahadlok"
+    }
+  ],
+  "timestamp": "2026-09-02T00:58:47.309789898Z",
+  "model": "glm-5.3"
+}

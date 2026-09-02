@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Maggasa gayod ikaw sa ikadaghan ⟨את⟩ sa tanang ani sa imong binhi, ang mogula sa kapatagan, matag tuig sa matag tuig.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Maggasa sa ikadaghan"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "gayod ikaw maggasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanang ani sa imong binhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ani"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sa imong binhi"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ang mogula"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sa matag tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:16.168004433Z",
+  "model": "glm-5.3"
+}

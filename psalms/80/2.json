@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Ikaw nga magpastol sa Israel, paminaw pag-usab; nga nanguna kang Yosef ingon sa usa ka panon sa mga karnero; nga naglingkod ⟨ibabaw⟩ sa mga kerub — mopakita ka ug kahayag.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "magpastol"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "paminaw pag-usab"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "nanguna"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ingon sa panon sa mga karnero"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ang mga kerub"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "mopakita ug kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:15.726641851Z",
+  "model": "glm-5.3"
+}

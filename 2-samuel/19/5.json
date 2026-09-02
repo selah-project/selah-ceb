@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang hari gitabonan ⟨את⟩ ang iyang dagway, ug ang hari nagsinggit uban sa dakong tingog: Akong anak Avshalom, Avshalom, akong anak nga anak!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ug ang hari"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "gitabonan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang dagway"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iyang dagway"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ug nagsinggit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:16.179353780Z",
+  "model": "glm-5.3"
+}

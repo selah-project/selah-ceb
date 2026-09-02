@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Dili nako paglapason ang akong pakigsaad, ug ang mogikan sa akong mga ngabi dili nako usbon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "paglapason"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ang akong pakigsaad"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ug ang mogikan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sa akong mga ngabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "usbon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.997094805Z",
+  "model": "glm-5.3"
+}

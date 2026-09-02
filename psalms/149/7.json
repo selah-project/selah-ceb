@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Sa pagbuhat sa panimalos taliwala sa mga nasod, ug mga silot sa mga katawhan.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "panimalos"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "taliwala sa mga nasod"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "mga silot"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa mga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.279764889Z",
+  "model": "glm-5.3"
+}

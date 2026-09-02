@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Nga malipayon nga gayod ug nagakalipay kong makakaplag sila ug lubnganan.",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "nga malipayon"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nga gayod (hangtod sa)"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "nagakalipay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kong"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "makakaplag sila"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lubnganan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:49.817881132Z",
+  "model": "glm-5.3"
+}

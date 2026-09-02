@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Sa panguna sa mga mag-aawit. Usa ka awit ni David. Elohim sa akong pagdayeg, ayaw paghilum.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa panguna sa mga mag-aawit"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka awit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "sa akong pagdayeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "paghilum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:45.217554983Z",
+  "model": "glm-5.3"
+}

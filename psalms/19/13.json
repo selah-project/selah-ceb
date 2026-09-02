@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang mga sayop — kinsay makasabut ⟨kanila⟩? Gikan sa mga natago, paghimo nga putli kanako.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "mga sayop"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsay"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "makasabut"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "gikan sa mga natago"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "paghimo nga putli kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:47.178980470Z",
+  "model": "glm-5.3"
+}

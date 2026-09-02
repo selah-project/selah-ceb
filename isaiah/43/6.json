@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Mag-ingon ako sa amihanan: Ihatag ⟨ sila ⟩; ug sa habagatan: Ayaw pagbawi. Ipadala ang akong mga anak nga halayo, ug ang akong mga anak nga babaye gikan sa kinatumyan sa ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mag-ingon ako"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "sa amihanan"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ug sa habagatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "pagbawi"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Ipadala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang akong mga anak"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "nga halayo"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ug ang akong mga anak nga babaye"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "gikan sa kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:27.627512633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ning-ingon si Yahweh kang Moshe: Ang bisan kinsa nga nakasala batok kanako, papason ko siya gikan sa akong libro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ning-ingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ang bisan kinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nakasala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "papason ko siya"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "gikan sa akong libro"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:59.710420465Z",
+  "model": "glm-5.3"
+}

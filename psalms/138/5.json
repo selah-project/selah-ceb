@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Ug mag-awit sila sa mga dalan ni Yahweh, kay dako ang ⟨ang⟩ himaya ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "Ug mag-awit sila"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:29.216031200Z",
+  "model": "glm-5.3"
+}

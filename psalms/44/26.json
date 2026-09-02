@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Kay ang among kalag nalugsong ngadto sa abo, ang among tiyan mitapot ⟨sa⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "nalugsong"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ngadto sa abo"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ang among kalag"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "mitapot"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨sa⟩ yuta"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "ang among tiyan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:40.499184665Z",
+  "model": "glm-5.3"
+}

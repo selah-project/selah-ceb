@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 132,
+  "translation": "Didto pagaahunon ko ang sangang-daan alang ni David; nangandoy ako ug suga alang sa akong Mesiyas.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Didto"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "pagaahunon ko"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sangang-daan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "alang ni David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "nangandoy ako"
+    },
+    {
+      "surface": "נר",
+      "gloss": "suga"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "alang sa akong Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:36.978064316Z",
+  "model": "glm-5.3"
+}

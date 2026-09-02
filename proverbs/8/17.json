@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ako nagahigugma sa mga nagahigugma kanako, ug ang mga nagapangita kanako ⟨sa sayo⟩ makakaplag kanako.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "sa mga nagahigugma kanako"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "ug ang mga nagapangita kanako ⟨sa sayo⟩"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "makakaplag kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:34.070293282Z",
+  "model": "glm-5.3"
+}

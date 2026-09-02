@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gibuhat usab sa mga salamangkero ang sama pinaagi sa ilang mga tinago aron ipagawas ⟨את⟩ ang mga kinim, apan wala sila makahimo; ug naa ⟨ang⟩ mga kinim sa tawo ug sa hayop.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gibuhat usab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ang sama"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sa mga salamangkero"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "pinaagi sa ilang mga tinago"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "aron ipagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kinim"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "ang mga kinim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makahimo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug naa"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "⟨ang⟩ mga kinim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ug sa hayop"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:49.880671412Z",
+  "model": "glm-5.3"
+}

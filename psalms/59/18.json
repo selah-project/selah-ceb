@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Akong gahum, kanimo magaantigoniay ako, kay Elohim ⟨ ang ⟩bato nga naglig-on ngari kanako, ⟨ siya ⟩Elohim sa akong hesed.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "akong gahum"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magaantigoniay ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "bato nga naglig-on ngari kanako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "akong hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:49.742556612Z",
+  "model": "glm-5.3"
+}

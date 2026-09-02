@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gipakapait nila ⟨את⟩ ang ilang kinabuhi sa timbang nga pagpaningkamot — sa sawa ug sa laryo, ug sa tanan nga pagpaningkamot sa uma; ⟨את⟩ tanan nilang pagpaningkamot nga ilang gipahimo kanila ⟨את⟩ — sa pwersa.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "gipakapait"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang kinabuhi"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "ang ilang kinabuhi"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "sa pagpaningkamot"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "timbang"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "sa sawa"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "ug sa laryo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "nga pagpaningkamot"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nilang pagpaningkamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "nilang pagpaningkamot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "gipahimo nila sa pagpaningkamot"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "sa pwersa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:23.056486662Z",
+  "model": "glm-5.3"
+}

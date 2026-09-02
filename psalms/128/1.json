@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 128,
+  "translation": "Awit sa mga pagsaka. Maayong pagkaadlaw ⟨ang⟩ tanan nga nagakahadlok kang Yahweh, ⟨ang⟩ nagalakaw sa iyang mga dalan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pagsaka"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Maayong pagkaadlaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨ang⟩ tanan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "⟨ang⟩ nagalakaw"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "sa iyang mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:40.811759031Z",
+  "model": "glm-5.3"
+}

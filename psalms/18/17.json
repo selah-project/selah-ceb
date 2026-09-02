@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nagpadala siya gikan sa kataas-taasan, gikuha niya ako, gipakuha niya ako gikan sa daghang mga tubig.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "nagpadala siya"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "gikan sa kataas-taasan"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "gikuha niya ako"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "gipakuha niya ako"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "gikan sa tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang mga"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:12.975769052Z",
+  "model": "glm-5.3"
+}

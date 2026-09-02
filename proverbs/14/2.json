@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang nagalakat sa iyang matulin nagakahadlok kang Yahweh, apan ang naniko sa iyang mga dalan nagatungtong Kaniya.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Ang nagalakat"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "sa iyang matulin"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "apan ang naniko"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sa iyang mga dalan"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "nagatungtong Kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:46.062642513Z",
+  "model": "glm-5.3"
+}

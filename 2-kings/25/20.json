@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Una, gikuha sila ni Nevuzaradan, pangulo sa mga manlalandong, ug gidala niya sila ngadto sa hari sa Bavel, didto sa Rivlah.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "si Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "sa mga manlalandong"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug gidala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "sa Rivlah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:03.858873127Z",
+  "model": "glm-5.3"
+}

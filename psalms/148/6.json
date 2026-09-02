@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Gipatindog niya sila hangtod sa kahangturan, sa walay katapusan; nagbutang ⟨siya⟩ ug balaod nga dili molapas.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "Gipatindog niya sila"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga dili"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "molapas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:21.085333555Z",
+  "model": "glm-5.3"
+}

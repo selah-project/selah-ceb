@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Osipon nga naghulat sa paglukso siya alang kanako, usa ka leyon sa tinagong mga dapit.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "osipon"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "naghulat sa paglukso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "usa ka leyon"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "sa tinagong mga dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:45.799693099Z",
+  "model": "glm-5.3"
+}

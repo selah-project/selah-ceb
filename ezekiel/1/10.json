@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang dagway sa ilang mga nawong ⟨mao ang⟩ nawong sa tawo, ug nawong sa leon sa tuo nga kiliran alang sa upat ka sila, ug nawong sa baka sa wala nga kiliran alang sa upat ka sila, ug nawong sa agila alang sa upat ka sila.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "ug ang dagway"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sa ilang mga nawong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong sa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ug nawong sa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "tuo nga kiliran"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "alang sa upat ka sila"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ug nawong sa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "sa wala nga kiliran"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "alang sa upat ka sila"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ug nawong sa"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "agila"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "alang sa upat ka sila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:32:30.093871607Z",
+  "model": "glm-5.3"
+}

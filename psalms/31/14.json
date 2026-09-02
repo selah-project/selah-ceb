@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 31:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Kay nadungog ko ang pagbisbis sa daghan, kahadlok sa palibot; samtang nagpanaghiusa sila batok kanako, sa pagkuha sa akong kinabuhi sila nagplano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nadungog ko"
+    },
+    {
+      "surface": "דבת",
+      "gloss": "ang pagbisbis"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sa daghan"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "בהוסדם",
+      "gloss": "samtang nagpanaghiusa sila"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sa pagkuha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kinabuhi"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "sila nagplano"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.957055453Z",
+  "model": "glm-5.3"
+}

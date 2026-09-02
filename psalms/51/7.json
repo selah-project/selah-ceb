@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ania kini: sa pagkadaut ako gidala sa kalibotan, ug sa sala ako gipanamkon sa akong inahan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "sa pagkadaut"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ako gidala sa kalibotan"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "ug sa sala"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ako gipanamkon"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sa akong inahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.338847041Z",
+  "model": "glm-5.3"
+}

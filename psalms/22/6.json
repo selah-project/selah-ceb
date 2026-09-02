@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kanimo nanggitik sila ug maluwas sila; kanimo nagsalig sila ug wala sila maulawan.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "nanggitik sila"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "ug maluwas sila"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "nagsalig sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "maulawan sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:42.719808910Z",
+  "model": "glm-5.3"
+}

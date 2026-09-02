@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug gibuhat niya ⟨את⟩ tanan nga mga galamiton sa halaran: ⟨את⟩ ang mga kolon, ug ⟨את⟩ ang mga pala, ug ⟨את⟩ ang mga baso, ⟨את⟩ ang mga tinidor, ug ⟨את⟩ ang mga panagat sa kalayo; tanan nga mga galamiton niini gibuhat sa tumbaga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga galamiton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga galamiton"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga kolon"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "ang mga kolon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "ang mga pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga baso"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "ang mga baso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tinidor"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "ang mga tinidor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga panagat sa kalayo"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ang mga panagat sa kalayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga galamiton niini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:34.374139454Z",
+  "model": "glm-5.3"
+}

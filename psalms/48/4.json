@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "⟨Si⟩ Elohim sa iyang mga palasyo nahibalo-an ingon nga kuta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "sa iyang mga palasyo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "nahibalo-an"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "ingon nga kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:29.750599278Z",
+  "model": "glm-5.3"
+}

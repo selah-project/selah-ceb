@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ngano nga nag-una ⟨kanako⟩ ang mga tuhod? Ug ngano man ang mga suso, nga manuso ako?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "nag-una ⟨kanako⟩"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ang mga tuhod"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug ngano man"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "ang mga suso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "manuso ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:34.214605937Z",
+  "model": "glm-5.3"
+}

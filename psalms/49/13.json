@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Apan ⟨ang⟩ tawo sa dungganan dili magpabilin; gipareha siya sa mga mananap — mangawagtang sila.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Apan ang tawo"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "sa dungganan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "magpabilin"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "gipareha siya"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "sa mga mananap"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "mangawagtang sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:28.555649859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 97,
+  "translation": "Nagtunaw ang mga bukid sama sa kandila ⟨sa⟩ atubangan ni Yahweh, sa atubangan ni Adonay sa tibuok kalibutan.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "sama sa kandila"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "nagtunaw"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kalibutan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.175371294Z",
+  "model": "glm-5.3"
+}

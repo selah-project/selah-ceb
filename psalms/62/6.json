@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Sa Elohim lamang maghilum ang akong kalag, kay gikan kaniya ang akong paglaom.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "maghilum"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ang akong paglaom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:32.826975818Z",
+  "model": "glm-5.3"
+}

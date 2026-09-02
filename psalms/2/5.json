@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Unya magsulti siya kaniila sa iyang kasuko, ug sa iyang kaligutgut pahadlokon niya sila.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Unya"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "magsulti siya"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kaniila"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "sa iyang kasuko"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "ug sa iyang kaligutgut"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "pahadlokon niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:19.639132574Z",
+  "model": "glm-5.3"
+}

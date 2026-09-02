@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug kini ang ilang mga ngalan: si Ben-Khur, sa bukid sa Efrayim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ang ilang mga ngalan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ni Khur (Ben-Khur)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sa Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:14.446221833Z",
+  "model": "glm-5.3"
+}

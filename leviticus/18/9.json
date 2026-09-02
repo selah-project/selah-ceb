@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ang kagilapa sa imong igsoon nga babae — anak nga babae sa imong amahan o anak nga babae sa imong inahan, nga natawo sulod sa balay o nga natawo gawas ⟨sa balay⟩ — ang ilang kagilapa ayaw nimo ⟨paghubaron⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "kagilapa"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "imong igsoon nga babae"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "sa imong inahan"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "paghubaron"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ilang kagilapa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:30.195152314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Gipadayag niya ⟨את⟩ ang tabon sa Yehudah, ug nagtan-aw ka ⟨sa⟩ nianang adlawa ngadto sa mga armas sa Balay sa Lasang.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Gipadayag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabon sa Yehudah"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ang tabon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ug nagtan-aw ka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "niana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "sa mga armas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Balay"
+    },
+    {
+      "surface": "היער",
+      "gloss": "sa Lasang"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:45.937576109Z",
+  "model": "glm-5.3"
+}

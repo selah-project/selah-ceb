@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Gikan sa langit nagtan-aw si Yahweh, nakakita siya ⟨את⟩ sa tanang mga anak sa tawo.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Gikan sa langit"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nagtan-aw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanang mga anak sa tawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.866382289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug mangahas ⟨ang⟩ espada sa iyang mga ciudad, ug magtunaw kini sa iyang mga bara, ug mokaon kini ⟨gikan sa⟩ ilang mga kaugalingong tambag.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "mangahas"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "sa iyang mga ciudad"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "magtunaw kini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "iyang mga bara"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mokaon kini"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "gilayon sa ilang mga tambag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:05.719362855Z",
+  "model": "glm-5.3"
+}

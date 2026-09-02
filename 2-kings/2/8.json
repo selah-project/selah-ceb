@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": " ug gikuha ni Eliyahu ⟨את⟩ iyang bahandin, ug gikumot kini, ug gihampak niya ⟨את⟩ ang tubig, ug natunga kini ngadto sa dinhi ug ngadto sa didto, ug miagi sila duha sa mamala nga dapit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ni Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang bahandin"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "iyang bahandin"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "ug gikumot kini"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "ug gihampak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tubig"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ug natunga kini"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ngadto sa dinhi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ngadto sa didto"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ug miagi sila"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "sa mamala nga dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:00.978758432Z",
+  "model": "glm-5.3"
+}

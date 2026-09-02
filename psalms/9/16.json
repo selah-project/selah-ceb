@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nalunod ang mga kanasoran sa atipan nga ilang gihimo; sa lambat nga ilang gitago, nadakpan ang ilang tiil.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "Nalunod"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga kanasoran"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "sa atipan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ilang gihimo"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "sa lambat"
+    },
+    {
+      "surface": "זו",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ilang gitago"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "nadakpan"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "ang ilang tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:52.943640309Z",
+  "model": "glm-5.3"
+}

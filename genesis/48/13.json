@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Gikuha ni Yosef ⟨את⟩ silang duha — ⟨את⟩ si Efrayim sa iyang tuo nga kamot atbang sa wala ni Yisrael, ug ⟨את⟩ si Menasheh sa iyang wala nga kamot atbang sa tuo ni Yisrael — ug giduol niya sila kaniya.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha ni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silang duha"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "silang duha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "si Efrayim"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "sa iyang tuo nga kamot"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "atbang sa wala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "si Menasheh"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "sa iyang wala nga kamot"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "atbang sa tuo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "ug giduol"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:16.133985572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 8:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Wala ba sila magtudlo ⟨kanimo⟩ ug mopakigkanimo, ug gikan sa ilang kasingkasing mogula ang mga pulong?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "magtudlo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "mopakigkanimo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kanimo⟩"
+    },
+    {
+      "surface": "ומלבם",
+      "gloss": "ug gikan sa ilang kasingkasing"
+    },
+    {
+      "surface": "יוצאו",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ang mga pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:32.566092223Z",
+  "model": "glm-5.3"
+}

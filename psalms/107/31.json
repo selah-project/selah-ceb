@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Magapasalamat sila kang Yahweh alang sa iyang hesed, ug sa iyang mga katingalahan ngadto sa mga anak sa tawo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "magapasalamat sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sa iyang hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ug sa iyang mga katingalahan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngadto sa mga anak sa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:58.164873335Z",
+  "model": "glm-5.3"
+}

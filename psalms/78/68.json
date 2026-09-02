@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug nipili siya ⟨את⟩ sa tribo ni Yehudah, ⟨את⟩ bukid sa Tsiyon nga iyang gihigugma.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ug nipili siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tribo ni Yehudah"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukid sa Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "iyang gihigugma"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:27.029397861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Ug tawgi ako sa adlaw sa kagul-an; luwason taka, ug imohan ako.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "ug tawgi ako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sa kagul-an"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "luwason taka"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "ug imohan ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:27.925401603Z",
+  "model": "glm-5.3"
+}

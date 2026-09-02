@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gitukod niya ⟨ang⟩ dakbayan palibot, gikan sa Milo hangtod sa palibot; ug si Yoab nagpabuhi ⟨את⟩ sa salin ⟨sa⟩ dakbayan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ug gitukod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "ug si Yoab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "nagpabuhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa salin sa dakbayan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "sa salin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:26.091337243Z",
+  "model": "glm-5.3"
+}

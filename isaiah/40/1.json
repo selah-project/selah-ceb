@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Lingkla kamo, lingkla kamo ang akong katawhan, moingon ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "lingkla kamo"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "lingkla kamo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:45.782842422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang sala sa akong katawhan ilang gikaon, ug ngadto sa ilang kadaot ilang gipahalang ang ilang nefesh ⟨kaugalingon⟩.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ang sala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ilang gikaon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ilang kadaot"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ilang gipahalang"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ang ilang nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:34.990666525Z",
+  "model": "glm-5.3"
+}

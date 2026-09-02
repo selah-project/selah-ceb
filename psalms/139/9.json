@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Kon mokuha ko sa mga pako sa kaadlawon, ug mopuyo ako sa kinatumyan ⟨sa⟩ dagat,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "mokuha ko"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pako"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kaadlawon"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "mopuyo ako"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa kinatumyan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:45.455411142Z",
+  "model": "glm-5.3"
+}

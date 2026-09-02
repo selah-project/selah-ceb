@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Dili ka makahimo sa pagpatay ⟨את⟩ sa Pesach sa bisan hain sa imong mga ganghaan, nga gipili ni Yahweh nga imong Elohim nga ihatag ⟨kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ka makahimo"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "sa bisan hain"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "sa imong mga ganghaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:50:30.924015058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Siya nga nagpuyo sa tagoanan sa Elyon, sa landong ni Shadday magatunok ⟨sa kahilwayan⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sa tagoanan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa landong"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "magatunok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.777474168Z",
+  "model": "glm-5.3"
+}

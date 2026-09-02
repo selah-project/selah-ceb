@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kaniinyo ⟨את⟩ gikuha ni Yahweh ug giluwas kaniinyo ⟨את⟩ gikan sa sinugdanan-sa-kalan sa puthaw, gikan sa Mitsrayim, aron mahimo kamo nga iyang katawhan nga manunahan, ingon niining adlawa.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ kaniinyo",
+      "marks": "gikuha"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "giluwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaniinyo",
+      "marks": "sinugdanan-sa-kalan sa puthaw"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "sinugdanan-sa-kalan"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "sa puthaw"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aron mahimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "manunahan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon niining adlawa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "karon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:39.087603431Z",
+  "model": "glm-5.3"
+}

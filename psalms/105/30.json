@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gisudlan sa ilang yuta ug mga baki, bisan sa mga lawak sa ilang mga hari.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "gisudlan sa"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilang yuta"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "mga baki"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "sa mga lawak"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "sa ilang mga hari"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:35.877960243Z",
+  "model": "glm-5.3"
+}

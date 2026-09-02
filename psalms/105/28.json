@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gipadalan niya ang kangitngit, ug nangitngit kini, ug wala sila mosukol ⟨את⟩ sa iyang pulong.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gipadalan niya"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ug nangitngit kini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "sila mosukol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang pulong"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "sa iyang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:13.242449104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Aron dili isuka sa yuta ⟨את⟩ kamo sa inyong paghugaw ⟨את⟩ niini, ingon sa pagsuka niini ⟨את⟩ sa nasud nga wala pa kaninyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "isuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "sa inyong paghugaw niini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ niini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "pagsuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa nasud"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ang nasud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "wala pa kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:04.106517017Z",
+  "model": "glm-5.3"
+}

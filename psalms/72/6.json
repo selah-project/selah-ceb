@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Mobaba siya sama sa ulan ibabaw sa giminhong sagbot, sama sa mga ulan nga nagabisbisa ⟨sa⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Mobaba siya"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "sama sa ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "גז",
+      "gloss": "giminhong sagbot"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sama sa mga ulan"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "nagabisbisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:02.579318083Z",
+  "model": "glm-5.3"
+}

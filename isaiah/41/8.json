@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Apan ikaw, Yisrael, akong sulugoon, Yakov nga akong gipilia, kaliwat ni Avraham nga akong gihigugma —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apan ikaw"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akong sulugoon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "akong gipilia"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "akong gihigugma"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:17.605261655Z",
+  "model": "glm-5.3"
+}

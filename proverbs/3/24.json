@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kon maghigda ka, dili ka makahadlok; oo, maghigda ka, ug himsamon ang imong pagkatulog.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "maghigda ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "makahadlok"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ug maghigda ka"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ug himsamon"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ang imong pagkatulog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:44.589766224Z",
+  "model": "glm-5.3"
+}

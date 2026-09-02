@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Sa mga natad sa lunhaw nga sagbot pahigdaako niya ako; duol sa mga tubig sa kahusay iya ako gipangunahan.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "sa mga natad"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "lunhaw nga sagbot"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "pahigdaako niya ako"
+    },
+    {
+      "surface": "על",
+      "gloss": "duol sa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "sa kahusay"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "iya ako gipangunahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:43.032068236Z",
+  "model": "glm-5.3"
+}

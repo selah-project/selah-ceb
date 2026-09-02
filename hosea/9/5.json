@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Unsa man ang inyong buhaton sa adlaw sa gitudlung nga panahon, ug sa adlaw sa fiesta ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "inyong buhaton"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "sa adlaw sa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gitudlung nga panahon"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "ug sa adlaw sa"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fiesta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:23.265594896Z",
+  "model": "glm-5.3"
+}

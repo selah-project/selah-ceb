@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Nagiingon siya sa iyang kasingkasing: Nakalimot na si El, gitagoan niya ang iyang panagway, dili gayod motan-aw ⟨siya⟩ hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nagiingon siya"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "Nakalimot na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "gitagoan niya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iyang panagway"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "motan-aw"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:37.708762327Z",
+  "model": "glm-5.3"
+}

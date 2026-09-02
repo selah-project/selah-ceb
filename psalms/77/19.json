@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Ang tingog sa imong dalogdog ⟨naa⟩ sa bagyo; nagsiga ang mga kilat ⟨sa⟩ kalibutan; nagkurog ang yuta ug nayanig.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "sa imong dalogdog"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa bagyo"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "nagsiga"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ang mga kilat"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨sa⟩ kalibutan"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "nagkurog"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ug nayanig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:56.574050476Z",
+  "model": "glm-5.3"
+}

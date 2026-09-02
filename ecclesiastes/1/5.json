@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nagasilak ⟨ang⟩ adlaw, ug nagatungha ⟨ang⟩ adlaw, ug ngadto sa iyang dapit nga ginapanggapa ⟨kini⟩ nga nagasilak didto ⟨na⟩.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ug nagasilak"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨ang⟩ adlaw"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ug nagatungha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨ang⟩ adlaw"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iyang dapit"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ginapanggapa"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "nagasilak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto ⟨na⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:02.144038516Z",
+  "model": "glm-5.3"
+}

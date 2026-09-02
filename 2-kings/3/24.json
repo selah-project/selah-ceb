@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug mingduol sila ngadto sa kampo sa Yisrael, ug mitindog ang Yisrael ug gihampak nila ⟨את⟩ ang Moab, ug milayas sila gikan sa ilang atbang; ug misulod sila sa yuta ug naghampak ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ug mingduol sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ug gihampak nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ug milayas sila"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "gikan sa ilang atbang"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "ug misulod sila"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "ug naghampak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:55.012166023Z",
+  "model": "glm-5.3"
+}

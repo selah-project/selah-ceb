@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "⟨את⟩ ang bulan ug ⟨ang⟩ mga bitoon pagpanggobyerno sa gabii, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ug mga bitoon"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "pagpanggobyerno"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:44.826375896Z",
+  "model": "glm-5.3"
+}

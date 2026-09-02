@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Naghimo ako ⟨alang sa akong kaugalingon⟩ og mga tanaman ug mga pardes ⟨mga tanom nga prutas⟩, ug nagtanom ako diha kanila og mga kahoy sa tanang bunga.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang sa akong kaugalingon"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mga tanaman"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ug mga pardes"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ug nagtanom"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "diha kanila"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:55.965776556Z",
+  "model": "glm-5.3"
+}

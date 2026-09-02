@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Ipakita ngadto sa imong mga sulugoon ang imong buhat, ug ang imong kahalangdon ibabaw sa ilang mga anak.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Ipakita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulugoon"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ang imong buhat"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ug ang imong kahalangdon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ilang mga anak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:09.951268218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Elasah natawo ⟨את⟩ si Sismay, ug si Sismay natawo ⟨את⟩ si Shallum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Ug si Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Sismay"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "si Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ug si Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "si Shallum"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:31.306971339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Nalimtan ako ingon usa ka minatay gikan sa ⟨kasingkasing⟩; nahimo ako ingon usa ka sudlong nga naguba.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "nalimtan ako"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "ingon usa ka minatay"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "gikan sa kasingkasing"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimo ako"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "ingon usa ka sudlong"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "naguba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.956806378Z",
+  "model": "glm-5.3"
+}

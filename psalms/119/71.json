@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Maayo alang kanako nga gigutos ⟨ako⟩, aron makakat-on ako sa imong mga batas.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "gigutos"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "makakat-on"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga batas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:12.630218273Z",
+  "model": "glm-5.3"
+}

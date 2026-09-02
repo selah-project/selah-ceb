@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Gipapanumpa ni Yosef ⟨את⟩ ang mga anak ni Yisrael, nga nagaingon: Poso nga mopakipag-uban kamo ug paduolon kamo ni Elohim, ug dad-on ninyo ⟨את⟩ akong mga bukog gikan dinhi.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Gipapanumpa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "poso"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "mopakipag-uban ug paduolon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "ug dad-on ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akong mga bukog"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "akong mga bukog"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan dinhi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:28.177534940Z",
+  "model": "glm-5.3"
+}

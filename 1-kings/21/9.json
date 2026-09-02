@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagsulat siya sa mga sulat ⟨sa⟩ pag-ingon: Pagpahibalo ug pagpuasa, ug paglingkodnon ⟨את⟩ si Navot ⟨sa⟩ ulohan ⟨sa⟩ mga tawo.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "nagsulat siya"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "sa mga sulat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pag-ingon"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pagpahibalo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "pagpuasa"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "ug paglingkodnon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "si Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "sa ulohan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:02.350881485Z",
+  "model": "glm-5.3"
+}

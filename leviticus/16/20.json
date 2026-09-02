@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug human siya makahuman sa pagpakaparas ⟨את⟩ sa santuaryo ug ⟨את⟩ sa tolda sa pagtagbo ug ⟨את⟩ sa halaran, igadala niya ⟨את⟩ ang buhi nga kanding.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "ug human makahuman"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "sa pagpakaparas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santuaryo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santuaryo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tolda sa pagtagbo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ug igadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buhi nga kanding"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ang kanding"
+    },
+    {
+      "surface": "החי",
+      "gloss": "buhi"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:42.912972345Z",
+  "model": "glm-5.3"
+}

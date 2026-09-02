@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Sa magdadagdag ⟨alang sa⟩ mamumuno sa koral: Ayaw pagguba. Usa ka mizmor ni Asaf, usa ka awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa mamumuno sa koral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pagguba"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.222337880Z",
+  "model": "glm-5.3"
+}

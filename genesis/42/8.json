@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug nakila ni Yosep ⟨את⟩ igsoon niya, apan sila wala makaila kaniya.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "nakila ni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igsoon niya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "igsoon niya"
+    },
+    {
+      "surface": "והם",
+      "gloss": "apan sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "makaila kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:15.492608206Z",
+  "model": "glm-5.3"
+}

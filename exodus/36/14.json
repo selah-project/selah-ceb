@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gihimo niya ang mga kurtina sa buhok sa kambing alang sa tolda ibabaw sa balay-balay; napulo ug usa ka mga kurtina ang gihimo niya ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gihimo niya"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sa mga kambing"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "alang sa tolda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang balay-balay"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "napulo ug usa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(napulo ug usa)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga kurtina)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:10.217244351Z",
+  "model": "glm-5.3"
+}

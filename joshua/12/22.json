@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "ang hari sa Kedesh, usa; ang hari sa Yokneam sa Karmel, usa.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ang hari sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari sa"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "sa Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:39.826525894Z",
+  "model": "glm-5.3"
+}

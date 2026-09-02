@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug miingon kami sa among adunay: Dili makahimo ang batan-on sa pagbiya ⟨את⟩ sa iyang amahan; ug ⟨kung⟩ magbiya siya ⟨את⟩ sa iyang amahan, ug mamatay ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ug miingon kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "among adunay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makahimo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batan-on"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "sa pagbiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang amahan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ug magbiya siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang amahan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ug mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:11.323976194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Keso ug dugos mokaon siya ⟨aron⟩ sa pagkahibalo niya pagbalibad sa daotan ug pagpili sa maayo.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "Keso"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ug dugos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon siya"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "sa pagkahibalo niya"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "pagbalibad"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "ug pagpili"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "sa maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:13.095331526Z",
+  "model": "glm-5.3"
+}

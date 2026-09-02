@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug sa ikawalo nga adlaw ituli ang panit sa iyang atubangan nga panit.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Ug sa ... adlaw"
+    },
+    {
+      "surface": "hasshemini",
+      "gloss": "sa ikawalo"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ituli"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "panit"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "sa iyang atubangan nga panit"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:50.331962404Z",
+  "model": "glm-5.3"
+}

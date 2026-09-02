@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug nagtigom ang Yehuda sa pagpangita kang Yahweh; bisan gikan sa tanang mga dakbayan sa Yehuda miabot sila sa pagpangita ⟨את⟩ kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ug nagtigom"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehuda"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "gikan kang Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanang"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "באו",
+      "gloss": "miabot sila"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:29.537439073Z",
+  "model": "glm-5.3"
+}

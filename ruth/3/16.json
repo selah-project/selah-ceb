@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug misulod siya ngadto sa iyang ugangan nga babaye, ug miingon ⟨kini⟩: Kinsa ka, akong anak nga babaye? Ug gisulti niya kaniya ⟨את⟩ ang tanan nga gibuhat ngadto kaniya sa tawo.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "Ug misulod siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "iyang ugangan nga babaye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "akong anak nga babaye"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "Ug gisulti niya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:55.781328849Z",
+  "model": "glm-5.3"
+}

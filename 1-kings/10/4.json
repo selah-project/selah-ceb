@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nakita sa reyna sa Sheba ⟨את⟩ ang tibuok kaalam ni Shelomoh, ug ang balay nga iyang gipatindog.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "reyna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sa Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok kaalam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ug ang balay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "iya gipatindog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:53.742135155Z",
+  "model": "glm-5.3"
+}

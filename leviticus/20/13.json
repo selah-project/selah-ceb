@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ang tawo nga magasiga ⟨את⟩ sa usa ka lalaki, ⟨sa⟩ mga higdaanan sa usa ka babaye — makaulaw nga buhat ang ilang gibuhat nga duha; kamatayon gayod sila; ang ilang dugo anaa ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "magasiga uban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa usa ka lalaki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sa usa ka lalaki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "⟨sa⟩ mga higdaanan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sa usa ka babaye"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "makaulaw nga buhat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ang ilang gibuhat"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "nga duha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "gayod sila pagakamatyon"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ang ilang dugo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "anaa ⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:14.425398360Z",
+  "model": "glm-5.3"
+}

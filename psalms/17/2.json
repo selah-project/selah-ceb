@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Gikan sa atubangan mo mobolutana ang akong pagtulon-an; ang imong mga mata makakita ⟨sa⟩ mga tinuod nga matarong.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Gikan sa atubangan mo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akong pagtulon-an"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mobolutana"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ang imong mga mata"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "⟨sa⟩ mga tinuod nga matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:23.239587109Z",
+  "model": "glm-5.3"
+}

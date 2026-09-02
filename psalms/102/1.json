@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Pangadyi sa maluluy-on sa dihang manglimbong ⟨siya⟩, ug sa atubangan ni Yahweh ibubo niya ang iyang panaghot.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pangadyi"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "sa maluluy-on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sa dihang"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "manglimbong"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ug sa atubangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ibubo"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ang iyang panaghot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:22.068564786Z",
+  "model": "glm-5.3"
+}

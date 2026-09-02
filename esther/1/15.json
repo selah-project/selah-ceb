@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sumala sa balaod, unsa ang buhaton kang reyna nga si Vasti, tungod kay wala niya buhata ⟨את⟩ ang sugo ni Haring Ajashverosh pinaagi sa mga eunuko?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "sumala sa balaod"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ang buhaton"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "kang reyna"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "si Vasti"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "niya buhata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang sugo"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ang sugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ni Haring"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "mga eunuko"
+    }
+  ],
+  "timestamp": "2026-09-02T00:50:18.725548993Z",
+  "model": "glm-5.3"
+}

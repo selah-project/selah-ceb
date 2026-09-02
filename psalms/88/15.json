@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Ngano, Yahweh, nga gisalikway mo ang akong kalag? Ngano nga gitago mo ang imong panagway gikan kanako?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "gisalikway mo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "gitago mo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong panagway"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:43.637401208Z",
+  "model": "glm-5.3"
+}

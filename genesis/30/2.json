@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug nasuko ang nawong ni Yaakov kang Rachel, ug miingon siya: Ako ba ⟨ang⟩ puli sa Elohim, nga nagbawal kanimo sa bunga sa tiyan?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "nasuko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ang nawong"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "kang Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon siya"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ang puli sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "nagbawal"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "sa tiyan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:12.048706059Z",
+  "model": "glm-5.3"
+}

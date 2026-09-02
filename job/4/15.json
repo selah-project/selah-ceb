@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang usa ka gininhawa milabay sa atubangan sa akong nawong; nagbat-og ang balahibon sa akong unod.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "ug ang gininhawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "atubangan sa akong nawong"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "milabay"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "nagbat-og"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "ang balahibon"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "sa akong unod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:59.916292181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug gidala ko kamo ⟨את⟩ kapatanayan ka tuig didto sa kamingawan: wala mapula ang inyong mga bisti gikan diha kaninyo, ug ang imong sapin sa tiil wala mapula gikan sa imong tiil.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "Ug gidala ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kapatanayan ka tuig"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatanayan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "didto sa kamingawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "mapula"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "ang inyong mga bisti"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "gikan diha kaninyo"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "ug ang imong sapin sa tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "mapula"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "imong tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:34.030091502Z",
+  "model": "glm-5.3"
+}

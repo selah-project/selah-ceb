@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug nagsulti si Moshe ug si Elazar ⟨ang⟩ paryente kanila ⟨את⟩ sa kapatagang dapit sa Moav, duol sa Yarden sa Yericho, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "ug si Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨ang⟩ paryente"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kanila ⟨את⟩",
+      "marks": "sa kapatagang dapit sa Moav"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "sa kapatagang dapit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "על",
+      "gloss": "duol sa"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:30.027946238Z",
+  "model": "glm-5.3"
+}

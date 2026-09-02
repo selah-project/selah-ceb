@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ang bino ⟨ang⟩ manuk-oling, ang ilimnon nga nakahubog nagkagubot; ug bisan kinsa nga malibog niini dili magamauswagon sa kaalam.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "manuk-oling"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ang bino"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nagkagubot"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ilimnon nga nakahubog"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug bisan kinsa"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "malibog"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "makaalam"
+    }
+  ],
+  "timestamp": "2026-09-02T01:07:03.449371301Z",
+  "model": "glm-5.3"
+}

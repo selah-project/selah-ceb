@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kay ang mga gihaman sa mga katawhan ⟨mga⟩ kahawdaw ⟨kini⟩; kay kahoy gikan sa kagubatan ang gigisi ⟨nila⟩, buhat sa mga kamot sa panday, gamit ang palakol.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "mga gihaman"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kahawdaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "gikan sa kagubatan"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "ang gigisi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa mga kamot"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa panday"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "gamit ang palakol"
+    }
+  ],
+  "timestamp": "2026-09-01T21:17:32.134871606Z",
+  "model": "glm-5.3"
+}

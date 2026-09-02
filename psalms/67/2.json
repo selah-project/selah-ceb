@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 67,
+  "translation": "Elohim, maayo ka ⟨kanamo⟩ ug pagamaan mo kami; mopasiwang ang imong nawong ⟨uban⟩ kanamo. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "maayo ka kanamo"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ug pagamaan mo kami"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "mopasiwang"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kanamo",
+      "marks": "kanamo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:36.805403506Z",
+  "model": "glm-5.3"
+}

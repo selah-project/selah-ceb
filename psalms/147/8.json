@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Ang nagatabon sa kalangitan sa mga panganod, ang naghandum alang sa yuta ug ulan, ang nagapatubo sa mga bukid ug balilihon.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ang nagatabon"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "sa mga panganod"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "ang naghandum"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "alang sa yuta"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ug ulan"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "ang nagapatubo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ug balilihon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:30.507983634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nawala na ang kusog sa akong mga mata sa paghulat sa imong kaluwas ug sa imong pulong sa pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mga mata"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nawala na ang kusog"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sa imong kaluwas"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "ug sa imong pulong"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sa pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:18.372504768Z",
+  "model": "glm-5.3"
+}

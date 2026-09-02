@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sumala sa imong mga pagtadol ⟨ang tanan⟩ nagbarog hangtod karon nga adlaw, kay ang tanan mga sulugoon mo.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "sumala sa imong mga pagtadol"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hangtod karon nga adlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mga sulugoon mo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:02.746373460Z",
+  "model": "glm-5.3"
+}

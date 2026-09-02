@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ikaw, Yahweh, ang magapanalipad kanila, magapanalipad ⟨kanamo⟩ gikan niining henerasyonhang ⟨ngadto sa⟩ kahangtoran.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "magapanalipad kanila"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "magapanalipad"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "niining henerasyonhang"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kahangtoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:12.665679765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Hinoon kini alang kaniya ingon sa bisti nga iyang gisul-ob, ug ingon sa hawak nga iyang gikakap nga walay hunong.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "hinoon kini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "ingon sa bisti"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "nga iyang gisul-ob"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "ug ingon sa hawak"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga walay hunong"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "nga iyang gikakap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:33.400827650Z",
+  "model": "glm-5.3"
+}

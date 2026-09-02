@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ⟨את⟩ ang arnevet (kuneho), kay nagapatunhay ⟨siya⟩ ug pag-usab sa iyang pagkaon sa ngipon, apan ang kuko wala niya gibahinbahin — dili hinlo ⟨siya⟩ alang kaninyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang arnevet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ang arnevet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nagapatunhay ug pag-usab"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "pagkaon sa ngipon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "apan ang kuko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "gibahinbahin"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "dili hinlo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:02.652770534Z",
+  "model": "glm-5.3"
+}

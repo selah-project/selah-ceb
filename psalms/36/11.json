@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Iunat ang imong hesed (maayong gugma) ngadto sa mga nakakaila kanimo, ug ang imong pagkamatarong ngadto sa matarong nga kasingkasing.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Iunat"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imong hesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ngadto sa mga nakakaila kanimo"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ug ang imong pagkamatarong"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ngadto sa matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "nga kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.684102758Z",
+  "model": "glm-5.3"
+}

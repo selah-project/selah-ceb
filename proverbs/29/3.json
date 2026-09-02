@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tawo nga nasugiran sa kaalam magapalipay sa iyang amahan; apan ang nagapakadako sa mga bayaran magawala sa bahandi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nasugiran"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magapalipay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "nagapakadako"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "mga bayaran"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "magawala"
+    },
+    {
+      "surface": "הון",
+      "gloss": "bahandi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:35.022162303Z",
+  "model": "glm-5.3"
+}

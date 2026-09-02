@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang pangulo sa Magdiel, ang pangulo sa Iram — kini ⟨mao⟩ ang mga pangulo sa Edom.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Magdiel"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Iram"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:13.924995984Z",
+  "model": "glm-5.3"
+}

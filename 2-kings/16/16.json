@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gibuhat ni Uriya nga paryente ⟨ang tanan⟩ sumala sa tanan nga gisugo sa hari nga si Achaz.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ni Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga paryente"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "nga si Achaz"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:45.199845962Z",
+  "model": "glm-5.3"
+}

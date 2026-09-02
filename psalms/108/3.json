@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Mataja kamo, O nebel ug kinor; ako magapukaw sa kaadlawon.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "mataja kamo"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "O nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ug kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ako magapukaw"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sa kaadlawon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:11.803912386Z",
+  "model": "glm-5.3"
+}

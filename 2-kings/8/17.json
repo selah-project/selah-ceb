@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Anak siya sa tulo ka katan-og ug duha ka tuig sa iyang paghari, ug walo ka tuig siya naghari sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tulo ka katan-og"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ug duha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "היה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sa iyang paghari"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ug walo ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:00.757494738Z",
+  "model": "glm-5.3"
+}

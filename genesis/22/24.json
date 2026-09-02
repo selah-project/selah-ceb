@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang iyang iroy nga babaye — Reumah ang iyang ngalan — mianak usab siya ⟨את⟩ ni Teva, ug ⟨את⟩ ni Gaham, ug ⟨את⟩ ni Tahash, ug ⟨את⟩ ni Maakha.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Ug ang iyang iroy nga babaye"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reumah"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mianak usab"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Teva"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "ni Teva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ni Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "ni Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ni Tahash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ni Tahash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ni Maakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ni Maakha"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:53.030576569Z",
+  "model": "glm-5.3"
+}

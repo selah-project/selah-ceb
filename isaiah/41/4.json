@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Kinsa ang nangbuhat ug nagbuhat, nga nagtawag sa mga kaliwatan gikan sa sinugdan? Ako si Yahweh, ang Unang, ug kauban ⟨את⟩ ang mga Ulahi — ako kini ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ang nangbuhat"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug nagbuhat"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "sa mga kaliwatan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "gikan sa sinugdan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ang Unang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga Ulahi"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "mga Ulahi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:27.296781188Z",
+  "model": "glm-5.3"
+}

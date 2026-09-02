@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Sa ika-kawhaan ug pito ka tuig ni Yaravamam, hari sa Yisrael, naghari si Azaryah, anak ni Amatsyah, hari sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Sa ... tuig"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ug pito"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "ni Yaravamam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "si Azaryah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ni Amatsyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:51.740514211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "May gamay nga dakbayan ug pipyla ka mga tawo ⟨sulod⟩ niini; ug miabot ang usa ka hari nga dako ngadto niini, ug gilibotan niya ⟨את⟩ kini, ug nagtindog siya batok niini og mga dakong kuta sa pagpangulong.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ug mga tawo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pipyla"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ngadto niini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ug gilibotan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ug nagtindog"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok niini"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "mga kuta sa pagpangulong"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "mga dako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:04.180954126Z",
+  "model": "glm-5.3"
+}

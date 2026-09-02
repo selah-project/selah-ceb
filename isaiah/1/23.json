@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 1:23",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang imong mga pangulo mga minugna, ug mga kauban sa mga kawatan; tanan gugma sa suhol ug nagsunod sa mga gasa; ang ilo dili nila pagahukman, ug ang kaso sa biyuda dili makaadto kanila.",
+  "tokens": [
+    {
+      "surface": "שריך",
+      "gloss": "imong mga pangulo"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "mga minugna"
+    },
+    {
+      "surface": "וחברי",
+      "gloss": "ug mga kauban"
+    },
+    {
+      "surface": "גנבים",
+      "gloss": "mga kawatan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "gugma"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suhol"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "ug nagsunod"
+    },
+    {
+      "surface": "שלמנים",
+      "gloss": "mga gasa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ilo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "nila pagahukman"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ug kaso"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "biyuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "makaadto"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:00.620652137Z",
+  "model": "glm-5.3"
+}

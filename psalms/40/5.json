@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Bulahan ang tawo nga nagbutang kang Yahweh isip iyang pagsalig, ug wala mobaling ngadto sa mga mapahitas-on ug sa mga mipalapas sa bakak.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "iyang pagsalig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "mobaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "mga mapahitas-on"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ug sa mga mipalapas"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "sa bakak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:32.173453724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ang hesed ni Yahweh sa walay katapusan pag-antihon ko; sa henerasyon ug ngadto sa henerasyon ipahibalo ko ang ⟨imong⟩ pagkamatinud-anon sa akong baba.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Ang hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "pag-antihon ko"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug ngadto sa henerasyon"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ipahibalo ko"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang ⟨imong⟩ pagkamatinud-anon"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akong baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:13.841480872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Magabut ⟨ang⟩ dalan aron moabot ang espada ⟨את⟩ Rabbah sa mga anak ni Ammon, ug ⟨את⟩ Yehudah sa Yerushalayim ⟨nga⟩ pinatukod.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "magabut"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah sa mga anak ni Ammon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "pinatukod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:38:50.072226106Z",
+  "model": "glm-5.3"
+}

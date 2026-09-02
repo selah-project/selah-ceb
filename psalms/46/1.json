@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Sa panguna sa mga anak ni Korach, sumala sa Alamot, usa ka awit.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa panguna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ni Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sa Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "usa ka awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.224485094Z",
+  "model": "glm-5.3"
+}

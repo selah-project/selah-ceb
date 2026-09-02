@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gikan sa baba sa mga gagmayng bata ug mga nagasuso imong gitukod ⟨ang⟩ kusog, aron sa imong mga kaaway, sa pagpakalma sa kaaway ug sa manimalos.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Gikan sa baba sa"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "mga gagmayng bata"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ug mga nagasuso"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "imong gitukod"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron sa"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "imong mga kaaway"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "sa pagpakalma sa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "ug sa manimalos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:56.055093348Z",
+  "model": "glm-5.3"
+}

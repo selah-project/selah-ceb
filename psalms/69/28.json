@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ipadangat ang pagkadaut sa ilang pagkadaut, ug ayaw pagtugota sila nga mosulod sa imong pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ipadangat"
+    },
+    {
+      "surface": "עון",
+      "gloss": "pagkadaut"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ilang pagkadaut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw pagtugota"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "nga mosulod"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imong pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:14.011292762Z",
+  "model": "glm-5.3"
+}

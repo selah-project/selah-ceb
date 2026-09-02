@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gipahibalo ni Mikayahu kanila ⟨את⟩ ang tanan nga mga pulong nga iyang nadungog sa pagbasa ni Barukh sa libro ngadto sa mga dunggan sa katawhan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ug gipahibalo ni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagdungog"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "sa pagbasa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukh"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "sa libro"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga dunggan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:26:36.691101742Z",
+  "model": "glm-5.3"
+}

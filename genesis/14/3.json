@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang tanan niini naghiusa ngadto sa walog ha-Siddim ⟨ang walog sa Siddim⟩ — kini mao ang Dagat nga Asin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "naghiusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "walog"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ha-Siddim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Dagat"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "nga Asin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:51.392617931Z",
+  "model": "glm-5.3"
+}

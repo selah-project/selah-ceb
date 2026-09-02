@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ⟨את⟩ ang dakong balay giputos niya ug kahoy nga boroš, ug giputos niya kini ug bulawan nga maayo, ug gipatindog niya diha niini mga palmira nga haligi ug mga kadena.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakong balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "giputos"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "boroš"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "ug giputos niya kini"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug gipatindog niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "diha niini"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "mga palmira nga haligi"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "ug mga kadena"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:25.254148618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ⟨את⟩ ang iyang duha ka anak, nga ang ngalan sa usa ka ⟨ang usa⟩ mao Gershom, kay nagsiyasay siya: Usa ka dayo ang akong pagkahimo sa yuta nga kaliwatan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang duha ka anak"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagsiyasay"
+    },
+    {
+      "surface": "גר",
+      "gloss": "dayo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ang akong pagkahimo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:40.138619522Z",
+  "model": "glm-5.3"
+}

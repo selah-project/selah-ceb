@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa pagkatawo ug panahon sa pagkamatay; panahon sa pagtanom ug panahon sa pagpanggupti sa gitanom.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa pagkamatay"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "sa pagtanom"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "sa pagpanggupti"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "sa gitanom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:49.250393914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Kalayo ug yelo, dahon sa niebe ug balahun, hangin sa bagyo — nagatuman ⟨sa⟩ iyang pulong.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Kalayo"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ug yelo"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "niebe"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "ug balahun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "hangin"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "sa bagyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagatuman"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "iyang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:21.085683768Z",
+  "model": "glm-5.3"
+}

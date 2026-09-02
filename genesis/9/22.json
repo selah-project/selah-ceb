@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug si Kham, ang amahan sa Kanaan, nakakita ⟨את⟩ sa kahuboan sa iyang amahan, ug gisulti niya kini sa iyang duha ka igsoon sa gawas.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "חם",
+      "gloss": "si Kham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang amahan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahooban sa iyang amahan"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "kahooban"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisulti niya"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "sa duha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ka igsoon niya"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "sa gawas"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:35.104918696Z",
+  "model": "glm-5.3"
+}

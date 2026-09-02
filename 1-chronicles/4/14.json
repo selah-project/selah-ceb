@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Meonotay natawo-an kang Ofrhah ⟨את⟩; ug si Serayah natawo-an kang Yoav ⟨את⟩, amahan sa Ge-Kharashim; kay mga artesano sila.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Ug si Meonotay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofrhah"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofrhah"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ug si Serayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan sa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Ge (walog)"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Kharashim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mga artesano"
+    },
+    {
+      "surface": "היו",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:44.441948296Z",
+  "model": "glm-5.3"
+}

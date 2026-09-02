@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Moato kanimo si Yahweh sa adlaw sa kagul-an; pataason ka sa ngalan sa Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "moato kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kagul-an"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "pataason ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:26.494518702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang bunga sa matarong ⟨ang⟩ kahoy sa kinabuhi, ug ang mobuhat ⟨sa⟩ mga kalag maalamon.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ug ang mobuhat"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "mga kalag"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalamon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:57.128366597Z",
+  "model": "glm-5.3"
+}

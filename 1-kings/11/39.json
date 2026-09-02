@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug pagapakatawan ko ⟨את⟩ ang kaliwat ni David tungod niini, apan dili sa tanan ⟨⟨ang⟩⟩ nga mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ug pagapakatawan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kaliwat ni David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nga mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:05.308609213Z",
+  "model": "glm-5.3"
+}

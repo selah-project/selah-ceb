@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Dili siya magmahawag isip usa ka balo ⟨nga balaan⟩ taliwala sa iyang mga katawhan, ⟨aron⟩ dili siya mahimong dili balaan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "magmahawag"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "isip usa ka balaan"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "taliwala sa iyang mga katawhan"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "aron dili siya mahimong dili balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:46.917872697Z",
+  "model": "glm-5.3"
+}

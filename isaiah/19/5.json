@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang tubig magkulang gikan sa dagat, ug ang suba mahitulod nga uga.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "magkulang"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "gikan sa dagat"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ug ang suba"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "mahitulod"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "uga"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:00.311257266Z",
+  "model": "glm-5.3"
+}

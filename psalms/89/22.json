@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ang akong kamot ⟨magapatindog⟩ uban kaniya; oo, ang akong bukton mopalig-on kaniya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ang akong kamot"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "magpatindog"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ang akong bukton"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "mopalig-on kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:22.362023675Z",
+  "model": "glm-5.3"
+}

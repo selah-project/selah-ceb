@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Atbang sa ⟨mga⟩ boluntaryo nga borda ⟨mga⟩ anaa ang mga singsing — mga puloy-anan sa mga pasakitan sa pagdala ⟨את⟩ sa lamesa.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ang borda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mga anaa"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ang mga singsing"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga puloy-anan"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "sa mga pasakitan"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:34.757952863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Nagdagundung si Yahweh gikan sa ⟨mga⟩ langit, ug ang Elyon naghatag ⟨sa⟩ iyang tingog.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "nagdagundung"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "⟨mga⟩ langit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "ug ang Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "naghatag"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sa iyang tingog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:40.161053397Z",
+  "model": "glm-5.3"
+}

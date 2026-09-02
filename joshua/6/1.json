@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Si Yerikho nagsira ug gisira tungod sa atubangan sa mga anak ni Yisrael — walay mogawas ug walay mosulod.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Si Yerikho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "nagsira"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "gisira"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa atubangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "mosulod"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:18.829958324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang tibuok katilingban ⟨isip usa⟩ upat ka napulo ka libo, duha ka libo, tulo ka gatos ug kan-anan ka napulo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "isip usa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ka napulo ka libo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duha ka libo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ug kan-anan ka napulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:35.726152372Z",
+  "model": "glm-5.3"
+}

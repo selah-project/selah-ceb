@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Apan kon dili kamo mamati Kanako, ug dili ninyo buhaton ⟨את⟩ tanan ⟨ang⟩ niining mga sugoa",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Apan kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamo mamati"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Kanako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo buhaton"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "niining"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:08.918223658Z",
+  "model": "glm-5.3"
+}

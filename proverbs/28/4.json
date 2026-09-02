@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ang mga nagbibiya sa Torah nagpasiawda sa rutang, apan ang mga nagbantay sa Torah nagasukol kanila.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "Ang mga nagbibiya"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "nagpasiawda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa rutang"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "apan ang mga nagbantay"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "sa Torah"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "nagasukol"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:59.602128285Z",
+  "model": "glm-5.3"
+}

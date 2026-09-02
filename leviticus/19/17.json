@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ayaw pagdumot ⟨את⟩ sa imong igsoon sa sulod sa imong kasingkasing; pasidaa gayod ⟨את⟩ ang imong kauban, ug ayaw pagdala ⟨sa⟩ sala ibabaw kaniya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "pagdumot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong igsoon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa sulod sa imong kasingkasing"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "pasidaa"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong kauban"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ang imong kauban"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "pagdala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ibabaw kaniya"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sala"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:28.852908500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gipalig-on niya ⟨את⟩ ang mga kuta, ug gipahimutang niya sa mga kini ang mga pangulo ug mga taytan sa pagkaon, lana ug bino.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "gipalig-on niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kuta"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ang mga kuta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gipahimutang niya"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa mga kini"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "ug mga taytan"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ug lana"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ug bino"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:33.525573824Z",
+  "model": "glm-5.3"
+}

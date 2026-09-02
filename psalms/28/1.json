@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ni Dawid. Ngadto kanimo, Yahweh, nagatawag ako; bato ako nga kabilin, ayaw paghilum kanako; basi ikaw maghilum kanako ug mahisama ako sa mga manaug ngadto sa hawyan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nagatawag ako"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "bato ko nga kabilin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "paghilum"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basi"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ikaw maghilum"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ug mahisama ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban sa"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "mga manaug"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hawyan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:56.783636206Z",
+  "model": "glm-5.3"
+}

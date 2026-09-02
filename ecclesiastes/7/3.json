@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Maayo ang kasubo kay sa katawa, kay sa kagul-anan sa nawong magamaayo ang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ang kasubo"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kay sa katawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sa kagul-anan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sa nawong"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "magamaayo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:23.534624488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ayaw pagkadali sa ⟨paglakaw⟩ gikan sa iyang atubangan; ayaw pagbarog sa daotang butang; kay ang tanan nga iyang luyong buhaton niya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "pagkadali"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "gikan sa iyang atubangan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "⟨paglakaw⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "pagbarog"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa butang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "iyang luyong"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton niya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:29.238675596Z",
+  "model": "glm-5.3"
+}

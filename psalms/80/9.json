@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Ang ugas gikan sa Mitsrayim imong gibalhin; gipapahawa nimo ang ⟨mga⟩ nasod, ug imong gitinanom kini.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "ang ugas"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "imong gibalhin"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "gipapahawa nimo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ug imong gitinanom kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:51.014912128Z",
+  "model": "glm-5.3"
+}

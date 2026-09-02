@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug mipakadto ang usa ka lalaki gikan sa balay ni Levi, ug mikuha siya ⟨את⟩ sa anak nga babaye ni Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mipakadto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usa ka lalaki"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug mikuha siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa anak nga babaye ni Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:35.356781141Z",
+  "model": "glm-5.3"
+}

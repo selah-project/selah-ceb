@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang pulong ni Yahweh nga ⟨na⟩kangkatad kang Yoel, anak ni Petuel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nakangkatad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:46.696498974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug nagsikat alang kaniya ang adlaw, sa dihang miagi ⟨siya⟩ ⟨את⟩ Peniel, ug siya nagkahol sa iyang paa.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "nagsikat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa dihang"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "miagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peniel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Peniel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "nagkahol"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "iyang paa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:08.679145881Z",
+  "model": "glm-5.3"
+}

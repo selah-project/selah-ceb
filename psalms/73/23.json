@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Apan ako sa kanunay ⟨⟨kauban⟩ nimo⟩; gakap nimo ang akong kamot nga tuo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kauban nimo"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "gakap nimo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ang akong kamot"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "nga tuo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.012374861Z",
+  "model": "glm-5.3"
+}

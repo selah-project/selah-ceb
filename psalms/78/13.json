@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gibahin niya ang dagat ug gipauban sila molatas; ug gipatindog niya ang mga tubig sama sa bungtod ⟨sa balud⟩.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "gibahin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ug gipauban sila molatas"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ug gipatindog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sama sa"
+    },
+    {
+      "surface": "נד",
+      "gloss": "bungtod ⟨sa balud⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:03.846937558Z",
+  "model": "glm-5.3"
+}

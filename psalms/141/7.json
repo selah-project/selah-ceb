@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Ingon sa nangatol ug nagputol-nagbali sa yuta, mao man ang among mga bukog nga naisog sa baba sa Sheol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "nangatol"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ug nagputol-nagbali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "naisog"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ang among mga bukog"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:36.184409835Z",
+  "model": "glm-5.3"
+}

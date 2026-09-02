@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "El iyan, El iyan, ngano nga imo akong gibyaan, layo sa akong kaluwas, ⟨gikan sa⟩ mga pulong sa akong pagtuol?",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El iyan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El iyan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "imo akong gibyaan"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "layo"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "sa akong kaluwas"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "sa akong pagtuol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:28.245460884Z",
+  "model": "glm-5.3"
+}

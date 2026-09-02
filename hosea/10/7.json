@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Malaglag ang Shomron, ⟨lakip ang⟩ iyang hari, ingon sa bula sa nawong sa tubig.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "malaglag"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "iyang hari"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ingon sa bula"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:19.835216790Z",
+  "model": "glm-5.3"
+}

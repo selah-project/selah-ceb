@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Kay makita niya nga ang mga maalam mamatay; ngaakoa sa buang ug sa mabahin sila mangawala, ug ilang biyaan ngadto sa uban ang ilang bahandi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita niya"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "nga ang mga maalam"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ngaakoa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "sa buang"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "ug sa mabahin"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sila mangawala"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "ug ilang biyaan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "ngadto sa uban"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ang ilang bahandi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:59.451246743Z",
+  "model": "glm-5.3"
+}

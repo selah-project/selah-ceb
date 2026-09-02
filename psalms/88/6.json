@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Taliwala sa mga minatay ⟨ako⟩ gawasnon, ingon sa mga gipatay nga nagkahigda sa lubnganan, nga wala na ⟨nimo⟩ sila mahinumdoman, ug sila giputol gikan sa imong kamot.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "taliwala sa mga minatay"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "gawasnon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mga gipatay"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "nagkahigda"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lubnganan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "nimo sila mahinumdoman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "gikan sa imong kamot"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "giputol"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:03.323343075Z",
+  "model": "glm-5.3"
+}

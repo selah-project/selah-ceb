@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Kay ang akong amahan ug ang akong inahan nagbiya kanako, apan ⟨si⟩ Yahweh magatigum sa akon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang akong amahan"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "ug ang akong inahan"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "nagbiya kanako"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "apan si Yahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "magatigum sa akon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:20.898417013Z",
+  "model": "glm-5.3"
+}

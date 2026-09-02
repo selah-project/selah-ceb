@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 70,
+  "translation": "Magmalipayon ug magakadako ⟨kaniya⟩ sa imoha ang tanan nga nagapangita kanimo, ug moingon sila sa kanunay: Magdako si Elohim, ⟨sila⟩ nga nahigugma sa imong kaluwas!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "Magmalipayon"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ug magakadako"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sa imoha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "nagapangita kanimo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug moingon sila"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Magdako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "⟨sila⟩ nga nahigugma"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "sa imong kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:01.450102447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagaingon sila: Ngano, Yahweh, Elohim ni Yisrael, ngano nahitabo kini sa Yisrael — nga mahimong kulang karon ang usa ka tribo gikan sa Yisrael?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nagaingon sila"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "nga mahimong kulang"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "gikan sa Yisrael"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "usa ka tribo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:11.165154236Z",
+  "model": "glm-5.3"
+}

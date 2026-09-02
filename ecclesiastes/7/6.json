@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay ingon sa paglagit sa mga tunok iles ubos sa kolon, mao man ang katawa sa hungaw — kini usab kay hawak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ingon sa paglagit"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "sa mga tunok iles"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kolon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao man"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ang katawa"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "sa hungaw"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hawak"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:17.562045689Z",
+  "model": "glm-5.3"
+}

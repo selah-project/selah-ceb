@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Luwasa ako gikan sa lapok, ug ayaw pagtugota nga malumos ako; dalona ako pagluwas gikan sa akong mga magdaut ug gikan sa kalaluman sa mga tubig.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Luwasa ako"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "gikan sa lapok"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "nga malumos ako"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "dalona ako pagluwas"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "gikan sa akong mga magdaut"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "ug gikan sa kalaluman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:17.336280749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Apan ako, sa imong hesed ako nagsalig; magmalipayon ang akong kasingkasing sa imong kaluwasan; magakanta ako kang Yahweh, kay siya nagbuhat ug kaayo kanako.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "ב חסד ך",
+      "gloss": "sa imong hesed"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ako nagsalig"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "ב ישועה ך",
+      "gloss": "sa imong kaluwasan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "magakanta ako"
+    },
+    {
+      "surface": "ל יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nagbuhat ug kaayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:40.404408030Z",
+  "model": "glm-5.3"
+}

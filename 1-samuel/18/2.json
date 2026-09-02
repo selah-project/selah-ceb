@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gikuha siya ni Shaul niadtong ⟨adlaw⟩ nga ⟨toa⟩, ug wala siya itugot mobalik sa balay sa iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Gikuha siya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "niadtong adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga toa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "itugot"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:27.783268895Z",
+  "model": "glm-5.3"
+}

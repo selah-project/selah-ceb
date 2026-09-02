@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 84,
+  "translation": "Ang among panangga, tan-awa, O Elohim, ug susihon ang dagway sa imong Mesiyas.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ang among panangga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ug susihon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang dagway"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "sa imong Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:38.509580161Z",
+  "model": "glm-5.3"
+}

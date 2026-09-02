@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Tungod kay Tsiyon dili ako maghilum, ug tungod kay Yerushalayim dili ako mopahulay, hangtod nga mogula ang iyang pagkamatarong ingon sa kahayag, ug ang iyang kaluwasan ingon sa sulo nga modan-ag.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "maghilum"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ug tungod kay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "mopahulay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "ingon sa kahayag"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ang iyang pagkamatarong"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "ug ang iyang kaluwasan"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "ingon sa sulo"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "nga modan-ag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:08.332553828Z",
+  "model": "glm-5.3"
+}

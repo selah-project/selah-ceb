@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Ug ibalik niya batok kanila ⟨את⟩ ilang kadautan, ug tungod sa ilang kadautan papilion sila; papilion sila ni Yahweh nga among Elohim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ug ibalik niya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "batok kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang kadautan"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ilang kadautan"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ug tungod sa ilang kadautan"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "papilion sila"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "papilion sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:43.548100862Z",
+  "model": "glm-5.3"
+}

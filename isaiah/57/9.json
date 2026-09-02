@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 57:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Ug nagbiyahe ka sa hari nga uban ang lana, ug gidaghan mo ang imong mga pahumot, ug gipadala mo ang imong mga tinugyanon ⟨hangtod⟩ sa halayo, ug giminhag ka ⟨hangtod⟩ sa Sheol.",
+  "tokens": [
+    {
+      "surface": "ותשרי",
+      "gloss": "nagbiyahe ka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "uban ang lana"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "gidaghan mo"
+    },
+    {
+      "surface": "רקחיך",
+      "gloss": "ang imong mga pahumot"
+    },
+    {
+      "surface": "ותשלחי",
+      "gloss": "ug gipadala mo"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "ang imong mga tinugyanon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "sa halayo"
+    },
+    {
+      "surface": "ותשפילי",
+      "gloss": "ug giminhag ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:44.653098800Z",
+  "model": "glm-5.3"
+}

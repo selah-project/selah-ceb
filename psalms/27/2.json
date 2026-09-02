@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Sa pagduol kanako sa mga daotan aron kaonon ⟨את⟩ ang akong unod — ang akong mga kaaway ug akong mgaaway kanako — sila ang natumba ug nahulog.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Sa pagduol"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "aron kaonon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong unod"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ug akong mgaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "natumba"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ug nahulog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:57.720013150Z",
+  "model": "glm-5.3"
+}

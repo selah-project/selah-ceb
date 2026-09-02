@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "amos 5:25",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang mga sakripisyo ug ⟨mga⟩ halad ba ang giduol ninyo kanako sa kamingawan kapatan ka tuig, balay ni Yisrael?",
+  "tokens": [
+    {
+      "surface": "הזבחים",
+      "gloss": "ang mga sakripisyo"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "ug ⟨mga⟩ halad"
+    },
+    {
+      "surface": "הגשתם",
+      "gloss": "ang giduol ninyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T21:53:32.746667206Z",
+  "model": "glm-5.3"
+}

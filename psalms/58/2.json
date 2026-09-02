@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Bantog ba nga ⟨sa⟩ pagkatahom ninyo mosulti kamo ug pagkamatarong? Bugnaw ba ninyo mahustisia, ⟨mga⟩ anak ni Adam?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "Bantog ba nga"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "⟨sa⟩ pagkatahom ninyo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "mosulti kamo ug"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "mahustisia"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "Bugnaw ba ninyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨mga⟩ anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:48.982661827Z",
+  "model": "glm-5.3"
+}

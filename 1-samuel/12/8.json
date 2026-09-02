@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa diha nga miadto si Yaakov sa Mitsrayim ug nanghagyo ang inyong mga katigulangan kang Yahweh, gipadala ni Yahweh ⟨את⟩ si Moshe ug ⟨את⟩ si Aharon, ug gipagula nila ⟨את⟩ ang inyong mga katigulangan gikan sa Mitsrayim ug gipapuyo sila niini nga dapit.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Sa diha nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "nanghagyo"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "inyong mga katigulangan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "gipagula nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga katigulangan"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ang inyong mga katigulangan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "gipapuyo sila"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:37:34.749503974Z",
+  "model": "glm-5.3"
+}

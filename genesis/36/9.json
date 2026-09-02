@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug kini ang mga kaliwat ni Esav, amahan sa Edom, sa bukid sa Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini ang"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "mga kaliwat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ni Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan sa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid sa"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:59.902337342Z",
+  "model": "glm-5.3"
+}

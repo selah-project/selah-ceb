@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kay wala ⟨kini⟩ makahibalo unsa ang mahitabo, kay kon kini mahitabo, kinsa ang maggíkan kaniya?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "wala kini"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ang mahitabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": " maggíkan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:29.961740222Z",
+  "model": "glm-5.3"
+}

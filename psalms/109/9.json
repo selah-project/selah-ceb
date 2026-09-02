@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Mahimong mga ilo ang iyang mga anak, ug mahimong balo ang iyang asawa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "mga ilo"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ug ang iyang asawa"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:21.837523169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug diha sa balay sa kagab-an sa mga kagab-an naghimo siya ug duha ka kerub, buhat sa pag-ukit, ug giputos nila ⟨את⟩ sila ug bulawan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug naghimo siya"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "diha sa balay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kagab-an"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga kagab-an"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "duha ka kerub"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "sa pag-ukit"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "ug giputos nila"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang duha ka kerub)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:09.341712218Z",
+  "model": "glm-5.3"
+}

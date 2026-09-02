@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Kay dili pabayran ni Yahweh ⟨ang⟩ iyang katawhan, ug ⟨ang⟩ iyang kabilin dili niya biyaan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "pabayran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "si iyang katawhan"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ug si iyang kabilin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "biyaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:25.681532224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Maayo ang pagpuyo sa yuta sa kamingaw kay sa ⟨pagpuyo uban sa⟩ babayeng gusto sa panaglalis ug kasuko.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang pagpuyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "kay sa babaye"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "gusto sa panaglalis"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ug kasuko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:53.038832965Z",
+  "model": "glm-5.3"
+}

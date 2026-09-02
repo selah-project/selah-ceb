@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Kay mao kini ang gisulti ni Yahweh: ang binihag sa makusog makuha, ug ang gikuha sa mapintas maluwas; ug ⟨את⟩ ang nag-away kanimo ako ang makig-away, ug ⟨את⟩ ang imong mga anak ako ang magaluwas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ang"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "binihag"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sa makusog"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "makuha"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ug ang gikuha"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sa mapintas"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "maluwas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang nag-away kanimo"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "ang nag-away kanimo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ang makig-away"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong mga anak"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang imong mga anak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ang magaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:26.007455128Z",
+  "model": "glm-5.3"
+}

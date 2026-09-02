@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": " Ug ang mga anak ni Yediael: Bilhan; ug ang mga anak ni Bilhan: Yeush, ug Binyamin, ug Ehud, ug Kenaanah, ug Zetan, ug Tarshish, ug Ahishahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak ni"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ug Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ug Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "ug Kenaanah"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "ug Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ug Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "ug Ahishahar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:30.039916703Z",
+  "model": "glm-5.3"
+}

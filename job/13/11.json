@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Dili ba ang iyang kahalangdon mokagwang ⟨את⟩ kamo, ug ang iyang kahadlok mahulag kaninyo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ang iyang kahalangdon"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "mokagwang"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ug ang iyang kahadlok"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "mahulag"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:16.133203314Z",
+  "model": "glm-5.3"
+}

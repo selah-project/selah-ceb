@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug mikupta siya ⟨sa⟩ mga lima ka libo ka lalaki, ug gipahimutang niya ⟨את⟩ sila sa pagluntad taliwa sa Beit-El ug sa Ai, sa kasadpan sa dakbayan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ug mikupta siya"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "mga lima ka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "libo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka lalaki"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug gipahimutang niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "ang mga magluntad (ang mga lalaki)"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "sa pagluntad"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwa sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwa sa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ang Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa kasadpan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:20.296280055Z",
+  "model": "glm-5.3"
+}

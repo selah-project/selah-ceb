@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Nasidan-ag Ikaw, mahinungdanon ka sa mga bukid sa panginhas.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Nasidan-ag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahinungdanon"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "sa panginhas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:43.939151194Z",
+  "model": "glm-5.3"
+}

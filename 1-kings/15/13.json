@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 15:13",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug si Maakah usab, ang iyang inahan, gikuha niya sa pagka-gevirah, tungod kay naghimo siya og makalilisang nga butang alang sa Asherah; ug gipamutol ni Asa ⟨את⟩ ang iyang makalilisang nga butang ug gisunog niya kini sa walog sa Kidron.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug si … usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Maakah"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakah"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ang iyang inahan"
+    },
+    {
+      "surface": "ויסרה",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "sa pagka-gevirah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "naghimo siya"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "makalilisang nga butang"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "alang sa Asherah"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ug gipamutol"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang makalilisang nga butang"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "ang iyang makalilisang nga butang"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ug gisunog niya kini"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "sa Kidron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:40.574009406Z",
+  "model": "glm-5.3"
+}

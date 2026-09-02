@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang ilang mga giilhanan sumala sa ilang mga pamilya ⟨mga tulo ka libo ug duha ka gatos⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ug ang ilang"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "mga giilhanan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga pamilya"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ug duha ka gatos"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:50.992945859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 47,
+  "translation": "Gipakaon ni Yosef ⟨את⟩ iyang amahan ug ⟨את⟩ iyang mga igsoon ug ⟨את⟩ tibuok balay sa iyang amahan, ug tinapay sumala sa baba sa mga bata.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "ug gipakaon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang amahan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang mga igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang mga igsoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tibuok balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ug tinapay"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sumala sa baba"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "sa mga bata"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:43.334215511Z",
+  "model": "glm-5.3"
+}

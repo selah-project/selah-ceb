@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh nagapabatos sa ⟨mga⟩ uso, ug nagahubad sa ⟨mga⟩ kagubatan; ug sa iyang templo tanan nagasulti sa himaya.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "nagapabatos"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "uso"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "ug nagahubad"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "kagubatan"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ug sa iyang templo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagasulti"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:10.673136056Z",
+  "model": "glm-5.3"
+}

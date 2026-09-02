@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gikuha ni David ⟨את⟩ ang ulo sa Peleshtiano ug gidala niya kini ngadto sa Yerushalayim; ug ⟨את⟩ ang iyang mga galamiton gibutang niya sa iyang tolda.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo sa Peleshtiano"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "sa Peleshtiano"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "gidala niya kini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga galamiton"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iyang mga galamiton"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "sa iyang tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:42.357061185Z",
+  "model": "glm-5.3"
+}

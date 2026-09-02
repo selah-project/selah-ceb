@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Adlaw sa shofar ug sa pag-angkon ⟨sa⟩ mga kuta nga dakbayan, ug sa mga kantina nga hataas.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ug sa pag-angkon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "kuta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "mga kantina"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "hataas"
+    }
+  ],
+  "timestamp": "2026-09-02T00:44:35.440205830Z",
+  "model": "glm-5.3"
+}

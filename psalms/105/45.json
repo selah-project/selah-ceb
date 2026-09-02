@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Aron sa ⟨iyo⟩ pagbantay sa iyang mga balaod ug sa pagtuman sa iyang mga kasugoan — pagdayeg kamo kang Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "aron sa"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "magbantay sila"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sa iyang mga balaod"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "ug sa iyang mga kasugoan"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "pagtuman sila"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:54.734916040Z",
+  "model": "glm-5.3"
+}

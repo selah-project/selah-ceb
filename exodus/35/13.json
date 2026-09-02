@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "⟨ang⟩ shulchan ⟨את⟩, ug ⟨את⟩ ang mga baras niini, ug ⟨את⟩ tanan nga mga kagamitan niini, ug ⟨את⟩ ang tinapay nga atubangan ⟨sa nawong⟩;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang shulchan"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang shulchan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga baras niini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang mga baras niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga mga kagamitan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tinapay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ang tinapay"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "nga atubangan ⟨sa nawong⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:38.997086765Z",
+  "model": "glm-5.3"
+}

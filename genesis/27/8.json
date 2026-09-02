@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug karon, akong anak, pamatii ang akong tingog, sa mga butang nga ako nagasugo ⟨את⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa mga butang nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nagasugo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo",
+      "marks": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:02.802640303Z",
+  "model": "glm-5.3"
+}

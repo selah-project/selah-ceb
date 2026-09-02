@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gipadala niya si Moshe nga iyang sulugoon, ug si Aharon nga iyang gipili.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gipadala niya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nga iyang sulugoon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "gipili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:14.544266731Z",
+  "model": "glm-5.3"
+}

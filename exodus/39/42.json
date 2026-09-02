@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Sumala sa tanan nga gisugo ni Yahweh ⟨את⟩ ni Moshe, mao kini ang gibuhat sa mga anak ni Yisrael — ⟨את⟩ ang tibuok buhat.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:02.874231485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Mosilab ang adlaw — mangahumol sila, ug sa ilang mga lungag magkatulog sila.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "mosilab"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "mangahumol sila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "ilang mga lungag"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "magkatulog sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:01.302419216Z",
+  "model": "glm-5.3"
+}

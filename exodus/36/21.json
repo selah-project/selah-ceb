@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Napulo ka siko ang gitas-on ⟨sa⟩ tablayui, ug usa ka siko ug katunga ang gilapdon ⟨sa⟩ usa ka tablayui.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang gitas-on"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨sa⟩ tablayui"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug usa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug katunga"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ang siko"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ang gilapdon"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨sa⟩ tablayui"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa ka tablayui"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:08.483299076Z",
+  "model": "glm-5.3"
+}

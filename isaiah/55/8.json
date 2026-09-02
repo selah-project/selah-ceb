@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Kay ang akong mga hunahuna dili ⟨ang inyong⟩ mga hunahuna, ug ang inyong mga dalan dili ⟨ang akong⟩ mga dalan, nagaingon si Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ang akong mga hunahuna"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "⟨ang inyong⟩ mga hunahuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ang inyong mga dalan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "⟨ang akong⟩ mga dalan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nagaingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:49.821857094Z",
+  "model": "glm-5.3"
+}

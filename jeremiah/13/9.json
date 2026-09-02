@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Mao kini ang giingon ni Yahweh: Ingon niining paagiha pagpadunoton ko ⟨את⟩ ang kahalangdon ni Yehudah ug ⟨את⟩ ang dako nga kahalangdon sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Ingon niining paagiha"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "pagpadunoton ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahalangdon ni Yehudah"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kahalangdon"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang dako nga kahalangdon sa Yerushalayim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kahalangdon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "dako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:19:28.037791289Z",
+  "model": "glm-5.3"
+}

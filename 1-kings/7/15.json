@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug gihibawo niya ⟨את⟩ ang duha ka haligi nga bronse; napulo'g walo ka siko ang kahitas-on sa usa ka haligi, ug usa ka higot nga napulo'g duha ka siko ang naglibot ⟨את⟩ sa ikaduhang haligi.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "ug gihibawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka haligi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nga bronse"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "kahitas-on"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "sa haligi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "ug usa ka higot"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "naglibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa haligi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "haligi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:12.653924004Z",
+  "model": "glm-5.3"
+}

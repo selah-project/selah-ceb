@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Si Moshe mitudlong: Husto ang imong gisulti; dili na ako ⟨magdugang⟩ pagtan-aw sa imong dagway.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mitudlong"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Si Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Husto"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ang imong gisulti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "⟨magdugang⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "pagtan-aw"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong dagway"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:06.074341711Z",
+  "model": "glm-5.3"
+}

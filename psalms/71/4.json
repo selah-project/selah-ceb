@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Akong Elohim, palagya ako makagawas gikan sa kamot sa dautan, gikan sa kapat sa tigbuhat sa kawalang-tarong ug sa mapintas.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Akong Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "palagya ako makagawas"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa dautan"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "gikan sa kapat"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "sa tigbuhat sa kawalang-tarong"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "ug sa mapintas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.093781235Z",
+  "model": "glm-5.3"
+}

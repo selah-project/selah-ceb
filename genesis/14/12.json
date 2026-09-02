@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug gikuha nila ⟨את⟩ si Lot ug ⟨את⟩ ang iyang kabtangan, nga anak sa igsoon ni Avram, ug milakat sila; ug siya nagpuyo sa Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ug gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "si Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kabtangan"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ang iyang kabtangan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "sa igsoon"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ni Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug milakat sila"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "sa Sodom"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:32.379372285Z",
+  "model": "glm-5.3"
+}

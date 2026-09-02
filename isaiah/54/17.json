@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Ang tanan nga hinagiban nga giporma batok kaniko — dili kini molampos; ug ang tanan nga dila nga mobangon kauban ⟨את⟩ kanimo alang sa paghukom — ikaw ang magapahisala. Kini ang panulondon sa mga sulugoon ni Yahweh, ug ang ilang pagkamatarong gikan ⟨את⟩ kanako, matod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "hinagiban"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "giporma"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "batok kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "molampos"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kauban ⟨את⟩ kanimo",
+      "marks": "ang dila nga mobangon batok"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "alang sa paghukom"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "ikaw ang magapahisala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "panulondon"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sa mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "ug ang ilang pagkamatarong"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "gikan ⟨את⟩ kanako",
+      "marks": "ang pagkamatarong sa mga sulugoon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:09:24.438149758Z",
+  "model": "glm-5.3"
+}

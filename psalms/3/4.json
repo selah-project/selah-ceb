@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Apan ikaw, Yahweh, mao ang ⟨⟨akong⟩⟩ taming sa ⟨akong⟩ palibot, ang akong himaya, ug ang nagpatindog sa akong ulo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Apan ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "taming"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "sa akong palibot"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "akong himaya"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ug ang nagpatindog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "akong ulo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:20.124692410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Gihunahuna nako ang mga adlaw sa kaniadto, ang mga tuig sa mga katuigan nga minugna.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Gihunahuna nako"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sa kaniadto"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ang mga tuig"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "sa mga katuigan nga minugna"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:29.387701099Z",
+  "model": "glm-5.3"
+}

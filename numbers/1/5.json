@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug kini ang mga ngalan sa mga tawo nga mobarub ⟨את⟩ kaninyo: alang ni Reuven — Elitsur, anak ni Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "mobarub"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "alang ni Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ni Shedejur"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:32.451316673Z",
+  "model": "glm-5.3"
+}

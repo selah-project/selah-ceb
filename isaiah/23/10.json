@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Taboka ⟨ang⟩ imong yuta ingon sa suba, ikaw nga anak nga babaye sa Tarshish; wala na ⟨karon⟩ ug paha.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Taboka"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "imong yuta"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ingon sa suba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "paha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:39.866285620Z",
+  "model": "glm-5.3"
+}

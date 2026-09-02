@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ⟨nahitabo nga⟩ ang tibuok kalibotan may usa ka pinulongan, ug mga pulong nga usa ra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨nahitabo nga⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kalibotan"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "pinulongan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ug mga pulong"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "usa ra"
+    }
+  ],
+  "timestamp": "2026-09-02T00:37:40.414589093Z",
+  "model": "glm-5.3"
+}

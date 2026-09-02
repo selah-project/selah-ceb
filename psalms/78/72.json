@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gipanganak niya sila sumala sa integridad sa iyang kasingkasing, ug pinaagi sa kaalam gidumala niya sila sa iyang mga kamot.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ug gipanganak niya sila"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "sumala sa integridad"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "ug pinaagi sa kaalam"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "gidumala niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:26.209475970Z",
+  "model": "glm-5.3"
+}

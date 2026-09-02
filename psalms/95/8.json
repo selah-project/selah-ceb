@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Ayaw ninyo pagpagawas ang inyong kasingkasing sama sa Meriva, sama sa adlaw sa Massa sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ninyo pagpagawas"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ang inyong kasingkasing"
+    },
+    {
+      "surface": "kmrivh",
+      "gloss": "sama sa Meriva"
+    },
+    {
+      "surface": "kyom",
+      "gloss": "sama sa adlaw"
+    },
+    {
+      "surface": "mh",
+      "gloss": "sa Massa"
+    },
+    {
+      "surface": "bmdbr",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:28.320591074Z",
+  "model": "glm-5.3"
+}

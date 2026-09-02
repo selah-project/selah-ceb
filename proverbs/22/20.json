@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Wala ba ako makasulat kanimo sa makadaghanon — ⟨sa⟩ mga tambag ug kahibalo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "wala ba"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ako nakasulat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "sa makadaghanon"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "sa mga tambag"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ug kahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:55.873434331Z",
+  "model": "glm-5.3"
+}

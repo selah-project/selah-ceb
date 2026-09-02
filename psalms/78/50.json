@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gipatag niya ang usa ka dalan alang sa iyang kaakgwan; wala niya luwasi ang ilang kalag gikan sa kamatayon, ug gipanag-iyahan ngadto sa pestilensya ang ilang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Gipatag niya"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ang usa ka dalan"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "alang sa iyang kaakgwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "luwasi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "gikan sa kamatayon"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ang ilang kalag"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ug ang ilang kinabuhi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ngadto sa pestilensya"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "gipanag-iyahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:19.943821822Z",
+  "model": "glm-5.3"
+}

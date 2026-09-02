@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ang usa ka tawo sa iyang isigkatawo makig-akbit ⟨silador⟩; magadikit sila ug dili sila molahi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "makig-akbit sila"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "magadikit sila"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "molahi sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:27.920947502Z",
+  "model": "glm-5.3"
+}

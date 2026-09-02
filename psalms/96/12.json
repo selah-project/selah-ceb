@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Maglihok sa kalipay ang kapatagan ug ang tanan nga anaa niini; unya magkanta sa kalipay ang tanan nga mga kahoy sa lasang.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "maglihok sa kalipay"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "anaa niini"
+    },
+    {
+      "surface": "אז",
+      "gloss": "unya"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magkanta sa kalipay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nga mga kahoy"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sa lasang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.797107651Z",
+  "model": "glm-5.3"
+}

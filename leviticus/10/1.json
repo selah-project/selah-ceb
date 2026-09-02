@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 10:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug gikuha sa mga anak ni Aharon, si Nadav ug si Avihu, ang tagsa-tagsa ⟨ang⟩ iyang pan-og ug, ug gibut-an nila sulod niini ang kalayo, ug gibut-an nila ibabaw niini ang insenso, ug giduol nila sa atubangan ni Yahweh ang kalayo nga lain, nga wala ⟨kini⟩ motala ⟨את⟩ kanila.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ug Avihu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tagsa-tagsa"
+    },
+    {
+      "surface": "מחתתו",
+      "gloss": "iyang pan-og ug"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ug gibut-an nila"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "sulod niini"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "ug gibut-an nila"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ibabaw niini"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insenso"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ug giduol nila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "nga lain"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "motala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:02.493385249Z",
+  "model": "glm-5.3"
+}

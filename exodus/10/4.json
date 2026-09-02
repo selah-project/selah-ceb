@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kay kon magapasalig ikaw sa pagpalagpot ⟨את⟩ sa akong katawhan, ania kaniya, magadala ako ug sulood ug adlaw pag-ayo ang balang sa imong gingharian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "magapasalig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "sa pagpalagpot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ania kaniya"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "magadala ako"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ug adlaw pag-ayo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ang balang"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "sa imong gingharian"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:12.761855533Z",
+  "model": "glm-5.3"
+}

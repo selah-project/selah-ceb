@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Ang mga nagadumili kang Yahweh magpangpakita ug pagtuman kaniya, ug ang ilang panahon magpabilin ⟨hangtod⟩ sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ang mga nagadumili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "magpangpakita ug pagtuman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug magpabilin"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ang ilang panahon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.779903005Z",
+  "model": "glm-5.3"
+}

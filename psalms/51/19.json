@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ang mga sakripisyo kang Elohim ⟨mao ang⟩ usa ka gininhawa nga nabali, usa ka kasingkasing nga nabali ug nadunggab, Elohim, dili nimong pagabiaybiayon.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "mga sakripisyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gininhawa"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "ug nadunggab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "pagabiaybiayon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:14.704756487Z",
+  "model": "glm-5.3"
+}

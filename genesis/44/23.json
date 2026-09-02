@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug nagingimo ka sa imong mga sulogoon: Kon dili manaubos ang inyong manghod nga gagmay ⟨uban⟩ kaninyo, dili na kamo makakita pag-usab sa akong dagway.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ug nagingimo ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulogoon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "manaubos"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong manghod"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nga gagmay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ uban kaninyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "magsige pa kamo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa akong dagway"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:11.324178052Z",
+  "model": "glm-5.3"
+}

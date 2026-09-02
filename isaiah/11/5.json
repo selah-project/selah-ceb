@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ang katarungan mahimong hawak sa iyang hawakan, ug ang pagkamatinud-anon hawak sa iyang pingkian.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang katarungan"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "sa iyang hawakan"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ug ang pagkamatinud-anon"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "sa iyang pingkian"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:41.063523095Z",
+  "model": "glm-5.3"
+}

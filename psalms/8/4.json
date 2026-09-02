@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kay nakit-an ko ang imong ⟨mga⟩ langit, mga buhat sa imong ⟨mga⟩ tudlo, ang bulan ug ang mga bitoon nga imong gitukod —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nakit-an ko"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ang imong mga langit"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mga buhat sa"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "imong mga tudlo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ang bulan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ug ang mga bitoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "imong gitukod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:56.055224870Z",
+  "model": "glm-5.3"
+}

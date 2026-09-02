@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug nahitabo ang pulong ni Shmuel ngadto sa tibuok Yisrael, ug migula ang Yisrael sa pagtagbo sa mga Pelishti sa paggubat, ug nagkamp sila duol sa Even-HaEzer, ug ang mga Pelishti nagkamp sa Aphek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ug migula"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Pelishti"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa paggubat"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ug nagkamp sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "duol sa"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "⟨ang bato⟩"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "HaEzer"
+    },
+    {
+      "surface": "וופלשתים",
+      "gloss": "ug ang mga Pelishti"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nagkamp"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "sa Aphek"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:30.095231727Z",
+  "model": "glm-5.3"
+}

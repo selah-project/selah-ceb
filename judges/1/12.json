@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si Kalev: Ang moslat ⟨את⟩ sa Kiryat-Sefer ug mokuha niini, kaniya ihatag nako si Akhsa akong anak ⟨את⟩ isip asawa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "si Kalev"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang (kinsa)"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "moslat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Kiryat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ug mokuha niini"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ihatag nako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Akhsa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "si Akhsa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "isip asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:52.869655114Z",
+  "model": "glm-5.3"
+}

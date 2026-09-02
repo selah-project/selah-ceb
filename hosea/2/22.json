@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ikaw ipangako nako ⟨sa akong kaugalingon⟩ sa pagkamatinud-anon; ug makaila ka ⟨את⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "Ug ikaw ipangako nako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akong kaugalingon"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sa pagkamatinud-anon"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ug makaila ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:39.073693155Z",
+  "model": "glm-5.3"
+}

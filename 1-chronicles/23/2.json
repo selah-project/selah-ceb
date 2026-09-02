@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gitipon niya ⟨את⟩ ang tanan nga mga principe sa Yisrael, ug ang mga saserdote ug ang mga Levita.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "gitipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga principe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga principe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ang mga Levita"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:52.512439074Z",
+  "model": "glm-5.3"
+}

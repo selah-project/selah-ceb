@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagkinabuhi si Reu duha ka tuig ug tulo kanapulo ka tuig, ug natawo niya ⟨את⟩ si Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagkinabuhi"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "si Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duya"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug tulo kanapulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "si Serug"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:15.550260996Z",
+  "model": "glm-5.3"
+}

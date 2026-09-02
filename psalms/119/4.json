@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ikaw ang nagsugo sa imong mga pagtudlo ⟨nga⟩ pagatipigon ⟨sila⟩ sa kinatibuk-an.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "ang nagsugo"
+    },
+    {
+      "surface": "pקדיך",
+      "gloss": "sa imong mga pagtudlo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "⟨nga⟩ pagatipigon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa kinatibuk-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.981111640Z",
+  "model": "glm-5.3"
+}

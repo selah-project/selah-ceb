@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kon mogula ang kalayo ug makit-an niini ang ⟨mga⟩ tunokon, ug makan-on ang tinipong dagmay o ang tinanom o ang kapatagan, hingpit nga mobayad ang mobuga sa kalayo ⟨את⟩ ang pagbuga sa kalayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ug makit-an niini"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "ang ⟨mga⟩ tunokon"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ug makan-on"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "ang tinipong dagmay"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ang tinanom"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang kapatagan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hingpit nga pagbayad"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mobayad"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ang mobuga sa kalayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagbuga sa kalayo"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "ang pagbuga sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:34.377592378Z",
+  "model": "glm-5.3"
+}

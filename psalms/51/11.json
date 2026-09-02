@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Tago-a ang imong panagway gikan sa akong mga sala, ug pangkaa ang tanan ko nga mga kasal-anan.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "tago-a"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong panagway"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "gikan sa akong mga sala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ko nga mga kasal-anan"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pangkaa (papasa)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.786531680Z",
+  "model": "glm-5.3"
+}

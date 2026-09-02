@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Ang akong tabang ⟨gikan⟩ kang Yahweh, ang naghimo sa ⟨ang⟩ kalangitan ug ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Ang akong tabang"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨gikan⟩ kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo sa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kalangitan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug ⟨ang⟩ yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:55.920364214Z",
+  "model": "glm-5.3"
+}

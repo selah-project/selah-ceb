@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gihimo sa mga anak ni Israel, ang mga saserdote ug ang mga Levita ug ang uban pang mga anak sa pagkabihag, ang dedikasyon sa balay ni Elaha kini sa kalipay.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ug gihimo sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "кahניא",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "ug ang mga Levita"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "ug ang uban pang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak sa"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "pagkabihag"
+    },
+    {
+      "surface": "חנוכת",
+      "gloss": "dedikasyon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ni Elaha"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "sa kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:27.131305840Z",
+  "model": "glm-5.3"
+}

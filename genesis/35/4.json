@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug gihatag nila kang Yaakov ⟨את⟩ ang tanan nga mga dios sa tago nga dapit nga anaa sa ilang kamot, ug ⟨את⟩ ang mga hikaw nga anaa sa ilang mga dalunggan; ug gitago ni Yaakov ⟨את⟩ kini sa ilalom sa kahoy nga dub, nga duol sa Shekhem.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ug gihatag nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga dios"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "sa tago nga dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "anaa sa ilang kamot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga hikaw"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "ang mga hikaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "anaa sa ilang mga dalunggan"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "ug gitago"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa kahoy nga dub"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "duol sa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:51.853760466Z",
+  "model": "glm-5.3"
+}

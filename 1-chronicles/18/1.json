@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nahitabo pagkahuman niana, ug gihampak ni Davíd ⟨את⟩ mga Peleshtim ug gipaubos sila niya, ug gikuha niya ⟨את⟩ ang Gat ug ang mga baryo niini gikan sa kamot sa mga Peleshtim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkahuman"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niana"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Peleshtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshtim"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "ug gipaubos sila niya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ang Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ug ang mga baryo niini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Peleshtim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:52.933075403Z",
+  "model": "glm-5.3"
+}

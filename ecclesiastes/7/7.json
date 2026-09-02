@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay ang panggipos nagabuang sa maalamon, ug ang gasa nagalaglag ⟨את⟩ sa kasingkasing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ang panggipos"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "nagabuang"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sa maalamon"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "nagalaglag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kasingkasing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ang gasa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:50.415586118Z",
+  "model": "glm-5.3"
+}

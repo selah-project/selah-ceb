@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Hain ang hari sa Chamath, ug ang hari sa Arpad, ug ang hari sa ⟨dakbayan⟩ sa Sefarvajim, sa Hena ug sa Ivah?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Hain"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sa Chamath"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "sa Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "sa Sefarvajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "sa Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "ug sa Ivah"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:37.806164368Z",
+  "model": "glm-5.3"
+}

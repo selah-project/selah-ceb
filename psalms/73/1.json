@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Mizmor alang kang Asaf: Sa pagkatinuod, maayo si Elohim ngadto sa Yisrael, ngadto sa mga malinis nga kasingkasing.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "alang kang Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ngadto sa Yisrael"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ngadto sa mga"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "malinis nga kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:08.618188774Z",
+  "model": "glm-5.3"
+}

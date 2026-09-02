@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ngadto nga ang akong kaaway dili makasulti nga «Nakadaog ako kaniya», nga ang akong mga maglalis dili magmalipayon sa pagkamatumbahan ko.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ngadto nga (dili)"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "makasulti"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong kaaway"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nakadaog ako kaniya"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ang akong mga maglalis"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "pagkamatumbahan ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:40.404133879Z",
+  "model": "glm-5.3"
+}

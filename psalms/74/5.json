@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Gikaila ⟨siya⟩ ingon usa nga nagadala ngadto sa taas, sa siksikan sa kahoy — ⟨mga wasay⟩.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "gikaila"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "ingon usa nga nagadala"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ngadto sa taas"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "sa siksikan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sa kahoy"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "mga wasay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.324024711Z",
+  "model": "glm-5.3"
+}

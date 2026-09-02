@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug karon, unsa ang akong gipaabut, Adonay? Ang akong paglaom ⟨kini⟩ sa Imo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ang akong gipaabut"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Ang akong paglaom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa Imo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:27.013459839Z",
+  "model": "glm-5.3"
+}

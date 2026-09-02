@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Pangayo-a ang shalom sa Yerushalayim; magaayo ang mga nagahigugma kanimo.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Pangayo-a"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ang shalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "magaayo"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ang mga nagahigugma kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:49.974279087Z",
+  "model": "glm-5.3"
+}

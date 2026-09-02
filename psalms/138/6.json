@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Kay hataas si Yahweh, apan ang ubos iyang gi tan-aw, ug ang garbohal gikan sa layo iyang kaila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רם",
+      "gloss": "hataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "apan ang ubos"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "iyang gi tan-aw"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ug ang garbohal"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "gikan sa layo"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "iyang kaila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:29.216240881Z",
+  "model": "glm-5.3"
+}

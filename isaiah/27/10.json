@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 27:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Kay ang napaderohan nga dakbawan mag-inusara ⟨ang⟩ puloy-anan, gipapahawa ug gibiyaan ingon sa kamingaw: didto magasibog ang nodo, ug didto molat-ang ⟨kini⟩, ug kaubon ang mga sanga niini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ang dakbawan"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "napaderohan"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "mag-inusara"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "⟨ang⟩ puloy-anan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "gipapahawa"
+    },
+    {
+      "surface": "ונעזב",
+      "gloss": "ug gibiyaan"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ingon sa kamingaw"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "magasibog"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ang nodo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "molat-ang"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ug kaubon"
+    },
+    {
+      "surface": "סעפיה",
+      "gloss": "ang mga sanga niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:59.583925335Z",
+  "model": "glm-5.3"
+}

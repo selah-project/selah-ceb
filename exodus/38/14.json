@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Mga kurtina nga napulo'g lima ka kuwit sa usa ka abaga; ang ilang mga haligi tulo, ug ang ilang mga pundasyon tulo.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "mga kurtina"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo'g"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka kuwit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "usa ka abaga"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "ang ilang mga haligi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ug ang ilang mga pundasyon"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:08.497063515Z",
+  "model": "glm-5.3"
+}

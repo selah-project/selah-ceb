@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gipadala ni Yahweh ⟨את⟩ si Natan ngadto kang David, ug miadto kini kaniya, ug miingon kini kaniya: Duha ka mga tawo ang anaa ⟨sa⟩ usa ka dakbayan; usa ka adunahan ug usa ka timawa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Gipadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miadto"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Duha ka"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anga anaa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa usa ka dakbayan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "adunahan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ug usa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "timawa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:21.137602577Z",
+  "model": "glm-5.3"
+}

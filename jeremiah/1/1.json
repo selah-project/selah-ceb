@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Mga pulong ni Yirmeyahu, anak ni Khilkiyahu, gikan sa ⟨mga⟩ kohanin, nga ⟨mga⟩ anaa sa Anatot, sa yuta sa Binyamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Mga pulong"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ni Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "ni Khilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨mga⟩ kohanin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "sa Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "sa Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-01T21:14:03.582266533Z",
+  "model": "glm-5.3"
+}

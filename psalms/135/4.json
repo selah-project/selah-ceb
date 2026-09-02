@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Kay gipili ni Yah ⟨para sa iyang kaugalingon⟩ si Yaakov, ang Israel ⟨ingon⟩ iyang piho nga kabahandinan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "gipili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨para sa iyang kaugalingon⟩"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "iang piho nga kabahandinan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:21.078156291Z",
+  "model": "glm-5.3"
+}

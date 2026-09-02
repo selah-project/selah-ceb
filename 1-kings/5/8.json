@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang sebadas ug ang dagami alang sa mga kabayo ug alang sa mga paspas nga kabayo gidala nila ngadto sa dapit diin kini ⟨kinahanglan⟩ ⟨nga anaa⟩, matag usa sumala sa iyang katungdanan.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "Ug ang sebadas"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "ug ang dagami"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "alang sa mga kabayo"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "ug alang sa mga paspas nga kabayo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "gidala nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨nga anaa⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "sumala sa iyang katungdanan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:29.588143540Z",
+  "model": "glm-5.3"
+}

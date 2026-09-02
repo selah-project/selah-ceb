@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug kini mao ang mga kaliwat ni Perets: si Perets natawo-an ⟨את⟩ ni Chetsron.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "mga kaliwat"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ni Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "si Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Chetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ni Chetsron"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:51.851351796Z",
+  "model": "glm-5.3"
+}

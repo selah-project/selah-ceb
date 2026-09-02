@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Magbihag sila tungod sa ilang ulaw, ⟨sila⟩ nga nag-ingon kanako: He-ah! He-ah!",
+  "tokens": [
+    {
+      "surface": "ישמu",
+      "gloss": "magbihag sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ingon nga balus"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "sa ilang ulaw"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ah!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ah!"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:11.592199031Z",
+  "model": "glm-5.3"
+}

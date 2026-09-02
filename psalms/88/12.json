@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Isulti ba sa lubnganan ang imong hesed, ang imong pagkamatinud-anon sa Avaddon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Isulti ba"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "sa lubnganan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ang imong hesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imong pagkamatinud-anon"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "sa Avaddon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:39.886354116Z",
+  "model": "glm-5.3"
+}

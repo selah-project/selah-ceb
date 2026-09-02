@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug naglibut sila gikan sa ⟨usa ka⟩ nasud ngadto sa ⟨usa ka⟩ nasud, ug gikan sa ⟨usa ka⟩ gingharian ngadto sa lain nga katawhan.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "Ug naglibut sila"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "gikan sa ⟨usa ka⟩ nasud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "⟨usa ka⟩ nasud"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ug gikan sa ⟨usa ka⟩ gingharian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain nga"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:51.907856303Z",
+  "model": "glm-5.3"
+}

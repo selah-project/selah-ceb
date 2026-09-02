@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Kanimo magahalad ako ug zevakh sa pagtagad (todah), ug sa ngalan ni Yahweh motawag ako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "magahalad ako ug"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zevakh"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "sa pagtagad (todah)"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ug sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "motawag ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:56.615592815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Dayagon si Yahweh gikan sa Tsiyon, ⟨siya nga⟩ nagapuyo sa Yerushalayim. Pagdayeg kamo Yah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayagon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "gikan sa Tsiyon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:37.200243282Z",
+  "model": "glm-5.3"
+}

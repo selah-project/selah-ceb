@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Bangon ka, O Elohim, pagligit sa imong paglilitig; hinumdomi ang imong kaulawan gikan sa ↱bungol↲ tibuok adlaw.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "bangon ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "pagligit"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "sa imong paglilitig"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "hinumdomi"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ang imong kaulawan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bungol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:22.861811998Z",
+  "model": "glm-5.3"
+}

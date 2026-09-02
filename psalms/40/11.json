@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ang imong pagkamatarong wala nako taboni sulod sa akong kasingkasing; ang imong pagkamatinud-anon ug ang imong kaluwasan gisulti nako; wala nako tagoi ang imong hesed (ang imong gugma nga makanunayon) ug ang imong kamatuoran sa dako nga katilingban.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ang imong pagkamatarong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "nako taboni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sulod sa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "imong pagkamatinud-anon"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "ug ang imong kaluwasan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "gisulti nako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "nako tagoi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ug imong kamatuoran"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:46.419311964Z",
+  "model": "glm-5.3"
+}

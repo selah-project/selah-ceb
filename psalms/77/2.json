@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Ang akong tingog ⟨ngadto⟩ kang Elohim, ug magasig ako; ang akong tingog ⟨ngadto⟩ kang Elohim, ug modungog siya kanako.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ang akong tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ngadto kang⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ug magasig ako"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ngadto kang⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "ug modungog siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:59.002706339Z",
+  "model": "glm-5.3"
+}

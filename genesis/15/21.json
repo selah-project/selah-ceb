@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "ug ⟨את⟩ mga Amorihanon, ug ⟨את⟩ mga Kenanhano, ug ⟨את⟩ mga Girgashanon, ug ⟨את⟩ mga Yebusano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Amorihanon"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "mga Amorihanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Kenanhano"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "mga Kenanhano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Girgashanon"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "mga Girgashanon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Yebusano"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "mga Yebusano"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:54.407767903Z",
+  "model": "glm-5.3"
+}

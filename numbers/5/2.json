@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Sugo-a ang ⟨את⟩ nga mga anak ni Yisrael, ug papahawa-on nila gikan sa kampo ang tanan nga may ketong, ug ang tanan nga nagatulo ⟨sa dugo\/hilig⟩, ug ang tanan nga dili hingpit tungod sa ⟨usa ka⟩ patay nga lawas;",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Sugo-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ug papahawa-on nila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "may ketong"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "זב",
+      "gloss": "nagatulo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "dili hingpit"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "tungod sa patay nga lawas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:34:17.299702113Z",
+  "model": "glm-5.3"
+}

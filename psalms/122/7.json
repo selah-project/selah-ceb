@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Hinaot nga shalom ⟨mahimo⟩ sulod sa imong mga kuta, ug kalinaw sulod sa imong mga palasyo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Hinaot nga mahimo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "sulod sa imong mga kuta"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "kalinaw"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "sulod sa imong mga palasyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:49.974448396Z",
+  "model": "glm-5.3"
+}

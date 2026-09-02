@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Higoti ⟨ang⟩ imong espada sa imong hawak, Indong gamhanan, imong hod ug imong hadar.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Higoti"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "imong espada"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "imong hawak"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Indong gamhanan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "imong hod"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ug imong hadar"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:24.203833118Z",
+  "model": "glm-5.3"
+}

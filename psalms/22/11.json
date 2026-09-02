@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kanimo ako gisalikway gikan sa bahin sa inahan; gikan sa tiyan sa akong inahan — El ako, ikaw.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "gisalikway ako"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gikan sa bahin sa inahan"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "akong inahan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:06.123725075Z",
+  "model": "glm-5.3"
+}

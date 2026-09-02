@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang kapuslanan sa yuta ⟨naa⟩ sa tanan ⟨kini⟩: ang hari ⟨alang⟩ sa uma gialagaran.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ug ang kapuslanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "⟨alang⟩ sa uma"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "gialagaran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:09.152504408Z",
+  "model": "glm-5.3"
+}

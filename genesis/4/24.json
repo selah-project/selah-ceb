@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kay ⟨sa⟩ Kayin pito ka pilo ⟨ang magaabli⟩, apan kang Lemekh pituman ug pito.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito ka pilo"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "⟨ang magaabli⟩"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "apan kang Lemekh"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "pituman"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ug pito"
+    }
+  ],
+  "timestamp": "2026-09-02T00:37:40.386768712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Kay El nga dako si Yahweh, ug Hari nga dako sa ibabaw sa tanang mga elohim ⟨mga diyos⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug Hari"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim ⟨mga diyos⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.654568978Z",
+  "model": "glm-5.3"
+}

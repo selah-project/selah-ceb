@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Uban sa ilang mga karnero ug uban sa ilang mga baka maglakaw sila aron pangitaon ⟨את⟩ si Yahweh, apan dili siya makaplagan; mipahawa na siya gikan kanila.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "uban sa ilang mga karnero"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "ug uban sa ilang mga baka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "maglakaw sila"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "aron pangitaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "mipahawa na"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "gikan kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:43.150646440Z",
+  "model": "glm-5.3"
+}

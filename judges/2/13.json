@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gibitad nila si Yahweh ⟨את⟩, ug nag-alagad sila kang Baal ug kang ⟨mga⟩ Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "gibitad nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ug nag-alagad sila"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kang Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "ug kang Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:45.230342043Z",
+  "model": "glm-5.3"
+}

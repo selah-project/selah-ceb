@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Mosaka sila ngadto sa ⟨mga⟩ langit, molugsong sila ngadto sa ⟨mga⟩ kahiladman; ang ilang kalag natunaw sa kalisud.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "mosaka sila"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "langit"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "molugsong sila"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mga kahiladman"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ilang kalag"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sa kalisud"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "natunaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:04.812113017Z",
+  "model": "glm-5.3"
+}

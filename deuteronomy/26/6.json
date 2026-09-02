@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug gidaotdaot ⟨את⟩ ⟨kami⟩ ang mga Mitsrayim, ug giginhawa kami, ug gibutang ⟨sa among mga abaga⟩ ang trabaho nga lig-on.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "ug gidaotdaot"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ang mga Mitsrayim"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "ug giginhawa kami"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sa among mga abaga"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "trabaho"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "nga lig-on"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:21.964986966Z",
+  "model": "glm-5.3"
+}

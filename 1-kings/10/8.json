@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Malipayon ang imong mga tawo, malipayon kining imong mga sulugoon nga nagatindog sa imong atubang nga padayon, nga nagadungog ⟨את⟩ sa imong kaalam.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ang imong mga tawo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "malipayon"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulugoon"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nga nagatindog"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubang"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga padayon"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "nga nagadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong kaalam"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "sa imong kaalam"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:51.213832249Z",
+  "model": "glm-5.3"
+}

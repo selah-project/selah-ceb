@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Modaghan ang kagun-ob ⟨kanila⟩; manaog sila nga buhi ngadto sa Sheol, kay kadaot ⟨anaa⟩ sa ilang puyoan, sa taliwala nila.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "kagun-ob"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "manaog sila"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "sa ilang puyoan"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "sa taliwala nila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:42.900302315Z",
+  "model": "glm-5.3"
+}

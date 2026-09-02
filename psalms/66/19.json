@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Apan sa pagkamatuod, gipamati-an ako sa Elohim, gisandig niya ang tingog sa akong pag-ampo.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Apan sa pagkamatuod"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gipamati-an"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "gisandig niya ang dalunggan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sa akong pag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:13.723677935Z",
+  "model": "glm-5.3"
+}

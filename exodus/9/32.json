@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Apan ang trigo ug ang spelt wala isamtok, kay ulahi pa sila sa pagtubo.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "Apan ang trigo"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ug ang spelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "isamtok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ulahi pa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:39.003685025Z",
+  "model": "glm-5.3"
+}

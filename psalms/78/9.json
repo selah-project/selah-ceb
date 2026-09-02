@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Mga anak ni Efrayim, nga nangusog ug nagbubo sa pana, nibalik sila sa adlaw sa pakiggubat.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "nga nangusog"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ug nagbubo"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sa pana"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "nibalik sila"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "sa pakiggubat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:55.957226809Z",
+  "model": "glm-5.3"
+}

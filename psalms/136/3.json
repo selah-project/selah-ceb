@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Pagpasalamat kamo kang Adonay sa ⟨mga⟩ adonay, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Pagpasalamat kamo"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kang Adonay sa"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "⟨mga⟩ adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:51.374690843Z",
+  "model": "glm-5.3"
+}

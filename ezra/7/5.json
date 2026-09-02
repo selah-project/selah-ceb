@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "anak ni Avishua, anak ni Pinhhas, anak ni Elazar, anak ni Aharon ang pangulong pari",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhhas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang pari"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang pangulo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:05.730751177Z",
+  "model": "glm-5.3"
+}

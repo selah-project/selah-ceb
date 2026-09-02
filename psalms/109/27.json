@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Ug mahibalo sila nga imo kini ⟨nga⟩ kamot — ⟨ikaw⟩, si Yahweh, ang naghimo niini.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ug mahibalo sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imo nga kamot"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ang naghimo niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:17.553553788Z",
+  "model": "glm-5.3"
+}

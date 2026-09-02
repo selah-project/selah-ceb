@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nahimuot si Yahweh ⟨את⟩ sa mga nagakahadlok kaniya, ⟨את⟩ sa mga nagapaabut sa iyang hesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "nahimuot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga nagakahadlok kaniya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "sa mga nagakahadlok kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga nagapaabut"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "sa mga nagapaabut"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "sa iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.161366252Z",
+  "model": "glm-5.3"
+}

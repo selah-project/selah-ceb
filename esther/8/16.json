@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Alang sa mga Yehudi ⟨naa⟩ kahayag ug kalipay, ug kalipay sa kasingkasing ug dungog.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Alang sa mga Yehudi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "kahayag"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ug kalipay"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "ug kalipay sa kasingkasing"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ug dungog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:46.337620432Z",
+  "model": "glm-5.3"
+}

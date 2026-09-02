@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa manunod-sa-awit, sa ⟨ikanawalong⟩ ⟨tono⟩, mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manunod-sa-awit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "⟨ikanawalong⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:46.779683209Z",
+  "model": "glm-5.3"
+}

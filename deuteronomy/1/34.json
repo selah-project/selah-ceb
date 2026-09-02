@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug Nadungog si Yahweh ⟨את⟩ ang tingog sa inyong mga pulong, ug nasuko siya ug nanumpa, sa pag-ingon:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ug Nadungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog sa inyong mga pulong"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "sa inyong mga pulong"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ug nasuko siya"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ug nanumpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:13.032087114Z",
+  "model": "glm-5.3"
+}

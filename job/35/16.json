@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug si Iyov mag-abli sa iyang baba sa ⟨kawalay-pulos⟩; sa walay kahibalo mopadaghan siya sa mga pulong.",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "ug si Iyov"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨kawalay-pulos⟩"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "mag-abli"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "sa walay"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "mopadaghan siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:53.635321034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Hangtod sa kahangturan dili ako makalimot sa imong mga pikhud, kay pinaagi kanila gipabuhi nimo ako.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "makalimot ako"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sa imong mga pikhud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "piraagi kanila"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "gipabuhi nimo ako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:22.006384207Z",
+  "model": "glm-5.3"
+}

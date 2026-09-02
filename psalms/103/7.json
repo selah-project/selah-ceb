@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Gipahibalo niya ang iyang mga dalan kang Moshe, ang iyang mga buhat ngadto sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "gipahibalo niya"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ang iyang mga dalan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kang Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang iyang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:59.501230406Z",
+  "model": "glm-5.3"
+}

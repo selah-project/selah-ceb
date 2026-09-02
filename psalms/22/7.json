@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Apan ako usa ka ulod, ug dili tawo; kaulaw sa mga tawo, ug gidumyahan sa katawhan.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ulod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "kaulaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ug gidumyahan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa katawhan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:08.685288842Z",
+  "model": "glm-5.3"
+}

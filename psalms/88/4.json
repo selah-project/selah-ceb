@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Kay busog na sa mga kadaot ang akong nefesh, ug ang akong kinabuhi ngadto sa Sheol ⟨na⟩ naabot na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "busog na"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "sa mga kadaot"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ug ang akong kinabuhi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ngadto sa Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "naabot na"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.448591047Z",
+  "model": "glm-5.3"
+}

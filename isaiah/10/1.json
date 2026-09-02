@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Hoy sa mga nagahimo og mga balaod sa kadautan, ug sa mga manunulat nga nagasulat sa pagkalisud!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "sa mga nagahimo og mga balaod"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "mga balaod"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadautan"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "ug sa mga manunulat"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sa pagkalisud"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nagasulat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:08.898603620Z",
+  "model": "glm-5.3"
+}

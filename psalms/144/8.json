@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Ngǎ ang ilang baba nagsulti ug ⟨panlangyaw⟩ ug ang ilang too nga kamot ⟨mao ang⟩ too nga kamot sa pagbakak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga ang"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ilang baba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "⟨panlangyaw⟩"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ug ang ilang too nga kamot"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "too nga kamot"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pagbakak"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:04.139092591Z",
+  "model": "glm-5.3"
+}

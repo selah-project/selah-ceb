@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Busa nakapanumpa ako sa panimalay ni Eli: dili na mabawi ang kakaulaw sa panimalay ni Eli pinaagi sa sakripisyo ni sa halad ⟨hangtod sa kahangturan⟩.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nakapanumpa ako"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa panimalay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dili na"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "mabawi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kakaulaw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa panimalay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ni Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "paagi sa sakripisyo"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "ni sa halad"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:03.133837718Z",
+  "model": "glm-5.3"
+}

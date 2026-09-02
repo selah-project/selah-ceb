@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gipatindog niya ⟨את⟩ ang tibuok nga katawhan, ang tagsatagsa nga ang iyang armas sa iyang kamot, gikan sa abaga sa tuo nga bahin sa balay hangtod sa abaga sa wala nga bahin sa balay, pakadto sa altar ug sa balay, palibot sa hari sa naglibot.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ug gipatindog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ang tagsatagsa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ang iyang armas"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "gikan sa abaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "nga tuo nga bahin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "sa abaga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "nga wala nga bahin"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "pakadto sa altar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ug sa balay"
+    },
+    {
+      "surface": "על",
+      "gloss": "palibot sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa naglibot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:49:10.749816371Z",
+  "model": "glm-5.3"
+}

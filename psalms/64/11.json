@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 64,
+  "translation": "Nagmalipayon ang matarong diha kang Yahweh ug moyulti kanila; ug nagpasidungog ang tanan nga matul-id sa kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "nagmalipayon"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "diha kang Yahweh"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "ug moyulti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "nagpasidungog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:04.874712910Z",
+  "model": "glm-5.3"
+}

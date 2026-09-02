@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang nagabantay sa sugo nagabantay sa iyang kaugalingong kalag, apan ang nagadisdapit sa iyang mga dalan mamatay.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kaugalingong kalag"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "nagadisdapit"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "iyang mga dalan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:38.997135482Z",
+  "model": "glm-5.3"
+}

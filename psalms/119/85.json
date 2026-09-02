@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nagkalot alang kanako ang mga mapahitas-on ug mga atipan ⟨nga⟩ dili sumala sa imong Torá.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "Nagkalot"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ang mga mapahitas-on"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ug mga atipan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "sumala sa imong Torá"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.118152322Z",
+  "model": "glm-5.3"
+}

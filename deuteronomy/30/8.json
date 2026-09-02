@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug ikaw mobalik ug mamati sa tingog ni Yahweh, ug buhaton nimo ⟨את⟩ ang tanan niyang mga sugo nga akong gisugo kanimo karon nga adlawa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ug mamati"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niyang mga sugo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "nihang mga sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "gisugo kanimo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karson nga adlawa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:21.520989229Z",
+  "model": "glm-5.3"
+}

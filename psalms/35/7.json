@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Kay sa walay kabungat gitago nila alang kanako ang lungag — ang ilang pukot; sa walay kabungat nagkalot sila alang sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sa walay kabungat"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "gitago nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ang lungag"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ang ilang pukot"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sa walay kabungat"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "nagkalot sila"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alang sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.286105086Z",
+  "model": "glm-5.3"
+}

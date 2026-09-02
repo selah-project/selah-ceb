@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Nagiingon si Adonay: Gikan sa Bashan pagabalikon ⟨ko⟩, pagabalikon ⟨ko⟩ gikan sa katumoran sa dagat.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nagiingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "gikan sa Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "pagabalikon"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "pagabalikon"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "gikan sa katumoran"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:09.574691641Z",
+  "model": "glm-5.3"
+}

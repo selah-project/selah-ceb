@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 51:4",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ug mapukan nga mga patay sila sa yuta sa Kasdim, ug ang mga gasabado sa iyang mga kadalanan.",
+  "tokens": [
+    {
+      "surface": "ונפלו",
+      "gloss": "mapukan"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mga patay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "sa Kasdim"
+    },
+    {
+      "surface": "ומדקרים",
+      "gloss": "ug ang mga gasabado"
+    },
+    {
+      "surface": "בחוצותיה",
+      "gloss": "sa iyang mga kadalanan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:01.509760681Z",
+  "model": "glm-5.3"
+}

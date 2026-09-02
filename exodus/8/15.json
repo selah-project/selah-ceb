@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 8:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug miingon ang mga salamangkero kang Paro: ⟨Kini⟩ tudlo sa Elohim ⟨kini⟩! Ug nagpatig-a ang kasingkasing ni Paro, ug wala siya mamati kanila, ingon sa gisulti ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ang mga salamangkero"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אצבע",
+      "gloss": "tudlo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ug nagpatig-a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "siya mamati"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:49.880823329Z",
+  "model": "glm-5.3"
+}

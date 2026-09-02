@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Sumaka kamo ngari kanako, ug tabangi ako, ug hisgutan nato ⟨את⟩ ang Givon, kay nakahimo kini og kalinaw uban ⟨את⟩ si Yehoshua ug ⟨את⟩ ang mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "sumaka kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ug tabangi ako"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "ug hisgutan nato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ang Givon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "nakahimo kini og kalinaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "si Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:20.518669632Z",
+  "model": "glm-5.3"
+}

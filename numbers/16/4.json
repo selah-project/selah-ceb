@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug nadungog ni Moshe, ug natigbak siya sa iyang nawong.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ug natigbak siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:38:20.012559180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nahibalo ako, O Yahweh, nga matarong ang imong mga paghukom, ug sa pagkamatinud-anon imong gipakit-an kanako ang kalisud.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ang imong mga paghukom"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "ug sa pagkamatinud-anon"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "imong gipakitakanako ang kalisud"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:54.767485678Z",
+  "model": "glm-5.3"
+}

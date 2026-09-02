@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Magahukom ⟨siya⟩ sa imong katawhan uban sa pagkamatarong, ug sa imong mga kabus uban sa pagtulon-an.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Magahukom"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa imong katawhan"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "uban sa pagkamatarong"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ug sa imong mga kabus"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "uban sa pagtulon-an"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:10.903354509Z",
+  "model": "glm-5.3"
+}

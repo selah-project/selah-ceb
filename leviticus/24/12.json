@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gibutang nila siya sa pagbantay, ⟨aron⟩ pagpasaboton ⟨kini⟩ alang kanila sumala sa baba ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "ug gibutang nila siya"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "aron pagpasaboton"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:00.092469185Z",
+  "model": "glm-5.3"
+}

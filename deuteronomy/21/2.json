@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "unya manggawas ang imong mga kinsa ug ang imong mga maghuhukom, ug magsukod sila ngadto sa mga dakbayan nga naglibut sa patay;",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "manggawas"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ang imong mga kinsa"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ug ang imong mga maghuhukom"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "ugs magsukod sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "naglibut"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "sa patay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:19.432789253Z",
+  "model": "glm-5.3"
+}

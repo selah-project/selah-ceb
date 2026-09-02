@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Naglibot-libot sila gikan sa usa ka nasud ngadto sa lain nga nasud, gikan sa usa ka gingharian ngadto sa lain nga katawhan.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "naglibot-libot sila"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "gikan sa usa ka nasud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "lain nga nasud"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "gikan sa usa ka gingharian"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.224779524Z",
+  "model": "glm-5.3"
+}

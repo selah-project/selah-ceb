@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang nagalakat sa katinuod maglakat nga ⟨sa⟩ lig-on, apan ang nagahimo sa iyang mga dalan nga balit-ad pahibaloan.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "nagalakat"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "sa katinuod"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "maglakat"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nga lig-on"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "apan ang nagabalit-ad"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sa iyang mga dalan"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "pahibaloan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:36.596976566Z",
+  "model": "glm-5.3"
+}

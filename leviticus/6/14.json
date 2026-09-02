@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sa panaksan kini buhaton nga adunahon sa lana; inihumol, idala kini; tipik-tipik sa mincha nga tinapay ang ihalad — mahimayaong baho alang kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "panaksan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "nga adunahon sa lana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "inihumol"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "idala kini"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "tipik-tipik"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "sa mincha"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "nga tinapay"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "ang ihalad"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "baho"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mahimayaong"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:59.595730319Z",
+  "model": "glm-5.3"
+}

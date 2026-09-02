@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang kamot sa mga saksi ⟨ang⟩ unang mahimong ⟨labot kaniya⟩ sa pagpatay kaniya, ug ang kamot sa tanan nga mga tawo sa ulahi; ug pagafoon nimo ang kadautan gikan sa taliwala nimo.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "mga saksi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "בו",
+      "gloss": "labot kaniya"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "unang"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "sa pagpatay kaniya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ug ang kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "sa ulahi"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "ug pagafoon nimo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang kadautan"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "gikan sa taliwala nimo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:52.837457060Z",
+  "model": "glm-5.3"
+}

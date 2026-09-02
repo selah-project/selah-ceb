@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ang akong mga mata kanunay ngadto kang Yahweh, kay siya magakuha sa akong mga tiil gikan sa pukot.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanunay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "magakuha"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "gikan sa pukot"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:16.467432789Z",
+  "model": "glm-5.3"
+}

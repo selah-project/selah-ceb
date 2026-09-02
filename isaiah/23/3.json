@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug sa daghang tubig ang binhi sa Shichor, ang ani sa suba, ⟨ang⟩ iyang abot; ug nahimo siya nga tindahan sa mga nasud.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "ug sa tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "binhi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sa Shichor"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "iyang abot"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug nahimo siya"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "tindahan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sa mga nasud"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:16.181667694Z",
+  "model": "glm-5.3"
+}

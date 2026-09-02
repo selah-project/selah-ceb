@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang korona sa mga maalam mao ang ilang kabahandiyan; ang kahamugawan sa mga tanga mao ang kahamugawan.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Ang korona"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalam"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "mao ang ilang kabahandiyan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ang kahamugawan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga tanga"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "mao ang kahamugawan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:55.679215926Z",
+  "model": "glm-5.3"
+}

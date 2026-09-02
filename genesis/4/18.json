@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gipakatawo kang Khanokh ⟨את⟩ si Irad, ug si Irad nagkatawo kang ⟨את⟩ Mekhuyael, ug si Mekhuyael nagkatawo kang ⟨את⟩ Metushael, ug si Metushael nagkatawo kang ⟨את⟩ Lemekh.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "gipakatawo"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "kang Khanokh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "si Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "ug si Irad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagkatawo kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mekhuyael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mekhuyael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "ug si Mekhuyael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagkatawo kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Metushael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "ug si Metushael"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagkatawo kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekh"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemekh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:43.845780742Z",
+  "model": "glm-5.3"
+}

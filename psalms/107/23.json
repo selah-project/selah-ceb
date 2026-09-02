@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ang mga manaug sa dagat sa mga sakayan, ang mga buhat ug pagpangita sa daghang mga tubig.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Ang mga manaug"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "sa mga sakayan"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ang mga buhat ug"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "pagpangita"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa daghang mga tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:20.226694019Z",
+  "model": "glm-5.3"
+}

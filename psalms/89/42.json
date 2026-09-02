@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Gipanghamok siya sa tanan nga magbabalyo sa dalan; nahimo siya nga kaulawan sa iyang mga silingan.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "gipanghamok siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "nga magbabalyo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahimo siya"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nga kaulawan"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "sa iyang mga silingan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.997062237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Maayo alang kanako ang balaod sa imong baba, labaw pa sa minilibo ka ⟨mga pingpong sa⟩ bulawan ug salapi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang balaod"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "sa imong baba"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "labaw pa sa minilibo ka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "ug salapi",
+      "surface_alt": "וכסף"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:12.630341064Z",
+  "model": "glm-5.3"
+}

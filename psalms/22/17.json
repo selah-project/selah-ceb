@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kay gipalibot ako sa mga iro; ang katigayonan sa mga daotan naglibot kanako; sama sa leon ⟨ang⟩ akong mga kamot ug akong mga tiil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "gipalibot ako"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "sa mga iro"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ang katigayonan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sa mga daotan"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "naglibot kanako"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "sama sa leon"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "akong mga kamot"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "ug akong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:30.130652293Z",
+  "model": "glm-5.3"
+}

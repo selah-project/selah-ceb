@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug namatay si Yehoshua nga anak ni Nun, alagad ni Yahweh, sa edad nga usa ka gatos ug napulo ka tuig.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ug namatay si"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak ni"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "alagad ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "sa edad nga"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatos"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ug napulo ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:49.184553987Z",
+  "model": "glm-5.3"
+}

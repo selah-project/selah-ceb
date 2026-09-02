@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug miingon ngari kaniya ang tanan nga mga tigulang ug ang tanan nga katawhan: Ayaw pagpatalinghog, ug ayaw pagtugot.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngari kaniya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "pagpatalinghog"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "pagtugot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:37.313189590Z",
+  "model": "glm-5.3"
+}

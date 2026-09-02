@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gitambagan nila ⟨את⟩ ang mga anak ni Binyamin nga nagaingon: Lakaw kamo, ug magtago kamo sa mga ubasan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ug gitambagan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Binyamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ni Binyamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Lakaw kamo"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "ug magtago kamo sa paglatas"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "sa mga ubasan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:12:51.929537012Z",
+  "model": "glm-5.3"
+}

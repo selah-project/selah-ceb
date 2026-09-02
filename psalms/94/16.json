@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Kinsa ang mobangon alang kanako batok sa mga mangdaot? Kinsa ang molungsod alang kanako batok sa mga mamumuo sa kadautan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ang mobangon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mga mangdaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ang molungsod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mga mamumuo"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadautan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:25.681818038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug miingon si David sa mga Gibeonita: Unsa ang buhaton nako alang kaninyo, ug sa unsa man ako mag-aton, aron pakaanakan ninyo ⟨את⟩ ang kabilin ni Yahweh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "mga Gibeonita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ang buhaton nako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ug sa unsa man"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "ako mag-aton"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "aron pakaanakan ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kabilin"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ang kabilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:09.837175994Z",
+  "model": "glm-5.3"
+}

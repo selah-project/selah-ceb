@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "aron ⟨sa⟩ pagdawat sa pagtulon-an sa pagtuki, sa matarong nga pagpanghukom ug sa tinuod nga kaangayan —",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "aron sa pagdawat"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "pagtulon-an"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "sa pagtuki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug pagpanghukom"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ug kaangayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:37.297524922Z",
+  "model": "glm-5.3"
+}

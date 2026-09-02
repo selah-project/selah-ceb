@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 93,
+  "translation": "Sa mga tingog sa daghang tubig, sa mga mahimuslan nga mga balud sa dagat — labaw pa sa kahitas-an si Yahweh nga mahimuslan.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "sa mga tingog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mga mahimuslan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "mga balud"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahimuslan"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "sa kahitas-an"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.776691112Z",
+  "model": "glm-5.3"
+}

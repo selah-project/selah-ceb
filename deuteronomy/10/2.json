@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug isulat ko sa mga lamesa ⟨את⟩ ang mga pulong nga anaa sa mga lamesang kinaunahan, nga imong gipunit, ug ibutang mo sila sa kahon.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Ug isulat ko"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ang mga lamesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ang mga lamesa"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "nga kinaunahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "imong gipunit"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ug ibutang mo sila"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sa kahon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:48:23.982182438Z",
+  "model": "glm-5.3"
+}

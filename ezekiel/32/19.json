@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 32:19",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Kaysa kani — mas malabay ka ba? Lugsong ka, ug ipahigda ka sila ⟨את⟩ kauban ang mga walay tinuli.",
+  "tokens": [
+    {
+      "surface": "ממי",
+      "gloss": "kaysa kani"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "mas malabay ka"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Lugsong ka"
+    },
+    {
+      "surface": "והשכבה",
+      "gloss": "ug ipahigda ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kauban ang mga walay tinuli"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "ang mga walay tinuli"
+    }
+  ],
+  "timestamp": "2026-09-01T21:43:10.963629500Z",
+  "model": "glm-5.3"
+}

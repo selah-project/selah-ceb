@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug magasalig ⟨kanimo⟩ ang makaila ⟨sa⟩ imong ngalan, kay wala nimong biyaan ang nagapangita kanimo, Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "ug magasalig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ang makaila"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "wala nimong biyaan"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ang nagapangita kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.112357658Z",
+  "model": "glm-5.3"
+}

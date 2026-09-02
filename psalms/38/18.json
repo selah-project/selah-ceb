@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kay ako andam ⟨sa⟩ pagkadahun, ug ang akong sakit atubang ko sa kanunay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "⟨sa⟩ pagkadahun"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "andam"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ug ang akong sakit"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "atubang ko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:47.599658158Z",
+  "model": "glm-5.3"
+}

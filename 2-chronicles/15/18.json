@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug gidala niya ⟨את⟩ ang mga balaang butang sa iyang amahan ug ang iyang kaugalingong mga balaang butang ngadto sa balay ni Elohim — salapi, bulawan, ug mga kasangkapan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ug gidala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga balaang butang sa iyang amahan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mga balaang butang"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "ug ang iyang mga balaang butang"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "mga kasangkapan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:07.329398952Z",
+  "model": "glm-5.3"
+}

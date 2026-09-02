@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug pagkahuman niya, gihukman ni Ivtsan nga taga-Beit-Lekhem ⟨את⟩ ang Israel.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "gihukman"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagkahuman niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ni Ivtsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "nga taga-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beit-Lekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T20:10:08.339091313Z",
+  "model": "glm-5.3"
+}

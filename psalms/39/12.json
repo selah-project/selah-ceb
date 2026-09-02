@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Pinaagi sa mga pagsaway bahin sa kadaot gisilot nimo ang tawo, ug ingon sa tagnipa imong gipahunong sa pagkatunaw ang iyang gipalabi; tanan nga tawo ⟨nga⟩ hinuon hawak. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "pinaagi sa mga pagsaway"
+    },
+    {
+      "surface": "על",
+      "gloss": "bahin sa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "gisilot nimo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ug imong gipahunong sa pagkatunaw"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ingon sa tagnipa"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "iya nga gipalabi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "hinuon"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:54.704140730Z",
+  "model": "glm-5.3"
+}

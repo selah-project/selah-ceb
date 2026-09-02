@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Luwasa imong katawhan ⟨את⟩, ug panalangina ⟨את⟩ imong kabilin, ug alagaan sila ⟨ingon nga mestor⟩, ug bit-on sila ⟨pagdunggan⟩ hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Luwasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong katawhan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imong katawhan"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ug panalangina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong kabilin"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "imong kabilin"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "ug alagaan sila"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "ug bit-on sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:56.500973710Z",
+  "model": "glm-5.3"
+}

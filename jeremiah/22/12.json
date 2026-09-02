@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kay sa dapit nga gipapahawa nila ⟨את⟩ kini, didto siya mamatay, ug ⟨את⟩ ⟨ang⟩ yutang kini dili na niya makita ⟨pa⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "gipapahawa nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (si Shallum)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ yutang kini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yutang"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita niya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na ⟨pa⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:57.574354854Z",
+  "model": "glm-5.3"
+}

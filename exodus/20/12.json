@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ipadunggan mo ⟨את⟩ ang imong amahan ug ⟨את⟩ ang imong inahan, aron molungtaron ang imong mga adlaw sa yutang ihatag kanimo ni Yahweh nga imong Elohim.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Ipadunggan mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong amahan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ang imong amahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang imong inahan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ang imong inahan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "molungtaron"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ang imong mga adlaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yutang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:21.857064316Z",
+  "model": "glm-5.3"
+}

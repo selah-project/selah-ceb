@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug gikuha nila ⟨את⟩ ang ilang mga anak nga babey alang sa ilang kaugalingon nga mga asawa, ug ⟨את⟩ ang ilang mga anak nga babey gihatag nila sa ilang mga anak nga lalaki, ug gisimba nila ⟨את⟩ ang ilang mga elohim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ug gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga anak nga babey"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ang ilang mga anak nga babey"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang kaugalingon"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "nga mga asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang mga anak nga babey"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ang ilang mga anak nga babey"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ilang mga anak nga lalaki"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ug gisimba nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga elohim"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang ilang mga elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:32.729809935Z",
+  "model": "glm-5.3"
+}

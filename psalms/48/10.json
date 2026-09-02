@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Gihunahuna namon, O Elohim, ang imong hesed ⟨ang imong hikadungog⟩ sa taliwala sa imong templo.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "gihunahuna namon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala sa"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "imong templo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:57.524464608Z",
+  "model": "glm-5.3"
+}

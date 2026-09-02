@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug ibutang mo ang turbante sa ibabaw sa iyang ulo, ug ibutang mo ⟨את⟩ ang balaang korona sa ibabaw sa turbante.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ug ibutang mo"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ang turbante"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "iyang ulo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ug ibutang mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balaang korona"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbante"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:42.879960946Z",
+  "model": "glm-5.3"
+}

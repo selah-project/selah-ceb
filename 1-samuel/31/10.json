@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Gibutang nila ⟨את⟩ ang iyang mga armas sa balay sa ⟨mga⟩ Ashtarot, ug ⟨את⟩ ang iyang lawas gilansang nila sa paril sa Beit-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "gibutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga armas"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ang iyang mga armas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "sa Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang lawas"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ang iyang lawas"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "gilansang nila"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "sa paril"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:30.596287542Z",
+  "model": "glm-5.3"
+}

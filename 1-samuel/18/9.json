@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": " ug gisipi ni Shaul si David ⟨את⟩ gikan nianang adlawa ngadto sa unahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gisipi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "gikan nianang adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ngadto sa unahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:59.265518329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ang tanan nga lalaki sa mga kohen mokaon niini; sa balaan ⟨nga⟩ dapit kan-on kini; kadosh kodashim ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nga lalaki"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "sa mga kohen"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mokaon niini"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kan-on"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadosh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kodashim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:23.452476738Z",
+  "model": "glm-5.3"
+}

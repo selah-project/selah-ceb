@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Pinaagi sa iyang da'at ang mga lawom nagbugha, ug ang mga ulap nagtulo ⟨ug⟩ amban.",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "pinaagi sa iyang da'at (kahibalo)"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ang mga lawom (tehom)"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "nagbugha"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "ug ang mga ulap (shekhakim)"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "nagtulo"
+    },
+    {
+      "surface": "טל",
+      "gloss": "amban (tal)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:25.428780842Z",
+  "model": "glm-5.3"
+}

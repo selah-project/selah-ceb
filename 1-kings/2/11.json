@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang mga adlaw nga naghari si David ibabaw sa Israel ⟨mga⟩ kapatan kawhaan ka tuig; sa Khevron naghari siyag pito ka tuig, ug sa Yerushalayim naghari siyag katloan kag tulo ka tuig.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "ug ang mga adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan kawhaan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "sa Khevron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ug sa Yerushalayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kag tulo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:59.105228474Z",
+  "model": "glm-5.3"
+}

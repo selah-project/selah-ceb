@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang kasingkasing sa maalamon nagatudlo sa iyang baba; ug sa iyang mga ngabil nagadugang siya sa pagtulon-an.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sa maalamon"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "nagatudlo sa pag sabot"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "iyang baba"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "iyang mga ngabil"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "nagadugang"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "pagtulon-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:00.380396627Z",
+  "model": "glm-5.3"
+}

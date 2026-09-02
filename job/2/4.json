@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug mitubag ha-satan ⟨את⟩ si Yahweh ug miingon: Panit sa bayad sa panit, ug bisan unsa nga anaa sa tawo ihatag niya sa bayad sa iyang nefesh.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ug mitubag"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "sa bayad"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug bisan unsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "anaa sa tawo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ihatag niya"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "sa bayad"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang nefesh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:36:13.951846006Z",
+  "model": "glm-5.3"
+}

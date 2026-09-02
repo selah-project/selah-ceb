@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Gikan sa katilingban sa mga anak ni Yisrael mokuha siya ug duha ka lalaking kanding alang sa ​hatop​ sa sala, ug usa ka carnero alang sa halad nga sinunog.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ gikan sa",
+      "marks": "katilingban"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mokuha siya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "lalaking kanding"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sa mga kanding"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "alang sa hatop sa sala"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "ug usa ka carnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "alang sa halad nga sinunog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:59.993098552Z",
+  "model": "glm-5.3"
+}

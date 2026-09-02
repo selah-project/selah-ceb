@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug miingon ang hari sa Yisrael ngadto sa iyang mga sulugoon: Nasayud ba kamo nga atoa ang Ramot sa Gilad, ug kita mahilumon gikan sa pagkuha ⟨את⟩ niini gikan sa kamot sa hari sa Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iyang mga sulugoon"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Nasayud ba kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "atoa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "sa Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ug kita"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "mahilumon"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "gikan sa pagkuha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang Ramot sa Gilad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:48.345209562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug gihimo niya ⟨את⟩ ang labador nga bronse ug ⟨את⟩ ang iyang puloy-anan nga bronse, gikan sa mga salamin sa mga babayeng nag-alagad, nga nag-alagad sa pultahan sa tolda sa pagtigum.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang labador"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ang labador"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang puloy-anan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ang iyang puloy-anan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronse"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "gikan sa mga salamin"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "mga babayeng nag-alagad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "pultahan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pagtigum"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:41.372059915Z",
+  "model": "glm-5.3"
+}

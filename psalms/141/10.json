@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Mahulog ⟨sa ilang kaugalingong⟩ mga silot ang mga dautan, silot sa; uban ako, hangtod makalampas ako.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Mahulog"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "sa iyang mga silot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "silot sa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "makalampas ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:50.906300867Z",
+  "model": "glm-5.3"
+}

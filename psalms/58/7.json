@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Elohim, pangguba ang ilang ngipon sulod sa ilang baba; Yahweh, pangguba ang mga bag-ang sa mga batan-ong leon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "pangguba"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "ang ilang ngipon"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "sulod sa ilang baba"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "ang mga bag-ang"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "sa mga batan-ong leon"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "pangguba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.429387883Z",
+  "model": "glm-5.3"
+}

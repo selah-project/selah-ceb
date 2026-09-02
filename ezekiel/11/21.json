@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 11:21",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Apan sa mga tawo nga ang ilang kasingkasing naglakaw sunod sa kasingkasing sa ilang mga ginadlawan ug sa ilang mga gimanggad, ang ilang dalan ibutang ko sa ibabaw sa ilang mga ulo, mga pulong ni Adonay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "apan sa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ilaang mga ginadlawan"
+    },
+    {
+      "surface": "ותועבותיהם",
+      "gloss": "ug ilaang mga gimanggad"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ilaang kasingkasing"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ilaang dalan"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "sa ilaang mga ulo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ibutang ko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:35:00.859788653Z",
+  "model": "glm-5.3"
+}

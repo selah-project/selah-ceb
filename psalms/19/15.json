@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Himoon nga madawat ⟨ang⟩ mga pulong sa akong baba ug ang hunahuna sa akong kasingkasing atubang nimong Yahweh, Bato ko ug Manubos ko.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "himoon nga madawat"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "nga madawat"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa akong baba"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "ug ang hunahuna"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "atubang nimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Bato ko"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "ug Manubos ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:47.179443557Z",
+  "model": "glm-5.3"
+}

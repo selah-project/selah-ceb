@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug ⟨את⟩ ang Negev, ug ⟨את⟩ ang patag — ang walog sa Yericho, ⟨ang⟩ dakbayan sa mga Palmera — hangtod sa Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ang Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang patag"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ang patag"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ang walog"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "sa Yericho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "sa mga Palmera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:07.325106359Z",
+  "model": "glm-5.3"
+}

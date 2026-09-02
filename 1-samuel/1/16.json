@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ayaw pagtagna ⟨את⟩ nga ang imong sulugoon ⟨ingon⟩ anak nga babae ni Bliyal; kay tungod sa kadaghan sa akong pag-ampo ug sa akong kasubo nagsulti ako hangtod karon.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "pagtagna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nga ang imong sulugoon"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babae"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ni Bliyal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "tungod sa kadaghan"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "sa akong pag-ampo"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "ug sa akong kasubo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsulti ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "karon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:17.944025836Z",
+  "model": "glm-5.3"
+}

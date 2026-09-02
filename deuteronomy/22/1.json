@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Dili ka makakita ⟨את⟩ sa baka sa imong igsoon o ⟨את⟩ sa iyang karnero nga nalagas, ug magtago ka kaniya — pag-uli, iuli kini sa imong igsoon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa baka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang karnero"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "nga nalagas"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ug magtago ka"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "השב",
+      "gloss": "pag-uli"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "iuli kini"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "sa imong igsoon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:24.195504580Z",
+  "model": "glm-5.3"
+}

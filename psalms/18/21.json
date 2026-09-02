@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nagbayad kanako si Yahweh sumala sa akong pagkamatarong; sumala sa kahinlo sa akong mga kamot gibalik niya ⟨kini⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "nagbayad kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sumala sa akong pagkamatarong"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sumala sa kahinlo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa akong mga kamot"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "gibalik niya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.026678466Z",
+  "model": "glm-5.3"
+}

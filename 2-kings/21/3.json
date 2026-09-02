@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay nagbalik siya ug nagtindog pag-usab ⟨את⟩ sa mga nahitas nga dapit nga gipanglaglag ni Khizkiyahu iyang amahan, ug nagpatindog siya ug mga altar alang kang Baal, ug naghimo ug Asherah ingon nga gibuhat ni Akhab nga hari sa Yisrael, ug nagpakilo siya sa tanan nga panon sa kalangitan ug nag-alagad ⟨kaniila⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kay nagbalik siya"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ug nagtindog pag-usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga nahitas nga dapit"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "sa mga nahitas nga dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "gipanglaglag"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ni Khizkiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ug nagpatindog"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "mga altar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "alang kang Baal"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug naghimo"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Asherah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Akhab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ug nagpakilo siya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ug nag-alagad"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "silang tanan (sa panon sa kalangitan)"
+    }
+  ],
+  "timestamp": "2026-09-02T00:50:07.542818156Z",
+  "model": "glm-5.3"
+}

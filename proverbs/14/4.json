@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Diin nga walay mga baka, limpyo ang sabsaban, apan daghan ang ani pinaagi sa kusog sa baka.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Diin nga walay"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mga baka"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ang sabsaban"
+    },
+    {
+      "surface": "בר",
+      "gloss": "limpyo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "apan daghan"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ang ani"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "pinaagi sa kusog"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sa baka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:46.062962901Z",
+  "model": "glm-5.3"
+}

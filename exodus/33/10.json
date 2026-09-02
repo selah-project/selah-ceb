@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug makita sa tibuok nga katawhan ⟨את⟩ ang haligi sa panganod nga nagbarug sa ganghaan sa tolda, ug mobangon ang tibuok nga katawhan ug mosimba, ang matag usa ka tawo sa ganghaan sa iyang tolda.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ug makita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang haligi sa panganod"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ang haligi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sa panganod"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ug mobangon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nga katawhan"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ug mosimba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa ka tawo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sa iyang tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:20.935668021Z",
+  "model": "glm-5.3"
+}

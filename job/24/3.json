@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ang iring-iring sa mga ilo ilang gipadayon ⟨sa pagkawal⟩; ang baka sa balo ilang gipapahawak ingon panumpa.",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "iring-iring"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "mga ilo"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "gipadayon"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "gipapahawak ingon panumpa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "balo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:20.846798698Z",
+  "model": "glm-5.3"
+}

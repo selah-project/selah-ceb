@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Hilawgon ug ulawan sila nga nagtinguha sa akong kalag aron ⟨kini⟩ malaglagon; mobalik sila paingon sa likod ug maila sila nga nagtinguha sa akong kadaot.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "hilawgon sila"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ug ulawan sila"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nga nagkaubanan"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "nagtinguha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "aron malaglagon"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mobalik sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paingon sa likod"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ug maila sila"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "nagtinguha"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sa akong kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:11.592062480Z",
+  "model": "glm-5.3"
+}

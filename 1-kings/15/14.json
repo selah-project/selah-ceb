@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Apan ang mga kataas nga dapit wala gikuha; ra ang kasingkasing ni Asa hingpit kauban ni Yahweh sa tanan niyang mga adlaw.",
+  "tokens": [
+    {
+      "surface": "וְהַבָּמוֹת",
+      "gloss": "ang mga kataas nga dapit"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סָרוּ",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "רַק",
+      "gloss": "ra"
+    },
+    {
+      "surface": "לְבַב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "אָסָא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הָיָה",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "שָׁלֵם",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "יָמָיו",
+      "gloss": "niyang mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:46.558459555Z",
+  "model": "glm-5.3"
+}

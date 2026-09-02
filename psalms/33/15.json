@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Siya nga naghimo nga nagkahiusa sa ilang mga kasingkasing, siya nga nakasabut sa tanang ilang mga buhat.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Siya nga naghimo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nagkahiusa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sa ilang mga kasingkasing"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "siya nga nakasabut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ilang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.866720070Z",
+  "model": "glm-5.3"
+}

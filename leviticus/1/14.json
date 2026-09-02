@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug kon ang iyang halad ngadto kang Yahweh mao ⟨usa ka⟩ halad nga sinusunog gikan sa mga langgam, magadala ⟨siya⟩ gikan sa mga turtuga o gikan sa mga anak sa salampati ⟨את⟩ ang iyang halad.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "mga langgam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "halad nga sinusunog"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang iyang halad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ug magadala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "mga turtuga"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak sa"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "salampati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang halad"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ang iyang halad"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:49.473299612Z",
+  "model": "glm-5.3"
+}

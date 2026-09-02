@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Nagpanaw sila gikan sa Sukot, ug nagkampo sila sa Etam, sa kahilisad-an sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Nagpanaw sila"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "gikan sa Sukot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ug nagkampo sila"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "sa Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "sa kahilisad-an"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:37.719511808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Kini ang balos sa akong mga manudla gikan kang Yahweh ⟨את⟩, ug sa mga nagsulting daotan batok sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ang balos (buhat)"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "sa akong mga manudla"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "gikan kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "ug sa mga nagsulti"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:33.400971256Z",
+  "model": "glm-5.3"
+}

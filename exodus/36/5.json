@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug nagsulti sila kang Moshe, nga nagaingon: Nagadaghan ang katawhan sa pagdala, labaw pa sa igo sa buluhaton alang sa minulah nga gisugo ni Yahweh ⟨את⟩ sa paghimo niini.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ug nagsulti sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "Nagadaghan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "sa pagdala"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "labaw pa sa igo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "sa buluhaton"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "alang sa minulah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang minulah)"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:44.868676377Z",
+  "model": "glm-5.3"
+}

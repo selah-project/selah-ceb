@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nakita ⟨את⟩ ⟨siya⟩ ang mga mangulo ni Paro, ug gidayeg nila ⟨את⟩ ⟨siya⟩ ngadto kang Paro, ug gikuha ang babaye ngadto sa balay ni Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨siya⟩ (si Sarai)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ang mga mangulo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "ug gidayeg nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "⟨siya⟩ (si Sarai)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babaye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:17.417592088Z",
+  "model": "glm-5.3"
+}

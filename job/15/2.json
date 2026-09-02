@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Magatubag ba ang usa ka maalamon ug kaalam nga sugo sa hangin, ug mopuno ba siya sa iyang tiyan ug sidlakong hangin?",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "ang usa ka maalamon"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "magatubag"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sugo sa hangin"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ug mopuno"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "sidlakong hangin"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "sa iyang tiyan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:39:36.479479140Z",
+  "model": "glm-5.3"
+}

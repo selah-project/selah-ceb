@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Gikuha nila ⟨את⟩ tanan nga butin ug ⟨את⟩ tanan nga biyahe — taliwala sa mga tawo ug sa mga bestiya.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga butin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "nga butin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga biyahe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "nga biyahe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ug sa mga bestiya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:22.716352207Z",
+  "model": "glm-5.3"
+}

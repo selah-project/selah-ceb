@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pila ka adlaw ang ⟨naa⟩ sa imong sulugoon? Kanus-a imong buhaton ang paghukom ⟨labina sa⟩ akong mga gipangahas?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "pila ka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sa imong sulugoon"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "imong buhaton"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "⟨labina sa⟩ akong mga gipangahas"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:05.189037684Z",
+  "model": "glm-5.3"
+}

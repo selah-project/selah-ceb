@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Nalimtan nila ang iyang mga buhat ug ang iyang mga katingalahan nga iyang gipakita kanila.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Nalimtan nila"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang iyang mga buhat"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ug ang iyang mga katingalahan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "giyang gipakita kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:55.957759602Z",
+  "model": "glm-5.3"
+}

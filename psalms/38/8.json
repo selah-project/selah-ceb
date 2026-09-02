@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kay ang akong hawak napuno sa pagsunog; ug wala nay hinlohim sa akong unod.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ang akong hawak"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "sa pagsunog"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala nay"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "hinlohim"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "sa akong unod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:43.903850023Z",
+  "model": "glm-5.3"
+}

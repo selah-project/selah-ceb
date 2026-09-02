@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "ug ang pagkaon sa iyang lamesa, ug ang paglingkod sa iyang mga sulugoon, ug ang pagtindog sa iyang mga tagaalagad, ug ang ilang mga bisti, ug ang iyang mga ilimnon, ug ang iyang mga halad nga sinunog nga iyang gisaka sa balay ni Yahweh, ug wala na ⟨na⟩ may nabiling ruha diha kanhiya.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "ug ang pagkaon"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "sa iyang lamesa"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "ug ang paglingkod"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sa iyang mga sulugoon"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "ug ang pagtindog"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "sa iyang mga tagaalagad"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "ug ang ilang mga bisti"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "ug ang iyang mga ilimnon"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "ug ang iyang mga halad nga sinunog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "gisaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "may nabiling"
+    },
+    {
+      "surface": "בה",
+      "gloss": "diha kanhiya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:51.213307768Z",
+  "model": "glm-5.3"
+}

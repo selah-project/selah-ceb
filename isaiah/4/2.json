@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Nianang adlawa mahimo ang Sanga ni Yahweh ⟨nga⟩ alang sa katahum ug alang sa himaya, ug ang bunga sa ⟨ang⟩ yuta alang sa garbo ug alang sa kaanyag, alang sa mga nangagiya sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Nianang adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Sanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "alang sa katahum"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "ug alang sa himaya"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ug ang bunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "alang sa garbo"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ug alang sa kaanyag"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "alang sa mga nangagiya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:06.107217854Z",
+  "model": "glm-5.3"
+}

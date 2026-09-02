@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Sulod sa unom ka adlaw tukton ninyo kini, apan sa pito nga adlaw ⟨adunay⟩ shabbat; sa maong adlaw walay makit-an.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Sulod sa unom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "tukton ninyo kini"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "apan sa"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "pito nga adlaw"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "⟨adunay⟩ shabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨adunay\/mahitabo⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sa maong adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:08.480140178Z",
+  "model": "glm-5.3"
+}

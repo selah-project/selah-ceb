@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Gipakita nimo sa imong katawohan ang kalisud ⟨nga⟩ balaton; gipainom ka mo kami ug bino sa pagkangilad.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "gipakita nimo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "imong katawohan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "kalisud nga balaton"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "gipainom nimo kami"
+    },
+    {
+      "surface": "יין",
+      "gloss": "bino"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "sa pagkangilad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:10.214460840Z",
+  "model": "glm-5.3"
+}

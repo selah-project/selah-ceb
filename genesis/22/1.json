@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug nahitabo human sa mga butanga kini nga si Elohim nisulay ⟨את⟩ kang Avraham, ug miingon siya kaniya: Avraham! Ug miingon siya: Ania ako.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga butang"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kini nga"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "nisulay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ania ako"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:42.649654240Z",
+  "model": "glm-5.3"
+}

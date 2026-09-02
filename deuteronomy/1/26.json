@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug wala kamo mouyon sa pag-angkad, ug nangahas kamo batok sa ⟨את⟩ baba ni Yahweh nga inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "kamo mouyon"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "sa pag-angkad"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "ug nangahas kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baba ni Yahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:57.920543940Z",
+  "model": "glm-5.3"
+}

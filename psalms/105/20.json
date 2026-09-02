@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nagpadala ang hari ug gipagawas siya — ang mananaog sa mga katawhan, ug gipahuway kaniya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "gipagawas siya"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mananaog"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "gipahuway kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:13.834647001Z",
+  "model": "glm-5.3"
+}

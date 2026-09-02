@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Hinumdumi ang imong mga kasilag, Yahweh, ug ang imong hesed, kay gikan sa kanilaong panahon kana ⟨mga⟩.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hinumdumi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ang imong mga kasilag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "ug ang imong hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sa kanilaong panahon"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:17.423429891Z",
+  "model": "glm-5.3"
+}

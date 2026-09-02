@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Apon ang akon nga hesed dili nako buakon gikan kaniya, ug dili nako paglimbongon ang akong pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "apon ang akon nga hesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "buakon"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "paglimbongon"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "ang akong pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.996983329Z",
+  "model": "glm-5.3"
+}

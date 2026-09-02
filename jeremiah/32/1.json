@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 32:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ang pulong nga miabot kang Yirmeyahu gikan ⟨את⟩ Yahweh, sa ikanapulo ka tuig ni Tsidkiyahu, hari sa Yehudah — kini mao ⟨ang⟩ ikanapulog-walo ka tuig ni Nevukhadre'tsar.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa ... ka tuig"
+    },
+    {
+      "surface": "העשרית",
+      "gloss": "ikanapulo"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini mao"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "⟨ang⟩ ... tuig"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "ni Nevukhadre'tsar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:59.430956363Z",
+  "model": "glm-5.3"
+}

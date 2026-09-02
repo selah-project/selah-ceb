@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 142,
+  "translation": "Nagsinggit ako ngadto kanimo, Yahweh; nagsulti ako: Ikaw ang akong kapananagyakan, ang akong bahin sa yuta sa mga buhi.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Nagsinggit ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagsulti ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ang akong kapananagyakan"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ang akong bahin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "sa mga buhi"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:56.874221724Z",
+  "model": "glm-5.3"
+}

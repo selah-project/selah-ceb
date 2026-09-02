@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Tanang mga pulong kapoy na ⟨kaayo⟩; dili makasulti ang tawo ⟨ninuyo⟩; dili mabusog ang mata sa pagtan-aw, ug dili mapuno ang dunggan sa pagdungog.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "kapoy na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makasulti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "⟨ninuyo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "mabusog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ang mata"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "mapuno"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ang dunggan"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "sa pagdungog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:02.144600574Z",
+  "model": "glm-5.3"
+}

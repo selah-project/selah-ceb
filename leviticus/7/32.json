@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ⟨את⟩ sa paa nga tuo ihatag ninyo ingon nga terumah ngadto sa sacerdote, gikan sa inyong mga paghalad sa pakigdait.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "sa paa nga tuo"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "paa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nga tuo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ihatag ninyo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "ingon nga terumah"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ngadto sa sacerdote"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "gikan sa inyong mga paghalad"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "sa pakigdait"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:27.274777452Z",
+  "model": "glm-5.3"
+}

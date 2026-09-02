@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang mga tawo gikan sa tanang katawhan nag-abot sa pagpatalinghog sa kinaadman ni Shlomoh, gikan sa ⟨את⟩ tanang hari sa yuta nga nakadungog sa ⟨את⟩ iyang kinaadman.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanang"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagpatalinghog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinaadman"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kinaadman"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoh"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang kinaadman"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "iyang kinaadman"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:32.838179095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "May uban usab nga uban kanamo ang tigulang nga uban ang labi nang tigulang, nga labaw sa imong amahan sa mga adlaw.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usan usab"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tigulang"
+    },
+    {
+      "surface": "גם",
+      "gloss": "uban"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "labi nang tigulang"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uban kanamo"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "labaw"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sa mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:39:11.178929171Z",
+  "model": "glm-5.3"
+}

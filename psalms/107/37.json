@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ug nagtanum sila ug ⟨mga⟩ uma ug nagtanom ug mga kaparasan, ug nagpatunghag mga bunga sa ani.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "nagtanum sila ug"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "mga uma"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "ug nagtanom ug"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mga kaparasan"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug nagpatunghag"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mga bunga"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "sa ani"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:51.180742691Z",
+  "model": "glm-5.3"
+}

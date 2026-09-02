@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Naglimpyo ka sa atubangan niini, ug naglutok kini ug mga gamot, ug napuno ⟨ang⟩ yuta.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "naglimpyo ka"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "sa atubangan niini"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ug naglutok ug mga gamot"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ang iyang mga gamot"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ug napuno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:51.015171610Z",
+  "model": "glm-5.3"
+}

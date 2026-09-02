@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Unsa ka mapintas ⟨ang⟩ mga pulong sa kamatarong, ug unsa ang gipamatuod sa pagsaway nga gikan kaninyo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "unsa ka"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "mapintas"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "יֹשֶׁר",
+      "gloss": "kamatarong"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "gipamatuod sa pagsaway"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "pagsaway"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "gikan kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:05.011159112Z",
+  "model": "glm-5.3"
+}

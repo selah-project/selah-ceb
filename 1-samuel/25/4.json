@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug nadungog ni Dawid sa kamingawan nga naggunting ⟨את⟩ sa iyang panon si Nabal.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni Dawid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "naggunting"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "si Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang panon"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "sa iyang panon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:31.831296501Z",
+  "model": "glm-5.3"
+}

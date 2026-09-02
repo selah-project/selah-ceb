@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Nagpadala siya ug mga timailhan ug mga katingalahang hitabo sa taliwala mo, O Mitsrayim, kang Paro ug sa tanan niyang mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "mga timailhan"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "ug mga katingalahang hitabo"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sa taliwala mo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "O Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "kang Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "niyang mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:01.839324521Z",
+  "model": "glm-5.3"
+}

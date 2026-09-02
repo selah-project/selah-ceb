@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Sa mga sapa sa Bavel didto naming lingkod, OO, naming hilak, sa paghinumdom namo ⟨את⟩ sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "naming lingkod"
+    },
+    {
+      "surface": "גם",
+      "gloss": "oo"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "naming hilak"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "sa paghinumdom namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Tsiyon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:10.826309303Z",
+  "model": "glm-5.3"
+}

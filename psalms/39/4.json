@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Nag-init ang akong kasingkasing sulod kanako; samtang naghanduraw ako, mokusog ang kalayo; nagsulti ako sa akong dila.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Nag-init"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sulod kanako"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "samtang naghanduraw ako"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mokusog"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nagsulti ako"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sa akong dila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:01.758140827Z",
+  "model": "glm-5.3"
+}

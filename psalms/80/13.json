@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Ngano nga gipikas mo ang iyang mga koral, ug tanan nga naglabay sa dalan naggunit niini?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ngano nga"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "gipikas mo"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ang iyang mga koral"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "ug naggunit niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "nga naglabay"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:00.905019815Z",
+  "model": "glm-5.3"
+}

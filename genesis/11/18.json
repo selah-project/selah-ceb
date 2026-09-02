@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagkinabuhi si Peleg tulo kanapulo ka tuig, ug natawo niya ⟨את⟩ si Reu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagkinabuhi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "si Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tulo kanapulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "si Reu"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:15.549935719Z",
+  "model": "glm-5.3"
+}

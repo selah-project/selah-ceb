@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Mga anak ni Kham: Kush, ug Mitsrayim, Put, ug Kenaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mga anak ni"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ug Mitsrayim"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ug Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:13.347826565Z",
+  "model": "glm-5.3"
+}

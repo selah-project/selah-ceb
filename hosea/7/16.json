@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Mobalik sila, apan ⟨dili⟩ ngadto ⟨sa Labing Hataas⟩; nahimo sila ingon sa usa ka pana nga dili matalab; mahulog sa espada ang ilang mga mangulo, tungod sa kagutom sa ilang dila; kini ⟨mao⟩ ang ilang pag-uyam sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Mobalik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa Labing Hataas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nahimo sila"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "ingon sa usa ka pana"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "nga dili matalab"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mahulog"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ang ilang mga mangulo"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "tungod sa kagutom"
+    },
+    {
+      "surface": "لשונם",
+      "gloss": "sa ilang dila"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "ang ilang pag-uyam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:42.042905460Z",
+  "model": "glm-5.3"
+}

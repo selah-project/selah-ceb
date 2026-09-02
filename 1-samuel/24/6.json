@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug nahitabo human niini, ug gibunalan sa kasingkasing ni David ⟨את⟩ ⟨siya⟩ tungod kay iyang giputol ⟨את⟩ ang kinap nga ⟨kang⟩ Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gibunalan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨siya⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "giputol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kinap"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "kinap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:43.305457115Z",
+  "model": "glm-5.3"
+}

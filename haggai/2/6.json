@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Kay mao kini ang giingon ni Yahweh Tsevaot: Pa usa ka higayon pa, gamay nga panahon ⟨kini⟩, ug ako magpalanog sa ⟨את⟩ kalangitan ug ⟨את⟩ sa yuta ug ⟨את⟩ sa dagat ug ⟨את⟩ sa mamala nga yuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka higayon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "magpalanog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kalangitan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "dagat"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mamala nga yuta"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "sa mamala nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:40.540599490Z",
+  "model": "glm-5.3"
+}

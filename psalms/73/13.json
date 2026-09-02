@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Sa pagkatinuod, nga-ulan ra — gapaniwala ko ang akong kasingkasing, ug gihugasan ko ang akong mga palad sa kawalay-sala.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "nga-ulan ra"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "gapaniwala ko"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ug gihugasan ko"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "sa kawalay-sala"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akong mga palad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.768040759Z",
+  "model": "glm-5.3"
+}

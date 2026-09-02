@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Kay si Elohim ⟨ang⟩ maghuhukom: kini iyang pagpaubos, ug kini iyang pag-angat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "maghuhukom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "iyang pagpaubos"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "iyang pag-angat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:42.636000846Z",
+  "model": "glm-5.3"
+}

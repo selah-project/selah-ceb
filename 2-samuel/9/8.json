@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug mighalad siya ug miingon: Unsa man ang imong sulugoon, kay nganong mitan-aw ka sa patay nga iro nga sama kanako?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ug mighalad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "mitan-aw ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ang iro"
+    },
+    {
+      "surface": "המת",
+      "gloss": "nga patay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "sama kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:36.597850722Z",
+  "model": "glm-5.3"
+}

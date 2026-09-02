@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Gituo ako, kay maghimo ako og pulong; ako — gisakit ako kaayo.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "gituo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "maghimo ako og pulong"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "gisakit ako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:00.162815122Z",
+  "model": "glm-5.3"
+}

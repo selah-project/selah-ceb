@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 25:14",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ang ngalan sa tawo nga taga-Yisrael, ⟨ang gipatay⟩, nga nagpatay ⟨siya⟩ ⟨את⟩ sa Midyanhon nga babaye, ⟨mao kini⟩ Tsimri, anak ni Salu, usa ka nasi sa panimalay sa amahan sa mga Shimoni.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ang gipatay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanhon nga babaye"
+    },
+    {
+      "surface": "המדינית",
+      "gloss": "Midyanhon nga babaye"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Tsimri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "ni Salu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "panimalay"
+    },
+    {
+      "surface": "אב",
+      "gloss": "sa amahan"
+    },
+    {
+      "surface": "לשמעני",
+      "gloss": "sa mga Shimoni"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:40.380821965Z",
+  "model": "glm-5.3"
+}

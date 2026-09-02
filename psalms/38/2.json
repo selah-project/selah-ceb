@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Yahweh, ayaw ako igbantol sa imong kaakganan, ni pagbatoni ako sa imong nasuko nga buot.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "sa imong kaakganan"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "igbantol ako"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "sa imong nasuko nga buot"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "pagbatoni ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:49.795383668Z",
+  "model": "glm-5.3"
+}

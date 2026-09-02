@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gibuká ko ang akong baba ug naghangos ⟨ako⟩ nga gikagitaw, kay nagtinguha ako sa imong mga sugo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "gibuká ko hingpas"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "ug naghangos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "sa imong mga sugo"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "nagtinguha ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.752388519Z",
+  "model": "glm-5.3"
+}

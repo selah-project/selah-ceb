@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ⟨את⟩ ang mga naghilakad padulong gikan sa luyo ni Yahweh, ug ⟨את⟩ ang wala mangita kang Yahweh ni wala usab siya pangitaon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang mga naghilakad padulong gikan"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ang mga naghilakad padulong gikan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sa luyo ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug ⟨ang⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "mangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni wala usab"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "siya pangitaon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:57.514786769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Hinaot nga magpabilin sila sa atubangan ni Yahweh sa walay katapusan, aron papason niya gikan sa yuta ang ilang handumag paghandum.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "hinaot nga magpabilin sila"
+    },
+    {
+      "surface": "nagd",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "aron papason niya"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ang ilang handumag paghandum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:38.745936791Z",
+  "model": "glm-5.3"
+}

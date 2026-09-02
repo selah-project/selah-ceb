@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gipadala ni Yoav ⟨את⟩ ang tibuok mga pulong sa ⟨ang⟩ gubat kang David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Gipadala"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ni Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "gitells"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok mga pulong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:42.426860442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug human niana, miduol ang tanan nga mga anak ni Yisrael, ug gisugo niya sila ⟨sa pagtuman⟩ ⟨את⟩ sa tanan nga gisulti ni Yahweh ⟨את⟩ ⟨uban⟩ kaniya sa bukid sa Sinai.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ug human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niana"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "miduol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ug gisugo niya sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan nga gisulti ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban kaniya",
+      "marks": "Yahweh (ang nakigsulti)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "sa Sinai"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:05.728237223Z",
+  "model": "glm-5.3"
+}

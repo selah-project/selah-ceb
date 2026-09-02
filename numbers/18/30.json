@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug imong sultion sila: Sa pagtuboy ninyo ⟨את⟩ sa iyang taba gikan niini, kini ihapon sa mga Levite ingon sa abot sa giikanan ug ingon sa abot sa linungan sa ubas.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ug imong sultion"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "sa pagtuboy ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang taba"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "iyang taba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan niini"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "ug kini ihapon"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sa mga Levite"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "ingon sa abot"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "giikanan"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "ug ingon sa abot"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "linungan sa ubas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:13.204805127Z",
+  "model": "glm-5.3"
+}

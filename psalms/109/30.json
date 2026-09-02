@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Magasugod ako sa pagdayaw kang Yahweh sa kaayo sa akong baba, ug sa taliwala sa daghang mga tawo dayawon ko ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "magasugod ako sa pagdayaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa kaayo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa akong baba"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ug sa taliwala"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "sa daghang mga tawo"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "dayawon ko siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:35.508089442Z",
+  "model": "glm-5.3"
+}

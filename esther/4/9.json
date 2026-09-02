@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Si Hatakh miadto ug gisulti kang Ester ⟨ang⟩ mga pulong ni Mordekhay.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatakh"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "kang Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ni Mordekhay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:03.335433498Z",
+  "model": "glm-5.3"
+}

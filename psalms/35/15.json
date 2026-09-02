@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug sa akong pagkadumba sila nmalipayon ug nagtigum; nagtigum ang mga tigtukmod batok kanako, ug wala nako mahibaloan; gintangtang nila ako ug wala mohunong.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "ug sa akong pagkadumba"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "sila nmalipayon"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ug nagtigum"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "nagtigum"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "ang mga tigtukmod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nako mahibaloan"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "gintangtang nila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mohunong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:41.687917486Z",
+  "model": "glm-5.3"
+}

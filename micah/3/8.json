@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Apan ako, napuno ako sa kusog, ⟨את⟩ sa Espiritu ni Yahweh, ug sa pagtulon-an ug sa kusog — sa pagpahibalo kang Yaakov sa iyang pagbudhi ug kang Yisrael sa iyang sala.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "apan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "napuno ako"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Espiritu ni Yahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ug sa pagtulon-an"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ug sa kusog"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "sa pagpahibalo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kang Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "iyang pagbudhi"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "ug kang Yisrael"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "iyang sala"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:45.932483521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan si Tsadok nga pari, ug Benayahu nga anak ni Yehoyada, ug Nathan nga propeta, ug Shimi, ug Rei, ug ang mga bayani nga ⟨kang⟩ David, wala kauban si Adonijahu.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Apan si Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "ug Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ni Yehoyada"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug Nathan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nga propeta"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ug Shimi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ug Rei"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "ug ang mga bayani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨kang⟩ David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "hinuno"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "si Adonijahu"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:24.661513390Z",
+  "model": "glm-5.3"
+}

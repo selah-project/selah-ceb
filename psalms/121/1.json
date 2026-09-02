@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Awit sa mga pag-alsa. Itaas nako ang akong mga mata ngadto sa mga bukid — gikan diin moabut ang akong tabang?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "sa mga pag-alsa"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Itaas nako"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "gikan diin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "moabut"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ang akong tabang"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:55.920171925Z",
+  "model": "glm-5.3"
+}

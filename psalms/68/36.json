@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 68:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Kahiladan ⟨ikaw⟩, O Elohim, gikan sa imong mga santuariohan — El sa Yisra'el: siya mao ang nagahatag ug kusog ug kusog-nga-kusog ngadto sa katawhan. Dalaygon ang Elohim.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "kahiladan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "ממקדשיך",
+      "gloss": "gikan sa imong mga santuariohan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisra'el"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya mao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ותעצמות",
+      "gloss": "ug kusog-nga-kusog (gahum)"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ngadto sa katawhan"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "dalaygon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:26.897962304Z",
+  "model": "glm-5.3"
+}

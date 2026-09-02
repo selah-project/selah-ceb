@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Nagtunob sila sa gabii nga hubo nga walay bisti, ug walay tabon sa katugnaw.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "hubo"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "nagtunob sila sa gabii"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "bisti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "tabon"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "sa katugnaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:33.737427196Z",
+  "model": "glm-5.3"
+}

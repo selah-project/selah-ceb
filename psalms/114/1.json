@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 114,
+  "translation": "Sa paggawas ni Yisrael gikan sa Mitsrayim, ang balay ni Yaakov gikan sa usa ka katawhan nga langyaw nga pinulongan",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Sa paggawas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gikan sa usa ka katawhan"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "nga langyaw nga pinulongan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:32.660662496Z",
+  "model": "glm-5.3"
+}

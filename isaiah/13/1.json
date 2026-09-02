@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Pas-anan sa Babel, nga gipakita kang Yeshayahu nga anak ni Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Pas-anan"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gipakita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "kang Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ni Amots"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:24.986969101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug miingon si Yahweh kang Moshe sa Midyan: Lakaw, pagbalik ngadto sa Mitsrayim, kay namatay na sila tanan nga mga tawo nga nagpangita ⟨את⟩ sa imong kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "sa Midyan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "שב",
+      "gloss": "pagbalik"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ngadto sa Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "nagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong kinabuhi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:10.750048616Z",
+  "model": "glm-5.3"
+}

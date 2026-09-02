@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug kini ang mga anak ni Oholibama, anak nga babayi ni Anah, anak nga babayi ni Tsivon, asawa ni Esav; ug natawo kaniya kang Esav si ⟨את⟩ Yeyish, ug si ⟨את⟩ Yaalam, ug si ⟨את⟩ Korakh.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini ang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babayi ni"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babayi ni"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ug natawo kaniya kang"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeyish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeyish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug si ⟨את⟩",
+      "marks": "Yaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug si ⟨את⟩",
+      "marks": "Korakh"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:14.651050678Z",
+  "model": "glm-5.3"
+}

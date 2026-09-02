@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ngano gikan sa tiyan gikuha mo ⟨את⟩ ako? ⟨Unta⟩ nagpakamatay ⟨na⟩ ako, ug dili na ang mata makakita kanako.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ug ngano"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "gikuha mo ako"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "mamamatay ako"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ug ang mata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "makakita kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:14.863911920Z",
+  "model": "glm-5.3"
+}

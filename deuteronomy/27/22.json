@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Tinuyok ang maghigda uban sa iyang igsoon nga babaye, anak nga babaye sa iyang amahan o anak nga babaye sa iyang inahan, ug moingon ang tibuok katawhan: Amin.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Tinuyok"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "maghigda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "iyang igsoon nga babaye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa iyang inahan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:07.849428392Z",
+  "model": "glm-5.3"
+}

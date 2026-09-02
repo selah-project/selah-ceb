@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miingon si Yahweh kang Moshe: Iunat ang imong kamot ibabaw sa yuta sa Mitsrayim ⟨mahitungod sa⟩ taga, aron mosaka kini ibabaw sa yuta sa Mitsrayim ug mokaon ⟨את⟩ sa tanan nga sagbut sa yuta, ⟨את⟩ sa tanan nga gibilin sa yelo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Iunat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "⟨mahitungod sa⟩ taga"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "aron mosaka kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ug mokaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan nga sagbut sa yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sagbut"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan nga gibilin sa yelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "gibilin"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "sa yelo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:41.636284178Z",
+  "model": "glm-5.3"
+}

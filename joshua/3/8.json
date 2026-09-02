@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ikaw, magasugo ikaw ⟨את⟩ sa ⟨mga⟩ saserdote nga manggadaw sa kahon sa pakigsaad, nga nagaingon: Sa pag-abot ninyo hangtod sa kinatumyan sa mga tubig sa Yarden, didto sa Yarden mangdut kamo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "magasugo ikaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga saserdote"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨mga⟩ saserdote"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nga manggadaw"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sa kahon"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sa pakigsaad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Sa pag-abot ninyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kinatumyan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "didto sa Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "mangdut kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:11.346094296Z",
+  "model": "glm-5.3"
+}

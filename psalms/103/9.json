@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Dili hangtod sa kahangturan nga maglalis ⟨siya⟩, ug dili hangtod sa dayon nga magbantay ⟨sa iyang kasuko⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "maglalis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa dayon"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "magbantay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:52.224674544Z",
+  "model": "glm-5.3"
+}

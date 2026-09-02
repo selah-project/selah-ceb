@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gibalos ni Yahweh ⟨את⟩ kanako sumala sa akong pagkamatarong, sumala sa kalinaw sa akong mga kamot atbang sa iyang mga mata.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ug gibalos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "sumala sa akong pagkamatarong"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "sumala sa kalinaw"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa akong mga kamot"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sa iyang mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:01.080536211Z",
+  "model": "glm-5.3"
+}

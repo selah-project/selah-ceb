@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Bisan matumba ⟨siya⟩ dili pagahipakon, kay si Yahweh nagatukod sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "bis"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "pagahipakon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "nagtukod"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:30.831029525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang tanan nga mga adlaw ni Shet napulog duha ka tuig ug siyam ka gatos ka tuig, ug namatay siya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ug ang tanan nga mga adlaw … nanglungsod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulog"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ug siyam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay siya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:48.382740042Z",
+  "model": "glm-5.3"
+}

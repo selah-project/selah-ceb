@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nadungog nako ⟨את⟩ ang tingog sa iyang mga pulong, ug samtang nagadungog ako ⟨את⟩ sa tingog sa iyang mga pulong, ako nadngol nga natulog ngadto sa akong nawong, ug ang akong nawong ⟨ngadto⟩ sa yuta.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nadungog nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sa iyang mga pulong"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ug samtang nagadungog ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sa iyang mga pulong"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nadngol nga"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "natulog"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "akong nawong"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ug ang akong nawong"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:06.502159483Z",
+  "model": "glm-5.3"
+}

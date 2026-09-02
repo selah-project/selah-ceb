@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug siya miadto paingon sa giikanan ⟨⟨sa⟩⟩, ug gibuhat niya ang tanan nga gisugo kaniya sa iyang ugangan nga babaye.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "ug miadto paingon siya"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ang giikanan"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sama sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "iyang ugangan nga babaye"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:41.526684906Z",
+  "model": "glm-5.3"
+}

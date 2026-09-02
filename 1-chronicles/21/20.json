@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug mitan-aw si Arnan ug nakita niya ⟨את⟩ ang mensahero, ug ang iyang upat ka mga anak uban kaniya nagtago; ug si Arnan nag-ikik sa trigo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ug mitan-aw"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "si Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mensahero"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "ug ang upat ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "mga anak niya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "ug si Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "nag-ikik"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "sa trigo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:34.503099269Z",
+  "model": "glm-5.3"
+}

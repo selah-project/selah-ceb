@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug si Yahweh mibisita ⟨את⟩ ni Sarah ingon sa iyang gisulti, ug gibuhat ni Yahweh alang kang Sarah ingon sa iyang gisultihan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mibisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ni Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "alang kang Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisultihan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:58.494481254Z",
+  "model": "glm-5.3"
+}

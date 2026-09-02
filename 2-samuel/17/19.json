@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug gikuha sa babaye ⟨את⟩ ang tabon ug gipatigbabaw niya kini sa baba sa atipan, ug gipatigbabaw niya niini ang giniling nga humay, ug wala mailhi ang butang.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sa babaye"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "ug gipatigbabaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tabon"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ang tabon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "baba"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sa atipan"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "ug gipatigbabaw niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "ang giniling nga humay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "mailhi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang butang"
+    }
+  ],
+  "timestamp": "2026-09-01T20:32:27.851094325Z",
+  "model": "glm-5.3"
+}

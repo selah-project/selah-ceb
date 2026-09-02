@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gihimo niya ⟨את⟩ ang mga tabla alang sa tabernakulo: kaluhaan ka mga tabla alang sa habagat nga bahin, paingon sa habagat.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tabla"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ang mga tabla"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "alang sa tabernakulo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan ka"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "mga tabla"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "habagat nga bahin"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "paingon sa habagat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:05.669250247Z",
+  "model": "glm-5.3"
+}

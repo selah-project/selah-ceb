@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Kay ania karon, naglatag sila ug panon alang sa akong kalag; nagtapok ang mga mapintas batok kanako — dili ⟨tungod sa⟩ akong paglapas, ug dili akong sala, Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "naglatag sila ug panon"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "alang sa akong kalag"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "nagtapok sila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ang mga mapintas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "akong paglapas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "akong sala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:03.010755554Z",
+  "model": "glm-5.3"
+}

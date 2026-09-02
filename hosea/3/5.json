@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa ulahi mobalik ang mga anak ni Yisrael, ug pangita-on nila ⟨את⟩ si Yahweh nga Elohim nila, ug ⟨את⟩ si David nga hari nila, ug mokurog sila ngadto kang Yahweh ug ngadto sa iyang kaayo sa ulahing mga adlaw.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "sa ulahi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ug pangita-on nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh nga Elohim nila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "nga Elohim nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si David nga hari nila"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "nga hari nila"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ug mokurog sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "iyang kaayo"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "sa ulahing"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:43.513564249Z",
+  "model": "glm-5.3"
+}

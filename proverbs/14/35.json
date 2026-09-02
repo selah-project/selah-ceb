@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 14:35",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang kalipay sa usa ka hari alang sa ⟨usa ka⟩ sulugoon nga maalamon, apan ang iyang kasuko mahimong ⟨mahiunong⟩ sa nagpahawa sa kakaulaw.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kalipay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "alang sa sulugoon"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maalamon"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "apan ang iyang kasuko"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "nagpahawa sa kakaulaw"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:22.030738705Z",
+  "model": "glm-5.3"
+}

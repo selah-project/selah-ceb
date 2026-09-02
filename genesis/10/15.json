@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug si Kenaan nagkatawo ⟨את⟩ kang Tsidon ang iyang panganay, ug ⟨את⟩ kang Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ug si Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "anganay niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khet"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.111381593Z",
+  "model": "glm-5.3"
+}

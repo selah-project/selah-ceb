@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Apan gisulayan nila ug gisuklan si ⟨את⟩ Elohim nga Kataas-taas, ug ang iyang mga testimonyo wala nila bantayan.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "gisulayan nila"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "gisuklan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elohim nga Kataas-taas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "nga Kataas-taas"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "ug ang iyang mga testimonyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nila bantayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:36.759157910Z",
+  "model": "glm-5.3"
+}

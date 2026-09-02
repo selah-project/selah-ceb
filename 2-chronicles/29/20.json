@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug mobangon sayo si Hizkiyahu nga hari, ug nagtigom siya ⟨את⟩ sa mga principalia sa dakbayan, ug misaka siya sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ug mobangon sayo"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "si Hizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ug nagtigom siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga principalia sa dakbayan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sa mga principalia"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka siya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:27:33.036854911Z",
+  "model": "glm-5.3"
+}

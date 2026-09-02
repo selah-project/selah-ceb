@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Pagmata ug pagbanhi alang sa akong hustisya, Elohim ko ug Adonay ko, alang sa akong ginsakitan.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Pagmata"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ug pagbanhi"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "alang sa akong hustisya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "ug Adonay ko"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "alang sa akong ginsakitan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:20.624379144Z",
+  "model": "glm-5.3"
+}

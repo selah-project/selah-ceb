@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gitindog niya ⟨את⟩ ang Tadmor sa kamingawan, ug ⟨את⟩ ang tanang mga siyudad sa mga tipiganan nga iyang gitindog sa Khamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ug gitindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "ang Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanang mga siyudad sa mga tipiganan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga siyudad"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "sa mga tipiganan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gitindog"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "sa Khamat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:56.034830337Z",
+  "model": "glm-5.3"
+}

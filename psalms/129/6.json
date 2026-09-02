@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Mahimo sila nga sama sa balili sa mga atop, nga sa wala pa kini matangtang uga na.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mahimo sila nga"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "sama sa balili"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "sa mga atop"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "matangtang"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uga na"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.245965054Z",
+  "model": "glm-5.3"
+}

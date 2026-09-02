@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug buhaton sa saserdote ⟨את⟩ ang usa ingon handog sa sala ug ⟨את⟩ ang usa ingon sinunog nga handog, ug buhaton sa saserdote ang pag-aton alang kaniya atubang ni Yahweh tungod sa iyang agas, sa iyang kalaparon.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ug buhaton"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "handog sa sala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang usa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sinunog nga handog"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ug buhaton ang pag-aton"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "agas"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "iyang kalaparon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:56.618478826Z",
+  "model": "glm-5.3"
+}

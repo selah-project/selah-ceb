@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug namatay si Shaul ug ang iyang tulo ka mga anak, ug ang tibuok niyang balay — silang tanan namatay.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ug namatay"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ug ang tulo ka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "niyang balay"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "siling tanan"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:06.901833665Z",
+  "model": "glm-5.3"
+}

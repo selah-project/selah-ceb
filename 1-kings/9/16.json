@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Si Paro, hari sa Mitsrayim, mitungas ug gidakop niya ⟨את⟩ Gezer ug gisunog niya kini sa kalayo, ug ang Khanaaneyanhong nagpuyo sa dakbayan gipatay niya, ug gihatay niya kini nga pulong sa pagpahawa ngadto sa iyang anak nga babaye, asawa ni Shelomoh.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mitungas"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ug gidakop niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "ug gisunog niya kini"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Khanaaneyanhong nagpuyo sa dakbayan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Khanaaneyanhon"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gipatay niya"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ug gihatay niya kini"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "pahinumdom sa pagpahawa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "sa iyang anak nga babaye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:14.120322852Z",
+  "model": "glm-5.3"
+}

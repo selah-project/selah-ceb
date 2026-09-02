@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug mao kini ang iyang gibuhat alang sa tanan niyang mga asawang langyaw, nga naningaso ug naghahalad sa ilang mga dios.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Ug mao kini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang iyang gibuhat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "niyang mga asawa"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "langyaw"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "naningaso"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "ug naghahalad"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "sa ilang mga dios"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:53.907210934Z",
+  "model": "glm-5.3"
+}

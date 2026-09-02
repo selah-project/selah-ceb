@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kini ang mga ngalan sa mga anak ni Yisrael ⟨ang⟩ mga nisulod sa Mitsrayim: ⟨kauban ni⟩ Yaakov, ang matag tawo ug ang iyang panimalay, nisulod sila.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kini ang"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "⟨ang⟩ mga nisulod sa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "ug ang iyang panimalay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nisulod sila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:23.935688371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Kay ⟨ang⟩ nasod ug ⟨ang⟩ gingharian nga dili magaalagad kanimo magaupod ⟨sa pagkawala⟩; ug ang mga nasod hingpit nga magakawala ⟨sa pagkaguol⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "⟨ang⟩ nasod"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "ug ⟨ang⟩ gingharian"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "magaalagad kanimo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "magaupod ⟨sa pagkawala⟩"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "ug ang mga nasod"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "magakawala ⟨sa pagkaguol⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:08.818962782Z",
+  "model": "glm-5.3"
+}

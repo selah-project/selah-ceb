@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Magtinuod sila kang Yahweh sa iyang hesed, ug sa iyang mga katingalahan alang sa mga anak sa tawo.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Magtinuod sila"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sa iyang hesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "ug sa iyang mga katingalahan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:20.226354283Z",
+  "model": "glm-5.3"
+}

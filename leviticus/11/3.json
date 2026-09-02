@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Bisan unsa nga nagabahin sa kuko ug may bahin nga kuko nga gibahin, ug nagapaalsa sa gikaon, taliwala sa mga mananap — ⟨את⟩niana inyong kan-on.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bisan unsa"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "nagabahin sa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ug may bahin nga"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kuko"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "nagapaalsa sa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gikaon"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "taliwala sa mga mananap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "inyong kan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:28.361639312Z",
+  "model": "glm-5.3"
+}

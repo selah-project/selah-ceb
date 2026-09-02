@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Nagatunaw ⟨ang⟩ yuta ug ang tanan nga mga pumuluyo niini; ako ang nagatindog sa mga haligi niini. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "nagatunaw"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "mga pumuluyo niini"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "nagatindog sa (gihimo nga tinakda)"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "mga haligi niini"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.222902943Z",
+  "model": "glm-5.3"
+}

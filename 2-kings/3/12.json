@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug si Yehoshafat miingon: Adunay ⟨את⟩ ang pulong ni Yahweh ⟨kanito⟩. Busa mikanaog ngadto kaniya ang hari ngadto kang Yisrael, ug si Yehoshafat, ug ang hari ngadto kang Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Adunay"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong (sa Yahweh)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "Busa mikanaog"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ngadto kang Yisrael"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ug si Yehoshafat"
+    },
+    {
+      "surface": "וומלך",
+      "gloss": "ug ang hari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ngadto kang Edom"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:32.680056137Z",
+  "model": "glm-5.3"
+}

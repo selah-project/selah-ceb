@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug nahitabo, sa pagkahuman niya sa pagpaduol sa ⟨את⟩ minnah, gipapauli niya ⟨את⟩ ang mga tawo, ang mga nagdala sa minnah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa pagkahuman"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pagkahuman"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "sa pagpaduol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang minnah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang minnah"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gipapauli niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ang mga nagdala"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "sa minnah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:10.896188727Z",
+  "model": "glm-5.3"
+}

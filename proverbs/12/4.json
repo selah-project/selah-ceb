@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang asawa nga may kusog maoy korona sa iyang bana; apan ang nagakahuyang sa iyang mga bukog ingon sa kagaw sa sulod niini.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "may kusog"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korona"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sa iyang bana"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "apan ingon sa kagaw"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "sa iyang mga bukog"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "ang nagakahuyang"
+    }
+  ],
+  "timestamp": "2026-09-02T01:17:49.809033647Z",
+  "model": "glm-5.3"
+}

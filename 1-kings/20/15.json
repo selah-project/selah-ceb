@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug giipon niya ⟨את⟩ ang mga batan-on sa mga mangulo sa mga lalawigan, ug sila kap-atan ug duha ka gatos ug katloan; ug human kanila giipon niya ⟨את⟩ ang tanan nga katawhan, tanan nga mga anak sa Israel, pito ka libo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "ug giipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga batan-on sa mga mangulo"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sa mga mangulo"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "sa mga lalawigan"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug katloan"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ug human kanila"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "giipon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:13.689157477Z",
+  "model": "glm-5.3"
+}

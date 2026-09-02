@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug ang mga butang igo na alang sa tibuok buhat sa paghimo ⟨את⟩ niini — ug nagpabilin pa nga sobra.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Ug ang mga butang"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "igo na"
+    },
+    {
+      "surface": "דים",
+      "gloss": "igo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tibuok"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa paghimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ug nagpabilin pa nga sobra"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:03.831038713Z",
+  "model": "glm-5.3"
+}

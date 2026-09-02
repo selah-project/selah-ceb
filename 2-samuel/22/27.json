@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa may hinlo ka magpakita ka ug pagkahinlo, ug sa may balihong tawo magpakita ka ug pagkabarihong.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "sa may"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "hinlo ka"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "magpakita ka ug pagkahinlo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug sa may"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "balihong tawo"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "magpakita ka ug pagkabarihong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:37.088665778Z",
+  "model": "glm-5.3"
+}

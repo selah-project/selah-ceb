@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ⟨את⟩ Tsorah ug ⟨את⟩ Ayalon ug ⟨את⟩ Khebron, nga anaa sa Yehudah ug sa Binyamin, mga ⟨lungsod⟩ nga pinaderahan",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ug sa Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga lungsod"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "nga pinaderahan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:48:26.679979862Z",
+  "model": "glm-5.3"
+}

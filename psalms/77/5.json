@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Gikaptan mo ang mga tabon sa akong mga mata; napukaw ako ug wala na ako makasulti.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Gikaptan mo"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ang mga tabon"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mga mata"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "napukaw ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala na"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ako makasulti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:29.387498403Z",
+  "model": "glm-5.3"
+}

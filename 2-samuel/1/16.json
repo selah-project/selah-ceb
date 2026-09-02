@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ningkaningo si David kaniya: Ang imong dugo ibabaw sa imong ulo, kay ang imong baba miga una batok kanimo, nga nag-ingon: Ako ako ang nakapatay ⟨את⟩ sa Mesiyas ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ningkaningo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ang imong dugo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "imo nga ulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ang imong baba"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "miga una"
+    },
+    {
+      "surface": "בך",
+      "gloss": "batok kanimo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ako ang nakapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Mesiyas"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mesiyas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:14.110646969Z",
+  "model": "glm-5.3"
+}

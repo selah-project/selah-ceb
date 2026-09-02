@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Mga ulipon nangaggiya ⟨sa⟩ among kaugalingon; wala may magtubos gikan sa ilang kamot.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "mga ulipon"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "nangaggiya\/naghari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨sa⟩ among kaugalingon"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "magtubos\/magbawi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala may"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ilang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:15.272932733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug nangadyaw ang tibuok katawohan sa yuta, ug ang ciudad nahimong hilum ⟨nga⟩ naghinuktok, ug ⟨si⟩ Athalyahu gipatay nila ⟨את⟩ sa espada.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "ug nangadyaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawohan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ug ang ciudad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nahimong hilum nga naghinuktok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Athalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Athalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "gipatay nila"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:26.654817801Z",
+  "model": "glm-5.3"
+}

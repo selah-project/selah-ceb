@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa adlawa nga tawhana, patindoron ko ngadto kang Eli ⟨את⟩ ang tanan nga akong gisulti mahitungod sa iyang balay — pagsugod ug pagtapos.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga tawhana"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "patindoron ko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "akong gisulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "iyang balay"
+    },
+    {
+      "surface": "החל",
+      "gloss": "pagsugod"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ug pagtapos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:08.303189538Z",
+  "model": "glm-5.3"
+}

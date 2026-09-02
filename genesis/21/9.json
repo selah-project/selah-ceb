@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Nakita ni Sarah ⟨את⟩ ang anak ni Hagar nga Egipciohanon, nga iyang gipakatawo kang Avraham, nga nagpakatawa⟨ug nanguti⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Nakita ni"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak ni Hagar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ni Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "nga Egipciohanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "iya nga gipakatawo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kang Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "nagpakatawa⟨ug nanguti⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:53.872382103Z",
+  "model": "glm-5.3"
+}

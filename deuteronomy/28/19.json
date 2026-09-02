@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Gisalikway ikaw sa imong pag-sulod, ug gisalikway ikaw sa imong pag-gawas.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Gisalikway"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "sa imong pag-sulod"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ug gisalikway"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "sa imong pag-gawas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:18.199828739Z",
+  "model": "glm-5.3"
+}

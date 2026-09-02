@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Mahimong gamay ang iyang mga adlaw, ug ang iyang katungdanan kuhaon sa laing tawo.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ang iyang mga adlaw"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ang iyang katungdanan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa laing tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:22.951706757Z",
+  "model": "glm-5.3"
+}

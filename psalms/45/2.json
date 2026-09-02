@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Nagbukal ang akong kasingkasing ug maayong pulong; ang akong ginakanta hapit sa hari; ang akong dila ⟨ang⟩ pluma sa usa ka tulin nga magtutubag.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "nagbukal"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nagasulti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ang akong mga buhat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang akong dila"
+    },
+    {
+      "surface": "עט",
+      "gloss": "pluma"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "magtutubag"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "tulin"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:22.746054060Z",
+  "model": "glm-5.3"
+}

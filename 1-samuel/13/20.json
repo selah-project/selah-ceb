@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug mingkatas ang tibook nga Yisrael ngadto sa ⟨mga⟩ Pelishteo aron magpahait — ang matag usa ⟨את⟩ iyang arado, ug ⟨את⟩ iyang pala, ug ⟨את⟩ iyang wasay, ug ⟨את⟩ iyang piko.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Ug mingkatas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook nga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ngadto sa mga Pelishteo"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "aron magpahait"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang arado"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "iyang arado"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang pala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "iyang pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang wasay"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "iyang wasay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang piko"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "iyang piko"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:33.505046915Z",
+  "model": "glm-5.3"
+}

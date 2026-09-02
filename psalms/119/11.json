@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sulod sa akong kasingkasing gitago ko ang imong gisulti, aron dili ako makasala batok kanimo.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "sulod sa akong kasingkasing"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "gitago ko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imong gisulti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ako makasala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "batok kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:39.203713944Z",
+  "model": "glm-5.3"
+}

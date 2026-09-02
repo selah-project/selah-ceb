@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug nagkurog ang mga haligi sa mga ganghaan gikan sa tingog sa nagtatawag, ug ang balay napuno ug aso.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "Ug nagkurog"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ang mga haligi"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "sa mga ganghaan"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "gikan sa tingog"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "sa nagtatawag"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ug ang balay"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ug aso"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:40.259011568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Gipahunod nimo ang pagkadaut-tod sa imong katawhan; gitabonan nimo ang tanan nilang sala. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "gipahunod nimo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang pagkadaut-tod"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sa imong katawhan"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "gitabonan nimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "nilang sala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.960760731Z",
+  "model": "glm-5.3"
+}

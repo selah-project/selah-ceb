@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Maloloy ka kanako, Yahweh; tan-awa ang akong pag-antos gikan sa akong mga kaaway, ⟨ikaw⟩ nga nagpatindog kanako gikan sa mga ganghaan sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Maloloy ka kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "akong pag-antos"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "nagpatindog kanako"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "sa mga ganghaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:52.943392910Z",
+  "model": "glm-5.3"
+}

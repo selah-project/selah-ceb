@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa paghinumdom paghinumdom ⟨ako⟩ — ug naglubog ⟨sa akong sulod⟩ ang akong kalag.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Sa paghinumdom"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "paghinumdom"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ug naglubog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨sa akong sulod⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:39.528072392Z",
+  "model": "glm-5.3"
+}

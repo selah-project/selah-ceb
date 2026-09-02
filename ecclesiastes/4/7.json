@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ako mibalik ⟨pag-usab⟩, ug nakakita ako ug hebel ⟨nga butang⟩ sa ilalom sa adlaw.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "Ug ako mibalik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ו אראה",
+      "gloss": "ug nakakita"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:25.250662429Z",
+  "model": "glm-5.3"
+}

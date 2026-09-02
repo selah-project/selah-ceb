@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ang ilang espada mosulod sa ilang kasingkasing, ug ang ilang mga pana muguba.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "ang ilang espada"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sa ilang kasingkasing"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ug ang ilang mga pana"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "muguba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.548600470Z",
+  "model": "glm-5.3"
+}

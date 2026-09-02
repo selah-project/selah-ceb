@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Si Yishmael usab, iyang anak, anak nga tulo ka napulo ug tulo ⟨ang⟩ tuig ang edad, pagtuli kaniya ⟨את⟩ sa unod sa iyang panit sa atubangan.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Si Yishmael usab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo ug tulo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "pagtuli kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unod"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "iyang panit sa atubangan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:05.107570039Z",
+  "model": "glm-5.3"
+}

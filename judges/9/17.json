@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "nga nakigaway ang akong amahan alang kaninyo, ug gilayas niya ⟨את⟩ ang iyang kalag sa atubangan, ug giluwas niya ⟨את⟩ kamo gikan sa kamot sa Midyan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakigaway"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ug gilayas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kalag"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kalag"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ug giluwas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:55.306751047Z",
+  "model": "glm-5.3"
+}

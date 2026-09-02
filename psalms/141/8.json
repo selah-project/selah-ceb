@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Kay ngadto Kanimo, Yahweh Adonay, ang akong mga mata; Kanimo ako nagdungog sa kaluwas; ayaw paghawa sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto Kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagdungog sa kaluwas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תער",
+      "gloss": "paghawa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:36.184545198Z",
+  "model": "glm-5.3"
+}

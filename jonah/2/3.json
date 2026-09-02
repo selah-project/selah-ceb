@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon siya: Gitawag ko kang Yahweh tungod sa akong kagul-anan, ug gitubag niya ako; gikan sa tiyan sa Sheol nangaliyog ako, ug nadunggan nimo ang akong tingog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gitawag ko"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "tungod sa kagul-anan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ug gitubag niya ako"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "gikan sa tiyan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sa Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nangaliyog ako"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nadunggan nimo"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:11.018724114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Ug kanimo, O Adonay, ⟨ang⟩ hesed; kay ikaw magsulbad ⟨sa⟩ matag tawo sumala sa iyang buhat.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "Ug kanimo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "magsulbad"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨sa⟩ matag tawo"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "sumala sa iyang buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:43.116835415Z",
+  "model": "glm-5.3"
+}

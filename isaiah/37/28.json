@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ang imong paglingkod, ug ang imong paggawas, ug ang imong pagsulod — nahibalo ako ug ⟨את⟩ ang imong pagkadinanghag batok kanako.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ug ang imong paglingkod"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ug ang imong paggawas"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ug ang imong pagsulod"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong pagkadinanghag batok kanako"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ang imong pagkadinanghag"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "batok kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:01.206799025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": " ug nawala kana nga bahandi pinaagi sa malain nga kabalik-an, ug natawo siyag anak, ug wala kay bisan unsa sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ug nawala"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "kana nga bahandi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "pinagihiba sa kabalik-an"
+    },
+    {
+      "surface": "רע",
+      "gloss": "malain"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ug natawo siyag"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "bisan unsa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:39.543505862Z",
+  "model": "glm-5.3"
+}

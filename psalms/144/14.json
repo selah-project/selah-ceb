@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Ang among mga baka bug-at nga nagadad-an ⟨ug karga⟩; walay pagbungkag, ug walay mogawas, ug walay sininggit sa among mga karsada.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ang among mga baka"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "nagadad-an ug karga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "pagbungkag"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "sininggit"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "sa among mga karsada"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:02.279645605Z",
+  "model": "glm-5.3"
+}

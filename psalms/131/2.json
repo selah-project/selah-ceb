@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 131,
+  "translation": "Sa pagkatinuod, gipahinono ko ug gihilom ang akong kalag, sama sa bata nga gipahiuli na sa iyang inahan; sama sa bata nga gipahiuli mao ang akong kalag ⟨kanako⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sa pagkatinuod"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "gipahinono ko"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ug gihilom"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sama sa bata nga gipahiuli na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sama sa bata nga gipahiuli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨kanako⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:00.333807268Z",
+  "model": "glm-5.3"
+}

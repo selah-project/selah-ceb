@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug ako nahimo ingon sa tawo nga wala makadungog, ug walay mga tubag-siha sa iyang baba.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ug ako nahimo"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ingon sa tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "makadungog"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "mga tubag-siha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:48.405223425Z",
+  "model": "glm-5.3"
+}

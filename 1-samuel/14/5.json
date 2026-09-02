@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang ngipon ⟨sa⟩ usa kaadunahan sa kabato-an nagbarog sa amihanan atbang sa Mikhmas, ug ang usa sa habagatan atbang sa Geva.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ang ngipon sa bato"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "kaadunahan sa kabato-an"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "sa amihanan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ug ang usa"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "sa habagatan"
+    },
+    {
+      "surface": "מול",
+      "gloss": "atbang"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:41.593080011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Maluloy-on ug garboso si Yahweh, hinay sa kasuko, ug daghan ang hesed (mahigugmaong kaloy).",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "maluloy-on"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ug garboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "hinay"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ug daghan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:59.501360670Z",
+  "model": "glm-5.3"
+}

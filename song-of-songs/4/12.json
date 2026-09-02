@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "⟨Ikaw ang⟩ tanoman nga napanalipdan, igsoong babaye ko, pangulitap ko; tinubdan nga napanalipdan, busay nga gidungganan.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "tanoman"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "napanalipdan"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "igsoong babaye ko"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "pangulitap ko"
+    },
+    {
+      "surface": "גל",
+      "gloss": "tinubdan"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "napanalipdan"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "busay"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "gidungganan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:47:08.620131638Z",
+  "model": "glm-5.3"
+}

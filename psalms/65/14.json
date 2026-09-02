@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Nagsul-ob ang mga kapatagan ug ⟨mga⟩ karnero, ug ang mga walog nagatabon ug mga lugas; maninghad sila ug kalipay, oo, magakanta sila.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "nagsul-ob"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "mga kapatagan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "ug mga walog"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "nagatabon ug"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mga lugas"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "maninghad sila ug kalipay"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "magakanta sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:00.090314557Z",
+  "model": "glm-5.3"
+}

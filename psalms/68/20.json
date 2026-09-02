@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Dayegon si Adonay; adlaw-adlaw ⟨siya⟩ nag-alsa ⟨sa⟩ atong kargahon ⟨alang⟩ kanamo; ⟨siya ang⟩ El sa atong kaluwasan. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "dayegon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "nag-alsa sa kargahon"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanamo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "sa atong kaluwasan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:20.766275259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gipatindog ni Bilam ⟨את⟩ ang iyang mga mata, ug nakita niya ⟨את⟩ si Yisrael nga nagpuyo sumala sa iyang mga tribo, ug naa kaniya ang espiritu ni Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ug gipatindog ni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iyang mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nga nagpuyo"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "sumala sa iyang mga tribo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug naa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:12.978214735Z",
+  "model": "glm-5.3"
+}

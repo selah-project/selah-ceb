@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Busa ako mahimong ingon sa ilanon ngari kanila, ingon sa lampara nga naglatas sa dalan magabantay ako.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ako mahimong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ilanon"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "ingon sa lampara"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "dalan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "magabantay ako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:15.654702143Z",
+  "model": "glm-5.3"
+}

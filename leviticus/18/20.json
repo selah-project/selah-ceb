@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ngadto sa asawa sa imong kauban dili nimo ihatag ang imong paghigda aron mahimong dili-pulong pinaagi niini.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "sa imong kauban"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "imong paghigda"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "mahimong dili-pulong"
+    },
+    {
+      "surface": "בה",
+      "gloss": "pinaagi niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:26:54.418493090Z",
+  "model": "glm-5.3"
+}

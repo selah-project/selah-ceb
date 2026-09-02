@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug nahitabo sa ikatulong adlaw — adlaw sa pagkatawo ni ⟨את⟩ Paro — nga naghimo siya ug bangkete alang sa tanan niyang mga sulugoon, ug gibangon niya ⟨את⟩ ang ulo sa pangulo sa mga magtutaga ug ⟨את⟩ ang ulo sa pangulo sa mga maglala taliwala sa iyang mga sulugoon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatulo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ug naghimo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "bangkete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "niyang mga sulugoon"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ug gibangon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo sa pangulo sa mga magtutaga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mga magtutaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ulo sa pangulo sa mga maglala"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "mga maglala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iyang mga sulugoon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:26.104544468Z",
+  "model": "glm-5.3"
+}

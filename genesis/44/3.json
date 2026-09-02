@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Sa pagbuna sa kabuntagon, gipapauli ang mga tawo, sila ug ang ilang mga iringan nga kabaw.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "Sa kabuntagon"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sa pagbuna"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gipapauli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "ug ang ilang mga iringan nga kabaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:58.001131531Z",
+  "model": "glm-5.3"
+}

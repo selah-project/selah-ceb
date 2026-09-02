@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Magpakiloob kamo kang Yahweh sa haderet sa kadosh; mangluya kamo sa atubangan niya, ang tibook nga yuta.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "magpakiloob kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sa haderet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadosh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "mangluya kamo"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "sa atubangan niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.796502705Z",
+  "model": "glm-5.3"
+}

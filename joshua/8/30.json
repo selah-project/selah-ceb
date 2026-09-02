@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Niadtong higayona nagtindog si Yehoshua ug altar alang kang Yahweh, sa Elohim sa Yisrael, sa bukid sa Eival.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "niadtong higayona"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eival"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:56.886113604Z",
+  "model": "glm-5.3"
+}

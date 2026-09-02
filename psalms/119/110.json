@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nagbutang ang mga daotan og panilon alang kanako, apan gikan sa imong mga sugo wala ako maligaw.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga daotan"
+    },
+    {
+      "surface": "פח",
+      "gloss": "panilon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ug gikan sa imong mga sugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ako nakalimti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:16.959106158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug sa ikalimang tuig mokaon kamo ⟨את⟩ sa iyang bunga, aron madugang alang kaninyo ang iyang ani; ako si Yahweh ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ug sa ... tuig"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "ikalimang"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mokaon kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang bunga"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sa iyang bunga"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "aron madugang"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ang iyang ani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:01.680695529Z",
+  "model": "glm-5.3"
+}

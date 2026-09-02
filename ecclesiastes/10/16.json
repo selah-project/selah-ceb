@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kaalaut kanimo, yuta, nga ang imong hari usa ka batan-ong lalaki, ug ang imong mga prinsipe mokaon sa buntag!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Kaalaut"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "ang imong hari"
+    },
+    {
+      "surface": "נער",
+      "gloss": "batan-ong lalaki"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ug ang imong mga prinsipe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mokaon"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:16.919864173Z",
+  "model": "glm-5.3"
+}

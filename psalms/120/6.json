@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Dugay na kaayo nga nagpuyo ⟨ang⟩ akong kalag uban sa nagadumili sa kalinaw.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Dugay na kaayo"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nagadumili"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sa kalinaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:25.412295852Z",
+  "model": "glm-5.3"
+}

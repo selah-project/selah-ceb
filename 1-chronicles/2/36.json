@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Uy si Attai natawo si Natan, ug si Natan natawo si Zabad.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Ug si Attai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ug si Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Zabad"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "si Zabad"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:39.759991167Z",
+  "model": "glm-5.3"
+}

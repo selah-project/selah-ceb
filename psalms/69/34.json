@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Kay nagadungog si Yahweh sa mga timawa, ug ⟨את⟩ ⟨ang⟩ mga binisiniyo niya wala niya pagbiay-biayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nagadungog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "mga timawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga binisiniyo niya"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "mga binisiniyo niya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "pagbiay-biayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:10.699795267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Ang mga anak sa imong mga sulogoon magpabilin ⟨nga⟩ magpuyo, ug ang ilang kaliwat sa imong atubangan mahimutong ⟨magabarog⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "imong mga sulogoon"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "magpabilin nga magpuyo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ug ang ilang kaliwat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "mahimutong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:41.000115467Z",
+  "model": "glm-5.3"
+}

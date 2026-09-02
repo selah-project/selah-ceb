@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ako nakadungog, apan wala ako makasabut; ug ako miingon: Akong Adonay, unsa ang katapusan sa kining mga butanga?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ug ako"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "makasabut"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Akong Adonay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ang katapusan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa kining mga butanga"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:10.088646882Z",
+  "model": "glm-5.3"
+}

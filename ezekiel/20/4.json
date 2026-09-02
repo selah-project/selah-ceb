@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Hukman ba nimo sila, hukman ba nimo sila, anak sa tawo? ⟨את⟩ Ang mga kapintasan sa ilang mga amahan ipahibalo kanila.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Hukman ba nimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "hukman ba nimo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kapintasan sa ilang mga amahan"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "mga kapintasan"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ipahibalo kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:39:10.086835231Z",
+  "model": "glm-5.3"
+}

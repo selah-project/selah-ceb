@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Kay ang adlaw sa panimalos ⟨ad⟩ sa akong kasingkasing, ug ang tuig sa pagtubos sa akong mga gina-tubos miabot na.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "sa panimalos"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "ug ang tuig"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "sa pagtubos sa akong mga gina-tubos"
+    },
+    {
+      "surface": "באה",
+      "gloss": "miabot na"
+    }
+  ],
+  "timestamp": "2026-09-02T00:58:03.685481445Z",
+  "model": "glm-5.3"
+}

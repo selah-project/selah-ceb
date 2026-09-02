@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug maayo ang butang sa atubangan ni Adonay, tungod kay si Shelomoh nangayo ⟨את⟩ niini nga butanga.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Ug maayo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nangayo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niini nga butanga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:34.317131919Z",
+  "model": "glm-5.3"
+}

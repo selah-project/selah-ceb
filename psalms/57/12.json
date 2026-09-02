@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Pagtimbawon ⟨ikaw⟩ sa mga langit, Elohim; sa tibuok yuta ang imong himaya.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "pagtimbawon"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "imong himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:05.703218104Z",
+  "model": "glm-5.3"
+}

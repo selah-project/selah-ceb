@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug si David misaka sumala sa pulong ni Gad, ingon sa gisugo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:21.930805581Z",
+  "model": "glm-5.3"
+}

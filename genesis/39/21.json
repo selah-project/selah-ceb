@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug si Yahweh ⟨את⟩ ⟨kasama⟩ kang Yosef, ug nagbutang siya ug hesed kaniya, ug iyang gihatag ang iyang gugma ⟨sa mga mata⟩ sa pangulo sa balay sa bilanggoan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨kasama⟩",
+      "marks": "kang Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ug nagbutang"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug iyang gihatag"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "ang iyang gugma"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "sa bilanggoan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:39.330435345Z",
+  "model": "glm-5.3"
+}

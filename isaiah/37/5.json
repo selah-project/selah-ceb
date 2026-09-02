@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug miabot ang mga sulogoon sa hari nga si Khizkiyahu ngadto kang Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga sulogoon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "si Khizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:42.025813202Z",
+  "model": "glm-5.3"
+}

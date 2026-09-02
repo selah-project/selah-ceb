@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Nawala ang buot-maatngod gikan sa ⟨ang⟩ yuta, ug ang matarong sa taliwala sa mga tawo wala na; silang tanan nagatago alang sa pagbubo sa dugo; ang usa ka tawo ⟨את⟩ sa iyang igsoon gapaniktik ⟨uban⟩ sa pukot.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "Nawala"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ang buot-maatngod"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ang⟩ yuta"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "ug ang matarong"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa taliwala sa mga tawo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang tanan"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "alang sa pagbubo sa dugo"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "nagatago"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang igsoon"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "gapaniktik"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "sa pukot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:21.104699428Z",
+  "model": "glm-5.3"
+}

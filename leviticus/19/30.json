@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "⟨את⟩ ang akong mga adlaw sa pagpahuway bantayi ninyo, ug ang akong santuwaryo tahura ninyo; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga adlaw sa pagpahuway"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ang akong mga adlaw sa pagpahuway"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bantayi ninyo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ug ang akong santuwaryo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tahura ninyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:01.859762471Z",
+  "model": "glm-5.3"
+}

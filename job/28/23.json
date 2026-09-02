@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Si Elohim nakasabot sa iyang dalan, ug ⟨siya⟩ nakaila ⟨את⟩ sa iyang dapit.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "nakasabot"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "sa iyang dalan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug ⟨siya⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang dapit"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "sa iyang dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:26.621862758Z",
+  "model": "glm-5.3"
+}

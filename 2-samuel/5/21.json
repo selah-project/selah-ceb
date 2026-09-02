@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug gibiyaan nila didto ⟨את⟩ ang ilang mga diosdios, ug gikuha kini ni David ug sa iyang mga tawo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "gibiyaan nila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga diosdios"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ang ilang mga diosdios"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "ug gikuha kini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "ug sa iyang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:54.049155046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug nagbitik sila kang Baal-Peor, ug mikaon sila sa mga sakripisyo sa mga minatay.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "nagbitik sila"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kang Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ug mikaon sila"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sa mga sakripisyo"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "sa mga minatay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:48.127107392Z",
+  "model": "glm-5.3"
+}

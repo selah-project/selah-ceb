@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang akong tingog pagdungoga sumala sa imong hesed, Yahweh; sumala sa imong mga hustisya pagbuhiha ako.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ang akong tingog"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "pagdungoga"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "sumala sa imong hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "sumala sa imong mga hustisya"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "pagbuhiha ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:51.545139645Z",
+  "model": "glm-5.3"
+}

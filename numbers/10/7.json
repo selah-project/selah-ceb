@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Apan sa pagtigum ninyo sa ⟨את⟩ ⟨ang⟩ katilingban, maghipa kamo ug ayaw paghimo ug ⟨alarma⟩.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "apan sa pagtigum ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katilingban"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ang katilingban"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "maghipa kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "paghimo ug alarma"
+    }
+  ],
+  "timestamp": "2026-09-01T19:35:06.526526092Z",
+  "model": "glm-5.3"
+}

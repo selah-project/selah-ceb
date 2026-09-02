@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Kay sa hingpitin dili ⟨siya⟩ mailisdang; ingon nga handumanan sa kahangturan ang matarong mahimong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa hingpitin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "mailisdang"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ingon nga handumanan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahangturan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:24.098551128Z",
+  "model": "glm-5.3"
+}

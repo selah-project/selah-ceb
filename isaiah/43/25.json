@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ako, ako mismo ⟨siya⟩ nga nagapaslapas sa imong mga pagsukol, alang sa akong kaugalingon, ug ang imong mga sala dili ko hinumdoman.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako mismo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "nagapaslapas"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "imong mga pagsukol"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "alang sa akong kaugalingon"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "imong mga sala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "hinumdoman"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:57.815259869Z",
+  "model": "glm-5.3"
+}

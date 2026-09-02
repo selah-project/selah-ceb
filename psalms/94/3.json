@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Hangtod kanus-a ⟨ang⟩ mga dautan, Yahweh? Hangtod kanus-a ⟨ang⟩ mga dautan magmalipayon?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨ang⟩ mga dautan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "⟨ang⟩ mga dautan"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "magmalipayon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:32.071450084Z",
+  "model": "glm-5.3"
+}

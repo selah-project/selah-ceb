@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Henerasyon ngadto sa henerasyon modayeg sa imong mga buhat, ug ang imong mga kagahum isulti nila.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Henerasyon"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ngadto sa henerasyon"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "modayeg"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sa imong mga buhat"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ug ang imong mga kagahum"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "isulti nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.520013432Z",
+  "model": "glm-5.3"
+}

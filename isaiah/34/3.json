@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug ang ilang mga patay ialsa, ug ang baho sa ilang mga bangkay motaas, ug matunaw ang mga bukid gikan sa ilang dugo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "Ug ang ilang mga patay"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "ialsa"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "ug ang ilang mga bangkay"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "motaas"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "ang baho"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "ug matunaw"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "gikan sa ilang dugo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:04:45.305904873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Lamang ngadto kang Elohim ⟨ang⟩ kalma sa akong kalag; gikan kaniya ang akong pagluwas.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "kalma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ang akong pagluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:35.426859595Z",
+  "model": "glm-5.3"
+}

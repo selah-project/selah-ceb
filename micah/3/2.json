@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Mga magadumala ⟨nga⟩ nagadumili sa maayo ug nagahigugma sa daotan, nga nagakuha ug panit gikan kanila ug unod gikan sa ilang mga bukog.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "nagadumili"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa maayo"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ug nagahigugma"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "nga nagakuha"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "panit"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "gikan kanila"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "ug unod"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "sa ilang mga bukog"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:51.732467640Z",
+  "model": "glm-5.3"
+}

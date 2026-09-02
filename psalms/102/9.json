@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Tibuok ⟨ang⟩ adlaw gipakauyam nila ako ⟨ang⟩ akong mga kaaway; ang akong mga nagbugna batok kanako nangumpa ⟨batok⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "gipakauyam nila ako"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "akong mga nagbugna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "nangumpa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:58.928296946Z",
+  "model": "glm-5.3"
+}

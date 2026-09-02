@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug nahibalo si Yoav, anak ni Tseruyah, nga ang kasingkasing sa hari ⟨naa⟩ kang Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "nahibalo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ni Tseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨naa⟩ kang"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:40.018441712Z",
+  "model": "glm-5.3"
+}

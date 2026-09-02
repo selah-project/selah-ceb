@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gipagawas usab niya ⟨את⟩ ang salampati ⟨את⟩ gikan kaniya, aron makita kon nahinay na ⟨ang⟩ mga tubig gikan sa nawong sa yutá.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ug gipagawas usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salampati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ang salampati"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ gikan kaniya"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron makita"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "kon nahinay na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yutá"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:47.128847391Z",
+  "model": "glm-5.3"
+}

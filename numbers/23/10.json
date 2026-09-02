@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Kinsa ang makasukod sa abog ni Yaakov, ug makaihap ⟨את⟩ ang ihap sa ikaupat nga bahin ni Yisrael? Patya ang pagkamamatay sa akong nefesh sama sa matarong, ug ang akong kataposan mahisama kanila!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ang makasukod"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "sa abog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "ug makaihap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ihap sa ikaupat nga bahin"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ikaupat nga bahin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "patya ang pagkamamatay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa pagkamatay"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug mahitabo"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "ang akong kataposan"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "mahisama kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:40:33.866366807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang ngalan sa ikaduhang suba mao ang Gichon; kini ⟨ang⟩ nagalibot ⟨את⟩ sa tibuok yuta sa Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ug ang ngalan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "nagalibot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tibuok yuta sa Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:15.560904964Z",
+  "model": "glm-5.3"
+}

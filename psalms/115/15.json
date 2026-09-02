@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Mga gipanalanginan kamo ni Yahweh, ang naghimo sa kalangitan ug sa yuta.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "mga gipanalanginan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:59.396528005Z",
+  "model": "glm-5.3"
+}

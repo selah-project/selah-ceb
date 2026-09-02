@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Sa Elohim ⟨ang⟩ akong kaluwasan ug ang akong himaya; bato sa akong kusog, akong dapit sa pagtago ⟨ang⟩ sa Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "akong kaluwasan"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ug ang akong himaya"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bato"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "sa akong kusog"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "akong dapit sa pagtago"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:32.827188223Z",
+  "model": "glm-5.3"
+}

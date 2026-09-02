@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Unsa ka bililhong kaayo ang imong hesed, Elohim! ⟨Busa⟩ ang mga anak sa tawo molangoy sa kasilungan sa imong mga pako.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa ka"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "bililhong kaayo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sa kasilungan"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "imong mga pako"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "molangoy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:53.555260546Z",
+  "model": "glm-5.3"
+}

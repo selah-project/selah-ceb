@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug tuslon sa saserdote ⟨את⟩ iyang tudlo sa dugo, ug wisikson niya gikan sa dugo pito ka higayon atubang ni Yahweh, sa atubang sa atup-anan sa santuario.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "tuslon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang tudlo"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "iyang tudlo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "wisikson"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ka higayon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ sa atubang ni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa nawong"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "atup-anan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa santuario"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:55.414756976Z",
+  "model": "glm-5.3"
+}

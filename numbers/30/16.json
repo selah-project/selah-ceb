@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug kon papason gayod niya sila ⟨את⟩ human sa iyang pagdungog, magdala siya ⟨את⟩ sa iyang sala.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "magapas"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "papason gayod"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga saad ug mga bugkos)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sa iyang pagdungog"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "magdala siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang sala"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "sa iyang sala"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:56.556969458Z",
+  "model": "glm-5.3"
+}

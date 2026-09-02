@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Sa pag-ihap sa among mga adlaw, ⟨sa ingon niana⟩ pagpahibalo ⟨kanamo⟩; ug modangat kami ug kasingkasing sa kaalam.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "sa pag-ihap"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sa among mga adlaw"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sa ingon niana"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "pagpahibalo"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "ug modangat kami"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sa kaalam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:51.853953913Z",
+  "model": "glm-5.3"
+}

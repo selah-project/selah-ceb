@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug nagpakigkita sila ⟨את⟩ kang Moshe ug ⟨את⟩ kang Aharon, nga nagbarog sa pag-atubang kanila, sa paggawas nila gikan ⟨את⟩ kang Paro.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "Ug nagpakigkita sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kang Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kang Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kang Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "nga nagbarog"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "sa pag-atubang kanila"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "sa paggawas nila"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "gikan ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kang Paro"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:51.330534430Z",
+  "model": "glm-5.3"
+}

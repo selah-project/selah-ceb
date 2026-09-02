@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Sa adlaw ang adlaw dili ka igbon, ni ang bulan sa gabii.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ka igbon"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ni ang bulan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.298900832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 15:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Sa mga karsada niini nagputong sila ug sako; sa mga atop niini ug sa mga plasa niini tanan magpanaghoy, manaug nga nagminatay.",
+  "tokens": [
+    {
+      "surface": "בחוצתיו",
+      "gloss": "sa mga karsada niini"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "nagputong sila"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sako"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גגותיה",
+      "gloss": "mga atop niini"
+    },
+    {
+      "surface": "וברחבתיה",
+      "gloss": "ug sa mga plasa niini"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "magpanaghoy"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "manaug"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "nga nagminatay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:56.218645133Z",
+  "model": "glm-5.3"
+}

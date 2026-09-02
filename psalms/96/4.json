@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Kay dako si Yahweh ug pinalabi nga pagdayeg ⟨ang) alaot niya; kahadlukan siya tungod sa tanang mga elohim ⟨sa ubang mga dios⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ug pinalabi nga pagdayeg"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "kahadlukan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "labaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:58.720451084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Sa akong higaan, sa mga gabii, pangitaa ko ang akong gihigugma — ⟨את⟩ niya nga gihigugma sa akong kalag; gipangita ko siya apan wala ko siya makit-an.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "akong higaan"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gabii"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "pangitaa ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niya nga gihigugma sa akong kalag"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "gihigugma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "gipangita ko siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ako siya makit-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:32.316934599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug sa inyong pag-ani ⟨את⟩ ang ani sa inyong yuta, dili nimo pag-anihon hangtod sa katapusan ⟨ang⟩ kinatumyan sa imong uma, ug ang mga nahulog sa imong ani dili nimo pagpangitaon.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "sa inyong pag-ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ani"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ang ani"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "sa inyong yuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "pag-anihon hangtod sa katapusan"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kinatumyan"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "sa imong uma"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "pag-anihon"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ang mga nahulog"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "sa imong ani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pagpangitaon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:12.818797765Z",
+  "model": "glm-5.3"
+}

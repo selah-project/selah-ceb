@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Hinay-hinaya kamo ug pagpabilin nga manggiwanggiwa, pagbuta kamo ug ⟨mga⟩ buta kamo, hubog kamo apan dili sa bino, nagkurog kamo apan dili sa ⟨makahubog nga ilimnom⟩",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "hinay-hinaya kamo ug pagpabilin"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "manggiwanggiwa kamo"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "pagbuta kamo"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "buta kamo"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "hubog kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "יין",
+      "gloss": "sa bino"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "nagkurog kamo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sa makahubog nga ilimnom"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:18.262440038Z",
+  "model": "glm-5.3"
+}

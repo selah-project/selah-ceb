@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug si Elisha miingon kaniya: Lakaw, ingna siya: Mabuhi ka gayod; apan gipakita kanako ni Yahweh nga siya mamatay gayod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "si Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ingna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨dili⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "⟨mabuhi⟩"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "Mabuhi ka gayod"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "gipakita kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "gayod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:45.907472811Z",
+  "model": "glm-5.3"
+}

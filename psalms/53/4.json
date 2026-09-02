@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Ang tanan mitalikod, silang tanan nangadaot; walay nagabuhat ug maayo, walay bisan usa.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "סג",
+      "gloss": "mitalikod"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "siling tanan"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "nangadaot sila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ug maayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bisan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:13.593201678Z",
+  "model": "glm-5.3"
+}

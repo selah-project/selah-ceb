@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Ug isulti-balik sa among mga silingan pito ka pilo ngadto sa ilang kandungan ang ilang kaulawan, nga diin ilang gipakaulawan kanimo, o Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Ug isulti-balik"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa among mga silingan"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "pito ka pilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ilang kandungan"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ang ilang kaulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga diin"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ila nimong gipakaulawan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:50.534172768Z",
+  "model": "glm-5.3"
+}

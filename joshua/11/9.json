@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gihimo ni Yehoshua ngadto kanila sumala sa gisulti ni Yahweh kaniya: ang ilang mga kabayo gi-errad ⟨את⟩ pinaagi sa pag-errad sa mga tikod, ug ang ilang mga karwatsa ⟨את⟩ gisunog sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ghimo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga kabayo"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ang ilang mga kabayo"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "gi-errad ang mga tikod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang mga karwatsa"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "ang ilang mga karwatsa"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gisunog"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:13.828845064Z",
+  "model": "glm-5.3"
+}

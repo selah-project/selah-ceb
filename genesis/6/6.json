@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug nagbasol si Yahweh nga gimbuhat niya ⟨את⟩ ang tawo sa ibabaw sa yuta, ug nagsubo ⟨siya⟩ ngadto sa iyang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Ug nagbasol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gimbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa ibabaw sa yuta"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "ug nagsubo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "iyang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:47.369798233Z",
+  "model": "glm-5.3"
+}

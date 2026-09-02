@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Kay walay bisan usa ka pulong sa akong dila — ania kini, Yahweh, naila Mo kini sa kabangtan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "bisan usa ka pulong"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "sa akong dila"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "naila Mo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kini sa kabangtan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:07.773800528Z",
+  "model": "glm-5.3"
+}

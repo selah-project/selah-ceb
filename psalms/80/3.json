@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Atubangan ni Efrayim ug ni Binyamin ug ni Menashe, pagmata ⟨sa⟩ imong kusog, ug umari sa among kaluwas.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ug ni Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "ug ni Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "pagmata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong kusog"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "imong kusog"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ug umari"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "sa among kaluwas"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:15.726833721Z",
+  "model": "glm-5.3"
+}

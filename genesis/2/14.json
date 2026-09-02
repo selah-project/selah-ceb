@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang ngalan sa ikatulong suba mao ang Khidekel; kini ⟨ang⟩ nagalakaw sa sidlakan sa Ashur. Ug ang ikaupat nga suba mao kini ang Perat.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ug ang ngalan"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ikatulong"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Khidekel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "nagalakaw"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "sa sidlakan sa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "Ug ang suba"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ikaupat nga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:15.562108708Z",
+  "model": "glm-5.3"
+}

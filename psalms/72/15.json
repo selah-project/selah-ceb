@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Ug mabuhi siya, ug ihatag kaniya gikan sa bulawan sa Sheva, ug manalangin ⟨mananawagtuo⟩ alang kaniya sa kanunay; tibuok adlaw siya gyuy panalanginan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ug mabuhi siya"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "gikan sa bulawan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "sa Sheva"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ug manalangin"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "siya gyuy panalanginan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.659702469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang nagapahitungod sa tinuod nagapahibalo sa pagkamatarong, apan ang testigo sa bakak — paglimbong.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "nagapahitungod sa"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "tinuod"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "nagapahibalo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "pagkamatarong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "apan ang testigo"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "sa bakak"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "paglimbong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:17.501557941Z",
+  "model": "glm-5.3"
+}

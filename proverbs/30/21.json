@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Sa tulo ka butang nagkurog ang yuta, ug sa upat ⟨wala⟩ na kini makabati ⟨sa pagbati⟩ ⟨sa pagdala⟩.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tulo ka butang"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "nagkurog"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨wala⟩"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "na kini makabati"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "⟨sa pagbati⟩ ⟨sa pagdala⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:32.334707855Z",
+  "model": "glm-5.3"
+}

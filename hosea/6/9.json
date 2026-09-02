@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 6:9",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ingon sa mga panon sa mga tawo nga naghulat ⟨sa pagtatang⟩, ingon usab niana ang panaghiusa sa mga saserdote — didto sa dalan nagpatay sila ⟨sa mga tawo⟩ padulong sa Shekhem; kay mapintas nga plano ang ilang gibuhat.",
+  "tokens": [
+    {
+      "surface": "וכחכי",
+      "gloss": "ug ingon sa naghulat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "mga panon"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "panaghiusa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "nagpatay sila"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "padulong sa Shekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mapintas nga plano"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gilangkuban sa ilang gibuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:55.280139597Z",
+  "model": "glm-5.3"
+}

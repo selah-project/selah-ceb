@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Unsa nga kapuslanan ⟨ang⟩ ⟨adunay⟩ sa akong dugo, kon manaog ako ngadto sa ⟨bwad⟩ lungag? Magahimo ba ug pagdayeg ang abuhon? Magasulti ba sa imong kamatuoran?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "kapuslanan"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "sa akong dugo"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "kon manaog ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lungag"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Magahimo ba ug pagdayeg kanimo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ang abuhon"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Magasulti ba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sa imong kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:17.655551677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa wala pa ako paglutos ako nadala sa paglibog, apan karon ang imong pulong gipaningnan ko.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ako paglutos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "nadala sa paglibog"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "apan karon"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imong pulong"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "gipaningnan ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:24.946431806Z",
+  "model": "glm-5.3"
+}

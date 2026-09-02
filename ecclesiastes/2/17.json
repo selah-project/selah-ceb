@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Busa gidumtan ko ang ⟨את⟩ kinabuhi, kay daotan alang kanako ang buhat nga himoon ⟨sa⟩ ilalom sa adlaw, kay ang tanan hebel ug pag-antus sa ⟨ruah⟩.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Busa gidumtan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kinabuhi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "nga himoon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom sa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ug pag-antus"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "⟨ruah⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:00.914751708Z",
+  "model": "glm-5.3"
+}

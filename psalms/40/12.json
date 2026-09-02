@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ikaw, Yahweh, ayaw pagbawi sa imong mga kalooy gikan kanako; ang imong hesed ug ang imong kamatuoran kanunay magabantay kanako.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "pagbawi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "sa imong mga kalooy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ug imong kamatuoran"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kanunay"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "magabantay kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:46.419524368Z",
+  "model": "glm-5.3"
+}

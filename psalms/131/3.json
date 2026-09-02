@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 131,
+  "translation": "Maglaom ang Israel kang Yahweh, gikan karon ug hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Maglaom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gikan karon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:00.333961770Z",
+  "model": "glm-5.3"
+}

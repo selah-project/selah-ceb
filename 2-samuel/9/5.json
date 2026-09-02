@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Gipadala ni David nga hari, ug gikuha ⟨siya⟩ gikan sa balay ni Makhir nga anak ni Ammiel, gikan sa Lo-Devar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ug gikuha siya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "gikan sa Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devar"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:36.597220773Z",
+  "model": "glm-5.3"
+}

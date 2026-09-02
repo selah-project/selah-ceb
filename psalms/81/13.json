@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Gipaubos kong pagkahapon sila sa pagkagahi sa ilang kasingkasing, aron maglakaw sila sa ilang kaugalingong mga tambag.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "gipaubos kong pagkahapon sila"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "sa pagkagahi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sa ilang kasingkasing"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "maglakaw sila"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "sa ilang kaugalingong mga tambag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.779461082Z",
+  "model": "glm-5.3"
+}

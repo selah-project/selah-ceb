@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug magbantay sila ⟨את⟩ sa tanan nga kagamitan sa tolda sa pagtagbo, ug ⟨את⟩ sa bantay sa mga anak ni Yisrael, sa pagbuhat ⟨את⟩ sa trabaho sa tabernakulo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ug magbantay sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kagamitan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "bantay sa mga anak ni Yisrael"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "bantay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trabaho sa tabernakulo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "trabaho"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa tabernakulo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:37.116912907Z",
+  "model": "glm-5.3"
+}

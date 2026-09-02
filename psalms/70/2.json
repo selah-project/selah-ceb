@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 70,
+  "translation": "Elohim, pagdali sa pagluwas kanako; Yahweh, pagdali sa pagtabang kanako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "sa pagluwas kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa pagtabang kanako"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pagdali"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:03.601337142Z",
+  "model": "glm-5.3"
+}

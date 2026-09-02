@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Ug si Adonay Yahweh manabang kanako; busa ako walo maila, busa gipahimutang ko ang akong nawong ingon og bato nga flint, ug nakahibalo ako nga dili ako maila.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Ug si Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "manabang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "על",
+      "gloss": "busa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "busa (ingon niana)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walo"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "maila"
+    },
+    {
+      "surface": "על",
+      "gloss": "busa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "busa (ingon niana)"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "gipahimutang ko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akong nawong"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "ingon og bato nga flint"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "ug nakahibalo ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ako maila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:18.931272040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Dayagon si Yahweh, kay gihimo niya nga katingalahán ang iyang hesed ngari kanako ⟨sa⟩ usa ka pinikpon nga dakbayan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayagon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "gihimo nga katingalahán"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "pinikpon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:32.724032385Z",
+  "model": "glm-5.3"
+}

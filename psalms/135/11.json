@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Kang Sihon hari sa mga Emori, ug kang Og hari sa Bashan, ug sa tanang mga gingharian sa Kenaan.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "kang Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "sa mga Emori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "ug kang Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ug sa tanang"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:01.839700858Z",
+  "model": "glm-5.3"
+}

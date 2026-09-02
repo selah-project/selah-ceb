@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug milangsad ang tulo gikan sa katloan ngadto sa mga pangulo, ngadto sa bato, kang Dabid, ngadto sa langub sa Adullam, ug ang kampo sa mga Plisti nagkampo sa walog sa mga Refaim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ug milangsad"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "ang tulo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "katloan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dabid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "langub sa"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ug ang kampo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Plisti"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "sa mga Refaim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:47.711541862Z",
+  "model": "glm-5.3"
+}

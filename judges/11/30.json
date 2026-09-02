@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nangako si Yiftakh ug saad kang Yahweh ug miingon: Kon igahatod nimo ⟨walay duhaduha⟩ ⟨את⟩ ang mga anak ni Amon ngadto sa akong kamot,",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "ug nangako ug saad si"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "saad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "⟨walay duhaduha⟩ igahatod"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nimo igahatod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Amon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ngadto sa akong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:09:52.088171034Z",
+  "model": "glm-5.3"
+}

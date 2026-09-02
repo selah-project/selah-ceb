@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug midali si Moshe, ug nagduko paingon sa yuta ug nagsimba.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "midali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "nagduko"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "paingon sa yuta"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nagsimba"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:37.678939654Z",
+  "model": "glm-5.3"
+}

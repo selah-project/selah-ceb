@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 126,
+  "translation": "Awit sa mga pag-angat. Sa pagbalik ni Yahweh ⟨את⟩ sa pagbalik sa Tsiyon, nahisama kami ⟨sa⟩ mga nagdamgo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angat"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Sa pagbalik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagbalik sa Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "pagbalik"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "nahisama kami"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "sa mga nagdamgo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:17.741385292Z",
+  "model": "glm-5.3"
+}

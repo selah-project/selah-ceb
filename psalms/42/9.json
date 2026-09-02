@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Sa adlaw magmando si Yahweh sa iyang hesed, ug sa gabii ⟨ang⟩ kanta ⟨ia⟩ uban kanako — pag-ampo ngadto sa El sa akong kinabuhi.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "magmando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sa iyang hesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ug sa gabii"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pag-ampo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ngadto sa El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sa akong kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:06.310865149Z",
+  "model": "glm-5.3"
+}

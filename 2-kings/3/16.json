@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon siya: Mao kini ang giingon ni Yahweh: Himoaa kining walog nga puno sa mga kanal, mga kanal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "כה",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "himoaa"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kining walog"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "nga puno sa mga kanal"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "mga kanal"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:14.167898878Z",
+  "model": "glm-5.3"
+}

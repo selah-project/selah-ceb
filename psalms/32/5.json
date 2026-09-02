@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ang akong sala ipahibalo ko kanimo, ug ang akong pagkadili-dili wala nako itago. Nagingako ako: ipagkanako ko ang akong rebelyon ngadto kang Yahweh, ug ikaw — gisapot nimo ang kadaotan sa akong sala. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "ang akong sala"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ipahibalo ko kanimo"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "ug ang akong pagkadili-dili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "itago ko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nagingako ako"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ipagkanako ko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ang akong rebelyon"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "gisapot nimo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ang kadaotan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sa akong sala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:26.680527591Z",
+  "model": "glm-5.3"
+}

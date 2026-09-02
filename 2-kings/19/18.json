@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug gisulod nila ⟨את⟩ ang mga dios sa ilang mga diosdios ngadto sa kalayo, kay dili kini mga dios kondili buhat sa kamot sa tawo, kahoy ug bato; ug gigun-ob sila sa mga hari.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "gisulod nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dios sa mga nasud"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang ilang mga dios"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngadto sa kalayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "condili"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(mga dios)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ug bato"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ug gigun-ob sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:58.184112548Z",
+  "model": "glm-5.3"
+}

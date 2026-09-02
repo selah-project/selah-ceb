@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug moingon sila ngadto sa mga tigulang sa iyang dakbayan: Kining among anak kini mapalahon ug mosupak, dili siya mamati sa among tingog; usa ka lamion ug usa ka hubog.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ug moingon sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sa iyang dakbayan"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "among anak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mapalahon"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ug mosupak"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "dili siya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamati"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "sa among tingog"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "lamion"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "ug hubog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:16.676285955Z",
+  "model": "glm-5.3"
+}

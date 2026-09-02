@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Adunay butang nga atong mahimong isulti: Tan-awa, kini bag-o kini? Apan dugay na kini, kini anaa na sukad sa mga katuigan ⟨nga naglabay⟩ nga wala pa kanato.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Adunay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "nga isulti"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "dugay na"
+    },
+    {
+      "surface": "היה",
+      "gloss": "anaa na"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "sukad sa mga katuigan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gikan kaniadto"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "wala pa kanato"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:13.921006516Z",
+  "model": "glm-5.3"
+}

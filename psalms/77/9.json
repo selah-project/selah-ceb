@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Napanaw na ba hangtod sa kahangturan ang iyang hesed (kalooy)? Natapos na ba ang saad ⟨sa⟩ kaliwatan ug ⟨sa⟩ kaliwatan?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Napanaw na ba"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed (kalooy)"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Natapos na ba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang saad"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨sa⟩ kaliwatan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug ⟨sa⟩ kaliwatan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:40.843413935Z",
+  "model": "glm-5.3"
+}

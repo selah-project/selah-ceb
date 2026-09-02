@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Mogawas ang iyang gininhawa, mobalik siya sa iyang yutang natawhan; sa adlaw nga gitorod adunoy mahisalaag ang iyang mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "Mogawas"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang iyang gininhawa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mobalik siya"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "sa iyang yutang natawhan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga gitorod adunoy"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "mahisalaag"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "ang iyang mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:57.182776745Z",
+  "model": "glm-5.3"
+}

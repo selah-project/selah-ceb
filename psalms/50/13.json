@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Mokaon ba ako sa unod sa mga baka, ug mag-inom sa dugo sa mga kanding?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "mokaon ba ako"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "sa mga baka"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ug dugo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "sa mga kanding"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "mag-inom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:27.925101680Z",
+  "model": "glm-5.3"
+}

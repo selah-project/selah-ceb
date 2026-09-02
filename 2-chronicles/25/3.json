@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug nahitabo, sa paglig-on sa gingharian kaniya, iyang gipatay ⟨את⟩ ang iyang mga sulugoon nga nagpatay ⟨את⟩ sa hari nga iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sa diha"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "paglig-on"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "sa gingharian"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "giya niya pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga sulugoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ang iyang mga sulugoon"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "nga nagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:27:07.192651537Z",
+  "model": "glm-5.3"
+}

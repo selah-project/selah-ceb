@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Gipahimutang nako si Yahweh atubangan nako nga kanunay; kay ⟨siya⟩ sa akong too, dili ako malisdang.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Gipahimutang nako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "atubangan nako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga kanunay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "sa akong too"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ako malisdang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.201447279Z",
+  "model": "glm-5.3"
+}

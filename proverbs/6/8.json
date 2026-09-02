@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "nagahumana sa ting-init ⟨sa⟩ iyang pagkaon, nagatigum sa ani ang iyang kan-onon",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "nagahumana"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "sa ting-init"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "iyang pagkaon"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "nagatigum"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "sa ani"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "iyang kan-onon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:46.461053822Z",
+  "model": "glm-5.3"
+}

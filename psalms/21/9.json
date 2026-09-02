@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Makaplagan sa imong kamot ang tanan nimong mga kaaway; makaplagan sa imong tuo nga kamot ang mga nagadumili kanimo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sa imong kamot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "nimo nga mga kaaway"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sa imong tuo nga kamot"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ang mga nagadumili kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.880423133Z",
+  "model": "glm-5.3"
+}

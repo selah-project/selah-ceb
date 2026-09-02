@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Moabot ang mga dato gikan sa Mitsrayim; si Kush magpadali sa pagpadagan sa iyang mga kamot ngadto sa Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "Moabot ang"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "mga dato"
+    },
+    {
+      "surface": "מני",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "si Kush"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "magpadali sa pagpadagan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sa iyang mga kamot"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngadto sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:50.545758188Z",
+  "model": "glm-5.3"
+}

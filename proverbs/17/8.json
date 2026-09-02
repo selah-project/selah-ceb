@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Bato sa gugma ⟨ang⟩ suhol sa mata sa tag-iya niini; bisan asa molingin kini, molampos.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sa gugma"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ang suhol"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mata"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sa tag-iya niini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bisan asa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "molingin"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "molampos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:32.959779626Z",
+  "model": "glm-5.3"
+}

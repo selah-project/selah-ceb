@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Kawhaan ka tuig ako nakasukol ⟨sa⟩ ⟨kana⟩ nga kaliwatan, ug ako nakangingkat: usa ka katawhan nga nagasunang kasingkasing sila, ug sila wala makaila sa akong mga dalan.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Kawhaan ka tuig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ako nakasukol"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "⟨sa⟩ ⟨kana⟩ nga kaliwatan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug ako nakangingkat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "usa ka katawhan"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "nagasunang"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "sa akong mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:54.088358996Z",
+  "model": "glm-5.3"
+}

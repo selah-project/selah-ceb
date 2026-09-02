@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ang nagatarong sa daotan ug ang nagahimong saláan sa matarong — kapwa sila kasal-anan nga gitamay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "ang nagatarong"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "ug ang nagahimong saláan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kasal-anan nga gitamay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kapwa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "sila (duha)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:25.686669439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Mitubag sila ug nagingkamilang kang Nevukhadnetsar ⟨ang⟩ hari: Hari, sa kahangturang mga panahon mabuhi ka!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "mitubag sila"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ug nagingkamilang"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "kang Nevukhadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Hari"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "sa kahangturang mga panahon"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mabuhi ka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:56:29.556512143Z",
+  "model": "glm-5.3"
+}

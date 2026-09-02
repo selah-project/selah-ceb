@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ang kagustohan sa mga nagakahadlok kaniya buhaton niya, ug ⟨את⟩ ang ilang pagpanawag patoon niya ug iluwas sila.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kagustohan"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nagakahadlok kaniya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton niya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pagpanawag"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ilang pagpanawag"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "pataon niya"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "ug iluwas sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:16.560940543Z",
+  "model": "glm-5.3"
+}

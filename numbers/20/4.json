@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ngano nga gidala ninyo ⟨את⟩ ang kongregasyon ni Yahweh ngadto niining kamingawan, sa pagkamatay didto kami ug ang among mga kahayupan?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "ug ngano nga"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "gidala ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kongregasyon ni Yahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ang kongregasyon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto ni"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ining"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sa pagkamatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "ug ang among mga kahayupan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:52.039855185Z",
+  "model": "glm-5.3"
+}

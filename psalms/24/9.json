@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ibahaw ang inyong mga ulo, kamo nga mga ganghaan, ug ibahaw kamo, kamo nga mga pultahan sa kahangturan, ug moangkon ⟨ang⟩ hari sa himaya.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ibahaw"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "inyong mga ulo"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "ug ibahaw kamo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangturan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug moangkon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sa himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:59.003898957Z",
+  "model": "glm-5.3"
+}

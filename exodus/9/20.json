@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang nagakahadlok ⟨את⟩ sa pulong ni Yahweh taliwala sa mga sulogoon ni Paro nagpalagiw ⟨את⟩ sa iyang mga sulogoon ug ⟨את⟩ sa iyang mga kahayopan ngadto sa mga balay.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "ang nagakahadlok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pulong ni Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "taliwala sa mga sulogoon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "nagpalagiw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga sulogoon"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iyang mga sulogoon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa iyang mga kahayopan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "iyang mga kahayopan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "mga balay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:42.060564804Z",
+  "model": "glm-5.3"
+}

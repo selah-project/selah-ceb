@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Akong anak, pamati sa akong mga pulong; iykig ang imong dalugan ngadto sa akong mga sulti.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "akong anak"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "sa akong mga pulong"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "pamati"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "sa akong mga sulti"
+    },
+    {
+      "surface": "הט",
+      "gloss": "iykig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "imong dalugan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:27.383798052Z",
+  "model": "glm-5.3"
+}

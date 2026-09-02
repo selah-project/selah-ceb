@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nagbarug ang mga hari sa yuta, ug ang mga mangdumala nagtiunay ⟨kauban⟩ batok kang Yahweh ug batok sa iyang Mesiyas:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Nagbarug"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ug ang mga mangdumala"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "nagtiunay"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug batok sa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "iyang Mesiyas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.441368103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Baba ⟨ang⟩ aduna sila apan wala sila makasulti; mga mata ⟨ang⟩ aduna sila apan wala sila makakita",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "baba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aduna sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sila makasulti"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aduna sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sila makakita"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:37.160584810Z",
+  "model": "glm-5.3"
+}

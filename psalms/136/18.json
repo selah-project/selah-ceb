@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Ug nagpamatay sa mga hari nga makagagahum, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ug nagpamatay"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "nga makagagahum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:43.351270097Z",
+  "model": "glm-5.3"
+}

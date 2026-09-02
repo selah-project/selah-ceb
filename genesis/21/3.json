@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gitawag ni Avraham ⟨את⟩ ang ngalan sa iyang anak nga katawoon niya, nga anak gikan kang Sarah, nga si Yitskhak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ug gitawag"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ni Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan sa iyang anak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa iyang anak"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "nga katawoon niya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gianak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "si Sarah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "si Yitskhak"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:58.494864155Z",
+  "model": "glm-5.3"
+}

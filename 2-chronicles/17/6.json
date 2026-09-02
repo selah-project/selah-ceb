@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug ang iyang kasingkasing nataas sa mga dalan ni Yahweh, ug bisan pa, gikuha niya ⟨את⟩ ⟨ang⟩ mga hataas nga lugar ug ⟨את⟩ ⟨ang mga⟩ Asherim gikan sa Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "nataas"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iyang kasingkasing"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ug bisan pa"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang⟩ mga hataas nga lugar"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "⟨ang⟩ mga hataas nga lugar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang mga⟩ Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "⟨ang mga⟩ Asherim"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "gikan sa Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:54.029780140Z",
+  "model": "glm-5.3"
+}

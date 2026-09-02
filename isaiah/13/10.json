@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Kay ang mga bituon sa ⟨ang⟩ kalangitan ug ang mga santinakpan niini dili maghatag sa ilang kahayag; nadulom ang adlaw sa iyang paggawas, ug ang bulan dili magpasidanag sa iyang kahayag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ang mga bituon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa ⟨ang⟩ kalangitan"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "ug ang mga santinakpan niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "sa ilang kahayag"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nadulom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "sa iyang paggawas"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ug ang bulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "magpasidanag"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "sa iyang kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:25.418642628Z",
+  "model": "glm-5.3"
+}

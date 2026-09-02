@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Sa imong pagkamatarong luwasa ako ug luwasa ako sa katalagman; ipanghisgot ang imong igpong ngari kanako ug luwasa ako.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imong pagkamatarong"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "luwasa ako"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ug luwasa ako sa katalagman"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ipanghisgot"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imong igpong"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ug luwasa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.093507015Z",
+  "model": "glm-5.3"
+}

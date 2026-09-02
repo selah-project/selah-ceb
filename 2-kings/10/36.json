@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang mga adlaw nga gimandohan ni Yehu ang Israel ⟨a⟩ mga kawhaan ug walo ka tuig, sa Shomron.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Ug ang mga adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "gimandohan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mga kawhaan"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ug walo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:44.936540258Z",
+  "model": "glm-5.3"
+}

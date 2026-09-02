@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Gikan sa imong templo didto sa Yerushalayim, alang Kanimo magadala ang mga hari og mga gasa.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "gikan sa imong templo"
+    },
+    {
+      "surface": "על",
+      "gloss": "didto sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang Kanimo"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "magadala ang"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "שי",
+      "gloss": "og mga gasa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:50.545447717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Ang imong mga kaakgot nalabay sa akong ibabaw; ang imong mga kabalaka naglagas ⟨kanako⟩.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "sa akong ibabaw"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nalabay"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ang imong mga kaakgot"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ang imong mga kabalaka"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "naglagas kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:30.065165178Z",
+  "model": "glm-5.3"
+}

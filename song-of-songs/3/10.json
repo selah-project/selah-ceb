@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 3:10",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gihimo niya ang ⟨את⟩ sa mga haligi niini nga salapi, ang iyang kanan nga gold, ang iyang lingkoranan nga purpura; ang sulod niini gitahi-an ug gipintas sa gugma gikan sa mga anak nga babaye sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "עמודיו",
+      "gloss": "mga haligi niini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Gihimo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "רפידתו",
+      "gloss": "kanan niini"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gold"
+    },
+    {
+      "surface": "מרכבו",
+      "gloss": "lingkoranan niini"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "purpura"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "sulod niini"
+    },
+    {
+      "surface": "רצוף",
+      "gloss": "gitahi-an ug gipintas"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "gugma"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "gikan sa mga anak nga babaye"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:13.459542809Z",
+  "model": "glm-5.3"
+}

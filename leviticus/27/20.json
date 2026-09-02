@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Apan kung dili niya tubuson ⟨את⟩ ang uma, ug kung naibaligya niya ⟨את⟩ ang uma ngadto sa laing tawo, dili na kini matubos pag-usab.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Apan kung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "niya tubuson"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang uma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang uma"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kung"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "naibaligya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang uma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ang uma"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ngadto sa tawo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "lain"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "matubos"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pag-usab"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:37.707365017Z",
+  "model": "glm-5.3"
+}

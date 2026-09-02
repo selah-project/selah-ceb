@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "anak ni Shallum, anak ni Tsadok, anak ni Akituv",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ni Shallum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ni Tsadok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ni Akituv"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:29.856696131Z",
+  "model": "glm-5.3"
+}

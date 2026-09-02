@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Maayo ang madugay ang kaligutgut kay sa ⟨usa ka⟩ manggugubat, ug ang nagatigbab sa iyang gininhawa kay sa manakop sa ⟨usa ka⟩ dakbayan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "madugay ang"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kaligutgut"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "kay sa manggugubat"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ug ang nagatigbab"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "sa iyang gininhawa"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "kay sa manakop sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:30.552086371Z",
+  "model": "glm-5.3"
+}

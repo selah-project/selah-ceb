@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug miingon si Elohim kang Avraham: Si Sarai nga imong asawa — ayaw na pagtawag ⟨את⟩ sa iyang ngalan nga Sarai, kay Sarah ang iyang ngalan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Si Sarai"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "imong asawa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "pagtawag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang ngalan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "nga Sarai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "iyang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:52:58.654059346Z",
+  "model": "glm-5.3"
+}

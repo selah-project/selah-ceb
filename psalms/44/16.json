@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Adlaw-adlaw ang akong kaulaw ⟨na⟩ anaa sa atubangan ko, ug ang kaulaw sa akong nawong natabon naako.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ang akong kaulaw"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "sa atubangan ko"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ug ang kaulaw"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa akong nawong"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "natabon naako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:42.998014293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Ayaw ikubli ang imong nawong gikan kanako sa adlaw sa akong kagul-anan; ipahiyang ngadto kanako ang imong dunggan; sa adlaw nga magatawag ako, pagdali, tubiga ako.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ikubli"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kagul-anan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sa akong"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ipahiyang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngadto kanako"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ang imong dunggan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pagdali"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubiga ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:22.068926804Z",
+  "model": "glm-5.3"
+}

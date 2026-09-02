@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Tumindog ka, lakaw ngadto sa Ninwe, ⟨ang⟩ dako nga dakong ciudad, ug panganha batok niini, kay ang ilang kadaot nakasaka ngadto ⟨atbang⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ ciudad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "dako nga dakong"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ug panganha"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "batok niini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "nakasaka"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ang ilang kadaot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngadto ⟨atbang⟩ kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:38.937257675Z",
+  "model": "glm-5.3"
+}

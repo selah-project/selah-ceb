@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang kaligutgut sa hari ⟨mga⟩ sugo sa kamatayon, ug ang tawong maalam makapahulas niini.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "kaligutgut"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "makapahulas niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:07.630497762Z",
+  "model": "glm-5.3"
+}

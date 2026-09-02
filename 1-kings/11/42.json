@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ang mga adlaw nga naghari si Shelomoh sa Yerushalayim sa ibabaw sa tibuok Israel ⟨mao ang⟩ kapatan kawhaan ka tuig.",
+  "tokens": [
+    {
+      "surface": "ויהימים",
+      "gloss": "Ug ang mga adlaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kawhaan ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:45.811403534Z",
+  "model": "glm-5.3"
+}

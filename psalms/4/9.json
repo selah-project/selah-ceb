@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Sa pakigdait maghigda ako ug matulog, kay ikaw, Yahweh, ⟨lang⟩ nga nag-inusara, sa pagsalig nagapahimutang kanako.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "sa pakigdait"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "maghigda ako"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "ug matulog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "nga nag-inusara"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "sa pagsalig"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "nagapahimutang kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:39.925485258Z",
+  "model": "glm-5.3"
+}

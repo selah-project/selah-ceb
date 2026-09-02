@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 26:38",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ang mga anak ni Binyamin sumala sa ilang mga banay: kang Bela, ang banay sa mga Bela-i; kang Ashbel, ang banay sa mga Ashbel-i; kang Ahiram, ang banay sa mga Ahiram-i.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kang Bela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay"
+    },
+    {
+      "surface": "הבלעי",
+      "gloss": "sa mga Bela-i"
+    },
+    {
+      "surface": "לאשבל",
+      "gloss": "kang Ashbel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay"
+    },
+    {
+      "surface": "האשבלי",
+      "gloss": "sa mga Ashbel-i"
+    },
+    {
+      "surface": "לאחירם",
+      "gloss": "kang Ahiram"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay"
+    },
+    {
+      "surface": "האחירמי",
+      "gloss": "sa mga Ahiram-i"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:32.250448184Z",
+  "model": "glm-5.3"
+}

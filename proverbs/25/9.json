@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ibangbang ang imong bangbang uban ⟨את⟩ ang imong kaabay, ug ang lihim ngadto sa lain ayaw ibutyag.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ang imong bangbang"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ibangbang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong kaabay"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ang imong kaabay"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ug ang lihim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa lain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ibutyag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:32.530946168Z",
+  "model": "glm-5.3"
+}

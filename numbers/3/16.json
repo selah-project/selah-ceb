@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug giihon ni Moshe ⟨את⟩ sila sumada sa baba ni Yahweh, sumala sa gisugo kaniya.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Ug giihon ni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga Levita)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumada sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:32:46.134783346Z",
+  "model": "glm-5.3"
+}

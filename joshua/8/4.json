@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gisugo niya ⟨את⟩ sila nga nagaingon: Tan-awa, kamo ⟨mga⟩ magtatago batok sa dakbayan, sa luyo sa dakbayan; ayaw paghawid kaayo gikan sa dakbayan, ug mahimo kamo tanan nga mga andam.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ug gisugo niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga gisugo)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "mga magtatago"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "batok sa dakbayan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "paghawid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ug mahimo kamo"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "nga mga andam"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:28.878758422Z",
+  "model": "glm-5.3"
+}

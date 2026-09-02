@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug mag-atone ang saserdote nga nguyohan ⟨את⟩ siya ug nga mopuno ⟨את⟩ sa iyang kamot sa pagkasaserdote puli sa iyang amahan; ug mobutang siya sa ⟨את⟩ mga bisti nga lino, mga bisti nga balaan.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ug mag-atone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "nguyohan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (ang saserdote)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ug nga"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mopuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "sa pagkasaserdote"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "puli sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ug mobutang siya sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga bisti nga lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "nga lino"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "nga balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:32.568236427Z",
+  "model": "glm-5.3"
+}

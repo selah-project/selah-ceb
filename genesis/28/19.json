@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ud ginganlan niya ⟨את⟩ ang ngalan sa maong dapit nga Beit-El, apan Luz ang ngalan sa dakbayan sa sinugdan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ginganlan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sa dapita"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "apan"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Luz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "sa sinugdan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:02.533622553Z",
+  "model": "glm-5.3"
+}

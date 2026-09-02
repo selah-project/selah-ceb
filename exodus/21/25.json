@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "paso igo sa paso, samad igo sa samad, bugkos nga hubag igo sa bugkos nga hubag.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "paso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "igo sa"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "paso"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "samad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "igo sa"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "samas"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bugkos nga hubag"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "igo sa"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "bugkos nga hubag"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:48.865044150Z",
+  "model": "glm-5.3"
+}

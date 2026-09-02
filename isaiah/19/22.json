@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mohampak si Yahweh ⟨את⟩ sa Mitsrayim — paghampak ug pag-ayo — ug mobalik sila ngadto kang Yahweh, ug modawat siya sa ilang pangamuyo ug mag-ayo ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "ug mohampak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "paghampak"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "ug pag-ayo"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ug mobalik sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "ug modawat siya sa pangamuyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "ug mag-ayo kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:54.942256373Z",
+  "model": "glm-5.3"
+}

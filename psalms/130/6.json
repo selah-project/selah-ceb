@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 130,
+  "translation": "⟨Naglaum⟩ ang akong kalag kang Adonay, labaw pa sa mga magbantay sa kaadlawon — mga magbantay sa kaadlawon.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kang Adonay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "labaw pa sa mga magbantay"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sa kaadlawon"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "mga magbantay"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "sa kaadlawon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:57.392107312Z",
+  "model": "glm-5.3"
+}

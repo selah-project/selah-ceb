@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Si Yahweh ang akong kusog ug akong laming; kaniya nagbutang pagtoo ang akong kasingkasing, ug ako gitabangan; busa magmalipayon ang akong kasingkasing, ug sa akong awit pagasalamatan ko siya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "akong kusog"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ug akong laming"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagbutang pagtoo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ako gitabangan"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "akong kasingkasing"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "ug sa akong awit"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "pagasalamatan ko siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:35.458630086Z",
+  "model": "glm-5.3"
+}

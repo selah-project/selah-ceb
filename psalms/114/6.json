@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 114,
+  "translation": "Kamo ⟨mga⟩ bukid, nga nagsantaw kamo ingon sa ⟨mga⟩ karnero; ⟨mga⟩ bungtod, ingon sa mga nating anak sa panap?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Kamo ⟨mga⟩ bukid"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "nagsantaw kamo"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ingon sa ⟨mga⟩ karnero"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "⟨mga⟩ bungtod"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ingon sa mga nating anak"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sa panap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:25.294701192Z",
+  "model": "glm-5.3"
+}

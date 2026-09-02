@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug kini ang mga hukom nga imong isulod sa atubangan nila.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ang mga hukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "imong isulod"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa atubangan nila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:54.581840340Z",
+  "model": "glm-5.3"
+}

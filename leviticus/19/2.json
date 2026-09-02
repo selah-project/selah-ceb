@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Isulti mo sa tibuok katigayonan sa mga anak ni Yisrael, ug ingnon mo sila: Balaan kamo mahimo, kay balaan ako, si Yahweh ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "isulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katigayonan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ug ingnon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "mahimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:39.969746352Z",
+  "model": "glm-5.3"
+}

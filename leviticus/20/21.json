@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug ang tawo nga mokuha ⟨את⟩ sa asawa sa iyang igsoon — hugaw kini (niddah); ang hilawhaw sa iyang igsoon iyang gipakita; walay kaliwat sila mahimong.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mokuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa asawa sa iyang igsoon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "sa asawa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "hugaw kini (niddah)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang hilawhaw"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sa iyang igsoon"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "iya nga gipakita"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "walay kaliwat"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sila mahimong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:27.520625288Z",
+  "model": "glm-5.3"
+}

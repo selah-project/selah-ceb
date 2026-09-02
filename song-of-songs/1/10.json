@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gwapa ⟨ang⟩ imong mga apapanggit uban ang mga koronas ⟨sa hiyas⟩, imong liog uban ang mga kwerdas ⟨sa mga perlas⟩.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "gwapa"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "imong mga apapanggit"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "uban ang mga koronas"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "imong liog"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "uban ang mga kwerdas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:48.632854132Z",
+  "model": "glm-5.3"
+}

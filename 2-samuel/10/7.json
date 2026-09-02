@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug nadungog ni David ⟨kini⟩, ug gipadala niya si ⟨את⟩ Yoav ug ang tibuok nga kasundalohan — ⟨ang⟩ mga gamhanan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadungog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok nga kasundalohan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok nga"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "⟨ang⟩ mga gamhanan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:52.273393223Z",
+  "model": "glm-5.3"
+}

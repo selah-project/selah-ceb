@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang dalan-sulog sa mga matarong ⟨ang⟩ paglikay sa daotan; ang nagabantay sa iyang kaugalingon nagabantay sa iyang dalan.",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "dalan-sulog"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "סור",
+      "gloss": "paglikay"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kaugalingon"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "iyang dalan"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:30.946519809Z",
+  "model": "glm-5.3"
+}

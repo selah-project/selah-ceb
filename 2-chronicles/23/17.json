@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug miadto ang tibuok nga katawhan sa templo sa Baal ug giguba nila kini, ug ⟨את⟩ ang iyang mga halaran ug ⟨את⟩ ang iyang mga larawan gipangguba nila, ug si Mattan nga pari ni Baal gigamatay nila atubang sa mga halaran.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok nga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "templo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "sa Baal"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "giguba nila kini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga halaran"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "iyang mga halaran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iyang mga larawan"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "iyang mga larawan"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "gipangguba nila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "si Mattan"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "si Mattan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nga pari"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ni Baal"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "gigamatay nila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "sa mga halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:02.269121583Z",
+  "model": "glm-5.3"
+}

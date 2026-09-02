@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang imong pagpuyo anaa sa taliwala sa paglimbong; pinaagi sa paglimbong naglalis sila pag-ila ⟨את⟩ kanako, matud pa ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "Ang imong pagpuyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "anaa sa taliwala"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "sa paglimbong"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "pinaagi sa paglimbong"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "naglalis sila"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "pag-ila"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ kanako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matud pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:17:24.344461292Z",
+  "model": "glm-5.3"
+}

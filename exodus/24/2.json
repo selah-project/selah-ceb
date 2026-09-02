@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug moduol si Moshe nga iya lang ang kaugalingon ngadto kang Yahweh, apan sila dili moduol, ug ang katawhan dili mosaka uban kaniya.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Ug moduol"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "iya lang ang kaugalingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "apan sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "moduol"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ug ang katawhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mosaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:47.749295722Z",
+  "model": "glm-5.3"
+}

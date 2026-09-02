@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Mobangon karon ako, ug liburon ko ang dakbayan, diha sa mga merkaduhan ug diha sa mga lapad nga karsada, pangitaon ko ⟨את⟩ kong gihigugma sa akong kalag: gipangita ko siya, apan wala ko siya makit-an.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "Mobangon karon ako"
+    },
+    {
+      "surface": "נא",
+      "gloss": "karon"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "liburon ko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "sa mga merkaduhan"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "sa mga lapad nga karsada"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "pangitaon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kong gihigugma sa akong kalag"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "gihigugma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "gipangita ko siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "makit-an ko siya"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:55.435464340Z",
+  "model": "glm-5.3"
+}

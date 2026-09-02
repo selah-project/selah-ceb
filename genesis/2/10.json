@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang suba mogawas gikan sa Eden aron patubigon ⟨את⟩ ang tanaman, ug gikan didto mabahin ⟨kini⟩ ngadto sa upat ka mga ulo.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Ug ang suba"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "gikan sa Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "aron patubigon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanaman"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ang tanaman"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ug gikan didto"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "mabahin"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ngadto sa upat ka"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mga ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:58.827179081Z",
+  "model": "glm-5.3"
+}

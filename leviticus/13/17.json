@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug tan-awon siya sa khoheng ⟨את⟩ sa paglantaw, ug ania kini, nahisulod ang nega ngadto sa kaputi, ug ipahibalo nga hinaw sa khohen ⟨ang⟩ nega; hinaw kini.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ug tan-awon siya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa khohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania kini"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nahisulod"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang nega"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ngadto sa kaputi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ug ipahibalo nga hinaw"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang khohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa nega"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ang nega"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hinaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:47.752250174Z",
+  "model": "glm-5.3"
+}

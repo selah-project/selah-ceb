@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Tan-awa ako, tubga ako, Yahweh nga akong Elohim; pagabiihi ang akong mga mata, aron dili ako matulog sa tulog sa kamatayon",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Tan-awa ako"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubga ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga akong Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "pagabiihi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ako matulog"
+    },
+    {
+      "surface": "המות",
+      "gloss": "sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.140905281Z",
+  "model": "glm-5.3"
+}

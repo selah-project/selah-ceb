@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Lamang siya ang akong bato ug ang akong pagluwas; ⟨siya⟩ ang akong hataas nga kasilungan; dili ako kaayo malirong.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lamang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ang akong bato"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ug ang akong pagluwas"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ang akong hataas nga kasilungan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "malirong"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:35.427002991Z",
+  "model": "glm-5.3"
+}

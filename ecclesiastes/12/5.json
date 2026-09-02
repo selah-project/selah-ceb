@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gihadlok usab sila sa gitas-on, ug mga katalagman ⟨sa⟩ dalan; ug magtinalaod ang almendra, ug magabat ang tagataga, ug malaglag ang kaper; kay ang tawo moadto sa balay sa iyang dayon, ug mamanaw sa libut sa karsada ang mga managtangis.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "gitas-on"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "gihadlok"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "mga katalagman"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "magtinalaod"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "almendra"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "magabat"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "tagataga"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "malaglag"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "kaper"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "moadto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "iya nga dayon"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "mamanaw sa libut"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "sa karsada"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "ang mga managtangis"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:15.473227182Z",
+  "model": "glm-5.3"
+}

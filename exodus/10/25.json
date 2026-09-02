@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Si Moshe mitudlo: \"Ikaw usab maghatag sa among kamot mga pagsa-ang ug mga sinunog, ug magahimo kami kang Yahweh nga among Elohim.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mitudlo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Si Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "maghatag"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "sa among kamot"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mga pagsa-ang"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "ug mga sinunog"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "ug magahimo kami"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:42.286148539Z",
+  "model": "glm-5.3"
+}

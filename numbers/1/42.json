@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang mga anak ni Naftali, sumala sa ilang kaliwatan, ngadto sa ilang mga pamilya, ngadto sa balay sa ilang mga amahan, pinaagi sa ihap sa mga ngalan, gikan sa napulo'g duha ka tuig ang panuigon ⟨⟨ug pataas⟩⟩ — tanan nga makagawas sa gubat:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ni Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "sa ilang kaliwatan"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngadto sa ilang mga pamilya"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngadto sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "pinaagi sa ihap"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "sa mga ngalan"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "gikan sa anak nga"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "napulo'g duha ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ug pataas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nga makagawas"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:45.436394169Z",
+  "model": "glm-5.3"
+}

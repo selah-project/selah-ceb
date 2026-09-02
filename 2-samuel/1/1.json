@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nahitabo kini human sa kamatayon ni Shaul, ug si David nagbalik gikan sa pagpatay ⟨את⟩ sa mga Amalekita, ug si David nagpuyo sa Tziklag duha ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitabo kini"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "gikan sa pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Amalekita"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "mga Amalekita"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "sa Tziklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:27.347692775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ipaaso sa saserdote ⟨את⟩ ang iyang gihinumdoman — bahin sa iyang hinuktok nga lugas ug bahin sa iyang lana — uban sa tanan niyang kanyon: halad nga sunog kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Ug ipaaso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang gihinumdoman"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ang iyang gihinumdoman"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bahin sa iyang hinuktok nga lugas"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "ug bahin sa iyang lana"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "niyang kanyon"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "halad nga sunog"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:51.047424508Z",
+  "model": "glm-5.3"
+}

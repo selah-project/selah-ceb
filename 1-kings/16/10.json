@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Busa misulod si Zimri ug giyaod ⟨siya⟩ ug gipatay ⟨niya⟩ ⟨siya⟩ sa ika-kawhaan ug pito nga tuig ni Asa hari sa Yehudah, ug naglingkod ⟨siya⟩ isang hari sa iyang pulinganan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "misulod"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "si Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ug giyaod siya"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ug gipatay niya siya"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ika-kawhaan"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ug pito"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ni Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ug naglingkod isang hari"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang pulinganan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:30.392730410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Bug-os ka nga matahum, akong higala nga babaye, ug walay ⟨bisag usa ka⟩ dungug kanimo.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "bug-os ka"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "akong higala nga babaye"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "ug dungug"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:27.620640664Z",
+  "model": "glm-5.3"
+}

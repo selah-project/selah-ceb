@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Pagpanalamdag kamo kang Yahweh, pagtawag kamo sa iyang ngalan, pagpahibalo kamo sa mga nasod bahin sa iyang mga binuhat.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "pagpanalamdag kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "pagtawag kamo"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "sa iyang ngalan"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "pagpahibalo kamo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "iyang mga binuhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.383399637Z",
+  "model": "glm-5.3"
+}

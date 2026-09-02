@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 86,
+  "translation": "Kaloyi ako, Adonay, kay kanimo ako magatawag tibuok adlaw.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "kaloyi ako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako magatawag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:07.073421845Z",
+  "model": "glm-5.3"
+}

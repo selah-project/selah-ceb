@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Naglungkaw kay sa itom ang ilang dagway, walamaila sa mga kalsada; nanapot ang ilang panit sa ilang bukog, namala, nahimong ⟨ingon⟩ sa kahoy.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "naglungkaw"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "kay sa itom"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "ilang dagway"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "maila"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "sa mga kalsada"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "nanapot"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ilang panit"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "ilang bukog"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "namala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ingon sa kahoy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:49:39.867183974Z",
+  "model": "glm-5.3"
+}

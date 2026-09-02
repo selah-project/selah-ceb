@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ako nakasulti kanimo: Pagpagawasa ⟨את⟩ sa akong anak aron mag-alagad siya kanako; ug ikaw nagdumili sa pagpagawas kaniya — ania karon, ako magapatay ⟨את⟩ sa imong anak nga panganay.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ug nakasulti ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Pagpagawasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa akong anak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa akong anak"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "aron mag-alagad siya kanako"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "ug ikaw nagdumili"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "sa pagpagawas kaniya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "magapatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong anak"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "nga panganay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:49.918770627Z",
+  "model": "glm-5.3"
+}

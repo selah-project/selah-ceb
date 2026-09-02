@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ikaw ang mosulti ⟨את⟩ sa tanan nga among sugoon ko kanimo, ug si Aharon nga imong igsoon mousabit kang Paro, ug siya magasultian pagpagawas ⟨את⟩ sa mga anak ni Yisrael gikan sa iyang yuta.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ang mosulti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "sugoon ko kanimo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug si Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imong igsoon"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "mousabit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ug magasultian pagpagawas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "gikan sa iyang yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:01.057198317Z",
+  "model": "glm-5.3"
+}

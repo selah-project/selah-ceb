@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Gibutang Nimo kami nga ⟨usa ka⟩ away ngadto sa among mga silingan, ug ang among mga kaaway nangiyiyag ⟨kanamo⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Gibutang Nimo kami"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "away"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ngadto sa among mga silingan"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ug ang among mga kaaway"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "nangiyiyag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨kanamo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:07.323578516Z",
+  "model": "glm-5.3"
+}

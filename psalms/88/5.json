@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Giihap ako uban sa mga manaug ngadto sa huk; nahimo ⟨ako⟩ ingon sa usa ka tawo nga walay kusog.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "giihap ako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "mga manaug"
+    },
+    {
+      "surface": "בור",
+      "gloss": "huk"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nahimo ako"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "ingon sa usa ka tawo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:03.323121869Z",
+  "model": "glm-5.3"
+}

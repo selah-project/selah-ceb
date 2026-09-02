@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug ang Yehuda gipapahigda sa atubangan sa Yisrael, ug nanawag ang matag usa ngadto sa iyang tolda.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "gipapahigda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ang Yehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ug nanawag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "sa iyang tolda"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:52.995610252Z",
+  "model": "glm-5.3"
+}

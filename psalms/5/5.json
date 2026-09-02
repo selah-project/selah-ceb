@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Kay ikaw dili ⟨ang⟩ El nga nalipay sa pagkadauton, dili makapuyo ang daotan kanimo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nalipay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa pagkadauton"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "makapuyo kanimo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:59.076133068Z",
+  "model": "glm-5.3"
+}

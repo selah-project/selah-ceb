@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Apan ako, kanimo nagbutang ako ug pagsalig, Yahweh; nakaingon ako: Akong Elohim ⟨ikaw⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagbutang ako ug pagsalig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nakaingon ako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.957167069Z",
+  "model": "glm-5.3"
+}

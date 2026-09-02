@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ⟨את⟩ ang karnero magabayad siya ug upat ka pilo, tungod kay buhat niya kining butanga, ug tungod kay wala siya magkaluoy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang karnero"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ang karnero"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "magabayad"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "upat ka pilo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining butanga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang butang"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug tungod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "magkaluoy"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:58.925449154Z",
+  "model": "glm-5.3"
+}

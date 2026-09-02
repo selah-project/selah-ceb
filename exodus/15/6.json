@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 15:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang imong too nga kamot, o Yahweh, mahimayaon sa gahum; ang imong too nga kamot, o Yahweh, nagbugkos sa kaaway.",
+  "tokens": [
+    {
+      "surface": "ימינך",
+      "gloss": "ang imong too nga kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאדרי",
+      "gloss": "mahimayaon"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "sa gahum"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ang imong too nga kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תרעץ",
+      "gloss": "nagbugkos sa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:48.651142008Z",
+  "model": "glm-5.3"
+}

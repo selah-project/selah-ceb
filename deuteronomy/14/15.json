@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "ug ⟨את⟩ ang anak nga babaye sa ya'anah, ug ⟨את⟩ ang tahmas, ug ⟨את⟩ ang shahaf, ug ⟨את⟩ ang nets sumala sa iyang matang",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak nga babaye sa ya'anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak nga babaye"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "sa ya'anah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ang tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ang shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ang nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sumala sa iyang matang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:13.363687197Z",
+  "model": "glm-5.3"
+}

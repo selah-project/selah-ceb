@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Adonay, ablihi ang akong mga ngabil, ug ang akong baba magpahibalo sa imong pagdayeg.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ablihi"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ug ang akong baba"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "magpahibalo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "imong pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:53.926390514Z",
+  "model": "glm-5.3"
+}

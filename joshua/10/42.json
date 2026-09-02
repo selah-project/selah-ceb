@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ⟨את⟩ tanang mga hari nga kini ug ⟨את⟩ ilang yuta gikuha ni Yehoshua sa usa ka higayon, kay si Yahweh, ang Elohim ni Yisrael, nakiggubat alang sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanang mga hari nga kini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilang yuta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ilang yuta"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "alang sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:44.747999666Z",
+  "model": "glm-5.3"
+}

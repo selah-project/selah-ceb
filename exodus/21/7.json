@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug kon magbaligya ang usa ka tawo ⟨את⟩ iyang anak nga babae ingon nga alim, dili siya mogawas ingon sa paggawas sa mga alipin.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "magbaligya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usa ka tawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang anak nga babae"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "iyang anak nga babae"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ingon nga alim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "siya mogawas"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "ingon sa paggawas"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "sa mga alipin"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:32.374248575Z",
+  "model": "glm-5.3"
+}

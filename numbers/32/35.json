@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug ⟨את⟩ ang Atrot-Shofan, ug ⟨את⟩ ang Yazer, ug Yogbehah.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Atrot-Shofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atrot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ug Yogbehah"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:21.209819438Z",
+  "model": "glm-5.3"
+}

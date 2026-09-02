@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Talikdi ang kadaot ug buhata ang maayo, ug ⟨ikaw⟩ mopuyo hangtod sa kahangtoraan.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Talikdi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug buhata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ug mopuyo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtoraan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:34.616418354Z",
+  "model": "glm-5.3"
+}

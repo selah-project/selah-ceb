@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Gilutos sila sa ilang mga kaaway, ug napailalom sila sa ilang kamot.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "Gilutos sila"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "sa ilang mga kaaway"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "napailalom sila"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalum"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "sa ilang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.884825842Z",
+  "model": "glm-5.3"
+}

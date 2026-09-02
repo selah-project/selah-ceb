@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug si Yoyada nagkaanak ⟨את⟩ kang Yonatan, ug si Yonatan nagkaanak ⟨את⟩ kang Yadua.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Ug si Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "kang Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ug si Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagkaanak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yadua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "kang Yadua"
+    }
+  ],
+  "timestamp": "2026-09-01T23:06:50.852481854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug usab ang kamot ni Yahweh ⟨naa⟩ kanila aron paglaglag kanila gikan sa tunga sa kampo, hangtod nga natuman ang ilang kataposan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ang kamot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨naa⟩"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "aron paglaglag kanila"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "gikan sa tunga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "natuman ang ilang kataposan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:20.442381189Z",
+  "model": "glm-5.3"
+}

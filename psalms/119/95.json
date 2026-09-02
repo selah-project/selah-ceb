@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Kanako nag-abot ang mga daotan aron ⟨ako⟩ paglaglagon, apan ang imong mga pagsaksi atong lantawon sa pagtamhay.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "nag-abot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga daotan"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "aron paglaglagon ⟨ako⟩"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imong mga pagsaksi"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "lantawon sa pagtamhay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:20.091507205Z",
+  "model": "glm-5.3"
+}

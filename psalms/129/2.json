@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 129,
+  "translation": "Kadaghanan sa higayon gisapi nila ako sukad sa akong pagkabatan-on — apan wala nila ako mapildi:",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "kadaghanan sa higayon"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "gisapi nila ako"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "sukad sa akong pagkabatan-on"
+    },
+    {
+      "surface": "גם",
+      "gloss": "apan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mapildi nila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:40.280022824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 101,
+  "translation": "Ang kasingkasing nga malimbong mobalik gikan kanako; ang daotan dili nako mahibaw-an.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "nga malimbong"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nako mahibaw-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:06.140717825Z",
+  "model": "glm-5.3"
+}

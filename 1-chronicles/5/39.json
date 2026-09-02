@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "ug si Shallum nagmga ⟨את⟩ Khilkiyah, ug si Khilkiyah nagmga ⟨את⟩ Azaryah;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ug si Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Khilkiyah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "si Khilkiyah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ug si Khilkiyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "nagmga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Azaryah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "si Azaryah"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:12.940955259Z",
+  "model": "glm-5.3"
+}

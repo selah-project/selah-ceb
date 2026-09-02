@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang tanang sipdlg tanum sa kapatagan wala ⟨pa⟩ anaa sa yuta, ug ang tanang sagbot sa kapatagan wala pa motungha, kay wala pa pagpaulan ni Yahweh Elohim sa yuta, ug wala pay tawo sa pag-atiman ⟨את⟩ sa yuta.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanang"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "sipdlg tanum"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanang"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "sagbot"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "motungha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "pagpaulan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ug tawo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-atiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta (hawmad)"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yuta (hawmad)"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:17.016690382Z",
+  "model": "glm-5.3"
+}

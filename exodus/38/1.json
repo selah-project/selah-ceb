@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Gibuhat niya ⟨את⟩ ang halaran sa sinogngad nga halad sa kahoy nga shitim: lima ka siko ang gitas-on niini ug lima ka siko ang gilapdon niini — kwadrado — ug tulo ka siko ang gitas-on nga patindog niini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Gibuhat niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa sinogngad nga halad"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "gitas-on niini"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ug lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "gilapdon niini"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "kwadrado"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "gitas-on nga patindog niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:34.373618394Z",
+  "model": "glm-5.3"
+}

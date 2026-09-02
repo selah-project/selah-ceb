@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kay wala ⟨kini⟩ mopanira sa mga pultahan sa akong tiyan, ni nagtago ⟨kini⟩ sa kalisud gikan sa akong mga mata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "mopanira"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "sa mga pultahan"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "sa akong tiyan"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ni nagtago"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sa kalisud"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "gikan sa akong mga mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:34.214371111Z",
+  "model": "glm-5.3"
+}

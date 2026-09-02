@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": " Ug milingon siya dinhi ug didto, ug nakita niya nga walay tawo, ug gigabutan niya ⟨את⟩ ang taga-Mitsrayim ug gitago niya siya sa balas.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Ug milingon siya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ug didto"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ug gigabutan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang taga-Mitsrayim"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ang taga-Mitsrayim"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "ug gitago niya siya"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "sa balas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:24.283868924Z",
+  "model": "glm-5.3"
+}

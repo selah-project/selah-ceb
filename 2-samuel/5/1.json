@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Miabot ang tanan nga mga tribo sa Yisra'el kang David ⟨sa⟩ Khebron, ug nagsulti sila: Tan-awa, ikaw nga bukog ug unod namo kami.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mga tribo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Khebron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "ikaw nga bukog"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "ug unod"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:30.138721522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Nahitabo sa ikaduhang adlaw sa pagpatay ⟨את⟩ kang Gedalyahu, ug walay ⟨bisan usa ka⟩ tawo nga nakahibalo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduhang"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "sa pagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug walay tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:41:35.687652731Z",
+  "model": "glm-5.3"
+}

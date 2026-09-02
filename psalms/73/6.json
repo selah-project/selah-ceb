@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Busa gisapinan sila og kvenlas nga garbo, ang kadaot nasul-ob nila ingon og sinina.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "gisapinan sila og kvenlas"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "garbo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "nasul-ob"
+    },
+    {
+      "surface": "שית",
+      "gloss": "sinina"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:21.221828089Z",
+  "model": "glm-5.3"
+}

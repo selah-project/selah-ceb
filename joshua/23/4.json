@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 23:4",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Tan-awa, gipahulay nako ⟨את⟩ ang mga nasod nga nabilin pa — kining mga ⟨nasod⟩ — ingon nga kan-anan alang sa inyong mga tribo, gikan sa Yarden ug ang tanan nga mga nasod nga akong giutlan, hangtod sa dako nga dagat paingon sa pagsalop sa adlaw.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "gipahulay nako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga nasod"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "nga nabilin pa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ingon nga kan-anan"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "alang sa inyong mga tribo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "akong giutlan"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ug ang dagat"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "paingon sa pagsalop"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:50.759415803Z",
+  "model": "glm-5.3"
+}

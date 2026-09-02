@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Nag-ayo ⟨siya⟩ sa mga bag-ong kasingkasing, ug nagb-id sa ilang mga kasakit.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Nag-ayo"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "sa mga bag-o"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ug nagb-id"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "sa ilang mga kasakit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:14.536327017Z",
+  "model": "glm-5.3"
+}

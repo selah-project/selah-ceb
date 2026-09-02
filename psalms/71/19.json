@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Ug ang Imong pagkamatarong, Elohim, ⟨moabot⟩ hangtod sa kahitas-an — ⟨Ikaw⟩ nga nagbuhat ug mga bantogang butang; Elohim, kinsa ang sama Kanimo?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "Ug ang Imong pagkamatarong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "sa kahitas-an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "mga bantogang butang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang sama Kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:56.370968296Z",
+  "model": "glm-5.3"
+}

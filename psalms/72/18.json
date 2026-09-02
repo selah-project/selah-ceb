@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Dalaygon si Yahweh nga Elohim, ang Elohim ni Yisrael, nga nagahimo ug mga katingalahan ⟨nga nag-iha lamang kaniya⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dalaygon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nga Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagahimo ug"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nga nag-iha lamang kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:55.859765589Z",
+  "model": "glm-5.3"
+}

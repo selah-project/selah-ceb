@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gitambagan niya ⟨את⟩ ang mensahero nga mag-ingon: Kon mahuman ka na sa pagsulti kang ⟨את⟩ ang tanan nga mga butang sa ⟨ang⟩ gubat ngadto sa hari,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ug gitambogan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mensahero"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ang mensahero"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga mag-ingon"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "kon mahuman ka na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "nga mga butang"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:58.708318772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Gikan sa atubangan sa mga daotan — kini mao nga nanghilabot sila kanako; akong mga kaaway batok sa ⟨kalag⟩ mopalibot kanako.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan sa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "nanghilabot kanako"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "batok sa ⟨kalag⟩"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "mopalibot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:51.505276326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Apan ikaw — tawo nga managsama ⟨kanako⟩, akong suod nga higala, ug akong kaila.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "apan ikaw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "nga managsama kanako"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "akong suod nga higala"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ug akong kaila"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:12.889501022Z",
+  "model": "glm-5.3"
+}

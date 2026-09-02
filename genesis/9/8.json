@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug nagsulti si Elohim kang Noakh ug ⟨את⟩ sa iyang mga anak uban ⟨את⟩ kaniya, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noakh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uban",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:46.913168868Z",
+  "model": "glm-5.3"
+}

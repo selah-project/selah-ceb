@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Si Yahweh ⟨naa⟩ sa iyang balaang templo; si Yahweh, sa langit ⟨naa⟩ ang iyang trono; ang iyang mga mata nagatan-aw, ang iyang mga takop sa mata mosulay ⟨sa⟩ mga anak sa tawo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "sa iyang balaang templo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang balaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ang iyang trono"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iyang mga mata"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "nagatan-aw"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ang iyang mga takop sa mata"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "mosulay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:31.346473859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gipatay niya sa yelo ang ilang kaparrasan, ug ang ilang sikomoro sa hanamel.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Gipatay niya"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "sa yelo"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ang ilang kaparrasan"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "ug ang ilang sikomoro"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "sa hanamel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:23.219093922Z",
+  "model": "glm-5.3"
+}

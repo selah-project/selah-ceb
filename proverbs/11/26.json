@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang nagtago sa humay — tungloon siya sa ⟨mga⟩ lumulupyo, apan panalangin ⟨moadto⟩ sa ibabaw sa ulo sa nagpamaligya.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "nagtago"
+    },
+    {
+      "surface": "בר",
+      "gloss": "humay"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "tungloon siya"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "sa lumulupyo"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "apan panalangin"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "sa ulo"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "sa nagpamaligya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:39.845184854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Busa gikuha ko ⟨את⟩ ang mga pangulo sa inyong mga tribo, mga tawong maalam ug nasayod, ug gipahimutang ko ⟨את⟩ sila nga mga pangulo sa ibabaw ninyo — mga kapitan sa kaliboan, mga kapitan sa gatos, mga kapitan sa kalim-an, mga kapitan sa napulo, ug mga tigdumala alang sa inyong mga tribo.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ug gikuha ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pangulo sa inyong mga tribo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "sa inyong mga tribo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "ug nasayod"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ug gipahimutang ko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sa ibabaw ninyo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "sa kaliboan"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sa gatos"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sa kalim-an"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mga kapitan"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "sa napulo"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "ug mga tigdumala"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "sa inyong mga tribo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:44.094924685Z",
+  "model": "glm-5.3"
+}

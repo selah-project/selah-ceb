@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang mga anak ni Kalev, igsoon ni Yerachmeel: si Mesha ang iyang panganay — siya ang amahan sa Ziph — ug ang mga anak ni Mareshah, amahan sa Khevron.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ni Kalev"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ni Yerachmeel"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "si Mesha"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ang iyang panganay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ang amahan"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "sa Ziph"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ni Mareshah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "amahan"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "sa Khevron"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:14.777777671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kanimo ⟨ang⟩ bukton uban sa kusog, kusgan ang imong kamot, mataas ang imong too nga kamot.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "bukton"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "kusgan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imong kamot"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "mataas"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "imong too nga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:54.096593514Z",
+  "model": "glm-5.3"
+}

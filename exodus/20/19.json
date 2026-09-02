@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug sila miingon kang Moshe: Ikaw ang moy sulti kanamo ug among madungog; ug ayaw pagpasulti ⟨Elohim⟩ kanamo, basig mamatay kami.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ug sila miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "moy sulti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ug among madungog"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "pagpasulti"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "basig"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "mamatay kami"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:06.274153657Z",
+  "model": "glm-5.3"
+}

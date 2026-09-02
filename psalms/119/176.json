@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Naliligaw ko sama sa nawala nga karnero; pangitaa ang imong sulugoon, kay ang imong mga sugo wala ko makalimtan.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "naliligaw ko"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "sama sa karnero"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nawala"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "pangitaa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ang imong mga sugo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nakalimtan ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:41.741192683Z",
+  "model": "glm-5.3"
+}

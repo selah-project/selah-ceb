@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Kay tan-awa, ang imong mga kaaway nagahunahuna ug kagubot, ug ang nagadumili kanimo nagbanikad ug ulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ang imong mga kaaway"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "nagahunahuna ug kagubot"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "ug ang nagadumili kanimo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagbanikad"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ug ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:04.433586147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ang iyang mga igsoon milakat sa pagdakop ⟨את⟩ sa kawan sa ilang amahan sa Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "milakat"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang iyang mga igsoon"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "sa pagdakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kawan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kawan"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "sa ilang amahan"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "sa Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:32.060397299Z",
+  "model": "glm-5.3"
+}

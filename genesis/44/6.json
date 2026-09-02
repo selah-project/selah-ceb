@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug naabtan niya sila, ug nagsulti siya kanila ⟨את⟩ ang mga pulong nga kini.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "naabutan niya sila"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:31.703002037Z",
+  "model": "glm-5.3"
+}

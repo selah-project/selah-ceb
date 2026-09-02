@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug nagdorma si Acaz uban sa iyang mga amahan, ug gilubong uban sa iyang mga amahan sa ciudad ni David; ug si Hizkiyahu nga iyang anak naghari sa iyang pulong.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nagdorma"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "si Acaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga amahan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "gilubong"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga amahan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa ciudad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "si Hizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:54.261308400Z",
+  "model": "glm-5.3"
+}

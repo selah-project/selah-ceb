@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "nga nangita ka sa akong kasalanan, ug sa akong sala imong gipangita?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "nangita ka"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "sa akong kasalanan"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "ug sa akong sala"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "imong gipangita"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:58.543085554Z",
+  "model": "glm-5.3"
+}

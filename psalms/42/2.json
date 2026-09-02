@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Sama sa usa ka ilar nga nangandoy alang sa mga sapa sa tubig, mao usab ang akong kalag nga nangandoy kanimo, O Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Sama sa usa ka ilar"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "nangandoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "mga sapa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao usab"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "nangandoy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:28.672612354Z",
+  "model": "glm-5.3"
+}

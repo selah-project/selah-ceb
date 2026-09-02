@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Usa ka mizmor ni David. Ihatag kamo kang Yahweh, ⟨mga anak⟩ sa mga El; ihatag kamo kang Yahweh ang kavod ug ang kusog.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨mga anak⟩"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "sa mga El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ihatag kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang kavod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ug ang kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:41.119358906Z",
+  "model": "glm-5.3"
+}

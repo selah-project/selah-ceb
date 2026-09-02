@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Naghubad si Yehonatan sa ⟨את⟩ ang bisti nga anaa kaniya ug gihatag kini kang David, ug ang iyang mga bisti, bisan ang iyang espada, ug ang iyang pana, ug ang iyang bakos.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Naghubad sa sulod"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bisti"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ang bisti (panalipod)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "anaa kaniya"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ug gihatag kini"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "ug ang iyang mga bisti"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "bisan ang"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "iyang espada"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug bisan ang"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "iyang pana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug bisan ang"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "iyang bakos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:27.783542275Z",
+  "model": "glm-5.3"
+}

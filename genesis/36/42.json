@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "ang datu nga si Kenaz, ang datu nga si Teman, ang datu nga si Mibtsar.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "datu"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "datu"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "datu"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibtsar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:19.169520464Z",
+  "model": "glm-5.3"
+}

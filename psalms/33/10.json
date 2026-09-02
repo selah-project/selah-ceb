@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Si Yahweh naglapas sa tambag sa mga nasud, gipawalay-bisa ang mga plano sa mga katawhan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "naglapas"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "gipawalay-bisa"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mga plano"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "mga katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:08.807081447Z",
+  "model": "glm-5.3"
+}

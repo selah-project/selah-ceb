@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tingog ni Yahweh ⟨naa⟩ sa ibabaw sa mga tubig; ang El sa kavod nagdaganog; si Yahweh ⟨naa⟩ sa ibabaw sa daghang mga tubig.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ang El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sa kavod"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "nagdaganog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:41.119678317Z",
+  "model": "glm-5.3"
+}

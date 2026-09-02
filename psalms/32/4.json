@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Kay adlaw ug gabii gimugdan ⟨kanako⟩ ang imong kamot; ang akong kusog nahimong ingon sa kawad-on sa ting-init. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug gabii"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "gimugdan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "imong kamot"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "nahimong"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "ang akong kusog"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "sa kawad-on"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sa ting-init"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:56.184900087Z",
+  "model": "glm-5.3"
+}

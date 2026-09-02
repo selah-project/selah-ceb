@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Naglakaw sila nga hubo nga walay bisti, ug nga gigutom nagdala ug bugkos sa humay.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "hubo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "bisti"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "ug nga gigutom"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nagdala"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "bugkos sa humay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:41:36.667402553Z",
+  "model": "glm-5.3"
+}

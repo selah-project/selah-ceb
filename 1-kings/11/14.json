@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gipukaw ni Yahweh ⟨את⟩ si Hadad ang Edomanhon ingon kaatbang kang Shlomo; gikan sa binhi sa hari siya ⟨nga⟩ didto sa Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Gipukaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "kaatbang"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kang Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hadad ang Edomanhon"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ang Edomanhon"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "gikan sa binhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:03.250032031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Tumindog ka, Yahweh; ayaw pagtugot nga molig-on ⟨ang⟩ tawong mabuhian pa; himoon nga magahukom ⟨ang⟩ mga nasod atbang sa imong nawong.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tumindog ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "pagtugot nga molig-on"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "tawong mabuhian pa"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "על",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:37.770285280Z",
+  "model": "glm-5.3"
+}

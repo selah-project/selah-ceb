@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Pahibalo-a ninyo ⟨את⟩ ang inyong mga anak, nga nagaingon: Sa mamala nga yuta nagtabok ang Yisra'el ⟨את⟩ sa Yarden nga kini.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "ug pahibalo-a ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang inyong mga anak"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ang inyong mga anak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "sa mamala nga yuta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:45.706227289Z",
+  "model": "glm-5.3"
+}

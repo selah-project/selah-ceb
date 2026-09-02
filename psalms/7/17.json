@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Mobalik ang iyang kabalakyaran ibabaw sa iyang ulo, ug sa iyang korona sa ulo ang iyang kapintas molunsad ⟨⟨sa iyang kaugalingon⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ang iyang kabalakyaran"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ibabaw sa iyang ulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "iyang korona sa ulo"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ang iyang kapintas"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "molunsad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:46.718377368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Kaniya gitawag sa akong baba, ug ang pagpasidungog ⟨naa⟩ sa ilalom sa akong dila.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Kaniya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ug ang pagpasidungog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "sa akong dila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:13.723382481Z",
+  "model": "glm-5.3"
+}

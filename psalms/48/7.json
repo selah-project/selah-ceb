@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Pangurot ang nikuha kanila didto, ug mga sakit — ingon sa usa ka babaye nga nagpanganak.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "pangurot"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ang nikuha kanila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mga sakit"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "ingon sa usa ka babaye nga nagpanganak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:09.439824759Z",
+  "model": "glm-5.3"
+}

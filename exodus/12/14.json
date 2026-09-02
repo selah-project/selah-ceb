@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug kining adlawa mahimong handum alang kaninyo, ug isaulog ninyo kini ingon nga pista alang kang Yahweh sa tanan ninyong kaliwatan; ⟨⟨isa⟩⟩ ka balaod hangtod sa kahangturan — isaulog ninyo kini.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kining adlawa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "ingon nga handum"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "ug isaulog ninyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "kini (ang pista)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "pista"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sa tanan ninyong kaliwatan"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "isaulog ninyo kini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:52.116053851Z",
+  "model": "glm-5.3"
+}

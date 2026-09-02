@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "ug ⟨את⟩ sa Resen, taliwala sa Ninweh ug sa Kalakh — kini mao ang dakong dakbayan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "dakong"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:03.762113673Z",
+  "model": "glm-5.3"
+}

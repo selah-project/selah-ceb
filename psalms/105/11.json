@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "nga nag-ingon: Kanimo ihatag ko ⟨את⟩ ang yuta sa Kenaan, ⟨ingon⟩ nga porsyon sa inyong panunod.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "porsyon"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "sa inyong panunod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:01.084624076Z",
+  "model": "glm-5.3"
+}

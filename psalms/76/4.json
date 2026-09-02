@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Didto gisi niya ang mga kidlat sa pana, ang lamesa, ug ang pinuti, ug ang gubat. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "didto"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gisi niya"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ang mga kidlat"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sa pana"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ug ang pinuti"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ug ang gubat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:27.788079487Z",
+  "model": "glm-5.3"
+}

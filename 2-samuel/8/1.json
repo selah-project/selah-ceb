@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nahitabo human niini, nga gigahum ni David ⟨את⟩ ang mga Peleshtihanon ug gipaubos niya sila; ug gikuha ni David ⟨את⟩ ang Metheg-Ammah gikan sa kamot sa mga Peleshtihanon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nahitabo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gigahum"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Peleshtihanon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Peleshtihanon"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "gipaubos niya sila"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Metheg-Ammah"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Metheg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "-Ammah"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Peleshtihanon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:53.252195388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug nahitabo didto sa dalan, sa pahulayanan, nga nasugatan siya ni Yahweh, ug nagapangita siya sa pagpatay kaniya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "didto sa dalan"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "sa pahulayanan"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "nasugatan siya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "ug nagapangita siya"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "sa pagpatay kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:49.918926875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang mga bantay sa ganghaan mitawag, ug gipahibalo nila ⟨kini⟩ sa sulod sa balay sa hari.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ug mitawag"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ang mga bantay sa ganghaan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ug gipahibalo nila"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "sa sulod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:30.179010192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nahurot ang akong mga mata sa imong gisaad, nga nagaingon: Kanus-a ako imong lipayon?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "nahurot"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mga mata"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "sa imong gisaad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ako imong lipayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:05.188711289Z",
+  "model": "glm-5.3"
+}

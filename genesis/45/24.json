@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug gipadala niya ang ⟨את⟩ iyang mga igsoon ug nangadto sila; ug giingon niya sila: Ayaw pag-aliwangay sa dalan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iya ka mga igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iya ka mga igsoon"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ug nangadto sila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug giingon niya"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "pag-aliwangay"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:26.466975094Z",
+  "model": "glm-5.3"
+}

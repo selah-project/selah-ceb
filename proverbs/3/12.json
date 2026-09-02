@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kay si Yahweh mosaway ⟨kang⟩ ⟨את⟩ ⟨niadtong⟩ iyang higugmaon, ingon sa amahan ⟨kang⟩ ⟨את⟩ anak nga iyang kalipay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niadtong iyang higugmaon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨niadtong⟩"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "iya nga higugmaon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "mosaway"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ingon sa amahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "iya nga kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:03.880850479Z",
+  "model": "glm-5.3"
+}

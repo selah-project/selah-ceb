@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Ang nagatan-aw sa yuta ug kini nagkurog, nagahikap sa mga bukid ug kini manaug aso.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Ang nagatan-aw"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ug kini nagkurog"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "nagahikap"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ug kini manaug aso"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:59.960016439Z",
+  "model": "glm-5.3"
+}

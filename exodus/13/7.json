@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Tinapay nga walay lebadura mokaon sulod ⟨את⟩ sa pito ka adlaw, ug dili makita kanimo ang may lebadura, ug dili makita kanimo ang lebadura sa tanan nimong utlanan.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Tinapay nga walay lebadura"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pito ka adlaw"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "may lebadura"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "lebadura"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "nimong utlanan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:49.939257436Z",
+  "model": "glm-5.3"
+}

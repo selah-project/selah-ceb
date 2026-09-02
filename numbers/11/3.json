@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gitawag og ngalan ang maong dapit nga Tabera, kay nagdilaab diha kanila ang kalayo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ug gitawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "og ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ang dapit"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "nga Tabera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "nagdilaab"
+    },
+    {
+      "surface": "בם",
+      "gloss": "diha kanila"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:36:06.323051981Z",
+  "model": "glm-5.3"
+}

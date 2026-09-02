@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Sa nianang panahona molukso ang piang ingon sa ora, ug mokanta ang dila sa ⟨mga⟩ amang; kay mabuto ang mga tubig didto sa kamingawan, ug mga sapa sa kapatagan nga uga.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa nianang panahona"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "molukso"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "ingon sa ora"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ang piang"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ug mokanta"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ang dila"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "mga amang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "mabuto"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "didto sa kamingawan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ug mga sapa"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "sa kapatagan nga uga"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:41.655781370Z",
+  "model": "glm-5.3"
+}

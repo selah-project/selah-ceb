@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gigisi niya ang ilang punoan ubas ug ang ilang punoan igos, ug gipamunga pagkagun-ob ⟨ang⟩ mga kahoy sa ilang utlanan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gigisi niya"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ang ilang punoan ubas"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "ug ang ilang punoan igos"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "gipamunga pagkagun-ob"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mga kahoy"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "sa ilang utlanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:09.938177464Z",
+  "model": "glm-5.3"
+}

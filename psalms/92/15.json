@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Mamumunga pa gihapon ⟨sila⟩ sa katigulangan, Mataba ug lunhaw ⟨sila⟩ mahimong.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "pa gihapon"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "mamumunga"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "sa katigulangan"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "mataba"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "ug lunhaw"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:05.005774087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kon nagsilog na ang adlaw sa ibabaw kaniya, may ⟨bayad sa⟩ dugo alang kaniya — pagbayad iyang bayaran; kon wala ⟨makuha⟩ siya, ibaligya siya tungod sa iyang pagpangawat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "nagsilog na"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ang adlaw"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "sa ibabaw kaniya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "pagbayad"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "iyang bayaran"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ibaligya siya"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "tungod sa iyang pagpangawat"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:40.088721385Z",
+  "model": "glm-5.3"
+}

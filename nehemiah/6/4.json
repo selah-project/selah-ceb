@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gipadala nila ngari kanako sumala niining pulonga upat ka higayon, ug gisubli ko ⟨את⟩ kanila sumala niining pulonga.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ug gipadala nila"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niining pulonga"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat ka"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ug gisubli ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "sumala niining pulonga (ang tubag)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niining pulonga"
+    }
+  ],
+  "timestamp": "2026-09-01T23:05:21.087784199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Nagpadala si Hadadezer ug nagpakgwa sa ⟨את⟩ Aram ⟨nga⟩ didto sa lain nga bahin sa suba, ug sila miabot sa Khelam; ug si Shovakh, pangulo sa kasundalohan ni Hadadezer, ⟨nag-unang⟩ sa ilang atubangan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nagpakgwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "didto sa lain nga bahin"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "miabot sila"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Khelam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "ug si Shovakh"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sa kasundalohan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa ilang atubangan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:00.703869248Z",
+  "model": "glm-5.3"
+}

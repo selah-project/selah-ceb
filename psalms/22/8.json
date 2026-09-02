@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang tanan nga nagakita kanako nagbiay-biay kanako; giabli nila ang ngabil, gikalog nila ang ulo, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "nga nagakita kanako"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "nagbiay-biay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "יפטIRו",
+      "gloss": "giabli nila"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ang ngabil"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "gikalog nila"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:42.720097030Z",
+  "model": "glm-5.3"
+}

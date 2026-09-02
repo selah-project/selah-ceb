@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug itugyan ko ⟨את⟩ ang Mitsrayim sa kamot sa mga higpit nga agalon, ug usa ka mabaskog nga hari magahari kanila — matod pa ni Adonay, si Yahweh Tsevaot.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "ug itugyan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ang Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "sa mga agalon"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "higpit"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ug usa ka hari"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mabaskog"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "magahari"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod pa"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:44.246913866Z",
+  "model": "glm-5.3"
+}

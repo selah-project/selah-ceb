@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Nagakalipay sa pagbuhat sa daotan, nagalipay sa mga pagpangbalikbalik sa daotan;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "Nagakalipay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "nagalipay"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "sa mga pagpangbalikbalik"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:57.192230893Z",
+  "model": "glm-5.3"
+}

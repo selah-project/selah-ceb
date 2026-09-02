@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ang tanan nga pagkaon gikasilagan sa ilang kalag, ug sila nangadtu hangtod sa mga ganghaan sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "gikasilagan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "sa ilang kalag"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "ug sila nangabot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.421432295Z",
+  "model": "glm-5.3"
+}

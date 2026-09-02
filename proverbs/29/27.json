@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Kasilag sa mga matarong ⟨ang⟩ tawo sa kadaot, ug kasilag sa daotan ⟨ang⟩ matarong sa dalan.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "kasilag"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ug kasilag"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:27.059077918Z",
+  "model": "glm-5.3"
+}

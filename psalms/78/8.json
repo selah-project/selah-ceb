@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug dili mahimong sama sa ilang mga amahan — henerasyon nga mapuongog ug masukihon, henerasyon nga wala mopatarong sa iyang kasingkasing, ug ang iyang espiritu wala magpabilin nga matinud-anon uban ⟨את⟩ sa El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "sama sa ilang mga amahan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mapuongog"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "ug masukihon"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "mopatarong"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "magpabilin nga matinud-anon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ang iyang espiritu"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:08.512855182Z",
+  "model": "glm-5.3"
+}

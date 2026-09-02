@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Nagsul-ob siya sa pagtulongon ingon nga ⟨iyang⟩ bisti, ug kini misulod ingon sa tubig ⟨sa sulod⟩ niya, ug ingon sa lana ⟨ngadto sa⟩ iyang mga bukog.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "nagsul-ob siya"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "sa pagtulongon"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "ingon sa iyang bisti"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ug kini misulod"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ingon sa tubig"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "sa sulod niya"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "ug ingon sa lana"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "sa iyang mga bukog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:33.400682159Z",
+  "model": "glm-5.3"
+}

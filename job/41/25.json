@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Walay ⟨ang⟩ dominyo niya sa ⟨ibabaw sa⟩ abo; ⟨siya⟩ gihimo nga walay kahadlok.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "dominyo niya"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "gihimo siya"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "nga walay"
+    },
+    {
+      "surface": "חת",
+      "gloss": "kahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:47.230778037Z",
+  "model": "glm-5.3"
+}

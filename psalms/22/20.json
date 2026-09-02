@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ikaw, Yahweh, ayaw paghalayo; akong kusog, pagdali sa pagtabang kanako.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "paghalayo"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "akong kusog"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa pagtabang kanako"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pagdali"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:30.131239010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Nagsulog sila kanako sa adlaw sa akong katalagman, apan si Yahweh nahimong akong suporta alang kanako.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "nagsulog sila kanako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "sa akong katalagman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "apan nahimong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "akong suporta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T01:05:50.200009825Z",
+  "model": "glm-5.3"
+}

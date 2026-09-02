@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sa tanan nga adlaw sa iyang pagkabihag, gikan sa tanan nga buhaton gikan sa punoan sa ubas, gikan sa liso ngadto sa panit dili niya kan-on.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sa iyang pagkabihag"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "gikan sa punoan sa ubas"
+    },
+    {
+      "surface": "היין",
+      "gloss": "sa alak"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "gikan sa liso"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "זג",
+      "gloss": "panit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "niya kan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:57.580084071Z",
+  "model": "glm-5.3"
+}

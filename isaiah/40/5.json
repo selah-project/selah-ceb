@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug mahisanggalad ang himaya ni Yahweh, ug makita kini sa tanang unod nga nagkausa, kay ang baba ni Yahweh ang nagsulti.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ug mahisanggalad"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ug makita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagkausa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:25.391033951Z",
+  "model": "glm-5.3"
+}

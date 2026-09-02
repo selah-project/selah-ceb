@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ang akong baba maghimo og pagtagad sa mga kaalam, ug ang paghinidhom sa akong kasingkasing sa mga pagsabut.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ang akong baba"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "maghimo og pagtagad"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "sa mga kaalam"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ug ang paghinidhom"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "sa mga pagsabut"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:25.310702946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nagbutang siya alang kaniya og mga saserdote alang sa mga hataas nga dapit, ug alang sa mga kanding-lagaw, ug alang sa mga bais nga iyang gihimo.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ug nagbutang siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "og mga saserdote"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "alang sa mga hataas nga dapit"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "ug alang sa mga kanding-lagaw"
+    },
+    {
+      "surface": "ולעגלים",
+      "gloss": "ug alang sa mga bais"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "iya gihimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:12.987840653Z",
+  "model": "glm-5.3"
+}

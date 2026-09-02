@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug ang mga anak ni Gomer: Ashkenaz, ug Rifat, ug Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ug Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ug Togarma"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:04.307042880Z",
+  "model": "glm-5.3"
+}

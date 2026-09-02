@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ayaw kamo panumpa sa akong ngalan sa bakak, aron dili nimo paglapanon ⟨את⟩ ang ngalan sa imong Elohim; ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "kamo panumpa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa akong ngalan"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "sa bakak"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ug paglapanon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ngalan sa imong Elohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sa imong Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:12.819472627Z",
+  "model": "glm-5.3"
+}

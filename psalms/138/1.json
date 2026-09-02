@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 138,
+  "translation": "Ni David. Magasalamaton ako kanimo sa tibuok ko nga kasingkasing; sa atubang sa mga diyos magasimbako ⟨ikaw⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "magasalamaton ako kanimo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kong kasingkasing"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "sa atubang"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa mga diyos"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "magasimbako ⟨ikaw⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:12.686453102Z",
+  "model": "glm-5.3"
+}

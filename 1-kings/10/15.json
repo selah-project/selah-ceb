@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "gawas sa ⟨gikan kang⟩ mga tawo sa mga sakayan sa negosyo, ug sa sari-sari nga baligya sa mga mamaligyaay, ug sa tanan nga mga hari sa Arabo, ug sa mga gobernador sa yuta.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "gawas sa"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "gikan sa mga tawo sa"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "mga sakayan sa negosyo"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "ug sa sari-sari nga baligya"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "sa mga mamaligyaay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tanan nga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "sa Arabo"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "ug sa mga gobernador"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:27.016118348Z",
+  "model": "glm-5.3"
+}

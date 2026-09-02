@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Matahom ngalan sa mga Nazireo niini ⟨kay⟩ sa niebe, mas puti kay sa gatas, mapula ang ilang lawas kay sa mga perlas, sapir ang ilang dagway.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "matahom ngalan"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "mga Nazireo niini"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "kay sa niebe"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "mas puti"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kay sa gatas"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "mapula"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "lawas (bukog)"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "kay sa mga perlas"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapir"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "ilang dagway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:49:39.867048681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "kon ang mga tawo sa akong tolda wala mag-ingon: Hain ang makahatag kanato sa iyang unod? Wala kami mabusog.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mag-ingon"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "sa akong tolda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "hain"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ang makahatag"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "sa iyang unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "kami mabusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:04.471327581Z",
+  "model": "glm-5.3"
+}

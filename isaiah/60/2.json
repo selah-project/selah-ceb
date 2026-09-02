@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Kay ania karon, ang kangitngit motabon sa yuta, ug ang gimokmok sa mga nasod, apan sa imong ibabaw motungha si Yahweh, ug ang iyang kavod makita sa imong ibabaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ang kangitngit"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "motabon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ug ang gimokmok"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "apan sa imong ibabaw"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "motungha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "ug ang iyang kavod"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imong ibabaw"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makita"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:51.381320662Z",
+  "model": "glm-5.3"
+}

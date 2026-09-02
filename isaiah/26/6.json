@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Tungtungon kini sa tiil, ang mga tiil sa kabus, ug ang mga lakang sa mga gimoldo.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "tungtungon kini"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tiil"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang mga tiil"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa kabus"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ang mga lakang"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "sa mga gimoldo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:32.651360736Z",
+  "model": "glm-5.3"
+}

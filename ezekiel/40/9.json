@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gisukod niya ⟨את⟩ ang atubangan sa ganghaan, walo ka siko; ug ang mga haligi niini, duha ka siko; ug ang atubangan sa ganghaan ⟨moadto⟩ padulong sa balay.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ug gisukod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang atubangan sa ganghaan"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ang atubangan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ug ang mga haligi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "ug ang atubangan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "gikan sa balay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:46:25.968909416Z",
+  "model": "glm-5.3"
+}

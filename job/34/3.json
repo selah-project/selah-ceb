@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kay ang igogoyod nagasulay ⟨sa⟩ mga pulong, ug ang ngitngit nakaalaman sa lami ⟨sa⟩ pagkaon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "igogoyod"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "nagasulay"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ug ang ngitngit"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "nakaalaman sa lami"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "⟨sa⟩ pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:43:54.571156289Z",
+  "model": "glm-5.3"
+}

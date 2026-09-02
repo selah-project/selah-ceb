@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Ug sila nagaingon: \"Dili makakita si Yah, ug dili masabtan sa Elohim ni Yaakov.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ug sila nagaingon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "masabtan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.331413624Z",
+  "model": "glm-5.3"
+}

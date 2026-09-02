@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Magapasigarbo ba ang wasay batok sa nag-uwasay niini? Magadako ba ang lagari batok sa nag-alagari niini? Ingon nga ang sungkod magapakurog sa nag-alsa niini, ug ⟨את⟩ sa nag-alsa niini magabungat ang sungkod nga dili kahoy!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "magapasigarbo ba"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "ang wasay"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "nag-uwasay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "magadako"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "ang lagari"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "nag-alagari niini"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "magapakurog"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang sungkod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa nag-alsa niini"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "sa nag-alsa niini"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "magabungat"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ang sungkod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:55.744192664Z",
+  "model": "glm-5.3"
+}

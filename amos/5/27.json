@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug pagapahilion ko kamo ⟨molapas sa⟩ Damascus, matod ni Yahweh — Elohim sa mga panon ang iyang ngalan.",
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "Ug pagapahilion ko kamo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "⟨molapas sa⟩"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "Damascus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "sa mga panon"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:53:32.747021819Z",
+  "model": "glm-5.3"
+}

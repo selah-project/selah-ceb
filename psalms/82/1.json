@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 82,
+  "translation": "Mizmor ni Asaf. Nagbarog si Elohim sa katigayonan ni El; sa taliwala sa mga elohim nagahukom ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "sa katigoyonan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ni El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa mga elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "nagahukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.888599513Z",
+  "model": "glm-5.3"
+}

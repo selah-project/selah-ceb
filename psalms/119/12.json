@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gidayaw ikaw, Yahweh; tudloi ako sa imong mga batas.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "gidayaw"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "tudloi ako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga batas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:39.203828633Z",
+  "model": "glm-5.3"
+}

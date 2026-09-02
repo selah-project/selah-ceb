@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 120,
+  "translation": "Usa ka kantahun sa mga pag-angat. Kang Yahweh sa akong kalisod nagtawag ako, ug gitubag niya ako.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "kantahun"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "sa kalisod"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ug gitubag niya ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:23.518025995Z",
+  "model": "glm-5.3"
+}

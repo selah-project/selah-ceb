@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mga katingalahan ⟨ang⟩ imong mga pagsaksi; tungod niini gitipig sa akong kalag ang mga ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "imong mga pagsaksi"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "gitipig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.752009599Z",
+  "model": "glm-5.3"
+}

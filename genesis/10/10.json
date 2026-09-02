@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang sinugdanan sa iyang gingharian mao ang Bavel, ug Erekh, ug Akhad, ug Kalneh, sa yuta sa Shinhar.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mao"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Ang sinugdanan"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "sa iyang gingharian"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ug Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "ug Akhad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ug Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "sa Shinhar"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:03.761728607Z",
+  "model": "glm-5.3"
+}

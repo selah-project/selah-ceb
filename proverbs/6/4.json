@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ayaw paghatag sa tulog sa imong mga mata, ni sa kahinayhon sa imong mga talulot sa mata,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "sa tulog"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ni sa kahinayhon"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "sa imong mga talulot sa mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:38.084727249Z",
+  "model": "glm-5.3"
+}

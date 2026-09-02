@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Usa ka awit, usa ka mizmór, alang sa mga anak ni Korach, alang sa mangunguna, mahitungod sa Machalat Leannoth, usa ka maskil ni Heman nga Ezrahite.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Usa ka awit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmór"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "alang sa mangunguna"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "usa ka maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ni Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "nga Ezrahite"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.448155550Z",
+  "model": "glm-5.3"
+}

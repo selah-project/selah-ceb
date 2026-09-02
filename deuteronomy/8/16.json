@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "nga nagpakaon kanimo ug man didto sa kamingawan, nga wala mahibaloan sa imong mga amahan — aron pagpaubos kanimo, ug aron pagtilaw kanimo, sa pagbuhat ug maayo kanimo sa imong kataposan",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "nga nagpakaon kanimo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ug man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "didto sa kamingawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "mahibaloan"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "sa imong mga amahan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "pagpaubos kanimo"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ug aron"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "pagtilaw kanimo"
+    },
+    {
+      "surface": "لהיטבך",
+      "gloss": "sa pagbuhat ug maayo kanimo"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "sa imong kataposan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:59.022961573Z",
+  "model": "glm-5.3"
+}

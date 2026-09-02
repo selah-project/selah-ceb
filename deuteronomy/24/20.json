@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kon mupalok ka sa imong mga olibo, ayaw ug pagsulay pagkahuman nimo: alang sa dayo, sa ilo, ug sa biyuda kini mahimong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "mupalok ka"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "sa imong mga olibo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "ugs pagsulay"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "pagkahuman nimo"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "alang sa dayo"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "sa ilo"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ug sa biyuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini mahimong"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:38.169206653Z",
+  "model": "glm-5.3"
+}

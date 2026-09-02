@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ⟨את⟩ ang duha ka kidney, ug ⟨את⟩ ang tambok nga anaa kanila, nga anaa sa hawak, ug ⟨את⟩ ang bahin sa atay nga nabawi — uban sa kidney kuhaon niya kini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka kidney"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "anaa kanila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "anaa sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "hawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang bahin sa atay"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang bahin sa atay nga nabawi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidney"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "kuhaon niya kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:42.335539097Z",
+  "model": "glm-5.3"
+}

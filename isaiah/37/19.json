@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug gitunol nila ⟨את⟩ ang mga dios ngadto sa kalayo, kay dili kini mga dios kondili buhat sa mga kamot sa tawo, kahoy ug bato — busa gipamatay nila kini.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "gitunol nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dios"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ang mga dios"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngadto sa kalayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga dios"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kondili"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa mga kamot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ug bato"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "gipamatay nila kini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:25.048635901Z",
+  "model": "glm-5.3"
+}

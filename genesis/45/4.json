@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug si Yosef miingon sa iyang mga igsoon: Dukol kamo palihug ngari kanako. Ug midukol sila, ug miingon siya: Ako si Yosef, inyong igsoon, nga among gibaligya ⟨את⟩ ako ngadto sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang mga igsoon"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Dukol kamo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "palihug"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Ug midukol sila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "inyong igsoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "among gibaligya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ako",
+      "marks": "ako"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ngadto sa Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:02.863128907Z",
+  "model": "glm-5.3"
+}

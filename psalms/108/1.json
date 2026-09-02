@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Usa ka awit, usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "awit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:11.803586550Z",
+  "model": "glm-5.3"
+}

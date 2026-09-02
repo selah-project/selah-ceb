@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug napig-a ang kasingkasing ni Paro, ug wala niya pagpagula ⟨את⟩ ⟨ang mga⟩ anak nga lalaki ni Yisrael, sumala sa gisulti ni Yahweh pinaagi sa kamot ni Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "ug napig-a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "niya pagpagula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ang mga⟩ anak nga lalaki ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨ang mga⟩ anak nga lalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "paagi sa kamot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:18.635821348Z",
+  "model": "glm-5.3"
+}

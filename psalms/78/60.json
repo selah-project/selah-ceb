@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Gipasagdan niya ang puloy-anan sa Shilo, ang tolda nga iyang gipuy-an taliwala sa ⟨mga⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "gipasagdan niya"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ang puloy-anan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "sa Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ang tolda"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "gipuy-an"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "taliwala sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:18.145708392Z",
+  "model": "glm-5.3"
+}

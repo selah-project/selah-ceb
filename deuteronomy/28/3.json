@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Gipanalanginan ikaw sa ⟨dakbayan⟩, ug gipanalanginan ikaw sa ⟨uma⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Gipanalanginan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ug gipanalanginan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:45.256924219Z",
+  "model": "glm-5.3"
+}

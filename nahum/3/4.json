@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 3:4",
+  "book": "nahum",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Tungod sa kadaghan sa pagpanapal sa puta, Matahum nga grasya, Agalon sa mga panghudya, nga nagabaligya sa mga nasod pinaagi sa iyang pagpanapal, ug sa mga banay pinaagi sa iyang mga panghudya.",
+  "tokens": [
+    {
+      "surface": "מרב",
+      "gloss": "Tungod sa kadaghan"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "pagpanapal"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "puta"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "Matahum"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasya"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Agalon"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "mga panghudya"
+    },
+    {
+      "surface": "המכרת",
+      "gloss": "nagabaligya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "בזנוניה",
+      "gloss": "paagi sa iyang pagpanapal"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ug sa mga banay"
+    },
+    {
+      "surface": "בכשפיה",
+      "gloss": "paagi sa iyang mga panghudya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:10.965376654Z",
+  "model": "glm-5.3"
+}

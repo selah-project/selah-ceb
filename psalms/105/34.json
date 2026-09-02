@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nagsulti siya ug miabot ang balang ug ang uod-balang, ug walay ihap.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nagsulti siya"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ang balang"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "ug ang uod-balang"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:09.938369125Z",
+  "model": "glm-5.3"
+}

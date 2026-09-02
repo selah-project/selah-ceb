@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 13:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug misinggit siya batok sa halaran pinaagi sa pulong ni Yahweh, ug miingon: Halaran, halaran, kini ang giingon ni Yahweh: Ania karon, usa ka anak nga lalaki matawo sa balay ni David, si Yoshiyahu ang iyang ngalan, ug magatampo siya kanimo ⟨את⟩ ang mga saserdote sa mga santuwaryo sa kahitas-an nga nagaaláy sa imong atubangan, ug mga bukog sa tawo pagasunugon kanimo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ug misinggit siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "pinaagi sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kini ang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "matawo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "si Yoshiyahu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "ug magatampo siya"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga saserdote sa mga santuwaryo sa kahitas-an"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "sa mga santuwaryo sa kahitas-an"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "nga nagaaláy"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "ועצמות",
+      "gloss": "ug mga bukog"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "pagasunugon"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:44.194255421Z",
+  "model": "glm-5.3"
+}

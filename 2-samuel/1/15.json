@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Davíd mitawag sa usa sa mga batan-on ug miingon: Duol, patya siya. Ug gitama siya niini, ug siya namatay.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mitawag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si Davíd"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "sa usa"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "sa mga batan-on"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Duol"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "patya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "gitama siya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:27:41.349847892Z",
+  "model": "glm-5.3"
+}

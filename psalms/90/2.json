@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Sa wala pa ipakatawo ⟨ang mga⟩ bukid, ug sa wala pa imong gibuhat ⟨ang⟩ yuta ug ⟨ang⟩ kalibotan, gikan sa kahangtud ngadto sa kahangtud, ikaw ⟨ang⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Sa wala pa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ang mga bukid"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ipakatawo"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "ug sa wala pa imong gibuhat"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "kalibotan"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "gikan sa kahangtud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:11.686770655Z",
+  "model": "glm-5.3"
+}

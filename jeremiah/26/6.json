@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "ug ihatoon ko ang ⟨את⟩ kining balay nga ingon sa Shiloh, ug ⟨את⟩ kining dakbayan ihatag ko nga tunga sa tunglo alang sa tanan nga mga nasud sa yuta.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihaton ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "ingon sa Shiloh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kining dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ihatag ko"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "nga tunga sa tunglo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:22:29.006650266Z",
+  "model": "glm-5.3"
+}

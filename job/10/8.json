@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang imong mga kamot nag-obra kanako ug nagbuhat kanako nga tibuok sa paliboton, apan imong akong gidalam-on?",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "ang imong mga kamot"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "nag-obra kanako"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "ug nagbuhat kanako"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "nga tibuok"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa paliboton"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "apan imong akong gidalam-on"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:58.543334628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Ang kahiladman ingon nga bisti imong giltaban ⟨kaniya⟩; sa ibabaw sa mga bukid nagtindog ang mga tubig.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Ang kahiladman"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "ingon nga bisti"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "imong giltaban"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang mga tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:17.230378559Z",
+  "model": "glm-5.3"
+}

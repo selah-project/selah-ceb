@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ayaw pagbuhong sa baba sa baka samtang naglunas kini ⟨sa iyang humay⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "pagbuhong sa baba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "samtang naglunas kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:09.124191723Z",
+  "model": "glm-5.3"
+}

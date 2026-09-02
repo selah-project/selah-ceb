@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Gikan niini nga mga, mamuno sa pagbuhat sa balay ni Yahweh ang kaluhaan ug upat ka libo, ug mga magbubuhat-ug-mgaopisina ug mga maghuhukom ang unom ka libo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Gikan niini nga mga"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mamuno"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "pagbuhat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ug upat"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ka libo"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "mga magbubuhat-ug-mgaopisina"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "mga maghuhukom"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "unom"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ka libo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:47.925326016Z",
+  "model": "glm-5.3"
+}

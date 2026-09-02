@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang dalaga matahum kaayo ⟨ug⟩, ug nahimo siyang tagatagaan sa hari, ug nag-alagad siya kaniya, apan wala siya makaila ⟨kaniya⟩ ⟨sa atol sa pagtiayop⟩.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Ug ang dalaga"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "matahum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "nahimo siya"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "tagatagaan"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "nag-alagad siya kaniya"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "apan ang hari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "makaila kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:40.374053224Z",
+  "model": "glm-5.3"
+}

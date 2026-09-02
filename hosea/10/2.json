@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Nabahin ang ilang kasingkasing; karon sila magasala; siya magpangaslug sa ilang mga altar, maglaglag sa ilang mga haligi.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "nabahin"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ilang kasingkasing"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "magasala sila"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "magpangaslug"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "sa ilang mga altar"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "maglaglag"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "sa ilang mga haligi"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:40.206681105Z",
+  "model": "glm-5.3"
+}

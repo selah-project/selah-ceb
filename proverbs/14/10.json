@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ang kasingkasing nakaila sa kapait sa iyang kaugalingong kinabuhi; ug sa iyang kalipay ang layo dili makasapot.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "kapait"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "iyang kinabuhi"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "ug sa iyang kalipay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "makasapot"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ang layo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:07.842528371Z",
+  "model": "glm-5.3"
+}

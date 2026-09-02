@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Nagpalundag-lundag ang akong kasingkasing; nabiyaan ako sa akong kusog, ug ang kahayag sa akong mga mata — sila usab, ⟨ang⟩ wala na ⟨uban⟩ kanako.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "nagpalundag-lundag"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "nabiyaan ako"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "sa akong kusog"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ug ang kahayag"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mga mata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ uban kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:53.841177302Z",
+  "model": "glm-5.3"
+}

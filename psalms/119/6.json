@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Unya dili ako mahimong maulaw sa pagtan-aw sa tanan nimong mga sugo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Unya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "maulaw ako"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "nimong mga sugo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.628864150Z",
+  "model": "glm-5.3"
+}

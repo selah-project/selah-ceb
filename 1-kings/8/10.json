@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nahitabo, sa paggawas sa mga saserdote gikan sa ⟨ang⟩ balaan nga dapit, nga ang panganod napuno ⟨את⟩ sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "sa paggawas"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨ang⟩ balaan nga dapit"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "nga ang panganod"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "napuno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balay ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:37.232214824Z",
+  "model": "glm-5.3"
+}

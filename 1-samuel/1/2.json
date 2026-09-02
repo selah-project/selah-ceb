@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug siya adunay duha ka asawa; ang ngalan sa usa ⟨si⟩ Hana, ug ang ngalan sa ikaduha ⟨si⟩ Penina; ug adunay mga anak si Penina, apan kang Hana wala ⟨kay⟩ mga anak.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "ug siya adunay"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan sa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan sa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug adunay"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "kang Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "apan kang Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "mga anak"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:42.836162267Z",
+  "model": "glm-5.3"
+}

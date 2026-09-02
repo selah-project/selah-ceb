@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 4:33",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ipatong niya ⟨את⟩ ang iyang kamot sa ulo sa halad alang sa sala, ug ihalad niya ⟨את⟩ kaniya ingon nga halad sa sala, sa dapit diin gihawak ang ⟨את⟩ halad nga sinunog.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "Ug ipatong niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sa halad alang sa sala"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ug ihalad (ihawak) niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya (ang halad sa sala)"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ingon nga halad sa sala"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "gihawak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad nga sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang halad nga sinunog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:17.165534291Z",
+  "model": "glm-5.3"
+}

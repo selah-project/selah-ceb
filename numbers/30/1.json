@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug gisultihan ni Moshe ⟨ang⟩ mga anak ni Yisrael sumala sa tanan nga gisugo ni Yahweh ⟨את⟩ kang Moshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug gisultihan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kang Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:23.585975713Z",
+  "model": "glm-5.3"
+}

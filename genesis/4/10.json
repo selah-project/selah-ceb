@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug miingon ⟨siya⟩: Unsa ang imong gibuhat? Ang tingog sa dugo sa imong igsoon nangaliya ngari kanako gikan sa yuta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang imong gibuhat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sa imong igsoon"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "nangaliya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:14.219631091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gihatag ni Elohim ⟨את⟩ si Daniyel alang sa hesed (kaloy) ug alang sa mga kaluoy atubang sa pangulo sa mga kasadlan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Gihatag"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Daniyel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "si Daniyel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "alang sa hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "ug alang sa mga kaluoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang sa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sa mga kasadlan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:54:46.579671746Z",
+  "model": "glm-5.3"
+}

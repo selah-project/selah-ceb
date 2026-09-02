@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ⟨את⟩ panit sa baka, ug ⟨את⟩ ang tanan niyang unod, kauban ang iyang ulo ug ang iyang mga tiil, ug ang iyang mga sulod sulod ug ang iyang tae.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panit sa baka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niyang unod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "niyang unod"
+    },
+    {
+      "surface": "על",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ang iyang ulo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug kauban"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "ang iyang mga tiil"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ug ang iyang mga sulod sulod"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ug ang iyang tae"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:07.865815478Z",
+  "model": "glm-5.3"
+}

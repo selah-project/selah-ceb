@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Si Yahweh magabantay kanimo gikan sa tanang kadaot, magabantay siya ⟨את⟩ sa imong kalag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "magabantay kanimo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "magabantay siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong kalag"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.299039059Z",
+  "model": "glm-5.3"
+}

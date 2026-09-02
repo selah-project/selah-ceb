@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Sa mga nataran sa balay ni Yahweh, sa taliwala mo, Yerushalayim. Pagdayeg kamo kang Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "sa mga nataran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sa taliwala mo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:56.616077065Z",
+  "model": "glm-5.3"
+}

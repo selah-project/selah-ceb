@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 8:2",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gigahum niya ⟨את⟩ ang Moab ug gisukod niya sila sa pisi, nga nagpahigda kanila ngadto sa yuta; ug gisukod niya duha ka pisi aron pagpatay, ug ang bug-os nga pisi aron pagpabuhi; ug nahimo ang Moab nga mga alagad ni David, magdala ug tributo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gigahum niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וימדדם",
+      "gloss": "gisukod niya sila"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "sa pisi"
+    },
+    {
+      "surface": "השכב",
+      "gloss": "sa pagpahigda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "וימדד",
+      "gloss": "ug gisukod niya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha"
+    },
+    {
+      "surface": "חבלים",
+      "gloss": "ka pisi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "aron pagpatay"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ug ang bug-os"
+    },
+    {
+      "surface": "החבל",
+      "gloss": "nga pisi"
+    },
+    {
+      "surface": "להחיות",
+      "gloss": "aron pagpabuhi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ug nahimo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "nga mga alagad"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ug tributo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:53.252466114Z",
+  "model": "glm-5.3"
+}

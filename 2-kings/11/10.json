@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gihatag sa pari sa mga kapitan sa gatos ⟨את⟩ ang bangkaw ug ⟨את⟩ ang mga tamboagan ni David nga hari, nga anaa sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa pari"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sa mga kapitan"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "sa gatos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bangkaw"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ang bangkaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga tamboagan"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ang mga tamboagan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:59.433917302Z",
+  "model": "glm-5.3"
+}

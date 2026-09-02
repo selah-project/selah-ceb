@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nagsulti ako kaninyo, apan wala kamo mamati; hinuon nagsukol kamo sa baba ni Yahweh, ug nagbuot kamo nga_mapsa, ug nangadto kamo sa bukid.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "nagsulti ako"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "kamo mamati"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "nagsukol kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa baba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "nagbuot nga_mapsa kamo"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "nangadto kamo"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:46.374241965Z",
+  "model": "glm-5.3"
+}

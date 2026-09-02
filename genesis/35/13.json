@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug nisaka si Elohim gikan kaniya, sa dapit diin siya nakigsulti ⟨את⟩ kaniya.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nisaka"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nakigsulti"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:26.515001432Z",
+  "model": "glm-5.3"
+}

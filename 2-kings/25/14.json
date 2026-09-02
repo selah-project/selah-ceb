@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug ⟨את⟩ ang mga kaldero, ug ⟨את⟩ ang mga pala, ug ⟨את⟩ ang mga gunting-sinsil, ug ⟨את⟩ ang mga kopa, ug ⟨את⟩ tanan nga mga sudlanan sa tumbaga nga diha sila nag-alagad, gikuha nila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kaldero"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "mga kaldero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pala"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "mga pala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga gunting-sinsil"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "mga gunting-sinsil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kopa"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "mga kopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "mga sudlanan"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "nag-alagad"
+    },
+    {
+      "surface": "בם",
+      "gloss": "diha sila"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "gikuha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:31.097429842Z",
+  "model": "glm-5.3"
+}

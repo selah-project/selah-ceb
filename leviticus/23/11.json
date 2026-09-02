@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug ilinga-ling niya ⟨את⟩ ang omer atubang ni Yahweh, aron madawat ⟨kini⟩ alang kaninyo; sa sunod adlaw sa Shabbat ilinga-ling kini sa saserdote.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "Ug ilinga-ling niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ang omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "aron madawat alang kaninyo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa sunod adlaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "sa Shabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "ilinga-ling kini"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa saserdote"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:56.552744232Z",
+  "model": "glm-5.3"
+}

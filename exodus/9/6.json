@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gibuhat ni Yahweh ⟨את⟩ ⟨ang⟩ pulong niini sa pagkahapon, ug namatay ang tanan nga kahayupan sa Mitsrayim; apan sa kahayupan sa mga anak ni Yisrael wala usab usa ka namatay.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong niini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa pagkahapon"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ug namatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "kahayupan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "apan sa kahayupan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:03.257602622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Si Yahweh mao ang kusog sa iyang katawhan ⟨ug⟩ ang dalangpan sa kaluwasan sa iyang Mesiyas (ang dinihogan).",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ila (katawhan)"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "ug dalangpan"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kaluwasan"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "iyang Mesiyas (ang dinihogan)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:35.458753227Z",
+  "model": "glm-5.3"
+}

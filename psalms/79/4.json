@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Nahimo ⟨kami⟩ nga kaulaw sa among mga silingan, nga kahiawan ug pagtamay sa mga nagapalibot kanamo.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "nahimo ⟨kami⟩"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "nga kaulaw"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "sa among mga silingan"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "nga kahiawan"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "ug pagtamay"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "sa mga nagapalibot kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:17.397601790Z",
+  "model": "glm-5.3"
+}

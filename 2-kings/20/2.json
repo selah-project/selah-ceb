@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Giyirot niya ⟨את⟩ ang iyang nawong padulong sa bongbong, ug nangadyi siya kang Yahweh, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ug giyirot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ang iyang nawong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "bongbong"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ug nangadyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:51.731754274Z",
+  "model": "glm-5.3"
+}

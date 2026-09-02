@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 124,
+  "translation": "Kon wala si Yahweh nga nagkanaa alang kanato, sa pagbangon sa mga tawo batok kanamo,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Kon wala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "nagkanaa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanato"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "sa pagbangon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "batok kanamo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:14.587350133Z",
+  "model": "glm-5.3"
+}

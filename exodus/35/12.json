@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "⟨את⟩ ang Aron ug ⟨את⟩ ang mga bad niini, ⟨את⟩ ang kapporet ug ⟨את⟩ ang parokhet sa masakh:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Aron"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ang Aron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga bad niini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ang mga bad niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kapporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ang kapporet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang parokhet"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ang parokhet"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sa masakh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:00.376598966Z",
+  "model": "glm-5.3"
+}

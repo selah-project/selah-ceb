@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Ang ilang kamate parehas sa kamate sa bitin, ingon sa bungol nga paslit nga nagasira sa iyang dalunggan.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "kamate"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "parehas sa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kamate"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bitin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "paslit"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "bungol"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "nagasira"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sa iyang dalunggan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.429051499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Nahibalo si Yahweh sa mga adlaw sa ⟨mga⟩ hingpit, ug ang ilang panulondon mahimong ⟨⟨sa⟩⟩ walay katapusan.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Nahibalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "ug ang ilang panulondon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahimong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:31.008705393Z",
+  "model": "glm-5.3"
+}

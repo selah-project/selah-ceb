@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ihimo ko ang bukid sa Seir nga ⟨⟨kadutan⟩⟩ ug kamingawan, ug putlon ko gikan niini ang moagi ug ang mobalik.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ug ihimo ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bukid sa Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "kadutan"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ug kamingawan"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ug putlon ko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan niini"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ang moagi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ug ang mobalik"
+    }
+  ],
+  "timestamp": "2026-09-01T21:44:27.476223996Z",
+  "model": "glm-5.3"
+}

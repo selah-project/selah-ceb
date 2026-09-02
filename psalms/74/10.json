@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Hangtod kanus-a, Elohim, magainsultar ang kaatig? Magatuya ang kaaway sa imong ngalan sa kahangtora?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hangtod"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kanus-a"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "magainsultar"
+    },
+    {
+      "surface": "צר",
+      "gloss": "kaatig"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "magatuya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "sa kahangtora"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:25.776723017Z",
+  "model": "glm-5.3"
+}

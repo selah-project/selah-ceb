@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 25:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Si Yahweh nagsulti kaniya: Duha ka mga goy ⟨ang⟩ anaa sa imong tiyan, ug duha ka mga leom magabahin gikan sa imong sulod; ug ang usa ka leom molig-on labaw sa usa ka leom, ug ang magulang mopaalagad sa manghod.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "גיים",
+      "gloss": "mga goy"
+    },
+    {
+      "surface": "בבטנך",
+      "gloss": "sa imong tiyan"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ug duha ka"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga leom"
+    },
+    {
+      "surface": "ממעיך",
+      "gloss": "gikan sa imong sulod"
+    },
+    {
+      "surface": "יפרדו",
+      "gloss": "magabahin"
+    },
+    {
+      "surface": "ולאם",
+      "gloss": "ug ang usa ka leom"
+    },
+    {
+      "surface": "מלאם",
+      "gloss": "sa usa ka leom"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "molig-on"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ug ang magulang"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "mopaalagad"
+    },
+    {
+      "surface": "צעיר",
+      "gloss": "sa manghod"
+    }
+  ],
+  "timestamp": "2026-09-01T23:30:48.100750893Z",
+  "model": "glm-5.3"
+}

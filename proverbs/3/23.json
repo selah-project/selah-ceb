@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Unya maglakaw ka nga walay kahadlok sa imong dalan, ug ang imong tiil dili mabangga.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "unya"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "maglakaw ka"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nga walay kahadlok"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sa imong dalan"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ug ang imong tiil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "mabangga"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:44.589639940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "ug sa pagdesinyo ug mga plano aron sa paghimo sa bulawan, ug sa salapi, ug sa tumbaga.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "ug sa pagdesinyo"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mga plano"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "aron sa paghimo"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "sa bulawan"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "ug sa salapi"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ug sa tumbaga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:53.018944174Z",
+  "model": "glm-5.3"
+}

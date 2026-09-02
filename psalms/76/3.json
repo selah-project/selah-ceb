@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": " ug sa Shalem ⟨ang⟩ iyang payag-payag, ug ang iyang puloy-anan sa Tsiyon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug ⟨si⟩ nahimutang"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "sa Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "⟨ang⟩ iyang payag-payag"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "ug ang iyang puloy-anan"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "sa Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:27.787969408Z",
+  "model": "glm-5.3"
+}

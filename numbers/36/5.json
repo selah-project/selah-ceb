@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ug gisugo ni Moshe ⟨את⟩ mga anak ni Yisrael sumala sa ganghaan ni Yahweh, nga nag-ingon: Husto ang gisulti sa tribo sa mga anak ni Yosef.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "gisugo ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Husto"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tribo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "gisulti"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:13.355414573Z",
+  "model": "glm-5.3"
+}

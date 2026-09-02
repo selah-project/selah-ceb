@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Ikaw ⟨ang⟩ El nga naghimo sa mga katingalahán; gipahibalo Nimo sa mga nasod ang imong gahum.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨ang⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "sa mga katingalahán"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "gipahibalo Nimo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ang imong gahum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.654882313Z",
+  "model": "glm-5.3"
+}

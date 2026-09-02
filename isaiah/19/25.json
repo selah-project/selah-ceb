@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang gipanalanginan ni Yahweh Tsevaot, nga nagaingon: Bulahan ang akong katawhan nga si Mitsrayim, ug ang buhat sa akong mga kamot nga si Ashur, ug ang akong kabilin nga si Yisrael.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ang (ginapakita)"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Bulahan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "si Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ug ang buhat"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "sa akong mga kamot"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "si Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ug ang akong kabilin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:24.581376347Z",
+  "model": "glm-5.3"
+}

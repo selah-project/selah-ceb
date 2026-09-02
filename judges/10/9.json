@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug mitabok ang mga anak ni Amon sa ⟨את⟩ Yarden aron makig-away usab sa Yehudah, ug sa Binyamin, ug sa balay ni Efrayim; ug naigo pag-kaayo ang Yisrael ⟨sa pagbagot⟩.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Ug mitabok"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "aron makig-away"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "ug sa Binyamin"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ug sa balay"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ni Efrayim"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "ug naigo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pag-kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:10:14.278705439Z",
+  "model": "glm-5.3"
+}

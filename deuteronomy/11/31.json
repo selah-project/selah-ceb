@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay kamo magatabok sa Yarden ⟨את⟩ aron mosulod sa pagpanag-iya ⟨את⟩ sa yuta nga ihatag sa Yahweh nga inyong Elohim kaninyo, ug panag-iyaon ninyo ⟨את⟩ kini ug puy-an ninyo kini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "magatabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "aron mosulod"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "sa pagpanag-iya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ug panag-iyaon ninyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang yuta)"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ug puy-an ninyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:34.131276250Z",
+  "model": "glm-5.3"
+}

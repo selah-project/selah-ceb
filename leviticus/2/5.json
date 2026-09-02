@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug kon ang imong mincha diha sa ⟨ang⟩ mahabat ⟨mao ang⟩ imong halad: pino nga harina nga hiniusa sa lana, way-lebadura nga tinapay ang mahimo ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha sa"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "mahabat"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "imong halad"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pino nga harina"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "hiniusa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "way-lebadura nga tinapay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ang mahimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.509355760Z",
+  "model": "glm-5.3"
+}

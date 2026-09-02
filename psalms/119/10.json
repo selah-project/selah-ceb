@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa tibuak kong kasingkasing gipangita ko ikaw; ayaw pagtugot nga matulyaw ako gikan sa imong mga kasugoan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuak"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kong kasingkasing"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "gipangita ko ikaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "pagtugot nga matulyaw ako"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "gikan sa imong mga kasugoan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:39.203597579Z",
+  "model": "glm-5.3"
+}

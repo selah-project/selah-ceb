@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Mao kana ang buhaton ko ngadto sa kining dapit, matud pa ni Yahweh, ug ngadto sa mga nagpuyo niini, ug sa paghatag ⟨את⟩ sa kining dakbayan ingon sa Tofet.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Mao kana"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ang buhaton ko"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ngadto sa dapit"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matud pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "ug ngadto sa mga nagpuyo niini"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ug sa paghatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kining dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kining"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ingon sa Tofet"
+    }
+  ],
+  "timestamp": "2026-09-01T21:20:42.856735841Z",
+  "model": "glm-5.3"
+}

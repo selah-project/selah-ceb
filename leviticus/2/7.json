@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug kon mincha sa martsehet ang imong halad, pino nga harina nga gihimo sa lana ang buhaton.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "martsehet"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "imong halad"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "pino nga harina"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ang buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.509718616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug migula ang hari nga si Yehoram sa Shomron nianang adlawa, ug gisusi niya ⟨את⟩ ang tibook nga Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ug migula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "nga si Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ug gisusi niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibook nga Yisrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "nga Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:37.154464697Z",
+  "model": "glm-5.3"
+}

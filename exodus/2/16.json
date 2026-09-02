@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang saserdote sa Midyan adunay pito ka anak nga babaye, ug sila miabot ug naggukod ⟨ug⟩ nagpuno sila ⟨את⟩ sa mga sungay sa pag-inom sa mga karnero sa ilang amahan.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "Ug ang saserdote"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sa Midyan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ka anak nga babaye"
+    },
+    {
+      "surface": "ויבאנה→ותבאנה",
+      "gloss": "ug sila miabot"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "ug naggukod"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "ug nagpuno sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga sungay"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "sa mga sungay"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "sa mga karnero"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "sa ilang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:24.488363626Z",
+  "model": "glm-5.3"
+}

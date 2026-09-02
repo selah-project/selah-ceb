@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Sa espada kamo matumba; sa utlanan sa Yisrael pagahukman ko ⟨את⟩kamo, ug makaila kamo nga ako si Yahweh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "kamo matumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "utlanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "pagahukman ko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ug makaila kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:35:08.009658279Z",
+  "model": "glm-5.3"
+}

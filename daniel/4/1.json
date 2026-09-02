@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ako, Nevukhadnetstsar, nagpahulay sa akong balay ug nagpamugo sa akong palasyo.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukhadnetstsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "nagpahulay"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "⟨naka-ayo ako⟩"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "sa akong balay"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "ug nagpamugo"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "sa akong palasyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:57:19.210307647Z",
+  "model": "glm-5.3"
+}

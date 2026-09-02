@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Gipadala nila ang kalayo sa imong santuwaryo; ngadto sa yuta gipahamutang nila ang pagkadili-matarong sa puloy-anan sa imong Ngalan.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "gipadala nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ang kalayo"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "sa imong santuwaryo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "gipahamutang nila ang pagkadili-matarong"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ang puloy-anan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.324354250Z",
+  "model": "glm-5.3"
+}

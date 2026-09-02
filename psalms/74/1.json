@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Maskil ni Asaf. Ngano, Elohim, nga imong gipakyas ⟨kanamo⟩ hangtod sa kahangturan? Nga nagapausok ang imong kasuko batok sa mga karnero sa imong sabsabanon?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "imong gipakyas"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "nagapausok"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ang imong kasuko"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "batok sa mga karnero"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "sa imong sabsabanon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:02.660629614Z",
+  "model": "glm-5.3"
+}

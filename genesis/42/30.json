@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Nagsulti ang tawo, ang agalon sa yuta, ⟨את⟩ kanamo ug mga lisud ⟨את⟩-kaniya, ug gitakdon niya ⟨את⟩ kami ingon nga mga espiya ⟨את⟩ sa yuta.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ang agalon sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kanamo"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "mga lisud"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gitakdon niya"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kami",
+      "marks": "kami"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "ingon nga mga espiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:24.281764134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 3:6",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miabot ang pulong ⟨ngadto kang⟩ hari sa Ninweh, ug mobangon siya gikan sa iyang trono, ug gikuha niya ang iyang balahibo nga bisti gikan sa ibabaw kaniya, ug gitabonan niya ang iyang kaugalingon ug sako, ug naug siya ⟨sa⟩ abo.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ngadto kang⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweh"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mobangon siya"
+    },
+    {
+      "surface": "מכסאו",
+      "gloss": "gikan sa iyang trono"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "gikuha niya"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "iyang balahibo nga bisti"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "gikan sa ibabaw kaniya"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "gitabonan niya"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sako"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "naug siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "abo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:57.558408944Z",
+  "model": "glm-5.3"
+}

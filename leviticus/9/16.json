@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug giduol niya ⟨את⟩ ang halad nga sinunog, ug gihimo niya kini sumala sa gitakda.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ug giduol niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halad nga sinunog"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ang halad nga sinunog"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "ug gihimo niya kini"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sumala sa gitakda"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:58.683859150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug miingon siya: Tawgi siya. Ug gitawag niya siya, ug siya nagtindog sa pultahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "tawgi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ug siya nagtindog"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "sa pultahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:11.410721151Z",
+  "model": "glm-5.3"
+}

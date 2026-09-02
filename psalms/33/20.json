@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ang among kalag naghulat kang Yahweh; ⟨siya⟩ ang among tabang ug ang among laming.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Ang among kalag"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "naghulat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ang among tabang"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "ug ang among laming"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:28.504789862Z",
+  "model": "glm-5.3"
+}

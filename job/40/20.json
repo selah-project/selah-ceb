@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Kay ang mga bunga sa mga bukid magadala alang kaniya, ug ang tanan nga mga mananap sa kapatagan magadula didto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בול",
+      "gloss": "mga bunga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa mga bukid"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mga mananap"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "magadula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:08.978853441Z",
+  "model": "glm-5.3"
+}

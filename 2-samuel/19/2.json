@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug gisugian si Yoav: Ania karon, ang hari naghilak ug nagsubo alang kang Avshalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ug gisugian"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "naghilak"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "ug nagsubo"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang kang"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:21.379813685Z",
+  "model": "glm-5.3"
+}

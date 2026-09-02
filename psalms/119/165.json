@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Dako nga kalinaw ⟨ang⟩ ⟨bataan⟩ niadtong nagahigugma sa imong Torah, ug wala sila’y makapatumba kanila.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "kalinaw"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "niadtong nagahigugma"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sa imong Torah"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "makapatumba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:55.609147843Z",
+  "model": "glm-5.3"
+}

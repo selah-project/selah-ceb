@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "ug imong madungog sa langit ang ilang pangamuyo ug ⟨את⟩ ang ilang pagpangabaos, ug imong himoon ang ilang hustisya",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "ug imong madungog"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pangamuyo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ang ilang pangamuyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang pagpangabaos"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ang ilang pagpangabaos"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug imong himoon"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ang ilang hustisya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:36.818288177Z",
+  "model": "glm-5.3"
+}

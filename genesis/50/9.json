@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Ug nakauban kaniya ang mga kareta ug ang mga kabalyero, ug ang kampo ⟨ingon nga⟩ bug-at kaayo.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nakauban kaniya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨mga⟩"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "kareta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨mga⟩"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "kabalyero"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug ang"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bug-at"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:09.107919396Z",
+  "model": "glm-5.3"
+}

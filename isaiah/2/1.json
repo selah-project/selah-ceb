@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang pulong nga nakita ni Yeshayahu nga anak ni Amots mahitungod sa Yehudah ug Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ug Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:30.062271169Z",
+  "model": "glm-5.3"
+}

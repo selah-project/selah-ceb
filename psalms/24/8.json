@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Kinsa kini — ang hari sa himaya? Si Yahweh, gamhanan ug makugihon, si Yahweh nga makugihon sa pakiggubat.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "sa himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "gamhanan"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ug makugihon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "makugihon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa pakiggubat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.163171234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Ug gitawag niya ang kagutom ibabaw sa yuta, ang tibod sa tanang tinapay gik ug giputol niya.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ang kagutom"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tibod"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gik ug giputol niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:14.225345704Z",
+  "model": "glm-5.3"
+}

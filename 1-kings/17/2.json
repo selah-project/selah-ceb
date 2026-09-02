@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug miabot ang pulong ni Yahweh kaniya, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:53.635066909Z",
+  "model": "glm-5.3"
+}

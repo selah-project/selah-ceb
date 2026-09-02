@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug sa pagpanaug sa ⟨yawe⟩ sa kampo sa gabii, manaug ang manna ⟨ibabaw niini⟩.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "Ug sa pagpanaug"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "⟨yawe⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "sa gabii"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "manaug"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ang manna"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨ibabaw niini⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:50.584358303Z",
+  "model": "glm-5.3"
+}

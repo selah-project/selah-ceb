@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang saksi sa mga bakak dili mabuslot, ug ang mopahungit og mga bakak dili makalikay.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "sa mga bakak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "mabuslot"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ug ang mopahungit"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "og mga bakak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "makalikay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:50.399774787Z",
+  "model": "glm-5.3"
+}

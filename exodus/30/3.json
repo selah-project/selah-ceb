@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug imong tabonan ⟨את⟩ kini ug bulawan nga hinlo: ⟨את⟩ ang atop niini, ug ⟨את⟩ ang iyang mga bungbong sa palibot, ug ⟨את⟩ ang iyang mga sungay; ug imong buhaton alang niini ug korona nga bulawan sa palibot.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "ug imong tabonan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang halaran)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "nga hinlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang atop niini"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "ang atop niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga bungbong"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ang iyang mga bungbong"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga sungay"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ang iyang mga sungay"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug imong buhaton"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang niini"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa palibot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:14.486982931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Pag-ampo ni Moshe, tawo sa Elohim. Adonay, ikaw ang among puloy-anan ⟨kada⟩ henerasyon ug henerasyon.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Pag-ampo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "puloy-anan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ang (kaniya)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "among"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "kada henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug henerasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:11.686533734Z",
+  "model": "glm-5.3"
+}

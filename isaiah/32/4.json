@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug ang kasingkasing sa mga padali-on makasabot sa pag-ilalom, ug ang dila sa mga panultol magadali sa pagsulti nga tin-aw.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "ug ang kasingkasing"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "sa mga padali-on"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "makasabot"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pag-ilalom"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ug ang dila"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "sa mga panultol"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "magadali"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "nga tin-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T21:03:04.515190092Z",
+  "model": "glm-5.3"
+}

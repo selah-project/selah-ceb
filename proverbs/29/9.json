@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ang tawo nga maalam nagatuki-tuki ⟨את⟩ ang tawo nga buang — maglagot ⟨o⟩ magkatawa — ug walay kapahuway.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nga maalam"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "nagatuki-tuki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tawo nga buang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "nga buang"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "maglagot"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "magkatawa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kapahuway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:13.142654136Z",
+  "model": "glm-5.3"
+}

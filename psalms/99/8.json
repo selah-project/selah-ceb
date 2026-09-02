@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 99,
+  "translation": "Yahweh nga atong Elohim, Kimo ang mitubag kanila; El nga nagpasaylo, Kimo kanila, bisan og nagpanimaltos Kimo bahin sa ilang mga buhat.",
+  "tokens": [
+    {
+      "surface": "יהה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga atong Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Kimo"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "ang mitubag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nga nagpasaylo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Kimo (nagkadungog)"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "bisan og nagpanimaltos"
+    },
+    {
+      "surface": "על",
+      "gloss": "bahin sa"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ilang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:28.012308282Z",
+  "model": "glm-5.3"
+}

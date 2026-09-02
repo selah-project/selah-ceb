@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Sa manguna sa koral. Pinulongan ni David. Kang Yahweh ako nagdulog; ngano nga ingnan ninyo ang akong kalag: Molayas, ⟨sama sa⟩ langgam, ngadto sa inyong bukid?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa manguna sa koral"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Pinulongan ni David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Kang Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nagdulog"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ingnan ninyo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ang akong kalag"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Molayas"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ngadto sa inyong bukid"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "langgam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:31.345924510Z",
+  "model": "glm-5.3"
+}

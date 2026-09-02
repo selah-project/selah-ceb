@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Pagdayegahin ninyo siya, adlaw ug bulan; pagdayegahin ninyo siya, tanan ⟨nga⟩ mga bituon sa kahayag.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahin ninyo siya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ug bulan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahin ninyo siya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "mga bituon"
+    },
+    {
+      "surface": "אור",
+      "gloss": "sa kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.025715942Z",
+  "model": "glm-5.3"
+}

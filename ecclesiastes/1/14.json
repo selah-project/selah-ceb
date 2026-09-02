@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nakita ko ⟨את⟩ tanan nga mga buhat nga gibuhat sa ilalom sa adlaw, ug ania karon, ang tanan hebel ug pagkasubo sa gininhawa.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "mga buhat"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "nga gibuhat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ug pagkasubo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa gininhawa"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:00.306951784Z",
+  "model": "glm-5.3"
+}

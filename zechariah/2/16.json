@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug manunuran ni Yahweh ⟨את⟩ si Yehudah ingon nga iyang bahin sa balaan nga yuta, ug mopili pag-usab siya sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "ug manunuran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "si Yehudah"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "iyang bahin"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ug mopili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pag-usab"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:03.536676594Z",
+  "model": "glm-5.3"
+}

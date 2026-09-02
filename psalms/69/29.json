@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Papason sila gikan sa libro sa mga buhi, ug uban sa mga matarong dili sila isulat.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "Papason sila"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mga buhi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug uban sa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "sila isulat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:45.765273178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Mizmor ni David. Yahweh, kinsa ang mopanaw sa imong tolda? Kinsa ang mopuyo sa imong balaang bukid?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "mopanaw"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "sa imong tolda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "mopuyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "imo nga balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:20.943407314Z",
+  "model": "glm-5.3"
+}

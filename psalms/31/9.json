@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug wala nimo ako ikasilag ngadto sa kamot sa kaaway; gipatindog nimo ang akong mga tiil sa ⟨usa ka⟩ halapad nga dapit.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "imo ako ikasilag"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sa kaaway"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "gipatindog nimo"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "sa halapad nga dapit"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:22.897283443Z",
+  "model": "glm-5.3"
+}

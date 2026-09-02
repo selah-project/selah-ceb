@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug Reayah nga anak ni Shoval natawo ⟨את⟩ kang Yakhat, ug si Yakhat natawo ⟨את⟩ kang Akhumai ug ⟨את⟩ kang Lahad — kini ang mga pamilya sa Tsearati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Ug Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ni Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yakhat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yakhat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ug si Yakhat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Akhumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mga pamilya"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "sa Tsearati"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:46.759534227Z",
+  "model": "glm-5.3"
+}

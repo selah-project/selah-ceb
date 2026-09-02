@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Sa akong pagdawat sa taknang gitakda, ako ang magahukom sa matarong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sa (akong pagdawat)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "magadawat ako"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taknang gitakda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "magahukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:50.222757801Z",
+  "model": "glm-5.3"
+}

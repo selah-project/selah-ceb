@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Haduol ⟨siya⟩ nga nagapatinarong kanako; kinsa ang makiglalis ⟨את⟩ kanako? Tagbarug kita tanan; kinsa ang tag-iya sa akong pagtulon-an? Duol siya ngari kanako.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Haduol"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "nagapatinarong kanako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ang makiglalis"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kanako",
+      "marks": "kanako"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "Tagbarug kita"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ang tag-iya"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sa akong pagtulon-an"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "Duol siya ngari"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:18.931448963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Nga ang among mga anak ⟨sama sa⟩ mga tanom nga natubo sa ilang pagkatanod, ang among mga anak nga babaye ⟨sama sa⟩ mga tikod nga tinigbas, pahulad sa palasyo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ang among mga anak"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "⟨sama sa⟩ mga tanom"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "nga natubo"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "sa ilang pagkatanod"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ang among mga anak nga babaye"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "⟨sama sa⟩ mga tikod"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "nga tinigbas"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "pahulad"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "sa palasyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:58.386734147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Ingon sa damgo sa pagmata gikan sa pagkatulog, Adonay, sa imong pagbangon imong pagakahumogon ilang hulagway.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Ingon sa damgo"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "sa pagmata gikan sa pagkatulog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa imong pagbangon"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ilang hulagway"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "imong pagakahumogon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:11.087445552Z",
+  "model": "glm-5.3"
+}

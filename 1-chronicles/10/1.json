@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "UG ang mga Peleshti nakiggubat batok sa Yisrael, ug ang mga tawo sa Yisrael mikalagiw gikan sa atubangan sa mga Peleshti, ug nakapatay ⟨mga⟩ nagkahulog nga mga samok sa bukid sa Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ug ang mga Peleshti"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok sa Yisrael"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ug mikalagiw"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Peleshti"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ug nagkahulog"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "mga samok"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "sa Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-01T23:14:09.414701121Z",
+  "model": "glm-5.3"
+}

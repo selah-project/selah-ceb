@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Tungod sa imong kasuko ug sa imong kasilag, kay imong gipataas ako ug gisalikway mo ako.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "imong kasuko"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "ug sa imong kasilag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "imong gipataas ako"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ug gisalikway mo ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:58.928655052Z",
+  "model": "glm-5.3"
+}

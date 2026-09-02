@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Gibutang niya ang kamingawan ngadto sa linaw sa tubig, ug ang yuta nga uya ngadto sa mga tinubdan sa tubig.",
+  "tokens": [
+    {
+      "surface": "יים",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ang kamingawan"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ngadto sa linaw"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug ang yuta"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "nga uya"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ngadto sa mga tinubdan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:53.232032431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Pagpahunong kamo ug pag-ila nga ako mao ang Elohim: mapaanggon ako sa mga nasod, mapaanggon ako sa yuta.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Pagpahunong kamo"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "ug pag-ila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mapaanggon ako"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "mapaanggon ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:00.527059195Z",
+  "model": "glm-5.3"
+}

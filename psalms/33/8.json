@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Hadloki si Yahweh ang tibuok ⟨nga⟩ yuta; kaniya magakurog ang tanan nga pumoluyo sa tevel.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "hadloki"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יגוגרו",
+      "gloss": "magakurog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "pumoluyo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "sa tevel"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:17.748254452Z",
+  "model": "glm-5.3"
+}

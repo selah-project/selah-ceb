@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Mga pagpasiawda sa El anaa sa ilang tutunlanan, ug espading duha ka talab diha sa ilang kamot.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "mga pagpasiawda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "sa ilang tutunlanan"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ug espada"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "duha ka talab"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "sa ilang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.279634764Z",
+  "model": "glm-5.3"
+}

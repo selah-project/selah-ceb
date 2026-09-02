@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Ug ikaw wala mangtawag kanako, O Yaakov, kay ikaw nakapoy na kanako, O Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug wala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kanako"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ikaw wala mangtawag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "O Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ikaw nakapoy na"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "O Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:06.179393405Z",
+  "model": "glm-5.3"
+}

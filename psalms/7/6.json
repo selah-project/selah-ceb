@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Pasagdi ⟨nga⟩ mosunod sa pagdakop ang kaaway sa akong kalag, ug modagyop sa yuta ⟨ang⟩ akong kinabuhi, ug ang akong himaya sa abuhon pohonon ⟨niya⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "mosunod sa pagdakop"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "ושׂיג",
+      "gloss": "ug modakop"
+    },
+    {
+      "surface": "ורמס",
+      "gloss": "ug modagyop"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ang akong kinabuhi"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ug ang akong himaya"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa abuhon"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "pohonon ⟨niya⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:48.718560441Z",
+  "model": "glm-5.3"
+}

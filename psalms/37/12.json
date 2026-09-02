@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Nagpaningkamot ug lagda ang dautan batok sa matarong, ug nagatiktik ⟨siya⟩ ug ngipon batok kaniya.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "nagpaningkamot ug lagda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ang dautan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "batok sa matarong"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "ug nagatiktik ug ngipon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ang iyang mga ngipon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:46.665524745Z",
+  "model": "glm-5.3"
+}

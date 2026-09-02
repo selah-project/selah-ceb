@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Gipanghaydan na ang mga kusgan sa kasingkasing, natulog na ang ilang tulog, ug wala makaplagan sa ⟨tanang⟩ mga tawo sa kusog ang ilang mga kamot.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "Gipanghaydan na"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ang mga kusgan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "natulog na"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ang ilang tulog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨tanang⟩"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sa kusog"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ilang mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:43.939414727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang tanan nga madakpan hatakan sa bayd, ug ang tanan nga madakpan matumba sa espada.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga madakpan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "hatakan sa bayd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "nga madakpan"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa espada"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:36.234764308Z",
+  "model": "glm-5.3"
+}

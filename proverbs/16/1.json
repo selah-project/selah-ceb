@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Sa tawo ang mga kahikayan sa kasingkasing, apan gikan kang Yahweh ang tubag sa dila.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "ang mga kahikayan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "apan gikan kang Yahweh"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ang tubag"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "sa dila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:24.595997120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 118,
+  "translation": "Gisilotan ako sa grabe ni Yah, apan ngadto sa kamatayon wala niya ako ihatud.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "sa grabe"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "gisilotan ako"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "apan ngadto sa kamatayon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "niya ako ihatud"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:09.666582140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gikuha sa hari ⟨את⟩ iyang singsing-selyo gikan sa iyang kamot ug gihatag kini kang Haman, anak ni Medata, ang Agaginhon, ang kaaway sa mga Judeo.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Gikuha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa-hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang singsing-selyo"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "iyang-singsing-selyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan-sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang-kamot"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ug-gihatag-kini"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kang-Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ni-Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "ang-Agaginhon"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "ang-kaaway"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sa-mga-Judeo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:35.102764581Z",
+  "model": "glm-5.3"
+}

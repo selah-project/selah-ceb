@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Kong papatyon niya sila, gipangita nila siya, ug mobalik sila ug sayo nga mangita kang El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kong"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "papatyon niya sila"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "gipangita nila siya"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mobalik sila"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "sayo nga mangita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:27.011563376Z",
+  "model": "glm-5.3"
+}

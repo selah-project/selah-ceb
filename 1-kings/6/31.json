@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ ganghaan sa Debir gihimo niya nga mga pultahan sa kahoy sa olibo; ⟨ang⟩ ulohan ug ang mga haligi sa pultahan — ikalimang bahin ⟨sa bongbong⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ganghaan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "sa Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sa olibo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ulohan"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mga haligi sa pultahan"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "ikalimang bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:47.966590565Z",
+  "model": "glm-5.3"
+}

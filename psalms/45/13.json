@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug ang anak nga babaye sa Tsor ⟨uban⟩ sa handog; ang imong nawong pangabasul-on sa mga manggaranon sa katawhan.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Ug ang anak nga babaye"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sa Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "uban sa handog"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "pangabasul-on"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "sa mga manggaranon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:18.758593101Z",
+  "model": "glm-5.3"
+}

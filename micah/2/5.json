@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Busa ⟨ikaw⟩ walay magatukib ug pisi sa pagsoranti sa katiguman ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "magatukib"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ug pisi"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "sa pagsoranti"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katiguman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:48.899536709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug wala siya mangutana kang Yahweh; busa gipamatay siya niya, ug gibalhin ang ⟨את⟩ gingharian ngadto kang David, anak ni Yishai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mangutana"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "gipamatay siya niya"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "gbalhin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gingharian"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ang gingharian"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ngadto kang David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:22.273242433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug karon, Yahweh nga akong Elohim, ikaw nagpahari ⟨sa⟩ imong sulugon ⟨את⟩ sa puli ni David nga akong amahan, ug ako usa ka batan-ong gamay, wala ako makahibawo sa paggawas ug sa pagsulod.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga akong Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "nagpahari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong sulugoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa puli ni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "נער",
+      "gloss": "usa ka batan-on"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "gamay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ako makahibawo"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "sa paggawas"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ug sa pagsulod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:39.980247118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "ug ang utlanan ni Og, hari sa Bashan, ⟨gikan sa⟩ natibil nga mga Refaim, nga nagpuyo khAshtarot ug khEdrei;",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "ug ang utlanan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ni Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "gikan sa natibil"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "mga Refaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "nga nagpuyo"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "khAshtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "ug khEdrei"
+    }
+  ],
+  "timestamp": "2026-09-01T20:01:15.338200239Z",
+  "model": "glm-5.3"
+}

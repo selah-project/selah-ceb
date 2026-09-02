@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Busa nakiglalis ang katawhan kang Moshe, ug nanultian sila: Ihatag kanamo ang tubig aron moinom kami. Ug si Moshe miingon kanila: Ngano man nga nakiglalis kamo kanako? Ngano man nga gisulay ninyo ⟨את⟩ si Yahweh?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "nakiglalis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug nanultian sila"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "aron moinom kami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngano man"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "nga nakiglalis kamo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngano man"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "nga gisulay ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:22.879748574Z",
+  "model": "glm-5.3"
+}

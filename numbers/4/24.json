@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kini ang pag-alagad sa mga pamilya sa mga Gershoni: sa pag-alagad ug sa pagdala.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ang pag-alagad"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "sa mga pamilya"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "sa mga Gershoni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "ug sa pagdala"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:24.454969286Z",
+  "model": "glm-5.3"
+}

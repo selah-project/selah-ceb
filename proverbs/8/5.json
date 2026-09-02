@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Sabta kamo, mga ⟨yinadut-on⟩, ang kahibus-on ⟨sa paglilis⟩; ug kamo, mga hangol, sabta ang kasingkasing.",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "sabta kamo"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "mga yinadut-on"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "kahibus-on sa paglilis"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ug kamo, mga hangol"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "sabta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ang kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:11.217975926Z",
+  "model": "glm-5.3"
+}

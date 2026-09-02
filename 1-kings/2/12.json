@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Shelomoh nalingkod sa trono ni David nga iyang amahan, ug napalig-on kaayo ang iyang gingharian.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "ug si Shelomoh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nalingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trono"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iyang amahan"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ug napalig-on"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "iyang gingharian"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:59.105349868Z",
+  "model": "glm-5.3"
+}

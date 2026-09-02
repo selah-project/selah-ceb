@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gakpan ni Achiya ang bag-ong salmah nga anaa kaniya, ug gikapinan niya kini — napulog duha ka kapin.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ug gakpan"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ni Achiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ang salmah"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "bag-o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "anaa kaniya"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "ug gikapinan niya kini"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "duha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ka kapin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:22.071616662Z",
+  "model": "glm-5.3"
+}

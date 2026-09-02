@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Gisugdan sa ruah ni Yahweh pagpukaw kaniya ⟨sa⟩ mga higayon, sa kampo sa Dan, sa taliwala sa Tsorah ug sa EshTaol.",
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "gisugdan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "pagpukaw kaniya sa mga higayon"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "sa taliwala sa"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa taliwala sa"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "EshTaol"
+    }
+  ],
+  "timestamp": "2026-09-01T20:08:56.413446140Z",
+  "model": "glm-5.3"
+}

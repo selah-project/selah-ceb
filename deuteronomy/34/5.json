@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug namatay didto si Moshe, sulug-on ni Yahweh, sa yuta sa Moab, sumala sa gisulti ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sulug-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa gisulti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:05.208244691Z",
+  "model": "glm-5.3"
+}

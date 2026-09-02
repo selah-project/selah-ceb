@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Naglunang ang akong kasingkasing; kalisang nanghikawan ako; ⟨את⟩ ang kagabhion nga akong ginpahiangay gipahimutang ngadto sa pangkulba alang kanako.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "naglunang"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "kalisang"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "nanghikawan ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kagabhion nga akong ginpahiangay"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "kagabhion"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "nga akong ginpahiangay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gipahimutang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ngadto sa pangkulba"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:25.537370190Z",
+  "model": "glm-5.3"
+}

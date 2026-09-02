@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 44:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ang tanan nga naglaraw sa linilok nga diosdos, tohu silang tanan; ug ang ilang gitinguha dili gayod makinabang; ug ang ilang mga saksi sila kini — dili sila makakita ug dili sila makaila, aron sila makaulaw.",
+  "tokens": [
+    {
+      "surface": "יצרי",
+      "gloss": "naglaraw"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "linilok nga diosdos"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang tanan"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "וחמודיהם",
+      "gloss": "ang ilang gitinguha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "makinabang"
+    },
+    {
+      "surface": "ועדיהם",
+      "gloss": "ug ang ilang mga saksi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila kini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "makaulaw"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:57.681744821Z",
+  "model": "glm-5.3"
+}

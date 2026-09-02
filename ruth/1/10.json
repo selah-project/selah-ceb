@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug naggiingon sila kaniya: Kay kauban ⟨את⟩ kanimo mobalik kami ngadto sa imong katawhan.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Ug naggiingon sila"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo",
+      "marks": "kanimo"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "mobalik kami"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ngadto sa imong katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:54.438087625Z",
+  "model": "glm-5.3"
+}

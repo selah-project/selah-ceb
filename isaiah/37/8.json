@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Busa si Ravshakeh milarga na ug nakit-an niya si ⟨את⟩ ang hari sa Ashur nga nakiggubat batok sa Livnah, kay nadungog niya nga milarga na siya gikan sa Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "milarga na"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav(…)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "(…)shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ug nakit-an niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari sa Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livnah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadungog niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "milarga na siya"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "gikan sa Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:31.398844882Z",
+  "model": "glm-5.3"
+}

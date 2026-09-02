@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Sa ⟨dakong⟩ kabanalbanalan imo kining kaonon; ang tanan nga lalaki mokaon ⟨את⟩ niini; kabanalbanalan kini alang kanimo.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "sa kabanalbanalan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "⟨dakong⟩ kabanalbanalan"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "imo kining kaonon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nga lalaki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang kabanalbanalan)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kabanalbanalan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:38:11.790272332Z",
+  "model": "glm-5.3"
+}

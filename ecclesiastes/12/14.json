@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kay ang Elohim magadala ⟨את⟩ sa tanan buhat ngadto sa paghukom, ibabaw sa tanan nga tinago, kon maayo ug kon daotan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tanan buhat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngadto sa paghukom"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "nga tinago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "רע",
+      "gloss": "daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:37.838831777Z",
+  "model": "glm-5.3"
+}

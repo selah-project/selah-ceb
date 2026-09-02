@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang iyang toro nagapakadaghan ug dili mosalikway, ang iyang baka nagabuhi ug dili mawad-an.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "ang iyang toro"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagapakadaghan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "mosalikway"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "nagabuhi"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "ang iyang baka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "mawad-an"
+    }
+  ],
+  "timestamp": "2026-09-01T22:40:37.348076233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Hinaot mahuman ⟨na⟩ ang kadaotan sa ⟨mga⟩ daotan, ug ipatindog Mo ang matarong; ug ang tigsusi sa ⟨mga⟩ kasingkasing ug ⟨mga⟩ kidney ⟨mao ang⟩ Elohim nga matarong.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "Hinaot mahuman"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kadaotan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa ⟨mga⟩ daotan"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "ug ipatindog Mo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "ug ang tigsusi"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "sa ⟨mga⟩ kasingkasing"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "ug ⟨mga⟩ kidney"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "nga matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:58.960451256Z",
+  "model": "glm-5.3"
+}

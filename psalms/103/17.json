@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Ug ang hesed ni Yahweh ⟨gikan sa⟩ kaghan hangtod sa kaghan alang sa mga nagakalahad kaniya, ug ang iyang pagkamatarong alang sa mga anak sa mga anak.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "Ug ang hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "gikan sa kaghan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kaghan"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "mga nagakalahad kaniya"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ug ang iyang pagkamatarong"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "sa mga anak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:04.043944941Z",
+  "model": "glm-5.3"
+}

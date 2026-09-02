@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 125,
+  "translation": "Pagamaay, O Yahweh, sa mga maayong tawo, ug sa mga matinud-anon diha sa ilang mga kasingkasing.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Pagamaay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "O Yahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "sa mga maayong tawo"
+    },
+    {
+      "surface": "ו לישרים",
+      "gloss": "ug sa mga matinud-anon"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "diha sa ilang mga kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:15.390656920Z",
+  "model": "glm-5.3"
+}

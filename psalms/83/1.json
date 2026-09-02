@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Usa ka awit, usa ka mizmor ni Asaf.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "usa ka awit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ni Asaf"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:04.433227971Z",
+  "model": "glm-5.3"
+}

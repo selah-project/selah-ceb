@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gipahimutang nila ⟨את⟩ ang kahon ni Yahweh sa ibabaw sa karit, ug ⟨את⟩ ang kahon, ug ⟨את⟩ ang mga ginintuang ilaga, ug ⟨את⟩ ang mga hulagway sa ilang mga tumor.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "ug gipahimutang nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahon ni Yahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "karit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahon"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ang kahon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga ginintuang ilaga"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ang mga ilaga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nga gintinan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga hulagway"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ang mga hulagway"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "sa ilang mga tumor"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:01.790670030Z",
+  "model": "glm-5.3"
+}

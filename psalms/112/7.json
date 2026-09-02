@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Sa daotang balita dili siya mahadlok; natindog ang iyang kasingkasing, nga nagasalig kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "Sa balita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "mahadlok siya"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "natindog"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iyang kasingkasing"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:24.098679437Z",
+  "model": "glm-5.3"
+}

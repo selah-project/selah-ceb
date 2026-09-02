@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 148,
+  "translation": "Mga hari sa yuta ug ⟨ang⟩ tanang mga katawhan, mga principe ug ⟨ang⟩ tanang mga maghuhukom sa yuta:",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tanang"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mga katawhan"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "mga principe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug tanang"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "maghuhukom"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:44.587957462Z",
+  "model": "glm-5.3"
+}

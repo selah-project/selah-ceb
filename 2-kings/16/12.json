@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug miabot ang hari gikan sa Damashek, ug nakita sa hari ⟨את⟩ ang halaran, ug miduol ang hari sa halaran ug nagtungtong siya niini.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ug miabot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "gikan sa Damashek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ug miduol"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug nagtungtong"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:34.244877679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Kay wala sila magtuo diha kang Elohim, ni sa iyang kaluwas mosalig;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "sila magtuo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "diha kang Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "mosalig"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "sa iyang kaluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:57.018350136Z",
+  "model": "glm-5.3"
+}

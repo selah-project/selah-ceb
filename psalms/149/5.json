@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Magsadya sa kalipay ang mga hasid ⟨sa⟩ himaya, magsinggit sila sa kahagoan diha sa ibabaw sa ilang mga higdaanan.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "magsadya sa kalipay"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ang mga hasid"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "⟨sa⟩ himaya"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "magsinggit sila sa kahagoan"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha sa ibabaw sa"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ilang mga higdaanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.279431369Z",
+  "model": "glm-5.3"
+}

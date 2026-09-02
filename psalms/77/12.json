@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Hinumdomon ko ang mga buhat ni Yah; kay mahinumdum ako gikan sa karaan sa ⟨mga⟩ imong mga katingalahán.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Hinumdomon ko"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ni Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "mahinumdum ako"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "gikan sa karaan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "sa imong mga katingalahán"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:40.843852365Z",
+  "model": "glm-5.3"
+}

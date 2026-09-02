@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Nagkinabuhi si Ever upat ug katloan ka tuig, ug natawo siya ⟨את⟩ kang Peleg.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nagkinabuhi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "si Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ug katloan ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "natawo siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "kang Peleg"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:11.936145517Z",
+  "model": "glm-5.3"
+}

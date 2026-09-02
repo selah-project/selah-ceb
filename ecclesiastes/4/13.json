@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Maayo ang batang kabus ug maalam kaysa ⟨sa⟩ hari nga tigulang ug buang, nga wala makahibalo magpahinumdom ⟨sa iyang kaugalingon⟩ pa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "nga kabus"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ug maalam"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "kaysa hari"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "nga tigulang"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ug buang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "magpahinumdom"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:53.498091189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Nahimuot ka, Yahweh, sa imong yuta; gipabalik nimo ang pagkabihag ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "nahimuot ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "sa imong yuta"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "gipabalik nimo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:32.960606159Z",
+  "model": "glm-5.3"
+}

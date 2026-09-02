@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kay nakasulti ako: sa walay katapusan matukod ang hesed; ⟨sa⟩ mga langit imong pahimutangon ang imong pagkamatinud-anon diha kanila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nakasulti ako"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa walay katapusan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ang hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "matukod"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "imong pahimutangon"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imong pagkamatinud-anon"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "diha kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:13.841596329Z",
+  "model": "glm-5.3"
+}

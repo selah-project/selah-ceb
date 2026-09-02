@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Si Yahweh, ang inyong Elohim, nagpadaghan na ⟨sa⟩ inyong tanan, ug ania kamo karon ingon nga mga bitoon sa kalangitan kadaghan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nagpadaghan na"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "inyong tanan"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ug ania kamo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karong adlawa"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ingon nga mga bitoon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kadaghan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:45:12.581993830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Pinaagi sa kahuyang moagtang ang atop, ug pinaagi sa kahuyang sa mga kamot mogawas ang balay.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "pinaagi sa kahuyang"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "moagtang"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ang atop"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ug pinaagi sa kahuyang"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "sa mga kamot"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "mogawas (mogawas ang tubig)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:46.072922183Z",
+  "model": "glm-5.3"
+}

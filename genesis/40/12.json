@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug si Yosef miingon kaniya: Kini ⟨ang⟩ kahulugan niini: ang tulo ka sanga — tulo ka adlaw kini ⟨ang mga⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "kahulugan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ang tulo ka"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tulo ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:43.701068439Z",
+  "model": "glm-5.3"
+}

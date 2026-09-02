@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 147,
+  "translation": "Kay gipalig-on niya ang mga barahan sa imong mga ganghaan; gipanalangin niya ang imong mga anak ⟨sa⟩ imong taliwala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "gipalig-on"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "ang mga barahan"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "sa imong mga ganghaan"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gipanalangin"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang imong mga anak"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "⟨sa⟩ imong taliwala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.429626808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug pagpasagdan nila sila sa pagdala sa ⟨את⟩ sala sa pagkasalaway, sa ilang pagkaon ⟨את⟩ sa ilang mga balaang butang; kay ako si Yahweh nagabalaan kanila.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "Ug pagpasagdan nila sila sa pagdala"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "sala"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sala"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "sa pagkasalaway"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "sa ilang pagkaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga balaang butang"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "sa ilang mga balaang butang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "nagabalaan kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:55.714576624Z",
+  "model": "glm-5.3"
+}

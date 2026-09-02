@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gipatindog ni Shelomoh ⟨את⟩ ang Gezer ug ⟨את⟩ ang Beit-Khoron nga ubos.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ug gipatindog"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Beit-Khoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Khoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "nga ubos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:32.018396326Z",
+  "model": "glm-5.3"
+}

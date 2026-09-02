@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug ihahalad-oil-dihogan ⟨את⟩ ang halaran sa halad-ngadto-sa-kalayo ug ⟨את⟩ ang tanan nga mga kagamitan niini, ug ipahinungod ⟨את⟩ ang halaran; ug ang halaran mahimong labing balaan nga balaan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ug idihogan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa halad-ngadto-sa-kalayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga mga kagamitan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan niini"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ug ipahinungod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang halaran"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ang halaran"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "labing balaan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:55.320423504Z",
+  "model": "glm-5.3"
+}

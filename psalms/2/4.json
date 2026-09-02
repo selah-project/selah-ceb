@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang nagalingkod sa ⟨mga⟩ langit magatawa; si Adonay magatuk-ol kanila.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Ang nagalingkod"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "magatawa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "magatuk-ol"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.441604187Z",
+  "model": "glm-5.3"
+}

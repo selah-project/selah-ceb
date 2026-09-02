@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug nanaug si Yahweh sa bukid Sinai, ngadto sa tumoy sa bukid; ug gitawag ni Yahweh si Moshe ngadto sa tumoy sa bukid, ug misaka si Moshe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Ug nanaug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tumoy"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "tumoy"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:26.372271364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug usa ka kaungan sa mga mazot (tinapay nga walay lebadura): semolah nga mga halot nga gisagol sa lana, ug mga rakik nga mazot nga gipahid sa lana, ug ang ilang mincha (halad nga harina) ug ang ilang mga nesech (halad nga ilimnon).",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "Ug usa ka kaungan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "sa mga mazot"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "semolah (pinong harina)"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "mga halot"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "nga gisagol"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "ug mga rakik"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nga mazot"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "nga gipahid (gipahid og lana)"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "sa lana"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "ug ang ilang mincha"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "ug ang ilang mga nesech"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:56.008145922Z",
+  "model": "glm-5.3"
+}

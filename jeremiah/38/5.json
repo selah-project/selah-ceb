@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug miingon si Tsidkiyahu nga hari: Ania karon, ⟨siya⟩ anaa sa inyong kamot, kay ang hari dili makabatok kaninyo bisan unsa nga buta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "sa inyong kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "dili"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "makabatok"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kaninyo bisan unsa nga buta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bisan unsa nga buta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:27:14.430492169Z",
+  "model": "glm-5.3"
+}

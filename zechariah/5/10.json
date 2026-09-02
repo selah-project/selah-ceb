@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ako miingon ngadto sa anghel nga nagsulti kanako, Ngadto ba kini magdala ⟨את⟩ sa eipa?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ug ako miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "nga nagsulti"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ngadto ba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "magdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa eipa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "sa eipa"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:50.428342061Z",
+  "model": "glm-5.3"
+}

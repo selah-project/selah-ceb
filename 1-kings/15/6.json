@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug naay gubat taliwala kang Rekhavam ug taliwala kang Yarovam, sa tanan nga adlaw sa iyang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ug gubat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "naay"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala kang"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhavam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala kang"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sa iyang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:48.997685462Z",
+  "model": "glm-5.3"
+}

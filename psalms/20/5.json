@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ihatag niya kanimo sumala sa imong kasingkasing, ug ang tanan nimong tambag igtuman.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ihatag niya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "sumala sa imong kasingkasing"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "nimong tambag"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "igtuman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:38.920659950Z",
+  "model": "glm-5.3"
+}

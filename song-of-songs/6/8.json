@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kaanuman ka mga reyna sila, ug kawaloan ka mga sugo, ug mga ulitawong babaye nga walay ihap.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "kaanuman ka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mga reyna"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ug kawaloan ka"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "ug mga ulitawong babaye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:32.029633907Z",
+  "model": "glm-5.3"
+}

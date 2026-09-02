@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Si Yahweh nalingkod ⟨nga hari⟩ sa dakong baha, ug si Yahweh nalingkod nga hari hangtod sa kahangtoran.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "sa dakong baha"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nalingkod"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nalingkod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:10.673373118Z",
+  "model": "glm-5.3"
+}

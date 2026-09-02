@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug nadungog sa mga kaaway sa Yehudah ug sa Binyamin nga ang mga anak sa pagkabihag nagatukod ug templo alang kang Yahweh, ang Elohim sa Yisrael;",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nadungog"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mga kaaway"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ug Binyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "nagatukod"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:19.996610095Z",
+  "model": "glm-5.3"
+}

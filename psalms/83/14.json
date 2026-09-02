@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "O Elohim nako, buhata sila nga sama sa nagatiktik nga bilog, sama sa uhay sa atubangan sa hangin.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "O Elohim nako"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "buhata sila"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "sama sa nagatiktik nga bilog"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "sama sa uhay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa hangin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:03.227587558Z",
+  "model": "glm-5.3"
+}

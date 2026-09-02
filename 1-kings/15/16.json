@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug adunay gubat taliwala kang Asa ug taliwala kang Baasha, hari sa Israel, sa tanan nilang mga adlaw.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ug adunay gubat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨was⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala kang"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala kang"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "nilang mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:40.574489115Z",
+  "model": "glm-5.3"
+}

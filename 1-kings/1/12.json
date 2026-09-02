@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug karon, lakaw, tugoti ako nga mohatag kanimo ug tambag, aron maluwas nimo ⟨את⟩ ang imong kinabuhi ug ⟨את⟩ ang kinabuhi sa imong anak nga si Shlomoh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "lakaw"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "tugoti ako nga mohatag kanimo ug tambag"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨palihog⟩"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "aron maluwas nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong kinabuhi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imong kinabuhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang kinabuhi sa imong anak"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sa imong anak"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "si Shlomoh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:36:34.265138893Z",
+  "model": "glm-5.3"
+}

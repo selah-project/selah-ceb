@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kay walay matarong nga tawo ⟨sa⟩ yuta nga nagabuhat ug maayo ug wala magpakasala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nga tawo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ug maayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "magpakasala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:23.556088324Z",
+  "model": "glm-5.3"
+}

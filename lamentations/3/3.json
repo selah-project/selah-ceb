@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Tinuod, batok kanako ⟨siya⟩ nagtulis; iyang gibaliktad ang iyang kamot tibuok adlaw.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tinuod"
+    },
+    {
+      "surface": "בי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagtulis"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "gibaliktad"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "היום",
+      "gloss": "adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:57.786490726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gibuhat niya ⟨ang⟩ daotan, kay wala niya andama ang iyang kasingkasing sa pagpangita ⟨את⟩ kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ug gibuhat niya"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨ang⟩ daotan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "andama"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ang iyang kasingkasing"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:11.552930395Z",
+  "model": "glm-5.3"
+}

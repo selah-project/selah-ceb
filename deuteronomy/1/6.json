@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nagsulti kanamo si Yahweh nga among Elohim sa Chorev, nga nagaingon: Dodong na kaninyo ang pagpuyo ⟨sa⟩ niini nga bukid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Chorev"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Dodong na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ang pagpuyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niini nga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:05.843365306Z",
+  "model": "glm-5.3"
+}

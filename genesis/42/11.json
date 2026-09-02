@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Tan-an kamo mga anak ⟨sa⟩ usa ka tawo ⟨kami⟩; matinud-anon ⟨kami⟩; wala ang imong mga sulugoon nga mga espiya.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Tan-an kamo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "⟨kami⟩"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "matinud-anon"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨kami⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ang imong mga sulugoon"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:55.459075132Z",
+  "model": "glm-5.3"
+}

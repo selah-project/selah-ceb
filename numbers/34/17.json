@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Kini ang mga ngalan sa mga tawo nga magapanunod ⟨⟨sa inyo⟩⟩ ⟨את⟩ ang yuta: si Elazar ang kohen ug si Yehoshua nga anak ni Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "mga ngalan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "magapanunod"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨sa inyo⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang kohen"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "ug si Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:29.432124657Z",
+  "model": "glm-5.3"
+}

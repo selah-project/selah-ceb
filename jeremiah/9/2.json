@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 9:2",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gihiko nila ⟨את⟩ ang ilang dila nga ingon sa ilang pana sa bakak, ug dili alang sa kamatuoran sila nanglagmit sa yuta; kay gikan sa daotan padulong sa daotan sila naggula, ug ⟨את⟩ ako wala nila ila, matod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וידרכו",
+      "gloss": "gihiko nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang dila"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ilang dila"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "ila nga pana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "alang sa kamatuoran"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "nanglagmit sila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "gikan sa daotan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "padulong sa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sila naggula"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "ug ⟨את⟩ ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nila ila"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:18:05.852165477Z",
+  "model": "glm-5.3"
+}

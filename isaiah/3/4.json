@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug magahatag ako ug mga batan-on isip ilang mga mangulo, ug mga katingadahan ang molangkan kanila.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ug magahatag ako"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mga batan-on"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "isip ilang mga mangulo"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "ug mga katingadahan"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ang molangkan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:27.999154194Z",
+  "model": "glm-5.3"
+}

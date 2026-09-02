@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Nagakinabos ang nagabuhat uban sa kamot nga tapolan, apan ang kamot sa mga kugi nagapadato.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "nagakinabos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "napolon"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "apan ang kamot"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "sa mga kugi"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "nagapadato"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:48.338932949Z",
+  "model": "glm-5.3"
+}

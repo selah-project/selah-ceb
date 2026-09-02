@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Ug ipadungog nila siya ⟨sa⟩ katilingban sa katawhan, ug sa lingkoranan sa mga tigulang dayagon nila siya.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "ug ipadungog nila siya"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ug sa lingkoranan"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "sa mga tigulang"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "dayagon nila siya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:58.165106066Z",
+  "model": "glm-5.3"
+}

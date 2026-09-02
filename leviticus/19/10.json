@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang imong kaparasan dili nimo pagpanginhaslan, ug ang mga hulga nga ubas sa imong kaparasan dili nimo tan-awon pag-anihon; alang sa kabos ug sa langyaw nga pumoluyo ibilin mo sila ⟨את⟩. Ako si Yahweh ang inyong Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "Ug ang imong kaparasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "nimo pagpanginhaslan"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ug ang mga hulga nga ubas"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "sa imong kaparasan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "nimo tan-awon pag-anihon"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "alang sa kabos"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "ug sa langyaw nga pumoluyo"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ibilin mo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila (ang mga hulga nga ubas)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ang inyong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:43.319676423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "ug ang ra'ah, ug ⟨את⟩ ang ayyah, ug ang dayyah sumala sa iyang matang",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ug ang ra'ah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ang ayyah"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ug ang dayyah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sumala sa iyang matang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:13.363299893Z",
+  "model": "glm-5.3"
+}

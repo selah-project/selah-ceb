@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Apan ⟨את⟩ ang kapatagan sa dakbeya ug ⟨את⟩ ang mga baryo niini gihatag nila kang Kalev nga anak ni Yefuneh isip iyang pagpanag-iya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "apan ⟨את⟩",
+      "marks": "kapatagan sa dakbeya"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kapatagan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbeya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga baryo niini"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "mga baryo niini"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kang Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "isip iyang pagpanag-iya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:13.818813333Z",
+  "model": "glm-5.3"
+}

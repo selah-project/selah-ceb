@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug ⟨את⟩ ang balay sa hari ug ⟨את⟩ ang balay sa mga tawo gisunog sa mga Kasdiyan sa kalayo; ug ⟨את⟩ ang mga paril sa Yerushalayim giguba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sa hari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay sa mga tawo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "gisunog"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "sa mga Kasdiyan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga paril sa Yerushalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ang mga paril"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "giguba"
+    }
+  ],
+  "timestamp": "2026-09-01T21:27:06.635140569Z",
+  "model": "glm-5.3"
+}

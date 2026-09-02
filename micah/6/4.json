@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Kay gipataas tikod ko ikaw gikan sa yuta sa Mitsrayim, ug gikan sa balay sa mga ulipon gipabuhit ko ikaw, ug gipadala ko sa imong atubangan ⟨את⟩ si Moshe, si Aharon, ug si Miryam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "gipataas tikod ko ikaw"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ug gikan sa balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sa mga ulipon"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "gipabuhit ko ikaw"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ug gipadala ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Moshe, si Aharon, ug si Miryam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "ug si Miryam"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:32.612412582Z",
+  "model": "glm-5.3"
+}

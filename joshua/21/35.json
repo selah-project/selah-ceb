@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "⟨את⟩ ang Dimna ug ⟨את⟩ ang iyang migrah, ⟨את⟩ ang Nahalal ug ⟨את⟩ ang iyang migrah — upat ka dakbayan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "ang Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang migrah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "ang Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang migrah"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ang iyang migrah"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ka dakbayan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:03:10.939338209Z",
+  "model": "glm-5.3"
+}

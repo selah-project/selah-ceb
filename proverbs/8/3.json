@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Sa kilid sa mga ganghaan, sa baba sa ⟨ang⟩ dakbayan, sa pagsulod sa mga pultahan ⟨siya⟩ mosangit",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "Sa kilid sa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "mga ganghaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa baba sa"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "⟨ang⟩ dakbayan"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "mga pultahan"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "⟨siya⟩ mosangit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:27.408066239Z",
+  "model": "glm-5.3"
+}

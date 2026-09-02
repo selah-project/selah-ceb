@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gilubong ⟨siya⟩ ⟨את⟩ sa iyang lubnganan, sa tanom ni Uzza; ug si Yoashiyahu nga iyang anak nanglingkod sa trono puli niya.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Ug gilubong"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si Amon)"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "sa iyang lubnganan"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "sa tanom"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ni Uzza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "Ug nallingkod sa trono"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "si Yoashiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nga iyang anak"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "puli niya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:46.666118667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kay gihimo mo ⟨את⟩ ang akong pagtulongon ug ⟨את⟩ ang akong pagtadtad; naglingkod ka sa trono isip maghuhukom sa pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gihimo mo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ang akong pagtulongon"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "ug ang akong pagtadtad"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "naglingkod ka"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "sa trono"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "isip maghuhukom"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:45.091291395Z",
+  "model": "glm-5.3"
+}

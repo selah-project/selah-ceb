@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug mogula ang sanga gikan sa tuod ni Yishai, ug ang usbong gikan sa iyang mga gamot mamunga.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mogula"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "ang sanga"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "gikan sa tuod"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ni Yishai"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ug ang usbong"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "gikan sa iyang mga gamot"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "mamunga"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:15.482723846Z",
+  "model": "glm-5.3"
+}

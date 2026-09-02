@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 118,
+  "translation": "Pagdaha kanako ikaw sa pagkapilde sa pagkahapo, apan si Yahweh nagtabang kanako.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ikaw sa pagkapilde"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "nagdaha kanako"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "sa pagkahapo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "apan si Yahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "nagtabang kanako"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:11.035495529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Akong anak, ayaw paglakat sa dalan ⟨את⟩ kauban nila; pugngi ang imong tiil gikan sa ilang agianan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Akong anak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "paglakat"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kauban nila"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "pugngi"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "imong tiil"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "gikan sa ilang agianan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:32.279405159Z",
+  "model": "glm-5.3"
+}

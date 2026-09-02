@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug ang iyang mga haligi kaluhaan, ug ang ilang mga tungtungan kaluhaan, tumbaga; ang mga lanseta sa mga haligi ug ang ilang mga hilit nga puthi puthi, salapi.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Ug ang iyang mga haligi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ug ang ilang mga tungtungan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kaluhaan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tumbaga"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "ang mga lanseta"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sa mga haligi"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ug ang ilang mga hilit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:03.377364556Z",
+  "model": "glm-5.3"
+}

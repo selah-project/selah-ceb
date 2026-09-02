@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 11:1",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ako, sa unang tuig ni Daryavesh ⟨ang⟩ Mede, nagtindog ako pagpakusog ug pagmahinong dagkutan alang kaniya.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "sa tuig"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "unang ⟨usa⟩"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "kang Daryavesh"
+    },
+    {
+      "surface": "המדי",
+      "gloss": "⟨ang⟩ Mede"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nagtindog ako"
+    },
+    {
+      "surface": "למחזיק",
+      "gloss": "pagpakusog"
+    },
+    {
+      "surface": "ולמעוז",
+      "gloss": "ug pagmahinong dagkutan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:01:03.161595615Z",
+  "model": "glm-5.3"
+}

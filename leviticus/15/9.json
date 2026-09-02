@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug ang tanan nga ⟨sa⟩ sablayan nga sakyan sa tawo nga adunay agwás mahimong dili hingpit ⟨nga seremonyal⟩.",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "Ug ang tanan"
+    },
+    {
+      "surface": "הַמֶּרְכָּב",
+      "gloss": "sablayan"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יִרְכַּב",
+      "gloss": "sakyan"
+    },
+    {
+      "surface": "עָלָיו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הַזָּב",
+      "gloss": "ang tawo nga adunay agwás"
+    },
+    {
+      "surface": "יִטְמָא",
+      "gloss": "mahimong dili hingpit"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:41.600879063Z",
+  "model": "glm-5.3"
+}

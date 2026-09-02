@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": " ug nagpanaghiusa ang mga sulogoon ni Amon batok kaniya, ug gipatay nila ⟨את⟩ ang hari sulod sa iyang kaugalingong balay",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "ug nagpanaghiusa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ang mga sulogoon"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "ni Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "ug gipatay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "sulod sa iyang kaugalingong balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:51.145846120Z",
+  "model": "glm-5.3"
+}

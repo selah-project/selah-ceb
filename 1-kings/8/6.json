@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gidala sa mga saserdote ⟨את⟩ ang aron sa pakigsaad ni Yahweh ngadto sa iyang dapit, ngadto sa debir sa balay, ngadto sa kadagsaan sa mga balaan, ngadto sa ilalom sa mga pako sa kerubim.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ug gidala"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "sa mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "iyang dapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "คדש",
+      "gloss": "kadagsaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga balaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom sa"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mga pako"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "sa kerubim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:28.390840678Z",
+  "model": "glm-5.3"
+}

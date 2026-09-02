@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Nga nagbantay Ka sa imong sulugong si David nga akong amahan sa ⟨את⟩ nga imong gisulti kaniya; ug imong gisulti kini uban sa imong baba, ug imong gituman kini uban sa imong kamot, ingon sa niining adlawa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "nagbantay Ka"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa imong sulugong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "nga akong amahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong gisulti kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "imong gisulti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ug imong gisulti kini"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "uban sa imong baba"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ug uban sa imong kamot"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "imong gituman kini"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa niining adlawa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niining"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:43.403342816Z",
+  "model": "glm-5.3"
+}

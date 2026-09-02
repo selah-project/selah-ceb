@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 81,
+  "translation": "Ug gipakaon niya ⟨siya⟩ sa taba sa trigo, ug gipun-o ko ikaw ug dugos gikan sa bato.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "gipakaon niya siya"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sa taba"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "trigo"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "ug gikan sa bato"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "dugos"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "gipun-o ko ikaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:30.741868104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug ⟨את⟩ ang duha ka kidney, ug ⟨את⟩ ang tambok nga anaa sa ibabaw niana, nga anaa sa mga hawak, ug ⟨את⟩ ang lob nga atbang sa atay, ibabaw sa mga kidney iyang tangtangon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka kidney"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kidney"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "anaa sa ibabaw niana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "anaa sa"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "mga hawak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang lob"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ang lob"
+    },
+    {
+      "surface": "על",
+      "gloss": "atbang sa"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "atay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mga kidney"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "iyang tangtangon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:31.183568909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Gisugiran si Shaul nga miabot si David sa Keilah, ug miingon si Shaul: Gipakita ni Elohim ⟨את⟩ siya ngadto sa akong kamot, kay gisirhan siya sa pagsulod sa usa ka dakbayan nga adunay mga pultahan ug mga barahan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Gisugiran"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "Gipakita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya (si David)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ngadto sa akong kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "gisirhan"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pagsulod"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa usa ka dakbayan"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "nga adunay mga pultahan"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ug mga barahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:31.474149999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Gikasuko ang mga principe kang Yirmeyahu, ug gigamdan nila ⟨את⟩ siya, ug gipahimutlang nila siya sa balay sa pagkabilanggo — sa balay ni Yehonatan ang manunulat, kay ⟨את⟩ kini ilang gihimo nga balay sa pagkabilanggo.",
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "gikasuko"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ang mga principe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "ug gigamdan nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (gigamdan nila)"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ug gipahimutlang nila"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "siya (sa balay sa pagkabilanggo)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "sa pagkabilanggo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay ni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ang manunulat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (balay sa pagkabilanggo)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ilang gihimo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nga balay sa"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "pagkabilanggo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:45.317608697Z",
+  "model": "glm-5.3"
+}

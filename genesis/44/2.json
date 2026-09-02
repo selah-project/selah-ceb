@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug ⟨את⟩ ang akong kopa, ang kopa sa pilak, butanga sa baba sa sako sa manghod, uban ⟨את⟩ ang pilak sa iyang sinugasok. Ug gibuhat niya sumala sa pulong ni Yosef nga iyang gisulti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "ang akong kopa"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "ang kopa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "sa pilak"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "butanga"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "sa baba sa"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "sako"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sa manghod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "uban ⟨את⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ang pilak"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sa iyang sinugasok"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat niya"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "sumala sa pulong"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gisulti"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:58.000978356Z",
+  "model": "glm-5.3"
+}

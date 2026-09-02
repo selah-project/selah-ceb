@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug naa sila sa ilang panunod: Be'er-Sheva, ug Sheva, ug Moladah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug naa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "sa ilang panunod"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ug Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ug Moladah"
+    }
+  ],
+  "timestamp": "2026-09-01T20:02:37.828611551Z",
+  "model": "glm-5.3"
+}

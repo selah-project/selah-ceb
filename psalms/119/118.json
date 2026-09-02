@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gilimos mo ⟨ang⟩ tanan nga nasalis gikan sa imong mga huok, kay bakak ang ilang pandong.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Gilimos mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "nga nasalis"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "gikan sa imong mga huok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ang ilang pandong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:12.676846027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Ug miingon ang Israel kang Yosef: Ania karon, ako ⟨na⟩ mamatay, ug ang Elohim ⟨mahimong⟩ uban kaninyo, ug ibalik niya ⟨את⟩ ⟨kamo⟩ ngadto sa yuta sa inyong mga amahan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania karon"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug ⟨mahimong⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "uban kaninyo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ug ibalik niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨kamo⟩",
+      "marks": "kamo (sa inyong)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "sa inyong mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:20.146424247Z",
+  "model": "glm-5.3"
+}

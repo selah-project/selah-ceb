@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug moingon si Paro mahitungod sa mga anak nga lalaki ni Yisrael: Nagasamok sila sa yuta, napitik sa ilaha ang kamingawan.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ug moingon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "si Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mahitungod sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "nagasamok"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "napitik"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ilaha"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ang kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:09:40.009546129Z",
+  "model": "glm-5.3"
+}

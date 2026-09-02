@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ang nagplano sa pagbuhat ug daotan — agalon sa malisud nga mga plano ang iyang tawgon.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "ang nagplano"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "sa pagbuhat ug daotan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ang iyang"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "agalon"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "sa malisud nga mga plano"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ang tawgon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:17.334394435Z",
+  "model": "glm-5.3"
+}

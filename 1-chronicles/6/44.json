@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ⟨את⟩ ang Ashan ug ⟨את⟩ ang mga nataran niini, ug ⟨את⟩ ang Bet-Shemesh ug ⟨את⟩ ang mga nataran niini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ug ⟨את⟩",
+      "marks": "ang Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ang Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang mga nataran niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga nataran niini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang mga nataran niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:21.434011240Z",
+  "model": "glm-5.3"
+}

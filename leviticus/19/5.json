@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug kung maghalad kamo ug halad sa shalamim kang Yahweh, aron sa inyong pagkadawat pagahaladon ninyo kini.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ug kung"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "maghalad kamo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "halad"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shalamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "aron sa inyong pagkadawat"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "pagahaladon ninyo kini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:22.870426065Z",
+  "model": "glm-5.3"
+}

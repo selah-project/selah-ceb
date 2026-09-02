@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug karon ipadayag ko ⟨את⟩ ang iyang kaulawan sa atubangan sa iyang mga gihigugma, ug walay tawo nga makaluwas kaniya gikan sa akong kamot.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ipadayag ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaulawan"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "iyang kaulawan"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "sa iyang mga gihigugma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug walay tawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "makaluwas kaniya"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "gikan sa akong kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:30.259603480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Nangagi sila sa ⟨את⟩ Yarden, ug nagsulog sila sa Aroer, sa tuo nga bahin sa ⟨ang⟩ dakbayan nga anaa sa taliwala sa walog sa Gad, ug hangtod sa Yaazer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "nangagi sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nagsulog sila"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "sa Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tuo nga bahin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "sa Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    }
+  ],
+  "timestamp": "2026-09-02T00:42:23.229066842Z",
+  "model": "glm-5.3"
+}

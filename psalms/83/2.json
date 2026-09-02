@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Elohim, ayaw paghilom ngadto kanimo, ayaw pagtahimik ug ayaw pagpahulay, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "paghilom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "pagtahimik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "pagpahulay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:04.433467407Z",
+  "model": "glm-5.3"
+}

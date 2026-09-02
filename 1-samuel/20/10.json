@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug miingon si David kang Yehonatan: Kinsa ba ang magapahibalo kanako? O unsa kung ang imong amahan motubag kanimo og lisud?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "magapahibalo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "או",
+      "gloss": "O"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa kung"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "motubag kanimo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "imong amahan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "og lisud"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:56.335652921Z",
+  "model": "glm-5.3"
+}

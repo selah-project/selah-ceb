@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kon molikay gayod ang iyang amahan sa paghatag kaniya kaniya, plata ang iyang itimbang sumala sa mahor sa mga ulitawo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "molikay gayod"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "molikay gayod"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "sa paghatag kaniya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "plata"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "itimbang"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "sumala sa mahor"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "sa mga ulitawo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:19.826078936Z",
+  "model": "glm-5.3"
+}

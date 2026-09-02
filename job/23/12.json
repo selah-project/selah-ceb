@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 23:12",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ang sugo sa iyang mga ngabil — wala ako molayas; ang mga pulong sa iyang baba gitago ko, labaw pa sa ⟨aking⟩ bahin ⟨nga pagkaon⟩.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "sa iyang mga ngabil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "אמיש",
+      "gloss": "ako molayas"
+    },
+    {
+      "surface": "מחקי",
+      "gloss": "sa ⟨aking bahin⟩"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "gitago ko"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sa iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:45.243799536Z",
+  "model": "glm-5.3"
+}

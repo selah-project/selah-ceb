@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Mao kini ang giingon ni Adonay Yahweh: Dili kini mobangon, ug dili kini mahitabo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mahitabo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:07.257791599Z",
+  "model": "glm-5.3"
+}

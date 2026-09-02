@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 87,
+  "translation": "Ug mahitungod sa Tsiyon igasulti: ⟨ang⟩ usa ka tawo ug ⟨ang usa ka lain nga⟩ tawo natawo diha niini; ug Siya, ang Elyon ⟨Ang Labing Taas⟩, magatukod niini.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "ug mahitungod sa Tsiyon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "igasulti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug usa ka lain nga tawo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "diha niini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug Siya"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "magatukod niini"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ang Elyon (Ang Labing Taas)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:55.765436869Z",
+  "model": "glm-5.3"
+}

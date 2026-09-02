@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Magahukom siya ⟨sa⟩ mga kabos sa ⟨mga⟩ tawo, magaluwas siya sa mga anak sa mga gikabalakyud, ug modusol niya ang manlilisang.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mga kabos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "magaluwas"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mga gikabalakyud"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "ug modusol"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "manlilisang"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:07.111614645Z",
+  "model": "glm-5.3"
+}

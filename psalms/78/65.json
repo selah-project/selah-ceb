@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug namata si Adonay sama sa usa ka natulog, sama sa gamhanan nga nagsigaw gikan sa bino.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "ug namata"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "sama sa natulog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "sama sa gamhanan"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "nagsigaw"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "gikan sa bino"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:27.028900829Z",
+  "model": "glm-5.3"
+}

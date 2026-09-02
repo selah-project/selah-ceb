@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug imong buhaton ang mga bisti nga balaan alang kang Aharon imong igsoon, alang sa kagalahum ug alang sa katahum.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ug imong buhaton"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ang mga bisti"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nga balaan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "alang kang Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imong igsoon"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "alang sa kagalahum"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ug alang sa katahum"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:04.375726638Z",
+  "model": "glm-5.3"
+}

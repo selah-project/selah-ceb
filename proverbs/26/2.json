@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ingon nga langgam sa paglupad-lupad, ingon nga dagyaw sa paglupad, ingon niana ang tungaw nga walay hinungdan dili ⟨magpuyo⟩ ⟨sa⟩ bisan kinsa.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Ingon nga langgam"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "sa paglupad-lupad"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "ingon nga dagyaw"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "sa paglupad"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ang tungaw"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay hinungdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "⟨magpuyo⟩ ⟨sa⟩ bisan kinsa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:34:11.494349029Z",
+  "model": "glm-5.3"
+}

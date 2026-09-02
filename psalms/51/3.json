@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Maloloy ka kanako, O Elohim, sumala sa imong hesed, sumala sa kadaghan sa imong kalooy pagpapa sa akong mga paglapas.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Maloloy ka kanako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": " O Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": " sumala sa imong hesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": " sumala sa kadaghan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": " sa imong kalooy"
+    },
+    {
+      "surface": "מחה",
+      "gloss": " pagpapa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": " sa akong mga paglapas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.855834168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug gipahimutang niya ⟨את⟩ ang lamesa sulod sa tolda sa pagtagbo, sa kilid sa tabernakulo padong sa amihanan, gawas sa parokhet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gipahimutang niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lamesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ang lamesa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sulod sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "kilid"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "sa tabernakulo"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "padong sa amihanan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "sa parokhet"
+    }
+  ],
+  "timestamp": "2026-09-01T19:18:58.927469249Z",
+  "model": "glm-5.3"
+}

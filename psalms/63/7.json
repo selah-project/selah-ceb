@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Kanako maggunit kanimo sa akong higdaanan, sa mga bantay sa gabii maghinumdom ako kanimo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kanako"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "maggunit kanimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "akong higdaanan"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "sa mga bantay sa gabii"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "maghinumdom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:52.595443730Z",
+  "model": "glm-5.3"
+}

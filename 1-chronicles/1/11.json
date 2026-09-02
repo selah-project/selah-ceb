@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Mitsrayim nataohan kang ⟨את⟩ mga Ludinhon, ug kang ⟨את⟩ mga Anaminhon, ug kang ⟨את⟩ mga Lehabinhon, ug kang ⟨את⟩ mga Naftukinhon.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ug si Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nataohan kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ludinhon"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "mga Ludinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug kang ⟨את⟩",
+      "marks": "mga Anaminhon"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "mga Anaminhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug kang ⟨את⟩",
+      "marks": "mga Lehabinhon"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "mga Lehabinhon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug kang ⟨את⟩",
+      "marks": "mga Naftukinhon"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "mga Naftukinhon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:15.235868407Z",
+  "model": "glm-5.3"
+}

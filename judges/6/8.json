@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Gipadala ni Yahweh ang usa ka lalaki, usa ka propeta, ngadto sa mga anak ni Yisra'el, ug miingon siya kanila: Kini ang giingon ni Yahweh, Elohim ni Yisra'el: Ako ang nagpasaka kaninyo gikan sa Mitsrayim, ug naggula ako kaninyo ⟨את⟩ gikan sa balay sa mga ulipon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Gipadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka lalaki"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "propeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kini ang"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nagpasaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo gikan sa Mitsrayim"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "ug naggula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo gikan sa balay sa mga ulipon"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga ulipon"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:17.180514847Z",
+  "model": "glm-5.3"
+}

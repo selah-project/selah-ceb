@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug ihatag sila ni Yahweh ⟨atubangan⟩ ninyo, ug buhaton ninyo ngadto kanila sumala sa tibuok nga sugo nga akong gisugo ⟨⟨את⟩ kaninyo⟩.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "ug ihatag sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "atubangan ninyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ug buhaton ninyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tibuok"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "nga sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akong gisugo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:57:05.903964764Z",
+  "model": "glm-5.3"
+}

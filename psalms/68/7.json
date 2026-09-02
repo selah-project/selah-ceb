@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Si Elohim nagapapuyo sa mga bugtong ⟨sa⟩ balay, nagagula sa mga binilanggo ⟨sa⟩ kausalagan; apan ang mga tinumong nagpuyo sa tinuyo nga yuta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Si Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "nagapapuyo"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "mga bugtong"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "⟨sa⟩ balay"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "nagagula"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "mga binilanggo"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "⟨sa⟩ kausalagan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apan"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "mga tinumong"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "tinuyo nga yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:04.586271223Z",
+  "model": "glm-5.3"
+}

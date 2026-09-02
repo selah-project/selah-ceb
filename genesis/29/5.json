@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug miingon siya kanila: Nakaila ba kamo ⟨את⟩ kang Lavan nga anak ni Nakhor? Ug sila miingon: Nakaila kami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "nakaila ba kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "sila miingon"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "nakaila kami"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:29.502146616Z",
+  "model": "glm-5.3"
+}

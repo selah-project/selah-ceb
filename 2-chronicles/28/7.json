@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug nipatay si Zikhri, usa ka mamumugos sa Efrayim, ⟨את⟩ kang Maaseyahu nga anak sa hari, ug ⟨את⟩ kang Azrikam, pangulo sa balay, ug ⟨את⟩ kang Elkanah, ikaduhang mulinong sa hari.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "ug nipatay si"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mamumugos"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "sa Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Maaseyahu"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Azrikam"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Elkanah"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikaduhang mulinong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:46.451558789Z",
+  "model": "glm-5.3"
+}

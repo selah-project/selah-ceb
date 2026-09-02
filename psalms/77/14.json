@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Elohim, sa pagkabalaan ⟨ang⟩ imong dalan; kinsa bang El nga dakù sama sa Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa pagkabalaan"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "imong dalan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa bang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dakù"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "sama sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:35.654755470Z",
+  "model": "glm-5.3"
+}

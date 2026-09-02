@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "ug ⟨את⟩ ang halaran sa sinunog nga halad ug ⟨את⟩ ang tanan nga mga kagamitan niini, ug ⟨את⟩ ang labador ug ⟨את⟩ ang tungtungan niini,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "halaran sa sinunog nga halad"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sa sinunog nga halad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga kagamitan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "mga kagamitan niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "labador"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "labador"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tungtungan niini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tungtungan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:00.850862758Z",
+  "model": "glm-5.3"
+}

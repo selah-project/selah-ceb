@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 121,
+  "translation": "Tan-awa, dili ⟨siya⟩ molutom ug dili matulog ang nagbantay sa Israel.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "molutom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "matulog"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ang nagbantay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:46.825449352Z",
+  "model": "glm-5.3"
+}

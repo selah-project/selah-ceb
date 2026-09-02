@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ayaw ninyo pagdawat ug kopher alang sa nagpalági ngadto sa ciudad sa iyang mga dapit-kalig-onay, aron mobalik ug puyo sa yuta, hangtod sa kamatayon sa koheno.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw ninyo pagdawat"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "pagdawat"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "kopher"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "nagpalági"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ciudad"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "sa iyang mga dapit-kalig-onay"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "aron mobalik"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ug puyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "sa koheno"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:24.992919717Z",
+  "model": "glm-5.3"
+}

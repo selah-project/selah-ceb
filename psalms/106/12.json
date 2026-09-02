@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Dayon nituo sila sa iyang mga pulong; nag-awit sila sa iyang pagdayeg.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "nituo sila"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "sa iyang mga pulong"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "nag-awit sila"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sa iyang pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:24.747795952Z",
+  "model": "glm-5.3"
+}

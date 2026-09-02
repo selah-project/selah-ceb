@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang nagatamay sa pulong — siya pagabantolan niini; apan ang nagakahadlok sa mando — siya bayadon ⟨sa maayo⟩.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "nagatamay"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pulong"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "pagabantolan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "apan ang nagakahadlok"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "sa mando"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bayadon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:35.681400881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang mga adlaw ni Adam human sa pagkatawo niya kang ⟨את⟩ Shet mga walo ka gatus ka tuig, ug natawo siya ug mga anak nga lalaki ug babae.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ug ang mga adlaw"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human sa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pagkatawo niya kang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "walo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ka gatus"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ug natawo siya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak nga lalaki"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ug mga anak nga babae"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:44.893133143Z",
+  "model": "glm-5.3"
+}

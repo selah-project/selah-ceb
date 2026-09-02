@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Ang nagatudlo sa ⟨mga⟩ nasud, dili ba ⟨siya⟩ magatulon? ⟨Ang⟩ nagatudlo sa tawo ug kahibalo",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "ang nagatudlo-nagatulon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "magatulon"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ang nagatudlo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.727197888Z",
+  "model": "glm-5.3"
+}

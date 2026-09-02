@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Dili sila maulawan sa panahon sa kadaotan, ug sa mga adlaw sa paggutom busog sila.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "maulawan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ug sa mga adlaw"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "paggutom"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "busog sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:31.008824203Z",
+  "model": "glm-5.3"
+}

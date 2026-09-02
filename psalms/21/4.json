@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kay giatubang nimo siya ug mga panalangin sa kaayohan; nagbutang ka sa iyang ulo ug korona sa hinagiban nga bulawan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "giatubang nimo siya"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mga panalangin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa kaayohan"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "nagbutang ka"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "sa iyang ulo"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ug korona"
+    },
+    {
+      "surface": "פז",
+      "gloss": "sa hinagiban nga bulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:32.072795301Z",
+  "model": "glm-5.3"
+}

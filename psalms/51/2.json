@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Sa pag-anhi kaniya ni Natan nga propeta, human siya mosulod kang Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Sa pag-anhi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": " kaniya"
+    },
+    {
+      "surface": "נתן",
+      "gloss": " ni Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": " nga propeta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "human"
+    },
+    {
+      "surface": "בא",
+      "gloss": " siya mosulod"
+    },
+    {
+      "surface": "אל",
+      "gloss": " kang"
+    },
+    {
+      "surface": "בת",
+      "gloss": " Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.855715847Z",
+  "model": "glm-5.3"
+}

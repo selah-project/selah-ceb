@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug si Shaul ug sila ug ang tanan nga mga tawo sa Yisrael anaa sa walog sa Elah, nagpakig-away uban sa mga Pelishteo.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Ug si Shaul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan nga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "sa Elah"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "nagpakig-away"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pelishteo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:12.549605702Z",
+  "model": "glm-5.3"
+}

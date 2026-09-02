@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Nadungog ni Yahweh ang akong pagpangadye ⟨nga⟩ maloy-on; si Yahweh modawat sa akong pag-ampo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Nadungog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ang akong pagpangadye nga maloy-on"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "sa akong pag-ampo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "modawat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:02:42.477212429Z",
+  "model": "glm-5.3"
+}

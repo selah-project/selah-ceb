@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Yahweh Tsevaot, Elohim sa Israel, ⟨ang⟩ nagalingkod sa mga kerub, ikaw ang Elohim, ikaw nag-inusara, sa tanang mga gingharian sa yuta; ikaw ang naghimo ⟨את⟩ sa kalangitan ug ⟨את⟩ sa yuta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagalingkod"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "sa mga kerub"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "nag-inusara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mga gingharian"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa kalangitan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa kalangitan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa yuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:37.806685218Z",
+  "model": "glm-5.3"
+}

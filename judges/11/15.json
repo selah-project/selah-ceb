@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug miingon kaniya: Ingon niini ang giingon ni Yiphtakh: Wala kuhaon ni Yisrael ⟨את⟩ ang yuta sa Moav, ni ⟨את⟩ ang yuta sa mga anak ni Amon;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ingon niini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ni Yiphtakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang yuta sa Moav"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ni ⟨את⟩",
+      "marks": "ang yuta sa mga anak ni Amon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:09:41.112672821Z",
+  "model": "glm-5.3"
+}

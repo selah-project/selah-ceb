@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 150,
+  "translation": "Pagdayeg kaniya uban sa mga tsimbal nga makugihon ⟨nga⟩ tingog; pagdayeg kaniya uban sa mga tsimbal sa pag-uyog nga tingog.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayeg kaniya"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "uban sa mga tsimbal"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayeg kaniya"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "uban sa mga tsimbal"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "pag-uyog nga tingog"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:23.830800453Z",
+  "model": "glm-5.3"
+}

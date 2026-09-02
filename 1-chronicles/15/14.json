@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug nagpagabiason ang mga saserdote ug ang mga Levite aron sa pag-alsa ⟨את⟩ sa arca ni Yahweh, Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "nagpagabiason"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ug ang mga Levite"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "aron sa pag-alsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arca ni Yahweh, Elohim ni Yisrael"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:22.434793605Z",
+  "model": "glm-5.3"
+}

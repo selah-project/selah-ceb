@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Kay siya magmando sa iyang mga mensahero mahitungod kanimo, sa pagbantay kanimo diha sa tanan nimong mga dalan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "siya ka iyang mga mensahero"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "magmando"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mahitungod kanimo"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "sa pagbantay kanimo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "diha sa tanan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "nimong mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.508495747Z",
+  "model": "glm-5.3"
+}

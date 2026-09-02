@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "⟨את⟩ ang ulo sa iyang mga uling nga sanga giputol niini, ug gidala niini kini ngadto sa yuta sa Kenaan, ⟨sa⟩ usa ka dakbayan sa mga magtitigum-tindera, diin butang gikabutang niini.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo sa iyang mga uling nga sanga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "sa iyang mga uling nga sanga"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "giputol"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "ug gidala niini kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "⟨sa⟩ usa ka dakbayan"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "sa mga magtitigum-tindera"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "gikabutang niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:41:38.059482652Z",
+  "model": "glm-5.3"
+}

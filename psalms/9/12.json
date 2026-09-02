@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Pag-awit kamo ⟨kang⟩ Yahweh, ⟨sa⟩ nagapuyo sa Tsion; sultihi diha sa mga katawhan ang iyang mga buhat.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nagapuyo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "sultihi"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ang iyang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:32.112492254Z",
+  "model": "glm-5.3"
+}

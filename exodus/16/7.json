@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug sa buntig makita ninyo ⟨את⟩ ang himaya ni Yahweh, sa pagdungog niya ⟨את⟩ sa inyong mga pagreklamo batok kang Yahweh; ug kami — unsa ba kami, kay nagareklamo kamo batok kanamo?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Ug sa buntig"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "makita ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang himaya ni Yahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "sa pagdungog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyong mga pagreklamo"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "sa inyong mga pagreklamo"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ug kami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "nagareklamo kamo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "batok kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:26.177589164Z",
+  "model": "glm-5.3"
+}

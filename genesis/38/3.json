@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug nagmabdos siya ug natawo siya ug usa ka anak nga lalaki, ug gitawag niya ⟨את⟩ ang iyang ngalan — Er.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nagmabdos"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "natawo siya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak nga lalaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:40.325549792Z",
+  "model": "glm-5.3"
+}

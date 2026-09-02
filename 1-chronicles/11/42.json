@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Adina nga anak ni Shiza ang Rubenihano, pangulo sa mga Rubenihano, ug uban kaniya ⟨ang⟩ katloan",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "Adina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "Shiza"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "ang Rubenihano"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "pangulo"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "sa mga Rubenihano"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ug uban kaniya"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "katloan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:30.841749611Z",
+  "model": "glm-5.3"
+}

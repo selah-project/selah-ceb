@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 113,
+  "translation": "Kinsa ang sama kang Yahweh nga among Elohim, ⟨siya⟩ nga nagataas aron maglingkod?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "sama kang Yahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "nga among Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "nagataas"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aron maglingkod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.796830070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ug manghisgot ako sa imong mga pamanulti atubang sa mga hari, ug dili ako maulaw.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "Ug manghisgot ako"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "sa imong mga pamanulti"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "maulaw ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:43.455663381Z",
+  "model": "glm-5.3"
+}

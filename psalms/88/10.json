@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 88,
+  "translation": "Naguol ang akong mata tungod sa akong kagul-anan; natawag ako kanimo, Yahweh, sa tibuok adlaw, gipatigbabaw ko ang akong mga palad ngadto kanimo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "Naguol"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "akong kagul-anan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "natawag ako kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "gipatigbabaw ko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ang akong mga palad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:39.886088068Z",
+  "model": "glm-5.3"
+}

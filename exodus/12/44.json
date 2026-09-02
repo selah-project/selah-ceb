@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Apan ang tanan nga sulugoon sa tawo, gipalit sa salapi, ug imong tulihi ⟨את⟩ siya, unya mokaon siya niini.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Apan ang tanan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sulugoon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "gipalit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "sa salapi"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ug imong tulihi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "אז",
+      "gloss": "unya"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:43.061961236Z",
+  "model": "glm-5.3"
+}

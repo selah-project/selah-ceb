@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug kon ang nagapahinong balaan modani pagpalion ⟨את⟩ ang iyang balay, magdugang siya ug ikalimang bahin sa salapi sa imong pagtantiya ibabaw niini, ug mahimo kini nga iya niya.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ang nagapahinong balaan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "modani pagpalion"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang balay"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ang iyang balay"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "magdugang siya ug"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ikalimang bahin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "imong pagtantiya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ibabaw niini"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimo kini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nga iya niya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:36.233949086Z",
+  "model": "glm-5.3"
+}

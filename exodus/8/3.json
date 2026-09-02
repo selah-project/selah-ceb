@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang mga panaghimala nagbuhat usab niini paagi sa ilang mga tinago nga arte, ug gitunol nila ⟨את⟩ ang mga baki ibabaw sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nagbuhat usab"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ang mga panaghimala"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "paagi sa ilang mga tinago nga arte"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ug gitunol nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baki"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ang mga baki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:57.160848486Z",
+  "model": "glm-5.3"
+}

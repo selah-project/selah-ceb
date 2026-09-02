@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Giyuko nako ang akong kasingkasing sa pagbuhat sa imong mga balaod, hangtod sa kahangturan, ⟨tubtob⟩ sa katapusan.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "giyuko nako"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sa imong mga balaod"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "sa katapusan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:16.959545706Z",
+  "model": "glm-5.3"
+}

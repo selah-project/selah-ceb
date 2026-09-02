@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Usa ka talento nga hinilis nga bulawan igahimo ⟨את⟩ niini, ⟨את⟩ ang tanan niini nga mga galamiton.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "usa ka talento"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "hinilis"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "igahimo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang kandelero)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan niini nga mga galamiton"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mga galamiton"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "niini nga"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:12.969751464Z",
+  "model": "glm-5.3"
+}

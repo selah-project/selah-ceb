@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "ug sa pag-ukit sa bato aron ⟨sa⟩ pagbutang, ug sa pag-ukit sa kahoy, sa pagbuhat sa tanan nga buhat sa matinud-anong pagdesinyo",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "ug sa pag-ukit"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bato"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "aron pagbutang"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "ug sa pag-ukit"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "matinud-anong pagdesinyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:43.559654977Z",
+  "model": "glm-5.3"
+}

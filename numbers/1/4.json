@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ⟨kauban ninyo⟩ ⟨mang angel⟩ — matag usa ka tawo alang sa iyang tribo, matag usa ⟨usa ka ulo⟩ alang sa balay sa iyang mga amahanan — mao kini ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ug kauban ninyo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mang angel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa ka tawo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "alang sa iyang tribo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "usa ka ulo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "alang sa balay"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sa iyang mga amahanan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "mao kini siya"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:14.923318538Z",
+  "model": "glm-5.3"
+}

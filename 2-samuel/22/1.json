@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug nagsulti si David kang Yahweh ⟨את⟩ ang mga pulong niini nga awit, sa adlaw nga gitluwas ni Yahweh ⟨את⟩ ⟨siya⟩ gikan sa kamot sa tanan niyang mga kaaway ug gikan sa kamot ni Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga pulong"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ang mga pulong"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "niini nga awit"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gitluwas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨siya⟩",
+      "marks": "siya (gitluwas)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "niyang mga kaaway"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "ug gikan sa kamot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:06.649776359Z",
+  "model": "glm-5.3"
+}

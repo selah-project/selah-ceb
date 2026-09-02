@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Kini ang ilang dalan — kabuang alang kanila; ug ⟨ang mga mosunod⟩ kanila malipay sa ilang mga baba ⟨mga pulong⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ang ilang dalan"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "kabuang"
+    },
+    {
+      "surface": "למו",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ug ang mosunod kanila"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "sa ilang mga baba"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "malipay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:28.555859121Z",
+  "model": "glm-5.3"
+}

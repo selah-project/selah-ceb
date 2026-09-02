@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 4:2",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gibaligya sila ni Yahweh ⟨sa kamot⟩ ni Yavin, hari sa Kena'an, nga naghari khakatzor; ug ang katulong sa iyang kusog si Sisra, ug ⟨siya⟩ nagpuyo khakharoshet sa mga goyim.",
+  "tokens": [
+    {
+      "surface": "וימכרם",
+      "gloss": "ug gibaligya sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yavin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kena'an"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בחצור",
+      "gloss": "khakatzor"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ug ang katulong sa kusog"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "iyang kusog"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisra"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בחרשת",
+      "gloss": "khakharoshet"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sa mga goyim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:52.670411920Z",
+  "model": "glm-5.3"
+}

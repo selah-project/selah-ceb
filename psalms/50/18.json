@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Kung nakakita ka ug kawatan, nagdagan ka kauban niya, ug kauban sa mga manaplag ang imong bahin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "nakakita ka"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "kawatan"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "nagdagan ka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug kauban sa"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mga manaplag"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ang imong bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.173217486Z",
+  "model": "glm-5.3"
+}

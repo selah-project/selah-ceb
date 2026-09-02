@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "ug magapadala ang mga tigulang sa iyang dakbayan, ug magakuha ⟨את⟩ kaniya gikan didto, ug magahatag ⟨את⟩ kaniya sa kamot sa manunubos sa dugo, ug mamatay ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "ug magapadala"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ang mga tigulang"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sa iyang dakbayan"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ug magakuha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "kaniya (ang tawo)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ug magahatag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "kaniya (sa kamot sa manunubos)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "sa manunubos"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ug mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:51:40.417618517Z",
+  "model": "glm-5.3"
+}

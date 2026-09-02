@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Pagtulon-an ako sa pagbuhat sa imong kabubut-on, kay ikaw ⟨ang⟩ akong Eloah; ang imong espiritu maayo, itudlo ako ngadto sa yutang patag.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Pagtulon-an ako"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "sa imong kabubut-on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "akong Eloah"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ang imong espiritu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "itudlo ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "patag (matarong)"
+    }
+  ],
+  "timestamp": "2026-09-02T00:46:12.479283574Z",
+  "model": "glm-5.3"
+}

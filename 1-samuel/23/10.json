@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug miingon si David: Yahweh, Elohim sa Israel, ang imong sulugoon nakadungog gayod nga si Shaul nangita sa pag-anhi ngadto sa Keilah sa paglaglag sa dakbayan tungod kanako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ang imong sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nangita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "sa pag-anhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "sa paglaglag"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "tungod kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:19.545841448Z",
+  "model": "glm-5.3"
+}

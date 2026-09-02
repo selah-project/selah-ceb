@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug magapamatia ka sa tingog ni Yahweh ⟨nga⟩ imong Elohim, ug buhaton nimo ⟨את⟩ ang iyang mga sugo ug ⟨את⟩ ang iyang mga balaod, nga ako nagasugo kanimo kining adlawa.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ug magapamatia ka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "sa tingog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga sugo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ang iyang mga sugo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang mga balaod"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "ang iyang mga balaod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nagasugo kanimo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kining adlawa"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:58.791232482Z",
+  "model": "glm-5.3"
+}

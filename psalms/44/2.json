@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Elohim, sa among mga dalunggan among nadungog; ang among mga amahan nag-estorya kanamo ⟨mahitungod sa⟩ buhat nga imong gibuhat sa ilang mga adlaw, sa mga adlaw sa unang panahon.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "sa among mga dalunggan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "among nadungog"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ang among mga amahan"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nag-estorya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "imong gibuhat"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "sa ilang mga adlaw"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sa unang panahon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:36.993402805Z",
+  "model": "glm-5.3"
+}

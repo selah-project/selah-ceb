@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Kinsa ang makasulti sa mga pagpanimalus ni Yahweh, ⟨kinsa ang makapahibalo⟩ sa tibuok niyang pagpadayag?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "makasulti"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "sa mga pagpanimalus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "makapahibalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "niyang pagpadayag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.662670432Z",
+  "model": "glm-5.3"
+}

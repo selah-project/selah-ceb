@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 87,
+  "translation": "Alang sa mga anak ni Korach, usa ka mizmor, usa ka awit. Ang iyang katungdan ⟨anas⟩ sa mga bungtod sa kadasdanan.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "alang sa mga anak ni"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "usa ka awit"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "ang iyang katungdan"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "sa mga bungtod sa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadasdanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:08.507866574Z",
+  "model": "glm-5.3"
+}

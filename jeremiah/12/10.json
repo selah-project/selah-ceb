@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Daghan nga mga magbalantabong naglaglag sa akong ubasan, gilitod nila ⟨את⟩ ang akong bahin; gihimo nila ⟨את⟩ ang bahin sa akong kalipay nga kamingawan nga kagun-ob.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "mga magbalantabong"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "naglaglag"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "akong ubasan"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "gilitod nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong bahin"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "akong bahin"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bahin sa akong kalipay"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "bahin"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "akong kalipay"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "nga kamingawan"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "kagun-ob"
+    }
+  ],
+  "timestamp": "2026-09-01T21:18:37.980008958Z",
+  "model": "glm-5.3"
+}

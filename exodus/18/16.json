@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Tungod kay kung aduna sila'y butang, modangat kini kanako, ug magahukom ako taliwala sa usa ka tawo ug sa iyang isigkatawo, ug ipahibalo nako ⟨את⟩ ang mga balaod ni Elohim ug ⟨את⟩ ang iyang mga katudlo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tungod kay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kung aduna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sila'y"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "butang"
+    },
+    {
+      "surface": "בא",
+      "gloss": "modangat"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "ug magahukom ako"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "usa ka tawo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iyang isigkatawo"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "ug ipahibalo nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga balaod ni Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mga balaod"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang mga katudlo"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "iyang mga katudlo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:53.280497601Z",
+  "model": "glm-5.3"
+}

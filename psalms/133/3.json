@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 133,
+  "translation": "Ingon sa yano sa Chermon nga nagadagayday sa kabukiran sa Tsion, kay didto gisugo ni Yahweh ⟨את⟩ ang panalangin — kinabuhi hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Ingon sa yano"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nagadagayday"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "kabukiran"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panalangin"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ang panalangin"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kinabuhi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.005709628Z",
+  "model": "glm-5.3"
+}

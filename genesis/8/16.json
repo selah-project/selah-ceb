@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gawas ka gikan sa arka — ikaw, ug ang imong asawa, ug ang imong mga anak, ug ang mga asawa sa imong mga anak, kauban ⟨את⟩ nimo.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Gawas ka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "ug ang imong asawa"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "ug ang imong mga anak"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ug ang mga asawa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sa imong mga anak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kauban ⟨את⟩ nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:31.983205184Z",
+  "model": "glm-5.3"
+}

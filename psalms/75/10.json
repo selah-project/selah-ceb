@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Ako, isulti ko ⟨kini⟩ hangtod sa kahangturan; magaawit ako sa pagdayeg kang Elohim ni Yaakov.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "isulti ko"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "magaawit ako"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:06.745720889Z",
+  "model": "glm-5.3"
+}

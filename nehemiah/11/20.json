@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ang salin ni Yisrael, ang mga kohanim ug ang mga Leví, anaa sa tanang mga dakbayan sa Yehudah, matag usa sa iyang mana.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Ug ang salin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga kohanim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ang mga Leví"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag usa"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "sa iyang mana"
+    }
+  ],
+  "timestamp": "2026-09-01T23:07:22.792682736Z",
+  "model": "glm-5.3"
+}

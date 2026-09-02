@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Kon sa pagbungkag makaplagan ang kawatan ug gigamtan ug mamatay, walay ⟨bayad sa⟩ dugo alang kaniya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "sa pagbungkag"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ang kawatan"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ug gigamtan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ug mamatay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "dugo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:40.088478386Z",
+  "model": "glm-5.3"
+}

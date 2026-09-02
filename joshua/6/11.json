@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gipalibot ang arca ni Yahweh ⟨את⟩ ⟨sa⟩ dakbayan, pag-ikot nga usa ka higayon; ug nisulod sila sa kampo ug nagpabilin ug gabii didto sa kampo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ug gipalibot"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "pag-ikot"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ug nisulod sila"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "ug nagpabilin ug gabii"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "sa kampo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:58:02.883616998Z",
+  "model": "glm-5.3"
+}

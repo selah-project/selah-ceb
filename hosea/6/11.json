@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 6:11",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug kang Yehudah usab — may gitakda nga ani alang kanimo, sa akong pagbalik sa pagkabihag sa akong katawhan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kang Yehudah"
+    },
+    {
+      "surface": "שת",
+      "gloss": "gitakda"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "alang kanimo"
+    },
+    {
+      "surface": "בשובי",
+      "gloss": "sa akong pagbalik"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:55.280565804Z",
+  "model": "glm-5.3"
+}

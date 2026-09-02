@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug ang mga Ebreo nakatabok ⟨את⟩ sa Jordan ngadto sa yuta sa Gad ug sa Gilead; apan si Shaul anaa pa sa Gilgal, ug ang tibuok katawohan nangurog pagtagad kaniya.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ug ang mga Ebreo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nakatabok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Jordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Jordan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "גד",
+      "gloss": "sa Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "ug sa Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "apan si Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "anaa pa"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "sa Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawohan"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "nangurog"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pagtagad kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:28.505351255Z",
+  "model": "glm-5.3"
+}

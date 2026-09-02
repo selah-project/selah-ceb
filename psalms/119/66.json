@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Turuki ako ug maayong pagbansi ug kahibalo, kay sa imong mga sugo ako nagtuo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "pagbansi"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ug kahibalo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "turuki ako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "sa imong mga sugo"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ako nagtuo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:24.946303358Z",
+  "model": "glm-5.3"
+}

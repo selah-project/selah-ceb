@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": " Ug kuhaa nimo ⟨את⟩ ang lana sa pagdihog ug idihog nimo ⟨את⟩ ang Mishkan ug ⟨את⟩ ang tanan nga anaa kanina, ug pagabalaanon nimo kiniya ⟨את⟩ ug ⟨את⟩ ang tanan nga iyang mga kagamitan, ug mahimong ⟨balaan⟩ kini.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ug kuhaa nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang lana sa pagdihog"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "sa pagdihog"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ug idihog nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ang Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga anaa kanina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "anaa kanina"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ug pagabalaanon nimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kiniya",
+      "marks": "kiniya (ang Mishkan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tanan nga iyang mga kagamitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "iyang mga kagamitan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:01.978981790Z",
+  "model": "glm-5.3"
+}

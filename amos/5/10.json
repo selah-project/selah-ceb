@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Gigikiran nila ang nagatudlo sa ganghaan, ug ang nagsulti ug tinuod gikasilagan nila.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "gigikiran nila"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "ang nagatudlo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ug ang nagsulti"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tinuod"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "gikasilagan nila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:53:54.542636788Z",
+  "model": "glm-5.3"
+}

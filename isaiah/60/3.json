@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Ug ang mga nasod molakaw sa imong kahayag, ug ang mga hari sa sinaw sa imong pagsikat.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "molakaw"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "sa imong kahayag"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ug ang mga hari"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "sa sinaw"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "sa imong pagsikat"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:51.381432906Z",
+  "model": "glm-5.3"
+}

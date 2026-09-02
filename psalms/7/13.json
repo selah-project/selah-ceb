@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Kon dili ⟨siya⟩ mobalik, iyang gikapisan ⟨ang⟩ iyang espada; iyang gisandig ⟨ang⟩ iyang pana, ug gihimo kini nga andam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "iyang espada"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "gikapisan"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "iyang pana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "gisandig"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "ug gihimo kini nga andam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.966147017Z",
+  "model": "glm-5.3"
+}

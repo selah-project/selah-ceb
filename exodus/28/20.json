@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 28:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug ⟨ang⟩ ikaupat nga linya: berilo, onix, ug jaspe; himoon ⟨sila⟩ nga gisalipdan sa bulawan sa ilang mga butanganan.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "Ug ang linya"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ikaupat nga"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "berilo"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "ug onix"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ug jaspe"
+    },
+    {
+      "surface": "משבצים",
+      "gloss": "gisalipdan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "bulawan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "himoon sila"
+    },
+    {
+      "surface": "במלואתם",
+      "gloss": "sa ilang mga butanganan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:03.635184588Z",
+  "model": "glm-5.3"
+}

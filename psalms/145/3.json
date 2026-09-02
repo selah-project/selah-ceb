@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Dako si Yahweh ug tonog nga dayegon ⟨siya⟩ ug kaayo, ug sa iyang kadako dili may igsukod.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ug dayegon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ug kaayo"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ug sa iyang kadako"
+    },
+    {
+      "surface": "אין",
+      "gloss": "dili may"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "igsukod (pagsusi)"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:11.519899441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ang tanan nga akong mga bukog moingon: Yahweh, kinsa ang sama kanimo, nga nagluwas sa kabos gikan sa mas kusgan kaniya, ug sa kabos ug sa timawa gikan sa nagpangawat kaniya?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Ang tanan"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "nga akong mga bukog"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "moingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ang sama kanimo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "nga nagluwas"
+    },
+    {
+      "surface": "עני",
+      "gloss": "sa kabos"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "gikan sa mas kusgan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ug sa kabos"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug sa timawa"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "gikan sa nagpangawat kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:24.437232412Z",
+  "model": "glm-5.3"
+}

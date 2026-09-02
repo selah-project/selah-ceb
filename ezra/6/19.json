@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gibuhat sa mga anak sa pagkabihag ⟨את⟩ ang Pesach, sa ikanapulog-upat nga adlaw sa unang bulan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ug gibuhat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ang Pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "sa ikanapulog-upat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "sa unang"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "bulan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:15.764409067Z",
+  "model": "glm-5.3"
+}

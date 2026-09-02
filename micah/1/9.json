@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay walay kaulian ang iyang mga samad; kay kini miabot bisan sa Yehudah; mitultol hangtod sa ganghaan sa akong katawhan, hangtod sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "walay kaulian"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "ang iyang mga samad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באה",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bisan sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "mitultol"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ganghaan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T21:55:27.421795169Z",
+  "model": "glm-5.3"
+}

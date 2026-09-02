@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ang akong hinigugma ⟨nga si dodi⟩ susama sa gazela o sa guya sa iyal; ania kini, nagtindog siya sa luyo sa among bongbong, nagatan-aw gikan sa mga bintana, naglusi gikan sa mga grill.",
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "susama"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ang akong hinigugma"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "sa gazela"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "sa guya"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "sa mga iyal"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa luyo"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "sa among bongbong"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "nagatan-aw"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "mga bintana"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "naglusi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "mga grill"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:27.678065054Z",
+  "model": "glm-5.3"
+}

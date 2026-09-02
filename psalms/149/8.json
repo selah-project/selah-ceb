@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 149,
+  "translation": "Sa paghigot sa ilang mga hari ug kadenang putos, ug sa ilang mga bantogan ug kadena sa puthaw.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "sa paghigot"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "sa ilang mga hari"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ug kadenang putos"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ug sa ilang mga bantogan"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ug kadena"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sa puthaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:55.279904094Z",
+  "model": "glm-5.3"
+}

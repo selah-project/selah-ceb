@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug akong gipangutana: Asa ka ⟨padulong⟩? Ug siya mitubag kanako: Sa pagsukod ⟨את⟩ Yerushalayim, aron makita unsa ang gilapdon niini ug unsa ang gitas-on niini.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ug akong gipangutana"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "⟨padulong⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug siya mitubag"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "למד",
+      "gloss": "sa pagsukod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron makita"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "unsa ang"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "gilapdon niini"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "ug unsa ang"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "gitas-on niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:00:15.287241546Z",
+  "model": "glm-5.3"
+}

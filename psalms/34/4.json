@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Padak-ola ninyo si Yahweh uban ⟨את⟩ kanako, ug itaas nato ang iyang ngalan magkausa.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Padak-ola ninyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ uban kanako"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "ug itaas nato"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkausa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:37.601938721Z",
+  "model": "glm-5.3"
+}

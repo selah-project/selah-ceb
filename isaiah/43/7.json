@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "⟨Ang⟩ tanan nga gitawag sa akong ngalan, ug ⟨nga gimugna⟩ alang sa akong himaya: gibuhat nako siya, giporma nako siya, ug gihimo nako siya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "nga gitawag"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sa akong ngalan"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "ug alang sa akong himaya"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "gibuhat nako siya"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "giporma nako siya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ug"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "gihimo nako siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:27.627670208Z",
+  "model": "glm-5.3"
+}

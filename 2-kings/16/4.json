@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug mihalad siya ug misunog ug insenso sa mga kahitas-an ug sa mga bungtod, ug sa ubos sa matag lunhaw nga kahoy.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Ug mihalad siya"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ug misunog ug insenso"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "sa mga kahitas-an"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "mga bungtod"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ug sa ubos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa matag"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "lunhaw \/ malambo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:52.302436083Z",
+  "model": "glm-5.3"
+}

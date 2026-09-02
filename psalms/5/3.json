@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Paminawa ang tingog sa akong pagpanawag, akong hari ug akong Elohim, kay kanimo ako mag-ampo.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "sa akong pagpanawag"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "akong hari"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ug akong Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ako mag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.467360659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Sumala sa ihap nga inyong buhaton, ingon niana inyong buhaton alang sa matag usa, sumala sa ilang ihap.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Sumala sa ihap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "inyong buhaton"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ingon niana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "inyong buhaton"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "alang sa matag usa"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "sumala sa ilang ihap"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:39.963319369Z",
+  "model": "glm-5.3"
+}

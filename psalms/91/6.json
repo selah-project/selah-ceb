@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "sa peste nga molakaw sa kangitngit, ni sa katala-an nga molaglag sa udto.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "sa peste"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "nga molakaw"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "ni sa katala-an"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "nga molaglag"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "sa udto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.010754867Z",
+  "model": "glm-5.3"
+}

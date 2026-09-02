@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Imong gihatag kanila, gitigum nila; imong gibuksan ang imong kamot, nabusog sila sa maayo.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "imong gihatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "gitigum nila"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "imong gibuksan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "nabusog sila"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sa maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:20.118835539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Sa unang adlaw mahimong tinawag nga pagkatipon nga balaan alang kaninyo; ang tanan nga buhat sa pag-alagad dili ninyo buhaton.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "sa unang"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "tinawog nga pagkatipon"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "nga buhat"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ninyo buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:12.869949527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Pag-awit kamo sa kavod sa iyang ngalan; butangi ug kavod ang iyang pagdayeg.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "pag-awit kamo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "iyang ngalan"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "butangi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "iyang pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:26.442543197Z",
+  "model": "glm-5.3"
+}

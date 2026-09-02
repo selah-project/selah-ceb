@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug migula ang mga tawo sa Yisrael gikan sa Mitzpa ug nagdumili sila ⟨את⟩ sa mga Pilistinhon, ug gihampak nila sila hangtod sa ubos sa Beit-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ug migula"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo sa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitzpa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ug nagdumili sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga Pilistinhon"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "mga Pilistinhon"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ug gihampak nila sila"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:13.741463820Z",
+  "model": "glm-5.3"
+}

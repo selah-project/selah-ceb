@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 65,
+  "translation": "Ug magtindog sila ug mga balay ug mopuyo ⟨sulod⟩ niini, ug magtanom ug mga parasan ug mokaon sa bunga niini.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ug magtindog sila"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "mga balay"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ug mopuyo sila"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ug magtanom sila"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "mga parasan"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ug mokaon sila"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "bunga niini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:12:57.828748036Z",
+  "model": "glm-5.3"
+}

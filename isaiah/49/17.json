@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Nagdali ang imong ⟨mga⟩ magtutukod; ang imong mga mangguba ug ang imong mga manglutos gikan kanimo mogula.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "nagdali"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ang imong ⟨mga⟩ magtutukod"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "ang imong mga mangguba"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "ug ang imong mga manglutos"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "mogula"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:56.239022039Z",
+  "model": "glm-5.3"
+}

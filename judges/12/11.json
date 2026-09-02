@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug human kaniya naghukom ⟨את⟩ sa Yisrael si Elon ⟨ang⟩ Zevulonnon, ug gihukom niya ⟨את⟩ ang Yisrael napulo ka tuig.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ug naghukom"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "human kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "si Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "⟨ang⟩ Zevulonnon"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ug gihukom niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ang Yisrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:09:05.240970733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miingon siya kanako: Anak sa tawo, tumindog ka sa imong mga tiil, ug magasulti ako ⟨את⟩ kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tumindog ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "imong mga tiil"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "ug magasulti ako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kanimo",
+      "marks": "kanimo (ikaw)"
+    }
+  ],
+  "timestamp": "2026-09-01T21:33:05.419337840Z",
+  "model": "glm-5.3"
+}

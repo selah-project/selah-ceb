@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ngano nga wala ka man magbantay sa ⟨את⟩ panumpa kang Yahweh ug sa ⟨את⟩ sugo nga akong gitugo kanimo?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ka man magbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panumpa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "panumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sugo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "sugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akong gitugo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:43.049519403Z",
+  "model": "glm-5.3"
+}

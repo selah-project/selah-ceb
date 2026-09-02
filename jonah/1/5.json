@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 1:5",
+  "book": "jonah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Nahadlok ang mga mangangayaw ug ang matag usa nakigsangil sa iyang Elohim, ug gisalibay nila ⟨את⟩ ang mga kagamitan nga anaa sa sakayan ngadto sa dagat aron mahimong gaan ⟨kini⟩ alang kanila; apan si Yonah mikunsad ngadto sa kinailhanon ⟨sa]] sulod sa sakayan, nagtigbabaw, ug natolog og bug-at.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "nahadlok"
+    },
+    {
+      "surface": "המלחים",
+      "gloss": "ang mga mangangayaw"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "nakigsangil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iyang Elohim"
+    },
+    {
+      "surface": "ויטלו",
+      "gloss": "gisalibay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga kagamitan"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ang mga kagamitan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באניה",
+      "gloss": "anaa sa sakayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "aron mahimong gaan"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "alang kanila"
+    },
+    {
+      "surface": "ויונה",
+      "gloss": "apan si Yonah"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "mikunsad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "kinailhanon"
+    },
+    {
+      "surface": "הספינה",
+      "gloss": "sa sakayan"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "nagtigbabaw"
+    },
+    {
+      "surface": "וירדם",
+      "gloss": "natolog og bug-at"
+    }
+  ],
+  "timestamp": "2026-09-01T21:56:16.474228260Z",
+  "model": "glm-5.3"
+}

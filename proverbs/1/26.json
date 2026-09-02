@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ako usab magatawa sa inyong kadaot, magapasipya ⟨sa⟩ pag-abot sa inyong kahadlok.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "sa inyong kadaot"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "magatawa"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "magapasipya"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "sa pag-abot"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "sa inyong kahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:04.326964502Z",
+  "model": "glm-5.3"
+}

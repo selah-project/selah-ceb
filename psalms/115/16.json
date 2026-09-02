@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "⟨Ang⟩ kalangitan — kalangitan nga kay Yahweh, apan ⟨ang⟩ yuta iyang gihatag sa mga anak ni Adam — sa mga tawo.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "⟨ang⟩ kalangitan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kalangitan nga kay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "apan ⟨ang⟩ yuta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iyang gihatag"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa mga anak ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam — sa mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:59.396662111Z",
+  "model": "glm-5.3"
+}

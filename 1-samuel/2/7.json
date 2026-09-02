@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Si Yahweh nagapobrehon ug nagapadatoon, nagapaubos ug usab nagapataas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Si Yahweh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "nagapobrehon"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "ug nagapadatoon"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "nagapaubos"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "nagapataas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:12:50.164468002Z",
+  "model": "glm-5.3"
+}

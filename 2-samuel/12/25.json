@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gipadala ⟨⟨niya⟩⟩ pinaagi sa kamot ni Natan ang propeta, ug gitawag niya ⟨את⟩ ang iyang ngalan nga Yedidyah, tungod kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa kamot"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ni Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ang propeta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tungod kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:33.010126496Z",
+  "model": "glm-5.3"
+}

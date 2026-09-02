@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Kay siya magaluwas ⟨kanimo⟩ gikan sa panik sa mananagip, gikan sa makagunong nga peste.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "magaluwas kanimo"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "gikan sa panik"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "sa mananagip"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gikan sa peste"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "makagunong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.777742381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Ug mga pulong sa pagdumot ang naglibut kanako, ug nakiggubat sila kanako nga walay hinungdan.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ug mga pulong"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "sa pagdumot"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "naglibut kanako"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "ug nakiggubat sila kanako"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay hinungdan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:45.217936698Z",
+  "model": "glm-5.3"
+}

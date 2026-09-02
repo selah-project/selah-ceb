@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Busa ang tanan nga mga adlaw ni Enosh mipaubos ⟨sa⟩ lima ka tuig ug siyam ka gatos ka tuig, ug namatay siya.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mipaubos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ni Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ug siyam"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "namatay siya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:28.855791074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug miingon si David: Ihahalin ba sa mga agalon sa Keilah ⟨את⟩ ako ug ⟨את⟩ ang akong mga tawo ngadto sa kamot ni Shaul? Ug miingon si Yahweh: Ihalin ⟨nila⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Ihahalin ba"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "sa mga agalon"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga tawo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang akong mga tawo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Ihalin"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:19.546209750Z",
+  "model": "glm-5.3"
+}

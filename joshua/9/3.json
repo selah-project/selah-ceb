@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ang mga pumoluyo sa Gibon nakadungog ⟨את⟩ sa mga butang nga gibuhat ni Yehoshua sa Yericho ug sa Ai.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Ug ang mga pumoluyo"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "sa Gibon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga butang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "sa Yericho"
+    },
+    {
+      "surface": "ו לעי",
+      "gloss": "ug sa Ai"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:23.003054652Z",
+  "model": "glm-5.3"
+}

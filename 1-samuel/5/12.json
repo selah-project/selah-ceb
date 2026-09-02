@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug ang mga tawo nga wala mamatay gihampak sa mga gukdon, ug ang pagpanawag sa dakbawan mitaas ngadto sa langit.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Ug ang mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "sa mga gukdon"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ug mitaas"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "ang pagpanawag"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbawan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ngadto sa langit"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:46.573030064Z",
+  "model": "glm-5.3"
+}

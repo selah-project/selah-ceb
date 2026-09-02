@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug si David nagsugo ngadto kang Yoab: Sugo ngari kanako ⟨את⟩ si Uriya nga Hitita. Ug si Yoab nagsugo ⟨את⟩ si Uriya ngadto kang David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ug nagsugo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sugo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriya nga Hitita"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "nga Hitita"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Ug nagsugo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "si Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:13.664858578Z",
+  "model": "glm-5.3"
+}

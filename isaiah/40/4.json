@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ang tanang wangdang mapanas, ug ang tanang bukid ug bungtod mubnon; ug ang siniko mahimong tul-id, ug ang mga lapok mahimong patag ⟨nga kapladan⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanang"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "wangdang"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "mapanas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanang"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "ug bungtod"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "mubnon"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ang siniko"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "tul-id"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "ug ang mga lapok"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "patag nga kapladan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:39:46.719825769Z",
+  "model": "glm-5.3"
+}

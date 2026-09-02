@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Dili ba kini gitipig ⟨kanako⟩ ug giselyohan sa akong mga tipiganan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Dili ba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "gitipig"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "giselyohan"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "sa akong mga tipiganan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:42.667285885Z",
+  "model": "glm-5.3"
+}

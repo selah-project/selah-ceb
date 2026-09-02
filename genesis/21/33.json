@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagtanum si Avraham og eshel ⟨sa⟩ Be'er-Sheva, ug nagtawag siya didto sa ngalan ni Yahweh, El Olam.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "nagtanum"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "eshel"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "⟨sa⟩ Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nagtawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Olam"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:28.645674804Z",
+  "model": "glm-5.3"
+}

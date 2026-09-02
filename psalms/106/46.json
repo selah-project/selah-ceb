@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug gihatag niya sila ⟨את⟩ ngadto sa mga kaluoy sa atubangan sa tanan nga nangbihag kanila.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ngadto sa mga kaluoy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa atubangan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "nga nangbihag kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.182133063Z",
+  "model": "glm-5.3"
+}

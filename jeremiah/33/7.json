@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug ako magapabalik ⟨את⟩ sa pagkabihag sa Yehudah ug ⟨את⟩ sa pagkabihag sa Yisrael, ug ako magatukod sila ingon sa sa sinugdanan.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ug ako magapabalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagkabihag sa Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sa pagkabihag sa Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sa pagkabihag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ug ako magatukod sila"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ingon sa sa sinugdanan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:25:11.455388340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug magpadala ako kaninyo sa ⟨את⟩ mga mananap sa kapatagan, ug magpahanaw kini ⟨את⟩ kaninyo, ug magpaputol kini ⟨את⟩ sa inyong mga kahayupan, ug magpagamay kini ⟨את⟩ kaninyo, ug manginmingaw ang inyong mga dalan.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Ug magpadala ako"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga mananap sa kapatagan"
+    },
+    {
+      "surface": "חית",
+      "gloss": "mga mananap"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ug magpahanaw kini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ug magpaputol kini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyong mga kahayupan"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "inyong mga kahayupan"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "ug magpagamay kini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "ug manginmingaw"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ang inyong mga dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:18.302742604Z",
+  "model": "glm-5.3"
+}

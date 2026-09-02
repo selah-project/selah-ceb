@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Busa si Shmuel mibalik human ni Shaul, ug si Shaul nagsimba kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mibalik"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shmuel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human ni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "nagsimba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "si Shaul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:28.515906077Z",
+  "model": "glm-5.3"
+}

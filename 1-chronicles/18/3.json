@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gihampak ni Davíd ⟨את⟩ si Hadadezer nga hari sa Tsova, hangtod sa Hamat, sa iyang pagpanaw sa pagbutang sa iyang kamot sa suba sa Perat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "si Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "sa Tsova"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "hangtod sa Hamat"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "sa iyang pagpanaw"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "sa pagbutang"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "sa Perat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:52.933422822Z",
+  "model": "glm-5.3"
+}

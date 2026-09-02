@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug giavat ⟨את⟩ sa iyang mga mata ug nakita niya ⟨את⟩ ang mga babaye ug ⟨את⟩ ang mga bata, ug miingon siya: Kinsa man ni sila nga ⟨mga⟩ imoha? Ug miingon siya: Ang mga bata nga gipalabi ni Elohim ⟨את⟩ ang imong sulogoon.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "giavat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga mata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mga mata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga babaye"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babaye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga bata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini sila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imoha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ang mga bata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "gipalabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong sulogoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulogoon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:01.575777351Z",
+  "model": "glm-5.3"
+}

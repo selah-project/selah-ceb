@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Paminaw, Yahweh, ug kaloy-i ako; Yahweh, ⟨magpabilin⟩ nga tabang kanako.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Paminaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ug kaloy-i ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨magpabilin⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "tabang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:17.655657286Z",
+  "model": "glm-5.3"
+}

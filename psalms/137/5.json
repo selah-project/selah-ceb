@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Kon kalimtan ko ikaw, Yerushalayim, kalimti ⟨ang⟩ akong kamot-tuo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "kalimtan ko ikaw"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kalimti"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "akong kamot-tuo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.695256629Z",
+  "model": "glm-5.3"
+}

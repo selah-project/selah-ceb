@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Nahitabo, sa pagdidto ni Dovid ⟨את⟩ Edom, sa pagsaka ni Yoav nga Punuan sa kasundalohan sa paglubong ⟨את⟩ sa mga napatay, nga gipatay niya ang tanan nga lalaki sa Edom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitubo"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "sa pagdidto"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "sa pagsaka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Punuan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sa kasundalohan"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "sa paglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga napatay"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ang mga napatay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gipatay niya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lalaki"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:03.250228720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang tanan nga mga taga-Mitsrayim naglukob sa palibot sa suba sa pagpangita ug tubig nga mainumon, kay wala sila makahimo sa pag-inom sa mga tubig sa suba.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "Ug naglukob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mga taga-Mitsrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "sa palibot sa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makahimo"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "sa mga tubig sa"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "suba"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:46.915618766Z",
+  "model": "glm-5.3"
+}

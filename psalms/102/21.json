@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Sa pagdungog sa pagpanangis sa binilanggo, sa pagpagawas sa mga anak sa kamatayon ⟨nga gitudlo⟩;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "sa pagdungog"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "sa pagpanangis"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "sa binilanggo"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sa pagpagawas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:53.944275799Z",
+  "model": "glm-5.3"
+}

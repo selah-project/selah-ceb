@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Gihatag mo ang kalipay sa akong kasingkasing, ⟨labaw pa⟩ sa panahon nga ang ilang humay ug ilong bag-ong bino nagadaghan.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Gihatag mo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ang kalipay"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sa akong kasingkasing"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "sa panahon"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ang ilang humay"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "ug ilang bag-ong bino"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "nagadaghan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:29.029827789Z",
+  "model": "glm-5.3"
+}

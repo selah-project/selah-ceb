@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug si Yosef nag-ingon kanila: Kini ⟨ang⟩ gisulti ko kaninyo sa pag-ingon: Mga espiya kamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug nag-ingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Kini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ang⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "gisulti ko"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sa pag-ingon"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:52.344325119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kawalay-sulod sa mga kawalay-sulod, miingon si Kohelet; kawalay-sulod sa mga kawalay-sulod, ⟨ang⟩ tanan ⟨nga⟩ kawalay-sulod.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "kawalay-sulod"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "sa mga kawalay-sulod"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "si Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kawalay-sulod"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "sa mga kawalay-sulod"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨ang⟩ tanan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kawalay-sulod"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:50.429557207Z",
+  "model": "glm-5.3"
+}

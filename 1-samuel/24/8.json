@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug gipakumbinsir ni David ⟨את⟩ sa iyang mga tawo pinaagi sa mga pulong, ug wala niya sila pagtugota sa pagtindog batok kang Shaul; ug si Shaul mitindog gikan sa lungag ug milakaw sa dalan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Ug gipakabahin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang mga tawo"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "sa iyang mga tawo"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "niya pagtugota sila"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "sa pagtindog"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batok"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ug si Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "gikan sa lungag"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug milakaw"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:43.305792380Z",
+  "model": "glm-5.3"
+}

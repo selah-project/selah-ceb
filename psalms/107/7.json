@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Giya niya sila sa ⟨ usa ka ⟩ tul-id nga dalan, sa pag-adto ngadto sa ⟨ usa ka ⟩ dakbayan nga puy-anan.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Giya niya sila"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "tul-id"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "sa pag-adto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "puy-anan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.000298495Z",
+  "model": "glm-5.3"
+}

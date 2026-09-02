@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Kanako ang Gilad, ug kanako ang Menashsheh, ug ang Efrayim ⟨ang⟩ kusog sa akong ulo, ang Yehudah mao ang akong magtatakda sa balaod.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ug kanako"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ug ang Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "sa akong ulo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "akong magtatakda sa balaod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:05.286602228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug mahitabo nga ang madakpan uban sa herem sunogon sa kalayo — ⟨siya⟩ ⟨את⟩ ug ⟨את⟩ ang tanan nga iya, kay nakalapas ⟨את⟩ siya sa pakigsaad ni Yahweh ug kay nagbuhat siya ug kaulaw sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ug mahitabo"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "ang madakpan"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "uban sa herem"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sunogon"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga iya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nakalapas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pakigsaad"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "sa pakigsaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ug kay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ug kaulaw"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:38.918655485Z",
+  "model": "glm-5.3"
+}

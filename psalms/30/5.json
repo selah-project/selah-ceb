@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Mag-awit kamo kang Yahweh, ⟨mga⟩ biniaya niya, ug pagbaton kamo sa paghandum sa iyang pagkabalaan.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mag-awit kamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "⟨mga⟩ biniaya niya"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ug pagbaton kamo"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "sa paghandum"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa iyang pagkabalaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:54.423148837Z",
+  "model": "glm-5.3"
+}

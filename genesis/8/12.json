@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug naghulat pa og pito ka adlaw nga lain, ug gipadala niya ⟨את⟩ ang salampati, ug wala na siya magdugang og pagbalik kaniya pa.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ug naghulat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "pito ka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga lain"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang salampati"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "salampati"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala na"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "magdugang"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "og pagbalik"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na pa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:21.763577416Z",
+  "model": "glm-5.3"
+}

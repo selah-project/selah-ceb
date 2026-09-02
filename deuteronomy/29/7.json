@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug gikuha namo ⟨את⟩ ang ilang yuta, ug gihatag namo kini isip panunungan sa mga Reubenita, ug sa mga Gadita, ug sa katunga sa tribo ni Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Ug gikuha namo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ilang yuta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ang ilang yuta"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ug gihatag namo kini"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "isip panunungan"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "sa mga Reubenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ug sa mga Gadita"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ug sa katunga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sa tribo"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ni Menashe"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:10.090158550Z",
+  "model": "glm-5.3"
+}

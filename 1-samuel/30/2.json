@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Gidala nila nga bihag ⟨את⟩ ang mga babaye ⟨nga⟩ anaa niini, gikan sa gamay hangtod sa dako; wala nila pagapatay ang bisan usa ka tawo, apan gidala nila sila ug nangadto sila sa ilang dalan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Gidala nila nga bihag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga babaye"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ang mga babaye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨nga⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "anaa niini"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "gikan sa gamay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "nila pagapatay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bisan usa ka tawo"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "gidala nila sila"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nangadto sila"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "sa ilang dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:25:03.131140305Z",
+  "model": "glm-5.3"
+}

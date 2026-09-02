@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ang akong mata nagpasubo sa akong kalag tungod sa tanang mga anak nga babaye sa akong dakbayan.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ang akong mata"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "nagpasubo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "sa akong kalag"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tungod sa tanang"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "mga anak nga babaye"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "sa akong dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:38.724741637Z",
+  "model": "glm-5.3"
+}

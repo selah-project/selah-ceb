@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 19:17",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug ang yuta sa Yehudah mahimong kahadlok ⟨alang⟩ sa Mitsrayim; bisan kinsa nga mohisgut ⟨את⟩ niini ngadto kaniya, mahadlok siya, tungod sa tambag ni Yahweh Tsevaot, nga ⟨siya⟩ nagatambag batok niini.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "alang sa Mitsrayim"
+    },
+    {
+      "surface": "לחגא",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan kinsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יזכיר",
+      "gloss": "mohisgut"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang yuta sa Yehudah)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "יפחד",
+      "gloss": "mahadlok siya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "tambag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "nagatambag"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "batok niini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:03.630000122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug nagpaulan siya kanila ug man sa pagkaon, ug bugas sa langit iyang gihatag kanila.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Ug nagpaulan siya"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ug man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "sa pagkaon"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "ug bugas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "iyang gihatag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:57.018567291Z",
+  "model": "glm-5.3"
+}

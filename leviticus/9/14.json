@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gihimlan niya ug hinlo ⟨את⟩ ang tinai ug ⟨את⟩ ang mga tiil, ug gisunog niya kini sa ibabaw sa halad nga sinunog, diha sa altar.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "Ug gihimlan niya ug hinlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tinai"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ang tinai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga tiil"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ang mga tiil"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ug gisunog niya kini"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "halad nga sinunog"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "diha sa altar"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:58.683579761Z",
+  "model": "glm-5.3"
+}

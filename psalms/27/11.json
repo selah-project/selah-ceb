@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Tudloi ako, Yahweh, sa imong dalan, ug giyahi ako sa dalag tinul-id, tungod sa akong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Tudloi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sa imong dalan"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ug giyahi ako"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sa dalag"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "tinul-id"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "akong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:20.898566835Z",
+  "model": "glm-5.3"
+}

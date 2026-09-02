@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Ang yuta nanglindol, ug ang mga langit nagtulo sa atubangan ni Elohim — kining ⟨ang⟩ Sinai — sa atubangan ni Elohim, sa Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "nanglindol"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ug"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nagtulo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sa atubangan ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "sa Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:10.853287145Z",
+  "model": "glm-5.3"
+}

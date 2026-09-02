@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Namatay ang hari ug ⟨siya⟩ gidala ngadto sa Shomeron, ug gilubong nila ⟨את⟩ ang hari sa Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "namatay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "gidala ngadto"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gilubong nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "sa Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:23.313467715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug miingon si David kang Shaul: Ngano nga mamati ka ⟨sa⟩ ⟨את⟩ mga pulong sa tawo, nga nagaingon: Ania karon, si David nangita sa imong kadaot?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kang Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mamati ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pulong sa tawo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nangita"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "sa imong kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:19.647747587Z",
+  "model": "glm-5.3"
+}

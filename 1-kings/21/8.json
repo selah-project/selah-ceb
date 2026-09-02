@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug nagsulat siya ug mga sulat sa ngalan ni Ahab, ug gisilyo kini sa iyang silyo, ug gipadala niya ang mga sulat ngadto sa mga tigulang ug ngadto sa mga bantog nga mga tawo nga anaa sa iyang ciudad, nga nagpuyo kauban ⟨את⟩ ni Navot.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "nagsulat siya ug mga sulat"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mga sulat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "gisilyo kini"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "sa iyang silyo"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "gipadala niya"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "ang mga sulat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "mga bantog nga mga tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "sa iyang ciudad"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "nagpuyo kauban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ni Navot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:55.759131715Z",
+  "model": "glm-5.3"
+}

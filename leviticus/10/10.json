@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "ug sa paglahi taliwala sa ⟨balaang butang⟩ ug taliwala sa ⟨dili balaan⟩, ug taliwala sa ⟨hugaw⟩ ug taliwala sa ⟨hinaslo⟩,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ug sa paglahi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taliwala sa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨balaang butang⟩"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "⟨dili balaan⟩"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "⟨hugaw⟩"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ug taliwala sa"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "⟨hinaslo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:51.549582822Z",
+  "model": "glm-5.3"
+}

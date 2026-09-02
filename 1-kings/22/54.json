@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug gialagaran niya ⟨את⟩ ang Baal, ug misimba siya kaniya, ug nakapukaw siya kaligutgut ⟨את⟩ kang Yahweh, Elohim sa Israel, sumala sa tanan nga gibuhat sa iyang amahan.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "ug gialagaran niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ang Baal"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "ug misimba siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "ug nakapukaw siya kaligutgut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "sumala sa tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:12.976550830Z",
+  "model": "glm-5.3"
+}

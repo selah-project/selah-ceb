@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Nagabuhat siya kaniya og maayo ug dili og daotan, tanan nga adlaw sa iyang kinabuhi.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "nagabuhat siya kaniya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "og maayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "רע",
+      "gloss": "og daotan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "sa iyang kinabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:15.498133787Z",
+  "model": "glm-5.3"
+}

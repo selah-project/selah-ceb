@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Sa maong adlaw mobalik ang akong mga kaaway paingon sa likod, sa adlaw nga ako magtawag; kini akong nasayod, nga ang Elohim ⟨ alang kanako ⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "sa maong adlaw"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "paingon sa likod"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw nga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ako magtawag"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "akong nasayod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨alang kanako⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:02.389346511Z",
+  "model": "glm-5.3"
+}

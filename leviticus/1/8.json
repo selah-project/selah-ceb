@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug sulondon sa mga anak ni Aharon, ang mga saserdote, ⟨את⟩ ang mga piraso, ⟨את⟩ ang ulo ug ⟨את⟩ ang tambok, sa ibabaw sa mga kahoy nga anaa sa kalayo nga anaa sa halaran.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "sulondon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ang mga saserdote"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga piraso"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ang mga piraso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ulo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ang ulo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sa mga kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    }
+  ],
+  "timestamp": "2026-09-01T19:19:43.540557746Z",
+  "model": "glm-5.3"
+}

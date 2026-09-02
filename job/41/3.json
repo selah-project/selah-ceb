@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 41:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Kinsa ang nangunang mihatag kanako, nga mabayaran ko man? Akong kini ang tanan nga anaa sa ubos sa ⟨kalangitan⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "הקדימני",
+      "gloss": "nangunang mihatag kanako"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "nga mabayaran ko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kalangitan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "akong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:45:47.195174684Z",
+  "model": "glm-5.3"
+}

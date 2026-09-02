@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug ang halaran nagisi, ug ang abo gibuhin gikan sa halaran, sumala sa timailhan nga gihatag sa tawo sa Elohim pinaagi sa pulong ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "Ug ang halaran"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "nagisi"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "ug gibuhin"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ang abo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "halaran"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "sumala sa timailhan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gihatag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "piaagi sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:45.002059Z",
+  "model": "glm-5.3"
+}

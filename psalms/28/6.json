@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Dayagon si Yahweh, kay nadungog niya ang tingog sa akong mga pangaliya.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Dayagon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadungog niya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "akong mga pangaliya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:35.458507085Z",
+  "model": "glm-5.3"
+}

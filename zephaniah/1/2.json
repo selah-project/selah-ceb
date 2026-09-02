@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Panipolon ko nga bug-os ang tanan gikan sa nawong sa yuta, matud pa ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Panipolon ko"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "nga bug-os"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matud pa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:26.135751618Z",
+  "model": "glm-5.3"
+}

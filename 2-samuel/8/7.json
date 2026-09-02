@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gikuha ni David ⟨את⟩ ang mga shield nga bulawan nga anaa sa mga sulugoon ni Hadadezer, ug gidad-ang niya kini ngadto sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga shield nga bulawan"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "mga shield"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "nga bulawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ni Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "gidad-ang niya kini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:22.612555009Z",
+  "model": "glm-5.3"
+}

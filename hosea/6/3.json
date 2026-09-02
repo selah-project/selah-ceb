@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug mangaila kita, manukad kita sa pag-ila kang ⟨את⟩ Yahweh; ingon sa kabuntagon sigurado ang iyang paggula, ug moanhi siya kanato ingon sa ulan, ingon sa ulan sa ulahing ting-init nga nagbisbis sa yuta.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Ug mangaila kita"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "manukad kita"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "sa pag-ila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "ingon sa kabuntagon"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sigurado"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ang iyang paggula"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ug moanhi siya"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "ingon sa ulan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanato"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "ingon sa ulan sa ulahing ting-init"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "nagbisbis"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:41.781258946Z",
+  "model": "glm-5.3"
+}

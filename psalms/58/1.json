@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Sa pangulo sa koral. Ayaw pagguba. Usa ka salmo ni David, usa ka miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa pangulo sa koral"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "pagguba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "usa ka miktam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:48.982425674Z",
+  "model": "glm-5.3"
+}

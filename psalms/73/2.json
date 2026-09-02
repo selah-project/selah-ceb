@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Apan ako — hapit na manukar ang akong mga tiil, hapit na mapaambak ang akong mga lakang.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Apan ako"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "hapit na"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "manukar"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ang akong mga tiil"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hapit na mapaambak"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "napaambak"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ang akong mga lakang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:08.618468093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 57,
+  "translation": "Lingkla ⟨sang⟩ akong himaya; lingkla, nebel ug kinor; akong bubuongon ang kaadlawon.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "lingkla"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "akong himaya"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "lingkla"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ug kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "akong bubuongon"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "kaadlawon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:05.702648290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug miingon sila: Wala kaamong gidaya, ni wala kaamong gipugos, ug wala ka makakuha gikan sa kamot sa bisan kinsa nga tawo og bisan unsa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug miingon sila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "kaamong gidaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "kaamong gipugos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ka makakuha"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa bisan kinsa nga tawo"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "og bisan unsa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:35.675671138Z",
+  "model": "glm-5.3"
+}

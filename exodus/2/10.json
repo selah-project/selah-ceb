@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": " Ug nagdako ang bata, ug gidad-i niya siya ngadto sa anak nga babae ni Paro, ug nahimo siya nga anak niya. ug gitawag niya ang iyang ngalan nga Moshe, ug miingon siya: Kay gikan sa tubig ako nangkuha siya.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Ug nagdako"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "ug gidad-i niya siya"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ngadto sa anak nga babae"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimo siya"
+    },
+    {
+      "surface": "לה",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "ako nangkuha siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:24.283555311Z",
+  "model": "glm-5.3"
+}

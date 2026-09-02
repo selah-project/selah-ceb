@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 6:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ako, ania karon, magadala ako ⟨את⟩ sa baha — tubig — ibabaw sa yuta, aron paglaglag sa tanang unod diin ⟨adunay⟩ gininhawa sa kinabuhi ubos sa kalangitan; tanan nga anaa sa yuta mamatay.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "magadala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa baha"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "sa baha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "aron paglaglag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "diin niini"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "gininhawa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kalangitan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "anaa sa yuta"
+    },
+    {
+      "surface": "יגוע",
+      "gloss": "mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T18:49:05.857632271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Umari kamo, maggahin kita ug awit kang Yahweh, mosiaw kita ngadto sa Bato sa atong pagluwas.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Umari kamo"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "maggahin kita ug awit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "mosiaw kita"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ngadto sa Bato"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "sa atong pagluwas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.654255993Z",
+  "model": "glm-5.3"
+}

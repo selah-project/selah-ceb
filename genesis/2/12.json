@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug ang bulawan sa maong yuta maayo ⟨kini⟩; didto ang bdolyum ug ang bato sa shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Ug ang bulawan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "maong"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ang bdolyum"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ug ang bato"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "sa shoham"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:58.828819928Z",
+  "model": "glm-5.3"
+}

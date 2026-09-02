@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Tungod sa imong ngalan, Yahweh, pasayloa ang akong sala, kay dako kini ⟨kaayo⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "imong ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "ug pasayloa"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "ang akong sala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:04.516391628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang nagtulipong sa iyang isigkatawo kulang sa salabutan, apan ang tawo sa kaalam magtahimik.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ang nagtulipong"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sa iyang isigkatawo"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kulang"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa salabutan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "apan ang tawo"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "sa kaalam"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "magtahimik"
+    }
+  ],
+  "timestamp": "2026-09-01T22:29:57.691715028Z",
+  "model": "glm-5.3"
+}

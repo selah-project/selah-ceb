@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Unom ka tuig imong itanum ang imong uma, ug unom ka tuig imong pul-an ang imong kaparasan, ug imong tigum ⟨את⟩ ang iyang ani.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Unom ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "itanum"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "imong uma"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ug unom ka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "pul-an"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "imong kaparasan"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ug imong tigum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ani"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ang iyang ani"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:35.621945411Z",
+  "model": "glm-5.3"
+}

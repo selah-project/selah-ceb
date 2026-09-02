@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Gikan kang Yahweh ⟨ang⟩ mga lakang sa tawo ⟨nga⟩ mga sundo — ug ang iyang dalan iyang gikahimog-ulan.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "gikan kang Yahweh"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "mga lakang"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "⟨mga sundo⟩ gipatindog"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "ug ang iyang dalan"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "iya nga gikahimog-ulan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:30.830873836Z",
+  "model": "glm-5.3"
+}

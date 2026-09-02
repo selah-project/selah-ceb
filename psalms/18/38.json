@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gipangitas nako ang akong mga kaaway ug nadakpan sila, ug wala ako mobalik hangtod ⟨nga⟩ mawala sila.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Gipangitas nako"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ug nadakpan sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "mawala sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:57.623023399Z",
+  "model": "glm-5.3"
+}

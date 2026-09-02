@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "ug nimlakaw ka sa dalan sa mga hari sa Yisrael, ug nagpakawaag ka ⟨את⟩ Yehudah ug ⟨את⟩ ⟨ang⟩ mga pumoluyo sa Yerushalayim, sama sa pagpakawaag sa balay ni Aḥav, ug bisan pa ⟨את⟩ ⟨ang⟩ imong mga igsoon nga mga kaliwatan sa imong amahan, nga labaw kaniimo, imong gipatay",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "ug nimlakaw ka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "ug nagpakawaag ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga pumoluyo sa Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "sama sa pagpakawaag"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Aḥav"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug bisan pa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga igsoon sa balay sa imong amahan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imong mga igsoon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "mga kaliwatan sa balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "nga labaw kaniimo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kaniimo"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "imong gipatay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:01.048567608Z",
+  "model": "glm-5.3"
+}

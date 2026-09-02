@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang nagahigugma ⟨sa⟩ salapi dili mabuso ⟨sa⟩ salapi, ug kinsa man ang nagahigugma ⟨sa⟩ kabanhawan — walay tubo ⟨kaniya⟩; kini usab vanidad.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ang nagahigugma"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "mabuso"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "salapi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa man"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ang nagahigugma"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "kabanhawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tubo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "vanidad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:42.598455732Z",
+  "model": "glm-5.3"
+}

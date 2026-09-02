@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Malipay ka, Yahweh, sa pagluwas kanako; Yahweh, pagdali sa pagtabang kanako.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "malipay ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "sa pagluwas kanako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa pagtabang kanako"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pagdali"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:11.591836315Z",
+  "model": "glm-5.3"
+}

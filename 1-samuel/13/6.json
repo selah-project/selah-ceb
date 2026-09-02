@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug ang mga tawo sa Yisrael nakakita nga gisiksik sila, kay ang katawohan gipugos ⟨kaniya⟩, ug ang katawohan nagtago sa mga langub, ug sa mga siksik, ug sa mga bato, ug sa mga torre, ug sa mga atipan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ug ang mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "gisiksik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "gipugos"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawohan"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "ug nagtago"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawohan"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "sa mga langub"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "ug sa mga siksik"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "ug sa mga bato"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "ug sa mga torre"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "ug sa mga atipan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:28.505177126Z",
+  "model": "glm-5.3"
+}

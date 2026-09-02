@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ang inyong mga amahan — asa sila? Ug ang mga propeta, hangtod sa kahangtuon ba sila mabuhi?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ang inyong mga amahan"
+    },
+    {
+      "surface": "איה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "Ug ang mga propeta"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "hangtod sa kahangtuon ba"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sila mabuhi"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:33.633273763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Nasod nga mapintas ug mapintas ang panagway, nga dili magatahod sa panagway sa tigulang, ug sa batan-on dili moluoy.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "nasod"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mapintas"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "panagway"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "magatahod"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "panagway"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "sa tigulang"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ug sa batan-on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "moluoy"
+    }
+  ],
+  "timestamp": "2026-09-01T19:54:58.633467871Z",
+  "model": "glm-5.3"
+}

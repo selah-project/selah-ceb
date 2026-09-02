@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang nabilin ⟨mao⟩ ang anak nga babaye sa Tsiyon, ingon sa payag-payag sa kaparasan, ingon sa payag sa tanom nga pipino, ingon sa dakbaco nga gipanguta.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "ug ang nabilin ⟨mao⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ang anak nga babaye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "ingon sa payag-payag"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "sa kaparasan"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "ingon sa payag"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "sa tanom nga pipino"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "ingon sa dakbaco"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "nga gipanguta"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:15.485899382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 77,
+  "translation": "Nakalimot na ba si El sa pagpakalooy? Gipoksan na ba sa kasuko ang iyang mga kalogoyogan? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Nakalimot na ba"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "sa pagpakalooy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ba ⟨o⟩"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "Gipoksan na ba"
+    },
+    {
+      "surface": "באף",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ang iyang mga kalogoyogan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:40.843627807Z",
+  "model": "glm-5.3"
+}

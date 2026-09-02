@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 100,
+  "translation": "Kay maayong ⟨ang⟩ Yahweh; hangtod sa kahangtad ang iyang hesed, ug hangtod sa dinastiya ug dinastiya ang iyang pagkamatinud-anon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtad"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "דר",
+      "gloss": "dinastiya"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug dinastiya"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "ang iyang pagkamatinud-anon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:41.582413548Z",
+  "model": "glm-5.3"
+}

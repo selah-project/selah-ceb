@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 85,
+  "translation": "Ang hesed ug ang kamatuoran nagkasugat; ang pagkamatarong ug ang kalinaw nagtagaday.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Ang hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ug ang kamatuoran"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "nagkasugat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ang pagkamatarong"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ug ang kalinaw"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "nagtagaday"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:36.542678020Z",
+  "model": "glm-5.3"
+}

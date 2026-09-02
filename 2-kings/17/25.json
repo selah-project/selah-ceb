@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug ⟨nahitabo⟩ sa sinugdian sa ilang pagpuyo didto, wala sila matalaod kang Yahweh ⟨את⟩; busa gipadala ni Yahweh sa taliwala nila ⟨ang⟩ mga leon, ug sila nagpanggipatay kanila.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "sa sinugdian"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "sa ilang pagpuyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "matalaod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "sa taliwala nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga leon"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "mga leon"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug sila nahimong"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "manggipatay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:25.935372873Z",
+  "model": "glm-5.3"
+}

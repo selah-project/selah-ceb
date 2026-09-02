@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug gipangdolot ang katawhan, ang usa ka tawo sa ⟨iyang⟩ igsoong lalaki ug ang usa ka tawo sa iyang isigkatakod; mangahas ang batan-on batok sa tigulang, ug ang tinahob batok sa matinahuron.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ug gipangdolot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang usa ka tawo"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "sa usa ka tawo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang usa ka tawo"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "sa iyang isigkatakod"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "mangahas"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ang batan-on"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "batok sa tigulang"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ug ang tinahob"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "batok sa matinahuron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:27.215466536Z",
+  "model": "glm-5.3"
+}

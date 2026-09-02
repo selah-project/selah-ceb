@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "ug ⟨usa ka⟩ espiritu sa paghukom alang sa nalingkod ⟨sa⟩ paghukom, ug kusog alang sa mga nagabalik sa gubat ngadto sa ganghaan.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "ug ⟨usa ka⟩ espiritu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "alang sa nalingkod"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "ug kusog"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "alang sa mga nagabalik"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ngadto sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:41.034869256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Apan ang imong paglingkod, ug ang imong paggula, ug ang imong pagsulod — nahibalo ako ⟨את⟩ sa imong pagkadako sa kaakog batok kanako.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "ang imong paglingkod"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "ug ang imong paggula"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "ug ang imong pagsulod"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imong pagkadako sa kaakog"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "imong pagkadako sa kaakog"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "batok kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:04.870969598Z",
+  "model": "glm-5.3"
+}

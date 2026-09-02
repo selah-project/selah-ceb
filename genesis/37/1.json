@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Nagpuyo si Yaakov sa yuta sa pagpanihapon sa iyang amahan, sa yuta sa Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Nagpuyo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "sa pagpanihapon"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sa iyang amahan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "sa Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:58.007802767Z",
+  "model": "glm-5.3"
+}

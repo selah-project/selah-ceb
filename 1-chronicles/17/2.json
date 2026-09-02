@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug si Natan nagsulti kang David: Buhata ang tanan nga ⟨anaa⟩ sa imong kasingkasing, kay ang Elohim ⟨anaa⟩ uban kanimo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "si Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sa imong kasingkasing"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "buhata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:15.236324868Z",
+  "model": "glm-5.3"
+}

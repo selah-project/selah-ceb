@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gihatag ni Moshe ⟨את⟩ sa Gilad kang Makhir, anak ni Menashsheh, ug nagpuyo siya didto.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Gilad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "sa Gilad"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "kang Makhir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ni Menashsheh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo siya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "didto"
+    }
+  ],
+  "timestamp": "2026-09-01T19:42:53.809874210Z",
+  "model": "glm-5.3"
+}

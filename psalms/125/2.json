@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 125,
+  "translation": "Yerushalayim — mga bukid nagalibot kaniya; ug si Yahweh nagalibot sa iyang katawhan, gikan karon ug hangtod sa kahangtors.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nagalibot"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nagalibot"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sa iyang katawhan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "gikan karon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtors"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:15.390347847Z",
+  "model": "glm-5.3"
+}

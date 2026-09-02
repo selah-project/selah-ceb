@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ayaw kamo pagtalikod ngadto sa ⟨mga⟩ mga diosdios, ni mga Elohim nga hulad nga tunaw ang imong hinimo alang sa inyong kaugalingon; ako si Yahweh ⟨ang⟩ Elohim ninyo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "pagtalikod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "mga diosdios"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ni mga Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "hulad nga tunaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "imong hinimo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sa inyong kaugalingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:27:39.970073865Z",
+  "model": "glm-5.3"
+}

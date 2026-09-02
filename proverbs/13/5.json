@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang pulong nga bakak gimingaw-ngaw sa matarong, apan ang daotan magpadala ug baho nga lagit ug makaulaw ⟨siya⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "nga bakak"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "gimingaw-ngaw"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "apan ang daotan"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "magpadala ug baho nga lagit"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ug makaulaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:05.414914746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Gihatag ko kanimo ⟨את⟩ ang balay sa imong agalon, ug ⟨את⟩ ang mga asawa sa imong agalon ngadto sa imong gikusan, ug gihatag ko kanimo ⟨את⟩ ang balay sa Yisrael ug ni Yehudah; ug kon gamay pa kini, magdugang pa ako kanimo ug ingon niini ug ingon niini.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sa imong agalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga asawa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ang mga asawa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sa imong agalon"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "ngadto sa imong gikusan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ug gihatag ko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ug ni Yehudah"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gamay pa"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "magdugang pa ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ug ingon niini"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "ug ingon niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:30:58.925793010Z",
+  "model": "glm-5.3"
+}

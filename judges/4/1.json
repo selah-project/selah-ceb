@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 4:1",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug gidugangan sa mga anak ni Yisra'el ang pagbuhat sa daotan sa mga mata ni Yahweh, ug si Ehud namatay.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "gidugangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisra'el"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "ug si Ehud"
+    },
+    {
+      "surface": "מת",
+      "gloss": "namatay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:52.670154813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mobalik kanako ang mga nagakahadlok kanimo, ug makaila sila sa imong mga pagsaksi.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ang mga nagakahadlok kanimo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ug makaila sila"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "sa imong mga pagsaksi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:20.699552389Z",
+  "model": "glm-5.3"
+}

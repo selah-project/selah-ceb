@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug magpalano siya, mosul-ob, ug ang mga kawawa mahulog sa iyang kusog.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "Ug magpalano siya"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "mosul-ob"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ug mahulog"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "sa iyang kusog"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ang mga kawawa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:37.708647149Z",
+  "model": "glm-5.3"
+}

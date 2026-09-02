@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Yahweh, kanamo ang kahilakan sa ⟨mga⟩ dagway — sa among mga hari, sa among mga mangulo, ug sa among mga katigulangan — kay nagpakasala kami kanimo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ang kahilakan"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "sa ⟨mga⟩ dagway"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "sa among mga hari"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "sa among mga mangulo"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "ug sa among mga katigulangan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nagpakasala kami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:48:03.344742531Z",
+  "model": "glm-5.3"
+}

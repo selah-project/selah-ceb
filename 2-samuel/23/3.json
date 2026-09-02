@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Nagsulti ang Elohim sa Israel ngari kanako; nagsulti ang Bato sa Israel: Ang magmando sa tawo — ang matarong, nagmando sa kahadlok sa Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nagsulti"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ang Bato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "Ang magmando"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "nagmando"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "sa kahadlok"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:35:58.404218120Z",
+  "model": "glm-5.3"
+}

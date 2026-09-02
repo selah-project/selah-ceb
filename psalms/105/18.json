@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Gibug-atan nila ang iyang mga tiil ug kadena, ang puthaw midangat sa iyang kalag.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "gibug-atan nila"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "ug kadena"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ang iyang mga tiil"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ang puthaw"
+    },
+    {
+      "surface": "באה",
+      "gloss": "midangat"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa iyang kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:13.834351128Z",
+  "model": "glm-5.3"
+}

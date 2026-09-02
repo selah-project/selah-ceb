@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Pagguyod niya sa mga mapainubsanon sa ⟨ang⟩ hokom, ug tudloan niya ang mga mapainubsanon sa iyang dalan.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "pagguyod niya sa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mga mapainubsanon"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa ⟨ang⟩ hokom"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "ug tudloan niya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mga mapainubsanon"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sa iyang dalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:04.516086675Z",
+  "model": "glm-5.3"
+}

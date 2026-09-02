@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang saksi sa mga bakak dili makaluwas nga walay silot, ug ang magsaboy sa mga bakak malaglag.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "saksi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "sa mga bakak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "makaluwas nga walay silot"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ug ang magsaboy"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "sa mga bakak"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "malaglag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:38.050464463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ang mga anak ni Shim'on sumala sa ilang mga banay: kang Nemuel, ang banay sa mga Nemueli; kang Yamin, ang banay sa mga Yamini; kang Yakhin, ang banay sa mga Yakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ang mga anak ni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shim'on"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "kang Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay sa"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "mga Nemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kang Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay sa"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "mga Yamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "kang Yakhin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ang banay sa"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "mga Yakhini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:38.503432829Z",
+  "model": "glm-5.3"
+}

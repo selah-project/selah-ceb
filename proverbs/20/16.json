@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Kuhaa ang iyang bisti, ⟨kay⟩ siya mitindog nga garantiya alang sa dumha; ug alang sa mga langyaw, pagkuha ug prenda kaniya.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "kuhaa"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ang iyang bisti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mitindog nga garantiya"
+    },
+    {
+      "surface": "זר",
+      "gloss": "dumha"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ug alang sa"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "mga langyaw"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "pagkuha ug prenda kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:24.833220933Z",
+  "model": "glm-5.3"
+}

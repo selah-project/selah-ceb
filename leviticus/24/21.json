@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug ang mopatay sa mananap magabayad niini ⟨⟨את⟩⟩; ug ang mopatay sa tawo pagapatyon og kamatayon.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "ug ang mopatay"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "sa mananap"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "magabayad niini"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "ug ang mopatay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "pagapatyon og kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:02.846101594Z",
+  "model": "glm-5.3"
+}

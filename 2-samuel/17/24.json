@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Si David miadto sa Makhanaim, ug si Avshalom miagi ⟨את⟩ sa Yarden — siya ug ang tanan nga mga tawo sa Israel uban kaniya.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Si David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "miadto"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "sa Makhanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ug si Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "miagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:57.471247055Z",
+  "model": "glm-5.3"
+}

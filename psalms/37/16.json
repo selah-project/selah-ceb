@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Mas maayo ang gamay ⟨nga iyang⟩ adunay ang matarong kay sa kadaghanang bahandi sa daghang mga dautan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "mas maayo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ang gamay"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ang matarong"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "kadaghanang bahandi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa daghang mga dautan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.548700491Z",
+  "model": "glm-5.3"
+}

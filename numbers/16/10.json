@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Gipaduol ka niya ⟨את⟩ ug ⟨את⟩ ang tanan nimong mga igsoon, nga mga anak ni Levi, kauban kanimo — ug nangita pa kamo og pagka-pari?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Gipaduol"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ka",
+      "marks": "ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ug",
+      "marks": "ang tanan nimong mga igsoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "nimong mga igsoon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ni Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kauban kanimo"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "ug nangita kamo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pa"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "og pagka-pari"
+    }
+  ],
+  "timestamp": "2026-09-01T19:38:11.586978555Z",
+  "model": "glm-5.3"
+}

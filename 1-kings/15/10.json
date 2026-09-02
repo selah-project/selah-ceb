@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug kap-atan ug usab ka tuig siya naghari sa Yerushalayim; ug ang ngalan sa iyang inahan ⟨mao⟩ si Maakhah, nga anak nga babaye ni Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Ug kap-atan"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "ug usab ka tuig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ug ang ngalan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sa iyang inahan"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "si Maakhah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anak nga babaye"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "ni Avishalom"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:32.012395797Z",
+  "model": "glm-5.3"
+}

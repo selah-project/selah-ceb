@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ayaw pagdali sa imong gininhawa sa pagkasuko, kay ang kasuko nagapahulay ⟨sa⟩ dughan sa mga buang.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw pag"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "dali"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "sa imong gininhawa"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "sa pagkasuko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ang kasuko"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "sa dughan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "mga buang"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "nagapahulay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:41.993375034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Ug kini makapahimuot kang Yahweh labaw pa kay sa baka, sa anak sa baka nga adunay sungay nga nagabahin sa kuko.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "Ug makapahimuot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "baka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "anak sa baka"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "adunay sungay"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "nagabahin sa kuko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:45.765735636Z",
+  "model": "glm-5.3"
+}

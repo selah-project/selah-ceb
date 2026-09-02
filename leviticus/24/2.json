@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Sugo-a ⟨את⟩ ang mga anak ni Yisrael, ug mokuha sila kanimo ug lana sa olibo, hinlo, gipamung-a, alang sa suga, aron sa pagpadayon sa pagpasiga ug tugbang nga kahayag sa kanunay.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Sugo-a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ug mokuha sila"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "lana"
+    },
+    {
+      "surface": "זית",
+      "gloss": "sa olibo"
+    },
+    {
+      "surface": "זך",
+      "gloss": "hinlo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gipamung-a"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "alang sa suga"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "aron sa pagpadayon sa pagpasiga"
+    },
+    {
+      "surface": "נר",
+      "gloss": "tugbang nga kahayag"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:20.149166167Z",
+  "model": "glm-5.3"
+}

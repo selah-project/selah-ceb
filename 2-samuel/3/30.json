@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Si Yoav ug si Avishai nga iyang igsoon nga lalaki ang nagpatay kang Avner, tungod kay siya mao ang nagpatay ⟨את⟩ kang Asahel nga ilang igsoon, sa Givon, sa gubat.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Si Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "ug si Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "iyang igsoon nga lalaki"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ang nagpatay"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "kang Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המית",
+      "gloss": "nagpatay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "kang Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ilang igsoon"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "sa Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:28:37.929989653Z",
+  "model": "glm-5.3"
+}

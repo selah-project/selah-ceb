@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug miingon siya: Unsa ang akong gimakasaslan, nga ikaw magahatag ⟨את⟩ sa imong sulogoon ngadto sa kamot ni Ahab aron patyon ako?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ang akong gimakasaslan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "magahatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong sulogoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sa imong sulogoon"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "aron patyon ako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:20.930123910Z",
+  "model": "glm-5.3"
+}

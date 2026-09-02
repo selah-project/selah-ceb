@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ang mga kapitel nga anaa sa ulo sa mga haligi, diha sa bulwagan, ⟨mga⟩ buhat sa liryo ⟨mga⟩ upat ka siko.",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "Ug ang mga kapitel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sa mga haligi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "buhat"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "sa liryo"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "diha sa bulwagan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat ka"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "siko"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:19.453289026Z",
+  "model": "glm-5.3"
+}

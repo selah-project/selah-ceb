@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Apan si Levi ug si Binyamin wala niya tukion sa ilang tunga, kay ang pulong sa hari nakapukaw ⟨את⟩ kang Yoav.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "apan si Levi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ug si Binyamin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "tukion"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "sa ilang tunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "nakapukaw"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:03.581409537Z",
+  "model": "glm-5.3"
+}

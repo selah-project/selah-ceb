@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Gingtawag ni Shaul ⟨את⟩ ang tanan nga katawhan ngadto sa gubat, sa pagpanultihaw ngadto sa Keilah, sa pagpangulongos kang David ug kang ang iyang mga tawo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Gingtawag"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ngadto sa gubat"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "sa pagpanultihaw"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "sa Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "sa pagpangulongos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug kang"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ang iyang mga tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:31.474310018Z",
+  "model": "glm-5.3"
+}

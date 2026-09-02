@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Unom ka adlaw magatrabaho ⟨ka⟩, ug sa ikapito nga adlaw magapahulay ⟨ka⟩; sa panahon sa pag-ool ug sa pag-ani magapahulay ⟨ka⟩.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Unom"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka adlaw"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "magatrabaho"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ug sa ikapito nga adlaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magapahulay"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "sa panahon sa pag-ool"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "ug sa panahon sa pag-ani"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "magapahulay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:35.463170146Z",
+  "model": "glm-5.3"
+}

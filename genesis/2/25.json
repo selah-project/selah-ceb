@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Si Adan ug ang iyang asawa — ang duha sila ⟨ang⟩ hubo, ug wala sila maulawan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "silas ⟨mga⟩"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha sila"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "hubo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "si Adan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ug ang iyang asawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "sila maulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:42.646746008Z",
+  "model": "glm-5.3"
+}

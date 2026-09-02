@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa pagkatinuod, kamo ⟨mao⟩ ang ⟨usa ka⟩ katawhan, ug uban kaninyo mamatay ang kaalam.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Sa pagkatinuod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "ויעםכם",
+      "gloss": "ug uban kaninyo"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mamatay"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:38:27.395704094Z",
+  "model": "glm-5.3"
+}

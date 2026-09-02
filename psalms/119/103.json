@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Unsa ka tam-is sa akong baba ang imong mga giingon — {labaw pa} sa dugos sa {ibilang} sa akong ngipon!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa ka"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "tam-is"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "sa akong baba"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ang imong mga giingon"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "sa dugos"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa akong ngipon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:41.538927929Z",
+  "model": "glm-5.3"
+}

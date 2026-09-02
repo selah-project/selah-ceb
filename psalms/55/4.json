@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Tungod sa tingog sa kaaway, tungod sa paga-abuso sa dautan; kay gipahuyang nila ⟨ang⟩ kadaot ngari kanako, ug sa kasuko sila nagadumili kanako.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "tungod sa tingog"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kaaway"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "paga-abuso"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "gipahuyang nila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "ug sa kasuko"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "nagadumili sila kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:31.545814616Z",
+  "model": "glm-5.3"
+}

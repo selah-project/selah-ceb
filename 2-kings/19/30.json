@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug padayon ang nagkalagiw nga nahabilin sa balay ni Yehudah — magagamot ⟨kini⟩ paubos ug mamunga pataas.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "ug padayon"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "ang nagkalagiw"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "nga nahabilin"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "magagamot"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "paubos"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug mamunga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "pataas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:54:43.200864100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 69,
+  "translation": "Pagduol sa akong kalag ug tubli kini; tungod sa akong mga kaaway, luwasa ako.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Pagduol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "tubli kini"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "akong mga kaaway"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "luwasa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:28.581904442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug ang mga anak ni Yisrael namunga ug nagdaghan pag-ayo ug nagpadaghan ug nakusog pag-ayo kaayo nga kaayo, ug napuno ⟨ang⟩ yuta ⟨את⟩ sila.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "namunga"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "nagdaghan pag-ayo"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "nagpadaghan"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "nakusog pag-ayo"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kaayo nga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ug napuno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:04:43.212328664Z",
+  "model": "glm-5.3"
+}

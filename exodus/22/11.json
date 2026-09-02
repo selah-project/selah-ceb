@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug kon siguradong gikawat kini gikan kaniya, mobayad siya sa tag-iya niini.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "siguradong gikawat"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "gikawat"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "gikan kaniya"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "mobayad siya"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "sa tag-iya niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:44.971378101Z",
+  "model": "glm-5.3"
+}

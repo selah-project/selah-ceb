@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug nagkatibulaag ang katawhan sa tibuok yuta sa Mitsrayim sa pagdakop ug tinitigbas nga agihon alang sa dagami.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "ug nagkatibulaag"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "sa pagdakop"
+    },
+    {
+      "surface": "קש",
+      "gloss": "tinitigbas nga agihon"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "alang sa dagami"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:07.159181451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 18:5",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Giatipon sa hari sa Israel ⟨את⟩ mga propeta — upat ka gatos ka tawo — ug giingnan sila: Moadto ba kita sa Ramot-Gilad sa paggubat, o mohunong ako? Ug sila miingon: Lakaw pag-igon, ug ihatag sa Elohim ⟨kini⟩ ngadto sa kamot sa hari.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "giatipon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga propeta"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "mga propeta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "upat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ugi miingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "Moadto ba kita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa paggubat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "mohunong ako"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug sila miingon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Lakaw pag-igon"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T23:24:16.122152039Z",
+  "model": "glm-5.3"
+}

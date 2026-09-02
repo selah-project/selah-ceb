@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 127,
+  "translation": "Awa alang kaninyo — ⟨ang⟩ pagbangon sayo, paglingkod ugang, ang pagkaon sa tinapay sa mga kabalaka: kana si Yahweh nagahatag ngadto sa iyang hinigugma ⟨nga⟩ tulog.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Awa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "mga nagabangon sayo"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangon"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "mga nagaulahi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sa paglingkod"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mga mokaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "sa mga kabalaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "ngadto sa iyang hinigugma"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "tulog"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:57.774071090Z",
+  "model": "glm-5.3"
+}

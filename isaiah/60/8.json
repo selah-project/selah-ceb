@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Kinsa kini nga naglupad sama sa panganod, ug sama sa mga salampati ngadto sa ilang mga bintana?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "sama sa panganod"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "naglupad sila"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ug sama sa mga salampati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "sa ilang mga bintana"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:36.845868178Z",
+  "model": "glm-5.3"
+}

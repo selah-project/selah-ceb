@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Gipatay nila ⟨את⟩ ang tanang nefesh nga anaa niini sumala sa ngabil sa espada — gitahas ⟨kini⟩ pagguba; wala mabilin bisan usa ka gininhawa; ug ⟨את⟩ si Hatsor gisunog niya sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "ginpatay nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanang nefesh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "anaa niini"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sumala sa ngabil"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "gitahas pagguba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "mabilin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bisan usa"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ka gininhawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Hatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gisunog niya"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:41:03.979623894Z",
+  "model": "glm-5.3"
+}

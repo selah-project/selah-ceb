@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug si David nakadawat usab ⟨את⟩ kang Akhinoam gikan sa Yizreel, ug silang duha nahimo nga mga asawa niya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akhinoam"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akhinoam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nakadawat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "gikan sa Yizreel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "ug sila nahimo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "silang duha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "niya"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "nga mga asawa"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:48.251954069Z",
+  "model": "glm-5.3"
+}

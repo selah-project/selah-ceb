@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Ug ang inyong mata ayaw pagluoy sa inyong mga gamit, kay ang kamaayuhan sa tibook nga yuta sa Mitsrayim inyo kana.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "inyong mata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "pagluoy"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "inyong mga gamit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kamaayuhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibook nga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kana"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:57.189941787Z",
+  "model": "glm-5.3"
+}

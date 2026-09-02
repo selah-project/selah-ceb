@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ni David, mashkil ⟨(tulun-an)⟩. Malipayon ⟨ang tawo⟩ nga gisagdang ⟨na⟩ ang iyang paglapas, nga gitabonan ang iyang sala.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashkil ⟨(tulun-an)⟩"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Malipayon"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "gisagdang"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "paglapas"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "gitabonan"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:56.184421983Z",
+  "model": "glm-5.3"
+}

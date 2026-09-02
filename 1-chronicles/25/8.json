@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 25:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug nagpalot sila og mga sorteo alang sa pagbantay, atbang sa usag usa, ang gamay ingon sa dako, ang nakasabot kauban ang tinun-an.",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "Ug nagpalot sila og"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "mga sorteo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "alang sa pagbantay"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "atbang sa usag usa"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "ang gamay ingon sa"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ang nakasabot"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "תלמיד",
+      "gloss": "ang tinun-an"
+    }
+  ],
+  "timestamp": "2026-09-01T23:17:53.137822296Z",
+  "model": "glm-5.3"
+}

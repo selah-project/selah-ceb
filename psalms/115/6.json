@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 115,
+  "translation": "Mga igdulungog ⟨ang⟩ aduna sila apan wala sila makadungog; ilong ⟨ang⟩ aduna sila apan wala sila makaamoy",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "mga igdulungog"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aduna sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sila makadungog"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ilong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aduna sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "sila makaamoy"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:37.160786179Z",
+  "model": "glm-5.3"
+}

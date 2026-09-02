@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang pagkamatarong nagabantay sa ⟨dalan⟩ sa tibuok nga kasingkasing, apan ang pagkadaotan nagpatumba sa makasasala.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ang pagkamatarong"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "nagabantay"
+    },
+    {
+      "surface": "תם",
+      "gloss": "sa tibuok nga kasingkasing"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨dalan⟩"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "apan ang pagkadaotan"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "nagpatumba"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sa makasasala"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:05.415190433Z",
+  "model": "glm-5.3"
+}

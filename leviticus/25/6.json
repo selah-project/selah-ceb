@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug mahitabo ang shabbat sa ⟨ang⟩ yuta ngadto kaninyo alang sa pagkaon — ngadto kanimo, ug ngadto sa imong sulugoon nga lalaki, ug ngadto sa imong sulugoon nga babae, ug ngadto sa imong gisuhulan, ug ngadto sa imong pumoluyo nga mga langyaw nga nagpuyo uban kanimo.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Ug mahitabo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ngadto kaninyo"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "alang sa pagkaon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngadto kanimo"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "ug ngadto sa imong sulugoon nga lalaki"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ug ngadto sa imong sulugoon nga babae"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "ug ngadto sa imong gisuhulan"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ug ngadto sa imong pumoluyo"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "mga langyaw"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nagpuyo uban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:14.720664773Z",
+  "model": "glm-5.3"
+}

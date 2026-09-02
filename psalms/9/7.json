@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nataman na ang kaaway — mga kagun-ob ⟨kini⟩ hangtod sa kahangturan; ug ⟨ang⟩ mga dakbayan gipangguba nimo; nawala na ang ilang pahinumdom — sila.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ang kaaway"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "nataman na"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mga kagun-ob"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ug ang mga dakbayan"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "gipangguba nimo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "wala na"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ilang pahinumdom"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:29.021328023Z",
+  "model": "glm-5.3"
+}

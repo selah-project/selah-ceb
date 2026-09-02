@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug natawo niya ang usa ka anak nga lalaki, ug gitawag niya ⟨את⟩ ang iyang ngalan Gereshom, kay nag-ingon siya: Usa ka dayo ako ⟨nga⟩ nahiuyon sa yuta nga langyaw.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ug natawo niya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "usa ka anak nga lalaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang ngalan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ang iyang ngalan"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon siya"
+    },
+    {
+      "surface": "גר",
+      "gloss": "usa ka dayo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "akoa kini \/ ako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "nga langyaw"
+    }
+  ],
+  "timestamp": "2026-09-01T19:05:33.663276606Z",
+  "model": "glm-5.3"
+}

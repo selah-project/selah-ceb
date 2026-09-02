@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 122,
+  "translation": "Awit sa mga pag-angkat, ni David. Nagmalipayon ako sa pag-ingon kanako: Ngadto sa balay ni Yahweh mangadto kita.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga pag-angkat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Nagmalipayon ako"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "sa pag-ingon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "mangadto kita"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:03.561921366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug nagdali sila ug gipaubos ang matag usa ⟨את⟩ iyang sako ngadto sa yuta, ug gibuksan sa matag usa ang iyang sako.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "Ug nagdali sila"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "ug gipaubos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang sako"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "iyang sako"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ug gibuksan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa matag usa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ang iyang sako"
+    }
+  ],
+  "timestamp": "2026-09-01T19:02:12.046681378Z",
+  "model": "glm-5.3"
+}

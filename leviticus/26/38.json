@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug magun-ob kamo diha sa ⟨mga⟩ nasud, ug mokaon ⟨את⟩ kaninyo ang yuta sa inyong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Ug magun-ob kamo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "diha sa mga nasud"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ug mokaon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kaninyo (ang yuta)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sa inyong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:15.833394026Z",
+  "model": "glm-5.3"
+}

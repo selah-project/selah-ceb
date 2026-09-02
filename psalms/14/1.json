@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Alang ⟨sa⟩ maggugunit ⟨sa⟩ koral. Pinanggalingan kang David. Nag-ingon ang ulaw sa iyang kasingkasing: \"Walay Elohim.\" Gipangguba nila, gihimo nga makauyamuyam ang mga buhat ⟨mga⟩ — walay magbubuhat ug maayo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Alang ⟨sa⟩ maggugunit ⟨sa⟩ koral"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Pinanggalingan kang David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ang ulaw"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "gipangguba nila"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "gihimo nga makauyamuyam"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ang mga buhat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "magbubuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ug maayo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:40.745402998Z",
+  "model": "glm-5.3"
+}

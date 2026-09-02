@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Mitindog si Yehonatan nga anak ni Shaul ug milakat siya ngadto kang David sa Khorshah, ug gipalig-on niya ⟨את⟩ ang iyang kamot diha sa Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mitindog"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "si Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug milakat siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "sa Khorshah"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ug gipalig-on niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang kamot"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "diha sa Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:13.328618640Z",
+  "model": "glm-5.3"
+}

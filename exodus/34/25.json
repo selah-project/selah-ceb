@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ayaw pagpatay ⟨sa⟩ tinapay nga may lebadura ang dugo sa akong halad; ug ayaw pagpabilin hangtod sa buntag ang halad sa pista sa Pesach.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "pagpatay"
+    },
+    {
+      "surface": "על",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "tinapay nga may lebadura"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ang dugo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sa akong halad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "pagpabilin"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hangtod sa buntag"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ang halad"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sa pista"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "sa Pesach"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:04.724120472Z",
+  "model": "glm-5.3"
+}

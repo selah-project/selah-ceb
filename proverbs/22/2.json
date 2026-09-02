@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang adunahan ug ang pobre nagkita ⟨ug usab⟩; ang naghimo sa tanan sila ⟨si⟩ Yahweh.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ang adunahan"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ug ang pobre"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "nagkita"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ang naghimo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "sa tanan sila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:01.173715462Z",
+  "model": "glm-5.3"
+}

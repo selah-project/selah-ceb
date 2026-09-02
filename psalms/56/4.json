@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Sa adlaw nga mahadlok ako, ako magasalig kanimo.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nga mahadlok ako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "magasalig"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:15.166718202Z",
+  "model": "glm-5.3"
+}

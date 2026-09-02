@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang akong nefesh ⟨naa⟩ sa akong kamot sa kanunay, ug ang imong torah wala ako makalimti.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ang akong nefesh"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "sa akong kamot"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa kanunay"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ug ang imong torah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ako nakalimti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:16.958755945Z",
+  "model": "glm-5.3"
+}

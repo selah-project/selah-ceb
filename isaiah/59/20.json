@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Ug moabot ang Manubad ngadto sa Tsiyon, ug ngadto sa mga nagbalikloob sa pagkadisobediente didto kang Yaakov — giingon ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ug moabot"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "ngadto sa Tsiyon"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "ang Manubad"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "ug ngadto sa mga nagbalikloob"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sa pagkadisobediente"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "didto kang Yaakov"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "giingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:11:34.319224764Z",
+  "model": "glm-5.3"
+}

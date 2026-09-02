@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Kay nagtubos si Yahweh ⟨את⟩ kang Yaakov, ug gipanubos siya gikan sa kamot sa labaw kusgan kaniya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "nagtubos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kang Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ug gipanubos siya"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sa labaw kusgan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:23:33.147809976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Si David ug ang tibuok balay ni Yisrael naghapon-ogon ⟨pagdula⟩ atubang ni Yahweh sa tanang kahoy sa beroshim, ug sa mga kinor, ug sa mga nebel, ug sa mga tupim, ug sa mga mena'ane'im, ug sa mga tseltselim.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tibuok"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "naghapon-ogon ⟨pagdula⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanang"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sa beroshim"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "ug sa mga kinor"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "ug sa mga nebel"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "ug sa mga tupim"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "ug sa mga mena'ane'im"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "ug sa mga tseltselim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:28.201790956Z",
+  "model": "glm-5.3"
+}

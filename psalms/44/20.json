@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Gipambug-at mo kami sa dapit sa mga chakal, ug gisulobhan mo kami sa landong sa kamatayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "gipambug-at mo kami"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "sa dapit"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "sa mga chakal"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ug gisulobhan mo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "sa landong sa kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:44.651813021Z",
+  "model": "glm-5.3"
+}

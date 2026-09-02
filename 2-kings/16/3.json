@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug milakaw siya sa dalan sa mga hari sa Yisrael, ug bisan ⟨את⟩ ang iyang anak iyang gipaubos sa kalayo, sumala sa mga kahalangdon sa mga nasud nga giwala ni Yahweh ⟨את⟩ sila gikan sa atubangan sa mga anak sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "milakaw siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "sa mga hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug bisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ang iyang anak"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "gipaubos \/ giagi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "sumala sa mga kahalangdon"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "sa mga nasud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "giwala (gipahawa ug gipanag-iya)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "mga nasud nga giwala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "gikan sa atubangan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:52.302281791Z",
+  "model": "glm-5.3"
+}

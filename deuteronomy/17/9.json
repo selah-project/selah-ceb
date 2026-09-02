@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug moanha ka sa mga pari nga mga Levita, ug sa maghuhukom nga mahitabo sa mga adlaw nga kana, ug pangutan-a sila, ug isulti nila kanimo ⟨את⟩ ang pulong sa paghukum.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "moanha ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga pari"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "mga Levita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "maghuhukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nga kana"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "pangutan-a sila"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "isulti nila"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong sa paghukum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "paghukum"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:03.393210959Z",
+  "model": "glm-5.3"
+}

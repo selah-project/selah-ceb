@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gikuha niya ⟨את⟩ gikan sa ilang mga kamot, ug iyang gihimo kini pinaagi sa tsisel, ug gihimo niya kini nga usa ka nating baka nga tinunaw, ug miingon sila: Kini ang imong mga elohim, O Yisrael, nga nagpagawas kanimo gikan sa yuta sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ilang mga kamot"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini (ang bulawan)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "tsisel"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "gihimo niya kini"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "nating baka"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "tinunaw"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "miingon sila"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "imong mga elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "nagpagawas kanimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:44.809802232Z",
+  "model": "glm-5.3"
+}

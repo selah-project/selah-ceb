@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 75,
+  "translation": "Ug tanang mga sungay sa mga dautan pagaputolon ko; ang mga sungay sa matarong pagataasong ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ug tanang"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mga sungay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "pagaputolon ko"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "pagataasong"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ang mga sungay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sa matarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:06.745840048Z",
+  "model": "glm-5.3"
+}

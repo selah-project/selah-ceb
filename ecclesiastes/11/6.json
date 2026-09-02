@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Sa buntig igozi ⟨את⟩ imong liso, ug sa gabii ayaw pagpahulay sa imong kamot, kay wala ka makahibalo asa kini molambo, kini ba o kana, ug kon ang duha parehas nga maayo.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntig"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "igozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imong liso"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imong liso"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ug sa gabii"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "pagpahulay"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sa imong kamot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "wala ka"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "makahibalo"
+    },
+    {
+      "surface": "אי",
+      "gloss": "asa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "molambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini ba"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ang duha"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "parehas nga"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:40.558099321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Gipukaw nila ang ilang dila ingon sa bitin; hilo sa mangahas nga bitin ⟨aa⟩ sa ilang mga ngabi. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Gipukaw nila"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ang ilang dila"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "bitin"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hilo"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "mangahas nga bitin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨aa⟩ sa"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ang ilang mga ngabi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:08.865572912Z",
+  "model": "glm-5.3"
+}

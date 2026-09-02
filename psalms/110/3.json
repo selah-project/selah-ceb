@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Ang imong katawhan ⟨mga⟩ boluntaryong gasa sa adlaw sa imong kusog, sa mga kaanyag sa pagkabalaan; gikan sa tagoangkan sa kaadlawon, kanimo ang hamog sa imong pagkabinatan.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "imong katawhan"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "boluntaryong gasa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "imong kusog"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "sa mga kaanyag"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sa pagkabalaan"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "gikan sa tagoangkan"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "sa kaadlawon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "טל",
+      "gloss": "hamog"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "imong pagkabinatan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:27.609459934Z",
+  "model": "glm-5.3"
+}

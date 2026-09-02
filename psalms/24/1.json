@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Mizmor ni Davíd. Kay Yahweh ⟨ang⟩ yuta ug ang pagkatonog niini, ang kalibutan ug ang mga pumoluyo niini.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Kay Yahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "ug ang pagkatonog niini"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ang kalibutan"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "ug ang mga pumoluyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:38.052375666Z",
+  "model": "glm-5.3"
+}

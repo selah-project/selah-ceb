@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug nakita sa hari sa Moab nga kusog batok kaniya ang gubat, ug gidala niya ⟨את⟩ ang pito ka gatos ka tawo nga naghunsik ug pinuti sa pagputol-pag-agi ngadto sa hari sa Edom, apan wala nila makaya.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kusog"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "batok kaniya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ang gubat"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ug gidala"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "pito ka gatos ka tawo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ka tawo"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "naghunsik"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "pinuti"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "sa pagputol-pag-agi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nila makaya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:03.603421007Z",
+  "model": "glm-5.3"
+}

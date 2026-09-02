@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug ako nagpanudlo ako, nagpalig-on ako sa ilang mga bukton, apan batok kanako nagtuyo sila ug kadaot.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ug ako"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "nagpanudlo"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "nagpalig-on"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "sa ilang mga bukton"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "nagtuyo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ug kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:42.042733706Z",
+  "model": "glm-5.3"
+}

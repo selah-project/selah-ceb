@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 23:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Nagpuyo si David sa kamingawan, sa mga kuta, ug nagpuyo siya sa kabukiran, sa kamingawan sa Zif; ug gipangita siya ni Shaul sa tanan nga mga adlaw, apan wala ⟨siya⟩ ihatag ni Elohim sa iyang kamot.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "sa mga kuta"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo siya"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "sa Zif"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "ug gipangita siya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nga mga adlaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ihatag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T20:22:13.328296856Z",
+  "model": "glm-5.3"
+}

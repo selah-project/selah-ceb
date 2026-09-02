@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Nanhaog si David gikan didto ug nagpuyo sa mga kuta sa En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Nanhaog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ug nagpuyo"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "sa mga kuta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sa En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:23:00.525727399Z",
+  "model": "glm-5.3"
+}

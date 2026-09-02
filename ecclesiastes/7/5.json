@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Maayo ang pagdungog sa pakigbatok sa maalamon kay sa tawo nga mamati sa awit sa mga ulaw.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ang pagdungog"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "sa pakigbatok"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sa maalamon"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kay sa tawo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nga mamati"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sa awit"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga ulaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:50.415182961Z",
+  "model": "glm-5.3"
+}

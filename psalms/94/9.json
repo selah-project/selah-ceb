@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Ang nagtanom sa igdulog, dili ba ⟨siya⟩ makadungog? O ang nagtukod sa mata, dili ba ⟨siya⟩ makatan-aw?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "ang nagtanom"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "igdulog"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "makadungog"
+    },
+    {
+      "surface": "אם",
+      "gloss": "o"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ang nagtukod"
+    },
+    {
+      "surface": "עין",
+      "gloss": "mata"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "dili ba"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "makatan-aw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:53.726970326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Kang Sihon, hari sa ⟨mga⟩ Amorihanon, kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "kang Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorihanon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:43.351389116Z",
+  "model": "glm-5.3"
+}

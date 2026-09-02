@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 14:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug mitingog ang tibuok katilingban sa pagbato kanila ⟨את⟩ ug bato, apan ang himaya ni Yahweh nagpakita sa tolda sa pagtigum ngadto sa tanan nga mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug mitingog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "katilingban"
+    },
+    {
+      "surface": "לרגום",
+      "gloss": "sa pagbato"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kanila",
+      "marks": "bato"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ug bato"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "apan ang himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nagpakita"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtigum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:36:21.988270598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug mikurog ug ninyag ang yuta, ug ang mga tinindug sa kabukiran nanghinuurog, ug mikurog sila, kay nasilo kini sa kasuko.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "ug mikurog"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ug ninyag"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "ug ang mga tinindug"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "nanghinuurog"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ug mikurog sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nasilo sa kasuko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:07.515706751Z",
+  "model": "glm-5.3"
+}

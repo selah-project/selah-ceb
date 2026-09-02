@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Nabali ang dakbayan ⟨sa⟩ kawalay-sulod; gisirahan ang tanan nga balay gikan sa pagsulod.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "nabali"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "kawalay-sulod"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "gisirahan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "gikan sa pagsulod"
+    }
+  ],
+  "timestamp": "2026-09-01T21:01:35.290177994Z",
+  "model": "glm-5.3"
+}

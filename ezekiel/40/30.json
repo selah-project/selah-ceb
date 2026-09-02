@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Ug ang mga arko nga libot libot: baynte ug lima ka siko ang gitas-on, ug lima ka siko ang gilapdon.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "ug ang mga arko"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga libot"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "libot"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ang gitas-on"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ug baynte"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ug ang gilapdon"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "lima"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka siko"
+    }
+  ],
+  "timestamp": "2026-09-01T21:46:13.667881209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "ug gikan sa mga yuta gitipon sila niya, gikan sa sidlakan ug gikan sa kasadpan, gikan sa amihanan ug gikan sa dagat.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "ug gikan sa mga yuta"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "gitipon sila niya"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "gikan sa sidlakan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ug gikan sa kasadpan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "gikan sa amihanan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "ug gikan sa dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:43.502219522Z",
+  "model": "glm-5.3"
+}

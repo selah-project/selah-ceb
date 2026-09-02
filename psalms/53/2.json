@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Miingon ang ulitawo ngil-ad sa iyang kasingkasing: «Walay Elohim.» Nadaot sila ug nangahubog sa kasal-anan; walay nagabuhat ug maayo.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ulitawo ngil-ad"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sa iyang kasingkasing"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "nadaot sila"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "ug nangahubog sila"
+    },
+    {
+      "surface": "עול",
+      "gloss": "sa kasal-anan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagabuhat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ug maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:13.592789021Z",
+  "model": "glm-5.3"
+}

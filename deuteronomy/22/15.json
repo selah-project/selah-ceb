@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "ug kuhaon sa amahan sa dalaga ug ang iyang inahan, ug igula nila ⟨את⟩ ⟨ang mga timailhan sa pagkadelalawa sa dalaga⟩ ngadto sa mga tigulang sa ⟨ang⟩ dakbayan sa ganghaan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ug kuhaon"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "sa amahan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sa dalaga"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug ang iyang inahan"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ug igula nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga timailhan sa pagkadelalawa sa dalaga"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "ang mga timailhan sa pagkadelalawa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "sa dalaga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "sa ganghaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:39.276742629Z",
+  "model": "glm-5.3"
+}

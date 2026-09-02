@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gihatag sa mga anak ni Yisrael ngadto sa mga Levita ⟨את⟩ ang mga dakbayan ug ⟨את⟩ ang ilang mga pastulan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ug gihatag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ngadto sa mga Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dakbayan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ang mga dakbayan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang mga pastulan"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "ang ilang mga pastulan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:29.120449605Z",
+  "model": "glm-5.3"
+}

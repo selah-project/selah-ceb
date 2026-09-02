@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug magmando ang saserdote, ug kuhaon alang sa pagpainlo ngadto kaniya duha ka langgam nga buhi ug matinlo, ug kahoy nga sedro, ug bugas nga mapula (sinul-og nga scarlet), ug isopo:",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "magmando"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "kuhaon"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "alang sa pagpainlo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "duha ka"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "langgam"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "matinlo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedro"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "bugas nga mapula"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "(sinul-og nga scarlet)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "isopo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:25:27.852022058Z",
+  "model": "glm-5.3"
+}

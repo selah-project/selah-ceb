@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Dali nga mapagawas ang nagpanaw ⟨nga bihag⟩, ug dili siya mamatay sa ⟨lubnganan⟩, ug dili mahurot ang iyang tinapay.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "dali nga"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "ang nagpanaw"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "mapagawas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "mamatay siya"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "sa ⟨lubnganan⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "mahurot"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ang iyang tinapay"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:12.634673903Z",
+  "model": "glm-5.3"
+}

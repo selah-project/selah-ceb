@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ayaw pagkuha gikan kaniya ⟨את⟩ og tubo ug pagpadako, kondili kahadlokan mo ang imong Elohim, ug mabuhi ang imong igsoon uban kanimo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "pagkuha"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "gikan kaniya ⟨את⟩",
+      "marks": "tubo ug pagpadako"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "tubo"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ug pagpadako"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ug kahadlokan mo"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ang imong Elohim"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ug mabuhi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ang imong igsoon"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "uban kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:17.056148974Z",
+  "model": "glm-5.3"
+}

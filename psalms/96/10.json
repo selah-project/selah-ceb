@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 96,
+  "translation": "Isulti diha sa mga kanasoran: si Yahweh naghari na; oo, ⟨ang⟩ kalibotan pagatumar, dili kini moliwaliw; ⟨siya⟩ magahukom sa mga katawhan sa matag-tarong.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Isulti"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "diha sa mga kanasoran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "naghari na"
+    },
+    {
+      "surface": "אף",
+      "gloss": "oo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "pagatumar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨ang⟩ kalibotan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "moliwaliw"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "sa matag-tarong"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:08.003295902Z",
+  "model": "glm-5.3"
+}

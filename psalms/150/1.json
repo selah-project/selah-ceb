@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 150,
+  "translation": "Pagdayegahamu si Yah; pagdayegahamu si El sa iyang balaang ⟨dakong hinagdanan⟩; pagdayegahamu siya sa banig sa kalangitan sa iyang gahum.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "pagdayegahamu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "si Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayegahamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa iyang balaang ⟨dakong hinagdanan⟩"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "pagdayegahamu siya"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sa banig sa kalangitan"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "sa iyang gahum"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:51.427218891Z",
+  "model": "glm-5.3"
+}

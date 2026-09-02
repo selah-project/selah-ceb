@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug nagsulti sila batok sa Elohim; nagaingon sila: Makahimo ba si El sa paglatid ug lamesa sa kamingaw?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "ug nagsulti sila"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "batok sa Elohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nagaingon sila"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "Makahimo ba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "si El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "sa paglatid"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ug lamesa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:54.391108341Z",
+  "model": "glm-5.3"
+}

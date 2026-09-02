@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Ug gitugoman niya ang mga panganod gikan sa itaas, ug ang mga pultahan sa langit giablihan niya;",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ug gitugoman niya"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ang mga panganod"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "gikan sa itaas"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "ug ang mga pultahan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "giablihan niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:57.018459168Z",
+  "model": "glm-5.3"
+}

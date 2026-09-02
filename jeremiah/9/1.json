@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kinsa ba ang maghatag kanako sa kamingawan, ug usa ka tulunghanan sa mga magbibiyahe, aron biyaan ko ⟨את⟩ ang akong katawhan ug mopalayo ako gikan ⟨את⟩ kanila! Kay silang tanan mangaaki, usa ka katitipon sa mga manlilinlang.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "maghatag kanako"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "tulunghanan"
+    },
+    {
+      "surface": "ארחים",
+      "gloss": "mga magbibiyahe"
+    },
+    {
+      "surface": "ואעזבה",
+      "gloss": "aron biyaan ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong katawhan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ang akong katawhan"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ug mopalayo ako"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "gikan ⟨את⟩ kanila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "silang tanan"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mangaaki"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "katitipon"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "mga manlilinlang"
+    }
+  ],
+  "timestamp": "2026-09-01T21:18:05.851899569Z",
+  "model": "glm-5.3"
+}

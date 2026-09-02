@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 13:17",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Gipadala ni Moshe sila ⟨את⟩ sa pagpanan-aw ⟨את⟩ sa yuta sa Kenaan, ug miingon siya kanila: Manaug kamo dinhi ngadto sa Negev, ug manaug kamo ⟨את⟩ sa bukid.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Gipadala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "sa pagpanan-aw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa yuta sa Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Manaug kamo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dinhi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "ngadto sa Negev"
+    },
+    {
+      "surface": "ועליתם",
+      "gloss": "ug manaug kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:03.912510642Z",
+  "model": "glm-5.3"
+}

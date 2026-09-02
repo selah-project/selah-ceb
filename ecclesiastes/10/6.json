@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Gibutang ⟨ang⟩ ulok sa mga kataas nga dungganan, ug ang mga adunahan naglingkod sa ubos nga dapit.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "gibutang"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ang ulok"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "sa mga kataas nga dungganan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mataas (daghan)"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ug ang mga adunahan"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "sa ubos nga dapit"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "naglingkod"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:28.306023428Z",
+  "model": "glm-5.3"
+}

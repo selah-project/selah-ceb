@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug siya nag-ingon: Nangayo ka ug lisud nga butang; apan kon makit-an nako nga ⟨את⟩ angkuhon ako gikan kanimo, mahitabo kanimo kana; apan kon dili, dili kini mahitabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug siya nag-ingon"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "nangayo ka ug lisud nga butang"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "sa pagpangayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "makit-an nako"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nga angkuhon ako"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "angkuhon"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ gikan kanimo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mahitabo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "apan kon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "dili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini mahitabo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:51.756578235Z",
+  "model": "glm-5.3"
+}

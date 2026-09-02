@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ang geber nga maalam kusgan, ug ang tawo nga adunay kahibalo mopadako sa kusog.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "geber"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "kusgan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ug ang tawo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "mopadako"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sa kusog"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:35.923864201Z",
+  "model": "glm-5.3"
+}

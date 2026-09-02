@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug misaka si Moshe ngadto sa bukid, ug gisapawan sa panganod ⟨את⟩ ang bukid.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ug misaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ug gisapawan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sa panganod"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bukid"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ang bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T19:12:24.034354230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 16:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Kay natunaw ang mga uma sa Kheshbon, ⟨ug⟩ ang kaparrasan sa Sivmakh; ang mga agalon sa mga nasod nanglupog sa iyang piniling mga sangang-dahon; naabot sila hangtod sa Yaazer, nalibog sila sa kamingaw; ang iyang mga sanga gipakatibulaag, milapas sila ⟨sa⟩ dagat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "שדמות",
+      "gloss": "ang mga uma"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "sa Kheshbon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "natunaw"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "ang kaparrasan"
+    },
+    {
+      "surface": "שבמה",
+      "gloss": "sa Sivmakh"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ang mga agalon"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "nanglupog"
+    },
+    {
+      "surface": "שרוקיה",
+      "gloss": "sa iyang piniling mga sangang-dahon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaazer"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "naabot sila"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "nalibog sila"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sa kamingaw"
+    },
+    {
+      "surface": "שלחותיה",
+      "gloss": "ang iyang mga sanga"
+    },
+    {
+      "surface": "נטשו",
+      "gloss": "gipakatibulaag"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "milapas sila"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:19.007746248Z",
+  "model": "glm-5.3"
+}

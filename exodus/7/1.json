@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug miingon si Yahweh kang Moshe: Tan-awa, gihatag ko ikaw ingon nga Elohim kang Paro, ug si Aharon nga imong igsoon mahimong ⟨imong⟩ manalagna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "gihatag ko ikaw"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kang Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug si Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "imong igsoon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "imong manalagna"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:01.056852505Z",
+  "model": "glm-5.3"
+}

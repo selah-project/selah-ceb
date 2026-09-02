@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Susihi ako, El, ug ilama ang akong kasingkasing; sulayi ako ug ilama ang akong mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Susihi ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ug ilama"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "sulayi ako"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ug ilama"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ang akong mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:06.503809523Z",
+  "model": "glm-5.3"
+}

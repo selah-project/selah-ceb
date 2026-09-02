@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug mitubag si Efron ⟨את⟩ kang Avraham, nga nag-ingon kaniya,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ug mitubag"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "si Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "si Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:54:05.322061489Z",
+  "model": "glm-5.3"
+}

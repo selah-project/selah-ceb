@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kon ⟨sa iyang kaugalingon⟩ siya mosulod, ⟨sa iyang kaugalingon⟩ siya mogawas; kon bana siya ug asawa, ang iyang asawa mogawas kauban niya.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sa iyang kaugalingon"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "siya mosulod"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sa iyang kaugalingon"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "siya mogawas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "mogawas"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ang iyang asawa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:07.885277275Z",
+  "model": "glm-5.3"
+}

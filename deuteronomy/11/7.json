@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "kay ⟨kini⟩ ang inyong mga mata ang nakakita sa ⟨את⟩ tanan nga buhat ni Yahweh, ⟨ang⟩ dako, nga iyang gihimo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ang inyong mga mata"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ang nakakita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga buhat ni Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "nga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "⟨ang⟩ dako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:49:04.258783266Z",
+  "model": "glm-5.3"
+}

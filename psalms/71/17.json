@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Elohim, gitudloan Mo ako gikan sa akong pagkabata, ug hangtod karon ipahibalo ko ang Imong mga katingalahang buhat.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "gitudloan Mo ako"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "gikan sa akong pagkabata"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "karon"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ipahibalo ko"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ang Imong mga katingalahang buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:56.370572053Z",
+  "model": "glm-5.3"
+}

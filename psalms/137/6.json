@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 137,
+  "translation": "Magadikit ang akong dila sa akong ngipng-babaan, kon dili ko ikaw hinumdoman, kon dili ko ipataas ⟨ang⟩ Yerushalayim ⟨את⟩ sa ibabaw sa akong kadako nga kalipay.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Magadikit"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ang akong dila"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "sa akong ngipng-babaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ko ikaw hinumdoman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ko ipataas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "akong kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:33.695520302Z",
+  "model": "glm-5.3"
+}

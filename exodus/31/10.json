@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "ug ⟨את⟩ ang mga bisti sa pag-alagad, ug ⟨את⟩ ang mga bisti sa balaan alang kang Aharon ang saserdote, ug ⟨את⟩ ang mga bisti sa iyang mga anak aron sa pag-alagad isip saserdote.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga bisti sa pag-alagad"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "sa pag-alagad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga bisti sa balaan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "alang kang Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang saserdote"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga bisti sa iyang mga anak"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sa iyang mga anak"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "aron sa pag-alagad isip saserdote"
+    }
+  ],
+  "timestamp": "2026-09-01T19:15:00.851143265Z",
+  "model": "glm-5.3"
+}

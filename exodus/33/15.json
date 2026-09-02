@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug miingon siya kaniya: Kong ang imong panagway dili modagan ⟨uban kanamo⟩, ayaw na pagdala kanamo gikan dinhi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kong"
+    },
+    {
+      "surface": "אין",
+      "gloss": "dili"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imong panagway"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "modagan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw na"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "pagdala kanako"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan dinhi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:58.454924189Z",
+  "model": "glm-5.3"
+}

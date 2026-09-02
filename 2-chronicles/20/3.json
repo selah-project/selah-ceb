@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug nahadlok si Yehoshafat, ug gibutang niya ⟨את⟩ iyang nawong sa pagpangita kang Yahweh; ug nagmantala siya ug pagpuasa sa tibuok Yehuda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ug nahadlok"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang nawong"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang nawong"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug nagmantala siya"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ug pagpuasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-01T23:25:29.537303779Z",
+  "model": "glm-5.3"
+}

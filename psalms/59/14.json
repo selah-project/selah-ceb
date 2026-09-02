@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 59:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Hilngon ⟨sila⟩ sa kasuko, hilngon sila nga wala na sila, ug mahibawoan nila nga si Elohim ang nagmando didto sa Yaakov, hangtod sa mga kinatumyan sa yuta. Selah.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "hilngon"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "sa kasuko"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "hilngon"
+    },
+    {
+      "surface": "ואינמו",
+      "gloss": "nga wala na sila"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ug mahibawoan nila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ang nagmando"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "didto sa Yaakov"
+    },
+    {
+      "surface": "לאפסי",
+      "gloss": "hangtod sa mga kinatumyan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:09.052616020Z",
+  "model": "glm-5.3"
+}

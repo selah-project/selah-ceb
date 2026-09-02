@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug si Mitsrayim nagkatawo ⟨את⟩ sa mga Ludim, ug ⟨את⟩ sa mga Anamim, ug ⟨את⟩ sa mga Lehabim, ug ⟨את⟩ sa mga Naftuchim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "ug si Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagkatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga Ludim"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "mga Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "mga Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "mga Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga Naftuchim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "mga Naftuchim"
+    }
+  ],
+  "timestamp": "2026-09-01T18:50:57.110943722Z",
+  "model": "glm-5.3"
+}

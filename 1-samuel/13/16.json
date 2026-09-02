@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug si Shaul ug si Yonatan iyang anak, ug ang katawhan nga nakapuyo uban kanila, nagpabilin nga nagpuyo sa Geva sa Binyamin; ug ang mga Peleset nagkampo sa Mikhmas.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "ug si Shaul"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ug si Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ug ang katawhan"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nga nakapuyo"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "uban kanila"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "nagpuyo"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "sa Geva"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "sa Binyamin"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ug ang mga Peleset"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nagkampo"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "sa Mikhmas"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:19.241194917Z",
+  "model": "glm-5.3"
+}

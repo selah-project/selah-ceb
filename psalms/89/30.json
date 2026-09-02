@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ug akong ibutang hangtod sa dayon ang iyang kaliwat, ug ang iyang trono ingon sa mga adlaw sa kalangitan.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ug akong ibutang"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa dayon"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ang iyang kaliwat"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ug ang iyang trono"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "ingon sa mga adlaw"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "sa kalangitan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:06.000639394Z",
+  "model": "glm-5.3"
+}

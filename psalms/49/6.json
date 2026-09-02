@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ngano man mang mahadlok ako sa mga adlaw sa kadaot, sa paglibot kanako sa awon sa akong mga tikod?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ngano man"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mahadlok ako"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sa awon"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "sa akong mga tikod"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "sa paglibot kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:52.894500084Z",
+  "model": "glm-5.3"
+}

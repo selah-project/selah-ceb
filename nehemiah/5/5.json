@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 5:5",
+  "book": "nehemiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug karon, ingon sa unod sa among mga igsoon ⟨ang⟩ among unod, ingon sa ilang mga anak ⟨ang⟩ among mga anak; ug ania kami, nagapasakop kami ⟨את⟩ sa among mga anak ug ⟨את⟩ sa among mga anak nga babaye isip mga ulipon, ug may mga anak nga babaye kami nga napasakop na, ug wala ⟨kini⟩ sa gahum sa among kamot, kay ang among mga uma ug ang among kaparrasan ⟨anaa⟩ sa ubang tawo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "כבשר",
+      "gloss": "ingon sa unod"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "sa among mga igsoon"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "ang among unod"
+    },
+    {
+      "surface": "כבניהם",
+      "gloss": "ingon sa ilang mga anak"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ang among mga anak"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "nagapasakop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa among mga anak"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "sa among mga anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa among mga anak nga babaye"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "sa among mga anak nga babaye"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "isip mga ulipon"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ug may"
+    },
+    {
+      "surface": "מבנתינו",
+      "gloss": "gikan sa among mga anak nga babaye"
+    },
+    {
+      "surface": "נכבשות",
+      "gloss": "napasakop"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "sa gahum"
+    },
+    {
+      "surface": "ידנו",
+      "gloss": "sa among kamot"
+    },
+    {
+      "surface": "ושדתינו",
+      "gloss": "ug ang among mga uma"
+    },
+    {
+      "surface": "וכרמינו",
+      "gloss": "ug ang among kaparrasan"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "sa ubang tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T23:05:02.247126298Z",
+  "model": "glm-5.3"
+}

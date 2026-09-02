@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Apan ang tanan nga mga sapat ug ang sinubra sa mga dakbangan among gikuha alang sa among kaugalingon.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "apan ang tanan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mga sapat"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ug ang sinubra"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "sa mga dakbangan"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "among gikuha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang sa among kaugalingon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:07.259699417Z",
+  "model": "glm-5.3"
+}

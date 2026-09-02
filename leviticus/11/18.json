@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ⟨את⟩ ang tinshemet, ug ⟨את⟩ ang kaat, ug ⟨את⟩ ang racham",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "ang tinshemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "ang kaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "ang racham"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:29.066026311Z",
+  "model": "glm-5.3"
+}

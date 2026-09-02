@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Bisan unsa, ang kahoy nga imong mahibalo-an nga dili kini kahoy nga pagkaon, kana ⟨את⟩ imong pagalaglagon ug imong utdon; ug magpatindog ka ug mga matakos batok sa ⟨ang⟩ dakbayan nga nag gubat batok kanimo, hangtod nga mahulog kini.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Bisan unsa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ang kahoy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "imong mahibalo-an"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kana (ang kahoy nga dili pagkaon)"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "imong pagalaglagon"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "ug imong utdon"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "ug magpatindog ka"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "mga matakos sa pagpulong"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨ang⟩ dakbayan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "batok kanimo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "gubat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "nga mahulog kini"
+    }
+  ],
+  "timestamp": "2026-09-02T00:56:27.762652229Z",
+  "model": "glm-5.3"
+}

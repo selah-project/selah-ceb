@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 63,
+  "translation": "Kay ikaw ang nahimong tabang alang kanako, ug sa landong sa imong mga pako magakanta ako sa kalipay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ikaw ang nahimong"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "tabang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ug sa landong"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa imong mga pako"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "magakanta ako sa kalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:52.595586009Z",
+  "model": "glm-5.3"
+}

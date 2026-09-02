@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Ug gihimo niya ⟨את⟩ ang mga baras nga kahoy sa shitta, ug giputos niya ⟨את⟩ sila ug bronse.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gihimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga baras"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ang mga baras"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "giputos niya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronse"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:41.371696011Z",
+  "model": "glm-5.3"
+}

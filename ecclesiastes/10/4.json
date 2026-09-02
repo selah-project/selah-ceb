@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Kon ang gininhawa sa manlalagtod motungtong kanimo, ayaw biya-i ang imong dapit, kay ang kalma magpahunong sa dagkong mga sala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang gininhawa"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "sa manlalagtod"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "motungtong"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ang imong dapit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "biya-i"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ang kalma \/ pagpahumot"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "magpahunong"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "dagko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:59.221545935Z",
+  "model": "glm-5.3"
+}

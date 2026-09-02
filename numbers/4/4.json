@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kini ang serbisyo sa mga anak ni Kehath sa tolda sa pagtigom: ⟨ang⟩ balaan sa mga balaan.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ang serbisyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ni Kehath"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "sa tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "sa pagtigom"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "balaan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "sa mga balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:34.996064792Z",
+  "model": "glm-5.3"
+}

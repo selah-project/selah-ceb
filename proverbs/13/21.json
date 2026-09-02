@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ang kadaut nagtulong sa mga makasasala, ug ⟨את⟩ ang mga matarong bayran ug maayo.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "mga makasasala"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "nagtulong"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kadaut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga matarong"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bayran"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:21.281674348Z",
+  "model": "glm-5.3"
+}

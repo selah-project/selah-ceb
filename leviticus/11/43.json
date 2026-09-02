@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ayaw ninyo pagpahugaw ⟨את⟩ sa inyong mga kalag sa tanan nga manggasgas nga nagagasgas, ug ayaw ninyo paghugaw pinaagi kanila, aron dili kamo mahugawon pinaagi kanila.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ninyo pagpahugaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa inyong mga kalag"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "inyong mga kalag"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "manggasgas"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "nagagasgas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ninyo paghugaw"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "pinaagi kanila"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "ug mahugawon kamo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "pinaagi kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:31.322158940Z",
+  "model": "glm-5.3"
+}

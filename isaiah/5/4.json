@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 5:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Unsa pa ang buhaton ⟨⟨ako⟩⟩ sa akong kaparasan nga wala nako buhaton niini? Ngano, sa paghulat nako nga magbukas kini ug ubas, apan nagbukas kini ug bunga nga mapait?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "unsaa pa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ang buhaton"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "sa akong kaparasan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nga wala"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nako buhaton"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ngano"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "sa paghulat nako"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nga magbukas"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "ubas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "apan nagbukas kini"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "bunga nga mapait"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:46.132250956Z",
+  "model": "glm-5.3"
+}

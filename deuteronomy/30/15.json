@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Tan-awa, karon gipahimutang ko diha sa imong atubangan ⟨את⟩ ang kinabuhi ug ⟨את⟩ ang maayo, ug ⟨את⟩ ang kamatayon ug ⟨את⟩ ang daotan;",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gipahimutang ko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "diha sa imong atubangan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "karon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kinabuhi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ang kinabuhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang maayo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ang maayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang kamatayon"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ang kamatayon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang daotan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ang daotan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:55:07.869200079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ania kadi, moabot ang mga adlaw ug pangputlon ko ⟨את⟩ ang imong bukton ug ⟨את⟩ ang bukton sa balay sa imong amahan, aron dili na magmay-istambay nga tigulang sa imong balay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ania kadi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ang mga adlaw"
+    },
+    {
+      "surface": "באים",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ug pangputlon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang imong bukton"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ang imong bukton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang bukton sa balay sa imong amahan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ang bukton"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sa imong amahan"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "aron dili na magmay-istambay"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "tigulang"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "sa imong balay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:30.995223030Z",
+  "model": "glm-5.3"
+}

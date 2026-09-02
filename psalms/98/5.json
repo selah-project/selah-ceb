@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 98,
+  "translation": "Pagtutog sa al kang Yahweh uban sa kinor; uban sa kinor ug sa tingog sa panagbalit-awit.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Pagtutog sa al"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uban sa kinor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uban sa kinor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ug sa tingog"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "sa panagbalit-awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:02.556432642Z",
+  "model": "glm-5.3"
+}

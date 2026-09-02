@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gikan sa adlaw nga usa ⟨ngadto sa⟩ bulan nga ikapito nagsugod sila sa pagpaangat og holokaust ngadto kang Yahweh, apan ang templo ni Yahweh wala pa ⟨mapundar⟩ ⟨ang iyang⟩ pundasyon.",
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "gikan sa adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨ngadto sa⟩ bulan"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ikapito"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "nagsugod sila"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "sa pagpaangit"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "holokaust"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "apan ang templo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala pa"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "mapundar"
+    }
+  ],
+  "timestamp": "2026-09-01T23:02:32.488463844Z",
+  "model": "glm-5.3"
+}

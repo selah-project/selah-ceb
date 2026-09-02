@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ngano nga nalubog ka, akong kalag? Ug ngano nga nagahunong ka sulod kanako? Naglaom ka kang Elohim, kay pagasalamatan ko gihapon ⟨siya⟩ — ⟨siya⟩ ang kaluwasan sa akong nawong ug ang akong Elohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ngano nga"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "nalubog ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ug ngano nga"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "nagahunong ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sulod kanako"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "naglaom ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ghihapon"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "pagasalamatan ko siya"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ang kaluwasan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa akong nawong"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ug ang akong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:06.311435241Z",
+  "model": "glm-5.3"
+}

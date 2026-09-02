@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug si Yehoshafat miingon sa hari sa Yisrael: Pangutan-a ⟨⟨na⟩⟩ karon ang ⟨pulong⟩ ni Yahweh ⟨את⟩ sa adlaw nga karon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "si Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "pangutan-a"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "sa adlaw nga karon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sa pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:53.006706127Z",
+  "model": "glm-5.3"
+}

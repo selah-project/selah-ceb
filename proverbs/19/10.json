@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Dili angay alang sa buang ang kalingawan, labaw pa alang sa sulogon ang paghari sa ⟨mga⟩ prinsipe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "angay"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "alang sa buang"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "ang kalingawan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "labaw pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "alang sa sulogon"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ang paghari"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "sa mga prinsipe"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:38.050686996Z",
+  "model": "glm-5.3"
+}

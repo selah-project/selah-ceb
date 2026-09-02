@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Nangitik sila kang Yahweh sa ilang kagul-an, gikan sa ilang mga kalisod giluwas niya sila.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Nangitik sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sa ilang kagul-an"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ila"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "gikan sa ilang mga kalisod"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "giluwas niya sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.000111374Z",
+  "model": "glm-5.3"
+}

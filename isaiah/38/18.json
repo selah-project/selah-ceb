@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 38:18",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Kay ang Sheol dili magapasalamat ⟨kanimo⟩, ang kamatayon dili magadayeg kanimo; dili maglaom ang mga nanunaw ngadto sa kabuho sa imong kamatuoran.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ang Sheol"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "magapasalamat kanimo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ang kamatayon"
+    },
+    {
+      "surface": "יהללך",
+      "gloss": "magadayeg kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "maglaom"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ang mga nanunaw"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ngadto sa kabuho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "imong kamatuoran"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:30.382531114Z",
+  "model": "glm-5.3"
+}

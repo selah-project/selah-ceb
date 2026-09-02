@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Sa pagsulti ⟨sa⟩ mga gigapos: Inyo kaming gawas; sa mga anaa sa kangitngit: Magpakita kamo. Sa mga dalan mamanol sila, ug sa tanan nga hinaog nga bungtod ang ilang sabsabon.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "sa mga gigapos"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Inyo kaming gawas"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa mga anaa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "sa kangitngit"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Magpakita kamo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "mamanol sila"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ug sa tanan"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "hinaog nga bungtod"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ang ilang sabsabon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:08:30.619623956Z",
+  "model": "glm-5.3"
+}

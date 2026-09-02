@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug miabot ang gahum sa ruah ni Elohim kang Shaul diha sa pagkadungog niya ⟨את⟩ ⟨sa⟩ mga pulong kining mga kaha, ug nakasilab ang iyang kaakgad pag-ayo.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "Ug miabot ang gahum"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "diha sa pagkadungog niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga pulong"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "sa mga pulong"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining mga kaha"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ug nakasilab"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang iyang kaakgad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pag-ayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:32.536375077Z",
+  "model": "glm-5.3"
+}

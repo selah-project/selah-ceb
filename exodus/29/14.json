@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Apan ⟨את⟩ ang unod sa baka ug ⟨את⟩ panit niini ug ⟨את⟩ ang iyang tae, sunoga sa kalayo gawas sa kampo; hinawas sa sala kini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang unod sa baka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ang unod"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "panit niini"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "panit niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang tae"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ang iyang tae"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "sunoga"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "sa kampo"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hinawas sa sala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:45.072742120Z",
+  "model": "glm-5.3"
+}

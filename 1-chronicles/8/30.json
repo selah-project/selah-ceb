@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug ang iyang panganay mao si Avdon, ug si Tsur, ug si Khish, ug si Baal, ug si Nadav.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ug ang iyang anak"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ug si Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ug si Khish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ug si Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ug si Nadav"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:46.911442914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug nagmando si Paro bahin kaniya sa mga tawo, ug gipapahawa nila ⟨את⟩ siya ug ⟨את⟩ ang iyang asawa ug ⟨את⟩ ang tanan nga iyang gabuhat.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nagmando"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bahin kaniya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "gipapahawa nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang iyang asawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:29.797757169Z",
+  "model": "glm-5.3"
+}

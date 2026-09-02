@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon ang hari sa Yisrael: Aha! Kay gitawag ni Yahweh ⟨את⟩ kining tulo ka mga hari aron sa paghatod kanila ngadto sa kamot sa Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gitawag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "kining tulo ka"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aron sa paghatod"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "kining tulo ka mga hari"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sa Moab"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:29.024375024Z",
+  "model": "glm-5.3"
+}

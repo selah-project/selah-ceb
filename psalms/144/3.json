@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Yahweh, unsa ang tawo nga ⟨ikaw⟩ nakaila kaniya, ang anak sa makamatay nga tawo nga ⟨ikaw⟩ gitagana kaniya?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "usa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "nakaila kaniya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "makamatay nga tawo"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "gitagana kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:32.992500133Z",
+  "model": "glm-5.3"
+}

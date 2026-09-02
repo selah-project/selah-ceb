@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Kay gipunit nako ang mga dalan ni Yahweh, ug wala ako nagbuhat ug kadautan batok sa akong Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "gipunit nako"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ang mga dalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "nagbuhat ako ug kadautan"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "batok sa akong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.026942349Z",
+  "model": "glm-5.3"
+}

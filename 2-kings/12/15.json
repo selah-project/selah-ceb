@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Kay sa mga naghimo sa trabaho gitaganan nila ⟨kini⟩, ug gipalig-on nila pinaagi niini ⟨את⟩ ang balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "sa mga naghimo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "sa trabaho"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "gitaganan nila"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "ug gipalig-on nila"
+    },
+    {
+      "surface": "בו",
+      "gloss": "pinaagi niini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay ni Yahweh (בית יהוה)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:51:05.563452736Z",
+  "model": "glm-5.3"
+}

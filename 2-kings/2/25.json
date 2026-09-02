@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug miadto siya gikan didto ngadto sa bukid ⟨sa⟩ Karmel, ug gikan didto nagbalik siya sa Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ug miadto siya"
+    },
+    {
+      "surface": "משם",
+      "gloss": "gikan didto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "bukid"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "⟨sa⟩ Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ug gikan didto"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nagbalik siya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomron"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:08.330754195Z",
+  "model": "glm-5.3"
+}

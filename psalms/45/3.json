@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Pagkahataas sa imong kaanyag gikan sa mga anak ni Adam; gibuhin ang grahiya sa imong mga ngabil; tungod niini gipanalanginan ka ni Elohim hangtod sa kahangtora.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "pagkahataas sa imong kaanyag"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gikan sa mga anak ni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam (tawo)"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "gibuhin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ang grahiya"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "sa imong mga ngabil"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod niini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gipanalanginan ka"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "gipanalanginan ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtora"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:14.446968170Z",
+  "model": "glm-5.3"
+}

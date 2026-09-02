@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": " ug kini ⟨mga⟩ ang mga lider nga iyang giadnan: si Azaryahu nga anak ni Tsadok, ang padi;",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mga lider"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iyang"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ang padi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:27.658281549Z",
+  "model": "glm-5.3"
+}

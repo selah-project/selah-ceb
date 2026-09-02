@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Nakakita ⟨ka⟩ ug daghan apan wala magbantay; ⟨ang pag-abli sa⟩ mga dalgan gipabukas apan wala mamati.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ug daghan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "magbantay"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "gipabukas"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "mga dalgan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mamati"
+    }
+  ],
+  "timestamp": "2026-09-01T21:07:03.769040952Z",
+  "model": "glm-5.3"
+}

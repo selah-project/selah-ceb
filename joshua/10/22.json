@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ug miingon si Yehoshua: Ablihi ninyo ⟨את⟩ ang baba sa langub, ug paggawasa ninyo ngari kanako ⟨את⟩ kining lima ka hari gikan sa langub.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "Ablihi ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang baba sa langub"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ang baba"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "sa langub"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "paggawasa ninyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining lima ka hari"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "lima ka"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "hari"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kining"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "langub"
+    }
+  ],
+  "timestamp": "2026-09-01T20:00:00.844411696Z",
+  "model": "glm-5.3"
+}

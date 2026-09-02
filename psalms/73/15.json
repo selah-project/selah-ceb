@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Kong ako moingon, 'Isulti ko kini nga ingon man,' ania karon — sa henerasyon sa imong mga anak magaluib ako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kong"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ako moingon"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "isulti ko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "nga ingon man"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sa imong mga anak"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "magaluib ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.768363942Z",
+  "model": "glm-5.3"
+}

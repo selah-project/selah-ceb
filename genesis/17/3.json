@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug natumba si Avram sa iyang dagway, ug nakig-estorya si Elohim ⟨את⟩ kaniya, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ug natumba"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "iyang dagway"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ug nakig-estorya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:10.757956659Z",
+  "model": "glm-5.3"
+}

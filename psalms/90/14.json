@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Pabusoga kami sa buntag sa imong hesed (gugma nga matinud-anon), aron mag dayandayan kita ug magmalipayon sa tanan natong mga adlaw.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "Pabusoga kami"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "imong hesed"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "aron mag dayandayan kita"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "ug magmalipayon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "natong mga adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:09.951059165Z",
+  "model": "glm-5.3"
+}

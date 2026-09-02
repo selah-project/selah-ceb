@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Kay giukyon niya ang iyang dunggan ngari kanako, ug sa tanan ko nga adlaw motawag ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "giukyon niya"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ang iyang dunggan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngari kanako"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ug sa tanan ko nga adlaw"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "motawag ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:13.659642134Z",
+  "model": "glm-5.3"
+}

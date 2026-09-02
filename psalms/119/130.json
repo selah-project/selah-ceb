@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Ang pag-abli sa imong mga pulong nagahatag og kahayag, nagahatag og pag-intende sa mga yano.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ang pag-abli"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sa imong mga pulong"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "nagahatag og kahayag"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "nagahatag og pag-intende"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "sa mga yano"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.752255740Z",
+  "model": "glm-5.3"
+}

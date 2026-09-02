@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ang iyang kahamoutan ⟨mahimong⟩ kahadlok kang Yahweh; dili siya magahukom sumala sa iyang mga mata nakita, ni magatukod sumala sa iyang mga dalunggan nadungog.",
+  "tokens": [
+    {
+      "surface": "ו הריחו",
+      "gloss": "Ug ang iyang kahamoutan"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "kahadlok kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "sumala sa nakita"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sa iyang mga mata"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "magahukom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ni"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "sumala sa nadungog"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "sa iyang mga dalunggan"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "magatukod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:15.483199365Z",
+  "model": "glm-5.3"
+}

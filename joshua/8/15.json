@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gibutyag ni Yehoshua ug sa tibuok Yisrael sa atubangan nila, ug nanagan sila paagi sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "gibutyag"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa atubangan nila"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ug nanagan sila"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "paagi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:03.983669228Z",
+  "model": "glm-5.3"
+}

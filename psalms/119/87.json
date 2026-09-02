@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pipila na lang ⟨ug⟩ gipukan ako nila sa yuta, apan ako wala magbihag sa imong mga mandamiento.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Pipila na lang"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "gipukan ako nila"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "magbihag"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "sa imong mga mandamiento"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.118465726Z",
+  "model": "glm-5.3"
+}

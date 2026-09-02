@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Bisan unsa nga adunay gininhawa sa kinabuhi sa iyang ilong, tanang sa hiway nga yuta, nangamatay sila.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bisnan unsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "gininhawa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sa espirituhanon"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "sa kinabuhi"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "sa iyang ilong"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tanang sa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga anaa"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "hiway nga yuta"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "nangamatay sila"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:43.797075724Z",
+  "model": "glm-5.3"
+}

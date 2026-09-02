@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Sa magdadagko sa kanta, mahitungod sa \"Lalaking Ulap sa Kabuntagon\" — usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "sa magdadagko sa kanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod sa"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Lalaking Ulap"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "sa Kabuntagon"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:28.245236116Z",
+  "model": "glm-5.3"
+}

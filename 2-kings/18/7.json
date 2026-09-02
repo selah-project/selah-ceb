@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug si Yahweh ⟨naa⟩ uban kaniya; sa tanan nga iyang gisulud ⟨siya malampuson⟩; ug siya nangbudlay batok sa hari sa Ashur, ug wala siya pag-alagad kaniya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ug si Yahweh ⟨naa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uban kaniya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gisulud"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "⟨siya malampuson⟩"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ug siya nangbudlay"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "batok sa hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "siya pag-alagad kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:52:28.161399868Z",
+  "model": "glm-5.3"
+}

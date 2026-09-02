@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Kenaan nagpakatawo ⟨את⟩ kang Tsidon iyang panganay, ug ⟨את⟩ kang Khet.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ug si Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "nagpakatawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "kang Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "iyang panganay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang Khet"
+    },
+    {
+      "surface": "חת",
+      "gloss": "kang Khet"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:25.549838842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 105,
+  "translation": "Nagpadala siya ug ⟨isa ka⟩ tawo sa wala pa sila — si Yosef, nga ginbaligya isip ulipon.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nagpadala"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa wala pa sila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "isip ulipon"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "ginbaligya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "si Yosef"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:13.834104079Z",
+  "model": "glm-5.3"
+}

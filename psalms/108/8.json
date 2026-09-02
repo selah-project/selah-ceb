@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 108,
+  "translation": "Nagkahinabi si Elohim sa iyang pagcabalaan: Magmalipayon ako, magbahin ako sa Shekhem, ug ang walog sa Sukkot susukaton ko.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Nagkahinabi"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "sa iyang pagcabalaan"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "Magmalipayon ako"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "magbahin ako"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ug ang walog"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "susukaton ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:18.625908257Z",
+  "model": "glm-5.3"
+}

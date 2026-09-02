@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Kinsa ⟨kini⟩ ⟨ang⟩ tawo nga nagakahadlok kang Yahweh? Iyang tudloan siya sa dalan nga iyang pilion.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨kini⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨ang⟩ tawo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nagakahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kang Yahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "iyang tudlon siya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "nga iyang pilion"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:04.516500799Z",
+  "model": "glm-5.3"
+}

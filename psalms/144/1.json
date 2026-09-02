@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 144,
+  "translation": "Ni kang David. Luwad ang Yahweh, akong bato, ⟨siya⟩ nga nagtudlo sa akong mga kamot sa pakiggubat, sa akong mga tudlo sa panagsangka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni kang David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Luwad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "akong bato"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "nagtudlo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "akong mga kamot"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "sa pakiggubat"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "akong mga tudlo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "sa panagsangka"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:32.991863058Z",
+  "model": "glm-5.3"
+}

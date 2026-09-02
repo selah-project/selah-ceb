@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 127,
+  "translation": "Tan-awa, ang mga anak mao ang panulod gikan kang Yahweh; ang bunga sa tagoangkan mao ang ganti.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tan-awa"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "panulod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ganti"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bunga"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "tagoangkan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:49.805372531Z",
+  "model": "glm-5.3"
+}

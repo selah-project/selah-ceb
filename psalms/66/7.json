@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Naghari siya sa iyang gahum sa kahangtud; ang iyang mga mata sa mga nasod nagbantay; ang mga nagrebelde — ayaw pagpatindog sa ilang kaugalingon. Selah.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Naghari siya"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "sa iyang gahum"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "sa kahangtud"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ang iyang mga mata"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "sa mga nasod"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "ang mga nagrebelde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "pagpatindog"
+    },
+    {
+      "surface": "למו",
+      "gloss": "sa ilang kaugalingon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:44.828711710Z",
+  "model": "glm-5.3"
+}

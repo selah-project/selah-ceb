@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug naggiya ang hari kaniya: Ngano nga magsulti ka pa sa imong mga butang? Naa ako y giingon: ikaw ug Tsiva magbahin ⟨את⟩ sa uma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug naggiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano nga"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "magsulti ka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sa imong mga butang"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "naa ako y giingon"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "ug Tsiva"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "magbahin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa uma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa uma"
+    }
+  ],
+  "timestamp": "2026-09-01T20:34:03.373868539Z",
+  "model": "glm-5.3"
+}

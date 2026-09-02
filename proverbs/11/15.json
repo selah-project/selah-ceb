@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Dautan ang molagot kon nag-arab (nagpasabtong) alang sa langyaw; apan ang nagadumili sa pagtapok sa mga kamot mosalig.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "ang molagot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nag-arab (nagpasabtong)"
+    },
+    {
+      "surface": "זר",
+      "gloss": "alang sa langyaw"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "apan ang nagadumili"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "sa pagtapok sa mga kamot"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "mosalig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:24.522956475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang nagahigugma ⟨sa⟩ disiplina nagahigugma sa kahibalo, apan ang nagadumili sa pagtulon-an buanga.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "disiplina"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nagahigugma"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "nagadumili"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "pagtulon-an"
+    },
+    {
+      "surface": "בער",
+      "gloss": "buanga"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:18.450229055Z",
+  "model": "glm-5.3"
+}

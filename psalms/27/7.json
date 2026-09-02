@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Paminaw, Yahweh, sa akong tingog, magatawag ako; ug kaluy-i ako ug tub-ai ako.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Paminaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "akong tingog"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "magatawag ako"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ug kaluy-i ako"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ug tub-ai ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:50.113319425Z",
+  "model": "glm-5.3"
+}

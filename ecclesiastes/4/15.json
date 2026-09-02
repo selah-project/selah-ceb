@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Nakita ko ⟨את⟩ ang tanan nga mga buhi nga naglakaw ilalom sa adlaw, uban sa bata nga ikaduha nga motindog sa iyang puli.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Nakita ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga buhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "nga mga buhi"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "nga naglakaw"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "השני",
+      "gloss": "nga ikaduha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "motindog"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "sa iyang puli"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:53.498618463Z",
+  "model": "glm-5.3"
+}

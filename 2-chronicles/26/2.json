@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Siya ang nagtindog pag-usab sa Eylot ug gibalik niya kini ⟨את⟩ ngadto sa Yehudah human natulog ang hari kauban ang iyang mga kaghanap.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nagtindog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Eylot"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eylot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "gibalik niya kini"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ngadto sa Yehudah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "natulog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "iyang mga kaghanap"
+    }
+  ],
+  "timestamp": "2026-09-01T23:27:19.553103410Z",
+  "model": "glm-5.3"
+}

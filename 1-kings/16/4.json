@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang mamatay kang Baasha sa dakbayan, kaonon sa mga iro; ug ang mamatay kaniya sa uma, kaonon sa mga langgam sa langit.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Ang mamatay"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "kang Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "sa mga iro"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ug ang mamatay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa uma"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "kaonon"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "sa mga langgam"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa langit"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:58.302158341Z",
+  "model": "glm-5.3"
+}

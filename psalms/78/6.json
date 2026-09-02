@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Aron mahibalo ang ulahing henerasyon, ang mga anak nga matawo, nga mobangon ug isulti ⟨kini⟩ sa ilang mga anak.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ulahi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "matawo"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ug isulti"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "sa ilang mga anak"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:08.512544293Z",
+  "model": "glm-5.3"
+}

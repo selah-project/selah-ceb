@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Gipakapoy niya ang akong unod ug ang akong panit; gipunga niya ang akong mga bukog.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "gipakapoy"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ang akong unod"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ug ang akong panit"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gipunga"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ang akong mga bukog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:48:57.786603599Z",
+  "model": "glm-5.3"
+}

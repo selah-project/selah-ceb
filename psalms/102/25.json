@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 102,
+  "translation": "Ning-ingon ako: El ako, ayaw ako'a iban-on sa tungatunga sa akong mga adlaw; sa henerasyon ngadto sa mga henerasyon ⟨mga⟩ imong mga tuig.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ning-ingon ako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "iban-on ako"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sa tungatunga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "sa akong mga adlaw"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "sa henerasyon"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "ngadto sa mga henerasyon"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "imong mga tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:27.270201728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug migula siya ug nakiggubat batok sa mga Peleshti, ug gipangguba ⟨את⟩ ang bongbong sa Gat, ug ⟨את⟩ ang bongbong sa Yavneh, ug ⟨את⟩ ang bongbong sa Ashdod; ug nagtindog siya ug mga dakbayan sa Ashdod ug sa mga Peleshti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "migula siya"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "nakiggubat"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "batok sa mga Peleshti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "gipangguba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bongbong sa Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ang bongbong"
+    },
+    {
+      "surface": "גת",
+      "gloss": "sa Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang bongbong sa Yavneh"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ang bongbong"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "sa Yavneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang bongbong sa Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ang bongbong"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "sa Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "nagtindog siya"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ug mga dakbayan"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "sa Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "ug sa mga Peleshti"
+    }
+  ],
+  "timestamp": "2026-09-01T23:27:01.614133501Z",
+  "model": "glm-5.3"
+}

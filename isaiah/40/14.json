@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "⟨את⟩ kinsa ang gikonsulta niya, ug kinsa ang nagpasabut kaniya ug nagtudlo kaniya sa dalan sa hustisya, ug nagtudlo kaniya og kahibalo, ug gipahibalo niya kaniya ang dalan sa kaalam?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinsa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "gikonsulta"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "nagpasabut kaniya"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "nagtudlo kaniya"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "sa dalan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hustisya"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "nagtudlo kaniya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ug ang dalan"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "gipahibalo kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:42.415990261Z",
+  "model": "glm-5.3"
+}

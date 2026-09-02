@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Nagbutang si Yahweh ug gitudloan nga takna, nga nag-ingon: Ugma buhaton ni Yahweh ⟨ang⟩ kini nga pulong sa yuta.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nagbutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "gitudloan nga takna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ugma"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "buhaton"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ang⟩ pulong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini nga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:03.257314713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug mokaon kamo sa unod sa inyong mga anak nga lalaki, ug ang unod sa inyong mga anak nga babaye pagakaonon ninyo.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "ug mokaon kamo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "sa inyong mga anak nga lalaki"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ug ang unod"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "sa inyong mga anak nga babaye"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "pagakaonon ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:28.676162490Z",
+  "model": "glm-5.3"
+}

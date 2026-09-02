@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 116,
+  "translation": "Balik, akong kalag, sa imong pahulay, kay si Yahweh nag-igo sa imong bahin.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "balik"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "sa imong pahulay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nag-igo sa imong bahin"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:14.228730218Z",
+  "model": "glm-5.3"
+}

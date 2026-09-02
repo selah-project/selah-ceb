@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Mizmor ni David. Yahweh, pamat-i ang akong pag-ampo, ipangingabla ang imong igong ngadto sa akong pag-ihapit; sa imong emuna tubga ako, sa imong pagkamatarong.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pamat-i"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ang akong pag-ampo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipangingabla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ang akong pag-ihapit"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "sa imong emuna"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "tubga ako"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sa imong pagkamatarong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:26.259171751Z",
+  "model": "glm-5.3"
+}

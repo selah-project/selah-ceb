@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug ang yuta wala makadawag ⟨את⟩ kanila sa pagpuyo nga nagkahiusa, kay daghan ang ilang kabtangan, ug wala sila makapuyo nga nagkahiusa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "makadawag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "sa pagpuyo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga nagkahiusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨mangadto⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ang ilang kabtangan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makapuyo"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "⟨sa pagpuyo⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nagkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:50.482075475Z",
+  "model": "glm-5.3"
+}

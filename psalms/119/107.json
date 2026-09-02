@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Gipakyas ako ⟨hangtod⟩ sa kinatus-ang ⟨grado⟩; Yahweh, pagpabuhi kanako sumala sa imong pulong.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "gipakyas ako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨hangtod⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa kinatus-ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "pagpabuhi kanako"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sumala sa imong pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:37.944026059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 8:9",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Kay sila mitungas sa Ashur; sama sa ilahas nga buriki nga nag-inusara mao si Efrayim — nagbayad sila ug mga gugmaon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mitungas"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ilahas nga buriki"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "nag-inusara"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "nagbayad sila"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "mga gugmaon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:38.427185487Z",
+  "model": "glm-5.3"
+}

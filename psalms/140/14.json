@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Oo, ang mga matarong magasugod pagdayeg ⟨sa⟩ imong ngalan; ang mga tin-od magapuyo ⟨את⟩ atbang sa imong nawong.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Oo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ang mga matarong"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "magasugod pagdayeg"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sa imong ngalan"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "magapuyo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ang mga tin-od"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atbang sa imong nawong"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa imong nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:46.643384599Z",
+  "model": "glm-5.3"
+}

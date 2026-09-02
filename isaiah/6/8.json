@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug nadungog ko ⟨את⟩ ang tingog ni Adonay nga nagaingon: ⟨את⟩ kinsa ang ipadala nako, ug kinsa ang moadto alang kanamo? Ug nakaingon ako: Ania kako, ipadala mo ako.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ug nadungog ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tingog"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinsa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ang ipadala nako"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ug kinsa"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ang moadto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanamo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ug nakaingon ako"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ania kako"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ipadala mo ako"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:33.504025950Z",
+  "model": "glm-5.3"
+}

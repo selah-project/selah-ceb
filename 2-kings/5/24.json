@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug miabot siya sa ⟨ang⟩ Ofel, ug gikuha gikan sa ilang kamot, ug gitago sulod sa ⟨ang⟩ balay, ug gipagula ⟨niya⟩ ang ⟨את⟩ mga tawo, ug milarga sila.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "miabot siya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "gikan sa ilang kamot"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "gitago"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sulod sa balay"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gipagula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tawo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mga tawo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "milarga sila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:32.526184593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang pag-uungal sa leyon ug ang tingog sa mailhum nga leyon, ug ang mga ngipon sa mga batan-ong leyon gintangtang.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ang pag-uungal"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sa leyon"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ug ang tingog"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "sa mailhum nga leyon"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ug ang mga ngipon"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "sa mga batan-ong leyon"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "gintangtang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:35:40.399739341Z",
+  "model": "glm-5.3"
+}

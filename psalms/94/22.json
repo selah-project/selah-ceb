@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Apan si Yahweh nahimong ⟨⟨akong⟩⟩ kasilag-anan alang kanako, ug ang akong Elohim ingon nga bato sa akong kapananawagan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "apan nahimo si"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "kasilag-anan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ug ang akong Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ingon nga bato"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "sa akong kapananawagan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:43.547971016Z",
+  "model": "glm-5.3"
+}

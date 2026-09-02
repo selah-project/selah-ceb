@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Sa nagbuhat sa mga dagkong kahayag, kay sa kahangtin ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "sa nagbuhat"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "mga kahayag"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dagkong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa kahangtin"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:48.444630697Z",
+  "model": "glm-5.3"
+}

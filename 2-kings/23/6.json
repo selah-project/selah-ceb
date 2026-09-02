@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ug gipagula niya ⟨את⟩ ang Asherah gikan sa balay ni Yahweh, gikan sa gawas sa Yerushalayim ngadto sa sapa sa Kidron, ug gisunog niya ⟨את⟩ kini didto sa sapa sa Kidron, ug gilinga niya kini ngadto sa abug, ug gisalid niya ⟨את⟩ ang abug niini ibabaw sa lubnganan sa mga anak sa katawhan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gipagula niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Asherah"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ang Asherah"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "gikan sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gikan sa gawas"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ug gisunog niya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "sa sapa sa Kidron"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "sa sapa"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "ug gilinga niya kini"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ngadto sa abug"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ug gisalid niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang abug niini"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ang abug niini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lubnganan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:25.429235349Z",
+  "model": "glm-5.3"
+}

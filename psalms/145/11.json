@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ang himaya sa imong gingharian ilang hisgutan, ug ang imong kusog ilong sultihan.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Ang himaya"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "sa imong gingharian"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sultihan"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ug ang imong kusog"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sultihan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:07.703808129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 50:20",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Sa mga adlaw nga kana ug sa panahona, matudlo ni Yahweh: pangitaon ⟨את⟩ ang kasalanan sa Israel apan wala na, ug ⟨את⟩ ang sala sa Yehudah apan dili na makaplagan; kay magapatawad ako sa mga biyai nako.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Sa mga adlaw"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "nga kana"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "ug sa panahon"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "kana"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matudlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "pangitaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasalanan sa Israel"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kasalanan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "apan wala na"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang sala sa Yehudah"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan dili"
+    },
+    {
+      "surface": "תמצאינה",
+      "gloss": "makaplagan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אסלח",
+      "gloss": "magapatawad"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "sa mga"
+    },
+    {
+      "surface": "אשאיר",
+      "gloss": "biyai nako"
+    }
+  ],
+  "timestamp": "2026-09-01T21:31:09.138405133Z",
+  "model": "glm-5.3"
+}

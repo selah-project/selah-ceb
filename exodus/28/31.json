@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug buhaton nimo ⟨את⟩ ang bisti sa eifod, tibuok nga tekhelet ⟨ang asul nga lana⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ug buhaton nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bisti"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ang bisti"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "sa eifod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:49.438008005Z",
+  "model": "glm-5.3"
+}

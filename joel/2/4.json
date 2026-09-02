@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ingon sa dagway sa mga kabawo ⟨ang⟩ iyang dagway, ug ingon sa mga magkabawo mao kini molihok nga dali.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "Ingon sa dagway"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "sa mga kabawo"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "iang dagway"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "ug ingon sa mga magkabawo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mao kini"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "molihok nga dali"
+    }
+  ],
+  "timestamp": "2026-09-01T21:53:05.334787017Z",
+  "model": "glm-5.3"
+}

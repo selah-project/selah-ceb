@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Paminawa ang pulong ni Yahweh, mga anak ni Yisrael, kay adunay pagtilawig alang kang Yahweh batok sa mga pumoluyo sa ⟨yuta⟩, kay walay emet ug walay hesed ug walay kahibalo sa Elohim sa ⟨yuta⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Paminawa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pagtilawig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "alang kang Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨yuta⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "emet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa ⟨yuta⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:44:41.957596050Z",
+  "model": "glm-5.3"
+}

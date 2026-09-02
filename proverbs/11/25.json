@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ang kalag sa panalangin matakdon ⟨ug tambok⟩, ug ang nagdula ⟨ug tubig⟩ — siya usab mairigan.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "kalag"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "matakdon"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ug ang nagdula"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "mairigan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:39.844964067Z",
+  "model": "glm-5.3"
+}

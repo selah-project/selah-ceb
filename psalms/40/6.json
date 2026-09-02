@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Daghan kaayo ang imong gibuhat, ⟨ikaw⟩ Yahweh akong Elohim; ang imong mga katingalahang buhat ug ang imong mga huna-huna ngari kanamo — walay ikatanding Kanimo; akong ipahibalo ug hisgutan kini — mga labaw pa sa maihap.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Daghan kaayo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ang imong gibuhat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ikaw⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "ang imong mga katingalahang buhat"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "ug ang imong mga huna-huna"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ngari kanamo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "walay"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "ikatanding"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "akong ipahibalo"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ug hisgutan"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "mga labaw pa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sa maihap"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:32.173693160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug mokuha ang Mesiyas nga koheno sa dugo sa baka, ug magdala ⟨את⟩ niini ngadto sa tolda sa pagtagbo,",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ug mokuha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "koheno"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "Mesiyas"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "sa dugo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sa baka"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ug magdala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "niini (ang dugo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "pagtagbo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:39:20.572552420Z",
+  "model": "glm-5.3"
+}

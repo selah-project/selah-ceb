@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Apan siya miingon: Dili kini tingog sa pag-awit sa kadaugan, ni tingog sa pag-awit sa kapildehan; tingog sa pag-awit ⟨kini⟩ ang akong nadungog.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Dili"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "sa pag-awit"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "sa kadaugan"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "ni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tingog"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "sa pag-awit"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "sa kapildehan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Tingog"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "sa pag-awit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ang akong"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nadungog"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:43.290427613Z",
+  "model": "glm-5.3"
+}

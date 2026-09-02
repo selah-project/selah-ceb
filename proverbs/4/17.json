@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kay ang tinapay sa pagkadauton ilang gikaon, ug ang bino sa kapintas ilang giinom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "gilamigon \/ gikaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "pagkadauton"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ug bino"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "kapintas"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "giinom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:27.383240113Z",
+  "model": "glm-5.3"
+}

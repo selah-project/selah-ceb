@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug magaalagad sila ⟨את⟩ kang Yahweh, sa ilang Elohim, ug ⟨את⟩ kang David nga ilang hari, nga akong ibangon alang kanila.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Ug magaalagad sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa ilang Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ilog kong hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "akong ibangon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "alang kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:23:58.963826873Z",
+  "model": "glm-5.3"
+}

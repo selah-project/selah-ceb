@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ngano nga gitago nimo ang imong mga nawong, nakalimot ka sa among pag-antos ug sa among paglutos?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Ngano nga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong mga nawong"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "gitago nimo"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nakalimot ka"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "sa among pag-antos"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "ug sa among paglutos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:40.498874055Z",
+  "model": "glm-5.3"
+}

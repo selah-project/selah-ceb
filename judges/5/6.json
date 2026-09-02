@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 5:6",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Sa mga adlaw ni Shamgar nga anak ni Anat, sa mga adlaw ni Yael, naghunong ang mga dalan, ug ang mga molakaw sa mga agianan naglakaw sa mga balit-ong ⟨mga⟩ dalan.",
+  "tokens": [
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "שמגר",
+      "gloss": "Shamgar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "Anat"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Yael"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "naghunong"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "והלכי",
+      "gloss": "ug ang mga molakaw"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "mga agianan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "mga dalan"
+    },
+    {
+      "surface": "עקלקלות",
+      "gloss": "mga balit-on"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:13.946020718Z",
+  "model": "glm-5.3"
+}

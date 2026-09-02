@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gingtawag ni Elohim ang mamala nga yuta, ug ang tinig-om sa mga tubig gingtawag niya nga mga dagat; ug nakita ni Elohim nga ⟨kini⟩ maayo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "gingtawag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ang mamala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ug ang tinig-om"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sa mga tubig"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gingtawag niya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:46:57.058299561Z",
+  "model": "glm-5.3"
+}

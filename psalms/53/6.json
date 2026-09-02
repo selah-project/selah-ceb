@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Didto sila nagkurog sa kahadlok — kahadlok nga wala ⟨unyag⟩ kahadlok; kay si Elohim nagwagtang sa mga bukog sa ⟨nagkampinyo batok kanimo⟩. Gipakaulaw mo sila, kay si Elohim nagbiaybiay kanila.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Didto"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "nagkurog sa kahadlok"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨unyag⟩"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "nagwagtang"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "sa mga bukog"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "sa nagkampinyo batok kanimo"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "Gipakaulaw mo sila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "nagbiaybiay kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:32.613746679Z",
+  "model": "glm-5.3"
+}

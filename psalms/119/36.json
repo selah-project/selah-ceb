@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Yua ang akong kasingkasing ngadto sa imong mga edut, ug ⟨ayaw⟩ ⟨kini⟩ ngadto sa batso.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Yua"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "imong mga edut"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ⟨ayaw⟩ ngadto sa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "batso"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:27.335876676Z",
+  "model": "glm-5.3"
+}

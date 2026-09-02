@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug mangumoy ang mga managatay, ug mangamatay ang tanan nga nagsalibang sa kanal ug naggakos, ug ang nagtapak og pukot sa nawong sa tubig maluya.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "nangumoy"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "mga managatay"
+    },
+    {
+      "surface": "ואבלu",
+      "gloss": "nangamatay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "nagsalibang"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "kanal"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ug naggakos"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "nagtapak"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "pukot"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "maluya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:00.312026772Z",
+  "model": "glm-5.3"
+}

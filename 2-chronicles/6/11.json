@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gibutang nako didto ⟨את⟩ ang arko, diin didto ang tipan ni Yahweh, nga iyang gihimo uban sa mga anak ni Israel.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "Ug gibutang nako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang arko"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ang arko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ang tipan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Israel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:20:18.512131966Z",
+  "model": "glm-5.3"
+}

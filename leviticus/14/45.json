@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug paggubaon ⟨את⟩ ang balay, ⟨את⟩ ang mga bato niini, ug ⟨את⟩ ang mga kahoy niini, ug ⟨את⟩ tanan nga abog sa balay, ug dad-on paingon sa gawas sa dakbayan, ngadto sa hugaw nga dapit.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "Ug paggubaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bato niini"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "ang mga bato niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga kahoy niini"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "ang mga kahoy niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nga abog sa balay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "nga abog"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ug dad-on paingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "gawas"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "hugaw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:52.831768242Z",
+  "model": "glm-5.3"
+}

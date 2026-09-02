@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug gipadala ni Ehud ⟨את⟩ ang iyang walang kamot, ug gikuha niya ⟨את⟩ ang espada gikan sa ibabaw sa iyang tuong hita, ug giunod niya kini sa iyang tiyan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang walang kamot"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "wala"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gikuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang espada"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ang espada"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa ibabaw"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "hita"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "tuo"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "giunod"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "tiyan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:06:15.234557255Z",
+  "model": "glm-5.3"
+}

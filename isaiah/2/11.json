@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 2:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Pagakauboson ang mata nga hambuganon sa tawo, ug pagayukyon ang kataas sa mga tawo; ug si Yahweh ra ang ipataas ⟨sa adlaw nga⟩ ⟨niana⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mata"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "nga hambuganon"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "pagakauboson"
+    },
+    {
+      "surface": "ושח",
+      "gloss": "ug pagayukyon"
+    },
+    {
+      "surface": "רום",
+      "gloss": "ang kataas"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ug ipataas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨sa adlaw⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨niana⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T20:55:36.427268396Z",
+  "model": "glm-5.3"
+}

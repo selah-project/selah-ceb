@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Apan ang tanan sa mga dakbayan nga nagbarog sa ilang mga bungtod — wala kini siloon ni Yisrael; gawas sa ⟨את⟩ Khatsor lamang, kini gisilong ni Yehoshua.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "apan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan sa"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "nga nagbarog"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "ila(mg)mga bungtod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "siloon kini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "gawas sa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Khatsor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "lamang"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "gisilong"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-01T23:35:11.989408964Z",
+  "model": "glm-5.3"
+}

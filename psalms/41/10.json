@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Bisan ang tawo sa akong pakigdait, kaniya nga akong gisalig-an, nga nangaon sa akong tinapay, nagdako ang tikod ⟨sa iya⟩ batok kanako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "sa akong pakigdait"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaniya nga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "akong gisalig-an"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nga nangaon"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "sa akong tinapay"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "batok kanako"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ang tikod"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:26.399273983Z",
+  "model": "glm-5.3"
+}

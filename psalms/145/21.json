@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 145,
+  "translation": "Ang pagdayeg kang Yahweh hisgutan sa akong baba, ug magpanalangin ang tanan nga unod sa iyang balaan nga Ngalan, hangtod sa kahangturan ug hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "ang pagdayeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hisgutan sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "akong baba"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug magpanalangin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unod"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ngalan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "iyang balaan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:40.096026168Z",
+  "model": "glm-5.3"
+}

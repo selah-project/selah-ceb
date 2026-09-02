@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 112,
+  "translation": "Maayo ⟨ang⟩ tawo nga nagakalooy ug nagapahulam; iyang gipadayon ang iyang mga butang uban sa paghukom.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "nagakalooy"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "ug nagapahulam"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "giPadayon niya"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ang iyang mga butang"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "uban sa paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:24.098338583Z",
+  "model": "glm-5.3"
+}

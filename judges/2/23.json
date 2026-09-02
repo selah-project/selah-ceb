@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug gipabilin ni Yahweh ⟨את⟩ ⟨mga⟩ kanasoran nga kini, aron dili paga-ira sila dayon, ug wala siya maghatag kanila ngadto sa kamot ni Yehoshua.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "gipabilin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanasoran"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kanasoran"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "paga-ira sila"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "dayon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "maghatag kanila"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngadto sa kamot"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ni Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:19.539752771Z",
+  "model": "glm-5.3"
+}

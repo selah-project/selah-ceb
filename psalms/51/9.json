@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Paghilotion mo ako ug ezob ug mahimong hinlo ako; panghunawon mo ako ug mamuti ako ⟨nga⟩ labaw pa sa niebe.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "paghilotion mo ako ug sala (dili ang tumong: paghimo nga walay sala)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "ug ezob"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "ug mahimong hinlo ako"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "panghunawon mo ako"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "ug labaw pa sa niebe"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "mamuti ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:57.786170431Z",
+  "model": "glm-5.3"
+}

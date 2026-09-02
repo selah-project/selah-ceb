@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "⟨את⟩ Tanan nakita ko sa mga adlaw sa akong kahaw-ang: adunay matarong nga mangamatay diha sa iyang pagkamatarong, ug adunay daotan nga molawig sa iyang kadaotan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tanan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Tanan"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "nakita ko"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "sa mga adlaw"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "sa akong kahaw-ang"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nga mangamatay"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "diha sa iyang pagkamatarong"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ug adunay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "daotan"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "nga molawig"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "sa iyang kadaotan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:02.000139761Z",
+  "model": "glm-5.3"
+}

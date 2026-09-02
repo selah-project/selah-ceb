@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "ug ⟨את⟩ ang napulo ka mga baseng pundasyon, ug ⟨את⟩ ang napulo ka mga langbuan nga gibutang sa mga baseng pundasyon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga baseng pundasyon"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ang mga baseng pundasyon"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "napulo ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga langbuan"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "ang mga langbuan"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "napulo ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mga baseng pundasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:21.587056078Z",
+  "model": "glm-5.3"
+}

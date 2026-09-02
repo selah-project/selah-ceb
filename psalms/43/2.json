@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 43,
+  "translation": "Kay ikaw mao ang Elohim sa akong kusog, ngano ba nga gipakyaw mo ako? Ngano ba nga nagsubang ako nga molangit kada adlaw sa pagpamugos sa manlalaban?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "sa akong kusog"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano ba nga"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "gipakyaw mo ako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngano ba nga"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "nagsubang"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "molangit kada adlaw"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "sa pagpamugos"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sa manlalaban"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:18.103177175Z",
+  "model": "glm-5.3"
+}

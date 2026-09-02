@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gipahimutang nako ⟨את⟩ ang akong nawong ngadto kang Adonay, sa Elohim, sa pagpangita pinaagi sa pag-ampo ug mga pagpangadye, uban sa pagpuasa, sako, ug abo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ug gipahimutang nako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong nawong"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ang akong nawong"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sa pagpangita"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "pag-ampo"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "ug mga pagpangadye"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "sa pagpuasa"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "sako"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "ug abo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:57:51.284570255Z",
+  "model": "glm-5.3"
+}

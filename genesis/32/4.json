@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ug gipadala ni Yaakov ang mga mensahero atubang niya ngadto kang Esav, nga iyang igsoon, ngadto sa yuta sa Seir, kabaryohan sa Edom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ni Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ang mga mensahero"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "atubang niya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "nga iyang igsoon"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ngadto sa yuta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sa Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kabaryohan ⟨patag nga yuta⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "sa Edom"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:28.214357818Z",
+  "model": "glm-5.3"
+}

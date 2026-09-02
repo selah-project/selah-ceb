@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "ug ⟨את⟩ ang daah, ug ⟨את⟩ ang aya sumala sa iyang matang;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ang daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ang aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sumala sa iyang matang"
+    }
+  ],
+  "timestamp": "2026-09-01T19:23:57.779435223Z",
+  "model": "glm-5.3"
+}

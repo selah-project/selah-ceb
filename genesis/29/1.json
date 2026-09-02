@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Gipatindog ni Yaakov ⟨את⟩ iyang mga tiil ug moadto siya sa yuta sa mga anak sa sidlakan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ginpatindog"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "iyang mga tiil"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug moadto"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak sa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sidlakan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:03.736188793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ang mga amahan dili patyon tungod sa mga anak, ug ang mga anak dili patyon tungod sa mga amahan; ang matag tawo sa iyang kaugalingong sala pagapatyon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "patyon"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ang mga amahan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ug ang mga anak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "patyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "mga amahan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag tawo"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "sa iyang kaugalingong sala"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "pagapatyon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:53:17.985420181Z",
+  "model": "glm-5.3"
+}

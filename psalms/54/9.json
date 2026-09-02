@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 54,
+  "translation": "Kay gikan sa tanan nga kalisod giluwas niya ako, ug sa akong mga kaaway nakita sa akong mata ⟨⟨ang ilang pagkapahid⟩⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "gikan sa tanan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kalisod"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "giluwas niya ako"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ug sa akong mga kaaway"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa akong mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:47.306634914Z",
+  "model": "glm-5.3"
+}

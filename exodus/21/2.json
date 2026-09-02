@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Kon makapalit ka ug sulugoon nga Ebreyo, unom ka tuig siya mag-alagad, ug sa pito nga ⟨tuig⟩ molargo siya nga gawasnon, nga walay bayad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "makapalit ka"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sulugoon"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "nga Ebreyo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "unom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "mag-alagad"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "ug sa pito nga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "molargo siya"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "nga gawasnon"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "nga walay bayad"
+    }
+  ],
+  "timestamp": "2026-09-01T23:31:54.582075305Z",
+  "model": "glm-5.3"
+}

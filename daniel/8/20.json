@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ang carnero nga imong nakita, nga may mga sungay, ⟨mga⟩ hari sila sa Maday ug sa Paras.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "Ang carnero"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "imong nakita"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "nga may"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "mga sungay"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "⟨mga⟩ hari sila"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sa Maday"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ug sa Paras"
+    }
+  ],
+  "timestamp": "2026-09-01T22:57:47.266850031Z",
+  "model": "glm-5.3"
+}

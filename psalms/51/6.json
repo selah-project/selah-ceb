@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Kanimo, kanimo lamang nakasala ako, ug ang daotan sa imong mga mata ang akong gibuhat, aron magmatwid ikaw sa imong pagtokar, ug mahinlo ikaw sa imong pagpanimaldos.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kanimo lamang"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nakasala ako"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ug ang daotan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "sa imong mga mata"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ang akong gibuhat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "magmatwid ikaw"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "sa imong pagtokar"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "mahinlo ikaw"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "sa imong pagpanimaldos"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.338728790Z",
+  "model": "glm-5.3"
+}

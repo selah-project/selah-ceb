@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Ingon sa kalayo sa sidlakan gikan sa kasadpan, ingon niana gipalayo niya gikan kanato ⟨את⟩ ang atong mga paglapas.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "ingon sa kalayo"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "gikan sa kasadpan"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "gipalayo niya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "gikan kanato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang atong mga paglapas"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ang atong mga paglapas"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:52.225176046Z",
+  "model": "glm-5.3"
+}

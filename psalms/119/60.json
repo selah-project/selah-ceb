@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Nadali ako ug wala maglanguy sa pagbantay sa imong mga sugo.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "nadali ako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "maglanguy"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "sa imong mga sugo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:25.429600948Z",
+  "model": "glm-5.3"
+}

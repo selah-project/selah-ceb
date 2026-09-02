@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug akuang himgon ang mga pumoluyo ⟨sa⟩ niining dakbayan, ⟨את⟩ ang tawo ug ⟨את⟩ ang mananap — sa dakong pestilensya mamatay sila.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "akuang himgon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga pumoluyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "niining"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tawo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mananap"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ang mananap"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "sa pestilensya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "mamatay sila"
+    }
+  ],
+  "timestamp": "2026-09-02T00:43:01.767909111Z",
+  "model": "glm-5.3"
+}

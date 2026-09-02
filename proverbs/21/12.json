@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang Matarong nagaserbi paghukom nga maalam sa balay sa daotan; gigun-ob niya ang mga daotan ⟨ngadto⟩ sa kadaot.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "nagaserbi paghukom nga maalam"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Ang Matarong"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "gigun-ob niya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ang mga daotan"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ngadto sa kadaot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:33.707196584Z",
+  "model": "glm-5.3"
+}

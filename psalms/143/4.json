@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Ug nanglubog sa ibabaw ako ang akong ruah, sulod kanako napakyaw ang akong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "nanglubog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sa ibabaw ako"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ang akong ruah"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "sulod kanako"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "napakyaw"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ang akong kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:26.259728642Z",
+  "model": "glm-5.3"
+}

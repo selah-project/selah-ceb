@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Ug ang mga langit magasugid sa imong mga katingalahan, Yahweh, ug ang imong pagkamatinud-anon diha sa katigulangan sa mga balaan.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "Ug magasugid"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ang mga langit"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "sa imong mga katingalahan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ang imong pagkamatinud-anon"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "diha sa katigulangan"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "sa mga balaan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:49.532071202Z",
+  "model": "glm-5.3"
+}

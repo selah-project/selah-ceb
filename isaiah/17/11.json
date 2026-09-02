@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Sa adlaw sa imong pagtanom ipatubo mo kini, ug sa kaagahun ipabukadkad mo ang imong liso; tambis ⟨ang⟩ ani sa adlaw sa sakit ug sa sakit nga dili na maulian.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "sa imong pagtanom"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "ipatubo mo kini"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ug sa kaagahun"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ang imong liso"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "ipabukadkad mo"
+    },
+    {
+      "surface": "נד",
+      "gloss": "tambis"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "⟨ang⟩ ani"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "sa sakit"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ug sa sakit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "nga dili na maulian"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:51.106007840Z",
+  "model": "glm-5.3"
+}

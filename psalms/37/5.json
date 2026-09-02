@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Irolol ngadto kang Yahweh ang imong dalan, ug pagtuo Kaniya, ug Siya ang mohimo ⟨niana⟩.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Irolol"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ang imong dalan"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "ug pagtuo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Kaniya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug Siya"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ang mohimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:09:03.748766310Z",
+  "model": "glm-5.3"
+}

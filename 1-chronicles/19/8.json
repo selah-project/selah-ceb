@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ug nadungog ni David ⟨kini⟩, ug gipadala niya si ⟨את⟩ Yoav ug ⟨את⟩ ang tibuok panon sa mga manggugubat.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadungog niya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang tibuok panon sa mga manggugubat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "panon"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "sa mga manggugubat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:16:43.345731849Z",
+  "model": "glm-5.3"
+}

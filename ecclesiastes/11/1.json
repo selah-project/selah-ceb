@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Palakipa ang imong tinapay sa ibabaw sa nawong sa mga tubig, kay sa kadaghan sa mga adlaw imong makit-an ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Palakipa"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ang imong tinapay"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong sa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mga tubig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadaghan sa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mga adlaw"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "imong makit-an ⟨kini⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:52:22.053548398Z",
+  "model": "glm-5.3"
+}

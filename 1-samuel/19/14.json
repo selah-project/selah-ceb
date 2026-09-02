@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Gipadala ni Shaul ug mga sugo sa pagkuha ⟨את⟩ kang David, ug siya mitambag: Sakiton siya.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Gipadala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mga sugo"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "sa pagkuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mitambag"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "Sakiton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:17.284443241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug kinsa man nga nakaplagan ⟨את⟩ nga adunay mga bato, naghatad sila niini sa bahandi sa balay ni Yahweh, ubos sa pag-atiman ni Yehiel ang Gereshonnon.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "ug kinsa man nga nakaplagan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mga bato (kaniya)"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "naghatad sila"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "sa bahandi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ubos sa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "kamot"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "ni Yehiel"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ang Gereshonnon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:19:21.216289309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ngadto sa adunahan ⟨aduna⟩ ang mga karnero ug mga baka, kadaghan kaayo.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "Ngadto sa adunahan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨aduna⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mga karnero"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ug mga baka"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kadaghan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:21.138398902Z",
+  "model": "glm-5.3"
+}

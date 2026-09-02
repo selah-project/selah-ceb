@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sa ⟨ang⟩ adlaw nga kana madako ang pagsubay sa Yerushalayim, sama sa pagsubay sa Hadad-Rimon sa walog sa Megiddon.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga kana"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "madako"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "ang pagsubay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "sama sa pagsubay"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "sa Hadad"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Rimon"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "sa Megiddon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:01:33.089084230Z",
+  "model": "glm-5.3"
+}

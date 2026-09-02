@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Sa likod ug sa atubang gihikot mo ako, ug gipahimutang mo ang imong palad ⟨sa⟩ ibabaw kanako.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "sa likod"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ug sa atubang"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "gihikot mo ako"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ug gipahimutang mo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨sa⟩ ibabaw kanako"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ang imong palad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:04.629210515Z",
+  "model": "glm-5.3"
+}

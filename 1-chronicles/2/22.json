@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Segub natawanan ⟨את⟩ ni Yair, ug nahimo sa iya ang kawhaan ug tulo ka mga dakbayan sa yuta sa Gilead.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "ug si Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawanan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Yair"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ni Yair"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahimo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa iya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "kawhaan"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ug tulo ka"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "sa Gilead"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:00.803577069Z",
+  "model": "glm-5.3"
+}

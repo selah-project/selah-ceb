@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 40:22",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Apan ⟨את⟩ ang pangulo sa mga maglala Bang hagdanan siya — sumala sa gihubad ni Yosef ngadto kanila.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ang pangulo"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "sa mga maglala Bang"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "gihagdanan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "gihubad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ni Yosef"
+    }
+  ],
+  "timestamp": "2026-09-01T19:00:11.520421694Z",
+  "model": "glm-5.3"
+}

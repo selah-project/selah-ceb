@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 83,
+  "translation": "Kay nagpanabot sila sa kasingkasing nga magkahiusa; batok kanimo mopanumpa sila ug pakig-alyansa ⟨karon⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "nagpanabot sila"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga magkahiusa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "batok kanimo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakig-alyansa"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "mopanumpa sila ug"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:12.751682659Z",
+  "model": "glm-5.3"
+}

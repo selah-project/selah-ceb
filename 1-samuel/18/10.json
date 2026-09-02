@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 18:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug nahitabo sa sunod adlaw, nga misulod ⌈sa⌉ Shaul ang dautan nga espiritu gikan sa Elohim, ug nagsulti siya isip manalagna sulod sa balay; ug si David nagtutok sa iyang kamot, ingon sa adlaw ngadto sa adlaw, ug ang sibat ⟨was⟩ sa kamot ni Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "sa sunod adlaw"
+    },
+    {
+      "surface": "ותצלח",
+      "gloss": "misulod ⌈sa⌉"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "espiritu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויתנבא",
+      "gloss": "ug nagsulti siya isip manalagna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sulod sa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ug si David"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "nagtutok"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa adlaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngadto sa adlaw"
+    },
+    {
+      "surface": "והחנית",
+      "gloss": "ug ang sibat"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "sa kamot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    }
+  ],
+  "timestamp": "2026-09-01T20:20:59.265747636Z",
+  "model": "glm-5.3"
+}

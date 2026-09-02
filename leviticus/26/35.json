@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Sa tanan nga adlaw sa iyang pagkakamingaw mopahulay kini ⟨את⟩ sa wala kini pagpahulay sa inyong mga adlaw sa pagpahulay sa panahon sa inyong pagpuyo niini.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sa tanan nga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "sa pagkakamingaw"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "mopahulay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa wala kini pagpahulay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "kini pagpahulay"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "sa inyong mga adlaw sa pagpahulay"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "sa panahon sa inyong pagpuyo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:31:12.598314888Z",
+  "model": "glm-5.3"
+}

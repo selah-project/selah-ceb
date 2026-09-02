@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 48,
+  "translation": "Kay tan-awa, ang mga hari nagtagbo ⟨⟨את⟩⟩, naglabaw sila nga magkadungan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tan-awa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ang mga hari"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "nagtagbo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "naglabaw sila"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "nga magkadungan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:09.439520365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Gipagawas ni Moshe ⟨את⟩ ang katawhan sa pagtagbo sa ⟨ang⟩ Elohim, gikan sa kampo; ug nagbarug sila sa tiil sa bukid.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "gipagawas"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "sa pagtagbo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampo"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ug nagbarug sila"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "sa tiil"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "sa bukid"
+    }
+  ],
+  "timestamp": "2026-09-01T19:10:26.371748419Z",
+  "model": "glm-5.3"
+}

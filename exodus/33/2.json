@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug magapadala ako sa imong atubangan ug usa ka mensahero, ug pahawaon ko ⟨את⟩ ang Kenaaninhon, ang Emorinhon, ang Khithinhon, ang Perizinhon, ang Khivinhon, ug ang Yevusinhon.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "magapadala ako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa imong atubangan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mensahero"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "pahawaon ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kenaaninhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kenaaninhon"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ang Emorinhon"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ang Khithinhon"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ang Perizinhon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ang Khivinhon"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ang Yevusinhon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:47.205518813Z",
+  "model": "glm-5.3"
+}

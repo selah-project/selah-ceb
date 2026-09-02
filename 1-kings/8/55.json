@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug mitindog siya ug midayeg-ug-pagmaayong gahum ⟨את⟩ sa tibuok katigayonan sa Israel uban sa tingog nga dakò, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ug mitindog siya"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug midayeg-ug-pagmaayong gahum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa tibuok katigayonan sa Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tibuok"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "katigayonan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "uban sa tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "nga dakò"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:17.394251837Z",
+  "model": "glm-5.3"
+}

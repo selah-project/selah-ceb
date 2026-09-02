@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Busa ako nanumpa sa akong kasuko: sila dili makasulod sa akong kahulayahan!",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ako nanumpa"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "sa akong kasuko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "makasulod sila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "akong kahulayahan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:54.088527886Z",
+  "model": "glm-5.3"
+}

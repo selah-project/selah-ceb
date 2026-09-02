@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug gibalik ni Yahweh ⟨את⟩ ang pagkabihag ni Iyob sa diha nga nag-ampo siya alang sa iyang mga higala; ug gidugangan ni Yahweh ⟨את⟩ ang tanan nga kang Iyob — ngadto sa kaduha.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ug si Yahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "gbalik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pagkabihag ni Iyob"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ang pagkabihag"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ni Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "sa iyang pag-ampo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "iyang mga higala"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ug gidugangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga kang Iyob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "kang Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "ngadto sa kaduha"
+    }
+  ],
+  "timestamp": "2026-09-01T22:46:35.058617140Z",
+  "model": "glm-5.3"
+}

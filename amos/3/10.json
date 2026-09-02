@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug wala sila kabalo sa pagbuhat sa matarong, nag-ingon si Yahweh — sila nga nagatigom ug kapintas ug panpangluis sa ilang mga kuta.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug wala"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "sila kabalo"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "sa matarong"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nag-ingon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "sila nga nagatigom"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kapintas"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ug panpangluis"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "sa ilang mga kuta"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:38.962626058Z",
+  "model": "glm-5.3"
+}

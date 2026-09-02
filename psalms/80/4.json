@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Oh Elohim, pagpahinumdumi kanamo sa pagbalik, ug pasiga ang imong nawong, ug maluwas kami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "pagpahinumdumi kanamo sa pagbalik"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ug pasiga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "ug maluwas kami"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:15.726963428Z",
+  "model": "glm-5.3"
+}

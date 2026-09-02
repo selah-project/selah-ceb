@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug mitaas ang hinuga sa yelo, ug ⟨ania karon⟩ sa nawong sa kamingawan may matin-i nga gasip-os, matin-i ingon sa bahandi nga yelo sa ibabaw sa yuta.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "Ug mitaas"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ang hinuga"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "sa yelo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ⟨ania karon⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nawong"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "דק",
+      "gloss": "matin-i"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "nga gasip-os"
+    },
+    {
+      "surface": "דק",
+      "gloss": "matin-i"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "ingon sa bahandi nga yelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:22.882413096Z",
+  "model": "glm-5.3"
+}

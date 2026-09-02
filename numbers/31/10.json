@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug ⟨את⟩ tanan nilang mga dakbayan diin sila nagsaulog, ug ⟨את⟩ tanan nilang mga kampo, gisunog nila sa kalayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nilang mga dakbayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mga dakbayan nila"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "diin sila nagsaulog"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "tanan nilang mga kampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "mga kampo nila"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "gisunog nila"
+    },
+    {
+      "surface": "באש",
+      "gloss": "sa kalayo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:22.716206715Z",
+  "model": "glm-5.3"
+}

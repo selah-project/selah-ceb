@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 80,
+  "translation": "Gipadton niini ang iyang mga sanga hangtod sa dagat, ug hangtod sa suba ang iyang mga otson.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "gipadton niini"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ang iyang mga sanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "ים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ang iyang mga otson"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:51.015407274Z",
+  "model": "glm-5.3"
+}

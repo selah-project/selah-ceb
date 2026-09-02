@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug mokuha sila ug ubang mga bato, ug idala nila ngadto sa ilalom sa mga bato, ug laing abo ilang kuhaon ug itaptan niini ⟨את⟩ ang balay.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ug mokuha sila"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mga bato"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ubang"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ug idala nila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "sa mga bato"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ug abo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "laing"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuhaon niya"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "ug itaptan niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang balay"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ang balay"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:56.464508706Z",
+  "model": "glm-5.3"
+}

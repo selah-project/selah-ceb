@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ang tanan nga nagakanhiyo nga nabuhi mahimong kaninyo nga pagkaon; ingon sa berdeng tanom gihatag ko kaninyo ⟨את⟩ ang tanan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "nagakanhiyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "חי",
+      "gloss": "nabuhi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "nga pagkaon"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ingon sa berdeng tanom"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "berdeng tanom"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:48:51.332968071Z",
+  "model": "glm-5.3"
+}

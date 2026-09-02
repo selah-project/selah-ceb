@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug midagan ang tubig palibot sa halaran, ug gipuno usab ⟨את⟩ ang kanal ug tubig.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ug midagan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ang tubig"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kanal"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ang kanal"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gipuno"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T20:44:44.851993459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Ug ⟨את⟩ ang mga mata ni Tsidkiyahu gibutaan; ug gigapos siya ug mga tanhaga nga tumbaga ⟨aron⟩ dad-on siya ⟨את⟩ ngadto sa Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga mata ni Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ang mga mata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ni Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "gibutaan"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "ug gigapos siya"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ug mga tanhaga nga tumbaga"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "aron dad-on"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "siya"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ngadto sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:27:06.635001433Z",
+  "model": "glm-5.3"
+}

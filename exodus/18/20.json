@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug pasidan-an nimo ⟨את⟩ sila mahitungod sa ⟨את⟩ ang mga estatuto ug ⟨את⟩ ang mga balaod, ug ipahibalo nimo kanila ⟨את⟩ ang dalan nga ilang lakawon niini ug ⟨את⟩ ang buhat nga ilang buhaton.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Ug pasidan-an nimo"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga estatuto"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ang mga estatuto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga balaod"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ang mga balaod"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ug ipahibalo nimo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dalan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ang dalan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "nga ilang lakawon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang buhat"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ang buhat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ilang buhaton"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:22.154303079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Pagkuha ⟨gikan kang⟩ Heldai sa mga gibihag, ug ⟨gikan kang⟩ Toviyah, ug ⟨gikan kang⟩ Yedayah; ug ikaw magkadto sa adlaw ngaadtowa, ug mosulod ka sa balay ni Yoshiyah nga anak ni Tsefanyah, sila nga ming-anhi gikan sa Bavel.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "Pagkuha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨gikan kang⟩",
+      "marks": "Heldai"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sa mga gibihag"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "gikan kang Heldai"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ ug ⟨gikan kang⟩",
+      "marks": "Toviyah"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviyah"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩ ug ⟨gikan kang⟩",
+      "marks": "Yedayah"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedayah"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ug magkadto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngaadtowa"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ug mosulod"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "ni Yoshiyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ni Tsefanyah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ming-anhi"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "gikan sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:59:57.949724081Z",
+  "model": "glm-5.3"
+}

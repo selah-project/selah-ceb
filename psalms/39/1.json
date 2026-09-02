@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Sa magtutukod sa koral, kang Yedutun, usa ka mizmor ni David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Sa magtutukod sa koral"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "kang Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "usa ka mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:01.757572411Z",
+  "model": "glm-5.3"
+}

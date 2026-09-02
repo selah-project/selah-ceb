@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Balhina gikan kanako ang kaulawan ug ang pagtamay, kay ang imong mga pagsaksi gipanagana ko.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "balhina"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ang kaulawan"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "ug ang pagtamay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ang imong mga pagsaksi"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "gipanagana ko"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:38.769377887Z",
+  "model": "glm-5.3"
+}

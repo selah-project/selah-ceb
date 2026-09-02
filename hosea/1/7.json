@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Apan ⟨את⟩ ang panimalay sa Yehudah kaloon ko, ug luwason ko sila pinaagi kang Yahweh nga ilang Elohim, ug dili nako sila luwason pinaagi sa pana, ni sa espada, ni sa gubat, sa kabayo ug sa mangangabayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "panimalay sa Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "panimalay"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "kaloon ko"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ug luwason ko sila"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "pinaagi kang Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilang Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "luwason nako sila"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "sa pana"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "ug sa espada"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ug sa gubat"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "sa kabayo"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "ug sa mangangabayo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:52.082240689Z",
+  "model": "glm-5.3"
+}

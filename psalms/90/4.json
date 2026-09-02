@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 90,
+  "translation": "Kay ang usa ka libo ka tuig diha sa imong mga mata ⟨⟨ingon⟩⟩ sa adlaw nga gahamon, kung maglabay ⟨kini⟩, ug ingon sa usa ka bantay sa gabii.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "usa ka libo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "diha sa imong mga mata"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa adlaw"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "gahamon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "maglabay"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "ug ingon sa usa ka bantay"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "sa gabii"
+    }
+  ],
+  "timestamp": "2026-09-02T00:59:54.657617460Z",
+  "model": "glm-5.3"
+}

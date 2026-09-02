@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Ug ⟨ang⟩ ngalan sa ikaduha ⟨את⟩ gihinganlan niya ug Efrayim, kay gipahunahunan ako sa pagkabunga ni Elohim sa yuta sa akong kabalakyasan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikaduha"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "gihinganlan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "gipahunahunan ako sa pagkabunga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "sa akong kabalakyasan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:49:41.389686893Z",
+  "model": "glm-5.3"
+}

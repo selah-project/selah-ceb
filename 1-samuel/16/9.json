@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug gipapasa ni Yishai si Shammah, ug miingon ⟨siya⟩: Niining usab, wala gipili ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "gipapasa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "si Yishai"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "si Shammah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "niining"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "gipili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:19:51.369593095Z",
+  "model": "glm-5.3"
+}

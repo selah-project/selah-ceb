@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Usa ka mizmor ni David: si Yahweh ⟨ang⟩ akong magbalantay, dili ako maggiku.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "akong magbalantay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ako maggiku"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:43.031695461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug misulat si Moshe sa ⟨את⟩ ilang mga paggawas sumala sa ilang mga pagpanaw sumala sa baba ni Yahweh, ug kini ang ilang mga pagpanaw sumala sa ilang mga paggawas.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ug misulat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilang mga paggawas"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "sa ilang mga paggawas"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "sumala sa ilang mga pagpanaw"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala"
+    },
+    {
+      "surface": "פי",
+      "gloss": "sa baba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ug kini"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ang ilang mga pagpanaw"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "sumala sa ilang mga paggawas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:27.985446972Z",
+  "model": "glm-5.3"
+}

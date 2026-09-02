@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 82,
+  "translation": "Pagpalagya ninyo ang maluya ug ang kabus; gikan sa kamot sa mga daotan pagluwata ninyo sila.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "pagpalagya ninyo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "maluya"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug kabus"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga daotan"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "pagluwata ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:49.889045627Z",
+  "model": "glm-5.3"
+}

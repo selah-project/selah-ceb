@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay ania karon, ang mga dautan naggapas ⟨sa⟩ ilang pana; ilang gipahimutang ang ilang pana sa higot aron mopana sa kangitngit sa mga matarong sa kasingkasing.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ang mga dautan"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "naggapas"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ilang gipahimutang"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ang ilang pana"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "higot"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "aron mopana"
+    },
+    {
+      "surface": "במו",
+      "gloss": "sa sulod sa"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "kangitngit"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:31.346189091Z",
+  "model": "glm-5.3"
+}

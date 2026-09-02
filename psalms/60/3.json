@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 60,
+  "translation": "Elohim, gisalikway Mo kami, gipukaw Mo kami, nasuko Ka ⟨kami⟩ — magbalik Kanamo!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "gisalikway Mo kami"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "gipukaw Mo kami"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "nasuko Ka"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "magbalik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "Kanamo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:13.567295625Z",
+  "model": "glm-5.3"
+}

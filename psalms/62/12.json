@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Usa ka higayna nagsulti si Elohim, duha ka higayna kini ang nadungog nako: nga ang gahum ⟨aa⟩ kang Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Usa ka higayna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nagsulti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "duha ka higayna"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ang nadungog nako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עז",
+      "gloss": "gahum"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kang Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:33.983074609Z",
+  "model": "glm-5.3"
+}

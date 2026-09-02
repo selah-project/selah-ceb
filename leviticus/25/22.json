@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Ug magtanum kamo ⟨את⟩ sa ika walo nga tuig ug mokaon kamo gikan sa ani nga karaan hangtod sa ika siyam nga tuig; hangtod moabot ang iyang ani, mokaon kamo ⟨sa⟩ karaan.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "Ug magtanum kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ika walo nga tuig"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "ika walo"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ug mokaon kamo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "karaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "tuig"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "ika siyam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "iyang ani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mokaon kamo"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "karaan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:48.240394871Z",
+  "model": "glm-5.3"
+}

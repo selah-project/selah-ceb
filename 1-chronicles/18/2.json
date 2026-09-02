@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug gihampak niya ⟨את⟩ Moav, ug ang mga taga-Moav nahimong mga sulugoon ni Davíd, magdadala ug mincha.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ug gihampak niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moav"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ug nahimong"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang mga taga-Moav"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ni Davíd"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "magdadala"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ug mincha"
+    }
+  ],
+  "timestamp": "2026-09-01T23:15:52.933268600Z",
+  "model": "glm-5.3"
+}

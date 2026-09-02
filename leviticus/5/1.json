@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug kon ang usa ka nefesh magpakasala, ug madungog niya ang tingog sa panumpa, ug siya nga saksi — kon nakakita o nakahibalo — ug kon dili niya isulti kini, magdala siya sa iyang sala.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ug ang usa ka nefesh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kon"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "magpakasala"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "ug madungog niya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "sa panumpa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nga saksi"
+    },
+    {
+      "surface": "או",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nakakita"
+    },
+    {
+      "surface": "או",
+      "gloss": "o"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakahibalo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "niya isulti kini"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "magdala siya"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sa iyang sala"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:56.401936662Z",
+  "model": "glm-5.3"
+}

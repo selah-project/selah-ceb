@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 141,
+  "translation": "Pagkahulog sa ilang mga hukom didto sa kilid sa bato, madungog nila ang akong mga pulong, kay nahiuyon kini.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "pagkahulog"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "didto sa kilid"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "sa bato"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "sa ilang mga hukom"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "madungog nila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ang akong mga pulong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "nahiuyon kini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:36.184239966Z",
+  "model": "glm-5.3"
+}

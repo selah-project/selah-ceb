@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 27,
+  "translation": "Ug mag-alagad kaniya ang tanan nga mga nasud, ug ⟨את⟩ sa iyang anak, ug ⟨את⟩ sa anak sa iyang anak, hangtod moabot ang panahon sa iyang yuta — siya usab; ug mag-alagad ⟨kaniya⟩ ang daghang mga nasud ug mga hari nga dagko.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "ug mag-alagad"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kaniya",
+      "marks": "tanan nga mga nasud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "iyang anak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "anak sa iyang anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sa iyang anak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "בא",
+      "gloss": "moabot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sa iyang yuta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "usab"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ug mag-alagad"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasud"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghan"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ug mga hari"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "nga dagko"
+    }
+  ],
+  "timestamp": "2026-09-01T21:23:30.461665908Z",
+  "model": "glm-5.3"
+}

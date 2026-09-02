@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Gikuha ni Moshe ⟨את⟩ ang mga bukog ni Yosef kauban niya, kay higpit nga napapanumpa niya ⟨את⟩ ang mga anak ni Yisrael, nga nagaingon: Sa pagpanumdum magapandum si Elohim sa inyohang mga kalag ⟨את⟩, ug dad-a ninyo pag-angat ⟨את⟩ ang akong mga bukog gikan dinhi, ⟨את⟩ kauban sa inyo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gikuha ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bukog ni Yosef"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mga bukog"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kauban niya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "higpit nga napapanumpa"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "napapanumpa niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sa pagpanumdum"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "magapandum"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sa inyohang mga kalag ⟨את⟩",
+      "marks": "sa inyohang mga kalag"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "ug dad-a ninyo pag-angat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga bukog"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "akong mga bukog"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "gikan dinhi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kauban sa inyo"
+    }
+  ],
+  "timestamp": "2026-09-02T00:38:40.647036496Z",
+  "model": "glm-5.3"
+}

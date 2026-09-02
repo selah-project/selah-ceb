@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug ang pagpuyo sa mga anak ni Yisrael, nga nagpuyo sila sa Mitsrayim, ⟨mga⟩ katloan ka tuig ug upat ka gatos ka tuig.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "Ug ang pagpuyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nagpuyo sila"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "katloan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ug upat"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ka gatos"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ka tuig"
+    }
+  ],
+  "timestamp": "2026-09-01T23:32:00.582983946Z",
+  "model": "glm-5.3"
+}

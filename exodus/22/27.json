@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Si Elohim ayaw nimo lalain, ug ang lider sa imong katawhan ayaw nimo tungloan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "lalain"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ug ang lider"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "sa imong katawhan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "tungloan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:59.821813174Z",
+  "model": "glm-5.3"
+}

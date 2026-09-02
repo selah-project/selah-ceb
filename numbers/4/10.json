@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ibutang nila ⟨את⟩ kini ug ⟨את⟩ tanan nga mga sudlanan niini ngadto sa panaklob nga panit sa takhash, ug ibutang nila ⟨את⟩ kini sa haligi.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Ug ibutang nila"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga sudlanan niini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "mga sudlanan niini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "panaklob"
+    },
+    {
+      "surface": "עור",
+      "gloss": "panit"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ug ibutang nila"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ang haligi"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:26.659091912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug mabdos siya ug natawo ug usa ka anak nga lalake, ug miingon siya: Gipanggawas ni Elohim ⟨את⟩ ang akong kaulawan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ug mabdos siya"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ug natawo ug anak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "nga lalake"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug miingon siya"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "gipanggawas"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong kaulawan"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ang akong kaulawan"
+    }
+  ],
+  "timestamp": "2026-09-01T18:56:29.401761263Z",
+  "model": "glm-5.3"
+}

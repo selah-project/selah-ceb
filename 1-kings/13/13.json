@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug siya miingon sa iyang mga anak nga lalaki: Sagubihi alang kanako ang asno. Ug gisagubihan nila alang kaniya ang asno, ug siya misakay niini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug siya miingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "iyang mga anak nga lalaki"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "sagubihi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "alang kanako"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨ang⟩ asno"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ug gisagubihan nila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "alang kaniya"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "⟨ang⟩ asno"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "ug siya misakay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:07.137022374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Wala gipahibalo ni Ester ⟨את⟩ ang iyang katawhan ug ⟨את⟩ ang iyang kaliwat, kay si Mordekhay nagmando kaniya nga ayaw pagpahibalo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "gipahibalo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "si Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang katawhan"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "iyang kaliwat"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ang iyang kaliwat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "si Mordekhay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nagmando"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "pagpahibalo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:53:36.626349461Z",
+  "model": "glm-5.3"
+}

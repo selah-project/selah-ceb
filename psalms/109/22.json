@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Kay pobre ug nagkinahanglan ako, ug ang akong kasingkasing nasamad sulod ⟨sa⟩ ako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "pobre"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug nagkinahanglan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ug ang akong kasingkasing"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nasamad"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "sulod sa ako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.383664433Z",
+  "model": "glm-5.3"
+}

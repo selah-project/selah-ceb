@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ang adlaw ug ang bulan nagitom ⟨na⟩, ug ang mga bituon naghilom sa ilang kahayag.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Ang adlaw"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ug ang bulan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "nagitom ⟨na⟩"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "ug ang mga bituon"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "naghilom"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "sa ilang kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T21:52:28.655500239Z",
+  "model": "glm-5.3"
+}

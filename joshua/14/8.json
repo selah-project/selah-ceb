@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Apan ang akong mga igsoon nga mitaas uban kanako napatunaw ang ⟨את⟩ kasingkasing sa katawhan; apan ako nagsunod sa tibuok ni Yahweh nga akong Elohim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "Apan ang akong mga igsoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "mitaas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "uban kanako"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "napatunaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kasingkasing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "apan ako"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "nagsunod sa tibuok"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sa sunod ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "nga akong Elohim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:01:37.954765821Z",
+  "model": "glm-5.3"
+}

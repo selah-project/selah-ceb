@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug ang tanang mincha sa saserdote bug-os nga ⟨mahimong⟩ pasigon; dili kan-on.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ug ang tanang"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "sa saserdote"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "bug-os"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨mahimong⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kan-on"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:59.596031221Z",
+  "model": "glm-5.3"
+}

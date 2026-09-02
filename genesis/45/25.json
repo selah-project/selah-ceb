@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 45,
+  "translation": "Nangagd sila gikan sa Mitsrayim ug miabot sa yuta sa Kenaan, ngadto kang Yaakov nga ilang amahan.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "nangagd sila"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto kang"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ilang amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:48.620222048Z",
+  "model": "glm-5.3"
+}

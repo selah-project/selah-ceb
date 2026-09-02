@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Nangguba si Yahweh sa sungkod sa mga dautan, ang setro sa mga manIMALAD (mga manedehado).",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "nangguba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sungkod"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa mga dautan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "setro"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "sa mga manedehado"
+    }
+  ],
+  "timestamp": "2026-09-01T20:59:06.259115693Z",
+  "model": "glm-5.3"
+}

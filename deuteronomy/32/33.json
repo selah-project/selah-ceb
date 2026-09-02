@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ang hilo sa mga tanin mao ang ilang bino, ug ang mapintas nga gahamo sa mga bitin.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "hilo"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "mga tanin"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ilang bino"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ug ang gahamo"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "mga bitin"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "mapintas"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:42.667067473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ang ilang bunga papahilon mo gikan sa yuta, ug ang ilang binhi gikan sa mga anak ni Adam ⟨tawo⟩.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "Ang ilang bunga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "papahilon mo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ug ang ilang binhi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gikan sa mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam ⟨tawo⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:48.880763569Z",
+  "model": "glm-5.3"
+}

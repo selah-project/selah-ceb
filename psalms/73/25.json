@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Kinsa ang ⟨naa⟩ kanako sa langit? Ug uban Kanimo, walay gipangandoy ako sa yuta.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kinsa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ug uban Kanimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "gipangandoy ko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:15.398081508Z",
+  "model": "glm-5.3"
+}

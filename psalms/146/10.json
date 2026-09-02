@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 146,
+  "translation": "Maghari si Yahweh hangtod sa kahangturan — ang imong Elohim, O Tsiyon — sukad sa henerasyon ngadto sa henerasyon. Pagdayeg kamo kang Yah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Maghari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ang imong Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "O Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sukad sa henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngadto sa henerasyon"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:43.591097090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang mga ngabil sa mga maalam nagwaswas sa kahibalo, apan ang kasingkasing sa mga ulok dili ⟨ingon niana⟩.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "sa mga maalam"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "nagwaswas"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "apan ang kasingkasing"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "sa mga ulok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨ingon niana⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:00.421757695Z",
+  "model": "glm-5.3"
+}

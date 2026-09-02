@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Gidasma nako sila ug wala na sila makabangon, nahulog sila ilalom sa akong mga tiil.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Gidasma nako sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala na"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "sila makabangon"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bangon"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "nahulog sila"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ilalom sa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "akong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:57.623172034Z",
+  "model": "glm-5.3"
+}

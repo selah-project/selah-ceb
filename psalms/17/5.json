@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Gipalig-on ⟨ang⟩ akong mga lakang sa imong mga agianan; ang akong mga tiil dili gayod matuyang.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Gipalig-on"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "akong mga lakang"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "sa imong mga agianan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili gayod"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "matuyang"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ang akong mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:59.176007221Z",
+  "model": "glm-5.3"
+}

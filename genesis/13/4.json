@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ngadto sa dapit sa halaran nga iyang gihimo didto sa una; ug didto gitawag si Avram sa ngalan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ngadto sa"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "dapit"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sa halaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gihimo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "sa una"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug gitawag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "si Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sa ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:30.411978958Z",
+  "model": "glm-5.3"
+}

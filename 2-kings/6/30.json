@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug nahitabo, sa pagkadungog sa hari ⟨את⟩ sa mga pulong sa babaye, gikapkap niya ⟨את⟩ iyang mga bisti samtang siya nagtabok sa kabanikanhan; ug nakita sa mga tawo, ug ania karon, ang sako diha sa iyang unod sa sulod ⟨sa bisti⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sa pagkadungog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa mga pulong sa babaye"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "sa babaye"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "gikapkap niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang mga bisti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iyang mga bisti"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ug siya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nagtabok"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "kabanikanhan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ug nakita"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa mga tawo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "השק",
+      "gloss": "ang sako"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha sa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "iyang unod"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "sa sulod"
+    }
+  ],
+  "timestamp": "2026-09-01T20:48:58.083814134Z",
+  "model": "glm-5.3"
+}

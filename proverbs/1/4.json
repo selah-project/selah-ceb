@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "aron sa paghatag sa kaalam-pagtukmod ngadto sa mga yano-ng-salaag, sa paghatag sa kahibalo ug sa maayong paghubad ngadto sa batan-ong lalaki —",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "aron sa paghatag"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ngadto sa mga yano-ng-salaag"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "kaalam-pagtukmod"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ngadto sa batan-ong lalaki"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ug maayong paghubad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:37.297648900Z",
+  "model": "glm-5.3"
+}

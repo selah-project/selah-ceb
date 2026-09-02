@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Sa nagbuhat sa mga langit pinaagi sa kaalam, kay sa kahangtin ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "sa nagbuhat"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "piraagi sa kaalam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "sa kahangtin"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:48.444282020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 143,
+  "translation": "Ug ayaw pag-adto sa paghukom ⟨את⟩ sa imong sulugoon, kay walay mahimong matarong sa atubangan mo ang tanan nga buhi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ug ayaw"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "pag-adto"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong sulugoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulugoon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "walay"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "mahimong matarong"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sa atubangan mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan nga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:26.259430325Z",
+  "model": "glm-5.3"
+}

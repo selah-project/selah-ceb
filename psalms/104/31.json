@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Mahimong ⟨karon⟩ ang himaya ni Yahweh hangtod sa kahangtoran; magmalipayon si Yahweh sa iyang mga buhat.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Mahimong"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ang himaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtoran"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "magmalipayon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "sa iyang mga buhat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:59.959799494Z",
+  "model": "glm-5.3"
+}

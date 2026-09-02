@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug nakita sa babayi si ⟨את⟩ Shemuel, ug misiyagit siya ug tingog nga dako; ug nagsulti ang babayi kang Shaul, nga nagaingon: Ngano imo kong gitimo? Ug ikaw si Shaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "si Shemuel"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "misiyagit"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ug tingog"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "dako"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug nagsulti"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ang babayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "imo kong gitimo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ug ikaw"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:05.295025583Z",
+  "model": "glm-5.3"
+}

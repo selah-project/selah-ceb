@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Mobalik sila sa pagkagabii, mangahol sila sama sa iro, ug molibot sila sa ⟨kalibotan sa⟩ dakbayan.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mobalik sila"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "sa pagkagabii"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "mangahol sila"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "sama sa iro"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ug molibot sila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:53.340439429Z",
+  "model": "glm-5.3"
+}

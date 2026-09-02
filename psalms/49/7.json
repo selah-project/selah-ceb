@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Sila nga nanalig sa ilang kabaskog, ug nagpasigarbo sa kadaghan sa ilang bahandi —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "nga nanalig"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ilang kabaskog"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "ug sa kadaghan"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ilang bahandi"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "nagpasigarbo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:52.894643690Z",
+  "model": "glm-5.3"
+}

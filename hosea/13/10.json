@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Asa man karon ang imong hari, aron maluwas ka niya sa tanan nimong mga dakbayan? Ug ang imong mga maghuhukom, nga imong gisulti: Ihatag kanako ug hari ug mga punoan?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "ang imong hari"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "man karon"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "aron maluwas ka niya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "nimong mga dakbayan"
+    },
+    {
+      "surface": "וושפטיך",
+      "gloss": "Ug ang imong mga maghuhukom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "imong gisulti"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ug hari"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ug mga punoan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:47.575794825Z",
+  "model": "glm-5.3"
+}

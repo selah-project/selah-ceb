@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Sa pagdala sa mangoa bahin sa Ninive: ang libro sa panan-awon ni Nakhum ang taga-Elkosh.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "pagdala sa mangoa"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "libro"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "panan-awon"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Nakhum"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "taga-Elkosh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:57:29.011209711Z",
+  "model": "glm-5.3"
+}

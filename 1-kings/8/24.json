@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Nagabantay Ka sa alang sa imong sulugoon kang David akong amahan ⟨את⟩ sa gimna nga imong gisulti kaniya; imong gisulti uban sa imong baba, ug uban sa imong kamot imong gihatag ang katumanan, ingon sa adlaw nga karon.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "Nagabantay Ka"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "sa imong sulugoon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kang David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa gimna nga imong gisulti kaniya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "imong gisulti"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ug imong gisulti"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "uban sa imong baba"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ug uban sa imong kamot"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "imong gihatag ang katumanan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa adlaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "nga karon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:40:50.492518771Z",
+  "model": "glm-5.3"
+}

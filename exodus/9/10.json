@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gikuha nila ⟨את⟩ ang abok sa hurnohan, ug nagtindog sila atubang ni Paro, ug gisabwag ni Moshe ⟨את⟩ kini padong sa kahangturan sa langit, ug nahitabo ang hubag — mga ampupula, nga moubong — sa tawo ug sa hayop.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ug gikuha nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang abok sa hurnohan"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "ang abok"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "sa hurnohan"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ug nagtindog sila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang ni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ug gisabwag ni Moshe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ kini",
+      "marks": "kini (ang abok)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "padong sa langit"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ug nahitabo ang"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "hubag"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "mga ampupula"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "nga moubong"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "ug sa hayop"
+    }
+  ],
+  "timestamp": "2026-09-01T19:07:22.525177994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Pag-abli sa akong mga mata ⟨aron⟩ ako makatan-aw sa mga katingalahan gikan sa imong Tora.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Pag-abli"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "akong mga mata"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ako makatan-aw"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mga katingalahan"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "gikan sa imong Tora"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:25.327794336Z",
+  "model": "glm-5.3"
+}

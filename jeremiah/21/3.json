@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug miingon si Yirmeyahu kanila: Ingon ninyo kang Tsidkiyahu:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ingon ninyo"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "ingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:31.169363907Z",
+  "model": "glm-5.3"
+}

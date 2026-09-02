@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Kay matarong si Yahweh; ang katarungan gihigugma niya; ang matul-id makakita sa iyang nawong.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "matarong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ang katarungan"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "gihigugma niya"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ang matul-id"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "makakita"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sa iyang nawong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.908939109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 103,
+  "translation": "Kay ang hangin molabay kaniya ug wala na siya; ug ang iyang dapit dili na siya ilaila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ang hangin"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "molabay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "ug wala na siya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili na"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "siya ilaila"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ang iyang dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:04.852115418Z",
+  "model": "glm-5.3"
+}

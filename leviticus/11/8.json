@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Sa ilang unod ayaw kinyong mokaon, ug sa ilahang minatay ayaw kinyo paghikap; dili sila hinlo alang kaninyo.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "sa ilang unod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kinyong mokaon"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ug sa ilahang minatay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "kinyo paghikap"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "dili hinlo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "sila"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:02.653152178Z",
+  "model": "glm-5.3"
+}

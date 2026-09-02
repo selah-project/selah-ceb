@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 72,
+  "translation": "Molului siya sa ⟨ubos⟩ sa kabus ug sa mingaw, ug ang mga kalag sa mga mingaw iya nga luwason.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "molului siya"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ubos⟩ sa"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kabus"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug sa mingaw"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ug ang mga kalag"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "sa mga mingaw"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "iya nga luwason"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.659274795Z",
+  "model": "glm-5.3"
+}

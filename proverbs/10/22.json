@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Ang panalangin ni Yahweh — kini ang magapadato, ug wala ⟨siya⟩ magadugang ug kaguol uban niini.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kini"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "magapadato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "magadugang"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "kaguol"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "uban niini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:15.762707051Z",
+  "model": "glm-5.3"
+}

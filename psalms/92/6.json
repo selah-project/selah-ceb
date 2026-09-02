@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "Unsa kadako ang imong mga buhat, Yahweh; kaayo ka lawom ang imong mga hunahuna.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Unsa kadako"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "kadako"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ang imong mga buhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ka lawom"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ang imong mga hunahuna"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:19.759347820Z",
+  "model": "glm-5.3"
+}

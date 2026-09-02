@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug miabot si Yehu sa Yizreel, ug nakadungog si Izevel, ug nagbutang siya ug kolorete sa iyang mga mata, ug nag-ayos sa iyang ulo, ug nagtan-aw ⟨את⟩ sa iyang ulo pinaagi sa bintana.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Ug miabot"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "si Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "sa Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "ug si Izevel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "nakadungog"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "ug nagbutang"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "ug kolorete"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "sa iyang mga mata"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "ug nag-ayos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang ulo"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "sa iyang ulo"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "ug nagtan-aw"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "quinaagi"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "sa bintana"
+    }
+  ],
+  "timestamp": "2026-09-01T20:49:17.544880982Z",
+  "model": "glm-5.3"
+}

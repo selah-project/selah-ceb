@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Mitabok ingon sa tambok ang ilang kasingkasing; ako, sa imong balaod, nakapahimutang ⟨ako⟩.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "mitabok"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "ingon sa tambok"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ang ilang kasingkasing"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sa imong balaod"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "nakapahimutang"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:12.630106308Z",
+  "model": "glm-5.3"
+}

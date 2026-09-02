@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa karaang panahon nahibalo ako sa imong mga pagsaksi; kay ngadto sa kahangturan imong ⟨kining⟩ gipatindog sila.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "sa karaang panahon"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nahibalo ako"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "sa imong mga pagsaksi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngadto sa kahangturan"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "imong gipatindog sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:51.545578145Z",
+  "model": "glm-5.3"
+}

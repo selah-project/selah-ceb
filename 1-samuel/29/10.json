@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug karon banguna ka sa buntag, ikaw ug ang mga sulugoon sa imong agalon nga minganhi kauban ⟨את⟩ nimo; ug pagbangun ninyo sa buntag, ug kung may kahayag na ⟨nga⟩ alang kaninyo, panaw kamo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "banguna ka ugaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ug ang mga sulugoon"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "sa imong agalon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "באו",
+      "gloss": "nga minganhi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "kauban ⟨את⟩ nimo",
+      "marks": "kauban nimo"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ug pagbangun ninyo ugaga"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ug kung may kahayag"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ug panaw kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:08.428342458Z",
+  "model": "glm-5.3"
+}

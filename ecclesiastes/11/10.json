@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": " ug hawa ang kasuko gikan sa imong kasingkasing, ug pagpahawa sa daotan gikan sa imong lawas; kay ang pagkabata ug ang ka Batan-on hevel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "ug hawa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ang kasuko"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "gikan sa imong kasingkasing"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "ug pagpahawa sa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ang daotan"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "gikan sa imong lawas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "ang pagkabata"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "ug ang ka Batan-on"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:39.922845790Z",
+  "model": "glm-5.3"
+}

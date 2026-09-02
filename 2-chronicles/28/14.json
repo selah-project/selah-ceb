@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Unya gipabiya sa mga armado ⟨את⟩ ang mga bihag ug ⟨את⟩ ang sinakop atubangan sa mga pangulo ug sa tibuok katilingban.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "gipabiya"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "sa mga armado"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga bihag"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "ang mga bihag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang sinakop"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "ang sinakop"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan sa"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mga pangulo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug sa tibuok"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "katilingban"
+    }
+  ],
+  "timestamp": "2026-09-01T23:26:31.386824847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 20:8",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug sa tabok sa Yarden, sa sidlakan sa Yerikho, gihatag nila ⟨את⟩ ang Betser sa kamingawan, sa patag, gikan sa tribo sa Reuven, ug ⟨את⟩ ang Ramot sa Gilad gikan sa tribo sa Gad, ug ⟨את⟩ ang Golan sa Bashan gikan sa tribo sa Menashsheh.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "Ug sa tabok"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "sa Yarden"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "sa Yerikho"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "sa sidlakan"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "gihatag nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Betser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ang Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sa kamingawan"
+    },
+    {
+      "surface": "במישר",
+      "gloss": "sa patag"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "gikan sa tribo"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "sa Reuven"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Ramot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "ang Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "sa Gilad"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "gikan sa tribo"
+    },
+    {
+      "surface": "גד",
+      "gloss": "sa Gad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Golan"
+    },
+    {
+      "surface": "גלון",
+      "gloss": "ang Golan"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "sa Bashan"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "gikan sa tribo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "sa Menashsheh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:04:02.302087352Z",
+  "model": "glm-5.3"
+}

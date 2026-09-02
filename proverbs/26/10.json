@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Dako ⟨ang⟩ Naghimo sa tanan, apan ang mag-sundog ug kesil (buang) ug mag-sundog ug mga molabay — ⟨pareha nga kaulaw⟩.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Dako"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "Naghimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ug mag-sundog"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ug kesil (buang)"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ug mag-sundog"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ug mga molabay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:33:55.390710344Z",
+  "model": "glm-5.3"
+}

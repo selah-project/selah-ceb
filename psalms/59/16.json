@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "Kini sila magpanuroy aron mokaon; kon dili sila mabusog, magapanagtungha sila sa tibuok gabii.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "kini sila"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "magpanuroy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "aron mokaon"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sila mabusog"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "magapanagtungha sila sa tibuok gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:09.052846446Z",
+  "model": "glm-5.3"
+}

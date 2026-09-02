@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay ang ilang mga tiil modagan ⟨ngadto⟩ sa daotan, ug maggaliod sila sa pag-usik ug dugo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ilang mga tiil"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "modagan"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "maggaliod"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "sa pag-usik"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ugo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:32.279558822Z",
+  "model": "glm-5.3"
+}

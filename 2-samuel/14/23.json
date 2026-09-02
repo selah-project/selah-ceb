@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 14,
+  "translation": "Ug mitindog si Yoav ug milakat ngadto sa Geshur, ug gidala niya ⟨את⟩ si Avshalom ngadto sa Yerushalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "si Yoav"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ug milakat"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ngadto sa Geshur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug gidala niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "si Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ngadto sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:31:54.102505406Z",
+  "model": "glm-5.3"
+}

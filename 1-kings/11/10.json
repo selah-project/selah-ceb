@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gitugmaan ⟨siya⟩ mahitungod niining butanga, nga ayaw ⟨siya⟩ molakaw human sa mga diyos nga lain; apan wala niya pagbantayan ⟨את⟩ ang gisugo ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "gitugmaan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "על",
+      "gloss": "mahitungod"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "niining butanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "nga ayaw"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "molakaw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "human"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "mga diyos"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "nga lain"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "apan wala"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "pagbantayan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gisugo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:58.278564341Z",
+  "model": "glm-5.3"
+}

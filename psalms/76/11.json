@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 76,
+  "translation": "Kay ang kaligutgut sa tawo magapahaligo kanimo; ang nahabilin nga kaligutgut ikaw magahigot ⟨sa imong hawak⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ang kaligutgut"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "magapahaligo kanimo"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ang nahabilin"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "nga kaligutgut"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "ikaw magahigot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:28.030950735Z",
+  "model": "glm-5.3"
+}

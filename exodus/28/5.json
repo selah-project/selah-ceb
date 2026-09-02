@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug kuhaon nila ⟨את⟩ ang bulawan ug ⟨את⟩ ang bughaw ug ⟨את⟩ ang purpura ug ⟨את⟩ ang eskarlata (sinulid sa ugang) ug ⟨את⟩ ang lino nga fino.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ug sila"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "kuhaon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bulawan"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ang bulawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang bughaw"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ang bughaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang purpura"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ang purpura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang eskarlata"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "sa ugang"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang eskarlata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang lino nga fino"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ang lino nga fino"
+    }
+  ],
+  "timestamp": "2026-09-01T19:14:10.074373689Z",
+  "model": "glm-5.3"
+}

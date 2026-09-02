@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 38:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 38,
+  "translation": "Sinulat ni Hizkiyahu, hari sa Yehudah, sa dihang siya masakiton ug mabuhi gikan sa iyang sakit.",
+  "tokens": [
+    {
+      "surface": "מכתב",
+      "gloss": "sinulat"
+    },
+    {
+      "surface": "לחזקיהו",
+      "gloss": "ni Hizkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "בחלתו",
+      "gloss": "sa dihang siya masakiton"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "ug mabuhi"
+    },
+    {
+      "surface": "מחליו",
+      "gloss": "gikan sa iyang sakit"
+    }
+  ],
+  "timestamp": "2026-09-01T21:04:56.326524786Z",
+  "model": "glm-5.3"
+}

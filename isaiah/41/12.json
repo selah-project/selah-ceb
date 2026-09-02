@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 41,
+  "translation": "Pangitaon nimo sila ug dili nimo sila makit-an — ang mga tawo sa imong gubat ⟨sa pagtuki⟩; mahimong ⟨sama sa⟩ wala sila ug ⟨sama sa⟩ walay bili ang mga tawo nga nakiggubat kanimo.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "pangitaon nimo sila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "nimo sila makit-an"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "sa imong gubat ⟨sa pagtuki⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong sila"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "⟨sama sa⟩ wala"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "ug ⟨sama sa⟩ walay bili"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "nga nakiggubat kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:06:28.082220485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Ania kini: ang kamatuoran imong gipalangkiton sa tinago nga sulod, ug sa tinagong bahin ang kaalam imong gipahibalo kanako.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ania kini"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ang kamatuoran"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "imong gipalangkiton"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "sa tinago nga sulod"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "ug sa tinagong bahin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "imong gipahibalo kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:56.339074184Z",
+  "model": "glm-5.3"
+}

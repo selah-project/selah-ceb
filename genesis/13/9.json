@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Wala ba ang tibuok nga yuta atubangan nimo? Pagbulaga na gikan kanako; kon ⟨sa⟩ wala, ⟨ako sa⟩ tuo, ug kon ⟨sa⟩ tuo, ⟨ako sa⟩ wala.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nga yuta"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "atubangan nimo"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Pagbulaga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "gikan kanako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "⟨sa⟩ wala"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "⟨ako sa⟩ tuo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ug kon"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "⟨sa⟩ tuo"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "⟨ako sa⟩ wala"
+    }
+  ],
+  "timestamp": "2026-09-01T18:51:05.956531688Z",
+  "model": "glm-5.3"
+}

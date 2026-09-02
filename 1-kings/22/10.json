@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ang hari sa Israel ug si Yehoshafat nga hari sa Yehuda naglingkod, ang matag usa sa iyang kaugalingong lingkoranan, nag-abay sa mga bisti, sa hawan ⟨sa gigikanan⟩ sa pultahan sa ganghaan sa Shomron; ug ang tanan nga mga propeta nangpropesiya sa atubangan nila.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ug ang hari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ug si Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nga hari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehuda"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "naglingkod"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang matag usa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "iyang lingkoranan"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "nag-abay"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "mga bisti"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "sa hawan (gigikanan)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sa pultahan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sa ganghaan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "sa Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "nga mga propeta"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "nangpropesiya"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "sa atubangan nila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:46:45.568761051Z",
+  "model": "glm-5.3"
+}

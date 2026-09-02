@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Sa pagbalik sa akong mga kaaway palikos, matumba sila ug mangawala gikan sa imong panagway.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Sa pagbalik"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "sa akong mga kaaway"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "palikos"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "matumba sila"
+    },
+    {
+      "surface": "ואאבדו",
+      "gloss": "ug mangawala"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "gikan sa imong panagway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:09.770671730Z",
+  "model": "glm-5.3"
+}

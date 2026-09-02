@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 91,
+  "translation": "Mag-ingon ako ngadto kang Yahweh: Akong kabilinanan ug akong kuta, akong Elohim, kaniya mosalig ako.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "mag-ingon ako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "akong kabilinanan"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ug akong kuta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "mosalig ako"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:35.777603595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Kanimo, Yahweh, ako nanginabuhian ⟨sa pagpangabang⟩; ayaw ako pagpahiulahi hangtod sa kahangturan.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Kanimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ako nanginabuhian ⟨sa pagpangabang⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "pagpahiulahi ako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:51.093316961Z",
+  "model": "glm-5.3"
+}

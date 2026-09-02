@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 10:22",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Pitumpay ka ⟨kalag⟩ ang mga imong kaghanikan nga manaug ngadto sa Mitsrayim, ug karon gipahimoon ka ni Yahweh nga imong Elohim nga sama sa mga bitoon sa langit sa kadaghan.",
+  "tokens": [
+    {
+      "surface": "בשבעים",
+      "gloss": "Pitumpay ka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨kalag⟩"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nga manaug"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ang mga imong kaghanikan"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ngadto sa Mitsrayim"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ug karon"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "gipahimoon ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "nga imong Elohim"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "nga sama sa mga bitoon"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa langit"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "sa kadaghan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:36.020153250Z",
+  "model": "glm-5.3"
+}

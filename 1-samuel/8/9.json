@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug karon, pamatia ang ilang tingog; apan pagtestigo ka gayod ⟨kanila⟩ ug isulti mo kanila ang balaod sa hari nga magahari sa ibabaw kanila.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ug karon"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "pamatia"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ang ilang tingog"
+    },
+    {
+      "surface": "אך",
+      "gloss": "apan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gayod"
+    },
+    {
+      "surface": "העד",
+      "gloss": "pagtestigo"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "magtestigo ka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨kanila⟩"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "ug isulti mo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ang balaod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "magahari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ibabaw kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:14:21.197059604Z",
+  "model": "glm-5.3"
+}

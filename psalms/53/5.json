@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 53,
+  "translation": "Wala ba nakaila ang mamumugno sa kadautan, nga ang mokaon sa akong katawhan nangaon ug tinapay? Si Elohim wala nila tawag.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Wala ba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nakaila"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ang mamumugno"
+    },
+    {
+      "surface": "און",
+      "gloss": "sa kadautan"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ang mokaon"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sa akong katawhan"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nangaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ug tinapay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Si Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nila tawag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:32.613505357Z",
+  "model": "glm-5.3"
+}

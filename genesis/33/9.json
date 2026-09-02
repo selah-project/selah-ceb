@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Si Esav miingno: Adunay igo na ako, igsoon; hinuoa nga imoha na ang imong bahin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "miingno"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "רב",
+      "gloss": "igo na \/ daghan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "hinuoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imoha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "imong bahin"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:17.061441785Z",
+  "model": "glm-5.3"
+}

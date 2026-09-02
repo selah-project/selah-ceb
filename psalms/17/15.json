@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ako — sa pagkamatarong makit-an ko ang imong nawong; mabusbog ako, sa pagmata, sa imong hulagway.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "makit-an ko"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ang imong nawong"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "mabusbog ako"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "sa pagmata"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "sa imong hulagway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:45.572575443Z",
+  "model": "glm-5.3"
+}

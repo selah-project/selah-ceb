@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug si Dabid nianang panahona didto sa moog, ug ang garison sa mga Plisti nianang panahona didto sa Beit-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ug si Dabid"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nianang panahona"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "didto sa moog"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ug ang garison"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sa mga Plisti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nianang panahona"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "didto sa Beit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-09-01T23:13:47.711676876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug gipakiton niya ⟨את⟩ ang torre sa Pnuel, ug gipatay niya ⟨את⟩ ang mga tawo sa ⟨ang⟩ dakbayan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang torre sa Pnuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ang torre"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "sa Pnuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "gipakiton"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ug gipatay niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga tawo sa dakbayan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa ⟨ang⟩ dakbayan"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:52.196358649Z",
+  "model": "glm-5.3"
+}

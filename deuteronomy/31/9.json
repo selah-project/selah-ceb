@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ug gisulat ni Moshe ⟨את⟩ ang Torah nga kini, ug gihatod niya kini ngadto sa mga saserdote, nga mga anak ni Levi, nga magdala ⟨את⟩ sa aron sa pakigsaad ni Yahweh, ug ngadto sa tanan nga mga tigulang sa Yisrael.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "gisulat ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "nga kini"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ug gihatod niya kini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mga saserdote"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "nga magdala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakigsaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan nga"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "mga tigulang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:17.897644384Z",
+  "model": "glm-5.3"
+}

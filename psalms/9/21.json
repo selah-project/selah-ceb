@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ibutang, Yahweh, ang kahadlok ⟨kanila⟩ — mahibalo ang mga nasod nga ⟨mga⟩ tawo lamang ⟨sila⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Ibutang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ang kahadlok"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨kanila⟩"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahibalo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mga tawo lamang"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨sila⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-02T00:45:20.443045672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon si Chaggai, ang sulugon ni Yahweh, pinaagi sa sulugon ni Yahweh, ngadto sa ⟨ang⟩ katawhan, nga nagaingon: Ako anaa ⟨את⟩ kaninyo, matod ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "si Chaggai"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang sulugon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "pinaagi sa sulugon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ngadto sa katawhan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kaninyo",
+      "marks": "kaninyo (ang katawhan)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "matod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:22.660246223Z",
+  "model": "glm-5.3"
+}

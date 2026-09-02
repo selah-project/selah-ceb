@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ang akong mga pulong — ipakigngad ang imong igdulog, Yahweh; sabti ang akong paghungit-hungit ⟨nga pag-ampo⟩.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ipakigngad ang imong igdulog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "sabti"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "paghungit-hungit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:15.467202315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "ug si Benayahu nga anak ni Yehoyada ⟨nga mga) sa ibabaw sa kasundalohan; ug si Tsadok ug si Avyatar, mga padi;",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "ug si Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "anak"
+    },
+    {
+      "surface": "יְהוֹיָדָע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "kasundalohan"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ug si Tsadok"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ug si Avyatar"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mga padi"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:27.658523778Z",
+  "model": "glm-5.3"
+}

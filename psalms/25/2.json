@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 25,
+  "translation": "Elohim ko, kanimo ako nagsalig; ayaw ako pagpaulaw, ayaw pagpahigayon ang akong mga kaaway ⟨kanako⟩.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nagsalig ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "pagpaulaw ako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "pagpahigayon"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ang akong mga kaaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:29.091847312Z",
+  "model": "glm-5.3"
+}

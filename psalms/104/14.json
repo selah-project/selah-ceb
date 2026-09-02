@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Nagpatubo ⟨siya⟩ sa balili alang sa mga kahayopan, ug sa mga tanom nga sagbot alang sa alagad sa tawo, aron pagagulaon ang pan gikan sa yuta.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "nagpatubo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "sa balili"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "alang sa mga kahayopan"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "ug sa mga tanom nga sagbot"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "alang sa alagad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "aron pagagulaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ang pan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:23.272619699Z",
+  "model": "glm-5.3"
+}

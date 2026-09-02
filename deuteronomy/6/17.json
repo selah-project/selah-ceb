@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Sa pagbantay pagbantaya ninyo ⟨את⟩ ang mga sugo ni Yahweh nga inyong Elohim, ug ang iyang mga pagsaksi ug ang iyang mga balaod, nga iyang gisugo kanimo.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "sa pagbantay"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "pagbantaya ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga sugo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ang mga sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "inyong Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "ug ang iyang mga pagsaksi"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ug ang iyang mga balaod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "gisugo kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:47:12.823629471Z",
+  "model": "glm-5.3"
+}

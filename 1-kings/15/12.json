@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ug gipahawa niya ang mga sagradong lalaki gikan sa yuta, ug gikuha niya ⟨את⟩ ang tanan nga mga diosdios nga gibuhat sa iyang mga katigulangan.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Ug gipahawa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ang mga sagradong lalaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ug gikuha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan nga mga diosdios"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "nga mga diosdios"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gibuhat"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sa iyang mga katigulangan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:43:32.012647386Z",
+  "model": "glm-5.3"
+}

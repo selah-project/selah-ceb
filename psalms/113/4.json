@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 113,
+  "translation": "Hataas ⟨si⟩ Yahweh sa ibabaw sa tanang mga nasod; sa ibabaw sa mga langit ang iyang himaya.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "hataas"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa ibabaw sa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mga langit"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ang iyang himaya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.545202124Z",
+  "model": "glm-5.3"
+}

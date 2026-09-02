@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Kay nibuklad sila sa mga giingon ni El, ug ang tambag sa Elyon ilang gitamay —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "nibuklad sila"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mga giingon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ug ang tambag"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "gitamay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:08.710164553Z",
+  "model": "glm-5.3"
+}

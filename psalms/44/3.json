@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ikaw — ang imong kamot ang mibanaw sa mga nasod ug gipatanom ⟨sila⟩; gipangguba mo ang mga katawhan ug gipapahawa sila.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ang imong kamot"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ang mga nasod"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "ang mibanaw"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "ug gipatanom ⟨sila⟩"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "gipangguba"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ang mga katawhan"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "ug gipapahawa sila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:36.993538867Z",
+  "model": "glm-5.3"
+}

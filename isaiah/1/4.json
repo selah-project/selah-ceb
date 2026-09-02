@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kaluoy sa nasod nga makasasala, katawhan nga bug-aton sa kasal-anan, kaliwatan sa mga manggubat, mga anak nga manglaglag! Gilikayan nila ⟨את⟩ si Yahweh, gibastad nila ⟨את⟩ ang Balaan sa Yisrael, milayo sila palayo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Kaluoy"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasod"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nga makasasala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "nga bug-aton"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sa kasal-anan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kaliwatan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sa mga manggubat"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "nga manglaglag"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Gilikayan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "gibastad nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Balaan sa Yisrael"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Balaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "milayo sila"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "palayo"
+    }
+  ],
+  "timestamp": "2026-09-01T20:56:26.886590026Z",
+  "model": "glm-5.3"
+}

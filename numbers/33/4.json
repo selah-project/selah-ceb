@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug ang mga taga-Mitsrayim naglubong sa ⟨את⟩ ⟨mga tawo⟩ nga gihampak ni Yahweh kanila — tanang panganay; ug sa ilang mga diyos nagbuhat si Yahweh sa mga silot.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ug ang mga taga-Mitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "naglubong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang gihampak ni Yahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "gihampak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "ug sa ilang mga diyos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nagbuhat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sa mga silot"
+    }
+  ],
+  "timestamp": "2026-09-01T19:44:27.985806335Z",
+  "model": "glm-5.3"
+}

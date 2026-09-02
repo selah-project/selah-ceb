@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 136,
+  "translation": "Kinsa natandoma kami diha sa among ubos nga kahimtang: kay hangtod sa kahangturan ang iyang hesed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "diha sa among ubos nga kahimtang"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "natandoma"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangturan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ang iyang hesed"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:52.349730727Z",
+  "model": "glm-5.3"
+}

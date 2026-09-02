@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug miingon sa ilaha ang hari sa Mitsrayim: Ngano, ikaw nga si Moshe ug si Aharon, nga nagpagawas kamo ⟨את⟩ sa katawhan gikan sa iyang mga buhat? Lakaw kamo sa inyong mga pag-angkon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "sa ilaha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ang hari sa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Ngano"
+    },
+    {
+      "surface": "משה",
+      "gloss": "si Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ug si Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "nagpagawas kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa katawhan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "gikan sa iyang mga buhat"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Lakaw kamo"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "sa inyong mga pag-angkon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:06:59.324935369Z",
+  "model": "glm-5.3"
+}

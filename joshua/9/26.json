@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug gibuhat niya kana kanila, ug giluwas niya ⟨את⟩ sila gikan sa kamot sa mga anak ni Yisrael, ug wala sila pagpatya.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ug gibuhat niya"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kana"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ug giluwas niya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila (ang mga Gibeonita)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "silang pagpatya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:59:14.359116108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sa imong mga sugo maghinunahuna ako, ug pagatan-awon ko ang imong mga agianan.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "sa imong mga sugo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "maghinunahuna ako"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ug pagatan-awon ko"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ang imong mga agianan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:24.879856462Z",
+  "model": "glm-5.3"
+}

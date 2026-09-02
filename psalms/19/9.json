@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Ang mga piqud ni Yahweh ⟨mga⟩ matul-id, nagapalipay sa kasingkasing; ang mitzvah ni Yahweh hingpit, nagahatag kahayag sa ⟨mga⟩ mata.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "mga piqud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "matul-id"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "nagapalipay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "kasingkasing"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mitzvah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "hingpit"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "nagahatag kahayag"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:47.706298939Z",
+  "model": "glm-5.3"
+}

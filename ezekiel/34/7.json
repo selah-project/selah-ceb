@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Busa, mga magbalantà, pamatii ⟨את⟩ ang pulong ni Yahweh:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mga magbalantà"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "pamatii"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pulong"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T21:43:27.884641430Z",
+  "model": "glm-5.3"
+}

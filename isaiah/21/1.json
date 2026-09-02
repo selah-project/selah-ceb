@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Mga karga mahitungod sa kamingawan sa dagat. Sama sa mga bagyo sa habagat nga molabay, ⟨kini⟩ moabut gikan sa kamingawan, gikan sa yuta nga makahahadlok.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "mga karga"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kamingawan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dagat"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "sama sa mga bagyo"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "sa habagat"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "nga molabay"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "gikan sa kamingawan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "moabut"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "gikan sa yuta"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "nga makahahadlok"
+    }
+  ],
+  "timestamp": "2026-09-01T21:00:25.536721030Z",
+  "model": "glm-5.3"
+}

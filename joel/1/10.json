@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gipillak ang uma, nagsubang ⟨ang⟩ yuta, kay gipillak ang lugas, natolo ang bag-ong bino, naluya ang lana.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "gipillak"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ang uma"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "nagsubang"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ang yuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "gipillak"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ang lugas"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "natolo"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ang bag-ong bino"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "naluya"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ang lana"
+    }
+  ],
+  "timestamp": "2026-09-01T23:42:11.311528802Z",
+  "model": "glm-5.3"
+}

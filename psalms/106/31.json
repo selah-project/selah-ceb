@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Ug giihap kini kaniya ingong pagkamatarong, ngadto sa henerasyon ug henerasyon, hangtod sa kahangtoran.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ug giihap kini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ingong pagkamatarong"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ngadto sa henerasyon"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ug henerasyon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kahangtoran"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.870291343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug ⟨את⟩ Bet-Tsur ug ⟨את⟩ Sokho ug ⟨את⟩ Adullam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Tsur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sokho"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adullam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    }
+  ],
+  "timestamp": "2026-09-01T23:21:31.698549587Z",
+  "model": "glm-5.3"
+}

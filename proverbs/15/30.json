@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Ang kahayag sa mga mata nagpahiangyon sa kasingkasing, ug ang maayong balita nagataba sa bukog.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "ang kahayag"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "nagpahiangyon"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ang balita"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "nagataba"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "sa bukog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:36.083268781Z",
+  "model": "glm-5.3"
+}

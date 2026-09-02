@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Tamar, ang iyang umagad, natawoan siya ⟨את⟩ kang Perets ug ⟨את⟩ kang Zerach — tanan nga anak ni Yehudah lima.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ug si Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ang iyang umagad"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "natawoan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "siya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "kang Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kang Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "kang Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "nga anak"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ni Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "lima"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:56.129816655Z",
+  "model": "glm-5.3"
+}

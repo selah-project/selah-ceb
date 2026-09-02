@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug si Yoktan natawo ⟨את⟩ si Almodad, ug ⟨את⟩ si Shelef, ug ⟨את⟩ si Khatsarmavet, ug ⟨את⟩ si Yerakh.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ug si Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "natawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "si Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "si Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Khatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "si Khatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yerakh"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "si Yerakh"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:32.284134916Z",
+  "model": "glm-5.3"
+}

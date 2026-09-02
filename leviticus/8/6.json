@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug giduol ni Moshe ⟨את⟩ si Aharon ug ⟨את⟩ ang iyang mga anak, ug gilaba niya ⟨את⟩ sila sa tubig.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ug giduol"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "si Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga anak"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ang iyang mga anak"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ug gilaba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila"
+    },
+    {
+      "surface": "במים",
+      "gloss": "sa tubig"
+    }
+  ],
+  "timestamp": "2026-09-01T19:24:11.824492304Z",
+  "model": "glm-5.3"
+}

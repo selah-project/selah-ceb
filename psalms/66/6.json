@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 66,
+  "translation": "Giyabyag niya ang dagat ngadto sa uga nga yuta; sa suba naglabang sila sa tiil; didto nagmalipayon kami diha kaniya.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Giyabyag niya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ang dagat"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ngadto sa uga nga yuta"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "sa suba"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "naglabang sila"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "sa tiil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "didto"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "nagmalipayon kami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "diha kaniya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:44.828517884Z",
+  "model": "glm-5.3"
+}

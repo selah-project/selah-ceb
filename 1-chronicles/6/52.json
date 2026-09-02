@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug gihatag ngadto kanila ⟨את⟩ ang mga dakbayan sa pagtago: ⟨את⟩ ang Shekhem ug ⟨את⟩ ang iyang mga pastulan sa bukid sa Efrayim, ug ⟨את⟩ ang Gezer ug ⟨את⟩ ang iyang mga pastulan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ug gihatag"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dakbayan sa pagtago"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mga dakbayan"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "sa pagtago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ang Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga pastulan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga pastulan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ang Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang iyang mga pastulan"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ang iyang mga pastulan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:10:29.121292519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Unsaon pagkahimo nila nga kagun-oban, ingon sa usa ka kalayra! Natapos na sila, nahanaw na sila tungod sa mga katalagman.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Unsaon"
+    },
+    {
+      "surface": "היו",
+      "gloss": "pagkahimo nila"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "nga kagun-oban"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ingon sa usa ka kalayra"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "Natapos na sila"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "nahanaw na sila"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tungod sa"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "mga katalagman"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:11.087303483Z",
+  "model": "glm-5.3"
+}

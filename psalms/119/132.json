@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Lingihi ako ug kaloy-i ako, sumala sa imong batasan ngadto sa mga nahigugma sa imong Ngalan.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "lingihi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ug kaloy-i ako"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "sumala sa imong batasan"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sa mga nahigugma"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong Ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:08.752499227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 110,
+  "translation": "Nanumpa si Yahweh ug dili siya magbasol: Ikaw ⟨ang⟩ pari hangtod sa kahangtoran sumala sa tulumanon ni Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Nanumpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "magbasol"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ikaw"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "pari"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hangtod sa kahangtoran"
+    },
+    {
+      "surface": "על",
+      "gloss": "sumala sa"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tulumanon"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:27.609588173Z",
+  "model": "glm-5.3"
+}

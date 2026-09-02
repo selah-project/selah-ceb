@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug mihatag ug sugo si Yahweh Elohim ngadto sa tawo, nga nag-ingon: Sa tanang kahoy sa tanaman mahimo ka gayod nga mokaon.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ug mihatag ug sugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Sa tanang"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "sa tanaman"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mahimo ka gayod nga mokaon"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:15.563160115Z",
+  "model": "glm-5.3"
+}

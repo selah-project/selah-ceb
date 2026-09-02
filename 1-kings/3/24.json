@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon ang hari: Pagdala ⟨kanako⟩ og espada; ug gidala nila ang espada atubang sa hari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "pagdala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨kanako⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "og espada"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ug gidala nila"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ang espada"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:16.779338777Z",
+  "model": "glm-5.3"
+}

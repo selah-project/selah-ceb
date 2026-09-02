@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Mobangon si Elohim, masamsam ⟨ang⟩ mga kaaway niya, ug molayas ang mga nagadumili kaniya gikan sa atubangan niya.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "mobangon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "si Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "masamsam"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "mga kaaway niya"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ug molayas"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "mga nagadumili kaniya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "gikan sa atubangan niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:53.681910468Z",
+  "model": "glm-5.3"
+}

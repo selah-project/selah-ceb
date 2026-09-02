@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang mga pulong sa mga daotan nagsilon alang sa pagbubo sa dugo, apan ang baba sa mga matarong magaluwas kanila.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga daotan"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "nagsilon"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dugo"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "apan ang baba"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mga matarong"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "magaluwas kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:15.832899100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Gibuhos nila ang ilang dugo ingon tubig palibot sa Yerushalayim, ug walay maglubong ⟨kanila⟩.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "gibuhos nila"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ang ilang dugo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ingon tubig"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "palibot"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "maglubong"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:17.397494156Z",
+  "model": "glm-5.3"
+}

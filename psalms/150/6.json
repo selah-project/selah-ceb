@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 150,
+  "translation": "Tanang may gininhawa mo pagdayeg kang Yah; pagdayeg kamo kang Yah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Tanang"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "may gininhawa"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "mo pagdayeg"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "pagdayeg kamo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kang Yah"
+    }
+  ],
+  "timestamp": "2026-09-02T00:35:24.429751147Z",
+  "model": "glm-5.3"
+}

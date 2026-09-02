@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug miingon siya kaniya: Ihatag kanako ug panalangin, kay yuta sa Negev ang imong gihatag kanako; ihatag usab kanako ug mga tinubdan sa tubig. Ug gihatagan siya ni Kalev ⟨את⟩ sa mga tinubdan sa itaas ug ⟨את⟩ sa mga tinubdan sa ubos.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "miingon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Ihatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "panalangin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "sa Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "imong gihatag kanako"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ihatag usab"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mga tinubdan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gihatagan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "siya"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga tinubdan sa itaas"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mga tinubdan"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "sa itaas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "mga tinubdan sa ubos"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "mga tinubdan"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "sa ubos"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:13.759749211Z",
+  "model": "glm-5.3"
+}

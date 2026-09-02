@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nagrebelde ang Moab batok sa Israel pagkahuman sa kamatayon ni Ahab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "Ug nagrebelde"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ang Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "batok sa Israel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "pagkahuman"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kamatayon"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ni Ahab"
+    }
+  ],
+  "timestamp": "2026-09-01T20:47:21.419920496Z",
+  "model": "glm-5.3"
+}

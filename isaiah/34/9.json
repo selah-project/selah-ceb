@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Ug ang iyang mga sapa mahimong ⟨mga⟩ dagta, ug ang iyang abug mahimong asupre, ug ang iyang yuta mahimong dagta nga nagadilaab.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "ang iyang mga sapa"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "nga dagta"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ug ang iyang abug"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "nga asupre"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ang iyang yuta"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "nga dagta"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "nga nagadilaab"
+    }
+  ],
+  "timestamp": "2026-09-01T21:05:00.494273064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Reuven, panganay ni Yisrael: mga anak ni Reuven — Khanokh, sa banay sa mga Khanokhi; kang Palu, sa banay sa mga Palui.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "panganay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanokh"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banay"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "mga Khanokhi"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "kang Palu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "banay"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "mga Palui"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:00.612265462Z",
+  "model": "glm-5.3"
+}

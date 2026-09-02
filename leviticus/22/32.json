@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug ayaw ninyo paglapawa ⟨את⟩ ang akong balaang ngalan, ug pagabalaanon ako sa taliwala sa mga anak ni Yisrael; ako si Yahweh, ang nagabalaan kaninyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug ayaw"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ninyo paglapawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong balaang ngalan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ngalan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ang akong balaan"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "ug pagabalaanon ako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ang nagabalaan kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:38.133817197Z",
+  "model": "glm-5.3"
+}

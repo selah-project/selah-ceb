@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 79,
+  "translation": "Ayaw paghunahuna sa among mga sala sa una unta; daliona pag-abot sa imong mga kalooy kanamo, kay among ka dungganan kaayo kami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "paghunahuna"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sa among \/ kanamo"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "mga sala"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "sa una"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "daliona"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "pag-abot kanamo"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ang imong mga kalooy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kadungganan kaayo kami"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "dungganan kaayo kami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:10.947741480Z",
+  "model": "glm-5.3"
+}

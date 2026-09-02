@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Gipatindog sa mga anak ni Gad ⟨את⟩ ang Dibon, ug ⟨את⟩ ang Atarot, ug ⟨את⟩ ang Aroer.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "gipatindog"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ni Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "Aroer"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-09-01T19:43:21.209652224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug gipagula niya ⟨את⟩ ang anak nga lalaki sa hari, ug gibutang niya kaniya ⟨את⟩ ang purpurang korona ug ⟨את⟩ ang pagpamatuod; ug gihari nila siya ug gidihogan nila siya, ug nagpalakpak sila ug miingon: Mabuhi ang hari!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "ug gipagula niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang anak nga lalaki sa hari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ang anak nga lalaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa hari"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gibutang niya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang purpurang korona"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "ang purpurang korona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang pagpamatuod"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ang pagpamatuod"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "ug gihari nila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "ug gidihogan nila siya"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ug nagpalakpak"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sa palad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Mabuhi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    }
+  ],
+  "timestamp": "2026-09-01T20:50:59.434298248Z",
+  "model": "glm-5.3"
+}

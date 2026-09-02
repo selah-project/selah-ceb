@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Kahalangdon ug kadungganan ang iyang buhat, ug ang iyang pagkamatarong nagbarog ⟨hangtod⟩ sa kahangtura.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Kahalangdon"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ug kadungganan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ang iyang buhat"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ug ang iyang pagkamatarong"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "sa kahangtura"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:30.225185556Z",
+  "model": "glm-5.3"
+}

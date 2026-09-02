@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Nahitabo kini, sa pagkadungog ni haring Khizkiyahu, ug gikisi niya ⟨את⟩ iyang mga bisti, ug gitabonan niya ang iyang kaugalingon ug sako, ug misulod siya sa balay ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Nahitabo kini"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "sa pagkadungog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ug gikisi niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iyang mga bisti"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "iyang mga bisti"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ug gitabonan niya ang iyang kaugalingon"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ug sako"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ug misulod siya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:53:45.031791445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ni kang David. Hukmi ako, Yahweh, kay ako naglakaw sa akong kinatinawan, ug kang Yahweh ako nagpasalig — dili ako ⟨magkilát⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ni kang David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Hukmi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ako"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "sa akong kinatinawan"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ug kang Yahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ako nagpasalig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "magkilát"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:48.851536887Z",
+  "model": "glm-5.3"
+}

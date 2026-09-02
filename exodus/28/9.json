@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Ug kuhaon nimo ⟨את⟩ ang duha ka bato sa shoham, ug ukiton nimo sa ilang ibabaw ang mga ngalan sa mga anak ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ug kuhaon nimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang duha ka bato sa shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ang duha ka"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "bato"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "sa shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ug ukiton nimo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "sa ilang ibabaw"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ang mga ngalan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T19:13:35.019321431Z",
+  "model": "glm-5.3"
+}

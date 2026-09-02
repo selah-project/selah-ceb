@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug kini mao ang tora sa balay sa shelmim nga ihalad ngadto kang Yahweh.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tora"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sa balay [sa hinalad]"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa shelmim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ihalad"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngadto kang Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:22:05.863348938Z",
+  "model": "glm-5.3"
+}

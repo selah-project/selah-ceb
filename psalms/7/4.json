@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Yahweh, ⟨ang⟩ akong Elohim, kung nakabuhat ako niini, kung adunay kadaotan sa akong mga kamot —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "akong Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nakabuhat ako"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "niini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kung"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "עול",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "sa akong mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:42.714531561Z",
+  "model": "glm-5.3"
+}

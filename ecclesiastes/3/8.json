@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Panahon sa paghigugma, ug panahon sa pagdumot; panahon sa gubat, ug panahon sa kalinaw.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sa paghigugma"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sa pagdumot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "sa gubat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug panahon"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sa kalinaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:27.567730698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Kay dili hangtod sa kahangtuon kalimtan ang kawad-on; ang paglaom sa mga mubo ang duko mawala hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "hangtod sa kahangtuon"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "kalimtan"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ang kawad-on"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ang paglaom"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "sa mga mubo ang duko"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "mawala"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:37.770054366Z",
+  "model": "glm-5.3"
+}

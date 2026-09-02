@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Si Menashe ⟨את⟩ ang Efrayim, ug ang Efrayim ⟨את⟩ ang Menashe, sila magkahiusa batok sa Yehudah. Bisan niini tanan wala mobalik ang iyang nasuko nga alimpatakan, ug gilitaw pa gihapon ang iyang kamot.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Si Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ang Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ug ang Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ang Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "Bisan niini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mobalik"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ang iyang nasuko nga alimpatakan"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ug gilitaw pa gihapon"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "[gilitaw]"
+    }
+  ],
+  "timestamp": "2026-09-01T20:58:23.788711842Z",
+  "model": "glm-5.3"
+}

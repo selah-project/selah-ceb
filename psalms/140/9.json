@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Ayaw paghatag, Yahweh, sa mga tinguha sa dautan; ang iyang laraw ayaw pagpasudlon, ⟨basig⟩ sila momataas. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "paghatag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "mga tinguha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "dautan"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "laraw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "pagpasudlon"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "momataas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:57.034513699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Tinapay sa ⟨mga⟩ gamhanan ang gikaon sa matag tawo; gipadala niya kanila'g pagkaon ⟨ngadto⟩ sa kabusog.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "tinapay"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "mga gamhanan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "gikaon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "matag tawo"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "pagkaon"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gipadala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "sa kabusog"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:23.500100444Z",
+  "model": "glm-5.3"
+}

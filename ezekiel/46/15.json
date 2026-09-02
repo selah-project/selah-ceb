@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Ug igahimo nila ⟨את⟩ ang nating karnero ug ⟨את⟩ ang minchah ug ⟨את⟩ ang lana sa buntag, sa tagsabuntag — halad-nga-sinunog nga padayon.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ug igahimo nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang nating karnero"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ang nating karnero"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang minchah"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ang minchah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang lana"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ang lana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "sa tagsabuntag"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "halad-nga-sinunog"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nga padayon"
+    }
+  ],
+  "timestamp": "2026-09-01T21:48:09.786431317Z",
+  "model": "glm-5.3"
+}

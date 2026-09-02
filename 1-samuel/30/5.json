@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Ug ang duha ka asawa ni David gikabihan: si Akinoam nga taga-Yizreel, ug si Abigayil nga asawa ni Nabal nga taga-Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ug ang duha ka"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "gikabihan"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "si Akinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "nga taga-Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "ug si Abigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "nga asawa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ni Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "nga taga-Karmel"
+    }
+  ],
+  "timestamp": "2026-09-01T20:24:34.290616922Z",
+  "model": "glm-5.3"
+}

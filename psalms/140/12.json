@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 140,
+  "translation": "Ang tawo sa dila dili molungtad sa yuta; ang tawo sa kapintas ug kadaotan — modakop ⟨kaniya⟩ aron pagkapukan.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dila"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "molungtad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kapintas"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kadaotan"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "modakop"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "aron pagkapukan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:57.034962257Z",
+  "model": "glm-5.3"
+}

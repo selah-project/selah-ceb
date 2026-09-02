@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Gipakita niya kanila ⟨את⟩ ang agianan paingon sa dakbayan, ug gigisi nila ⟨את⟩ ang dakbayan sa ngipon sa espada; apan ⟨ang⟩ tawo ug ⟨את⟩ ang tibuok niyang panimalay gipagawas nila.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "Gipakita niya kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang agianan paingon sa dakbayan"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ang agianan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sa dakbayan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "gigisi nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang dakbayan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ang dakbayan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sa ngipon"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sa espada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok panimalay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨ang⟩ tawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok panimalay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "panyangyaw niya \/ panimalay niya"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "gipagawas nila"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:41.275793163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 107,
+  "translation": "Gipadala niya ang iyang pulong ug giayo sila niini, ug giluwas sila gikan sa ilang mga kapildihan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Gipadala niya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ang iyang pulong"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "ug giayo sila"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ug giluwas sila"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "gikan sa ilang mga kapildihan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:44.421699949Z",
+  "model": "glm-5.3"
+}

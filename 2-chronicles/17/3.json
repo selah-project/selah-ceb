@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug si Yahweh ⟨ang⟩ uban kang Yehoshaphat, kay naglakaw siya sa mga unang dalan ni David nga iyang amahan, ug wala siya mangita sa mga Baal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ug si Yahweh — nahitabo nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "uban kang"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "naglakaw"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "sa mga dalan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nga iyang amahan"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "mga unang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mangita"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "sa mga Baal"
+    }
+  ],
+  "timestamp": "2026-09-02T00:48:27.608522411Z",
+  "model": "glm-5.3"
+}

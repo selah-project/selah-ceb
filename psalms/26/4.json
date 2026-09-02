@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Wala ako molingkod kauban ang mga tawo sa kawalay-puliki, ug kauban ang mga tago-on ⟨nga mga tawo⟩ dili ako moadto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ako molingkod"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ang mga tawo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "sa kawalay-puliki"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ug kauban"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ang mga tago-on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ako moadto"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:48.852046981Z",
+  "model": "glm-5.3"
+}

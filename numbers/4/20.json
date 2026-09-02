@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug dili sila mosulod sa pagtan-aw, bisan sa kadiyot, sa ⟨את⟩ sa balaan nga butang, aron dili sila mamatay.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "sila mosulod"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "sa pagtan-aw"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "bisan sa kadiyot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa balaan nga butang"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sa balaan nga butang"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "aron dili sila mamatay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:33:01.551680366Z",
+  "model": "glm-5.3"
+}

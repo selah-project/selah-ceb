@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug miduol ang Pelishtiy sa buntag ug sa gabii, ug mitindog ⟨siya⟩ sulod sa kapatan nga kawad-on ka adlaw.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "miduol"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ang Pelishtiy"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ug sa gabii"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ug mitindog"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "kapatan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ka adlaw"
+    }
+  ],
+  "timestamp": "2026-09-02T00:57:28.719496041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Ug ang tanan nga maalam sa kasingkasing kaninyo, moduol sila ug himoon nila ⟨את⟩ ang tanan nga gisugo ni Yahweh:",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ug ang tanan nga"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "maalam"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "moduol sila"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ug himoon nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tanan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gisugo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:16:00.376315107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ayaw pagpadulong nga maulaw ⟨ang⟩ gipugngan, ⟨ang⟩ kabus ug ang panginahanglanon magdayeg sa imong ngalan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "magpadulong"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ang gipugngan"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "maulaw"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ang kabus"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug ang panginahanglanon"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "magdayeg"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sa imong ngalan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:22.861550350Z",
+  "model": "glm-5.3"
+}

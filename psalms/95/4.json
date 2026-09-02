@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 95,
+  "translation": "Nga sa iyang kamot ang mga kinatumyan sa paggukot sa yuta, ug ang mga tumoy sa kabukiran iya.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "sa iyang kamot"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "mga kinatumyan sa paggukot"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "mga tumoy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa kabukiran"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:19:18.654693445Z",
+  "model": "glm-5.3"
+}

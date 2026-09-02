@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Alang sa tanan ⟨naay⟩ takna, ug usa ka panahon alang sa matag kagustuhan sa ubos sa mga langit.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "alang sa tanan"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "takna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ug usa ka panahon"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "alang sa matag"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kagustuhan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ubos"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:49.250180950Z",
+  "model": "glm-5.3"
+}

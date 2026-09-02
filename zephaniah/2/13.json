@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug iya nga iunat ang iyang kamot batok sa amihanan, ug pagalaglagon niya ⟨את⟩ ang Ashur, ug igahimo niya ⟨את⟩ ang Ninweh nga kamingawan, nga mamala sama sa kamingawan.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ugiya nga iunat"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "על",
+      "gloss": "batok sa"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "amihanan"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ug pagalaglagon niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ang Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ug igahimo niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Ninweh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ang Ninweh"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "nga kamingawan"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "nga mamala"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "sama sa kamingawan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:58:43.441629773Z",
+  "model": "glm-5.3"
+}

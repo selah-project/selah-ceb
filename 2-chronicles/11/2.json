@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug miabot ang pulong ni Yahweh kang Shemayahu, tawo sa ⟨mga⟩ Elohim, nga nagaingon:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "miabot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ang pulong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Shemayahu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa ⟨mga⟩ Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    }
+  ],
+  "timestamp": "2026-09-01T23:22:47.454682367Z",
+  "model": "glm-5.3"
+}

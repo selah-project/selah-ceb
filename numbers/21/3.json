@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Ug gaminati ni Yahweh ang tingog sa Yisrael, ug gihatod niya ⟨את⟩ ang Kanaanhon, ug giherem nila ⟨את⟩ sila ug ⟨את⟩ ang ilang mga dakbayan; ug ginganlan ang ngalan sa maong dapit og Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ug gaminati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ang tingog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatod niya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang Kanaanhon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ang Kanaanhon"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "ug giherem nila"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "sila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang ilang mga dakbayan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ang ilang mga dakbayan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ug ginganlan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "sa maong dapit"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "og Horma"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:25.092969408Z",
+  "model": "glm-5.3"
+}

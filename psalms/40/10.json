@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Nagpahibalo ako sa pagkamatarong diha sa dakong katigomnan; ania karon, ang akong mga ngabil dili nako hingtang, Yahweh, ikaw nakasayod.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "nagpahibalo ako"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "diha sa katigomnan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dakong"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ania karon"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ang akong mga ngabil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "hingtang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nakasayod"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:09.729831296Z",
+  "model": "glm-5.3"
+}

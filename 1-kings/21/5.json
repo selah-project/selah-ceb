@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 21,
+  "translation": "Unya miduol kaniya si Izebel, iyang asawa, ug nagsulti kaniya: Unsa kini? Ngano nga nangahas ang imong ginhawa ug ngano nga wala ka mokaon ug pan?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "miduol kaniya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "si Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "iyang asawa"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "nagsulti kaniya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Unsa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "imong ginhawa"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "nangahas"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "ngano nga wala ka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ug pan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:45:55.758484164Z",
+  "model": "glm-5.3"
+}

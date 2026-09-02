@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 44,
+  "translation": "Ug miingon ang among amahan: Balik kamo, ug magpalit kamo alang kanamo og diyutay nga pagkaon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug miingon"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ang among amahan"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Balik kamo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "magpalit kamo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "alang kanamo"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "diyutay"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nga pagkaon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:03:28.109195506Z",
+  "model": "glm-5.3"
+}

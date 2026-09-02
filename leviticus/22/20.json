@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Bisan unsa nga adunay sayop niini, ayaw ninyo kining ihalad, kay dili ⟨kini⟩ madawat alang kaninyo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bisanssa unsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "מום",
+      "gloss": "sayop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ninyo ihalad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "madawat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:28:12.104246269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Hinumdomi ang tora ni Moshe, akong sulugoon, nga akong gisugo kaniya ⟨את⟩ sa Horeb alang sa tibuok Israel — ⟨mga⟩ balaod ug mga paghukom.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Hinumdomi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ang tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "akong sulugoon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "akisugo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "kaniya (si Moshe)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "sa Horeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tibuok"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "balaod"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ug mga paghukom"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:09.120866690Z",
+  "model": "glm-5.3"
+}

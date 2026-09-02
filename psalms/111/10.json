@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 111,
+  "translation": "Ang sinugdan sa kaalam mao ang kahadlok kang Yahweh; maayong sabat ⟨kang⟩ tanan nga nagatuman niini; ang iyang pagdayeg nagbarog hangtod sa dayon.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "sinugdan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "kahadlok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "sabat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "maayong"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kang tanan"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nagatuman niini"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ang iyang pagdayeg"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "nagbarog"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "hangtod sa dayon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:56.218019336Z",
+  "model": "glm-5.3"
+}

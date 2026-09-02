@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 134,
+  "translation": "{Awit sa mga Pag-angsak} Ania kamo, pagpanalangin kamo ⟨את⟩ Yahweh, tanang mga sulugoon ni Yahweh, nga nagatindog sa balay ni Yahweh sa mga gabii —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Awit"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa mga Pag-angsak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ania kamo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "pagpanalangin kamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mga sulugoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "nga nagatindog"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "sa mga gabii"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:36.891001941Z",
+  "model": "glm-5.3"
+}

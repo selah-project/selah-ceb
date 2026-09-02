@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Gikan sa kinatumyan sa mga langit ang iyang paggawas, ug ang iyang ikot hangtod sa ilang mga kinatumyan; ug walay ntago gikan sa iyang kainit.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Gikan sa kinatumyan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa mga langit"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ang iyang paggawas"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ug ang iyang ikot"
+    },
+    {
+      "surface": "על",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "sa ilang mga kinatumyan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ug walay"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "ntago"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "gikan sa iyang kainit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:49.290089870Z",
+  "model": "glm-5.3"
+}

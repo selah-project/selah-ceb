@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 92,
+  "translation": "⟨Pagtugtog⟩ sa napulo ka huyong, ug ⟨pagtugtog⟩ sa nabel (instrumentong may higot), ⟨pagtugtog⟩ sa hinagibanng tingog uban sa kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "⟨pagtugtog⟩ sa"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "napulo ka huyong"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ug ⟨pagtugtog⟩ sa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabel (instrumentong may higot)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨pagtugtog⟩ sa"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "hinagibanng tingog"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "uban sa kinor"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:57.248787337Z",
+  "model": "glm-5.3"
+}

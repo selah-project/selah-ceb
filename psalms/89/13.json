@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "⟨Ang⟩ amihanan ug ⟨ang⟩ habagatan ikaw ang naghimo ⟨kanila⟩; ang Tabor ug ang Hermon mag-awit sa ngalan mo.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "amihanan"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ug habagatan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ikaw"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "naghimo"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "ug Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sa ngalan mo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mag-awit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:17:54.096370213Z",
+  "model": "glm-5.3"
+}

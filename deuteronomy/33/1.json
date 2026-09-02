@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Ug kini mao ang panalangin nga gipanalanginan ni Moshe, tawo sa Elohim, sa ⟨את⟩ mga anak ni Yisrael, atubangan sa iyang kamatayon.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ug kini"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ang panalangin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "gipanalanginan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ni Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tawo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sa Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga anak ni Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubangan"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sa iyang kamatayon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:56:19.541979397Z",
+  "model": "glm-5.3"
+}

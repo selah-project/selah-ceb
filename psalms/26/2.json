@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Sulayi ako, Yahweh, ug panulayi ako; tunawi ang akong mga kidney ⟨nga tagipusuon⟩ ug ang akong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Sulayi ako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ug panulayi ako"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "tunawi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ang akong mga kidney"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ug ang akong kasingkasing"
+    }
+  ],
+  "timestamp": "2026-09-01T22:07:48.851780374Z",
+  "model": "glm-5.3"
+}

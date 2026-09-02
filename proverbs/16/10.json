@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ang orakulo ⟨anaa⟩ sa mga ngabil sa hari; sa paghukom ang iyang baba dili magluib.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "orakulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mga ngabil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sa paghukom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "magluib"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ang iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T22:31:11.602441939Z",
+  "model": "glm-5.3"
+}

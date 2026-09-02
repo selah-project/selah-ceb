@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug si Yahweh nagpadayag ⟨את⟩ sa dungog ni Shemuel usa ka adlaw sa wala pa ang pag-abot ni Shaul, nga nag-ingon:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ug si Yahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "nagpadayag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa dungog ni Shemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "dungog"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ni Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usa ka adlaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ang pag-abot"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ni Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nag-ingon"
+    }
+  ],
+  "timestamp": "2026-09-01T20:16:21.171697079Z",
+  "model": "glm-5.3"
+}

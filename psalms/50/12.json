@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 50,
+  "translation": "Kon maggutum ako, dili ako magasulti kanimo; kay kanako ⟨ang⟩ kalibutan ug ang kapunoan niini.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kon"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "maggutum ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "magasulti ako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kalibutan"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ug ang kapunoan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T22:10:58.804833781Z",
+  "model": "glm-5.3"
+}

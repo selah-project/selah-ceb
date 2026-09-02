@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Miabot ang mga sugo ug — ania kini — ang mga terafim ⟨ang⟩ sa higaan, ug ang habol nga buhok sa mga kambing sa ulohan niini.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Miabot"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ang mga sugo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug — ania kini"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ang mga terafim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "higaan"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "ug ang habol"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "sa mga kambing"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "sa ulohan niini"
+    }
+  ],
+  "timestamp": "2026-09-01T20:21:17.284681209Z",
+  "model": "glm-5.3"
+}

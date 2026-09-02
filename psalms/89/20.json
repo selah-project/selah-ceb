@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 89,
+  "translation": "Kadto nimo gisulti sa panuldon ngadto sa imong mga maadtoon, ug nimo gisulti: Gipahimutang ko ug tabang ibabaw sa usa ka manggugubat, gipatindog ko ang usa ka pinili gikan sa ⟨mga⟩ tawo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "kadto"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "nimo gisulti"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "sa panuldon"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "ngadto sa imong mga maadtoon"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ug nimo gisulti"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "gipahimutang ko"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ug tabang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "usa ka manggugubat"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "gipatindog ko"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ang usa ka pinili"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "gikan sa tawo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:16.649003121Z",
+  "model": "glm-5.3"
+}

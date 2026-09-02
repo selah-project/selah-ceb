@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 26:23",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ang mga anak ni Yissaskar sumala sa ilang mga pamilya: kang Tola, ang pamilya sa mga Tolanhon; kang Puva, ang pamilya sa mga Punanhon.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga pamilya"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "pamilya"
+    },
+    {
+      "surface": "התולעי",
+      "gloss": "mga Tolanhon"
+    },
+    {
+      "surface": "לפוה",
+      "gloss": "kang Puva"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "pamilya"
+    },
+    {
+      "surface": "הפוני",
+      "gloss": "mga Punanhon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:41:09.690657379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ngadto sa mga balaan nga ⟨mga⟩ anaa sa yuta — sila; ug sa mga mahal sa tanan nga akong kagustohan anaa kanila.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Ngadto sa mga balaan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "anaa sa yuta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ug sa mga mahal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa tanan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "akong kagustohan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:07.048396339Z",
+  "model": "glm-5.3"
+}

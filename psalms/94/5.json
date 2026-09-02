@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 94,
+  "translation": "Ang imong katawohan, o Yahweh, gipanglapyahan nila ⟨⟨kini⟩⟩, ug ang imong kabilin gipanglupig nila.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ang imong katawohan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Yahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "gipanglapyahan nila"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ug ang imong kabilin"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "gipanglupig nila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:18:45.331094422Z",
+  "model": "glm-5.3"
+}

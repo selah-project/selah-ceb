@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Bisan ang kangit-it dili makangit-it gikan Kanimo, ug ang gabii ingon sa adlaw mosildang; ingon sa kangit-it, mao usab ang kahayag ⟨Kanimo⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Bisan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ang kangit-it"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "makangit-it"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan Kanimo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ug ang gabii"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "ingon sa adlaw"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "mosildang"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ingon sa kangit-it"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "mao usab ang kahayag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:45:16.994772043Z",
+  "model": "glm-5.3"
+}

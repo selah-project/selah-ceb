@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 125,
+  "translation": "Kay dili mopahulay ang tungkod sa kadaot diha sa bahin sa mga matarong, aron ang mga matarong dili magpadala sa ilang mga kamot ngadto sa kadaot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "mopahulay"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ang tungkod"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sa kadaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "diha sa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "bahin (sorteo)"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "sa mga matarong"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aron"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "magpadala"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ang mga matarong"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ngadto sa kadaot"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ang ilang mga kamot"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:15.390520509Z",
+  "model": "glm-5.3"
+}

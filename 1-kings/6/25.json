@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug napulo ka siko ang ikaduhang kerub — usa ka sukod ug usa ka porma alang sa duha ka kerub.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "napulo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ka siko"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ang kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ang ikaduhang"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "sukod"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "ug porma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "alang sa duha"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerub"
+    }
+  ],
+  "timestamp": "2026-09-01T20:39:23.907733746Z",
+  "model": "glm-5.3"
+}

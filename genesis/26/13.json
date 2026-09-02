@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug ang tawo nagdako, ug nagpadayon ⟨siya⟩ sa pag-adto, nagkadako pa, hangtod nga nadako siya pag-ayo gayod.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "nagdako"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nagpadayon sa pag-adto"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nagpadayon"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "nagkadako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod nga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nadako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "pag-ayo gayod"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:28.880451389Z",
+  "model": "glm-5.3"
+}

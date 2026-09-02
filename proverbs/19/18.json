@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 19,
+  "translation": "Himsuli ang imong anak kay adunay ⟨paglaom⟩, ug ngadto sa pagpatay kaniya ayaw ipataas ang imong kalag.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Himsuli"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ang imong anak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יש",
+      "gloss": "adunay"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "paglaom"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "pagpatay kaniya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ipataas"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ang imong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:32:44.272461666Z",
+  "model": "glm-5.3"
+}

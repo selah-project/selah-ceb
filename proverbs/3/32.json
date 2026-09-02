@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Kay kakasilag ni Yahweh ⟨ang⟩ tawo nga mipahisalaag, apan ⟨את⟩ ang matul-idon iyang tinagong lagda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "kakasilag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "tawo nga mipahisalaag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "apan ⟨את⟩",
+      "marks": "ang matul-idon"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ang matul-idon"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "iyang tinagong lagda"
+    }
+  ],
+  "timestamp": "2026-09-01T22:28:26.764637861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 52,
+  "translation": "Gihigugma mo ang kadaot ⟨kaysa⟩ sa maayo, ⟨ug ang⟩ bakak ⟨kaysa⟩ sa pagsulti sa pagkamatarong. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ghihigugma mo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ang kadaot"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kaysa sa maayo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ang bakak"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kaysa sa pagsulti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sa pagkamatarong"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:30.712171967Z",
+  "model": "glm-5.3"
+}

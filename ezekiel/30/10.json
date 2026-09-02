@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 30,
+  "translation": "Mao kini ang giingon ni Adonay Yahweh: Pasaboton ko ⟨ang⟩ panon ni Mitsrayim pinaagi sa kamot ni Nevukhadre'tsar, hari sa Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Mao kini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ni Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "Pasaboton ko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panon ni Mitsrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "panon"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ni Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pinaagi sa kamot"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ni Nevukhadre'tsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:42:00.933310382Z",
+  "model": "glm-5.3"
+}

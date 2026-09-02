@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Maayo ang kaalam kauban ang panulondon, ug labaw pa kini alang sa mga nagatan-aw sa adlaw.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Maayo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ang kaalam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kauban"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ang panulondon"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ug labaw pa"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "alang sa mga nagatan-aw"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sa adlaw"
+    }
+  ],
+  "timestamp": "2026-09-01T22:51:41.993809063Z",
+  "model": "glm-5.3"
+}

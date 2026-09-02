@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Nangagi si Yaakov sa kapatagan sa Aram, ug si Yisrael nag-alagad tungod sa usa ka asawa, ug tungod sa usa ka asawa nagbantay siya.",
+  "tokens": [
+    {
+      "surface": "וברח",
+      "gloss": "nangagi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "si Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ug nag-alagad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "si Yisrael"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "tungod sa usa ka asawa"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "ug tungod sa usa ka asawa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay siya"
+    }
+  ],
+  "timestamp": "2026-09-01T21:50:25.108813413Z",
+  "model": "glm-5.3"
+}

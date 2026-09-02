@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "Apan kon dili kamo maminaw kanamo sa pagtuli,.atong kuhaon ⟨את⟩ among anak nga babaye ug molakaw kami.\"",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Apan kon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "kamo maminaw"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kanamo"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "sa pagtuli"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": ".atong kuhaon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "among anak nga babaye"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "among anak nga babaye"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "ug molakaw kami"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:38.963761453Z",
+  "model": "glm-5.3"
+}

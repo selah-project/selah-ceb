@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 56,
+  "translation": "Nagpabilin sa pagtago sila, nagpanago sila, nagbantay sila sa akong tikod, ingon sa ilang paghulat sa akong kalag.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "nagpabilin sa pagtago"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "nagpanago"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "akong tikod"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ingon sa"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "paghulat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "akong kalag"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:13.126260508Z",
+  "model": "glm-5.3"
+}

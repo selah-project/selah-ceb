@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 55,
+  "translation": "Tagda ako ug tubga ako; nagasuroy-suroy ako sa akong hinagiban ug magaingon ug kusog.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "tagda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ako"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ug tubga ako"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "nagasuroy-suroy ako"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "sa akong hinagiban"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "magaingon ug kusog"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:31.545616599Z",
+  "model": "glm-5.3"
+}

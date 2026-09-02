@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Wala sila mouyon sa akong tambag, gitamay nila ang tanan ⟨nga⟩ akong pagsaway.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Wala"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "sila mouyon"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "sa akong tambag"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "gitamay nila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "akong pagsaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:27:51.206630251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 32,
+  "translation": "Ingon niini ang giingon ni Sancherib, hari sa Ashur: Sa unsa man kamo nagasalig, nga nagapuyo kamo ⟨sa sulud⟩ sa pangulkop sa Yerushalayim?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ingon niini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ang giingon"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "ni Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "sa Ashur"
+    },
+    {
+      "surface": "על",
+      "gloss": "Sa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "unsa man"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "nagasalig"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "nga nagapuyo"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "sa pangulkop"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "sa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-01T23:28:52.198548451Z",
+  "model": "glm-5.3"
+}

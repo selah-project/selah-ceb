@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Ug nadungog ni Shemuël ⟨את⟩ tanan nga mga pulong sa katawhan, ug gisulti niya kini sa mga dalunggan ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nadungog ni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanan nga mga pulong sa katawhan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mga pulong"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa katawhan"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ug gisulti niya kini"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "sa mga dalunggan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:13:51.011129819Z",
+  "model": "glm-5.3"
+}

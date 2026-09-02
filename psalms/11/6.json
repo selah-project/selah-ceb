@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Magapaning ulan ⟨sa⟩ mga dautan: mga silot, kalayo ug asupre, ug hangin nga mabuga — ⟨kini ang⟩ bahin sa ilang kopa.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Magapaning ulan"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mga dautan"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mga silot"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kalayo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "ug asupre"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ug hangin"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "nga mabuga"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "⟨kini ang⟩ bahin"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "sa ilang kopa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:05:01.908749753Z",
+  "model": "glm-5.3"
+}

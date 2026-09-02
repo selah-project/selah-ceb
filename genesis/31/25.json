@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Gidakop ni Lavan si Yaakov ⟨את⟩, ug si Yaakov nagbugkos sa iyang tolda sa bukid, ug si Lavan nagbugkos sa ⟨את⟩ ang iyang mga igsoon sa bukid sa Gilad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "Gidakop"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ug si Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nagbugkos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolda"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "tolda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ug si Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nagbugkos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mga igsoon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mga igsoon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "sa bukid"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-01T18:57:58.758039011Z",
+  "model": "glm-5.3"
+}

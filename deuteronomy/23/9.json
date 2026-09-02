@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 23,
+  "translation": "Ang mga anak nga ⟨mga anak⟩ nga katawo kanila sa ikatulong henerasyon mosulod ⟨sulod⟩ kanila sa katiguman ni Yahweh.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "katawo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "דור",
+      "gloss": "henerasyon"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ikatulong"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mosulod"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katiguman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T19:52:41.996906460Z",
+  "model": "glm-5.3"
+}

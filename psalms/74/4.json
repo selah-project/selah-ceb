@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Nagtuok ang imong mga kaaway sa taliwala sa imong katigymahan; ilang gipahimutang ang ilang mga timaila ⟨ingon⟩ nga mga timaila.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Nagtuok"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ang imong mga kaaway"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "sa taliwala"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "sa imong katigymahan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ilang gipahimutang"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ang ilang mga timaila"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "mga timaila"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:02.661169183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "Ug milabaw ang kinaadman ni Shelomoh sa kinaadman sa tanang mga anak sa sidlakan, ug sa tanang kinaadman sa Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ug milabaw"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ang kinaadman"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ni Shelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "sa kinaadman sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sidlakan"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "ug sa tanang"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "kinaadman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-01T20:38:26.305229842Z",
+  "model": "glm-5.3"
+}

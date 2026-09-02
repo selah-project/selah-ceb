@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 8,
+  "translation": "Gipamando nimo siya sa ⟨mga⟩ buhat sa imong mga kamot; ⟨ang⟩ tanan imong gipahimutang sa ilalom sa iyang mga tiil.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Gipamando nimo siya"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "sa ⟨mga⟩ buhat"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "sa imong mga kamot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanan"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "imong gipahimutang"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "sa ilalom"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sa iyang mga tiil"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:34.549960180Z",
+  "model": "glm-5.3"
+}

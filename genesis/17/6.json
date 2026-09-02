@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "ug pahunahunaon ko ikaw ⟨את⟩ sa hilabihang kaayo, ug ihimo ko ikaw ngadto sa mga nasod, ug mga hari gikan kanimo manggawas.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "ug pahunahunaon ko ikaw"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sa hilabihang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kaayo"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ug ihimo ko ikaw"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ngadto sa mga nasod"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ug mga hari"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "gikan kanimo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "manggawas"
+    }
+  ],
+  "timestamp": "2026-09-01T18:53:02.977179302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 133,
+  "translation": "Ingon sa lana nga maayo nga nagadagayday sa ulo, nagadagayday ngadto sa barbas, ang barbas ni Aharon, nga nagadagayday ngadto sa baba sa iyang mga bisti.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Ingon sa lana"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nga maayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nagadagayday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "barbas"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "barbas"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ni Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "nagadagayday"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "sa iyang mga bisti"
+    }
+  ],
+  "timestamp": "2026-09-01T22:24:39.005501414Z",
+  "model": "glm-5.3"
+}

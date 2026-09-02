@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug moabut alang kaninyo ang panahon sa pag-ani sa trigo ⟨את⟩ ang ani sa ubas, ug ang ani sa ubas moabut ⟨את⟩ ang panahon sa pagtanum; ug mokaon kamo sa inyong tinapay hangtod sa pagkabusog, ug mopuyo kamo nga walay kahasulad sa inyong yuta.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "moabut"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "alang kaninyo"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "panahon sa pag-ani sa trigo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang ani sa ubas"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ani sa ubas"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ug ang ani sa ubas"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "moabut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang panahon sa pagtanum"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "panahon sa pagtanum"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ug mokaon kamo"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "sa inyong tinapay"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hangtod sa pagkabusog"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ug mopuyo kamo"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "nga walay kahasulad"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "sa inyong yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T19:30:48.298030718Z",
+  "model": "glm-5.3"
+}

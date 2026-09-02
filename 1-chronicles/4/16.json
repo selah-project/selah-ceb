@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug ang mga anak ni Yehalelel: Tsip, ug Tsifah, Tiryah, ug Asareel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ug ang mga anak ni"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "Yehalelel"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Tsip"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "ug Tsifah"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Tiryah"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "ug Asareel"
+    }
+  ],
+  "timestamp": "2026-09-01T23:09:44.442262887Z",
+  "model": "glm-5.3"
+}

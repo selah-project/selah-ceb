@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Ug si Khazael, hari sa Aram, naglutos ⟨את⟩ sa Israel taliwala sa tanan nga adlaw ni Yehoakhaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ug si Khazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hari"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "sa Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "naglutos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "taliwala sa tanan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nga adlaw"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "ni Yehoakhaz"
+    }
+  ],
+  "timestamp": "2026-09-01T23:38:59.965196309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Gipatangtang sa mga anak ni Yisrael ⟨את⟩ ang mga Baal ug ⟨את⟩ ang mga Ashtarot, ug gialagran nila ⟨את⟩ si Yahweh nga bugos lamang.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Gipatangtang"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ang mga Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang mga Ashtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "ang mga Ashtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ug gialagran nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "nga bugos lamang"
+    }
+  ],
+  "timestamp": "2026-09-01T23:36:30.523292280Z",
+  "model": "glm-5.3"
+}

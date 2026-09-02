@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug iyang ipadangat ang iyang kamot sa mga yuta, ug ang yuta sa Mitsrayim dili ⟨mahimo⟩ nga makalagiw.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ipadangat niya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ang iyang kamot"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "sa mga yuta"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ug ang yuta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨mahimo⟩ nga"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "makalagiw"
+    }
+  ],
+  "timestamp": "2026-09-01T23:00:08.709196606Z",
+  "model": "glm-5.3"
+}

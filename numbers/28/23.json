@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 28,
+  "translation": "Gawas sa ⟨ang⟩ olah sa buntag, nga alang sa olah nga walay hunong, buhaton ninyo ⟨את⟩ kining mga kini.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "Gawas sa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olah"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa buntag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "alang sa olah"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "nga walay hunong"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "buhaton ninyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kining mga kini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kining mga kini"
+    }
+  ],
+  "timestamp": "2026-09-01T23:34:12.406435833Z",
+  "model": "glm-5.3"
+}

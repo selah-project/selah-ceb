@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 106,
+  "translation": "Apan iyang gitan-aw ang ilang kagut-on, sa iyang pagkadungog ⟨את⟩ sa ilang pagpanawagtawag.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gitan-aw niya"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ang kagut-on"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "sa iyang pagkadungog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang pagpanawagtawag"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "sa ilang pagpanawagtawag"
+    }
+  ],
+  "timestamp": "2026-09-01T22:21:26.885120317Z",
+  "model": "glm-5.3"
+}

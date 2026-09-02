@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Umabot ⟨ang adlaw⟩ nga adlawa, ug mangguba ako ⟨sa⟩ pana sa Israel sa walog sa Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ug mahitabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nga adlawa"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ug mangguba ako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pana sa Israel"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "pana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-01T21:49:52.081804494Z",
+  "model": "glm-5.3"
+}

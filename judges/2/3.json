@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug nangingon usab ako: Dili na sila papahawaon ko gikan sa atubangan ninyo, ug sila mahimong mga tinuhok kaninyo, ug ang ilang mga elohim mahimong lansang kaninyo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ug usab"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nangingon ako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "papahawaon ko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "sila"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "gikan sa atubangan ninyo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ug mahimong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "mga tinuhok"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "ug ang ilang mga elohim"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kaninyo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lansang"
+    }
+  ],
+  "timestamp": "2026-09-01T20:05:39.195526315Z",
+  "model": "glm-5.3"
+}

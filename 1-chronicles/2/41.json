@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Ug si Shallum natawnaan ⟨את⟩ si Yekamyah, ug si Yekamyah natawnaan ⟨את⟩ si Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Ug si Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawnaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yekamyah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "si Yekamyah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ug si Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "natawnaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "si Elishama"
+    }
+  ],
+  "timestamp": "2026-09-01T23:08:14.777477189Z",
+  "model": "glm-5.3"
+}

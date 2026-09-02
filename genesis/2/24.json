@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 2,
+  "translation": "Busa magabiya ang lalaki ⟨את⟩ sa iyang amahan ug ⟨את⟩ sa iyang inahan, ug magadikit siya sa iyang asawa, ug mahimong ⟨sila⟩ usa ka unod.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Busa \/ tungod niini"
+    },
+    {
+      "surface": "כן",
+      "gloss": "busa"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "magabiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ang lalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang amahan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "iyang amahan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "sa iyang inahan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "iyang inahan"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "magadikit siya"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "sa iyang asawa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mahimong"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "usa ka unod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:16.083538633Z",
+  "model": "glm-5.3"
+}

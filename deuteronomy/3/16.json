@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug sa mga Rubeninhon ug sa mga Gadinhon gihatag ko gikan sa Gilead hangtod sa walog sa Arnon, tungatunga sa walog ug ⟨ang⟩ utlanan, ug hangtod sa Yabbok nga walog, ang utlanan sa mga anak ni Amon.",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Ug sa mga Rubeninhon"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "ug sa mga Gadinhon"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hangtod sa"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "walog"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "sa Arnon"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "tungatunga"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "sa walog"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "ug ang utlanan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ug hangtod sa"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabbok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "nga walog"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ang utlanan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sa mga anak"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ni Amon"
+    }
+  ],
+  "timestamp": "2026-09-01T19:46:10.844788521Z",
+  "model": "glm-5.3"
+}

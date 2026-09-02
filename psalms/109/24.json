@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 109,
+  "translation": "Ang akong tuhod nanguyogi tungod sa pagpuasa, ug ang akong unod nangawagtang sa tambok.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Ang akong tuhod"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "nanguyogi"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "tungod sa pagpuasa"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ug ang akong unod"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "nangawagtang"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "sa tambok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:22:06.383955975Z",
+  "model": "glm-5.3"
+}

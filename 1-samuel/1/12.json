@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug nahitabo, samtang siya nagdugay sa pag-ampo atubang ni Yahweh, nga si Eli nagbantay ⟨את⟩ sa iyang baba.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ug nahitabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "samtang"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "nagdugay"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "sa pag-ampo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ug si Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa iyang baba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sa iyang baba"
+    }
+  ],
+  "timestamp": "2026-09-01T20:12:57.085569269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug mahimo siya ingon nga kahoy nga gitanom tupad sa mga sapa sa tubig, nga nagahatag sa iyang bunga sa iyang panahon, ug ang iyang dahon dili malaya; ug ang tanan nga iyang buhaton molambo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ug mahimo"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ingon nga kahoy"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "gitanom"
+    },
+    {
+      "surface": "על",
+      "gloss": "tupad"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "sa mga sapa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa tubig"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ang iyang bunga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nagahatag"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "sa iyang panahon"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ug ang iyang dahon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "malaya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ug ang tanan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "iyang buhaton"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "molambo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:03:58.581234297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Ug gihatag ni Elohim ⟨את⟩ sila sa raqia sa ⟨mga⟩ langit sa paghatag kahayag ibabaw sa yuta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ug gihatag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ sila",
+      "marks": "mga suga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "sa raqia"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "sa ⟨mga⟩ langit"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "sa paghatag kahayag"
+    },
+    {
+      "surface": "על",
+      "gloss": "ibabaw sa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T18:47:06.789169690Z",
+  "model": "glm-5.3"
+}

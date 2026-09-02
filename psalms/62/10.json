@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 62,
+  "translation": "Sa pagkamatuod, hinaway ⟨ang⟩ mga anak ni Adam, bakak ⟨ang⟩ mga anak sa tawo; sa mga timbangan sa pag-alsa, sila nga magkahiusa gaan sa hinaway.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sa pagkamatuod"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hinaway"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "sa mga timbangan"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "sa pag-alsa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "sila"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "sa hinaway"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    }
+  ],
+  "timestamp": "2026-09-01T22:13:33.982753312Z",
+  "model": "glm-5.3"
+}

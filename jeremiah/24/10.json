@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Ug padad-on ko batok kanila ⟨את⟩ ang pinuti, ⟨את⟩ ang kagutom, ug ⟨את⟩ ang pestilensiya, hangtod mawala sila gikan sa yutang gihatag ko ngadto kanila ug ngadto sa ilang mga amahan.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ug padad-on ko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "batok kanila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang pinuti"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ang pinuti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kagutom"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ang kagutom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang pestilensiya"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ang pestilensiya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hangtod"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "mawala sila"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "gikan sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yutang"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gihatag ko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngadto kanila"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "ug ngadto sa ilang mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:21:45.395766254Z",
+  "model": "glm-5.3"
+}

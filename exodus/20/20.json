@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug si Moshe miingon sa katawhan: Ayaw kamo kahadlok, kay aron sa pagtilaw sa inyo ⟨moabot⟩ ang Elohim, ug aron ang iyang kahadlok anaa atubang sa inyong mga nawong, aron dili kini maka sala kamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ug si Moshe miingon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "katawhan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ayaw"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "kamo kahadlok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "aron sa"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "pagtilaw"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sa inyo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨moabot⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ug aron"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "anaa"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ang iyang kahadlok"
+    },
+    {
+      "surface": "על",
+      "gloss": "atubang"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "sa inyong mga nawong"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "maka sala kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:11:06.274305085Z",
+  "model": "glm-5.3"
+}

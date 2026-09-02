@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ang aron ni Yahweh nagpabilin sa balay ni Oved-Edom nga taga-Gat sulod sa tulo ka bulan, ug gipanalanginan ni Yahweh ⟨את⟩ si Oved-Edom ug ⟨את⟩ ang tibuok niyang panimalay.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nagpabilin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Ang aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved-Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ni Oved-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "nga taga-Gat"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tulo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ka bulan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ug gipanalanginan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "si Obed-Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "si Obed-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang tibuok niyang panimalay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibuok"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "niyang panimalay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:05.315543416Z",
+  "model": "glm-5.3"
+}

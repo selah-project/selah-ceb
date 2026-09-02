@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 13,
+  "translation": "Pinaagi lang sa pagkamataudawhon ⟨adunay⟩ panaglalis; apan ⟨kauban sa⟩ ⟨את⟩ mga nagtambayayong sa paghunahuna ⟨adunay⟩ kaalam.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lang"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "sa pagkamataudawhon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "⟨adunay⟩"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "panaglalis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mga nagtambayayong sa paghunahuna"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "mga nagtambayayong sa paghunahuna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    }
+  ],
+  "timestamp": "2026-09-01T22:30:03.415294015Z",
+  "model": "glm-5.3"
+}

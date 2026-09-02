@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 104,
+  "translation": "Pagtago niya sa iyang panagway, mangguba sila; kuhaon niya ang ilang gininhawa, mamatay sila, ug ngadto sa ilang abo sila mobalik.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "Pagtago niya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sa iyang panagway"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "mangguba sila"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "kuhaon niya"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ang ilang gininhawa"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "mamatay sila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ug ngadto sa"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "ilang abo"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "sila mobalik"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:59.959489792Z",
+  "model": "glm-5.3"
+}

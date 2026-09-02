@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Gikuha ni Elohim ⟨את⟩ ang kahayopan sa inyong amahan, ug gihatag kaniako.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "gikuha ni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahayopan"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ang kahayopan"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "sa inyong amahan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug gihatag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kaniako"
+    }
+  ],
+  "timestamp": "2026-09-01T18:58:13.762415253Z",
+  "model": "glm-5.3"
+}

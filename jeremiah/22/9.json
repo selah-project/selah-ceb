@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ug moingon sila: Tungod kay gibiyaan nila ang ⟨את⟩ pakto ni Yahweh, sa Elohim nila, ug nagluhod sila sa ubang mga elohim ug gisimba nila kini.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ug moingon sila"
+    },
+    {
+      "surface": "על",
+      "gloss": "tungod kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "gibiyaan nila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pakto"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "pakto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "sa Elohim nila"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "ug nagluhod sila"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "sa mga elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ubang"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "ug gisimba nila kini"
+    }
+  ],
+  "timestamp": "2026-09-01T21:20:58.208587330Z",
+  "model": "glm-5.3"
+}

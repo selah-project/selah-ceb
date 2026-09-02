@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 58,
+  "translation": "Sa wala pa makaila ang inyong mga kolon sa tunok nga mananangon, ⟨sa⟩ buhi ug sa nagdilaab nga kasuko siya mobaliskad niini sama sa bagyo.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "sa wala pa"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "makaila"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "ang inyong mga kolon"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "tunok nga mananangon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "sama sa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "buhi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "nagdilaab nga kasuko"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "mobaliskad niini sama sa bagyo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:15.346483621Z",
+  "model": "glm-5.3"
+}

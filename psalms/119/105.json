@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 119,
+  "translation": "Sugá ⟨ang⟩ sa ákung tiil ang imong pulong, ug kahayag alang sa ákung agianan.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "sugá"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "sa ákung tiil"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ang imong pulong"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ug kahayag"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "alang sa ákung agianan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:23:37.943668861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 39,
+  "translation": "Sumala sa ilang kahugawan ug sa ilang mga paglapas nangbuhat ako kanila ⟨את⟩, ug nagtago ako sa akong panagway gikan kanila.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "sumala sa ilang kahugawan"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "ug sa ilang mga paglapas"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nangbuhat ako"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kanila"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "ug nagtago ako"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sa akong panagway"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "gikan kanila"
+    }
+  ],
+  "timestamp": "2026-09-01T21:46:10.526564392Z",
+  "model": "glm-5.3"
+}

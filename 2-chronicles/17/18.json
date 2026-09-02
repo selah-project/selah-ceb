@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "ceb",
+  "chapter": 17,
+  "translation": "Ug sa iyang kilid si Yehozavad, ug kauban niya ang usa ka gatos ug kalim-an ug tulo ka libo ka mga andang nga nakabati alang sa gubat.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ug sa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "iyang kilid"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozavad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ug kauban niya"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "usa ka gatos"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ug kalim-an ug tulo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "libo"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "mga andang nga nakabati"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "alang sa gubat"
+    }
+  ],
+  "timestamp": "2026-09-01T23:23:09.606569820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 34,
+  "translation": "⟨את⟩ ang tambok inyong gikaon ug ⟨את⟩ ang balahibo inyonggisul-ob; ang himsog inyong gitanom sa pagpatay; apan ang kawan wala ninyo bantayan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang tambok"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ang tambok"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "inyong gikaon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang balahibo"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ang balahibo"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "inyonggisul-ob"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ang himsog"
+    },
+    {
+      "surface": "תזבחu",
+      "gloss": "inyong gitanom sa pagpatay"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ang kawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ninyo bantayan"
+    }
+  ],
+  "timestamp": "2026-09-01T21:43:52.606266574Z",
+  "model": "glm-5.3"
+}

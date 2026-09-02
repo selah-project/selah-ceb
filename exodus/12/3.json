@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Sultihi ninyo ang tibook nga katigulangan sa Yisrael, nga nagaingon: Sa ikanapulo ⟨nga adlaw⟩ niini nga bulana, kuhaon sa matag tawo ang usa ka karnero alang sa panimalay sa iyang mga amahan — usa ka karnero alang sa matag balay.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Sultihi ninyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tibook"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "katigulangan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisrael"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Sa ikanapulo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "niini nga bulana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ug kuhaon"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sa ilang kaugalingon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa matag tawo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "usa ka karnero"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "alang sa panimalay"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "sa mga amahan"
+    },
+    {
+      "surface": "שה",
+      "gloss": "usa ka karnero"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "alang sa matag balay"
+    }
+  ],
+  "timestamp": "2026-09-01T19:08:35.059230754Z",
+  "model": "glm-5.3"
+}

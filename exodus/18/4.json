@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ang ngalan sa ⟨ang⟩ usa ka ⟨anak⟩ mao ang Eli'ezer, kay ⟨siya miingon⟩: ang Elohim sa akong amahan ⟨mao⟩ ang akong tabang, ug giluwas niya ako gikan sa espada ni Paro.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ug ang ngalan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ang usa ka"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eli'ezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "sa akong amahan"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "ang akong tabang"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "ug giluwas niya ako"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "gikan sa espada"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:49.355017729Z",
+  "model": "glm-5.3"
+}

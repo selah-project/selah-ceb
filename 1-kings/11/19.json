@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Ug nakakaplag si Hadad ug grasya sa mga mata ni Paro sa pagkabang-aw, ug naghatag siya kaniya ug asawa — ⟨את⟩ ang igsoon nga babae sa iyang asawa, igsoon ni Takhpenes ⟨ang⟩ hari-nanay.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "nakakaplag"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "si Hadad"
+    },
+    {
+      "surface": "חן",
+      "gloss": "grasya"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "sa mga mata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ni Paro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sa pagkabang-aw"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ug naghatag siya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "asawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang igsoon nga babae sa iyang asawa"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "igsoon nga babae"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sa iyang asawa"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "igsoon"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ni Takhpenes"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "⟨ang⟩ hari-nanay"
+    }
+  ],
+  "timestamp": "2026-09-01T20:42:33.470294224Z",
+  "model": "glm-5.3"
+}

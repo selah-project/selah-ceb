@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 20:16",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug mingiyukiyuk kami kang Yahweh, ug nadunggan ⟨niya⟩ ang among tingog, ug gipadala ⟨niya⟩ ang usa ka mensahero ug gipagula kami gikan sa Mitsrayim; ug ania karon, kami anaa sa Kadesh, usa ka dakbayan sa kinatumyan sa imong utlanan.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "Ug mingiyukiyuk kami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ug nadunggan"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ang among tingog"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ang usa ka mensahero"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "ug gipagula kami"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "gikan sa Mitsrayim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ug ania karon"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kami"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa Kadesh"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "usa ka dakbayan"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "sa kinatumyan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "sa imong utlanan"
+    }
+  ],
+  "timestamp": "2026-09-01T19:39:47.459952183Z",
+  "model": "glm-5.3"
+}

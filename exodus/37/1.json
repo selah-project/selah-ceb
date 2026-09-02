@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Gihimo ni Betsalel ⟨את⟩ ⟨ang⟩ arka — kahoy nga shitim: duha ka siko ug usa ka half ang gitas-on niini, ug usa ka siko ug usa ka half ang gilapdon niini, ug usa ka siko ug usa ka half ang gitas-on ngadto sa kahitas-an niini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Gihimo ni"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang arka"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "kahoy"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "duha ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug usa ka half"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ang gitas-on niini"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug usa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug usa ka half"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ang gilapdon niini"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ug usa ka siko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ug usa ka half"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ang kahitas-an niini"
+    }
+  ],
+  "timestamp": "2026-09-01T19:17:53.469539214Z",
+  "model": "glm-5.3"
+}

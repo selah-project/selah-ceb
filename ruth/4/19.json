@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Ug si Chetsron natawo-an ⟨את⟩ ni Ram, ug si Ram natawo-an ⟨את⟩ ni Aminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Ug si Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ni Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ug si Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "natawo-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ni Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ni Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-01T22:47:51.851497217Z",
+  "model": "glm-5.3"
+}

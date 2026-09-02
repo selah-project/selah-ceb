@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 51,
+  "translation": "Paminawa kamo kanako, akong katawhan, ug akong nasod, kanako patalinghug kamo; kay gikan ⟨kanako⟩ ⟨את⟩ magagawas ang tora, ug ang akong hutdo alang sa kahayag sa mga katawhan sa dili madugay ipahinabo ko.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Paminawa kamo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "akong katawhan"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "ug akong nasod"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "patalinghug kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ gikan kanako",
+      "marks": "tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "magagawas"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "ug ang akong hutdo"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "alang sa kahayag"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "sa mga katawhan"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "sa dili madugay ipahinabo ko"
+    }
+  ],
+  "timestamp": "2026-09-01T21:10:26.193088575Z",
+  "model": "glm-5.3"
+}

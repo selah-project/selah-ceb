@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Hevel sa mga hevel, ingon si haKohelet, ang tanan hevel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "mga hevel"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ingon"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "si haKohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-02T01:01:51.855594838Z",
+  "model": "glm-5.3"
+}

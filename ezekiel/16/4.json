@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 16,
+  "translation": "Ug sa imong pagkatawo, sa adlaw nga gipakatawo ⟨את⟩ ikaw, wala maputol ang imong pusod-pantil, ug sa tubig wala ka hugasan ⟨alang sa paghinlo⟩, ug sa asin wala ka asinan, ug sa putos wala ka putosan.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Ug sa imong pagkatawo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sa adlaw"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "sa pagkatawo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ikaw",
+      "marks": "ikaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "maputol"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "ang imong pusod-pantil"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ug sa tubig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "ka hugasan"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "alang sa paghinlo"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "ug sa asin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "ka asinan"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "ug sa putos"
+    },
+    {
+      "surface": "לא",
+      "gloss": "wala"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "ka putosan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:41:56.077586450Z",
+  "model": "glm-5.3"
+}

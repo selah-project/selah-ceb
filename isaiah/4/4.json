@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Kon manghugas si Adonay ⟨את⟩ ang hugaw sa mga anak nga babaye sa Tsiyon, ug ⟨את⟩ ang mga dugo sa Yerushalayim pagahoon gikan sa tunga niini — pinaagi sa gininhawa sa pagtulon-an ug sa gininhawa sa pagsunog.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kon"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "manghugas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang hugaw sa mga anak nga babaye sa Tsiyon"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ang hugaw"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "sa mga anak nga babaye"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "sa Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga dugo sa Yerushalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ang mga dugo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "pagahoon"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "gikan sa tunga niini"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "pinaagi sa gininhawa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sa pagtulon-an"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ug sa gininhawa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "sa pagsunog"
+    }
+  ],
+  "timestamp": "2026-09-01T20:57:06.107579523Z",
+  "model": "glm-5.3"
+}

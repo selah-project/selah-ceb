@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 135,
+  "translation": "Nagpatay siya ug daghang mga nasod, ug nagpatay sa mga hari nga gamhanan.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "nagpatay (gihampak)"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mga nasod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "daghang"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ug nagpatay (gidaut)"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mga hari"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "nga gamhanan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:25:01.839570174Z",
+  "model": "glm-5.3"
+}

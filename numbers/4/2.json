@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 4,
+  "translation": "Pag-ihap ⟨את⟩ sa ulo sa mga anak ni Kehat, gikan sa taliwala sa mga anak ni Levi, sumala sa ilang mga banay, sumala sa balay sa ilang mga amahan.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Pag-ihap sa ulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulo sa mga anak ni Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "gikan sa taliwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga banay"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "sumala sa balay"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sa ilang mga amahan"
+    }
+  ],
+  "timestamp": "2026-09-01T23:33:28.655643446Z",
+  "model": "glm-5.3"
+}

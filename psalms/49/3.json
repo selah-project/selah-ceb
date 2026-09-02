@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 49,
+  "translation": "Ug ang mga anak ni tawo, ug ang mga anak sa tawo, magkahiusa — ang adunahan ug ang kawaws.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ni tawo (adam)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ug"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ang mga anak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa tawo (ish)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "magkahiusa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ang adunahan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ug ang kawaws"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:25.310594683Z",
+  "model": "glm-5.3"
+}

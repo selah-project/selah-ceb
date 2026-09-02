@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 74,
+  "translation": "Ibayaw ang imong mga lakang ngadto sa mga kaguba nga walay kataposan — ang tanan nga gidaot sa kaaway sa balaanong dapit.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Ibayaw"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ang imong mga lakang"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ngadto sa mga kaguba"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "nga walay kataposan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ang tanan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nga gidaot"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sa kaaway"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaanong dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:02.661055611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ug gipadala ni Yahweh ⟨את⟩ si Yerubbaal ug ⟨את⟩ si Bedan ug ⟨את⟩ si Yiftakh ug ⟨את⟩ si Shemuel, ug giluwas niya kandi gikan sa kamot sa inyong mga kaaway sa palibot, ug nagpuyo kamo sa kaligtasan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ug gipadala ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "si Yerubbaal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Yiftakh"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "si Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ug giluwas niya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kamo",
+      "marks": "kamo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "gikan sa kamot sa"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "inyong mga kaaway"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "sa palibot"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ug nagpuyo kamo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "sa kaligtasan"
+    }
+  ],
+  "timestamp": "2026-09-01T20:15:51.421229671Z",
+  "model": "glm-5.3"
+}

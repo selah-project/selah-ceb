@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 42,
+  "translation": "Ug gimatikdan ni Yosef ⟨את⟩ ang mga damgo nga iyang gingdamgo bahin kanila, ug miingon siya kanila: Mga espiya kamo, nag-anad kamo aron tan-awon ⟨את⟩ ang kahuyang sa yuta — mianhi kamo.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "gimatikdan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mga damgo"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ang mga damgo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "gingdamgo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bahin kanila"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mga espiya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kamo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aron tan-awon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang kahuyang sa yuta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ang kahuyang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "mianhi kamo"
+    }
+  ],
+  "timestamp": "2026-09-01T19:01:55.458634118Z",
+  "model": "glm-5.3"
+}

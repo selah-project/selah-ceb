@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Molanat ug ipahibalo nila ang iyang pagkamatarong ngadto sa usa ka katawhan nga matawo pa, kay gibuhat na niya ⟨kini⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Molanat"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ug ipahibalo"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ang iyang pagkamatarong"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ngadto sa katawhan"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "nga matawo pa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gbuhat na niya"
+    }
+  ],
+  "timestamp": "2026-09-01T22:06:34.253706223Z",
+  "model": "glm-5.3"
+}

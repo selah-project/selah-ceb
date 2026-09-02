@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 71,
+  "translation": "Elohim, ayaw paghalayo kanako; Elohim nako, pagdali sa akong tabang.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayaw"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "paghalayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kanako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim nako"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sa akong tabang"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "pagdali"
+    }
+  ],
+  "timestamp": "2026-09-01T22:14:28.792547267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 6,
+  "translation": "Ug wala mouyon si David nga dad-on ⟨את⟩ ang aron ni Yahweh ngadto kaniya sa dakbayan ni David; gipaubos ni David kini sa balay ni Oved-Edom nga taga-Gat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ug wala"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "mouyon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "si David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "nga dad-on"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngadto kaniya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ang aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dakbayan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "gipaubos ni David kini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa balay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ni Oved-Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ni Oved-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "nga taga-Gat"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:05.315378089Z",
+  "model": "glm-5.3"
+}

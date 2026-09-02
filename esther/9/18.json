@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 9:18",
+  "book": "esther",
+  "lang": "ceb",
+  "chapter": 9,
+  "translation": "Ug ang mga Yehudi nga anaa sa Shushan nagtinipon sa ikatloan ug tulo niini ug sa ikatloan ug upat niini, ug nagpahulay sa ikatloan ug lima niini, ug gihimo nila ⟨את⟩ kini nga adlaw nga adlaw sa pag-inom ug pagkalipay.",
+  "tokens": [
+    {
+      "surface": "והיהודיים",
+      "gloss": "Ug ang mga Yehudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "sa Shushan"
+    },
+    {
+      "surface": "נקהלו",
+      "gloss": "nagtinipon"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "sa ikatloan ug tulo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ug tulo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ובארבעה",
+      "gloss": "ug sa ikatloan ug upat"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ug upat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "ug nagpahulay"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "sa ikatloan ug lima"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ug lima"
+    },
+    {
+      "surface": "בו",
+      "gloss": "niini"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ug gihimo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kini nga adlaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "adlaw"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "sa pag-inom"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ug pagkalipay"
+    }
+  ],
+  "timestamp": "2026-09-01T22:55:22.482819074Z",
+  "model": "glm-5.3"
+}

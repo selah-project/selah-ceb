@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "ceb",
+  "chapter": 18,
+  "translation": "Ug ang Yarden nagatakod ⟨sa iyang⟩ utlanan ⟨niini⟩ sa sidlakan nga dapit — kini mao ang kabilin sa mga anak ni Binyamin sumala sa iyang mga utlanan nga naglibut, sumala sa ilang mga pamilya.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Ug ang Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "nagatakod sa utlanan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨sa iyang⟩ utlanan ⟨niini⟩"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "sa dapit sa"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sidlakan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kini"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "mao ang kabilin sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mga anak ni"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "sumala sa iyang mga utlanan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "nga naglibut"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "sumala sa ilang mga pamilya"
+    }
+  ],
+  "timestamp": "2026-09-01T20:02:21.552811192Z",
+  "model": "glm-5.3"
+}

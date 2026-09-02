@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 36,
+  "translation": "Ang mga pulong sa iyang baba ⟨mao ang⟩ kadaot ug panglimod; mihunod na siya sa pagtambong, sa pagbuhat ug maayo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ang mga pulong"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sa iyang baba"
+    },
+    {
+      "surface": "און",
+      "gloss": "kadaot"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ug panglimod"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "mihunod na siya"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "sa pagtambong"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "sa pagbuhat ug maayo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:49.898840431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 5,
+  "translation": "apan ang tawo matawo ⟨kang⟩ ⟨adunay⟩ kalisud, ug ang mga anak sa chispa nagataas sa paglupad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "sa kalisud"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "matawo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ug ang mga anak sa"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "chispa"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "nagataas"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "sa paglupad"
+    }
+  ],
+  "timestamp": "2026-09-01T22:37:00.143114793Z",
+  "model": "glm-5.3"
+}

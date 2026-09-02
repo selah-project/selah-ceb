@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 46,
+  "translation": "Busa dili kami manginghad bisan ⟨sa⟩ pagbag-o sa yuta, ug bisan sa pagkalog sa mga bukid sa kasingkasing sa mga dagat.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Busa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tungod niini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "kami manginghad"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "sa pagbag-o"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuta"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "ug bisan sa pagkalog"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "mga bukid"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sa kasingkasing"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mga dagat"
+    }
+  ],
+  "timestamp": "2026-09-01T22:11:13.224796962Z",
+  "model": "glm-5.3"
+}

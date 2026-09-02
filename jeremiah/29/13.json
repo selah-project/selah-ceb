@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 29,
+  "translation": "Ug pangitaon ninyo ako ⟨את⟩ ug makit-an ninyo, kay pangitaon ninyo ako diha sa tibuok ninyong kasingkasing.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "ug pangitaon ninyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ako"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ug makit-an ninyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "pangitaon ninyo ako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "diha sa tibuok"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "kasingkasing ninyo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:24:46.919948229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 73,
+  "translation": "Kay nag-aso ang akong kasingkasing, ug sa akong mga kidney ako gitinuslok.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "nag-aso"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ang akong kasingkasing"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ug sa akong mga kidney"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "ako gitinuslok"
+    }
+  ],
+  "timestamp": "2026-09-01T22:15:16.012050491Z",
+  "model": "glm-5.3"
+}

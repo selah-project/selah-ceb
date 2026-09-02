@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 33,
+  "translation": "Gikan sa ⟨pinuy-anan⟩ sa iyang paglingkod nagalingkod-panan-aw siya ngadto sa tanang mga pumoluyo sa yuta.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Gikan sa ⟨pinuy-anan⟩"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "sa iyang paglingkod"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "nagalingkod-panan-aw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngadto sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tanang"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mga pumoluyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:31.866596091Z",
+  "model": "glm-5.3"
+}

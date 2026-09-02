@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "Ang akong ⟨mga⟩ balaang butang gikahamub-an nimo, ug ⟨את⟩ ang akong mga Sabbath gipahamubang nimo.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "ang akong balaang butang"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "gikahamub-an nimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ang akong mga Sabbath"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ang akong mga Sabbath"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "gipahamubang nimo"
+    }
+  ],
+  "timestamp": "2026-09-01T21:39:03.436047038Z",
+  "model": "glm-5.3"
+}

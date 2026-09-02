@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 100,
+  "translation": "Hibalo kamo nga si Yahweh ⟨siya⟩ ang Elohim; siya ang naghimo kanato ug dili ⟨kita⟩ ang kaugalingon ⟨nato⟩; ⟨kita⟩ ang iyang katawhan ug ang kawan sa iyang sabsaban.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Hibalo kamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "si Yahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨siya⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ang Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ang naghimo kanato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug dili"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨kita ang kaugalingon ⟨nato⟩⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ang iyang katawhan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ug ang kawan"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "sa iyang sabsaban"
+    }
+  ],
+  "timestamp": "2026-09-01T22:20:19.481273596Z",
+  "model": "glm-5.3"
+}

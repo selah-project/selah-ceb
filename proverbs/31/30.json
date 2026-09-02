@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ceb",
+  "chapter": 31,
+  "translation": "Ang dungog ⟨ang⟩ bakak, ug ang katahum ⟨ang⟩ kanunayng walay sulod; apan ang babayi nga nahadlok kang Yahweh — kiniya siya ang pagadawaton sa pagdayeg.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "bakak"
+    },
+    {
+      "surface": "החן",
+      "gloss": "ang dungog"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "ug kanunayng walay sulod"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "ang katahum"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ang babayi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "nahadlok kang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "siya"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "pagadawoton sa pagdayeg"
+    }
+  ],
+  "timestamp": "2026-09-02T01:00:41.451703449Z",
+  "model": "glm-5.3"
+}

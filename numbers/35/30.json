@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Bisan kinsa nga mosilot ⟨sa⟩ usa ka nefesh — sumala sa sulti sa mga saksi pagatsung-an ang mamumuno ⟨את⟩; apan ang usa ka saksi dili motestigo batok sa ⟨usa ka⟩ nefesh aron mamatay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bisan kinsa"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mosilot ⟨sa⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sumala sa sulti sa"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "mga saksi"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "pagatsung-an"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang mamumuno"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ang mamumuno"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "apan ang"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "usa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "motestigo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "batok sa ⟨usa ka⟩ nefesh"
+    },
+    {
+      "surface": "למות",
+      "gloss": "aron mamatay"
+    }
+  ],
+  "timestamp": "2026-09-02T00:40:25.495307215Z",
+  "model": "glm-5.3"
+}

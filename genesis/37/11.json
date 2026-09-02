@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 37,
+  "translation": "Ug ang iyang mga igsoon nangilo kaniya, apan ang iyang amahan nagbantay ⟨את⟩ sa pulong.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "nangilo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaniya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ang iyang mga igsoon"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "apan ang iyang amahan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nagbantay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa pulong"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sa pulong"
+    }
+  ],
+  "timestamp": "2026-09-01T18:59:32.060289595Z",
+  "model": "glm-5.3"
+}

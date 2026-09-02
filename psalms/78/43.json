@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 78,
+  "translation": "Sa diha nga gibutang niya ang iyang mga timailhan sa Mitsrayim, ug ang iyang mga katingalahan sa kapatagan sa Tsoan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Sa diha nga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gibutang niya"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "sa Mitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "ang iyang mga timailhan"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "ug ang iyang mga katingalahan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sa kapatagan"
+    },
+    {
+      "surface": "צען",
+      "gloss": "sa Tsoan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:16:28.842746363Z",
+  "model": "glm-5.3"
+}

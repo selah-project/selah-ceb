@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 59,
+  "translation": "⟨Ang⟩ Elohim sa akong hesed una kanong moabot kanako; ipakita sa akong Elohim ⟨ako⟩ sa akong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim sa akong"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "una kanong moabot kanako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ipakita sa akong Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ipakita sa ako"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "sa akong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:12:53.500281832Z",
+  "model": "glm-5.3"
+}

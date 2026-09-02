@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 139,
+  "translation": "Nga naglitok nila sa imong ngalan ⟨sa⟩ daotang tumong, nagpasigarbo sa bakak ⟨mga⟩ imong mga kaaway.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "naglitok nila sa imong ngalan"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "sa daotang tumong"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nagpasigarbo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "sa bakak"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "imong mga kaaway"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:11.525508423Z",
+  "model": "glm-5.3"
+}

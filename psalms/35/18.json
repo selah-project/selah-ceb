@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 35,
+  "translation": "Magasugata ko kanimo sa dako nga katilingban, sa tumong katawohan modayeg ko kanimo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Magasugata ko kanimo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "sa katilingban"
+    },
+    {
+      "surface": "רב",
+      "gloss": "dako"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "sa katawohan"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "tumong"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "modayeg ko kanimo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:08:52.861521753Z",
+  "model": "glm-5.3"
+}

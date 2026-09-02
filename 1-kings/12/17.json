@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 12:17",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "PagkatINU, ang mga anak ni Yisrael nga nagpuyo sa mga dakbayan sa Yehudah — si Rehavam ang naghari ibabaw kanila.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "PagkatINU, ang mga anak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ni Yisrael"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "nga nagpuyo"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "sa mga dakbayan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sa Yehudah"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "naghari"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ibabaw kanila"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "si Rehavam"
+    }
+  ],
+  "timestamp": "2026-09-01T20:41:57.550945254Z",
+  "model": "glm-5.3"
+}

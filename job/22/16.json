@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 22:16",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 22,
+  "translation": "nga gipanggunit sa wala pa ang panahon, nga ang ilang pundasyon gibahaan sa gipula nga suba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "קמטו",
+      "gloss": "gipanggunit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ug wala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "panahon"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "suba"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "gipula"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "ilang pundasyon"
+    }
+  ],
+  "timestamp": "2026-09-01T22:40:51.101221855Z",
+  "model": "glm-5.3"
+}

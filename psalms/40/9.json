@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 40,
+  "translation": "Sa pagbuhat sa imong kalipay, O Elohim ko, naglipay ako, ug ang imong tora ⟨a⟩a sulod sa akong tinai.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "sa pagbuhat"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "sa imong kalipay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ko"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "naglipay ako"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ug ang imong tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "sa sulod"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "sa akong tinai"
+    }
+  ],
+  "timestamp": "2026-09-01T23:43:09.729620707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Kay sa kadaghan sa kaalam ⟨adunay⟩ kadaghan sa kasuko; ug ang nagadugang sa kahibalo nagadugang sa kasakit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "sa kadaghan sa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kaalam"
+    },
+    {
+      "surface": "רב",
+      "gloss": "kadaghan sa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kasuko"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ug ang nagadugang sa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kahibalo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "nagadugang sa"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "kasakit"
+    }
+  ],
+  "timestamp": "2026-09-01T22:50:07.265954974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Gipamalaka ang tawo nga nagsugilon kang akong amahan ⟨את⟩ nga nagaingon: Natawo kanimo usa ka anak nga lalaki, pagkalipay nga pagkalipay sa iyang buot.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Gipamalaka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ang tawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nagsugilon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kang akong amahan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "akong amahan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nga nagaingon"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Natawo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kanimo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "usa ka anak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nga lalaki"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "pagkalipay"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "nga pagkalipay sa iyang buot"
+    }
+  ],
+  "timestamp": "2026-09-01T23:40:23.766823199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ceb",
+  "chapter": 26,
+  "translation": "Ug si Abimelek naggiingon kang Yitskhak: Lakaw gikan kanamo, kay ikaw mas gamhanan na kaayo kay kanamo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "naggiingon"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "si Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kang"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitskhak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Lakaw"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "gikan kanamo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "ikaw mas gamhanan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kay kanamo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na kaayo"
+    }
+  ],
+  "timestamp": "2026-09-01T18:55:28.881172Z",
+  "model": "glm-5.3"
+}

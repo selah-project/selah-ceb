@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 68,
+  "translation": "Mga karo ni Elohim ang binulan ug libo, libolibo nga balik-balik; si Adonay anaa kanila, ingon sa Sinai, sa ⟨balaan⟩ nga ⟨dapit⟩.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "Mga karo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ni Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "binulan ug libo"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "libolibo"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "balik-balik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "si Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "anaa kanila"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ingon sa Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "sa balaan nga dapit"
+    }
+  ],
+  "timestamp": "2026-09-01T23:44:05.919858989Z",
+  "model": "glm-5.3"
+}

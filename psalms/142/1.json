@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 142,
+  "translation": "Pagtulon-an ni David, sa diha ⟨siya⟩ anaa sa lungag — usa ka pag-ampo.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Pagtulon-an"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "sa diha siya anaa"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "sa lungag"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "usa ka pag-ampo"
+    }
+  ],
+  "timestamp": "2026-09-01T22:26:14.892277898Z",
+  "model": "glm-5.3"
+}

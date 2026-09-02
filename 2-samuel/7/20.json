@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ceb",
+  "chapter": 7,
+  "translation": "Ug unsa pa ang mahimong idugang ni David sa pagsulti ngadto Kanimo? Ug ikaw, nahibalo ka ⟨את⟩ sa imong sulogoon, Adonay Yahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ug unsa pa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ang mahimong idugang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ni David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "pa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "sa pagsulti"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngadto Kanimo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ug ikaw"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nahibalo ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa imong sulogoon"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "imong sulogoon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    }
+  ],
+  "timestamp": "2026-09-01T20:29:14.007918225Z",
+  "model": "glm-5.3"
+}

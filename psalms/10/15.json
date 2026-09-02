@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ceb",
+  "chapter": 10,
+  "translation": "Pangguba ang bukton sa daotan ug sa tintohay; pangitaa ang iyang kadaotan — sa wala gayod kini makaplagan.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "pangguba"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ang bukton"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa daotan"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ug sa tintohay"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "pangitaa"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ang iyang kadaotan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "sa wala gayod"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "kini makaplagan"
+    }
+  ],
+  "timestamp": "2026-09-01T22:04:54.750467794Z",
+  "model": "glm-5.3"
+}

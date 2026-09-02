@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "ceb",
+  "chapter": 11,
+  "translation": "Nagitawag sila kanila, apan sila misulong kini paggawas sa ilang atubangan; ngadto sa mga Baal naghalad sila, ug ngadto sa mga larawan nagsunog sila ug insenso.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "nagitawag sila"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kanila"
+    },
+    {
+      "surface": "כן",
+      "gloss": "apan"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "misulong sila paggawas"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "sa ilang atubangan"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ngadto sa mga Baal"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "naghalad sila"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "ug ngadto sa mga larawan"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "nagsunog sila ug insenso"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:00.630606111Z",
+  "model": "glm-5.3"
+}

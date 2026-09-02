@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "ceb",
+  "chapter": 24,
+  "translation": "Tungod niini, sa mga dapit sa kahayag, tauhi ang Yahweh; sa mga isla sa dagat, tauhi ang ngalan ni Yahweh, Elohim ni Yisrael.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tungod"
+    },
+    {
+      "surface": "כן",
+      "gloss": "niini"
+    },
+    {
+      "surface": "בארים",
+      "gloss": "sa mga dapit"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "tauhi ang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "באיי",
+      "gloss": "sa mga isla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "sa dagat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ang ngalan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ni Yahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-01T21:02:19.813502155Z",
+  "model": "glm-5.3"
+}

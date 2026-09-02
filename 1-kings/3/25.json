@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "ceb",
+  "chapter": 3,
+  "translation": "Ug miingon ang hari: Punga ⟨את⟩ ang bata nga buhi ngadto sa duha, ug ihatag ⟨את⟩ ang katunga ngadto sa usa, ug ⟨את⟩ ang katunga ngadto sa usaha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ug miingon"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ang hari"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "punga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang bata nga buhi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ang bata"
+    },
+    {
+      "surface": "החי",
+      "gloss": "nga buhi"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ngadto sa duha"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ug ihatag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ang katunga"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ang katunga"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ngadto sa usa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ug ⟨את⟩",
+      "marks": "ang katunga"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "ang katunga"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ngadto sa usaha"
+    }
+  ],
+  "timestamp": "2026-09-01T20:37:48.104578079Z",
+  "model": "glm-5.3"
+}

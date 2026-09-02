@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ceb",
+  "chapter": 12,
+  "translation": "Ang tigpuyo ug ang sinuhulan dili mokaon ⟨niini⟩.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ang tigpuyo"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ug ang sinuhulan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mokaon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨niini⟩"
+    }
+  ],
+  "timestamp": "2026-09-02T00:55:22.369814958Z",
+  "model": "glm-5.3"
+}

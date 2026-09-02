@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ceb",
+  "chapter": 20,
+  "translation": "Ug kon ang katawhan sa yuta motago ⟨את⟩ sa ilang mga mata gikan nianang tawhana, sa iyang paghatag sa iyang kaliwat ngadto kang Molekh, aron dili siya papatyon ⟨את⟩,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ug kon"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "motago"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "motago"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ang katawhan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa yuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sa ilang mga mata"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "sa ilang mga mata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "gikan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "nianang tawhana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "nianang"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "sa iyang paghatag"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "sa iyang kaliwat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngadto kang Molekh"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aron dili"
+    },
+    {
+      "surface": "המית",
+      "gloss": "papatyon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ siya",
+      "marks": "siya"
+    }
+  ],
+  "timestamp": "2026-09-01T19:29:07.697653066Z",
+  "model": "glm-5.3"
+}

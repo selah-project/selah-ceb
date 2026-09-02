@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "ceb",
+  "chapter": 15,
+  "translation": "Magatuki-tuki ba siya ug pulong nga walay kapuslan, ug mga panulti nga walay kaayohan ⟨kanila⟩?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "magatuki-tuki"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ug pulong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "walay kapuslan"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "ug mga panulti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "dili"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "walay kaayohan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨kanila⟩"
+    }
+  ],
+  "timestamp": "2026-09-01T22:39:36.479628054Z",
+  "model": "glm-5.3"
+}

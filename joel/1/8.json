@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ceb",
+  "chapter": 1,
+  "translation": "Mag-ali ⟨ka⟩ ingon sa ulitawo nga nagbakos sa sako alang sa bana sa iyang pagkatin-od.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Mag-ali"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "ingon sa ulitawo"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "nagbakos"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sa sako"
+    },
+    {
+      "surface": "על",
+      "gloss": "alang sa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "sa iyang pagkatin-od"
+    }
+  ],
+  "timestamp": "2026-09-01T21:51:40.108479925Z",
+  "model": "glm-5.3"
+}
