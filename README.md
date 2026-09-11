@@ -50,3 +50,9 @@ Kini nga hubad abli ubos sa lisensya nga CC BY-SA 4.0. Kon kini nga buhat adunay
 ## Umari ug susiha
 
 Mga magbabasa, mga estudyante sa Hebreohanon, mga maghuhubad, kadtong nagsulti ug Binisaya sukad sa pagkabata — maayong pag-abot kaninyong tanan. Sa dili pa ka mopahibalo ug sayop o momungag pagtul-id, basaha una ang [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
