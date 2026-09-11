@@ -25,3 +25,8 @@ Kon migamit ka ug dakong modelo sa pinulongan o hubad sa makina — isulti kini 
 ## Lisensya ug pagsusi
 
 Pinaagi sa pag-amot mouyon ka nga ang tanang gidawat imantala ubos sa [CC BY-SA 4.0](LICENSE.md). Ang kasaysayan sa Git nagbilin nga abli sa rehistro ug sa mga rason. Ang mga tigsusi motandi sa mga sugyot batok sa Hebreohanon, sa mga lagda, sa mga reperensiya ug sa pagkaparehas.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
