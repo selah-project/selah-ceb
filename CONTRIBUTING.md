@@ -6,7 +6,7 @@ Salamat — nagtabang ka aron kini nga hubad mahimong mas tin-aw, mas makita, ug
 
 - Kon ang usa ka pulong nagkinahanglan ug hisgotanay, o adunay kapin sa usa ka basahonon — pag-abli ug **Issue**.
 - Kon tin-aw na ang sayop ug tin-aw usab ang tul-id — pag-abli ug **Pull request**.
-- Alang sa mga pangutana bahin sa programa o sa seguridad — [Selah Support](https://selahproject.com/support).
+- Alang sa mga pangutana bahin sa programa o sa seguridad — [Selah Support](https://s33k3r.com/learn/support).
 
 ## Mga lagda sa pag-edit sa mga file
 

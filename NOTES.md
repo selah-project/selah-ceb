@@ -72,5 +72,5 @@ re-rendered; final **misaligned 0 · stray 0 · missing 0**.
   dughan* for the breastplate; *lanot* for fiber.
 - The rails' gate specimen writes `ang` unbracketed; the corpus brackets it
   (⟨ang⟩ as a supplied article) — one ruling wanted.
-- README/CONTRIBUTING point at selahproject.com/support while LICENSE says
-  selahproject.com — the same split exists in the so and az chairs.
+- README/CONTRIBUTING point at s33k3r.com/support while LICENSE says
+  s33k3r.com — the same split exists in the so and az chairs.
